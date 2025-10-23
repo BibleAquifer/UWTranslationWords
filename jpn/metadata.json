@@ -1,0 +1,235 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Guide",
+    "resource_type": "Translation Glossary",
+    "title": "Translation Words (unfoldingWord)",
+    "aquifer_name": "キー用語 (unfoldingWord)",
+    "collection_title": "Translation Words (unfoldingWord)",
+    "short_name": "UTW",
+    "license_info": {
+      "title": "unfoldingWord® Translation Words",
+      "copyright": {
+        "dates": "2022",
+        "holder": {
+          "name": "unfoldingWord",
+          "url": "https://unfoldingword.org/utw"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    },
+    "adaptation_notice": "",
+    "resource_code": "UWTranslationWords",
+    "date_created": "2025-10-22",
+    "language": "jpn",
+    "localizations": [
+      "eng",
+      "arb",
+      "fra",
+      "hin",
+      "ind",
+      "por",
+      "spa",
+      "swh",
+      "zht"
+    ],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-22T15:26:26.827621"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "UWTranslationWords": {
+            "timestamp": "2025-10-22T15:26:26.827621"
+          }
+        }
+      },
+      "name": {
+        "ja": "unfoldingWord® Translation Words"
+      },
+      "abbreviation": {
+        "ja": "UTW"
+      }
+    },
+    "languages": [
+      {
+        "tag": "ja",
+        "name": {
+          "ja": "Japanese"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 9166
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 8507
+      },
+      "md/000001.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2811
+      },
+      "md/000002.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2989
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>unfoldingWord® Translation Words © 2022 unfoldingWord.</p>",
+          "mimetype": "text/html",
+          "lang": "ja"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "154360": {
+      "content_id": 154360,
+      "reference_id": 25423,
+      "index_reference": "abomination",
+      "localizations": {
+        "eng": {
+          "content_id": 26281,
+          "language": "eng",
+          "title": "Abomination"
+        },
+        "arb": {
+          "content_id": 195880,
+          "language": "arb",
+          "title": "رجس"
+        },
+        "fra": {
+          "content_id": 466605,
+          "language": "fra",
+          "title": "Abomination"
+        },
+        "hin": {
+          "content_id": 179513,
+          "language": "hin",
+          "title": "घृणा"
+        },
+        "ind": {
+          "content_id": 675570,
+          "language": "ind",
+          "title": "Kekejian"
+        },
+        "por": {
+          "content_id": 237561,
+          "language": "por",
+          "title": "Abominação"
+        },
+        "spa": {
+          "content_id": 335674,
+          "language": "spa",
+          "title": "Abominación"
+        },
+        "swh": {
+          "content_id": 575354,
+          "language": "swh",
+          "title": "Chukizo"
+        },
+        "zht": {
+          "content_id": 390364,
+          "language": "zht",
+          "title": "憎惡"
+        }
+      }
+    },
+    "154362": {
+      "content_id": 154362,
+      "reference_id": 25433,
+      "index_reference": "adultery",
+      "localizations": {
+        "eng": {
+          "content_id": 26291,
+          "language": "eng",
+          "title": "Adultery"
+        },
+        "arb": {
+          "content_id": 195890,
+          "language": "arb",
+          "title": "زنا"
+        },
+        "fra": {
+          "content_id": 466615,
+          "language": "fra",
+          "title": "L’adultère"
+        },
+        "hin": {
+          "content_id": 179523,
+          "language": "hin",
+          "title": "व्यभिचार"
+        },
+        "ind": {
+          "content_id": 675580,
+          "language": "ind",
+          "title": "Perzinahan"
+        },
+        "por": {
+          "content_id": 237571,
+          "language": "por",
+          "title": "Adultério"
+        },
+        "spa": {
+          "content_id": 335683,
+          "language": "spa",
+          "title": "Adulterio"
+        },
+        "swh": {
+          "content_id": 575356,
+          "language": "swh",
+          "title": "Uzinzi"
+        },
+        "zht": {
+          "content_id": 390374,
+          "language": "zht",
+          "title": "姦淫"
+        }
+      }
+    }
+  }
+}
