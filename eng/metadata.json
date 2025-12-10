@@ -2,7 +2,7 @@
 "resource_metadata": {
 "aquifer_type": "Guide",
 "resource_type": "Translation Glossary",
-"title": "Translation Words (unfoldingWord)",
+"title": "unfoldingWord® Translation Words",
 "aquifer_name": "Translation Words (unfoldingWord)",
 "version": "1.0.1",
 "collection_title": "Translation Words (unfoldingWord)",
@@ -27,9 +27,9 @@
 "showAdaptationNoticeForEnglish": false,
 "showAdaptationNoticeForNonEnglish": true
 },
-"adaptation_notice": "",
+"adaptation_notice": "<p><b>unfoldingWord® Translation Words</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Words</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Words</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "UWTranslationWords",
-"date_created": "2025-12-05",
+"date_created": "2025-12-10",
 "language": "eng",
 "localizations": [
 "arb",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2025-12-05T06:40:36.140293"
+"dateCreated": "2025-12-10T14:05:32.474171"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationWords": {
-"timestamp": "2025-12-05T06:40:36.140293"
+"timestamp": "2025-12-10T14:05:32.474171"
 }
 }
 },
@@ -1266,111 +1266,111 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 2377
+"size": 2557
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 142996
+"size": 143176
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 130488
+"size": 130668
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 161882
+"size": 162062
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 91250
+"size": 91430
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 87428
+"size": 87608
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 91575
+"size": 91755
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 115280
+"size": 115460
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 114160
+"size": 114340
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 46967
+"size": 47147
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 130152
+"size": 130332
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 46450
+"size": 46630
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 98787
+"size": 98967
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 96845
+"size": 97025
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 32054
+"size": 32234
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 22478
+"size": 22658
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 172012
+"size": 172192
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 4913
+"size": 5093
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 88252
+"size": 88432
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 212983
+"size": 213163
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 110657
+"size": 110837
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 10871
+"size": 11051
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 11936
+"size": 12116
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 52907
+"size": 53087
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 18997
+"size": 19177
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 19512
+"size": 19692
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 175138,
+"size": 211128,
 "scope": {
 "0": [
 "12 Tribes of Israel"
@@ -1379,7 +1379,7 @@
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 708907,
+"size": 745365,
 "scope": {
 "a": [
 "Aaron",
@@ -1467,7 +1467,7 @@
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 615593,
+"size": 651607,
 "scope": {
 "b": [
 "Baal",
@@ -1540,7 +1540,7 @@
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 764006,
+"size": 800169,
 "scope": {
 "c": [
 "Caesar",
@@ -1626,7 +1626,7 @@
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 512427,
+"size": 548391,
 "scope": {
 "d": [
 "Damascus",
@@ -1681,7 +1681,7 @@
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 486455,
+"size": 522358,
 "scope": {
 "e": [
 "Eagle",
@@ -1728,7 +1728,7 @@
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 509707,
+"size": 545436,
 "scope": {
 "f": [
 "Faith",
@@ -1774,7 +1774,7 @@
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 527467,
+"size": 563759,
 "scope": {
 "g": [
 "Gabriel",
@@ -1827,7 +1827,7 @@
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 574187,
+"size": 609877,
 "scope": {
 "h": [
 "Habakkuk",
@@ -1889,7 +1889,7 @@
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 342947,
+"size": 378897,
 "scope": {
 "i": [
 "Iconium",
@@ -1916,7 +1916,7 @@
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 611306,
+"size": 647533,
 "scope": {
 "j": [
 "Jacob",
@@ -1975,7 +1975,7 @@
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 327821,
+"size": 363774,
 "scope": {
 "k": [
 "Kadesh",
@@ -1998,7 +1998,7 @@
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 508784,
+"size": 544830,
 "scope": {
 "l": [
 "Laban",
@@ -2043,7 +2043,7 @@
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 532752,
+"size": 568416,
 "scope": {
 "m": [
 "Maacah",
@@ -2105,7 +2105,7 @@
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 303374,
+"size": 339079,
 "scope": {
 "n": [
 "Naaman",
@@ -2130,7 +2130,7 @@
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 255641,
+"size": 291830,
 "scope": {
 "o": [
 "Oak",
@@ -2150,7 +2150,7 @@
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 764045,
+"size": 800146,
 "scope": {
 "p": [
 "Paddanaram",
@@ -2233,7 +2233,7 @@
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 184253,
+"size": 219931,
 "scope": {
 "q": [
 "Qualify",
@@ -2244,7 +2244,7 @@
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 492421,
+"size": 528106,
 "scope": {
 "r": [
 "Rabbah",
@@ -2292,7 +2292,7 @@
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 902662,
+"size": 938649,
 "scope": {
 "s": [
 "Sabbath",
@@ -2392,7 +2392,7 @@
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 557169,
+"size": 593061,
 "scope": {
 "t": [
 "Tabernacle",
@@ -2449,7 +2449,7 @@
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 208267,
+"size": 243496,
 "scope": {
 "u": [
 "Understand",
@@ -2462,7 +2462,7 @@
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 222828,
+"size": 258405,
 "scope": {
 "v": [
 "Vain",
@@ -2477,7 +2477,7 @@
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 359916,
+"size": 395620,
 "scope": {
 "w": [
 "Wadi",
@@ -2506,7 +2506,7 @@
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 227463,
+"size": 262689,
 "scope": {
 "y": [
 "Yahweh",
@@ -2518,7 +2518,7 @@
 },
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
-"size": 250007,
+"size": 285249,
 "scope": {
 "z": [
 "Zacchaeus",

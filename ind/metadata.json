@@ -2,7 +2,7 @@
 "resource_metadata": {
 "aquifer_type": "Guide",
 "resource_type": "Translation Glossary",
-"title": "Translation Words (unfoldingWord)",
+"title": "unfoldingWord® Translation Words",
 "aquifer_name": "Istilah Kunci (unfoldingWord)",
 "version": "1.0.1",
 "collection_title": "Translation Words (unfoldingWord)",
@@ -27,9 +27,9 @@
 "showAdaptationNoticeForEnglish": false,
 "showAdaptationNoticeForNonEnglish": true
 },
-"adaptation_notice": "",
+"adaptation_notice": "<p><b>unfoldingWord® Translation Words</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Words</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Words</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "UWTranslationWords",
-"date_created": "2025-12-05",
+"date_created": "2025-12-10",
 "language": "ind",
 "localizations": [
 "eng",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2025-12-05T06:40:43.964044"
+"dateCreated": "2025-12-10T14:05:38.680706"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationWords": {
-"timestamp": "2025-12-05T06:40:43.964044"
+"timestamp": "2025-12-10T14:05:38.680706"
 }
 }
 },
@@ -985,103 +985,103 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 32411
+"size": 32595
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 135500
+"size": 135684
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 166221
+"size": 166405
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 6692
+"size": 6876
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 45868
+"size": 46052
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 34936
+"size": 35120
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 12443
+"size": 12627
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 45245
+"size": 45429
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 59037
+"size": 59221
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 41841
+"size": 42025
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 34867
+"size": 35051
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 165843
+"size": 166027
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 10774
+"size": 10958
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 304141
+"size": 304325
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 32268
+"size": 32452
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 16700
+"size": 16884
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 126527
+"size": 126711
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 67589
+"size": 67773
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 135207
+"size": 135391
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 92949
+"size": 93133
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 16437
+"size": 16621
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 5554
+"size": 5738
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 108497
+"size": 108681
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 1533
+"size": 1717
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 302020,
+"size": 338334,
 "scope": {
 "<": [
 "<h2>baik",
@@ -1101,7 +1101,7 @@
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 685573,
+"size": 721853,
 "scope": {
 "a": [
 "Abdi Allah",
@@ -1169,7 +1169,7 @@
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 786002,
+"size": 822433,
 "scope": {
 "b": [
 "Baal",
@@ -1243,7 +1243,7 @@
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 194402,
+"size": 231321,
 "scope": {
 "c": [
 "Cacat",
@@ -1255,7 +1255,7 @@
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 346688,
+"size": 382837,
 "scope": {
 "d": [
 "Damai",
@@ -1278,7 +1278,7 @@
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 348722,
+"size": 384849,
 "scope": {
 "e": [
 "Eden",
@@ -1307,7 +1307,7 @@
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 228909,
+"size": 265109,
 "scope": {
 "f": [
 "Festival",
@@ -1319,7 +1319,7 @@
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 372987,
+"size": 409265,
 "scope": {
 "g": [
 "Gabriel",
@@ -1353,7 +1353,7 @@
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 391004,
+"size": 426782,
 "scope": {
 "h": [
 "Habel",
@@ -1382,7 +1382,7 @@
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 336047,
+"size": 372172,
 "scope": {
 "i": [
 "Ibrani",
@@ -1404,7 +1404,7 @@
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 307429,
+"size": 343513,
 "scope": {
 "j": [
 "Jafet",
@@ -1425,7 +1425,7 @@
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 838266,
+"size": 874784,
 "scope": {
 "k": [
 "Kabar baik",
@@ -1503,7 +1503,7 @@
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 214947,
+"size": 250823,
 "scope": {
 "l": [
 "Laut",
@@ -1518,7 +1518,7 @@
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1277380,
+"size": 1313935,
 "scope": {
 "m": [
 "Ma'akha",
@@ -1643,7 +1643,7 @@
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 318118,
+"size": 354303,
 "scope": {
 "n": [
 "Naaman",
@@ -1666,7 +1666,7 @@
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 232702,
+"size": 268788,
 "scope": {
 "o": [
 "Obaja",
@@ -1682,7 +1682,7 @@
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 682746,
+"size": 719137,
 "scope": {
 "p": [
 "Padam",
@@ -1741,7 +1741,7 @@
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 422986,
+"size": 459158,
 "scope": {
 "r": [
 "Raba",
@@ -1776,7 +1776,7 @@
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 703834,
+"size": 740167,
 "scope": {
 "s": [
 "Sabar",
@@ -1842,7 +1842,7 @@
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 478218,
+"size": 514136,
 "scope": {
 "t": [
 "Tabut perjanjian",
@@ -1882,7 +1882,7 @@
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 239584,
+"size": 275766,
 "scope": {
 "u": [
 "Uji",
@@ -1898,7 +1898,7 @@
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 184192,
+"size": 219930,
 "scope": {
 "w": [
 "Waktu",
@@ -1908,7 +1908,7 @@
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 585599,
+"size": 622051,
 "scope": {
 "y": [
 "Yacob",
@@ -1960,7 +1960,7 @@
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 161742,
+"size": 198766,
 "scope": {
 "z": [
 "Zaman"

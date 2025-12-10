@@ -1,4 +1,4 @@
-# _Translation Words (unfoldingWord)_ Aquifer Resource
+# _unfoldingWord® Translation Words_ Aquifer Resource
 
 This repository (`UWTranslationWords`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 
