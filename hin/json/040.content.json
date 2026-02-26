@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180199,
+    "content_id": "180199",
     "reference_id": 26140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भजन",
     "media_type": "Text",
     "index_reference": "भजन",
@@ -84,13 +84,14 @@
           "label": "मूसा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179835,
+    "content_id": "179835",
     "reference_id": 25762,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भट्ठा",
     "media_type": "Text",
     "index_reference": "भट्ठा",
@@ -187,13 +188,22 @@
           "label": "मूरत/मूरतों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Kiln",
+          "type": "realia",
+          "preferred_label": "Kiln",
+          "confidence": 0.5617,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180197,
+    "content_id": "180197",
     "reference_id": 26138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भड़काना",
     "media_type": "Text",
     "index_reference": "भड़काना",
@@ -251,13 +261,14 @@
           "end_ref_usfm": "EZK 20:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180317,
+    "content_id": "180317",
     "reference_id": 26263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भण्डार",
     "media_type": "Text",
     "index_reference": "भण्डार",
@@ -365,13 +376,14 @@
           "label": "मन्दिर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179582,
+    "content_id": "179582",
     "reference_id": 25494,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भय",
     "media_type": "Text",
     "index_reference": "भय",
@@ -426,13 +438,22 @@
           "label": "महिमा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.8671,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179918,
+    "content_id": "179918",
     "reference_id": 25849,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भय",
     "media_type": "Text",
     "index_reference": "भय",
@@ -487,13 +508,22 @@
           "label": "डर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.8671,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180189,
+    "content_id": "180189",
     "reference_id": 26129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भविष्यद्वक्ता",
     "media_type": "Text",
     "index_reference": "भविष्यद्वक्ता",
@@ -1820,13 +1850,14 @@
           "label": "दर्शन",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179689,
+    "content_id": "179689",
     "reference_id": 25610,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भस्म कर देगा",
     "media_type": "Text",
     "index_reference": "भस्म कर देगा",
@@ -1965,13 +1996,14 @@
           "label": "क्रोध",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179743,
+    "content_id": "179743",
     "reference_id": 25667,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भस्म करना/फाड़ खाना",
     "media_type": "Text",
     "index_reference": "भस्म करना/फाड़ खाना",
@@ -2277,13 +2309,14 @@
           "label": "भस्म कर देगा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180310,
+    "content_id": "180310",
     "reference_id": 26256,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भाला",
     "media_type": "Text",
     "index_reference": "भाला",
@@ -2370,13 +2403,29 @@
           "label": "सैनिक",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bilhah",
+          "type": "person",
+          "preferred_label": "बिल्हा",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bilhah",
+          "type": "place",
+          "preferred_label": "बिल्हा",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179748,
+    "content_id": "179748",
     "reference_id": 25674,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भावी कहने",
     "media_type": "Text",
     "index_reference": "भावी कहने",
@@ -2463,13 +2512,14 @@
           "label": "जादूगर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179660,
+    "content_id": "179660",
     "reference_id": 25581,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भूसी",
     "media_type": "Text",
     "index_reference": "भूसी",
@@ -2525,13 +2575,14 @@
           "label": "ओसाई",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180279,
+    "content_id": "180279",
     "reference_id": 26224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भेड़",
     "media_type": "Text",
     "index_reference": "भेड़",
@@ -3164,13 +3215,14 @@
           "label": "चरवाहा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179818,
+    "content_id": "179818",
     "reference_id": 25745,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भेड़-बकरियों",
     "media_type": "Text",
     "index_reference": "भेड़-बकरियों",
@@ -3689,13 +3741,22 @@
           "label": "भेड़",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Flock",
+          "type": "fauna",
+          "preferred_label": "Flock",
+          "confidence": 0.5207,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180405,
+    "content_id": "180405",
     "reference_id": 26353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भेड़िया",
     "media_type": "Text",
     "index_reference": "भेड़िया",
@@ -3781,13 +3842,14 @@
           "label": "भेड़",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180102,
+    "content_id": "180102",
     "reference_id": 26038,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भेद",
     "media_type": "Text",
     "index_reference": "भेद",
@@ -4018,13 +4080,14 @@
           "label": "यहूदी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179590,
+    "content_id": "179590",
     "reference_id": 25502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "भोज",
     "media_type": "Text",
     "index_reference": "भोज",
@@ -4082,7 +4145,8 @@
           "end_ref_usfm": "SNG 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390576,
+    "content_id": "390576",
     "reference_id": 25639,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "塞魯士",
     "media_type": "Text",
     "index_reference": "塞魯士",
@@ -138,13 +138,22 @@
           "label": "波斯",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "Cyrus",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390574,
+    "content_id": "390574",
     "reference_id": 25637,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "塞浦路斯",
     "media_type": "Text",
     "index_reference": "塞浦路斯",
@@ -254,13 +263,14 @@
           "label": "地中海",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391140,
+    "content_id": "391140",
     "reference_id": 26218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "塞特",
     "media_type": "Text",
     "index_reference": "塞特",
@@ -371,6 +381,15 @@
           "resource_code": "UWTranslationWords",
           "label": "挪亞",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Seth",
+          "type": "person",
+          "preferred_label": "Seth",
+          "confidence": 0.8618,
+          "match_method": "embedding"
         }
       ]
     }

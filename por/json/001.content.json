@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 237554,
+    "content_id": "237554",
     "reference_id": 25416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "12 tribos de Israel",
     "media_type": "Text",
     "index_reference": "12 tribos de israel",
@@ -173,6 +173,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Zebulom",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.65,
+          "match_method": "scored"
         }
       ]
     }

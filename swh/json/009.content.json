@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 627083,
+    "content_id": "627083",
     "reference_id": 25808,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Habakuki",
     "media_type": "Text",
     "index_reference": "habakuki",
@@ -40,13 +40,22 @@
           "label": "Yeremia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575508,
+    "content_id": "575508",
     "reference_id": 25796,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Habari Njema",
     "media_type": "Text",
     "index_reference": "habari njema",
@@ -672,13 +681,22 @@
           "label": "Okoa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "Good News",
+          "confidence": 0.6607,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627085,
+    "content_id": "627085",
     "reference_id": 25811,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hagai",
     "media_type": "Text",
     "index_reference": "hagai",
@@ -802,13 +820,22 @@
           "label": "Nebukadneza",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Haggai",
+          "type": "person",
+          "preferred_label": "Hagai",
+          "confidence": 0.9143,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627084,
+    "content_id": "627084",
     "reference_id": 25810,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hajiri",
     "media_type": "Text",
     "index_reference": "hajiri",
@@ -926,13 +953,22 @@
           "label": "Sara",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Hajiri",
+          "confidence": 0.9667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575573,
+    "content_id": "575573",
     "reference_id": 25932,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haki",
     "media_type": "Text",
     "index_reference": "haki",
@@ -1529,13 +1565,14 @@
           "label": "Mwenye Haki",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 626939,
+    "content_id": "626939",
     "reference_id": 25541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haki ya kuzaliwa",
     "media_type": "Text",
     "index_reference": "haki ya kuzaliwa",
@@ -1621,13 +1658,14 @@
           "label": "Kurithi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575570,
+    "content_id": "575570",
     "reference_id": 25929,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hakimu",
     "media_type": "Text",
     "index_reference": "hakimu",
@@ -2935,13 +2973,22 @@
           "label": "Sheria ya Mose",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627181,
+    "content_id": "627181",
     "reference_id": 25988,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hakimu",
     "media_type": "Text",
     "index_reference": "hakimu",
@@ -3034,13 +3081,22 @@
           "label": "Sheria",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575583,
+    "content_id": "575583",
     "reference_id": 25958,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Halali",
     "media_type": "Text",
     "index_reference": "halali",
@@ -3391,13 +3447,29 @@
           "label": "Sabato",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Lawful",
+          "type": "keyterm",
+          "preferred_label": "Be Lawful",
+          "confidence": 0.53,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Lawless",
+          "type": "keyterm",
+          "preferred_label": "Lawless",
+          "confidence": 0.5126,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627087,
+    "content_id": "627087",
     "reference_id": 25814,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hamathi",
     "media_type": "Text",
     "index_reference": "hamathi",
@@ -3473,13 +3545,29 @@
           "label": "Sedekia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Hamath",
+          "type": "place",
+          "preferred_label": "Hamathi",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hamathites",
+          "type": "group",
+          "preferred_label": "Hamathites",
+          "confidence": 0.5904,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627088,
+    "content_id": "627088",
     "reference_id": 25815,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hamori",
     "media_type": "Text",
     "index_reference": "hamori",
@@ -3609,13 +3697,29 @@
           "label": "Sukothi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hamor",
+          "type": "person",
+          "preferred_label": "Hamori",
+          "confidence": 0.9059,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 0.5338,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627086,
+    "content_id": "627086",
     "reference_id": 25813,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hamu",
     "media_type": "Text",
     "index_reference": "hamu",
@@ -3708,13 +3812,29 @@
           "label": "Aibu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ham",
+          "type": "person",
+          "preferred_label": "Hamu",
+          "confidence": 0.9556,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Shemu",
+          "confidence": 0.6737,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627090,
+    "content_id": "627090",
     "reference_id": 25818,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hana",
     "media_type": "Text",
     "index_reference": "hana",
@@ -3751,13 +3871,43 @@
           "label": "Samweli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hannah",
+          "type": "person",
+          "preferred_label": "Hana",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elkanah.2",
+          "type": "person",
+          "preferred_label": "Elkana",
+          "confidence": 0.5533,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ramah",
+          "type": "place",
+          "preferred_label": "Rama",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Horn",
+          "type": "keyterm",
+          "preferred_label": "Horn",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627089,
+    "content_id": "627089",
     "reference_id": 25816,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hanania",
     "media_type": "Text",
     "index_reference": "hanania",
@@ -3882,13 +4032,92 @@
           "label": "Mishaeli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hananiah.12",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6889,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.15",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.7",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.8",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.5",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.9",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.6",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.11",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.10",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hanani.4",
+          "type": "person",
+          "preferred_label": "Hanani",
+          "confidence": 0.5862,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hanun.3",
+          "type": "person",
+          "preferred_label": "Hanuni",
+          "confidence": 0.5187,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575474,
+    "content_id": "575474",
     "reference_id": 25733,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haraka",
     "media_type": "Text",
     "index_reference": "haraka",
@@ -4086,13 +4315,14 @@
           "label": "Viongozi wa Kiyahudi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627091,
+    "content_id": "627091",
     "reference_id": 25819,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Harani",
     "media_type": "Text",
     "index_reference": "harani",
@@ -4260,13 +4490,50 @@
           "label": "Uru",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Haran",
+          "type": "place",
+          "preferred_label": "Harani",
+          "confidence": 0.7905,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Haran",
+          "type": "person",
+          "preferred_label": "Harani",
+          "confidence": 0.6952,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Terah",
+          "type": "person",
+          "preferred_label": "Tera",
+          "confidence": 0.5737,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 0.5356,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abrahamu",
+          "confidence": 0.5308,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627277,
+    "content_id": "627277",
     "reference_id": 26150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hasira",
     "media_type": "Text",
     "index_reference": "hasira",
@@ -4320,13 +4587,14 @@
           "label": "Kujidhibiti",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627081,
+    "content_id": "627081",
     "reference_id": 25806,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hatia",
     "media_type": "Text",
     "index_reference": "hatia",
@@ -4503,13 +4771,29 @@
           "label": "dhambi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hatita",
+          "type": "person",
+          "preferred_label": "Hatita",
+          "confidence": 0.8765,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hatipha",
+          "type": "person",
+          "preferred_label": "Hatifa",
+          "confidence": 0.8126,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627038,
+    "content_id": "627038",
     "reference_id": 25717,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hawa",
     "media_type": "Text",
     "index_reference": "hawa",
@@ -4564,13 +4848,22 @@
           "label": "Shetani",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "Hawa",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627096,
+    "content_id": "627096",
     "reference_id": 25827,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hebroni",
     "media_type": "Text",
     "index_reference": "hebroni",
@@ -4655,13 +4948,29 @@
           "label": "Anaki",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Hebron",
+          "type": "place",
+          "preferred_label": "Hebroni",
+          "confidence": 0.8333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:HebronValley",
+          "type": "place",
+          "preferred_label": "bonde",
+          "confidence": 0.5973,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575727,
+    "content_id": "575727",
     "reference_id": 26284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hekalu",
     "media_type": "Text",
     "index_reference": "hekalu",
@@ -5657,13 +5966,22 @@
           "label": "Sayuni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Temple",
+          "type": "realia",
+          "preferred_label": "Temple",
+          "confidence": 0.572,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627341,
+    "content_id": "627341",
     "reference_id": 26278,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hema",
     "media_type": "Text",
     "index_reference": "hema",
@@ -6267,13 +6585,22 @@
           "label": "Hema la Kukutania",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hemam",
+          "type": "person",
+          "preferred_label": "Hemamu",
+          "confidence": 0.8143,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627345,
+    "content_id": "627345",
     "reference_id": 26287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hema",
     "media_type": "Text",
     "index_reference": "hema",
@@ -6525,13 +6852,22 @@
           "label": "Hema la Kukutania",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Tent",
+          "type": "realia",
+          "preferred_label": "Tent",
+          "confidence": 0.682,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627346,
+    "content_id": "627346",
     "reference_id": 26289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hema la Kukutania",
     "media_type": "Text",
     "index_reference": "hema la kukutania",
@@ -6685,13 +7021,14 @@
           "label": "Hema",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627027,
+    "content_id": "627027",
     "reference_id": 25703,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Henoko",
     "media_type": "Text",
     "index_reference": "henoko",
@@ -6818,13 +7155,43 @@
           "label": "Sethi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Enoch.2",
+          "type": "person",
+          "preferred_label": "Henoko",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Enoch",
+          "type": "person",
+          "preferred_label": "Henoko",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hanoch.2",
+          "type": "person",
+          "preferred_label": "Hanoki",
+          "confidence": 0.5229,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hanoch",
+          "type": "person",
+          "preferred_label": "Hanoki",
+          "confidence": 0.5007,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575522,
+    "content_id": "575522",
     "reference_id": 25832,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herode Mkuu",
     "media_type": "Text",
     "index_reference": "herode mkuu",
@@ -6929,13 +7296,22 @@
           "label": "Hekalu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herode",
+          "confidence": 0.9636,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575520,
+    "content_id": "575520",
     "reference_id": 25830,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodeantipa",
     "media_type": "Text",
     "index_reference": "herodeantipa",
@@ -7191,13 +7567,36 @@
           "label": "Rumi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herode",
+          "confidence": 0.7258,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "Herodia",
+          "confidence": 0.5401,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Herode",
+          "confidence": 0.5086,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575521,
+    "content_id": "575521",
     "reference_id": 25831,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodia",
     "media_type": "Text",
     "index_reference": "herodia",
@@ -7264,13 +7663,29 @@
           "label": "Yohana Mbatizaji",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "Herodia",
+          "confidence": 0.9429,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herode",
+          "confidence": 0.8092,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627097,
+    "content_id": "627097",
     "reference_id": 25833,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heshboni",
     "media_type": "Text",
     "index_reference": "heshboni",
@@ -7294,13 +7709,29 @@
           "label": "Sihoni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Heshbon",
+          "type": "place",
+          "preferred_label": "Heshboni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Helbon",
+          "type": "place",
+          "preferred_label": "Helboni",
+          "confidence": 0.8116,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575530,
+    "content_id": "575530",
     "reference_id": 25846,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heshima",
     "media_type": "Text",
     "index_reference": "heshima",
@@ -7800,13 +8231,36 @@
           "label": "Sifa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hoshama",
+          "type": "person",
+          "preferred_label": "Hoshama",
+          "confidence": 0.8701,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshaiah",
+          "type": "person",
+          "preferred_label": "Hoshaya",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshaiah.2",
+          "type": "person",
+          "preferred_label": "Hoshaya",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627288,
+    "content_id": "627288",
     "reference_id": 26175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heshima",
     "media_type": "Text",
     "index_reference": "heshima",
@@ -7885,13 +8339,36 @@
           "label": "Heshima",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hoshama",
+          "type": "person",
+          "preferred_label": "Hoshama",
+          "confidence": 0.8701,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshaiah",
+          "type": "person",
+          "preferred_label": "Hoshaya",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshaiah.2",
+          "type": "person",
+          "preferred_label": "Hoshaya",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575523,
+    "content_id": "575523",
     "reference_id": 25834,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hezekia",
     "media_type": "Text",
     "index_reference": "hezekia",
@@ -7985,13 +8462,29 @@
           "label": "Senakeribu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Hezekia",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahaz",
+          "type": "person",
+          "preferred_label": "Ahazi",
+          "confidence": 0.5568,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627099,
+    "content_id": "627099",
     "reference_id": 25837,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hilkia",
     "media_type": "Text",
     "index_reference": "hilkia",
@@ -8094,13 +8587,43 @@
           "label": "Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hilkiah.6",
+          "type": "person",
+          "preferred_label": "Hilkia",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah.5",
+          "type": "person",
+          "preferred_label": "Hilkia",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah",
+          "type": "person",
+          "preferred_label": "Hilkia",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah.2",
+          "type": "person",
+          "preferred_label": "Hilkia",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627025,
+    "content_id": "627025",
     "reference_id": 25700,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Himiza",
     "media_type": "Text",
     "index_reference": "himiza",
@@ -8124,13 +8647,14 @@
           "label": "Himiza",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627039,
+    "content_id": "627039",
     "reference_id": 25720,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Himiza",
     "media_type": "Text",
     "index_reference": "himiza",
@@ -8488,13 +9012,14 @@
           "end_ref_usfm": "1TH 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575603,
+    "content_id": "575603",
     "reference_id": 26019,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hodari",
     "media_type": "Text",
     "index_reference": "hodari",
@@ -8915,13 +9440,14 @@
           "label": "Muujiza",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575475,
+    "content_id": "575475",
     "reference_id": 25735,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hofu",
     "media_type": "Text",
     "index_reference": "hofu",
@@ -10405,13 +10931,22 @@
           "label": "Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.6202,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627104,
+    "content_id": "627104",
     "reference_id": 25849,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hofu",
     "media_type": "Text",
     "index_reference": "hofu",
@@ -10466,13 +11001,14 @@
           "label": "Hofu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627348,
+    "content_id": "627348",
     "reference_id": 26291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hofu",
     "media_type": "Text",
     "index_reference": "hofu",
@@ -10698,13 +11234,14 @@
           "label": "Mungu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627107,
+    "content_id": "627107",
     "reference_id": 25852,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hosea",
     "media_type": "Text",
     "index_reference": "hosea",
@@ -10788,13 +11325,22 @@
           "label": "Zekaria Agano la Kale",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hosea",
+          "type": "person",
+          "preferred_label": "Hosea",
+          "confidence": 0.75,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627108,
+    "content_id": "627108",
     "reference_id": 25853,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hoshea",
     "media_type": "Text",
     "index_reference": "hoshea",
@@ -10883,13 +11429,50 @@
           "label": "Yoshua",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hoshea",
+          "type": "person",
+          "preferred_label": "Hoshea",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoshea.2",
+          "type": "person",
+          "preferred_label": "Hoshea",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoshea.3",
+          "type": "person",
+          "preferred_label": "Hoshea",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elah.3",
+          "type": "person",
+          "preferred_label": "Ela",
+          "confidence": 0.548,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shalmaneser",
+          "type": "person",
+          "preferred_label": "Shalmanesa",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575451,
+    "content_id": "575451",
     "reference_id": 25681,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hua",
     "media_type": "Text",
     "index_reference": "hua",
@@ -11022,13 +11605,22 @@
           "label": "Mzeituni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "Hawa",
+          "confidence": 0.8159,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575647,
+    "content_id": "575647",
     "reference_id": 26118,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hubiri",
     "media_type": "Text",
     "index_reference": "hubiri",
@@ -11679,13 +12271,22 @@
           "label": "Ufalme wa Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Proclaim",
+          "type": "keyterm",
+          "preferred_label": "Proclaim",
+          "confidence": 0.5182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575415,
+    "content_id": "575415",
     "reference_id": 25605,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hukumu",
     "media_type": "Text",
     "index_reference": "hukumu",
@@ -11950,13 +12551,22 @@
           "label": "Adhibu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "Judgment",
+          "confidence": 0.8374,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575413,
+    "content_id": "575413",
     "reference_id": 25602,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Huruma",
     "media_type": "Text",
     "index_reference": "huruma",
@@ -12158,13 +12768,14 @@
           "end_ref_usfm": "JAS 5:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575601,
+    "content_id": "575601",
     "reference_id": 26012,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Huruma",
     "media_type": "Text",
     "index_reference": "huruma",
@@ -12633,13 +13244,22 @@
           "label": "Samehe",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "Mercy",
+          "confidence": 0.5233,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575463,
+    "content_id": "575463",
     "reference_id": 25705,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Husuda",
     "media_type": "Text",
     "index_reference": "husuda",
@@ -12872,6 +13492,15 @@
           "resource_code": "UWTranslationWords",
           "label": "wivu",
           "language": "swh"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Hushah",
+          "type": "person",
+          "preferred_label": "Husha",
+          "confidence": 0.8207,
+          "match_method": "embedding"
         }
       ]
     }

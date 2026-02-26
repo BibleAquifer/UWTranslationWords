@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467474,
+    "content_id": "467474",
     "reference_id": 26369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zacharie",
     "media_type": "Text",
     "index_reference": "zacharie",
@@ -112,13 +112,22 @@
           "label": "Prophète",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zechariah",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.825,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467475,
+    "content_id": "467475",
     "reference_id": 26370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zacharie (AT)",
     "media_type": "Text",
     "index_reference": "zacharie (at)",
@@ -253,13 +262,106 @@
           "label": "Néhémie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zechariah.17",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.66,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.28",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.18",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.21",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.22",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.27",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.20",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.25",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.26",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.19",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.24",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.23",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.12",
+          "type": "person",
+          "preferred_label": "Zacharie",
+          "confidence": 0.62,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467473,
+    "content_id": "467473",
     "reference_id": 26367,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zébédée",
     "media_type": "Text",
     "index_reference": "zébédée",
@@ -394,13 +496,22 @@
           "label": "Jean (l'apôtre)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "Zébédée",
+          "confidence": 0.8316,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467472,
+    "content_id": "467472",
     "reference_id": 26366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zèle",
     "media_type": "Text",
     "index_reference": "zèle",
@@ -536,7 +647,8 @@
           "end_ref_usfm": "ROM 10:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

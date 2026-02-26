@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390493,
+    "content_id": "390493",
     "reference_id": 25553,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "弓——武器",
     "media_type": "Text",
     "index_reference": "弓——武器",
@@ -126,13 +126,14 @@
           "end_ref_usfm": "PSA 58:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390414,
+    "content_id": "390414",
     "reference_id": 25473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "弓箭手",
     "media_type": "Text",
     "index_reference": "弓箭手",
@@ -192,13 +193,14 @@
           "label": "亞述",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390531,
+    "content_id": "390531",
     "reference_id": 25593,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "公民",
     "media_type": "Text",
     "index_reference": "公民",
@@ -303,13 +305,14 @@
           "label": "羅馬城",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390861,
+    "content_id": "390861",
     "reference_id": 25932,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "公義",
     "media_type": "Text",
     "index_reference": "公義",
@@ -906,13 +909,22 @@
           "label": "公義",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fairness",
+          "type": "keyterm",
+          "preferred_label": "Fairness",
+          "confidence": 0.816,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391099,
+    "content_id": "391099",
     "reference_id": 26177,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "公義",
     "media_type": "Text",
     "index_reference": "公義",
@@ -2987,13 +2999,22 @@
           "label": "罪",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fairness",
+          "type": "keyterm",
+          "preferred_label": "Fairness",
+          "confidence": 0.816,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391238,
+    "content_id": "391238",
     "reference_id": 26318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "貢物",
     "media_type": "Text",
     "index_reference": "貢物",
@@ -3098,7 +3119,8 @@
           "label": "稅",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

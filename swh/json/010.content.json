@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 627111,
+    "content_id": "627111",
     "reference_id": 25862,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ikonio",
     "media_type": "Text",
     "index_reference": "ikonio",
@@ -88,13 +88,22 @@
           "label": "Jiwe",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "Ikonio",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575625,
+    "content_id": "575625",
     "reference_id": 26071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ikulu",
     "media_type": "Text",
     "index_reference": "ikulu",
@@ -221,13 +230,14 @@
           "label": "Mfalme",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627006,
+    "content_id": "627006",
     "reference_id": 25666,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iliyoharibika",
     "media_type": "Text",
     "index_reference": "iliyoharibika",
@@ -275,13 +285,14 @@
           "label": "Kuharibu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575469,
+    "content_id": "575469",
     "reference_id": 25725,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imani",
     "media_type": "Text",
     "index_reference": "imani",
@@ -1548,13 +1559,22 @@
           "label": "Mwaminifu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "Believe",
+          "confidence": 0.6175,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575751,
+    "content_id": "575751",
     "reference_id": 26322,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imani",
     "media_type": "Text",
     "index_reference": "imani",
@@ -1838,13 +1858,14 @@
           "label": "Mwaminifu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575395,
+    "content_id": "575395",
     "reference_id": 25552,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Inama",
     "media_type": "Text",
     "index_reference": "inama",
@@ -2403,13 +2424,14 @@
           "label": "Kuabudu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575544,
+    "content_id": "575544",
     "reference_id": 25876,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaka",
     "media_type": "Text",
     "index_reference": "isaka",
@@ -3087,13 +3109,29 @@
           "label": "Sara",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaka",
+          "confidence": 0.981,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israeli",
+          "confidence": 0.5346,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627120,
+    "content_id": "627120",
     "reference_id": 25880,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isakari",
     "media_type": "Text",
     "index_reference": "isakari",
@@ -3179,13 +3217,36 @@
           "label": "Lea",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Issachar",
+          "type": "person",
+          "preferred_label": "Isakari",
+          "confidence": 0.84,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Issachar",
+          "type": "group",
+          "preferred_label": "Isakari",
+          "confidence": 0.5567,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Misri",
+          "confidence": 0.5048,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575545,
+    "content_id": "575545",
     "reference_id": 25877,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaya",
     "media_type": "Text",
     "index_reference": "isaya",
@@ -3433,13 +3494,22 @@
           "label": "Ufalme wa Yuda",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaya",
+          "confidence": 0.9097,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575701,
+    "content_id": "575701",
     "reference_id": 26234,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ishara",
     "media_type": "Text",
     "index_reference": "ishara",
@@ -4073,13 +4143,22 @@
           "label": "Tahiri",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Example",
+          "type": "keyterm",
+          "preferred_label": "Symbol",
+          "confidence": 0.8112,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627119,
+    "content_id": "627119",
     "reference_id": 25878,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ishmaeli",
     "media_type": "Text",
     "index_reference": "ishmaeli",
@@ -4304,13 +4383,36 @@
           "label": "Sara",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ishmaeli",
+          "confidence": 0.9143,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ishmael",
+          "type": "group",
+          "preferred_label": "Ishmaelites",
+          "confidence": 0.6256,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ishmael.5",
+          "type": "person",
+          "preferred_label": "Ishmaeli",
+          "confidence": 0.6143,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575546,
+    "content_id": "575546",
     "reference_id": 25879,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Israeli",
     "media_type": "Text",
     "index_reference": "israeli",
@@ -6283,13 +6385,43 @@
           "label": "Ufalme wa Yuda",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israeli",
+          "confidence": 0.9938,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5994,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "Israelites",
+          "confidence": 0.5827,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Misri",
+          "confidence": 0.5076,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626952,
+    "content_id": "626952",
     "reference_id": 25567,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ita-Sema Kwa Sauti Kubwa",
     "media_type": "Text",
     "index_reference": "ita-sema kwa sauti kubwa",
@@ -6352,7 +6484,8 @@
           "label": "Lia",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

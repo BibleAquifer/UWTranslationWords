@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467077,
+    "content_id": "467077",
     "reference_id": 25933,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kadesh",
     "media_type": "Text",
     "index_reference": "kadesh",
@@ -76,13 +76,22 @@
           "label": "Saint",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kadesh-barnea",
+          "type": "place",
+          "preferred_label": "Kadès-Barnéa",
+          "confidence": 0.6318,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467078,
+    "content_id": "467078",
     "reference_id": 25934,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kedar",
     "media_type": "Text",
     "index_reference": "kedar",
@@ -133,13 +142,22 @@
           "label": "Sacrificer",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Kedar",
+          "type": "person",
+          "preferred_label": "Kédar",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467079,
+    "content_id": "467079",
     "reference_id": 25935,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kédesh",
     "media_type": "Text",
     "index_reference": "kédesh",
@@ -224,13 +242,36 @@
           "label": "Sichem",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kedesh",
+          "type": "place",
+          "preferred_label": "Kédesch",
+          "confidence": 0.6762,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Kishion",
+          "type": "place",
+          "preferred_label": "Kischjon",
+          "confidence": 0.5428,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Daberath",
+          "type": "place",
+          "preferred_label": "Dabrath",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466752,
+    "content_id": "466752",
     "reference_id": 25584,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kéréthiens",
     "media_type": "Text",
     "index_reference": "kéréthiens",
@@ -275,13 +316,57 @@
           "label": "Philistins",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Cherethite",
+          "type": "group",
+          "preferred_label": "Cherethites",
+          "confidence": 0.7195,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.6385,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaan",
+          "confidence": 0.6115,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Philistins",
+          "confidence": 0.598,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Philistia",
+          "confidence": 0.589,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "parole du seigneur",
+          "confidence": 0.5485,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467089,
+    "content_id": "467089",
     "reference_id": 25947,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Koré",
     "media_type": "Text",
     "index_reference": "koré",
@@ -406,6 +491,36 @@
           "resource_code": "Unknown",
           "label": "Prêtre",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Korah.3",
+          "type": "person",
+          "preferred_label": "Koré",
+          "confidence": 0.7053,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Korah",
+          "type": "person",
+          "preferred_label": "Koré",
+          "confidence": 0.6842,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Korah.2",
+          "type": "person",
+          "preferred_label": "Koré",
+          "confidence": 0.6211,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Korah",
+          "type": "group",
+          "preferred_label": "Korahites",
+          "confidence": 0.5581,
+          "match_method": "scored"
         }
       ]
     }

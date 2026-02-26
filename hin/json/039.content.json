@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179794,
+    "content_id": "179794",
     "reference_id": 25721,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बँधुआई",
     "media_type": "Text",
     "index_reference": "बँधुआई",
@@ -214,13 +214,14 @@
           "label": "यहूदा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179858,
+    "content_id": "179858",
     "reference_id": 25787,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बकरा-बकरियाँ",
     "media_type": "Text",
     "index_reference": "बकरा-बकरियाँ",
@@ -452,13 +453,22 @@
           "label": "दाखरस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Goat",
+          "type": "fauna",
+          "preferred_label": "Goat",
+          "confidence": 0.5334,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180259,
+    "content_id": "180259",
     "reference_id": 26201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बचाना",
     "media_type": "Text",
     "index_reference": "बचाना",
@@ -1470,13 +1480,14 @@
           "label": "पाप",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180226,
+    "content_id": "180226",
     "reference_id": 26168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बचे हुए",
     "media_type": "Text",
     "index_reference": "बचे हुए",
@@ -1576,13 +1587,14 @@
           "end_ref_usfm": "EZK 6:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180100,
+    "content_id": "180100",
     "reference_id": 26036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बढ़ाएगा",
     "media_type": "Text",
     "index_reference": "बढ़ाएगा",
@@ -2036,13 +2048,14 @@
           "end_ref_usfm": "HOS 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179599,
+    "content_id": "179599",
     "reference_id": 25511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बतशेबा",
     "media_type": "Text",
     "index_reference": "बतशेबा",
@@ -2098,13 +2111,29 @@
           "label": "ऊरिय्याह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "बतशेबा",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shobab",
+          "type": "person",
+          "preferred_label": "शोबाब",
+          "confidence": 0.5542,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179615,
+    "content_id": "179615",
     "reference_id": 25532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बतूएल",
     "media_type": "Text",
     "index_reference": "बतूएल",
@@ -2203,13 +2232,29 @@
           "label": "रिबका",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bethuel",
+          "type": "person",
+          "preferred_label": "बतूएल",
+          "confidence": 0.96,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Bethuel",
+          "type": "place",
+          "preferred_label": "बतूएल",
+          "confidence": 0.64,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180298,
+    "content_id": "180298",
     "reference_id": 26244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बदनामी",
     "media_type": "Text",
     "index_reference": "बदनामी",
@@ -2377,13 +2422,14 @@
           "label": "निंदा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179581,
+    "content_id": "179581",
     "reference_id": 25493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बदला लेना",
     "media_type": "Text",
     "index_reference": "बदला लेना",
@@ -2565,13 +2611,14 @@
           "label": "धर्मी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179608,
+    "content_id": "179608",
     "reference_id": 25525,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बनायाह",
     "media_type": "Text",
     "index_reference": "बनायाह",
@@ -2652,13 +2699,127 @@
           "label": "सुलैमान",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Benaiah",
+          "type": "person",
+          "preferred_label": "बनायाह",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.9",
+          "type": "person",
+          "preferred_label": "बनायाह",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.3",
+          "type": "person",
+          "preferred_label": "बनायाह",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.11",
+          "type": "person",
+          "preferred_label": "बनायाह",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.10",
+          "type": "person",
+          "preferred_label": "बनायाह",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.8",
+          "type": "person",
+          "preferred_label": "बनायाह",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoiada",
+          "type": "person",
+          "preferred_label": "यहोयादा",
+          "confidence": 0.5515,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Izziah",
+          "type": "person",
+          "preferred_label": "यिज्जियाह",
+          "confidence": 0.5375,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mijamin.2",
+          "type": "person",
+          "preferred_label": "मिय्यामीन",
+          "confidence": 0.5285,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maaseiah.9",
+          "type": "person",
+          "preferred_label": "मासेयाह",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ramiah",
+          "type": "person",
+          "preferred_label": "रम्याह",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mattaniah.7",
+          "type": "person",
+          "preferred_label": "मत्तन्याह",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mattithiah.3",
+          "type": "person",
+          "preferred_label": "मत्तित्याह",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeshohaiah",
+          "type": "person",
+          "preferred_label": "यशोहायाह",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Asaiah.2",
+          "type": "person",
+          "preferred_label": "असायाह",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Malchijah.4",
+          "type": "person",
+          "preferred_label": "मल्किय्याह",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179653,
+    "content_id": "179653",
     "reference_id": 25574,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बन्दी",
     "media_type": "Text",
     "index_reference": "बन्दी",
@@ -2846,13 +3007,14 @@
           "label": "बन्दी बनाना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180268,
+    "content_id": "180268",
     "reference_id": 26211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बन्दी बनाना",
     "media_type": "Text",
     "index_reference": "बन्दी बनाना",
@@ -3288,13 +3450,14 @@
           "end_ref_usfm": "ACT 16:21"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179591,
+    "content_id": "179591",
     "reference_id": 25503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बपतिस्मा देना",
     "media_type": "Text",
     "index_reference": "बपतिस्मा देना",
@@ -3776,13 +3939,22 @@
           "label": "मन फिराना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "Baptism",
+          "confidence": 0.534,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179517,
+    "content_id": "179517",
     "reference_id": 25427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बबूल",
     "media_type": "Text",
     "index_reference": "बबूल",
@@ -3831,13 +4003,43 @@
           "label": "निवासस्थान",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethul",
+          "type": "place",
+          "preferred_label": "बतूल",
+          "confidence": 0.8701,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bakbuk",
+          "type": "person",
+          "preferred_label": "बकबूक",
+          "confidence": 0.8102,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bethuel",
+          "type": "person",
+          "preferred_label": "बतूएल",
+          "confidence": 0.8068,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethuel",
+          "type": "place",
+          "preferred_label": "बतूएल",
+          "confidence": 0.8068,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179592,
+    "content_id": "179592",
     "reference_id": 25504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बरअब्बा",
     "media_type": "Text",
     "index_reference": "बरअब्बा",
@@ -3934,13 +4136,22 @@
           "label": "रोम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "बरअब्बा",
+          "confidence": 0.9333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179596,
+    "content_id": "179596",
     "reference_id": 25508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बरतुल्मै",
     "media_type": "Text",
     "index_reference": "बरतुल्मै",
@@ -4035,13 +4246,43 @@
           "label": "बारहों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bartholomew",
+          "type": "person",
+          "preferred_label": "बरतुल्मै",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "मत्ती",
+          "confidence": 0.5575,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "थोमा",
+          "confidence": 0.535,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "फिलिप्पुस",
+          "confidence": 0.5035,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179594,
+    "content_id": "179594",
     "reference_id": 25506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बरनबास",
     "media_type": "Text",
     "index_reference": "बरनबास",
@@ -4267,13 +4508,22 @@
           "label": "पौलुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "बरनबास",
+          "confidence": 0.9355,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180215,
+    "content_id": "180215",
     "reference_id": 26157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बलवा",
     "media_type": "Text",
     "index_reference": "बलवा",
@@ -4466,13 +4716,14 @@
           "label": "शासन करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180246,
+    "content_id": "180246",
     "reference_id": 26188,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बलिदान करना",
     "media_type": "Text",
     "index_reference": "बलिदान करना",
@@ -5135,13 +5386,14 @@
           "label": "दंडवत करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179655,
+    "content_id": "179655",
     "reference_id": 25576,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बहिष्कृत",
     "media_type": "Text",
     "index_reference": "बहिष्कृत",
@@ -5629,13 +5881,22 @@
           "label": "चिट्ठियाँ",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Exempt",
+          "type": "keyterm",
+          "preferred_label": "Exempt",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180120,
+    "content_id": "180120",
     "reference_id": 26057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बांज वृक्ष",
     "media_type": "Text",
     "index_reference": "बांज वृक्ष",
@@ -5707,13 +5968,14 @@
           "label": "पवित्र",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179631,
+    "content_id": "179631",
     "reference_id": 25549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बांधना",
     "media_type": "Text",
     "index_reference": "बांधना",
@@ -6195,13 +6457,14 @@
           "label": "सेवा करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179820,
+    "content_id": "179820",
     "reference_id": 25747,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बाँसुरी",
     "media_type": "Text",
     "index_reference": "बाँसुरी",
@@ -6274,13 +6537,22 @@
           "label": "चरवाहा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Flute",
+          "type": "realia",
+          "preferred_label": "Flute",
+          "confidence": 0.5042,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180237,
+    "content_id": "180237",
     "reference_id": 26179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बागा",
     "media_type": "Text",
     "index_reference": "बागा",
@@ -6545,13 +6817,14 @@
           "label": "कुर्ता",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179587,
+    "content_id": "179587",
     "reference_id": 25499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बाबेल",
     "media_type": "Text",
     "index_reference": "बाबेल",
@@ -6595,13 +6868,22 @@
           "label": "मेसोपोटामिया",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "बेबीलोन",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180349,
+    "content_id": "180349",
     "reference_id": 26296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बारहों",
     "media_type": "Text",
     "index_reference": "बारहों",
@@ -6872,13 +7154,14 @@
           "label": "चेला",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179597,
+    "content_id": "179597",
     "reference_id": 25509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बारूक",
     "media_type": "Text",
     "index_reference": "बारूक",
@@ -6960,13 +7243,57 @@
           "label": "भविष्यद्वक्ता",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Baruch.4",
+          "type": "person",
+          "preferred_label": "बारूक",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baruch.2",
+          "type": "person",
+          "preferred_label": "बारूक",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baruch",
+          "type": "person",
+          "preferred_label": "बारूक",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baruch.3",
+          "type": "person",
+          "preferred_label": "बारूक",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joiarib.3",
+          "type": "person",
+          "preferred_label": "योयारीब",
+          "confidence": 0.56,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Neriah",
+          "type": "person",
+          "preferred_label": "नेरिय्याह",
+          "confidence": 0.525,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179585,
+    "content_id": "179585",
     "reference_id": 25497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बाल",
     "media_type": "Text",
     "index_reference": "बाल",
@@ -7055,13 +7382,50 @@
           "label": "यहोवा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "बाल",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jezebel",
+          "type": "person",
+          "preferred_label": "ईजेबेल",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ethbaal",
+          "type": "person",
+          "preferred_label": "एतबाल",
+          "confidence": 0.5375,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "बालाक",
+          "confidence": 0.5,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "बिलाम",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179603,
+    "content_id": "179603",
     "reference_id": 25518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बालज़बूल(शैतान)",
     "media_type": "Text",
     "index_reference": "बालज़बूल(शैतान)",
@@ -7141,13 +7505,14 @@
           "label": "शैतान",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179586,
+    "content_id": "179586",
     "reference_id": 25498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बाशा",
     "media_type": "Text",
     "index_reference": "बाशा",
@@ -7190,13 +7555,22 @@
           "label": "देवता",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Baasha",
+          "type": "person",
+          "preferred_label": "बाशा",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179598,
+    "content_id": "179598",
     "reference_id": 25510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बाशान",
     "media_type": "Text",
     "index_reference": "बाशान",
@@ -7265,13 +7639,29 @@
           "label": "सीरिया",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bashan",
+          "type": "place",
+          "preferred_label": "बाशान",
+          "confidence": 0.7833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ben-geber",
+          "type": "person",
+          "preferred_label": "बेनगेबेर",
+          "confidence": 0.5452,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179609,
+    "content_id": "179609",
     "reference_id": 25526,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बिन्यामीन",
     "media_type": "Text",
     "index_reference": "बिन्यामीन",
@@ -7525,13 +7915,57 @@
           "label": "राहेल",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Benjamin",
+          "type": "person",
+          "preferred_label": "बिन्यामीन",
+          "confidence": 0.9263,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "बिन्यामीन",
+          "confidence": 0.6105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "नामान",
+          "confidence": 0.6105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "बिन्यामीन",
+          "confidence": 0.6105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benjamin.3",
+          "type": "person",
+          "preferred_label": "बिन्यामीन",
+          "confidence": 0.6105,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Benjamin",
+          "type": "group",
+          "preferred_label": "बिन्यामीन",
+          "confidence": 0.5974,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179610,
+    "content_id": "179610",
     "reference_id": 25527,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बिरीया",
     "media_type": "Text",
     "index_reference": "बिरीया",
@@ -7600,13 +8034,22 @@
           "label": "थिस्सलुनिके",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Berea",
+          "type": "place",
+          "preferred_label": "बिरीया",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179589,
+    "content_id": "179589",
     "reference_id": 25501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बिलाम",
     "media_type": "Text",
     "index_reference": "बिलाम",
@@ -7728,13 +8171,29 @@
           "label": "पोर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "बिलाम",
+          "confidence": 0.88,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "बालाक",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 182407,
+    "content_id": "182407",
     "reference_id": 25540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बिल्हा",
     "media_type": "Text",
     "index_reference": "बिल्हा",
@@ -7827,13 +8286,29 @@
           "label": "राहेल",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bilhah",
+          "type": "person",
+          "preferred_label": "बिल्हा",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "राहेल",
+          "confidence": 0.5378,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180266,
+    "content_id": "180266",
     "reference_id": 26208,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बीज",
     "media_type": "Text",
     "index_reference": "बीज",
@@ -8349,13 +8824,14 @@
           "label": "अवतरण",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179856,
+    "content_id": "179856",
     "reference_id": 25785,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बीनने",
     "media_type": "Text",
     "index_reference": "बीनने",
@@ -8478,13 +8954,14 @@
           "label": "रूत",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180205,
+    "content_id": "180205",
     "reference_id": 26146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बुझाना",
     "media_type": "Text",
     "index_reference": "बुझाना",
@@ -8557,13 +9034,14 @@
           "label": "पवित्र आत्मा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180402,
+    "content_id": "180402",
     "reference_id": 26350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बुद्धिमान",
     "media_type": "Text",
     "index_reference": "बुद्धिमान",
@@ -9733,13 +10211,14 @@
           "label": "फल",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180198,
+    "content_id": "180198",
     "reference_id": 26139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बुद्धिमानी",
     "media_type": "Text",
     "index_reference": "बुद्धिमानी",
@@ -9927,13 +10406,14 @@
           "label": "बुद्धिमान",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180403,
+    "content_id": "180403",
     "reference_id": 26351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बुद्धिमानों",
     "media_type": "Text",
     "index_reference": "बुद्धिमानों",
@@ -10077,13 +10557,14 @@
           "label": "बुद्धिमान",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180411,
+    "content_id": "180411",
     "reference_id": 26359,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बुरा",
     "media_type": "Text",
     "index_reference": "बुरा",
@@ -10255,13 +10736,36 @@
           "end_ref_usfm": "MAT 20:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Bigvai",
+          "type": "person",
+          "preferred_label": "बिगवै",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bigvai.2",
+          "type": "person",
+          "preferred_label": "बिगवै",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bigvai.3",
+          "type": "person",
+          "preferred_label": "बिगवै",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 179791,
+    "content_id": "179791",
     "reference_id": 25718,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बुराई",
     "media_type": "Text",
     "index_reference": "बुराई",
@@ -12436,13 +12940,22 @@
           "label": "पाप",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bigtha",
+          "type": "person",
+          "preferred_label": "बिगता",
+          "confidence": 0.8054,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 182409,
+    "content_id": "182409",
     "reference_id": 25568,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बुलाना- नाम के लिए",
     "media_type": "Text",
     "index_reference": "बुलाना- नाम के लिए",
@@ -12490,13 +13003,14 @@
           "label": "आह्वान के लिए कॉल",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 182408,
+    "content_id": "182408",
     "reference_id": 25567,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बुलाना-जोर से बोलें",
     "media_type": "Text",
     "index_reference": "बुलाना-जोर से बोलें",
@@ -12559,13 +13073,14 @@
           "label": "पुकार",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179614,
+    "content_id": "179614",
     "reference_id": 25531,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बेतशेमेश",
     "media_type": "Text",
     "index_reference": "बेतशेमेश",
@@ -12642,13 +13157,43 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beth-shemesh.2",
+          "type": "place",
+          "preferred_label": "बेतशेमेश",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Beth-shemesh.3",
+          "type": "place",
+          "preferred_label": "बेतशेमेश",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shaalbim",
+          "type": "place",
+          "preferred_label": "शाल्बीम",
+          "confidence": 0.5902,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Beth-shemesh",
+          "type": "place",
+          "preferred_label": "बेतशेमेश",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179612,
+    "content_id": "179612",
     "reference_id": 25529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बेतेल",
     "media_type": "Text",
     "index_reference": "बेतेल",
@@ -12789,13 +13334,29 @@
           "label": "यरूशलेम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "बेतेल",
+          "confidence": 0.9765,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Allon-bacuth",
+          "type": "place",
+          "preferred_label": "अल्लोनबक्कूत",
+          "confidence": 0.511,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179588,
+    "content_id": "179588",
     "reference_id": 25500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बेबीलोन",
     "media_type": "Text",
     "index_reference": "बेबीलोन",
@@ -13033,13 +13594,36 @@
           "label": "नबूकदनेस्सर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "बेबीलोन",
+          "confidence": 0.9647,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Babylon",
+          "type": "group",
+          "preferred_label": "बाबेली",
+          "confidence": 0.6118,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zerubbabel.2",
+          "type": "person",
+          "preferred_label": "जरूब्बाबेल",
+          "confidence": 0.5228,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179604,
+    "content_id": "179604",
     "reference_id": 25519,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बेर्शेबा",
     "media_type": "Text",
     "index_reference": "बेर्शेबा",
@@ -13176,13 +13760,22 @@
           "label": "शपथ",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beersheba",
+          "type": "place",
+          "preferred_label": "बेर्शेबा",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180202,
+    "content_id": "180202",
     "reference_id": 26143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बैंगनी",
     "media_type": "Text",
     "index_reference": "बैंगनी",
@@ -13480,13 +14073,22 @@
           "label": "मन्दिर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:PurpleCloth",
+          "type": "realia",
+          "preferred_label": "Purple Cloth",
+          "confidence": 0.5329,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179611,
+    "content_id": "179611",
     "reference_id": 25528,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बैतनिय्याह",
     "media_type": "Text",
     "index_reference": "बैतनिय्याह",
@@ -13629,13 +14231,29 @@
           "label": "जैतून पर्वत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethany",
+          "type": "place",
+          "preferred_label": "बैतनिय्याह",
+          "confidence": 0.8588,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Bethany.2",
+          "type": "place",
+          "preferred_label": "बैतनिय्याह",
+          "confidence": 0.6235,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179613,
+    "content_id": "179613",
     "reference_id": 25530,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बैतलहम",
     "media_type": "Text",
     "index_reference": "बैतलहम",
@@ -13775,13 +14393,22 @@
           "label": "मीका",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "बैतलहम",
+          "confidence": 0.9778,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179630,
+    "content_id": "179630",
     "reference_id": 25548,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बोअज़",
     "media_type": "Text",
     "index_reference": "बोअज़",
@@ -13951,13 +14578,22 @@
           "label": "रूत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Boaz",
+          "type": "person",
+          "preferred_label": "बोअज",
+          "confidence": 0.95,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 182402,
+    "content_id": "182402",
     "reference_id": 25512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "बोझ उठाना-ढोना",
     "media_type": "Text",
     "index_reference": "बोझ उठाना-ढोना",
@@ -13974,7 +14610,8 @@
           "label": "धीरज धरना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

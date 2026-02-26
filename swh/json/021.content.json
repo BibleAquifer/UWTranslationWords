@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 627116,
+    "content_id": "627116",
     "reference_id": 25872,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uadilifu",
     "media_type": "Text",
     "index_reference": "uadilifu",
@@ -111,13 +111,43 @@
           "label": "Yosefu Agano la Kale",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fairness",
+          "type": "keyterm",
+          "preferred_label": "Fairness",
+          "confidence": 0.8441,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Uprightness",
+          "type": "keyterm",
+          "preferred_label": "Uprightness",
+          "confidence": 0.8318,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Abaddon",
+          "type": "deity",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8086,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abaddon",
+          "type": "place",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8086,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627012,
+    "content_id": "627012",
     "reference_id": 25674,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uaguzi",
     "media_type": "Text",
     "index_reference": "uaguzi",
@@ -204,13 +234,14 @@
           "label": "Uchawi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627242,
+    "content_id": "627242",
     "reference_id": 26091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uajemi",
     "media_type": "Text",
     "index_reference": "uajemi",
@@ -379,13 +410,29 @@
           "label": "Nehemia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "Uajemi",
+          "confidence": 0.9778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Dinaite",
+          "type": "person",
+          "preferred_label": "Kiajemi",
+          "confidence": 0.5187,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626985,
+    "content_id": "626985",
     "reference_id": 25622,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "uaminifu wa agano",
     "media_type": "Text",
     "index_reference": "uaminifu wa agano",
@@ -648,13 +695,22 @@
           "label": "Neema",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kindness",
+          "type": "keyterm",
+          "preferred_label": "Kindness",
+          "confidence": 0.6895,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575490,
+    "content_id": "575490",
     "reference_id": 25757,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ubani",
     "media_type": "Text",
     "index_reference": "ubani",
@@ -733,13 +789,22 @@
           "label": "Wanaume Waliojifunza",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Frankincense",
+          "type": "flora",
+          "preferred_label": "Frankincense",
+          "confidence": 0.562,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627180,
+    "content_id": "627180",
     "reference_id": 25987,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uchawi",
     "media_type": "Text",
     "index_reference": "uchawi",
@@ -856,13 +921,14 @@
           "label": "Uchawi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627328,
+    "content_id": "627328",
     "reference_id": 26253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uchawi",
     "media_type": "Text",
     "index_reference": "uchawi",
@@ -1000,13 +1066,14 @@
           "label": "Kuabudu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627327,
+    "content_id": "627327",
     "reference_id": 26245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uchinjaji",
     "media_type": "Text",
     "index_reference": "uchinjaji",
@@ -1171,13 +1238,14 @@
           "label": "Ezekieli",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627326,
+    "content_id": "627326",
     "reference_id": 26244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uchongezi",
     "media_type": "Text",
     "index_reference": "uchongezi",
@@ -1345,13 +1413,14 @@
           "label": "Kufuru",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 626882,
+    "content_id": "626882",
     "reference_id": 25460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uchungu",
     "media_type": "Text",
     "index_reference": "uchungu",
@@ -1415,13 +1484,14 @@
           "end_ref_usfm": "PSA 116:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575575,
+    "content_id": "575575",
     "reference_id": 25939,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ufalme",
     "media_type": "Text",
     "index_reference": "ufalme",
@@ -1732,13 +1802,22 @@
           "label": "Ufalme wa Israeli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "Kingdom",
+          "confidence": 0.6809,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627151,
+    "content_id": "627151",
     "reference_id": 25941,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ufalme wa Israeli",
     "media_type": "Text",
     "index_reference": "ufalme wa israeli",
@@ -1816,13 +1895,36 @@
           "label": "Samaria",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israeli",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yuda",
+          "confidence": 0.517,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yuda",
+          "confidence": 0.508,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575576,
+    "content_id": "575576",
     "reference_id": 25940,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ufalme wa Mungu",
     "media_type": "Text",
     "index_reference": "ufalme wa mungu",
@@ -2679,13 +2781,22 @@
           "label": "Utawala",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "Kingdom",
+          "confidence": 0.688,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627152,
+    "content_id": "627152",
     "reference_id": 25942,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ufalme wa Yuda",
     "media_type": "Text",
     "index_reference": "ufalme wa yuda",
@@ -2740,13 +2851,29 @@
           "label": "Samaki wa chumvi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yuda",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yuda",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627245,
+    "content_id": "627245",
     "reference_id": 26099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ufilisti",
     "media_type": "Text",
     "index_reference": "ufilisti",
@@ -2802,13 +2929,22 @@
           "label": "Wafilisti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Wafilisti",
+          "confidence": 0.7857,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575673,
+    "content_id": "575673",
     "reference_id": 26173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ufufuo",
     "media_type": "Text",
     "index_reference": "ufufuo",
@@ -3070,13 +3206,22 @@
           "end_ref_usfm": "JHN 5:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "Resurrection",
+          "confidence": 0.63,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 627079,
+    "content_id": "627079",
     "reference_id": 25804,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ugiriki",
     "media_type": "Text",
     "index_reference": "ugiriki",
@@ -3171,13 +3316,22 @@
           "label": "Thesalonike",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "Kigiriki",
+          "confidence": 0.7322,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627333,
+    "content_id": "627333",
     "reference_id": 26264,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ugomvi",
     "media_type": "Text",
     "index_reference": "ugomvi",
@@ -3433,13 +3587,14 @@
           "end_ref_usfm": "PSA 55:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627040,
+    "content_id": "627040",
     "reference_id": 25721,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uhamisho",
     "media_type": "Text",
     "index_reference": "uhamisho",
@@ -3651,13 +3806,14 @@
           "label": "Ufalme wa Yuda",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575421,
+    "content_id": "575421",
     "reference_id": 25618,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ujasiri",
     "media_type": "Text",
     "index_reference": "ujasiri",
@@ -3899,13 +4055,14 @@
           "label": "Hofu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575445,
+    "content_id": "575445",
     "reference_id": 25663,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ukiwa",
     "media_type": "Text",
     "index_reference": "ukiwa",
@@ -4063,13 +4220,14 @@
           "label": "Potea",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575586,
+    "content_id": "575586",
     "reference_id": 25965,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ukoma",
     "media_type": "Text",
     "index_reference": "ukoma",
@@ -4185,13 +4343,22 @@
           "label": "Naamani",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Cleanse.2",
+          "type": "keyterm",
+          "preferred_label": "To Cleanse",
+          "confidence": 0.5472,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626972,
+    "content_id": "626972",
     "reference_id": 25595,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ukoo",
     "media_type": "Text",
     "index_reference": "ukoo",
@@ -4361,13 +4528,22 @@
           "label": "Kabila",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beth-ashbea",
+          "type": "place",
+          "preferred_label": "ukoo",
+          "confidence": 0.83,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627207,
+    "content_id": "627207",
     "reference_id": 26028,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ukungu",
     "media_type": "Text",
     "index_reference": "ukungu",
@@ -4398,13 +4574,14 @@
           "label": "Fedha",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627354,
+    "content_id": "627354",
     "reference_id": 26308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ulimi",
     "media_type": "Text",
     "index_reference": "ulimi",
@@ -4917,13 +5094,14 @@
           "label": "Roho",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627115,
+    "content_id": "627115",
     "reference_id": 25870,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uliza",
     "media_type": "Text",
     "index_reference": "uliza",
@@ -4969,13 +5147,14 @@
           "end_ref_usfm": "EZK 20:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627286,
+    "content_id": "627286",
     "reference_id": 26169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Umaarufu",
     "media_type": "Text",
     "index_reference": "umaarufu",
@@ -5005,13 +5184,14 @@
           "label": "Heshima",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627076,
+    "content_id": "627076",
     "reference_id": 25798,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Umbea",
     "media_type": "Text",
     "index_reference": "umbea",
@@ -5065,13 +5245,14 @@
           "label": "Uchongezi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575358,
+    "content_id": "575358",
     "reference_id": 25437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Umri",
     "media_type": "Text",
     "index_reference": "umri",
@@ -5495,13 +5676,22 @@
           "end_ref_usfm": "REV 22:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Always",
+          "type": "keyterm",
+          "preferred_label": "Always",
+          "confidence": 0.6136,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 575391,
+    "content_id": "575391",
     "reference_id": 25546,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Umwagaji damu",
     "media_type": "Text",
     "index_reference": "umwagaji damu",
@@ -5567,13 +5757,29 @@
           "label": "Uchinjaji",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Bleed",
+          "type": "keyterm",
+          "preferred_label": "Bleed",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:SheddingOfBlood",
+          "type": "keyterm",
+          "preferred_label": "Shedding of Blood",
+          "confidence": 0.8077,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575466,
+    "content_id": "575466",
     "reference_id": 25718,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uovu",
     "media_type": "Text",
     "index_reference": "uovu",
@@ -7748,13 +7954,14 @@
           "label": "dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575540,
+    "content_id": "575540",
     "reference_id": 25868,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uovu",
     "media_type": "Text",
     "index_reference": "uovu",
@@ -8038,13 +8245,22 @@
           "label": "Thambi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Ardour",
+          "type": "keyterm",
+          "preferred_label": "Passion",
+          "confidence": 0.57,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575721,
+    "content_id": "575721",
     "reference_id": 26275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Upanga",
     "media_type": "Text",
     "index_reference": "upanga",
@@ -8479,13 +8695,22 @@
           "label": "Ulimi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Sword",
+          "type": "realia",
+          "preferred_label": "Sword",
+          "confidence": 0.8463,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 626906,
+    "content_id": "626906",
     "reference_id": 25490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Upatanisho",
     "media_type": "Text",
     "index_reference": "upatanisho",
@@ -8591,13 +8816,22 @@
           "label": "Komboa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Appease",
+          "type": "keyterm",
+          "preferred_label": "Appease",
+          "confidence": 0.5932,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627264,
+    "content_id": "627264",
     "reference_id": 26130,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Upatanisho",
     "media_type": "Text",
     "index_reference": "upatanisho",
@@ -8666,13 +8900,22 @@
           "label": "Dhabihu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575592,
+    "content_id": "575592",
     "reference_id": 25978,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Upendo",
     "media_type": "Text",
     "index_reference": "upendo",
@@ -10367,13 +10610,22 @@
           "label": "dhambi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Love",
+          "type": "keyterm",
+          "preferred_label": "Love",
+          "confidence": 0.5983,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626863,
+    "content_id": "626863",
     "reference_id": 25432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Upokeaji",
     "media_type": "Text",
     "index_reference": "upokeaji",
@@ -10441,13 +10693,14 @@
           "label": "Roho",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575756,
+    "content_id": "575756",
     "reference_id": 26330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uria",
     "media_type": "Text",
     "index_reference": "uria",
@@ -10534,13 +10787,43 @@
           "label": "Mhiti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Uriah",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uriah.4",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uriah.5",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Daudi",
+          "confidence": 0.5258,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627360,
+    "content_id": "627360",
     "reference_id": 26329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uru",
     "media_type": "Text",
     "index_reference": "uru",
@@ -10630,13 +10913,43 @@
           "label": "Mesopotamia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ur",
+          "type": "place",
+          "preferred_label": "Uru",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "Lutu",
+          "confidence": 0.5665,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Chaldea",
+          "type": "place",
+          "preferred_label": "Wakaldayo",
+          "confidence": 0.533,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Haran",
+          "type": "person",
+          "preferred_label": "Harani",
+          "confidence": 0.5025,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627047,
+    "content_id": "627047",
     "reference_id": 25737,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ushirika",
     "media_type": "Text",
     "index_reference": "ushirika",
@@ -10766,13 +11079,22 @@
           "end_ref_usfm": "PSA 55:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Fellowship",
+          "type": "keyterm",
+          "preferred_label": "Fellowship",
+          "confidence": 0.6285,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 575731,
+    "content_id": "575731",
     "reference_id": 26293,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ushuhuda",
     "media_type": "Text",
     "index_reference": "ushuhuda",
@@ -12222,13 +12544,36 @@
           "label": "Ushuhuda",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Witness.2",
+          "type": "keyterm",
+          "preferred_label": "Testimony",
+          "confidence": 0.9288,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Proof",
+          "type": "keyterm",
+          "preferred_label": "Proof",
+          "confidence": 0.888,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Witness",
+          "type": "keyterm",
+          "preferred_label": "Witness",
+          "confidence": 0.8422,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627362,
+    "content_id": "627362",
     "reference_id": 26334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utaji",
     "media_type": "Text",
     "index_reference": "utaji",
@@ -12318,13 +12663,14 @@
           "label": "Mose",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627007,
+    "content_id": "627007",
     "reference_id": 25668,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utambuzi",
     "media_type": "Text",
     "index_reference": "utambuzi",
@@ -12577,13 +12923,14 @@
           "label": "Mwerevu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627014,
+    "content_id": "627014",
     "reference_id": 25677,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utawala",
     "media_type": "Text",
     "index_reference": "utawala",
@@ -12673,13 +13020,22 @@
           "label": "Mamlaka",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Authority.2",
+          "type": "keyterm",
+          "preferred_label": "Authority",
+          "confidence": 0.8114,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575668,
+    "content_id": "575668",
     "reference_id": 26166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utawala",
     "media_type": "Text",
     "index_reference": "utawala",
@@ -12955,13 +13311,22 @@
           "label": "Ufalme",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Authority.2",
+          "type": "keyterm",
+          "preferred_label": "Authority",
+          "confidence": 0.8114,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575500,
+    "content_id": "575500",
     "reference_id": 25786,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utukufu",
     "media_type": "Text",
     "index_reference": "utukufu",
@@ -14386,13 +14751,29 @@
           "label": "Utukufu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Abaddon",
+          "type": "deity",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abaddon",
+          "type": "place",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627182,
+    "content_id": "627182",
     "reference_id": 25989,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utukufu",
     "media_type": "Text",
     "index_reference": "utukufu",
@@ -14500,13 +14881,29 @@
           "label": "Mfalme",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Abaddon",
+          "type": "deity",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abaddon",
+          "type": "place",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627223,
+    "content_id": "627223",
     "reference_id": 26056,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utukufu",
     "media_type": "Text",
     "index_reference": "utukufu",
@@ -14636,13 +15033,29 @@
           "end_ref_usfm": "PSA 16:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Abaddon",
+          "type": "deity",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abaddon",
+          "type": "place",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 627330,
+    "content_id": "627330",
     "reference_id": 26258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utukufu",
     "media_type": "Text",
     "index_reference": "utukufu",
@@ -14782,13 +15195,29 @@
           "label": "Utukufu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Abaddon",
+          "type": "deity",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abaddon",
+          "type": "place",
+          "preferred_label": "Uharibifu",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575425,
+    "content_id": "575425",
     "reference_id": 25624,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uumbaji",
     "media_type": "Text",
     "index_reference": "uumbaji",
@@ -15120,13 +15549,14 @@
           "label": "Dunia",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627073,
+    "content_id": "627073",
     "reference_id": 25789,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uungu",
     "media_type": "Text",
     "index_reference": "uungu",
@@ -15392,13 +15822,22 @@
           "label": "Mwenye Haki",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Uqnu",
+          "type": "place",
+          "preferred_label": "Uqnu",
+          "confidence": 0.8143,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627113,
+    "content_id": "627113",
     "reference_id": 25865,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uvumba",
     "media_type": "Text",
     "index_reference": "uvumba",
@@ -15604,13 +16043,14 @@
           "label": "Ubani",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627241,
+    "content_id": "627241",
     "reference_id": 26090,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uvumulivu",
     "media_type": "Text",
     "index_reference": "uvumulivu",
@@ -15695,13 +16135,14 @@
           "label": "Jaribio",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627355,
+    "content_id": "627355",
     "reference_id": 26312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uvunjaji wa sheria",
     "media_type": "Text",
     "index_reference": "uvunjaji wa sheria",
@@ -15943,13 +16384,14 @@
           "label": "Thambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627144,
+    "content_id": "627144",
     "reference_id": 25925,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uyahudi",
     "media_type": "Text",
     "index_reference": "uyahudi",
@@ -15987,13 +16429,85 @@
           "label": "Sheria ya Mose",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Abihud",
+          "type": "person",
+          "preferred_label": "Abihudi",
+          "confidence": 0.8473,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abiud",
+          "type": "person",
+          "preferred_label": "Abihudi",
+          "confidence": 0.8473,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.8291,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ammihud",
+          "type": "person",
+          "preferred_label": "Amihudi",
+          "confidence": 0.8026,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ammihud.2",
+          "type": "person",
+          "preferred_label": "Amihudi",
+          "confidence": 0.8026,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ammihud.3",
+          "type": "person",
+          "preferred_label": "Amihudi",
+          "confidence": 0.8026,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ammihud.4",
+          "type": "person",
+          "preferred_label": "Amihudi",
+          "confidence": 0.8026,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ammihud.5",
+          "type": "person",
+          "preferred_label": "Amihudi",
+          "confidence": 0.8026,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudi",
+          "type": "person",
+          "preferred_label": "Yehudi",
+          "confidence": 0.8025,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jehud",
+          "type": "place",
+          "preferred_label": "Yehudi",
+          "confidence": 0.8025,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627156,
+    "content_id": "627156",
     "reference_id": 25949,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uzazi wa uchungu",
     "media_type": "Text",
     "index_reference": "uzazi wa uchungu",
@@ -16002,13 +16516,14 @@
     "content": "<h1>uzazi, uzazi</h1><h2>Ufafanuzi:</h2><p>Likitumika kwa muktadha huu, neno &quot;uzazi&quot; linamaanisha mchakato wa mwanamke kujifungua.</p><ul><li><p>Kirai &quot;katika uchungu&quot; mara nyingi hutumiwa kumwelezea mwanamke ambaye yuko katika mchakato wa kujifungua.</p></li><li><p>Kirai &quot;maumivu ya uchungu wa uzazi&quot; kinamaanisha maumivu ambayo mwanamke hupata wakati wa mchakato wa kujifungua.</p></li><li><p>Kwa Kiingereza, neno &quot;labor&quot; linatumika kuelezea mchakato wa kujifungua. Lugha nyingine zinaweza kuwa na maneno tofauti kabisa kwa hili.</p></li><li><p>Njia nyingine ya kutafsiri kirai &quot;katika uchungu&quot; ni &quot;kujifungua&quot;</p></li></ul><p>(Tazama pia: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_laborpains\" data-resourceType=\"UWTranslationWords\">maumivu ya uchungu wa uzazi</span>)</p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575757,
+    "content_id": "575757",
     "reference_id": 26331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uzia",
     "media_type": "Text",
     "index_reference": "uzia",
@@ -16103,13 +16618,22 @@
           "label": "Ufalme wa Yuda",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Uzziah",
+          "type": "person",
+          "preferred_label": "Uzia",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575356,
+    "content_id": "575356",
     "reference_id": 25433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uzinzi",
     "media_type": "Text",
     "index_reference": "uzinzi",
@@ -16322,13 +16846,14 @@
           "label": "Uzinzi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575487,
+    "content_id": "575487",
     "reference_id": 25753,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uzinzi",
     "media_type": "Text",
     "index_reference": "uzinzi",
@@ -16637,7 +17162,8 @@
           "label": "Mungu wa Uongo",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391186,
+    "content_id": "391186",
     "reference_id": 26265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "濃酒",
     "media_type": "Text",
     "index_reference": "濃酒",
@@ -81,6 +81,15 @@
           "resource_code": "UWTranslationWords",
           "label": "葡萄酒",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.5056,
+          "match_method": "scored"
         }
       ]
     }

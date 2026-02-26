@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391087,
+    "content_id": "391087",
     "reference_id": 26165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅波安",
     "media_type": "Text",
     "index_reference": "羅波安",
@@ -65,13 +65,14 @@
           "label": "所羅門",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390903,
+    "content_id": "390903",
     "reference_id": 25976,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅得",
     "media_type": "Text",
     "index_reference": "羅得",
@@ -321,13 +322,22 @@
           "label": "所多瑪",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "Lot",
+          "confidence": 0.5258,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391103,
+    "content_id": "391103",
     "reference_id": 26181,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅馬城",
     "media_type": "Text",
     "index_reference": "羅馬城",
@@ -492,13 +502,22 @@
           "label": "彼拉多",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Rome",
+          "confidence": 0.8904,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390510,
+    "content_id": "390510",
     "reference_id": 25570,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "駱駝",
     "media_type": "Text",
     "index_reference": "駱駝",
@@ -744,6 +763,15 @@
           "resource_code": "UWTranslationWords",
           "label": "潔淨",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Camel",
+          "type": "fauna",
+          "preferred_label": "Camel",
+          "confidence": 0.5,
+          "match_method": "scored"
         }
       ]
     }

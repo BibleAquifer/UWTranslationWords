@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 466769,
+    "content_id": "466769",
     "reference_id": 25601,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "# Compagnon",
     "media_type": "Text",
     "index_reference": "# compagnon",
@@ -234,13 +234,14 @@
           "end_ref_usfm": "PSA 38:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466766,
+    "content_id": "466766",
     "reference_id": 25598,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "# Confort",
     "media_type": "Text",
     "index_reference": "# confort",
@@ -554,13 +555,22 @@
           "label": "Saint-Esprit",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Encourage",
+          "type": "keyterm",
+          "preferred_label": "prier",
+          "confidence": 0.532,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466878,
+    "content_id": "466878",
     "reference_id": 25719,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "# exalt",
     "media_type": "Text",
     "index_reference": "# exalt",
@@ -761,13 +771,14 @@
           "label": "Adorer",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467215,
+    "content_id": "467215",
     "reference_id": 26090,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "# persévérer",
     "media_type": "Text",
     "index_reference": "# persévérer",
@@ -845,7 +856,8 @@
           "label": "Procès",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

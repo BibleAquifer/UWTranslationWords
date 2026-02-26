@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390448,
+    "content_id": "390448",
     "reference_id": 25507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "不生育",
     "media_type": "Text",
     "index_reference": "不生育",
@@ -96,13 +96,14 @@
           "end_ref_usfm": "GAL 4:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390661,
+    "content_id": "390661",
     "reference_id": 25727,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "不信的",
     "media_type": "Text",
     "index_reference": "不信的",
@@ -235,6 +236,15 @@
           "resource_code": "UWTranslationWords",
           "label": "忠心",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Disbelieve",
+          "type": "keyterm",
+          "preferred_label": "Disbelieve",
+          "confidence": 0.8261,
+          "match_method": "embedding"
         }
       ]
     }

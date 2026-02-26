@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 575377,
+    "content_id": "575377",
     "reference_id": 25515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zaa",
     "media_type": "Text",
     "index_reference": "zaa",
@@ -957,13 +957,14 @@
           "label": "Tunda",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 626929,
+    "content_id": "626929",
     "reference_id": 25522,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zaa",
     "media_type": "Text",
     "index_reference": "zaa",
@@ -972,13 +973,14 @@
     "content": "<h1>kuzaa, alizaa, kuzaliwa</h1><h2>Ufafanuzi:</h2><p>Neno &quot;zaa&quot; linamaanisha kuwa baba wa mtu.</p><h2>Mapendekezo ya Tafsiri:</h2><ul><li><p>Unaweza kutafsiri neno &quot;zaa&quot; kama &quot;leta mbele,&quot; neno &quot;zaa&quot; kama &quot;alizaa,&quot; na neno &quot;zaa&quot; kama &quot;alitoa uhai.&quot;</p></li><li><p>Neno &quot;zaliwa&quot; ni umbo la upole la &quot;zaa&quot; na linamaanisha &quot;aliyezaliwa.&quot;</p></li></ul><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p></p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575511,
+    "content_id": "575511",
     "reference_id": 25803,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zabibu",
     "media_type": "Text",
     "index_reference": "zabibu",
@@ -1088,13 +1090,14 @@
           "label": "Divai",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575785,
+    "content_id": "575785",
     "reference_id": 26368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zabuloni",
     "media_type": "Text",
     "index_reference": "zabuloni",
@@ -1198,13 +1201,29 @@
           "label": "Lea",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zebulun",
+          "type": "person",
+          "preferred_label": "Zabuloni",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Zebulun",
+          "type": "group",
+          "preferred_label": "Zabuloni",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627273,
+    "content_id": "627273",
     "reference_id": 26140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zaburi",
     "media_type": "Text",
     "index_reference": "zaburi",
@@ -1286,13 +1305,22 @@
           "label": "Mose",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Psalm",
+          "type": "keyterm",
+          "preferred_label": "Psalm",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627370,
+    "content_id": "627370",
     "reference_id": 26369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zakaria AJ",
     "media_type": "Text",
     "index_reference": "zakaria aj",
@@ -1402,13 +1430,22 @@
           "label": "nabii",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zechariah",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.6945,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627368,
+    "content_id": "627368",
     "reference_id": 26364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zakayo",
     "media_type": "Text",
     "index_reference": "zakayo",
@@ -1478,13 +1515,22 @@
           "label": "Kodi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zacchaeus",
+          "type": "person",
+          "preferred_label": "Zakayo",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627274,
+    "content_id": "627274",
     "reference_id": 26143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zambarau",
     "media_type": "Text",
     "index_reference": "zambarau",
@@ -1782,13 +1828,29 @@
           "label": "Hema",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Linen",
+          "type": "realia",
+          "preferred_label": "Linen",
+          "confidence": 0.6374,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:PurpleCloth",
+          "type": "realia",
+          "preferred_label": "Purple Cloth",
+          "confidence": 0.6139,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575387,
+    "content_id": "575387",
     "reference_id": 25537,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zamu ya usiku Wakati wa Biblia",
     "media_type": "Text",
     "index_reference": "zamu ya usiku wakati wa biblia",
@@ -1842,13 +1904,14 @@
           "label": "Tazama",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575784,
+    "content_id": "575784",
     "reference_id": 26367,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zebedayo",
     "media_type": "Text",
     "index_reference": "zebedayo",
@@ -1983,13 +2046,22 @@
           "label": "Yohana mtume",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "Zebedayo",
+          "confidence": 0.8316,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575786,
+    "content_id": "575786",
     "reference_id": 26370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zekaria Agano la Kale",
     "media_type": "Text",
     "index_reference": "zekaria agano la kale",
@@ -2138,13 +2210,106 @@
           "label": "Nehemia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zechariah.17",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.66,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.28",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.18",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.21",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.22",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.27",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.20",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.25",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.26",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.19",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.24",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.23",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.12",
+          "type": "person",
+          "preferred_label": "Zekaria",
+          "confidence": 0.62,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575787,
+    "content_id": "575787",
     "reference_id": 26373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zerubabeli",
     "media_type": "Text",
     "index_reference": "zerubabeli",
@@ -2370,13 +2535,43 @@
           "label": "Sedekia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zerubbabel.2",
+          "type": "person",
+          "preferred_label": "Zerubabeli",
+          "confidence": 0.8923,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zerubbabel",
+          "type": "person",
+          "preferred_label": "Zerubabeli",
+          "confidence": 0.6154,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shealtiel.2",
+          "type": "person",
+          "preferred_label": "Shealtieli",
+          "confidence": 0.5288,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Yoshua",
+          "confidence": 0.5056,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575611,
+    "content_id": "575611",
     "reference_id": 26036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zidisha",
     "media_type": "Text",
     "index_reference": "zidisha",
@@ -2830,13 +3025,14 @@
           "end_ref_usfm": "HOS 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575398,
+    "content_id": "575398",
     "reference_id": 25561,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zika",
     "media_type": "Text",
     "index_reference": "zika",
@@ -3149,13 +3345,14 @@
           "label": "Kaburi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627373,
+    "content_id": "627373",
     "reference_id": 26374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zilpa",
     "media_type": "Text",
     "index_reference": "zilpa",
@@ -3242,13 +3439,29 @@
           "label": "Lea",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "Zilpa",
+          "confidence": 0.95,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "Lea",
+          "confidence": 0.575,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575657,
+    "content_id": "575657",
     "reference_id": 26146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zima",
     "media_type": "Text",
     "index_reference": "zima ",
@@ -3321,13 +3534,29 @@
           "label": "Roho Mtakatifu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zimmah",
+          "type": "person",
+          "preferred_label": "Zima",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zimmah.2",
+          "type": "person",
+          "preferred_label": "Zima",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627374,
+    "content_id": "627374",
     "reference_id": 26376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zoar",
     "media_type": "Text",
     "index_reference": "zoar",
@@ -3412,6 +3641,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Sodoma",
           "language": "swh"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Zoar",
+          "type": "place",
+          "preferred_label": "Zoar",
+          "confidence": 0.8545,
+          "match_method": "scored"
         }
       ]
     }

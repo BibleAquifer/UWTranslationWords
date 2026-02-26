@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390974,
+    "content_id": "390974",
     "reference_id": 26048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "南地",
     "media_type": "Text",
     "index_reference": "南地",
@@ -133,6 +133,15 @@
           "resource_code": "UWTranslationWords",
           "label": "西緬",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:South.3",
+          "type": "place",
+          "preferred_label": "South",
+          "confidence": 0.8581,
+          "match_method": "embedding"
         }
       ]
     }

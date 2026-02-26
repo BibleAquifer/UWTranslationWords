@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 26583,
+    "content_id": "26583",
     "reference_id": 25725,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faith",
     "media_type": "Text",
     "index_reference": "faith",
@@ -1269,13 +1269,29 @@
           "label": "Faithful",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "Believe",
+          "confidence": 0.658,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:HavingLittleFaith",
+          "type": "keyterm",
+          "preferred_label": "Having Little Faith",
+          "confidence": 0.6077,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26584,
+    "content_id": "26584",
     "reference_id": 25726,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faithful",
     "media_type": "Text",
     "index_reference": "faithful",
@@ -1834,13 +1850,29 @@
           "label": "Faith",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Faithfulness",
+          "type": "keyterm",
+          "preferred_label": "Faithfulness",
+          "confidence": 0.8261,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Disbelieve",
+          "type": "keyterm",
+          "preferred_label": "Disbelieve",
+          "confidence": 0.505,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26585,
+    "content_id": "26585",
     "reference_id": 25727,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faithless",
     "media_type": "Text",
     "index_reference": "faithless",
@@ -1974,13 +2006,22 @@
           "label": "Faithful",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Unfaithful",
+          "type": "keyterm",
+          "preferred_label": "Be Unfaithful",
+          "confidence": 0.5775,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26586,
+    "content_id": "26586",
     "reference_id": 25728,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "False God",
     "media_type": "Text",
     "index_reference": "false god",
@@ -2329,13 +2370,29 @@
           "label": "Worship",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6115,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Image",
+          "type": "realia",
+          "preferred_label": "Image",
+          "confidence": 0.5423,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26587,
+    "content_id": "26587",
     "reference_id": 25729,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "False Prophet",
     "media_type": "Text",
     "index_reference": "false prophet",
@@ -2450,13 +2507,14 @@
           "label": "Prophet",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26588,
+    "content_id": "26588",
     "reference_id": 25730,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "False Witness",
     "media_type": "Text",
     "index_reference": "false witness",
@@ -2558,13 +2616,22 @@
           "label": "Testimony",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:FalseWitnesses",
+          "type": "group",
+          "preferred_label": "False Witnesses",
+          "confidence": 0.5685,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26589,
+    "content_id": "26589",
     "reference_id": 25731,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Family",
     "media_type": "Text",
     "index_reference": "family",
@@ -2703,13 +2770,14 @@
           "label": "House",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26590,
+    "content_id": "26590",
     "reference_id": 25732,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Famine",
     "media_type": "Text",
     "index_reference": "famine",
@@ -2935,13 +3003,14 @@
           "end_ref_usfm": "1CH 21:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26591,
+    "content_id": "26591",
     "reference_id": 25733,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fast",
     "media_type": "Text",
     "index_reference": "fast",
@@ -3139,13 +3208,22 @@
           "label": "Jewish Leaders",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fast",
+          "type": "keyterm",
+          "preferred_label": "Abstain from Food",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26592,
+    "content_id": "26592",
     "reference_id": 25734,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Favor",
     "media_type": "Text",
     "index_reference": "favor",
@@ -3587,13 +3665,29 @@
           "end_ref_usfm": "1SA 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Favor",
+          "type": "keyterm",
+          "preferred_label": "Favor",
+          "confidence": 0.8192,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Delight",
+          "type": "keyterm",
+          "preferred_label": "Delight",
+          "confidence": 0.6033,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 26593,
+    "content_id": "26593",
     "reference_id": 25735,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fear",
     "media_type": "Text",
     "index_reference": "fear",
@@ -5077,13 +5171,22 @@
           "label": "Yahweh",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.9577,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26594,
+    "content_id": "26594",
     "reference_id": 25736,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Feast",
     "media_type": "Text",
     "index_reference": "feast",
@@ -5336,13 +5439,22 @@
           "label": "Festival",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Festus",
+          "type": "person",
+          "preferred_label": "Festus",
+          "confidence": 0.8155,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 26595,
+    "content_id": "26595",
     "reference_id": 25737,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fellowship",
     "media_type": "Text",
     "index_reference": "fellowship",
@@ -5472,13 +5584,22 @@
           "end_ref_usfm": "PSA 55:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Fellowship",
+          "type": "keyterm",
+          "preferred_label": "Fellowship",
+          "confidence": 0.84,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 26596,
+    "content_id": "26596",
     "reference_id": 25738,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fellowship Offering",
     "media_type": "Text",
     "index_reference": "fellowship offering",
@@ -5575,13 +5696,22 @@
           "label": "Unleavened Bread",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "Offering",
+          "confidence": 0.6833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26597,
+    "content_id": "26597",
     "reference_id": 25739,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festival",
     "media_type": "Text",
     "index_reference": "festival",
@@ -5845,13 +5975,22 @@
           "label": "Feast",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:FestivalOfTheTabernacles",
+          "type": "realia",
+          "preferred_label": "Festival of the Tabernacles",
+          "confidence": 0.6098,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26598,
+    "content_id": "26598",
     "reference_id": 25740,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fig",
     "media_type": "Text",
     "index_reference": "fig",
@@ -6011,13 +6150,22 @@
           "end_ref_usfm": "REV 6:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "flora:Fig",
+          "type": "flora",
+          "preferred_label": "Fig",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 26599,
+    "content_id": "26599",
     "reference_id": 25741,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fir",
     "media_type": "Text",
     "index_reference": "fir",
@@ -6078,13 +6226,36 @@
           "label": "Cypress",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Fir",
+          "type": "flora",
+          "preferred_label": "Fir",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "flora:Juniper",
+          "type": "flora",
+          "preferred_label": "Grecian Juniper",
+          "confidence": 0.7667,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:Cypress",
+          "type": "flora",
+          "preferred_label": "Cypress",
+          "confidence": 0.7667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26600,
+    "content_id": "26600",
     "reference_id": 25742,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "First Born",
     "media_type": "Text",
     "index_reference": "first born",
@@ -6355,13 +6526,14 @@
           "label": "Sacrifice",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26601,
+    "content_id": "26601",
     "reference_id": 25743,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "First Fruit",
     "media_type": "Text",
     "index_reference": "first fruit",
@@ -6517,13 +6689,14 @@
           "label": "First Born",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26602,
+    "content_id": "26602",
     "reference_id": 25744,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fisherman",
     "media_type": "Text",
     "index_reference": "fisherman",
@@ -6587,13 +6760,14 @@
           "end_ref_usfm": "LUK 5:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26603,
+    "content_id": "26603",
     "reference_id": 25745,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Flock",
     "media_type": "Text",
     "index_reference": "flock",
@@ -7112,13 +7286,22 @@
           "label": "Sheep",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Flock",
+          "type": "fauna",
+          "preferred_label": "Flock",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26604,
+    "content_id": "26604",
     "reference_id": 25746,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Flood",
     "media_type": "Text",
     "index_reference": "flood",
@@ -7287,13 +7470,14 @@
           "label": "Noah",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26605,
+    "content_id": "26605",
     "reference_id": 25747,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Flute",
     "media_type": "Text",
     "index_reference": "flute",
@@ -7366,13 +7550,29 @@
           "label": "Shepherd",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Flute",
+          "type": "realia",
+          "preferred_label": "Flute",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:Lute",
+          "type": "realia",
+          "preferred_label": "Lute",
+          "confidence": 0.612,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26606,
+    "content_id": "26606",
     "reference_id": 25748,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Foolish",
     "media_type": "Text",
     "index_reference": "foolish",
@@ -8170,13 +8370,29 @@
           "label": "Wise",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Foolish",
+          "type": "keyterm",
+          "preferred_label": "Foolish",
+          "confidence": 0.6677,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Fool",
+          "type": "keyterm",
+          "preferred_label": "Fool",
+          "confidence": 0.537,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26607,
+    "content_id": "26607",
     "reference_id": 25749,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Footstool",
     "media_type": "Text",
     "index_reference": "footstool",
@@ -8246,13 +8462,22 @@
           "end_ref_usfm": "JAS 2:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Footstool",
+          "type": "realia",
+          "preferred_label": "Footstool",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 26608,
+    "content_id": "26608",
     "reference_id": 25750,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Foreigner",
     "media_type": "Text",
     "index_reference": "foreigner",
@@ -8568,13 +8793,14 @@
           "end_ref_usfm": "DEU 1:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26609,
+    "content_id": "26609",
     "reference_id": 25751,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Foreordain",
     "media_type": "Text",
     "index_reference": "foreordain",
@@ -8635,13 +8861,14 @@
           "label": "Predestine",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26610,
+    "content_id": "26610",
     "reference_id": 25752,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Forgive",
     "media_type": "Text",
     "index_reference": "forgive",
@@ -9103,13 +9330,22 @@
           "label": "Guilt",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Forgive",
+          "type": "keyterm",
+          "preferred_label": "Forgive",
+          "confidence": 0.9429,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26611,
+    "content_id": "26611",
     "reference_id": 25753,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fornication",
     "media_type": "Text",
     "index_reference": "fornication",
@@ -9418,13 +9654,22 @@
           "label": "Prostitute",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fornication",
+          "type": "keyterm",
+          "preferred_label": "Fornication",
+          "confidence": 0.8118,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26612,
+    "content_id": "26612",
     "reference_id": 25754,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Forsaken",
     "media_type": "Text",
     "index_reference": "forsaken",
@@ -9704,13 +9949,22 @@
           "end_ref_usfm": "PRO 27:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 26613,
+    "content_id": "26613",
     "reference_id": 25755,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Foundation",
     "media_type": "Text",
     "index_reference": "foundation",
@@ -10023,13 +10277,22 @@
           "label": "Creation",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Foundation",
+          "type": "realia",
+          "preferred_label": "Foundation",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26614,
+    "content_id": "26614",
     "reference_id": 25756,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fountain",
     "media_type": "Text",
     "index_reference": "fountain",
@@ -10227,13 +10490,14 @@
           "label": "Flood",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26615,
+    "content_id": "26615",
     "reference_id": 25757,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Frankincense",
     "media_type": "Text",
     "index_reference": "frankincense",
@@ -10312,13 +10576,29 @@
           "label": "Learned Men",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Frankincense",
+          "type": "flora",
+          "preferred_label": "Frankincense",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:Incense",
+          "type": "realia",
+          "preferred_label": "Incense",
+          "confidence": 0.5227,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26616,
+    "content_id": "26616",
     "reference_id": 25758,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Free",
     "media_type": "Text",
     "index_reference": "free",
@@ -10614,13 +10894,14 @@
           "label": "Servant",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26617,
+    "content_id": "26617",
     "reference_id": 25759,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Free Will Offering",
     "media_type": "Text",
     "index_reference": "free will offering",
@@ -10777,13 +11058,22 @@
           "label": "Sin Offering",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "Offering",
+          "confidence": 0.6184,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26618,
+    "content_id": "26618",
     "reference_id": 25760,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fruit",
     "media_type": "Text",
     "index_reference": "fruit",
@@ -11538,13 +11828,14 @@
           "label": "Womb",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26619,
+    "content_id": "26619",
     "reference_id": 25761,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fulfill",
     "media_type": "Text",
     "index_reference": "fulfill",
@@ -11984,13 +12275,22 @@
           "label": "Prophet",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Happen",
+          "type": "keyterm",
+          "preferred_label": "To Cause to Happen",
+          "confidence": 0.7863,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26620,
+    "content_id": "26620",
     "reference_id": 25762,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Furnace",
     "media_type": "Text",
     "index_reference": "furnace",
@@ -12086,6 +12386,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Image",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Kiln",
+          "type": "realia",
+          "preferred_label": "Kiln",
+          "confidence": 0.9667,
+          "match_method": "scored"
         }
       ]
     }

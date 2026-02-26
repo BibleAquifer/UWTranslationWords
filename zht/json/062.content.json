@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391264,
+    "content_id": "391264",
     "reference_id": 26344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "好",
     "media_type": "Text",
     "index_reference": "好",
@@ -219,13 +219,22 @@
           "label": "爭鬥",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Good",
+          "type": "keyterm",
+          "preferred_label": "Good",
+          "confidence": 0.9089,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390727,
+    "content_id": "390727",
     "reference_id": 25796,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "好消息",
     "media_type": "Text",
     "index_reference": "好消息",
@@ -851,13 +860,22 @@
           "label": "救",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "Good News",
+          "confidence": 0.5302,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391241,
+    "content_id": "391241",
     "reference_id": 26321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "號角",
     "media_type": "Text",
     "index_reference": "號角",
@@ -1090,7 +1108,8 @@
           "label": "忿怒",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

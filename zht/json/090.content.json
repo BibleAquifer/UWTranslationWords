@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391031,
+    "content_id": "391031",
     "reference_id": 26106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "坑",
     "media_type": "Text",
     "index_reference": "坑",
@@ -128,6 +128,15 @@
           "resource_code": "UWTranslationWords",
           "label": "地獄",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Pit",
+          "type": "realia",
+          "preferred_label": "Pit",
+          "confidence": 0.8068,
+          "match_method": "embedding"
         }
       ]
     }

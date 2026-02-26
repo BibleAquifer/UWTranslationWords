@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179760,
+    "content_id": "179760",
     "reference_id": 25686,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उकाब",
     "media_type": "Text",
     "index_reference": "उकाब",
@@ -106,13 +106,22 @@
           "label": "नबूकदनेस्सर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Uphaz",
+          "type": "place",
+          "preferred_label": "ऊफाज",
+          "confidence": 0.8271,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179739,
+    "content_id": "179739",
     "reference_id": 25663,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उजड़ा",
     "media_type": "Text",
     "index_reference": "उजड़ा",
@@ -270,13 +279,14 @@
           "label": "करकट",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179595,
+    "content_id": "179595",
     "reference_id": 25507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उजाड़",
     "media_type": "Text",
     "index_reference": "उजाड़",
@@ -370,13 +380,14 @@
           "end_ref_usfm": "GAL 4:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180384,
+    "content_id": "180384",
     "reference_id": 26331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उज्जियाह",
     "media_type": "Text",
     "index_reference": "उज्जियाह",
@@ -471,13 +482,36 @@
           "label": "गुम्मट",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Uzziah",
+          "type": "person",
+          "preferred_label": "उज्जियाह",
+          "confidence": 0.9,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "हिजकिय्याह",
+          "confidence": 0.5695,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abijah.4",
+          "type": "person",
+          "preferred_label": "अबिय्याह",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179656,
+    "content_id": "179656",
     "reference_id": 25577,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उठा लिया गया",
     "media_type": "Text",
     "index_reference": "उठा लिया गया",
@@ -564,13 +598,14 @@
           "label": "दुःख",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179898,
+    "content_id": "179898",
     "reference_id": 25828,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उत्तराधिकारी",
     "media_type": "Text",
     "index_reference": "उत्तराधिकारी",
@@ -709,13 +744,14 @@
           "label": "अधिकारी होना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 182406,
+    "content_id": "182406",
     "reference_id": 25522,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उत्पन्न करना",
     "media_type": "Text",
     "index_reference": "उत्पन्न करना",
@@ -724,13 +760,14 @@
     "content": "<h1>उत्पन्न करना, उत्पन्न किया, उत्पन्न किया, उत्पन्न किया गया</h1><h2>परिभाषा:</h2><p>शब्द &quot;उत्पन्न करना&quot; का अर्थ है किसी का पिता बनना।</p><h2>अनुवाद सुझाव:</h2><ul><li><p>आप वाक्यांश “उत्पन्न करना” का अनुवाद “जन्म देना” के रूप में कर सकते हैं और शब्द “उत्पन्न किया” का अनुवाद “जीवन देना” के रूप में कर सकते हैं।</p></li><li><p>शब्द “उत्पन्न किया गया” “उत्पन्न करना” का निष्क्रिय रूप है और इसका अर्थ है “जन्म लेना।”</p></li></ul><h2>बाइबल संदर्भ:</h2><h2>शब्द विवरण:</h2><ul><li><p></p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180260,
+    "content_id": "180260",
     "reference_id": 26202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उद्धारकर्ता",
     "media_type": "Text",
     "index_reference": "उद्धारकर्ता",
@@ -930,13 +967,22 @@
           "label": "बचाना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Savior",
+          "type": "keyterm",
+          "preferred_label": "Savior",
+          "confidence": 0.8635,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179806,
+    "content_id": "179806",
     "reference_id": 25733,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उपवास",
     "media_type": "Text",
     "index_reference": "उपवास",
@@ -1134,13 +1180,14 @@
           "label": "यहूदी अधिकारी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 182400,
+    "content_id": "182400",
     "reference_id": 25436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उम्र-अवधि",
     "media_type": "Text",
     "index_reference": "उम्र-अवधि",
@@ -1149,13 +1196,14 @@
     "content": "<h1>युग, काल, समय</h1><h2>परिभाषा:</h2><p>इस अर्थ में उपयोग &quot;युग&quot; शब्द एक समय अवधि को संदर्भित करता है।</p><ul><li><p>अन्य शब्द जो एक विस्तारित अवधि को व्यक्त करने के लिए उपयोग किए जाते हैं उनमें &quot;युग&quot; और &quot;ऋतु&quot; शामिल हैं।</p></li><li><p>यीशु &quot;इस युग&quot; को वर्तमान समय के रूप में संदर्भित करते हैं जब बुराई, पाप और परमेश्‍वर के प्रति अनाज्ञाकारिता पृथ्वी पर भरी हुई थी।</p></li><li><p>भविष्य में एक ऐसा युग आएगा जब नये स्वर्ग और नयी पृथ्वी पर धार्मिकता का राज होगा।</p></li></ul><h2>अनुवाद सुझाव:</h2><ul><li><p>संदर्भ के आधार पर, “युग” शब्द का अनुवाद “काल” या “समय अवधि” या “समय” के रूप में किया जा सकता है।</p></li><li><p>वाक्यांश “इस वर्तमान बुरे युग” का अर्थ है “इस समय के दौरान जब लोग बहुत बुरे हैं।”</p></li><li><p>वाक्यांश &quot;युग के अंत&quot; (मत्ती 28:20 में यीशु के शब्दों में उपयोग किया गया) का अर्थ है &quot;जगत के अंत तक&quot; या &quot;इस वर्तमान युग का अंत&quot; और यह यीशु के दूसरे आगमन पर इस वर्तमान युग के अंत को संदर्भित करता है।</p></li></ul><h2>बाइबल संदर्भ:</h2><h2>शब्द <span>विवरण</span>:</h2><ul><li><p>स्ट्रॉन्ग का:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180365,
+    "content_id": "180365",
     "reference_id": 26312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "उल्लंघन करना",
     "media_type": "Text",
     "index_reference": "उल्लंघन करना",
@@ -1397,7 +1445,8 @@
           "label": "अपराध",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391190,
+    "content_id": "391190",
     "reference_id": 26269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "服從",
     "media_type": "Text",
     "index_reference": "服從",
@@ -158,13 +158,14 @@
           "label": "順服",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390947,
+    "content_id": "390947",
     "reference_id": 26021,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "服事",
     "media_type": "Text",
     "index_reference": "服事",
@@ -711,13 +712,14 @@
           "label": "僕人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391067,
+    "content_id": "391067",
     "reference_id": 26144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "符合資格",
     "media_type": "Text",
     "index_reference": "符合資格",
@@ -769,13 +771,14 @@
           "label": "救贖",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390436,
+    "content_id": "390436",
     "reference_id": 25495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "斧子",
     "media_type": "Text",
     "index_reference": "斧子",
@@ -821,13 +824,22 @@
           "end_ref_usfm": "1KI 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Knife",
+          "type": "realia",
+          "preferred_label": "Knife",
+          "confidence": 0.8093,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 391056,
+    "content_id": "391056",
     "reference_id": 26133,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "俯伏",
     "media_type": "Text",
     "index_reference": "俯伏",
@@ -876,13 +888,14 @@
           "label": "鞠躬",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390552,
+    "content_id": "390552",
     "reference_id": 25615,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "腐敗",
     "media_type": "Text",
     "index_reference": "腐敗",
@@ -1068,13 +1081,14 @@
           "label": "邪惡",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391095,
+    "content_id": "391095",
     "reference_id": 26173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "復活",
     "media_type": "Text",
     "index_reference": "復活",
@@ -1336,13 +1350,22 @@
           "end_ref_usfm": "JHN 5:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "Resurrection",
+          "confidence": 0.531,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 391094,
+    "content_id": "391094",
     "reference_id": 26172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "復原",
     "media_type": "Text",
     "index_reference": "復原",
@@ -1688,7 +1711,8 @@
           "end_ref_usfm": "LEV 6:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

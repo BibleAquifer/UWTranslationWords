@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390679,
+    "content_id": "390679",
     "reference_id": 25745,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "群",
     "media_type": "Text",
     "index_reference": "群",
@@ -520,6 +520,15 @@
           "resource_code": "UWTranslationWords",
           "label": "綿羊",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Flock",
+          "type": "fauna",
+          "preferred_label": "Flock",
+          "confidence": 0.5207,
+          "match_method": "scored"
         }
       ]
     }

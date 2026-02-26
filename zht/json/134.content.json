@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 369016,
+    "content_id": "369016",
     "reference_id": 25847,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "盼望",
     "media_type": "Text",
     "index_reference": "盼望",
@@ -622,6 +622,15 @@
           "resource_code": "UWTranslationWords",
           "label": "信任",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Hope",
+          "type": "keyterm",
+          "preferred_label": "Hope",
+          "confidence": 0.5217,
+          "match_method": "scored"
         }
       ]
     }

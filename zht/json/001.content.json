@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390411,
+    "content_id": "390411",
     "reference_id": 25470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "阿拉伯",
     "media_type": "Text",
     "index_reference": "阿拉伯",
@@ -84,13 +84,36 @@
           "label": "西奈",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Arab",
+          "type": "place",
+          "preferred_label": "Arab",
+          "confidence": 0.9169,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Arabia",
+          "type": "place",
+          "preferred_label": "Arabia",
+          "confidence": 0.8842,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Arabia",
+          "type": "group",
+          "preferred_label": "Arabians",
+          "confidence": 0.8095,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390392,
+    "content_id": "390392",
     "reference_id": 25451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "阿們",
     "media_type": "Text",
     "index_reference": "阿們",
@@ -774,13 +797,22 @@
           "label": "應驗",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Surely",
+          "type": "keyterm",
+          "preferred_label": "Surely!",
+          "confidence": 0.5071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390396,
+    "content_id": "390396",
     "reference_id": 25455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "阿摩司",
     "media_type": "Text",
     "index_reference": "阿摩司",
@@ -831,6 +863,29 @@
           "resource_code": "UWTranslationWords",
           "label": "烏西雅",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:HaveAVision",
+          "type": "keyterm",
+          "preferred_label": "Have a Vision",
+          "confidence": 0.55,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tekoa",
+          "type": "place",
+          "preferred_label": "Tekoa",
+          "confidence": 0.55,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amos.3",
+          "type": "person",
+          "preferred_label": "Amos",
+          "confidence": 0.55,
+          "match_method": "scored"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179747,
+    "content_id": "179747",
     "reference_id": 25673,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "छितरा",
     "media_type": "Text",
     "index_reference": "छितरा",
@@ -155,13 +155,22 @@
           "label": "सताना/सताव",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sithri",
+          "type": "person",
+          "preferred_label": "सित्री",
+          "confidence": 0.8122,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180213,
+    "content_id": "180213",
     "reference_id": 26154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "छुटकारे  का मूल्य",
     "media_type": "Text",
     "index_reference": "छुटकारे  का मूल्य",
@@ -288,13 +297,14 @@
           "label": "छुड़ा ले",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180219,
+    "content_id": "180219",
     "reference_id": 26161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "छुड़ा ले",
     "media_type": "Text",
     "index_reference": "छुड़ा ले",
@@ -589,13 +599,14 @@
           "label": "छुटकारे  का मूल्य",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179733,
+    "content_id": "179733",
     "reference_id": 25657,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "छुड़ाना",
     "media_type": "Text",
     "index_reference": "छुड़ाना",
@@ -974,7 +985,8 @@
           "label": "बचाना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

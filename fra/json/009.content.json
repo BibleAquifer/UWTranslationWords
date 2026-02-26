@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467129,
+    "content_id": "467129",
     "reference_id": 25990,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fabricant",
     "media_type": "Text",
     "index_reference": "fabricant",
@@ -33,13 +33,14 @@
           "label": "L'Éternel, Yahvé",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467324,
+    "content_id": "467324",
     "reference_id": 26205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faire défiler",
     "media_type": "Text",
     "index_reference": "faire défiler",
@@ -209,13 +210,22 @@
           "label": "parole de Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.6935,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466886,
+    "content_id": "466886",
     "reference_id": 25732,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Famine",
     "media_type": "Text",
     "index_reference": "famine",
@@ -441,13 +451,14 @@
           "end_ref_usfm": "1CH 21:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 467467,
+    "content_id": "467467",
     "reference_id": 26359,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faux",
     "media_type": "Text",
     "index_reference": "faux",
@@ -619,13 +630,14 @@
           "end_ref_usfm": "MAT 20:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466884,
+    "content_id": "466884",
     "reference_id": 25729,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faux prophète",
     "media_type": "Text",
     "index_reference": "faux prophète",
@@ -740,13 +752,14 @@
           "label": "Prophète",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466888,
+    "content_id": "466888",
     "reference_id": 25734,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faveur",
     "media_type": "Text",
     "index_reference": "faveur",
@@ -1188,13 +1201,29 @@
           "end_ref_usfm": "1SA 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Favor",
+          "type": "keyterm",
+          "preferred_label": "grâce",
+          "confidence": 0.6977,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Delight",
+          "type": "keyterm",
+          "preferred_label": "délice",
+          "confidence": 0.5673,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 466893,
+    "content_id": "466893",
     "reference_id": 25739,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festival",
     "media_type": "Text",
     "index_reference": "festival",
@@ -1458,13 +1487,22 @@
           "label": "Le banquet",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:FestivalOfTheTabernacles",
+          "type": "realia",
+          "preferred_label": "Festival of the Tabernacles",
+          "confidence": 0.6098,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466881,
+    "content_id": "466881",
     "reference_id": 25726,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fidèle",
     "media_type": "Text",
     "index_reference": "fidèle",
@@ -2023,13 +2061,29 @@
           "label": "La foi",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Faithfulness",
+          "type": "keyterm",
+          "preferred_label": "fidelité",
+          "confidence": 0.6776,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:LoyalPerson",
+          "type": "keyterm",
+          "preferred_label": "personne qui est fidèle",
+          "confidence": 0.613,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466787,
+    "content_id": "466787",
     "reference_id": 25622,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fidélité a une alliance",
     "media_type": "Text",
     "index_reference": "fidélité a une alliance",
@@ -2292,13 +2346,22 @@
           "label": "Promesse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kindness",
+          "type": "keyterm",
+          "preferred_label": "bonté",
+          "confidence": 0.748,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467256,
+    "content_id": "467256",
     "reference_id": 26135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fier",
     "media_type": "Text",
     "index_reference": "fier",
@@ -2497,13 +2560,14 @@
           "label": "Humble",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466807,
+    "content_id": "466807",
     "reference_id": 25644,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fille de Sion",
     "media_type": "Text",
     "index_reference": "fille de sion",
@@ -2553,13 +2617,22 @@
           "label": "Sion",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jérusalem",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467365,
+    "content_id": "467365",
     "reference_id": 26250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fils de Dieu",
     "media_type": "Text",
     "index_reference": "fils de dieu",
@@ -3242,13 +3315,14 @@
           "label": "Fils de Dieu",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467367,
+    "content_id": "467367",
     "reference_id": 26252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fils de Dieu",
     "media_type": "Text",
     "index_reference": "fils de dieu",
@@ -3360,13 +3434,22 @@
           "label": "Esprit",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.598,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467366,
+    "content_id": "467366",
     "reference_id": 26251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fils de l'homme",
     "media_type": "Text",
     "index_reference": "fils de l'homme",
@@ -3908,13 +3991,14 @@
           "label": "L'Éternel, Yahvé",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466899,
+    "content_id": "466899",
     "reference_id": 25747,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Flûte",
     "media_type": "Text",
     "index_reference": "flûte",
@@ -3980,13 +4064,29 @@
           "label": "Le berger",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Flute",
+          "type": "realia",
+          "preferred_label": "Flute",
+          "confidence": 0.7967,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Lute",
+          "type": "realia",
+          "preferred_label": "Lute",
+          "confidence": 0.549,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466906,
+    "content_id": "466906",
     "reference_id": 25755,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fondation",
     "media_type": "Text",
     "index_reference": "fondation",
@@ -4299,13 +4399,22 @@
           "label": "Creer ",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Foundation",
+          "type": "realia",
+          "preferred_label": "Foundation",
+          "confidence": 0.716,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466907,
+    "content_id": "466907",
     "reference_id": 25756,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fontaine",
     "media_type": "Text",
     "index_reference": "fontaine",
@@ -4503,13 +4612,14 @@
           "label": "Inondation",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467381,
+    "content_id": "467381",
     "reference_id": 26266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Forteresse",
     "media_type": "Text",
     "index_reference": "forteresse",
@@ -4643,13 +4753,22 @@
           "label": "L'Éternel, Yahvé",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Fortress",
+          "type": "realia",
+          "preferred_label": "Fortress",
+          "confidence": 0.605,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467230,
+    "content_id": "467230",
     "reference_id": 26106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fosse",
     "media_type": "Text",
     "index_reference": "fosse",
@@ -4776,13 +4895,14 @@
           "label": "Enfer",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466900,
+    "content_id": "466900",
     "reference_id": 25748,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fou",
     "media_type": "Text",
     "index_reference": "fou",
@@ -5580,13 +5700,14 @@
           "label": "Sage",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466913,
+    "content_id": "466913",
     "reference_id": 25762,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fournaise",
     "media_type": "Text",
     "index_reference": "fournaise",
@@ -5683,13 +5804,22 @@
           "label": "Image",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Kiln",
+          "type": "realia",
+          "preferred_label": "Kiln",
+          "confidence": 0.8542,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466911,
+    "content_id": "466911",
     "reference_id": 25760,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fruits",
     "media_type": "Text",
     "index_reference": "fruits",
@@ -6444,13 +6574,14 @@
           "label": "Uterus",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466845,
+    "content_id": "466845",
     "reference_id": 25685,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fumier",
     "media_type": "Text",
     "index_reference": "fumier ",
@@ -6492,7 +6623,8 @@
           "label": "Porte",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 27197,
+    "content_id": "27197",
     "reference_id": 26339,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wadi",
     "media_type": "Text",
     "index_reference": "wadi",
@@ -11,13 +11,14 @@
     "content": "<h1>wadi</h1><h2>Definition:</h2><p>The term “wadi” refers to a seasonal stream, seasonal river, or a valley that is a stream bed during part of the year.</p><ul><li><p>A “wadi” has water in it part of the year and is dry for part of the year.</p></li><li><p>When a “wadi” has water in it, the amount of water that it has in it depends on what time of year it is and how much rain the area has received as well as how big the wadi is.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Ways to translate “wadi” could include “seasonal stream” or “seasonal stream bed” or “river basin” or “river bed”</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 27198,
+    "content_id": "27198",
     "reference_id": 26340,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Warrior",
     "media_type": "Text",
     "index_reference": "warrior",
@@ -290,13 +291,14 @@
           "label": "Tomb",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 27199,
+    "content_id": "27199",
     "reference_id": 26341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Waste",
     "media_type": "Text",
     "index_reference": "waste",
@@ -366,13 +368,14 @@
           "end_ref_usfm": "ZEC 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 27200,
+    "content_id": "27200",
     "reference_id": 26342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Watch",
     "media_type": "Text",
     "index_reference": "watch",
@@ -1156,13 +1159,14 @@
           "end_ref_usfm": "MAT 25:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 27201,
+    "content_id": "27201",
     "reference_id": 26343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Watchtower",
     "media_type": "Text",
     "index_reference": "watchtower",
@@ -1247,13 +1251,29 @@
           "label": "Watch",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Watch-tower",
+          "type": "realia",
+          "preferred_label": "Watch-Tower",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:Tower",
+          "type": "realia",
+          "preferred_label": "Tower",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27202,
+    "content_id": "27202",
     "reference_id": 26344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Well",
     "media_type": "Text",
     "index_reference": "well",
@@ -1470,13 +1490,22 @@
           "label": "Strife",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beer-lahai-roi",
+          "type": "place",
+          "preferred_label": "Beer-lahai-roi",
+          "confidence": 0.6118,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27203,
+    "content_id": "27203",
     "reference_id": 26345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wheat",
     "media_type": "Text",
     "index_reference": "wheat",
@@ -1673,13 +1702,22 @@
           "label": "Winnow",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Wheat",
+          "type": "flora",
+          "preferred_label": "Wheat",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 27204,
+    "content_id": "27204",
     "reference_id": 26346,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Willofgod",
     "media_type": "Text",
     "index_reference": "willofgod",
@@ -2031,13 +2069,14 @@
           "end_ref_usfm": "JHN 5:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 27205,
+    "content_id": "27205",
     "reference_id": 26347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wine",
     "media_type": "Text",
     "index_reference": "wine",
@@ -2502,13 +2541,43 @@
           "label": "Wine Press",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.6722,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Must",
+          "type": "realia",
+          "preferred_label": "Must",
+          "confidence": 0.6722,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:MyrrhedWine",
+          "type": "realia",
+          "preferred_label": "Myrrhed Wine",
+          "confidence": 0.6056,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27206,
+    "content_id": "27206",
     "reference_id": 26348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wine Press",
     "media_type": "Text",
     "index_reference": "wine press",
@@ -2581,13 +2650,43 @@
           "label": "Wrath",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Winepress",
+          "type": "realia",
+          "preferred_label": "Winepress",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Must",
+          "type": "realia",
+          "preferred_label": "Must",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27207,
+    "content_id": "27207",
     "reference_id": 26349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Winnow",
     "media_type": "Text",
     "index_reference": "winnow",
@@ -2648,13 +2747,14 @@
           "label": "Grain",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 27208,
+    "content_id": "27208",
     "reference_id": 26350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wise",
     "media_type": "Text",
     "index_reference": "wise",
@@ -3824,13 +3924,22 @@
           "label": "Fruit",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Wisdom",
+          "type": "person",
+          "preferred_label": "Wisdom",
+          "confidence": 0.8327,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 27209,
+    "content_id": "27209",
     "reference_id": 26351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wise Men",
     "media_type": "Text",
     "index_reference": "wise men",
@@ -3974,13 +4083,14 @@
           "label": "Wise",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 27210,
+    "content_id": "27210",
     "reference_id": 26352,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Woe",
     "media_type": "Text",
     "index_reference": "woe",
@@ -4242,13 +4352,22 @@
           "end_ref_usfm": "LUK 17:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Disaster",
+          "type": "keyterm",
+          "preferred_label": "Disaster",
+          "confidence": 0.5469,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 27211,
+    "content_id": "27211",
     "reference_id": 26353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wolf",
     "media_type": "Text",
     "index_reference": "wolf",
@@ -4334,13 +4453,22 @@
           "label": "Sheep",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Wolf",
+          "type": "fauna",
+          "preferred_label": "Wolf",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 27212,
+    "content_id": "27212",
     "reference_id": 26354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Womb",
     "media_type": "Text",
     "index_reference": "womb",
@@ -4566,13 +4694,14 @@
           "end_ref_usfm": "GEN 38:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 27213,
+    "content_id": "27213",
     "reference_id": 26355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Word of God",
     "media_type": "Text",
     "index_reference": "word of god",
@@ -5623,13 +5752,29 @@
           "label": "Yahweh",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6327,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.5172,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27214,
+    "content_id": "27214",
     "reference_id": 26356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "World",
     "media_type": "Text",
     "index_reference": "world",
@@ -6676,13 +6821,22 @@
           "label": "Rome",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Worldly",
+          "type": "keyterm",
+          "preferred_label": "Worldly",
+          "confidence": 0.8431,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 27215,
+    "content_id": "27215",
     "reference_id": 26357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Worship",
     "media_type": "Text",
     "index_reference": "worship",
@@ -7184,13 +7338,29 @@
           "label": "Honor",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:BowDown",
+          "type": "keyterm",
+          "preferred_label": "Bow Down",
+          "confidence": 0.8545,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Worship",
+          "type": "keyterm",
+          "preferred_label": "Worship",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27216,
+    "content_id": "27216",
     "reference_id": 26358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wrath",
     "media_type": "Text",
     "index_reference": "wrath",
@@ -7581,13 +7751,14 @@
           "label": "Sin",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 27217,
+    "content_id": "27217",
     "reference_id": 26359,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wrong",
     "media_type": "Text",
     "index_reference": "wrong",
@@ -7759,7 +7930,16 @@
           "end_ref_usfm": "MAT 20:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Wrong",
+          "type": "keyterm",
+          "preferred_label": "Wrong",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

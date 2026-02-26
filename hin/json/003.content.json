@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179930,
+    "content_id": "179930",
     "reference_id": 25862,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इकुनियुम",
     "media_type": "Text",
     "index_reference": "इकुनियुम",
@@ -88,13 +88,29 @@
           "label": "पत्थर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "इकुनियुम",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Greek",
+          "type": "group",
+          "preferred_label": "यूनानी",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179668,
+    "content_id": "179668",
     "reference_id": 25589,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इतिहास",
     "media_type": "Text",
     "index_reference": "इतिहास",
@@ -165,13 +181,14 @@
           "label": "सुलैमान",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179779,
+    "content_id": "179779",
     "reference_id": 25706,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इफिसुस",
     "media_type": "Text",
     "index_reference": "इफिसुस",
@@ -329,13 +346,29 @@
           "label": "तीमुथियुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "इफिसुस",
+          "confidence": 0.9636,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ephesus",
+          "type": "group",
+          "preferred_label": "इफिसी",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179896,
+    "content_id": "179896",
     "reference_id": 25826,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इब्रानी",
     "media_type": "Text",
     "index_reference": "इब्रानी",
@@ -583,13 +616,14 @@
           "label": "यहूदी अधिकारी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179945,
+    "content_id": "179945",
     "reference_id": 25878,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इश्माएल",
     "media_type": "Text",
     "index_reference": "इश्माएल",
@@ -814,13 +848,36 @@
           "label": "सारा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "इश्माएल",
+          "confidence": 0.9143,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ishmael",
+          "type": "group",
+          "preferred_label": "इश्माएली",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ishmael.5",
+          "type": "person",
+          "preferred_label": "इश्माएल",
+          "confidence": 0.6143,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179943,
+    "content_id": "179943",
     "reference_id": 25876,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इसहाक",
     "media_type": "Text",
     "index_reference": "इसहाक",
@@ -1498,13 +1555,29 @@
           "label": "सारा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "इसहाक",
+          "confidence": 0.981,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "इस्राएल",
+          "confidence": 0.5121,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179946,
+    "content_id": "179946",
     "reference_id": 25879,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इस्राएल",
     "media_type": "Text",
     "index_reference": "इस्राएल",
@@ -3477,13 +3550,29 @@
           "label": "जाति",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "इस्राएल",
+          "confidence": 0.9938,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "इस्राएली",
+          "confidence": 0.6187,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179506,
+    "content_id": "179506",
     "reference_id": 25416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इस्राएल के बारह गोत्र",
     "media_type": "Text",
     "index_reference": "इस्राएल के बारह गोत्र",
@@ -3655,13 +3744,22 @@
           "label": "जबूलून",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "इस्राएल",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180008,
+    "content_id": "180008",
     "reference_id": 25941,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इस्राएल के राज्य",
     "media_type": "Text",
     "index_reference": "इस्राएल के राज्य",
@@ -3739,13 +3837,36 @@
           "label": "सामरिया",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "इस्राएल",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "यहूदा",
+          "confidence": 0.508,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "यहूदा",
+          "confidence": 0.508,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179947,
+    "content_id": "179947",
     "reference_id": 25880,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इस्साकार",
     "media_type": "Text",
     "index_reference": "इस्साकार",
@@ -3830,6 +3951,29 @@
           "resource_code": "Unknown",
           "label": "लिआ:",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Issachar",
+          "type": "person",
+          "preferred_label": "इस्साकार",
+          "confidence": 0.84,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Issachar",
+          "type": "group",
+          "preferred_label": "इस्साकार",
+          "confidence": 0.5567,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "मिस्र",
+          "confidence": 0.5408,
+          "match_method": "scored"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 466788,
+    "content_id": "466788",
     "reference_id": 25623,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vache",
     "media_type": "Text",
     "index_reference": "vache ",
@@ -620,13 +620,22 @@
           "label": "Joug",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bull",
+          "type": "fauna",
+          "preferred_label": "Cattle",
+          "confidence": 0.6629,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467442,
+    "content_id": "467442",
     "reference_id": 26332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vain",
     "media_type": "Text",
     "index_reference": "vain",
@@ -800,13 +809,14 @@
           "label": "Dieu",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467457,
+    "content_id": "467457",
     "reference_id": 26349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vanner",
     "media_type": "Text",
     "index_reference": "vanner",
@@ -867,13 +877,14 @@
           "label": "Grain",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 756853,
+    "content_id": "756853",
     "reference_id": 26333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vasthi",
     "media_type": "Text",
     "index_reference": "vasthi",
@@ -923,13 +934,22 @@
           "label": "Perse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Vashti",
+          "type": "person",
+          "preferred_label": "Vasthi",
+          "confidence": 0.6786,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467450,
+    "content_id": "467450",
     "reference_id": 26342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Veiller",
     "media_type": "Text",
     "index_reference": "veiller",
@@ -1713,13 +1733,14 @@
           "end_ref_usfm": "MAT 25:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466671,
+    "content_id": "466671",
     "reference_id": 25493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Venger vengeance",
     "media_type": "Text",
     "index_reference": "venger vengeance",
@@ -1901,13 +1922,22 @@
           "label": "Juste",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GrantJustice",
+          "type": "keyterm",
+          "preferred_label": "aider (quelqu'un) à obtenir justice",
+          "confidence": 0.563,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467446,
+    "content_id": "467446",
     "reference_id": 26337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vierge",
     "media_type": "Text",
     "index_reference": "vierge",
@@ -2072,13 +2102,14 @@
           "label": "Marie",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467444,
+    "content_id": "467444",
     "reference_id": 26335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vigne",
     "media_type": "Text",
     "index_reference": "vigne",
@@ -2211,13 +2242,22 @@
           "label": "Vigne (cep)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.8705,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467445,
+    "content_id": "467445",
     "reference_id": 26336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vigne (cep)",
     "media_type": "Text",
     "index_reference": "vigne (cep)",
@@ -2489,13 +2529,22 @@
           "label": "Vigne",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.9505,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467455,
+    "content_id": "467455",
     "reference_id": 26347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vin",
     "media_type": "Text",
     "index_reference": "vin",
@@ -2960,13 +3009,29 @@
           "label": "Pressoir",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.7065,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.6092,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467264,
+    "content_id": "467264",
     "reference_id": 26143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Violet",
     "media_type": "Text",
     "index_reference": "violet",
@@ -3264,13 +3329,29 @@
           "label": "Temple, maison de Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:PurpleCloth",
+          "type": "realia",
+          "preferred_label": "Purple Cloth",
+          "confidence": 0.6679,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Linen",
+          "type": "realia",
+          "preferred_label": "Linen",
+          "confidence": 0.5699,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467447,
+    "content_id": "467447",
     "reference_id": 26338,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vision",
     "media_type": "Text",
     "index_reference": "vision",
@@ -3444,13 +3525,22 @@
           "label": "Songe",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simon.9",
+          "type": "person",
+          "preferred_label": "Simon",
+          "confidence": 0.5071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467443,
+    "content_id": "467443",
     "reference_id": 26334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Voile",
     "media_type": "Text",
     "index_reference": "voile",
@@ -3540,13 +3630,22 @@
           "label": "Moïse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Veil",
+          "type": "realia",
+          "preferred_label": "Veil",
+          "confidence": 0.6669,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467187,
+    "content_id": "467187",
     "reference_id": 26050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Voisin",
     "media_type": "Text",
     "index_reference": "voisin",
@@ -3915,13 +4014,14 @@
           "label": "Samarie",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467411,
+    "content_id": "467411",
     "reference_id": 26297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Voleur",
     "media_type": "Text",
     "index_reference": "voleur",
@@ -4201,7 +4301,8 @@
           "label": "Satan",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

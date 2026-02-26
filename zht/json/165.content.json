@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390754,
+    "content_id": "390754",
     "reference_id": 25823,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "收成",
     "media_type": "Text",
     "index_reference": "收成",
@@ -370,13 +370,14 @@
           "label": "好消息",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390373,
+    "content_id": "390373",
     "reference_id": 25432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "收養",
     "media_type": "Text",
     "index_reference": "收養",
@@ -444,13 +445,14 @@
           "label": "靈",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390525,
+    "content_id": "390525",
     "reference_id": 25586,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "首領",
     "media_type": "Text",
     "index_reference": "首領",
@@ -602,13 +604,22 @@
           "label": "稅",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Leader",
+          "type": "keyterm",
+          "preferred_label": "Leader",
+          "confidence": 0.8137,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391193,
+    "content_id": "391193",
     "reference_id": 26272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "受苦",
     "media_type": "Text",
     "index_reference": "受苦",
@@ -1050,13 +1061,14 @@
           "end_ref_usfm": "JER 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390562,
+    "content_id": "390562",
     "reference_id": 25625,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "受造之物",
     "media_type": "Text",
     "index_reference": "受造之物",
@@ -1212,13 +1224,14 @@
           "label": "創造",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390458,
+    "content_id": "390458",
     "reference_id": 25517,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "獸",
     "media_type": "Text",
     "index_reference": "獸",
@@ -1684,7 +1697,8 @@
           "label": "國家",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

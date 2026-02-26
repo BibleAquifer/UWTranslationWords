@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390464,
+    "content_id": "390464",
     "reference_id": 25523,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "相信",
     "media_type": "Text",
     "index_reference": "相信",
@@ -1543,13 +1543,36 @@
           "label": "信任",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "Believe",
+          "confidence": 0.919,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:BelieveIn",
+          "type": "keyterm",
+          "preferred_label": "Believe In",
+          "confidence": 0.8847,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:LeanOn",
+          "type": "keyterm",
+          "preferred_label": "Trust",
+          "confidence": 0.8404,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390795,
+    "content_id": "390795",
     "reference_id": 25865,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "香",
     "media_type": "Text",
     "index_reference": "香",
@@ -1755,13 +1778,14 @@
           "label": "乳香",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390517,
+    "content_id": "390517",
     "reference_id": 25578,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "香柏樹",
     "media_type": "Text",
     "index_reference": "香柏樹",
@@ -1841,13 +1865,14 @@
           "label": "聖殿",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390389,
+    "content_id": "390389",
     "reference_id": 25448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "香壇",
     "media_type": "Text",
     "index_reference": "香壇",
@@ -1889,13 +1914,14 @@
           "label": "香",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 369019,
+    "content_id": "369019",
     "reference_id": 25968,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "像",
     "media_type": "Text",
     "index_reference": "像",
@@ -5744,13 +5770,14 @@
           "label": "滅亡",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390983,
+    "content_id": "390983",
     "reference_id": 26057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "橡木",
     "media_type": "Text",
     "index_reference": "橡木",
@@ -5821,6 +5848,15 @@
           "resource_code": "UWTranslationWords",
           "label": "聖潔",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "flora:Oak",
+          "type": "flora",
+          "preferred_label": "Oak",
+          "confidence": 0.8071,
+          "match_method": "embedding"
         }
       ]
     }

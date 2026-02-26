@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390560,
+    "content_id": "390560",
     "reference_id": 25623,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "牛",
     "media_type": "Text",
     "index_reference": "牛",
@@ -619,6 +619,15 @@
           "resource_code": "UWTranslationWords",
           "label": "軛",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bull",
+          "type": "fauna",
+          "preferred_label": "Cattle",
+          "confidence": 0.5009,
+          "match_method": "scored"
         }
       ]
     }

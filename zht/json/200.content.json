@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390457,
+    "content_id": "390457",
     "reference_id": 25516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "熊-動物",
     "media_type": "Text",
     "index_reference": "熊-動物",
@@ -44,6 +44,15 @@
           "resource_code": "UWTranslationWords",
           "label": "以利沙",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bear",
+          "type": "fauna",
+          "preferred_label": "Bear",
+          "confidence": 0.595,
+          "match_method": "scored"
         }
       ]
     }

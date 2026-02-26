@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391019,
+    "content_id": "391019",
     "reference_id": 26094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "法老",
     "media_type": "Text",
     "index_reference": "法老",
@@ -1131,13 +1131,14 @@
           "label": "王",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391020,
+    "content_id": "391020",
     "reference_id": 26095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "法利賽人",
     "media_type": "Text",
     "index_reference": "法利賽人",
@@ -1746,13 +1747,22 @@
           "label": "撒都該人",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.5332,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390587,
+    "content_id": "390587",
     "reference_id": 25650,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "法令",
     "media_type": "Text",
     "index_reference": "法令",
@@ -1945,13 +1955,29 @@
           "label": "法律",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Law",
+          "type": "keyterm",
+          "preferred_label": "Law",
+          "confidence": 0.8677,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Regulations",
+          "type": "keyterm",
+          "preferred_label": "Regulations",
+          "confidence": 0.8172,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390885,
+    "content_id": "390885",
     "reference_id": 25957,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "法律",
     "media_type": "Text",
     "index_reference": "法律",
@@ -2205,13 +2231,22 @@
           "label": "摩西律法",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Law",
+          "type": "keyterm",
+          "preferred_label": "Law",
+          "confidence": 0.9308,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390556,
+    "content_id": "390556",
     "reference_id": 25619,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "法庭—法律",
     "media_type": "Text",
     "index_reference": "法庭—法律",
@@ -2228,7 +2263,8 @@
           "label": "審判",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

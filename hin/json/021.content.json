@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180230,
+    "content_id": "180230",
     "reference_id": 26172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ज्यों का त्यों करना",
     "media_type": "Text",
     "index_reference": "ज्यों का त्यों करना",
@@ -348,13 +348,14 @@
           "end_ref_usfm": "LEV 6:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180027,
+    "content_id": "180027",
     "reference_id": 25962,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ज्योतिषी",
     "media_type": "Text",
     "index_reference": "ज्योतिषी",
@@ -415,6 +416,15 @@
           "resource_code": "UWTranslationWords",
           "label": "दानिय्येल",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "हेरोदेस",
+          "confidence": 0.5835,
+          "match_method": "scored"
         }
       ]
     }

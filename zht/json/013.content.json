@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390743,
+    "content_id": "390743",
     "reference_id": 25812,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "冰雹",
     "media_type": "Text",
     "index_reference": "冰雹",
@@ -132,13 +132,14 @@
           "end_ref_usfm": "MAT 28:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390494,
+    "content_id": "390494",
     "reference_id": 25554,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "餅",
     "media_type": "Text",
     "index_reference": "餅",
@@ -1203,6 +1204,15 @@
           "resource_code": "UWTranslationWords",
           "label": "酵母",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Cake",
+          "type": "realia",
+          "preferred_label": "Cake",
+          "confidence": 0.8029,
+          "match_method": "embedding"
         }
       ]
     }

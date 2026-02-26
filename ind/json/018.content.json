@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 676123,
+    "content_id": "676123",
     "reference_id": 26147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raba",
     "media_type": "Text",
     "index_reference": "raba",
@@ -57,13 +57,29 @@
           "label": "Daud",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "Amon",
+          "confidence": 0.71,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Tuhan",
+          "confidence": 0.5375,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676073,
+    "content_id": "676073",
     "reference_id": 26051,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rafa",
     "media_type": "Text",
     "index_reference": "rafa",
@@ -72,13 +88,29 @@
     "content": "<h1>Rafa, Orang Refaim, Refaim,</h1><h2>Fakta-fakta:</h2><p>Istilah “Rafa” adalah sebutan untuk sekelompok penduduk yang tinggal di suatu lokasi di sisi timur sungai Yordan. Kaum “Rafa” disebut “orang Refaim” atau “Refaim”</p><ul><li><p>Ada sebuah lembah yang dinamai menurut kelompok suku ini, “lembah orang Refaim,” yang disebutkan enam kali dalam Perjanjian Lama.</p></li><li><p>“Rafa” adalah transliterasi bahasa Inggris dari kata Ibrani. Sulit untuk menentukan dengan pasti apa arti kata “Rafa” dan akibatnya jenis makhluk apa yang dimaksud dengan kata “Rafa”. Istilah “Rafa” bisa merujuk pada sekelompok orang yang hidup, roh, atau makhluk kuasi-ilahi. Karena alasan inilah banyak terjemahan bahasa Inggris memilih untuk mentransliterasikan kata dalam bahasa aslinya (Ibrani) menjadi “orang Rafa” atau “Refaim.” Anda mungkin ingin melakukan hal yang sama dalam terjemahan saudara.</p></li><li><p>Kelompok bangsa Amon disebut orang Refaim dengan nama “orang Zamzumim” (Lihat Ulangan 2:20).</p></li></ul><p>(Saran Penerjemahan: How to Translate Names, Copy or Borrow Words)</p><h2>Referensi Alkitab</h2><h2>Data Kata:</h2><ul><li><p>Strong’s:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rapha",
+          "type": "person",
+          "preferred_label": "Rafa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raphah",
+          "type": "person",
+          "preferred_label": "Rafa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 676129,
+    "content_id": "676129",
     "reference_id": 26155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rafa",
     "media_type": "Text",
     "index_reference": "rafa",
@@ -87,13 +119,29 @@
     "content": "<h1>Rafa, Orang Rafa, Lembah Rafa</h1><h2>Fakta-fakta:</h2><p>Istilah “Rafa” adalah sebutan untuk sekelompok penduduk yang tinggal di suatu lokasi di sisi timur sungai Yordan. Kata ini juga digunakan untuk merujuk pada orang mati atau roh mereka. “Rafa” disebut “Orang Rafa” atau “Refaim.”</p><ul><li><p>Ada sebuah lembah yang dinamai menurut kelompok suku ini, “lembah Rafa,” yang disebutkan enam kali dalam Perjanjian Lama.</p></li><li><p>“Rafa” adalah transliterasi bahasa Inggris dari kata Ibrani. Sulit untuk menentukan dengan pasti apa arti kata “Rapha” dan akibatnya jenis makhluk apa yang dimaksud dengan kata “Rapha”, apakah sekelompok manusia hidup, roh, atau makhluk kuasi-ilahi. Karena alasan inilah banyak terjemahan bahasa Inggris memilih untuk mentransliterasikan kata dalam bahasa aslinya (Ibrani) menjadi “Rephaites” atau “Rephaim.” Anda mungkin ingin melakukan hal yang sama dalam terjemahan Anda.</p></li><li><p>Dalam Ayub 26:5, Mazmur 88:10, Amsal 2:18, Amsal 9:18, Amsal 21:16, Yesaya 14:9, Yesaya 26:14, dan Yesaya 26:19 istilah “Raphaites” mengacu pada manusia yang sudah mati atau kepada “roh” mereka.</p></li><li><p>Dalam semua kejadian lain dalam Perjanjian Lama, istilah “Raphaites” mengacu pada kelompok masyarakat yang merupakan manusia yang hidup dan membentuk kelompok masyarakat tertentu.</p></li><li><p>Kelompok bangsa Amon menyebut bangsa Rafaim dengan nama “orang Zamzumim” (Lihat Ulangan 2:20).</p></li><li><p>Istilah “Rafa” menunjuk pada kelompok orang yang hidup dalam setiap kejadian dalam Perjanjian Lama kecuali dalam 1 Tawarikh 8:2 dan 8:37. Dalam dua ayat ini, istilah Rafa menunjuk pada nama seorang laki-laki (laki-laki yang berbeda di setiap ayat).</p></li></ul><p>(Saran Penerjemahan: How to Translate Names, Copy or Borrow Words)</p><h2>References:</h2><h2>Data Kata:</h2><ul><li><p>Strong’s:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rapha",
+          "type": "person",
+          "preferred_label": "Rafa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raphah",
+          "type": "person",
+          "preferred_label": "Rafa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 676126,
+    "content_id": "676126",
     "reference_id": 26151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahab",
     "media_type": "Text",
     "index_reference": "rahab",
@@ -154,13 +202,22 @@
           "label": "Yerikho",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahab",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676061,
+    "content_id": "676061",
     "reference_id": 26038,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahasia",
     "media_type": "Text",
     "index_reference": "rahasia",
@@ -391,13 +448,14 @@
           "label": "Yahudi",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676124,
+    "content_id": "676124",
     "reference_id": 26149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahel",
     "media_type": "Text",
     "index_reference": "rahel",
@@ -712,13 +770,22 @@
           "label": "Yusuf (PL)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Rahel",
+          "confidence": 0.9739,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676251,
+    "content_id": "676251",
     "reference_id": 26354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahim",
     "media_type": "Text",
     "index_reference": "rahim",
@@ -944,13 +1011,14 @@
           "end_ref_usfm": "GEN 38:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675989,
+    "content_id": "675989",
     "reference_id": 25938,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raja",
     "media_type": "Text",
     "index_reference": "raja",
@@ -2703,13 +2771,22 @@
           "label": "Kerajaan Allah",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:KingsValley",
+          "type": "place",
+          "preferred_label": "raja",
+          "confidence": 0.6014,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675993,
+    "content_id": "675993",
     "reference_id": 25943,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raja orang Yahudi",
     "media_type": "Text",
     "index_reference": "raja orang yahudi",
@@ -2869,13 +2946,14 @@
           "label": "Kerajaan Allah",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676127,
+    "content_id": "676127",
     "reference_id": 26152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rama",
     "media_type": "Text",
     "index_reference": "rama",
@@ -2960,13 +3038,29 @@
           "label": "Benyamin",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ramah.2",
+          "type": "place",
+          "preferred_label": "Ramah",
+          "confidence": 0.6654,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ramah",
+          "type": "place",
+          "preferred_label": "Rama",
+          "confidence": 0.6308,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676128,
+    "content_id": "676128",
     "reference_id": 26153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ramot",
     "media_type": "Text",
     "index_reference": "ramot",
@@ -3078,13 +3172,29 @@
           "label": "Perlindungan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ramoth-gilead",
+          "type": "place",
+          "preferred_label": "Ramot-Gilead",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Remeth",
+          "type": "place",
+          "preferred_label": "Ramot",
+          "confidence": 0.68,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675613,
+    "content_id": "675613",
     "reference_id": 25466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rasul",
     "media_type": "Text",
     "index_reference": "rasul",
@@ -3585,13 +3695,22 @@
           "label": "Paulus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paulus",
+          "confidence": 0.5115,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676121,
+    "content_id": "676121",
     "reference_id": 26145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ratu",
     "media_type": "Text",
     "index_reference": "ratu",
@@ -3698,13 +3817,99 @@
           "label": "Sheba",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Malchiah",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.10",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.11",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.2",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.3",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.4",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.5",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.6",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.7",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.8",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.9",
+          "type": "person",
+          "preferred_label": "Malkia",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 676139,
+    "content_id": "676139",
     "reference_id": 26165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rehabeam",
     "media_type": "Text",
     "index_reference": "rehabeam",
@@ -3767,13 +3972,36 @@
           "label": "Salomo",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Rehabeam",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abijah.4",
+          "type": "person",
+          "preferred_label": "Abia",
+          "confidence": 0.5398,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Salomo",
+          "confidence": 0.5305,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675912,
+    "content_id": "675912",
     "reference_id": 25860,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rendah hati",
     "media_type": "Text",
     "index_reference": "rendah hati",
@@ -3959,13 +4187,14 @@
           "label": "Bangga",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676130,
+    "content_id": "676130",
     "reference_id": 26156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ribka",
     "media_type": "Text",
     "index_reference": "ribka",
@@ -4211,13 +4440,22 @@
           "label": "Negev",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Ribka",
+          "confidence": 0.9871,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676150,
+    "content_id": "676150",
     "reference_id": 26178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rimon",
     "media_type": "Text",
     "index_reference": "rimon",
@@ -4280,13 +4518,36 @@
           "label": "Siria",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Rimmon.3",
+          "type": "place",
+          "preferred_label": "Rock of Rimmon",
+          "confidence": 0.6484,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rimmon",
+          "type": "person",
+          "preferred_label": "Rimon",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Rimmon",
+          "type": "deity",
+          "preferred_label": "Rimon",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676204,
+    "content_id": "676204",
     "reference_id": 26257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roh",
     "media_type": "Text",
     "index_reference": "roh",
@@ -5410,13 +5671,29 @@
           "label": "Jiwa",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Spirit.2",
+          "type": "keyterm",
+          "preferred_label": "roh",
+          "confidence": 0.7622,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Roh",
+          "confidence": 0.6368,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675904,
+    "content_id": "675904",
     "reference_id": 25844,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roh Kudus",
     "media_type": "Text",
     "index_reference": "roh kudus",
@@ -6777,13 +7054,29 @@
           "label": "Roh",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Roh",
+          "confidence": 0.9764,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Spirit.2",
+          "type": "keyterm",
+          "preferred_label": "roh",
+          "confidence": 0.6327,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676153,
+    "content_id": "676153",
     "reference_id": 26181,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roma",
     "media_type": "Text",
     "index_reference": "roma",
@@ -6948,13 +7241,22 @@
           "label": "Pilatus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Roma",
+          "confidence": 0.9478,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675700,
+    "content_id": "675700",
     "reference_id": 25554,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roti",
     "media_type": "Text",
     "index_reference": "roti",
@@ -7992,13 +8294,22 @@
           "label": "Bait Suci",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:BreadOfDisplay",
+          "type": "keyterm",
+          "preferred_label": "roti sajian",
+          "confidence": 0.6071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676146,
+    "content_id": "676146",
     "reference_id": 26174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruben",
     "media_type": "Text",
     "index_reference": "ruben",
@@ -8125,13 +8436,22 @@
           "label": "Yacob",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "Ruben",
+          "confidence": 0.9765,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675908,
+    "content_id": "675908",
     "reference_id": 25856,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rumah",
     "media_type": "Text",
     "index_reference": "rumah",
@@ -10571,13 +10891,22 @@
           "end_ref_usfm": "2JN 1:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.5649,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 675911,
+    "content_id": "675911",
     "reference_id": 25859,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rumah Allah",
     "media_type": "Text",
     "index_reference": "rumah allah",
@@ -10889,13 +11218,22 @@
           "label": "Bait Suci",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.6542,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675909,
+    "content_id": "675909",
     "reference_id": 25857,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rumah tangga.",
     "media_type": "Text",
     "index_reference": "rumah tangga.",
@@ -11093,13 +11431,14 @@
           "label": "Rumah",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675746,
+    "content_id": "675746",
     "reference_id": 25615,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rusak",
     "media_type": "Text",
     "index_reference": "rusak",
@@ -11285,13 +11624,14 @@
           "label": "Jahat",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676157,
+    "content_id": "676157",
     "reference_id": 26185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rut",
     "media_type": "Text",
     "index_reference": "rut",
@@ -11426,6 +11766,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Hakim",
           "language": "ind"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Rut",
+          "confidence": 0.925,
+          "match_method": "scored"
         }
       ]
     }

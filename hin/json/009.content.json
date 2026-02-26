@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 182427,
+    "content_id": "182427",
     "reference_id": 26060,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ओग",
     "media_type": "Text",
     "index_reference": "ओग",
@@ -26,13 +26,22 @@
           "label": "बाशान",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Og",
+          "type": "person",
+          "preferred_label": "ओग",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180122,
+    "content_id": "180122",
     "reference_id": 26059,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ओबद्याह",
     "media_type": "Text",
     "index_reference": "ओबद्याह",
@@ -182,13 +191,64 @@
           "label": "सिदकिय्याह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Obadiah.4",
+          "type": "person",
+          "preferred_label": "ओबद्याह",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.2",
+          "type": "person",
+          "preferred_label": "ओबद्याह",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.12",
+          "type": "person",
+          "preferred_label": "ओबद्याह",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.10",
+          "type": "person",
+          "preferred_label": "ओबद्याह",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.11",
+          "type": "person",
+          "preferred_label": "ओबद्याह",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.5",
+          "type": "person",
+          "preferred_label": "ओबद्याह",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebadiah.8",
+          "type": "person",
+          "preferred_label": "जबद्याह",
+          "confidence": 0.5703,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180125,
+    "content_id": "180125",
     "reference_id": 26063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ओम्री",
     "media_type": "Text",
     "index_reference": "ओम्री",
@@ -233,13 +293,29 @@
           "label": "तिर्सा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Omri",
+          "type": "person",
+          "preferred_label": "ओम्री",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "यरूशलेम",
+          "confidence": 0.5142,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179883,
+    "content_id": "179883",
     "reference_id": 25812,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ओलों",
     "media_type": "Text",
     "index_reference": "ओलों",
@@ -369,13 +445,14 @@
           "end_ref_usfm": "MAT 28:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180401,
+    "content_id": "180401",
     "reference_id": 26349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ओसाई",
     "media_type": "Text",
     "index_reference": "ओसाई",
@@ -436,7 +513,8 @@
           "label": "अन्न",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

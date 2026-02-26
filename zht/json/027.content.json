@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391220,
+    "content_id": "391220",
     "reference_id": 26300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "打穀",
     "media_type": "Text",
     "index_reference": "打穀",
@@ -130,13 +130,14 @@
           "label": "篩選",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390767,
+    "content_id": "390767",
     "reference_id": 25836,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大祭司",
     "media_type": "Text",
     "index_reference": "大祭司",
@@ -943,13 +944,14 @@
           "label": "聖殿",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390592,
+    "content_id": "390592",
     "reference_id": 25655,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大利拉",
     "media_type": "Text",
     "index_reference": "大利拉",
@@ -1005,13 +1007,14 @@
           "label": "參孫",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390580,
+    "content_id": "390580",
     "reference_id": 25643,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大流士",
     "media_type": "Text",
     "index_reference": "大流士",
@@ -1141,13 +1144,14 @@
           "label": "波斯",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390577,
+    "content_id": "390577",
     "reference_id": 25640,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大馬士革",
     "media_type": "Text",
     "index_reference": "大馬士革",
@@ -1306,13 +1310,14 @@
           "label": "敘利亞",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390446,
+    "content_id": "390446",
     "reference_id": 25505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大麥",
     "media_type": "Text",
     "index_reference": "大麥",
@@ -1435,13 +1440,14 @@
           "label": "約翰福音 6:9 (#1)",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391138,
+    "content_id": "391138",
     "reference_id": 26216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大蛇",
     "media_type": "Text",
     "index_reference": "大蛇",
@@ -1706,13 +1712,14 @@
           "label": "試探",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391202,
+    "content_id": "391202",
     "reference_id": 26281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大數",
     "media_type": "Text",
     "index_reference": "大數",
@@ -1774,13 +1781,22 @@
           "label": "省份",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarsus",
+          "type": "place",
+          "preferred_label": "Tarsus",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390582,
+    "content_id": "390582",
     "reference_id": 25645,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大衛",
     "media_type": "Text",
     "index_reference": "大衛",
@@ -2238,13 +2254,22 @@
           "label": "掃羅",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 0.5333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390532,
+    "content_id": "390532",
     "reference_id": 25594,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大衛城",
     "media_type": "Text",
     "index_reference": "大衛城",
@@ -2312,13 +2337,14 @@
           "label": "耶路撒冷",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390788,
+    "content_id": "390788",
     "reference_id": 25858,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大衛家",
     "media_type": "Text",
     "index_reference": "大衛家",
@@ -2400,13 +2426,14 @@
           "label": "王",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390763,
+    "content_id": "390763",
     "reference_id": 25832,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大希律",
     "media_type": "Text",
     "index_reference": "大希律",
@@ -2510,6 +2537,15 @@
           "resource_code": "UWTranslationWords",
           "label": "聖殿",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herod",
+          "confidence": 0.5136,
+          "match_method": "scored"
         }
       ]
     }

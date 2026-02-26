@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 676062,
+    "content_id": "676062",
     "reference_id": 26039,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naaman",
     "media_type": "Text",
     "index_reference": "naaman",
@@ -58,13 +58,43 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uzza",
+          "type": "person",
+          "preferred_label": "taman",
+          "confidence": 0.5585,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676110,
+    "content_id": "676110",
     "reference_id": 26129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nabi",
     "media_type": "Text",
     "index_reference": "nabi",
@@ -1384,13 +1414,22 @@
           "label": "Penglihatan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Speak",
+          "type": "keyterm",
+          "preferred_label": "kepenuhan (roh) seperti nabi",
+          "confidence": 0.5023,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675828,
+    "content_id": "675828",
     "reference_id": 25729,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nabi palsu",
     "media_type": "Text",
     "index_reference": "nabi palsu",
@@ -1505,13 +1544,14 @@
           "label": "Nabi",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676010,
+    "content_id": "676010",
     "reference_id": 25982,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nafsu",
     "media_type": "Text",
     "index_reference": "nafsu",
@@ -1800,13 +1840,14 @@
           "label": "Ilah",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676065,
+    "content_id": "676065",
     "reference_id": 26042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naftali",
     "media_type": "Text",
     "index_reference": "naftali",
@@ -1910,13 +1951,29 @@
           "label": "Yacob",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Naphtali",
+          "type": "person",
+          "preferred_label": "Naftali",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Naphtali",
+          "type": "group",
+          "preferred_label": "Naftali",
+          "confidence": 0.7067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676063,
+    "content_id": "676063",
     "reference_id": 26040,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nahor",
     "media_type": "Text",
     "index_reference": "nahor",
@@ -2049,13 +2106,43 @@
           "label": "Ribka",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahor.2",
+          "type": "person",
+          "preferred_label": "Nahor",
+          "confidence": 0.8095,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nahor",
+          "type": "person",
+          "preferred_label": "Nahor",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Nahor",
+          "type": "place",
+          "preferred_label": "Nahor",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraham",
+          "confidence": 0.5205,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676064,
+    "content_id": "676064",
     "reference_id": 26041,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nahum",
     "media_type": "Text",
     "index_reference": "nahum",
@@ -2100,13 +2187,50 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahum.2",
+          "type": "person",
+          "preferred_label": "Nahum",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Elkosh",
+          "type": "place",
+          "preferred_label": "Elkosh",
+          "confidence": 0.631,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "Niniwe",
+          "confidence": 0.562,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Utterance",
+          "type": "keyterm",
+          "preferred_label": "ucapan ilahi",
+          "confidence": 0.5575,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.5395,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676066,
+    "content_id": "676066",
     "reference_id": 26043,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Natan",
     "media_type": "Text",
     "index_reference": "natan",
@@ -2187,13 +2311,64 @@
           "label": "Uria",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 0.61,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elnathan.3",
+          "type": "person",
+          "preferred_label": "Elnatan",
+          "confidence": 0.5635,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elnathan.4",
+          "type": "person",
+          "preferred_label": "Elnatan",
+          "confidence": 0.5635,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elnathan.2",
+          "type": "person",
+          "preferred_label": "Elnatan",
+          "confidence": 0.5635,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676068,
+    "content_id": "676068",
     "reference_id": 26045,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazaret",
     "media_type": "Text",
     "index_reference": "nazaret",
@@ -2448,13 +2623,22 @@
           "label": "Maria",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Nazaret",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676069,
+    "content_id": "676069",
     "reference_id": 26047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nebukadnezar",
     "media_type": "Text",
     "index_reference": "nebukadnezar",
@@ -2559,13 +2743,22 @@
           "label": "Misael",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "Nebukadnezar",
+          "confidence": 0.7269,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676070,
+    "content_id": "676070",
     "reference_id": 26048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Negev",
     "media_type": "Text",
     "index_reference": "negev",
@@ -2697,13 +2890,22 @@
           "label": "Simeon",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Negeb",
+          "type": "place",
+          "preferred_label": "Negeb",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676071,
+    "content_id": "676071",
     "reference_id": 26049,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nehemia",
     "media_type": "Text",
     "index_reference": "nehemia",
@@ -2807,13 +3009,43 @@
           "label": "Yerusalem",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 0.7667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rehum",
+          "type": "person",
+          "preferred_label": "Rehum",
+          "confidence": 0.5182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675899,
+    "content_id": "675899",
     "reference_id": 25829,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neraka",
     "media_type": "Text",
     "index_reference": "neraka",
@@ -2947,13 +3179,29 @@
           "label": "Surga",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Gehenna",
+          "type": "keyterm",
+          "preferred_label": "neraka",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:CauseToStumble",
+          "type": "keyterm",
+          "preferred_label": "menyesatkan",
+          "confidence": 0.5428,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676076,
+    "content_id": "676076",
     "reference_id": 26054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Niniwe",
     "media_type": "Text",
     "index_reference": "niniwe",
@@ -3075,13 +3323,29 @@
           "label": "Bertobat",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "Niniwe",
+          "confidence": 0.925,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Nineveh",
+          "type": "group",
+          "preferred_label": "Niniwe",
+          "confidence": 0.675,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676077,
+    "content_id": "676077",
     "reference_id": 26055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nuh",
     "media_type": "Text",
     "index_reference": "nuh",
@@ -3369,6 +3633,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Turun",
           "language": "ind"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Nuh",
+          "confidence": 0.9909,
+          "match_method": "scored"
         }
       ]
     }

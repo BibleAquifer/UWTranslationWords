@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390987,
+    "content_id": "390987",
     "reference_id": 26061,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "油",
     "media_type": "Text",
     "index_reference": "油",
@@ -339,13 +339,14 @@
           "label": "獻祭",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390853,
+    "content_id": "390853",
     "reference_id": 25924,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "猶大",
     "media_type": "Text",
     "index_reference": "猶大",
@@ -716,13 +717,22 @@
           "label": "利亞",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.5426,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390871,
+    "content_id": "390871",
     "reference_id": 25942,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "猶大國",
     "media_type": "Text",
     "index_reference": "猶大國",
@@ -777,13 +787,14 @@
           "label": "死海",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390857,
+    "content_id": "390857",
     "reference_id": 25928,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "猶太",
     "media_type": "Text",
     "index_reference": "猶太",
@@ -1363,13 +1374,29 @@
           "label": "撒馬利亞",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.8528,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudi",
+          "type": "person",
+          "preferred_label": "Jehudi",
+          "confidence": 0.8214,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390854,
+    "content_id": "390854",
     "reference_id": 25925,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "猶太教",
     "media_type": "Text",
     "index_reference": "猶太教",
@@ -1407,13 +1434,14 @@
           "label": "摩西律法",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390833,
+    "content_id": "390833",
     "reference_id": 25903,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "猶太領袖",
     "media_type": "Text",
     "index_reference": "猶太領袖",
@@ -1503,13 +1531,14 @@
           "label": "文士",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390832,
+    "content_id": "390832",
     "reference_id": 25902,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "猶太人",
     "media_type": "Text",
     "index_reference": "猶太人",
@@ -2749,13 +2778,29 @@
           "label": "猶太領袖",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.8636,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudi",
+          "type": "person",
+          "preferred_label": "Jehudi",
+          "confidence": 0.8175,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390872,
+    "content_id": "390872",
     "reference_id": 25943,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "猶太人的王",
     "media_type": "Text",
     "index_reference": "猶太人的王",
@@ -2929,13 +2974,14 @@
           "label": "謀士（術士）",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390651,
+    "content_id": "390651",
     "reference_id": 25715,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "幼發拉底河",
     "media_type": "Text",
     "index_reference": "幼發拉底河",
@@ -3005,7 +3051,8 @@
           "end_ref_usfm": "GEN 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

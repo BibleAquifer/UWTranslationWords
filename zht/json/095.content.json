@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390878,
+    "content_id": "390878",
     "reference_id": 25950,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "勞動",
     "media_type": "Text",
     "index_reference": "勞動",
@@ -566,13 +566,22 @@
           "label": "艱難",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Work",
+          "type": "keyterm",
+          "preferred_label": "Work",
+          "confidence": 0.8486,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391204,
+    "content_id": "391204",
     "reference_id": 26283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "老師",
     "media_type": "Text",
     "index_reference": "老師",
@@ -999,7 +1008,8 @@
           "label": "講道",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

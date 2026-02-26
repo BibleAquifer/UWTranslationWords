@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 466951,
+    "content_id": "466951",
     "reference_id": 25802,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Offrande de grain",
     "media_type": "Text",
     "index_reference": "offrande de grain",
@@ -95,13 +95,22 @@
           "label": "Sacrifice de péché",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "offrande",
+          "confidence": 0.7409,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467139,
+    "content_id": "467139",
     "reference_id": 26002,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Offrande de repas",
     "media_type": "Text",
     "index_reference": "offrande de repas",
@@ -145,13 +154,22 @@
           "label": "Sacrificer",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "offrande",
+          "confidence": 0.7167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466910,
+    "content_id": "466910",
     "reference_id": 25759,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Offrande volontaire",
     "media_type": "Text",
     "index_reference": "offrande volontaire",
@@ -301,13 +319,22 @@
           "label": "Sacrifice de péché",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "offrande",
+          "confidence": 0.6184,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466892,
+    "content_id": "466892",
     "reference_id": 25738,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Offre de bourse",
     "media_type": "Text",
     "index_reference": "offre de bourse",
@@ -404,13 +431,14 @@
           "label": "Pain azyme",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466642,
+    "content_id": "466642",
     "reference_id": 25462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Oindre",
     "media_type": "Text",
     "index_reference": "oindre",
@@ -691,13 +719,29 @@
           "label": "Prophète",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Anointed",
+          "type": "keyterm",
+          "preferred_label": "oint",
+          "confidence": 0.5724,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:AnointingOil",
+          "type": "realia",
+          "preferred_label": "Anointing Oil",
+          "confidence": 0.5113,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467197,
+    "content_id": "467197",
     "reference_id": 26062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Olive",
     "media_type": "Text",
     "index_reference": "olive",
@@ -914,13 +958,43 @@
           "label": "Mont des Oliviers",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:OliveTree",
+          "type": "flora",
+          "preferred_label": "Olive Tree",
+          "confidence": 0.8743,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:OliveOil",
+          "type": "realia",
+          "preferred_label": "Olive Oil",
+          "confidence": 0.7257,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:OlivesMount",
+          "type": "place",
+          "preferred_label": "montagne des oliviers",
+          "confidence": 0.6343,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:AnointingOil",
+          "type": "realia",
+          "preferred_label": "Anointing Oil",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467198,
+    "content_id": "467198",
     "reference_id": 26063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Omri",
     "media_type": "Text",
     "index_reference": "omri",
@@ -965,13 +1039,36 @@
           "label": "Thirtsa",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Omri",
+          "type": "person",
+          "preferred_label": "Omri",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahaziah.2",
+          "type": "person",
+          "preferred_label": "Achazia",
+          "confidence": 0.5787,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jérusalem",
+          "confidence": 0.5142,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466940,
+    "content_id": "466940",
     "reference_id": 25791,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Or",
     "media_type": "Text",
     "index_reference": "or",
@@ -2098,13 +2195,22 @@
           "label": "Temple, maison de Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Arba",
+          "type": "person",
+          "preferred_label": "Arba",
+          "confidence": 0.9593,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467199,
+    "content_id": "467199",
     "reference_id": 26065,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ordonner",
     "media_type": "Text",
     "index_reference": "ordonner",
@@ -2234,13 +2340,22 @@
           "label": "loi",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Regulations",
+          "type": "keyterm",
+          "preferred_label": "ordonnance",
+          "confidence": 0.8108,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 466683,
+    "content_id": "466683",
     "reference_id": 25505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orge",
     "media_type": "Text",
     "index_reference": "orge",
@@ -2363,13 +2478,22 @@
           "label": "Blé",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Barley",
+          "type": "flora",
+          "preferred_label": "Barley",
+          "confidence": 0.655,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466999,
+    "content_id": "466999",
     "reference_id": 25852,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Osée",
     "media_type": "Text",
     "index_reference": "osée",
@@ -2453,13 +2577,22 @@
           "label": "Zacharie (AT)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hosea",
+          "type": "person",
+          "preferred_label": "Osée",
+          "confidence": 0.75,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467000,
+    "content_id": "467000",
     "reference_id": 25853,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Osée",
     "media_type": "Text",
     "index_reference": "osée",
@@ -2548,13 +2681,36 @@
           "label": "Moïse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hoshea",
+          "type": "person",
+          "preferred_label": "Osée",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoshea.2",
+          "type": "person",
+          "preferred_label": "Hosée",
+          "confidence": 0.6037,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoshea.3",
+          "type": "person",
+          "preferred_label": "Hosée",
+          "confidence": 0.6037,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466691,
+    "content_id": "466691",
     "reference_id": 25516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ours",
     "media_type": "Text",
     "index_reference": "ours",
@@ -2597,13 +2753,22 @@
           "label": "Elisée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bear",
+          "type": "fauna",
+          "preferred_label": "Bear",
+          "confidence": 0.6625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467441,
+    "content_id": "467441",
     "reference_id": 26331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ozias",
     "media_type": "Text",
     "index_reference": "ozias",
@@ -2697,6 +2862,22 @@
           "resource_code": "UWTranslationWords",
           "label": "Tour de garde",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Uzziah",
+          "type": "person",
+          "preferred_label": "Ozias",
+          "confidence": 0.9,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Ézéchias",
+          "confidence": 0.5785,
+          "match_method": "scored"
         }
       ]
     }

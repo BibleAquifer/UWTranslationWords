@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 238407,
+    "content_id": "238407",
     "reference_id": 26278,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tabernáculo",
     "media_type": "Text",
     "index_reference": "tabernáculo",
@@ -606,13 +606,29 @@
           "label": "Tenda do Encontro",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Tabernacle",
+          "type": "realia",
+          "preferred_label": "Tabernacle",
+          "confidence": 0.5666,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Frame",
+          "type": "realia",
+          "preferred_label": "Frame",
+          "confidence": 0.5058,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238408,
+    "content_id": "238408",
     "reference_id": 26279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamar",
     "media_type": "Text",
     "index_reference": "tamar",
@@ -730,13 +746,29 @@
           "label": "Mar Salgado",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 0.7867,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tamar.3",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238409,
+    "content_id": "238409",
     "reference_id": 26280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Társis",
     "media_type": "Text",
     "index_reference": "társis",
@@ -824,13 +856,29 @@
           "label": "Homens Sábios",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarshish",
+          "type": "place",
+          "preferred_label": "Társis",
+          "confidence": 0.6722,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tarshish",
+          "type": "person",
+          "preferred_label": "Társis",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238410,
+    "content_id": "238410",
     "reference_id": 26281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tarso",
     "media_type": "Text",
     "index_reference": "tarso",
@@ -892,13 +940,29 @@
           "label": "Província",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarsus",
+          "type": "place",
+          "preferred_label": "Tarso",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Tarsus",
+          "type": "group",
+          "preferred_label": "Tarso",
+          "confidence": 0.76,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237868,
+    "content_id": "237868",
     "reference_id": 25735,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temor",
     "media_type": "Text",
     "index_reference": "temor",
@@ -2382,13 +2446,22 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "fear",
+          "confidence": 0.7057,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238413,
+    "content_id": "238413",
     "reference_id": 26284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Templo",
     "media_type": "Text",
     "index_reference": "templo",
@@ -3384,13 +3457,22 @@
           "label": "Sião",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Temple",
+          "type": "realia",
+          "preferred_label": "Temple",
+          "confidence": 0.7835,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238432,
+    "content_id": "238432",
     "reference_id": 26303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tempo",
     "media_type": "Text",
     "index_reference": "tempo",
@@ -4297,13 +4379,14 @@
           "label": "Tribulação",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238416,
+    "content_id": "238416",
     "reference_id": 26287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tenda",
     "media_type": "Text",
     "index_reference": "tenda",
@@ -4555,13 +4638,22 @@
           "label": "Tenda do Encontro",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Tent",
+          "type": "realia",
+          "preferred_label": "Tent",
+          "confidence": 0.7765,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238418,
+    "content_id": "238418",
     "reference_id": 26289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tenda do Encontro",
     "media_type": "Text",
     "index_reference": "tenda do encontro",
@@ -4715,13 +4807,22 @@
           "label": "Tenda",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:TentOfMeeting",
+          "type": "realia",
+          "preferred_label": "Tent of Meeting",
+          "confidence": 0.5585,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238414,
+    "content_id": "238414",
     "reference_id": 26285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tentar",
     "media_type": "Text",
     "index_reference": "tentar",
@@ -4879,13 +4980,22 @@
           "label": "Teste",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:PutToTheTest",
+          "type": "keyterm",
+          "preferred_label": "tentar",
+          "confidence": 0.9429,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237649,
+    "content_id": "237649",
     "reference_id": 25513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ter responsabilidade",
     "media_type": "Text",
     "index_reference": "ter responsabilidade",
@@ -4902,13 +5012,14 @@
           "label": "Iniquidade",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238419,
+    "content_id": "238419",
     "reference_id": 26290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terá",
     "media_type": "Text",
     "index_reference": "terá",
@@ -5048,13 +5159,22 @@
           "label": "Ur",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Terah",
+          "type": "person",
+          "preferred_label": "Tera",
+          "confidence": 0.7941,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237820,
+    "content_id": "237820",
     "reference_id": 25687,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terra",
     "media_type": "Text",
     "index_reference": "terra",
@@ -8697,13 +8817,14 @@
           "label": "Mundo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238258,
+    "content_id": "238258",
     "reference_id": 26128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terra Prometida",
     "media_type": "Text",
     "index_reference": "terra prometida",
@@ -8740,13 +8861,22 @@
           "label": "Promessa",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5745,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238420,
+    "content_id": "238420",
     "reference_id": 26291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terror",
     "media_type": "Text",
     "index_reference": "terror",
@@ -8972,13 +9102,22 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Terror",
+          "type": "keyterm",
+          "preferred_label": "terror",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238424,
+    "content_id": "238424",
     "reference_id": 26295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tessalônica",
     "media_type": "Text",
     "index_reference": "tessalônica",
@@ -9076,13 +9215,29 @@
           "label": "Roma",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "Tessalônica",
+          "confidence": 0.8769,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Thessalonica",
+          "type": "group",
+          "preferred_label": "Thessalonians",
+          "confidence": 0.6826,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238421,
+    "content_id": "238421",
     "reference_id": 26292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Teste",
     "media_type": "Text",
     "index_reference": "teste",
@@ -9394,13 +9549,22 @@
           "label": "Tentar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Interpret",
+          "type": "keyterm",
+          "preferred_label": "discernir",
+          "confidence": 0.6505,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238422,
+    "content_id": "238422",
     "reference_id": 26293,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Testemunho",
     "media_type": "Text",
     "index_reference": "testemunho",
@@ -10850,13 +11014,22 @@
           "label": "Testemunho",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:BearWitness",
+          "type": "keyterm",
+          "preferred_label": "testemunhar",
+          "confidence": 0.715,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237650,
+    "content_id": "237650",
     "reference_id": 25514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Testificar",
     "media_type": "Text",
     "index_reference": "testificar",
@@ -10880,13 +11053,22 @@
           "label": "Testemunho",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:BearWitness",
+          "type": "keyterm",
+          "preferred_label": "testemunhar",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238423,
+    "content_id": "238423",
     "reference_id": 26294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tetrarca",
     "media_type": "Text",
     "index_reference": "tetrarca",
@@ -10974,13 +11156,22 @@
           "label": "Roma",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herodes Antipas",
+          "confidence": 0.5752,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238016,
+    "content_id": "238016",
     "reference_id": 25883,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tiago, filho de Alfeu",
     "media_type": "Text",
     "index_reference": "tiago, filho de alfeu",
@@ -11080,13 +11271,36 @@
           "label": "Os Doze",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Alphaeus",
+          "type": "person",
+          "preferred_label": "Alfeu",
+          "confidence": 0.7067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238017,
+    "content_id": "238017",
     "reference_id": 25884,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tiago, filho de Zebedeu",
     "media_type": "Text",
     "index_reference": "tiago, filho de zebedeu",
@@ -11276,13 +11490,43 @@
           "label": "Moisés",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.904,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "Zebedeu",
+          "confidence": 0.712,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.616,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "João",
+          "confidence": 0.598,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238015,
+    "content_id": "238015",
     "reference_id": 25882,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tiago, irmão de Jesus",
     "media_type": "Text",
     "index_reference": "tiago, irmão de jesus",
@@ -11406,13 +11650,29 @@
           "label": "Perseguir",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.78,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.53,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238433,
+    "content_id": "238433",
     "reference_id": 26304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timóteo",
     "media_type": "Text",
     "index_reference": "timóteo",
@@ -11608,13 +11868,22 @@
           "label": "Ministrar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timóteo",
+          "confidence": 0.984,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 191645,
+    "content_id": "191645",
     "reference_id": 26325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tíquico",
     "media_type": "Text",
     "index_reference": "tíquico",
@@ -11716,13 +11985,22 @@
           "label": "Ministrar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tychicus",
+          "type": "person",
+          "preferred_label": "Tíquico",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238452,
+    "content_id": "238452",
     "reference_id": 26326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tiro",
     "media_type": "Text",
     "index_reference": "tiro",
@@ -11851,13 +12129,29 @@
           "label": "Sidom",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tyre",
+          "type": "place",
+          "preferred_label": "Tiro",
+          "confidence": 0.9467,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sidon",
+          "type": "place",
+          "preferred_label": "Sidom",
+          "confidence": 0.6147,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238434,
+    "content_id": "238434",
     "reference_id": 26305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tirza",
     "media_type": "Text",
     "index_reference": "tirza",
@@ -11921,13 +12215,64 @@
           "label": "Siquém",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tirzah",
+          "type": "person",
+          "preferred_label": "Tirza",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Milcah.2",
+          "type": "person",
+          "preferred_label": "Milca",
+          "confidence": 0.5967,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tirzah",
+          "type": "place",
+          "preferred_label": "Tirza",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zelophehad",
+          "type": "person",
+          "preferred_label": "Zelofeade",
+          "confidence": 0.5472,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "Noé",
+          "confidence": 0.5157,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoglah",
+          "type": "person",
+          "preferred_label": "Hogla",
+          "confidence": 0.5067,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mahlah",
+          "type": "person",
+          "preferred_label": "Macla",
+          "confidence": 0.5067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 191643,
+    "content_id": "191643",
     "reference_id": 26306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tito",
     "media_type": "Text",
     "index_reference": "tito",
@@ -12080,13 +12425,22 @@
           "label": "Ministrar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Tito",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237583,
+    "content_id": "237583",
     "reference_id": 25445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Todo-Poderoso",
     "media_type": "Text",
     "index_reference": "todo-poderoso",
@@ -12393,13 +12747,22 @@
           "label": "Senhor",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5689,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237881,
+    "content_id": "237881",
     "reference_id": 25748,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tolice",
     "media_type": "Text",
     "index_reference": "tolice",
@@ -13197,13 +13560,14 @@
           "label": "Sábio",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238427,
+    "content_id": "238427",
     "reference_id": 26298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tomé",
     "media_type": "Text",
     "index_reference": "tomé",
@@ -13338,13 +13702,22 @@
           "label": "Os Doze",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Tomé",
+          "confidence": 0.82,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238437,
+    "content_id": "238437",
     "reference_id": 26309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tormento",
     "media_type": "Text",
     "index_reference": "tormento",
@@ -13530,13 +13903,14 @@
           "label": "Adorar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238469,
+    "content_id": "238469",
     "reference_id": 26343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Torre de vigia",
     "media_type": "Text",
     "index_reference": "torre de vigia",
@@ -13621,13 +13995,22 @@
           "label": "Vigiar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:SiegeTower",
+          "type": "realia",
+          "preferred_label": "Siege Tower",
+          "confidence": 0.8212,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238082,
+    "content_id": "238082",
     "reference_id": 25950,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trabalho",
     "media_type": "Text",
     "index_reference": "trabalho",
@@ -14191,13 +14574,22 @@
           "label": "Difícil",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Work",
+          "type": "keyterm",
+          "preferred_label": "work",
+          "confidence": 0.8721,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238438,
+    "content_id": "238438",
     "reference_id": 26310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tradição",
     "media_type": "Text",
     "index_reference": "tradição",
@@ -14348,13 +14740,22 @@
           "label": "Moisés",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Teaching",
+          "type": "keyterm",
+          "preferred_label": "tradição",
+          "confidence": 0.8824,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237669,
+    "content_id": "237669",
     "reference_id": 25533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trair",
     "media_type": "Text",
     "index_reference": "trair",
@@ -14602,13 +15003,14 @@
           "label": "Judas Iscariotes",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238440,
+    "content_id": "238440",
     "reference_id": 26312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Transgressão",
     "media_type": "Text",
     "index_reference": "transgressão",
@@ -14850,13 +15252,14 @@
           "label": "Transpassar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238442,
+    "content_id": "238442",
     "reference_id": 26314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Transpassar",
     "media_type": "Text",
     "index_reference": "transpassar",
@@ -14996,13 +15399,14 @@
           "label": "Transgressão",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238441,
+    "content_id": "238441",
     "reference_id": 26313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tremer",
     "media_type": "Text",
     "index_reference": "tremer",
@@ -15238,13 +15642,14 @@
           "label": "Senhor",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238444,
+    "content_id": "238444",
     "reference_id": 26316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tribo",
     "media_type": "Text",
     "index_reference": "tribo",
@@ -15541,13 +15946,14 @@
           "label": "Grupo de Pessoas",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238445,
+    "content_id": "238445",
     "reference_id": 26317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tribulação",
     "media_type": "Text",
     "index_reference": "tribulação",
@@ -15800,13 +16206,14 @@
           "label": "Ira",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237753,
+    "content_id": "237753",
     "reference_id": 25619,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tribunal",
     "media_type": "Text",
     "index_reference": "tribunal",
@@ -15823,13 +16230,14 @@
           "label": "Julgar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238446,
+    "content_id": "238446",
     "reference_id": 26318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tributo",
     "media_type": "Text",
     "index_reference": "tributo",
@@ -15934,13 +16342,22 @@
           "label": "Imposto",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:PollTax",
+          "type": "keyterm",
+          "preferred_label": "tributo",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238471,
+    "content_id": "238471",
     "reference_id": 26345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trigo",
     "media_type": "Text",
     "index_reference": "trigo",
@@ -16137,13 +16554,22 @@
           "label": "Joeirar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Wheat",
+          "type": "flora",
+          "preferred_label": "Wheat",
+          "confidence": 0.666,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238447,
+    "content_id": "238447",
     "reference_id": 26319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trôade",
     "media_type": "Text",
     "index_reference": "trôade",
@@ -16244,13 +16670,22 @@
           "label": "Timóteo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Troas",
+          "type": "place",
+          "preferred_label": "Troas",
+          "confidence": 0.6867,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238449,
+    "content_id": "238449",
     "reference_id": 26321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trombeta",
     "media_type": "Text",
     "index_reference": "trombeta",
@@ -16483,13 +16918,29 @@
           "label": "Ira",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Trumpet",
+          "type": "realia",
+          "preferred_label": "Trumpet",
+          "confidence": 0.764,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:RamsHorn",
+          "type": "realia",
+          "preferred_label": "Rams Horn",
+          "confidence": 0.514,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238431,
+    "content_id": "238431",
     "reference_id": 26302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trono",
     "media_type": "Text",
     "index_reference": "trono",
@@ -16929,13 +17380,22 @@
           "label": "Reinar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Throne",
+          "type": "realia",
+          "preferred_label": "Throne",
+          "confidence": 0.7528,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238396,
+    "content_id": "238396",
     "reference_id": 26267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tropeçar",
     "media_type": "Text",
     "index_reference": "tropeçar",
@@ -17159,13 +17619,29 @@
           "label": "Pecado",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:CauseToStumble",
+          "type": "keyterm",
+          "preferred_label": "fazer tropeçar",
+          "confidence": 0.7294,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Stumble",
+          "type": "keyterm",
+          "preferred_label": "tropeçar",
+          "confidence": 0.6941,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238450,
+    "content_id": "238450",
     "reference_id": 26323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tubal",
     "media_type": "Text",
     "index_reference": "tubal",
@@ -17262,13 +17738,43 @@
           "label": "Profeta",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tubal",
+          "type": "person",
+          "preferred_label": "Tubal",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tubal-cain",
+          "type": "person",
+          "preferred_label": "Tubalcaim",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Meshech",
+          "type": "place",
+          "preferred_label": "Mesaque",
+          "confidence": 0.5,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tubal",
+          "type": "place",
+          "preferred_label": "Tubal",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238435,
+    "content_id": "238435",
     "reference_id": 26307,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Túmulo",
     "media_type": "Text",
     "index_reference": "túmulo",
@@ -17694,13 +18200,22 @@
           "label": "Enterrar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Grave",
+          "type": "realia",
+          "preferred_label": "Grave",
+          "confidence": 0.6321,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238451,
+    "content_id": "238451",
     "reference_id": 26324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Túnica",
     "media_type": "Text",
     "index_reference": "túnica",
@@ -17909,6 +18424,22 @@
           "resource_code": "UWTranslationWords",
           "label": "Manto",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Tunic.2",
+          "type": "realia",
+          "preferred_label": "Tunic",
+          "confidence": 0.6989,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Tunic",
+          "type": "realia",
+          "preferred_label": "Tunic",
+          "confidence": 0.6322,
+          "match_method": "scored"
         }
       ]
     }

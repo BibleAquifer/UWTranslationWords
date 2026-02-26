@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390686,
+    "content_id": "390686",
     "reference_id": 25752,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "饒恕",
     "media_type": "Text",
     "index_reference": "饒恕",
@@ -463,6 +463,22 @@
           "resource_code": "UWTranslationWords",
           "label": "罪責",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Forgive",
+          "type": "keyterm",
+          "preferred_label": "Forgive",
+          "confidence": 0.8405,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Repent",
+          "type": "keyterm",
+          "preferred_label": "Repent",
+          "confidence": 0.8305,
+          "match_method": "embedding"
         }
       ]
     }

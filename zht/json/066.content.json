@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390680,
+    "content_id": "390680",
     "reference_id": 25746,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "洪水",
     "media_type": "Text",
     "index_reference": "洪水",
@@ -171,13 +171,14 @@
           "label": "挪亞",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391084,
+    "content_id": "391084",
     "reference_id": 26162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "紅海",
     "media_type": "Text",
     "index_reference": "紅海",
@@ -292,6 +293,15 @@
           "resource_code": "UWTranslationWords",
           "label": "埃及",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:RedSea",
+          "type": "place",
+          "preferred_label": "Red Sea",
+          "confidence": 0.8604,
+          "match_method": "embedding"
         }
       ]
     }

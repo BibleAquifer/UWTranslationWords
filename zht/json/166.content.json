@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391127,
+    "content_id": "391127",
     "reference_id": 26205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "書卷",
     "media_type": "Text",
     "index_reference": "書卷",
@@ -172,13 +172,22 @@
           "label": "神的話",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391192,
+    "content_id": "391192",
     "reference_id": 26271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "疏割",
     "media_type": "Text",
     "index_reference": "疏割",
@@ -230,13 +239,14 @@
           "end_ref_usfm": "JDG 8:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 391077,
+    "content_id": "391077",
     "reference_id": 26154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "贖金",
     "media_type": "Text",
     "index_reference": "贖金",
@@ -363,13 +373,14 @@
           "label": "救贖",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390738,
+    "content_id": "390738",
     "reference_id": 25807,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "贖愆祭",
     "media_type": "Text",
     "index_reference": "贖愆祭",
@@ -438,13 +449,14 @@
           "label": "贖罪祭",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390431,
+    "content_id": "390431",
     "reference_id": 25490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "贖罪",
     "media_type": "Text",
     "index_reference": "贖罪",
@@ -550,13 +562,14 @@
           "label": "救贖",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390432,
+    "content_id": "390432",
     "reference_id": 25491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "贖罪蓋",
     "media_type": "Text",
     "index_reference": "贖罪蓋",
@@ -722,13 +735,14 @@
           "label": "救贖",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391164,
+    "content_id": "391164",
     "reference_id": 26242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "贖罪祭",
     "media_type": "Text",
     "index_reference": "贖罪祭",
@@ -822,13 +836,14 @@
           "label": "罪",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390489,
+    "content_id": "390489",
     "reference_id": 25549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "束縛",
     "media_type": "Text",
     "index_reference": "束縛",
@@ -1310,13 +1325,14 @@
           "label": "僕人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390716,
+    "content_id": "390716",
     "reference_id": 25783,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "束腰",
     "media_type": "Text",
     "index_reference": "束腰",
@@ -1430,13 +1446,14 @@
           "label": "腰",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390753,
+    "content_id": "390753",
     "reference_id": 25822,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "豎琴",
     "media_type": "Text",
     "index_reference": "豎琴",
@@ -1535,7 +1552,8 @@
           "label": "掃羅",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

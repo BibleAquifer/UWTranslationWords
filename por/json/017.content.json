@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 238274,
+    "content_id": "238274",
     "reference_id": 26144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Qualificar",
     "media_type": "Text",
     "index_reference": "qualificar",
@@ -54,13 +54,14 @@
           "label": "Redimir",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238066,
+    "content_id": "238066",
     "reference_id": 25934,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Quedar",
     "media_type": "Text",
     "index_reference": "quedar",
@@ -111,13 +112,22 @@
           "label": "Sacrifício",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Kedar",
+          "type": "person",
+          "preferred_label": "Quedar",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238067,
+    "content_id": "238067",
     "reference_id": 25935,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Quedes",
     "media_type": "Text",
     "index_reference": "quedes",
@@ -202,13 +212,22 @@
           "label": "Siquém",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kedesh",
+          "type": "place",
+          "preferred_label": "Quedes",
+          "confidence": 0.7167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237719,
+    "content_id": "237719",
     "reference_id": 25584,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Queretitas",
     "media_type": "Text",
     "index_reference": "queretitas",
@@ -253,13 +272,50 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Cherethite",
+          "type": "group",
+          "preferred_label": "Cherethites",
+          "confidence": 0.7015,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaã",
+          "confidence": 0.589,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Filístia",
+          "confidence": 0.589,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.571,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Filisteu",
+          "confidence": 0.5305,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237720,
+    "content_id": "237720",
     "reference_id": 25585,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Querubim",
     "media_type": "Text",
     "index_reference": "querubim",
@@ -384,6 +440,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Anjo",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:WingedCreature",
+          "type": "realia",
+          "preferred_label": "Winged Creature",
+          "confidence": 0.8042,
+          "match_method": "scored"
         }
       ]
     }

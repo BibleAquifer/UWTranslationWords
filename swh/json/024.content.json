@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 627140,
+    "content_id": "627140",
     "reference_id": 25915,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yafa",
     "media_type": "Text",
     "index_reference": "yafa",
@@ -131,13 +131,22 @@
           "label": "Tarshishi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Joppa",
+          "type": "place",
+          "preferred_label": "Yafa",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627121,
+    "content_id": "627121",
     "reference_id": 25885,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yafeti",
     "media_type": "Text",
     "index_reference": "yafeti",
@@ -249,13 +258,29 @@
           "label": "Shemu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Japheth",
+          "type": "person",
+          "preferred_label": "Yafethi",
+          "confidence": 0.9276,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Shemu",
+          "confidence": 0.5763,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575547,
+    "content_id": "575547",
     "reference_id": 25881,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakobo",
     "media_type": "Text",
     "index_reference": "yakobo",
@@ -1681,13 +1706,29 @@
           "label": "Zilpa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israeli",
+          "confidence": 0.7832,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Yakobo",
+          "confidence": 0.6036,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575549,
+    "content_id": "575549",
     "reference_id": 25883,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakobo Mwana wa Alfayo",
     "media_type": "Text",
     "index_reference": "yakobo mwana wa alfayo",
@@ -1787,13 +1828,36 @@
           "label": "Kumi na wawili",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobo",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobo",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Alphaeus",
+          "type": "person",
+          "preferred_label": "Alfayo",
+          "confidence": 0.7067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575550,
+    "content_id": "575550",
     "reference_id": 25884,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakobo Mwana wa Zebedayo",
     "media_type": "Text",
     "index_reference": "yakobo mwana wa zebedayo",
@@ -1983,13 +2047,43 @@
           "label": "Mose",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobo",
+          "confidence": 0.904,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "Zebedayo",
+          "confidence": 0.712,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobo",
+          "confidence": 0.616,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "Yohana",
+          "confidence": 0.5665,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575548,
+    "content_id": "575548",
     "reference_id": 25882,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakobo Ndugu wa Yesu",
     "media_type": "Text",
     "index_reference": "yakobo ndugu wa yesu",
@@ -2113,13 +2207,29 @@
           "label": "Yuda, mwana wa Yakobo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "Yakobo",
+          "confidence": 0.78,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesu",
+          "confidence": 0.53,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627128,
+    "content_id": "627128",
     "reference_id": 25894,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yeftha",
     "media_type": "Text",
     "index_reference": "yeftha",
@@ -2195,13 +2305,22 @@
           "label": "Efraimu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jephthah",
+          "type": "person",
+          "preferred_label": "Yeftha",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575551,
+    "content_id": "575551",
     "reference_id": 25891,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehoramu",
     "media_type": "Text",
     "index_reference": "yehoramu",
@@ -2284,13 +2403,29 @@
           "label": "Obadia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoram",
+          "type": "person",
+          "preferred_label": "Yehoramu",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Yehoshafati",
+          "confidence": 0.6107,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575552,
+    "content_id": "575552",
     "reference_id": 25892,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehoshafati",
     "media_type": "Text",
     "index_reference": "yehoshafati",
@@ -2392,13 +2527,36 @@
           "label": "Solomoni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Yehoshafati",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat",
+          "type": "person",
+          "preferred_label": "Yehoshafati",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat.2",
+          "type": "person",
+          "preferred_label": "Yehoshafati",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627125,
+    "content_id": "627125",
     "reference_id": 25889,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehoyada",
     "media_type": "Text",
     "index_reference": "yehoyada",
@@ -2449,13 +2607,22 @@
           "label": "Yoashi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiada.2",
+          "type": "person",
+          "preferred_label": "Yehoyada",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627126,
+    "content_id": "627126",
     "reference_id": 25890,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehoyakimu",
     "media_type": "Text",
     "index_reference": "yehoyakimu",
@@ -2538,13 +2705,29 @@
           "label": "Nebukadneza",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Yehoyakimu",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoahaz.3",
+          "type": "person",
+          "preferred_label": "Yehoahazi",
+          "confidence": 0.5478,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627127,
+    "content_id": "627127",
     "reference_id": 25893,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehu",
     "media_type": "Text",
     "index_reference": "yehu",
@@ -2662,13 +2845,36 @@
           "label": "Ufalme wa Yuda",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehu.4",
+          "type": "person",
+          "preferred_label": "Yehu",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehu",
+          "type": "person",
+          "preferred_label": "Yehu",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehu.2",
+          "type": "person",
+          "preferred_label": "Yehu",
+          "confidence": 0.5071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627124,
+    "content_id": "627124",
     "reference_id": 25888,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yekonia",
     "media_type": "Text",
     "index_reference": "yekonia",
@@ -2750,13 +2956,22 @@
           "label": "Ufalme wa Yuda",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiachin",
+          "type": "person",
+          "preferred_label": "Yekonia",
+          "confidence": 0.69,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575553,
+    "content_id": "575553",
     "reference_id": 25895,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yeremia",
     "media_type": "Text",
     "index_reference": "yeremia",
@@ -2900,13 +3115,29 @@
           "label": "Kisima",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jeremiah.6",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeremiah.7",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575554,
+    "content_id": "575554",
     "reference_id": 25896,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yeriko",
     "media_type": "Text",
     "index_reference": "yeriko",
@@ -3042,13 +3273,22 @@
           "label": "Samaki wa chumvi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jericho",
+          "type": "place",
+          "preferred_label": "Yeriko",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627129,
+    "content_id": "627129",
     "reference_id": 25897,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yeroboamu",
     "media_type": "Text",
     "index_reference": "yeroboamu",
@@ -3124,13 +3364,36 @@
           "label": "Ufalme wa Yuda",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Yeroboamu",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "Yeroboamu",
+          "confidence": 0.55,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joram.3",
+          "type": "person",
+          "preferred_label": "Yoramu",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575555,
+    "content_id": "575555",
     "reference_id": 25898,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yerusalemu",
     "media_type": "Text",
     "index_reference": "yerusalemu",
@@ -4583,13 +4846,22 @@
           "label": "Sayuni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalemu",
+          "confidence": 0.983,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575556,
+    "content_id": "575556",
     "reference_id": 25899,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yese",
     "media_type": "Text",
     "index_reference": "yese",
@@ -4722,13 +4994,22 @@
           "label": "Ruthu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesse",
+          "type": "person",
+          "preferred_label": "Yese",
+          "confidence": 0.9636,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575557,
+    "content_id": "575557",
     "reference_id": 25900,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yesu",
     "media_type": "Text",
     "index_reference": "yesu",
@@ -9949,13 +10230,22 @@
           "label": "Mwokozi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesu",
+          "confidence": 0.9935,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627130,
+    "content_id": "627130",
     "reference_id": 25901,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yethro",
     "media_type": "Text",
     "index_reference": "yethro",
@@ -10105,13 +10395,22 @@
           "label": "Mose",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "Yethro",
+          "confidence": 0.82,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627132,
+    "content_id": "627132",
     "reference_id": 25904,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yezebeli",
     "media_type": "Text",
     "index_reference": "yezebeli",
@@ -10173,13 +10472,22 @@
           "label": "Mungu wa Uongo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jezebel",
+          "type": "person",
+          "preferred_label": "Yezebeli",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627133,
+    "content_id": "627133",
     "reference_id": 25905,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yezreeli",
     "media_type": "Text",
     "index_reference": "yezreeli",
@@ -10262,13 +10570,36 @@
           "label": "Samaki wa chumvi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jezreel.2",
+          "type": "place",
+          "preferred_label": "Yezreeli",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jezreel",
+          "type": "place",
+          "preferred_label": "Yezreeli",
+          "confidence": 0.6889,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Jezreel",
+          "type": "group",
+          "preferred_label": "Yezreeli",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627134,
+    "content_id": "627134",
     "reference_id": 25906,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoabu",
     "media_type": "Text",
     "index_reference": "yoabu",
@@ -10335,13 +10666,36 @@
           "label": "Daudi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joab.3",
+          "type": "person",
+          "preferred_label": "Yoabu",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joab.4",
+          "type": "person",
+          "preferred_label": "Yoabu",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "Yoabu",
+          "confidence": 0.61,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627135,
+    "content_id": "627135",
     "reference_id": 25907,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoashi",
     "media_type": "Text",
     "index_reference": "yoashi",
@@ -10424,13 +10778,29 @@
           "label": "Mahali pa Juu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joash",
+          "type": "person",
+          "preferred_label": "Yoashi",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joash.2",
+          "type": "person",
+          "preferred_label": "Yoashi",
+          "confidence": 0.64,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627137,
+    "content_id": "627137",
     "reference_id": 25909,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoeli",
     "media_type": "Text",
     "index_reference": "yoeli",
@@ -10505,13 +10875,50 @@
           "label": "Pentekoste",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joel",
+          "type": "person",
+          "preferred_label": "Yoeli",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.14",
+          "type": "person",
+          "preferred_label": "Yoeli",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.13",
+          "type": "person",
+          "preferred_label": "Yoeli",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.12",
+          "type": "person",
+          "preferred_label": "Yoeli",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeiel.8",
+          "type": "person",
+          "preferred_label": "Yeieli",
+          "confidence": 0.5185,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627138,
+    "content_id": "627138",
     "reference_id": 25910,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yohana Marko",
     "media_type": "Text",
     "index_reference": "yohana marko",
@@ -10626,13 +11033,22 @@
           "label": "Paulo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "Marko",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575560,
+    "content_id": "575560",
     "reference_id": 25912,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yohana Mbatizaji",
     "media_type": "Text",
     "index_reference": "yohana mbatizaji",
@@ -11215,13 +11631,22 @@
           "label": "Zakaria AJ",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "Yohana",
+          "confidence": 0.9699,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575559,
+    "content_id": "575559",
     "reference_id": 25911,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yohana mtume",
     "media_type": "Text",
     "index_reference": "yohana mtume",
@@ -11488,13 +11913,22 @@
           "label": "Zebedayo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "Yohana",
+          "confidence": 0.9163,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575561,
+    "content_id": "575561",
     "reference_id": 25913,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yona",
     "media_type": "Text",
     "index_reference": "yona",
@@ -11650,13 +12084,22 @@
           "label": "Ninawi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "Yona",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627139,
+    "content_id": "627139",
     "reference_id": 25914,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yonathani",
     "media_type": "Text",
     "index_reference": "yonathani",
@@ -11740,13 +12183,29 @@
           "label": "Mwandishi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jonathan.4",
+          "type": "person",
+          "preferred_label": "Yonathani",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "Yonathani",
+          "confidence": 0.6214,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627141,
+    "content_id": "627141",
     "reference_id": 25916,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoramu",
     "media_type": "Text",
     "index_reference": "yoramu",
@@ -11851,13 +12310,29 @@
           "label": "Obadia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joram.3",
+          "type": "person",
+          "preferred_label": "Yoramu",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoram",
+          "type": "person",
+          "preferred_label": "Yehoramu",
+          "confidence": 0.7084,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575563,
+    "content_id": "575563",
     "reference_id": 25918,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosefu Agano Jipya",
     "media_type": "Text",
     "index_reference": "yosefu agano jipya",
@@ -12042,13 +12517,22 @@
           "label": "Bikira",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "Yusufu",
+          "confidence": 0.5207,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627142,
+    "content_id": "627142",
     "reference_id": 25919,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosefu Agano la Kale",
     "media_type": "Text",
     "index_reference": "yosefu agano la kale",
@@ -13030,13 +13514,22 @@
           "label": "Raheli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "Yusufu",
+          "confidence": 0.6807,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627143,
+    "content_id": "627143",
     "reference_id": 25920,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoshua",
     "media_type": "Text",
     "index_reference": "yoshua",
@@ -13203,13 +13696,29 @@
           "label": "Nchi ya Ahadi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Yoshua",
+          "confidence": 0.6952,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Yoshua",
+          "confidence": 0.6786,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575564,
+    "content_id": "575564",
     "reference_id": 25921,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosia",
     "media_type": "Text",
     "index_reference": "yosia",
@@ -13297,13 +13806,29 @@
           "label": "Sheria",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "Yosia",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amon.3",
+          "type": "person",
+          "preferred_label": "Amoni",
+          "confidence": 0.5258,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575565,
+    "content_id": "575565",
     "reference_id": 25922,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yothamu",
     "media_type": "Text",
     "index_reference": "yothamu",
@@ -13372,13 +13897,29 @@
           "label": "Gideoni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jotham.2",
+          "type": "person",
+          "preferred_label": "Yothamu",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jotham",
+          "type": "person",
+          "preferred_label": "Yothamu",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575567,
+    "content_id": "575567",
     "reference_id": 25924,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yuda",
     "media_type": "Text",
     "index_reference": "yuda",
@@ -13749,13 +14290,29 @@
           "label": "Lea",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yuda",
+          "confidence": 0.9926,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yuda",
+          "confidence": 0.6056,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575568,
+    "content_id": "575568",
     "reference_id": 25926,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yuda Iskariote",
     "media_type": "Text",
     "index_reference": "yuda iskariote",
@@ -13956,13 +14513,29 @@
           "label": "Yuda, mwana wa Yakobo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Yuda",
+          "confidence": 0.9286,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Yuda",
+          "confidence": 0.6286,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627145,
+    "content_id": "627145",
     "reference_id": 25927,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yuda, mwana wa Yakobo",
     "media_type": "Text",
     "index_reference": "yuda, mwana wa yakobo",
@@ -14024,13 +14597,43 @@
           "label": "Kumi na wawili",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobo",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Yuda",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Yuda",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobo",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575569,
+    "content_id": "575569",
     "reference_id": 25928,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudea",
     "media_type": "Text",
     "index_reference": "yudea",
@@ -14609,6 +15212,36 @@
           "resource_code": "Unknown",
           "label": "Ufalme wa Yuda",
           "language": "swh"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Yudea",
+          "confidence": 0.7978,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yuda",
+          "confidence": 0.5596,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yuda",
+          "confidence": 0.5467,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalemu",
+          "confidence": 0.5275,
+          "match_method": "scored"
         }
       ]
     }

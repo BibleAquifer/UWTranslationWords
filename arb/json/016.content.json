@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196296,
+    "content_id": "196296",
     "reference_id": 25903,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القادة اليهود",
     "media_type": "Text",
     "index_reference": "القادة اليهود",
@@ -92,13 +92,14 @@
           "label": "كاتب",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196247,
+    "content_id": "196247",
     "reference_id": 25843,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القُدس (الموضع المُقَدَّس)",
     "media_type": "Text",
     "index_reference": "القُدس (الموضع المُقَدَّس)",
@@ -303,13 +304,14 @@
           "label": "هيكل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195902,
+    "content_id": "195902",
     "reference_id": 25445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "القدير",
     "media_type": "Text",
     "index_reference": "القدير",
@@ -616,13 +618,22 @@
           "label": "السيد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "ٱلرَّبِّ",
+          "confidence": 0.5149,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144724,
+    "content_id": "144724",
     "reference_id": 25599,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قَائِد",
     "media_type": "Text",
     "index_reference": "قَائِد",
@@ -803,13 +814,22 @@
           "label": "رئيس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Kareah",
+          "type": "person",
+          "preferred_label": "قَارِيحَ",
+          "confidence": 0.8036,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 144723,
+    "content_id": "144723",
     "reference_id": 25580,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قَائِد ٱلْمِئَةِ",
     "media_type": "Text",
     "index_reference": "قَائِد ٱلْمِئَةِ",
@@ -983,13 +1003,14 @@
           "label": "روما",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196102,
+    "content_id": "196102",
     "reference_id": 25680,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قائم الباب",
     "media_type": "Text",
     "index_reference": "قائم الباب",
@@ -1056,13 +1077,22 @@
           "label": "عيد الفصح",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:BeautifulGate",
+          "type": "place",
+          "preferred_label": "الباب ٱلْجَمِيل",
+          "confidence": 0.8154,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196322,
+    "content_id": "196322",
     "reference_id": 25933,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قادش",
     "media_type": "Text",
     "index_reference": "قادش",
@@ -1136,13 +1166,14 @@
           "label": "قدوس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196324,
+    "content_id": "196324",
     "reference_id": 25935,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قَادَش",
     "media_type": "Text",
     "index_reference": "قَادَش",
@@ -1227,13 +1258,22 @@
           "label": "شَكِيم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kedesh",
+          "type": "place",
+          "preferred_label": "قَادَشَ",
+          "confidence": 0.7167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196319,
+    "content_id": "196319",
     "reference_id": 25929,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قاضي",
     "media_type": "Text",
     "index_reference": "قاضي",
@@ -2541,13 +2581,22 @@
           "label": "شريعة موسى",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 0.8894,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196402,
+    "content_id": "196402",
     "reference_id": 26028,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قالب الصياغة",
     "media_type": "Text",
     "index_reference": "قالب الصياغة",
@@ -2578,13 +2627,14 @@
           "label": "فضة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196009,
+    "content_id": "196009",
     "reference_id": 25571,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قانا",
     "media_type": "Text",
     "index_reference": "قانا",
@@ -2652,13 +2702,22 @@
           "label": "الإثني عشر",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cana",
+          "type": "place",
+          "preferred_label": "قَانَا",
+          "confidence": 0.5967,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196593,
+    "content_id": "196593",
     "reference_id": 26260,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قانون",
     "media_type": "Text",
     "index_reference": "قانون",
@@ -2889,13 +2948,22 @@
           "label": "يهوه",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Law",
+          "type": "keyterm",
+          "preferred_label": "Law",
+          "confidence": 0.9201,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196004,
+    "content_id": "196004",
     "reference_id": 25565,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قايين",
     "media_type": "Text",
     "index_reference": "قايين",
@@ -3016,13 +3084,22 @@
           "label": "ذبيحة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cain",
+          "type": "person",
+          "preferred_label": "قَايِينَ",
+          "confidence": 0.8515,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144834,
+    "content_id": "144834",
     "reference_id": 26307,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قبر",
     "media_type": "Text",
     "index_reference": "قبر",
@@ -3448,13 +3525,22 @@
           "label": "يدفن",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Grave",
+          "type": "realia",
+          "preferred_label": "Grave",
+          "confidence": 0.8453,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196065,
+    "content_id": "196065",
     "reference_id": 25637,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قُبْرُص",
     "media_type": "Text",
     "index_reference": "قُبْرُص",
@@ -3564,13 +3650,22 @@
           "label": "البحر المتوسط",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cyprus",
+          "type": "place",
+          "preferred_label": "كِتِّيمَ",
+          "confidence": 0.5645,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144771,
+    "content_id": "144771",
     "reference_id": 25944,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قبلة",
     "media_type": "Text",
     "index_reference": "قبلة",
@@ -3772,13 +3867,14 @@
           "end_ref_usfm": "GEN 27:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 144754,
+    "content_id": "144754",
     "reference_id": 25840,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قدوس",
     "media_type": "Text",
     "index_reference": "قدوس",
@@ -4758,13 +4854,14 @@
           "label": "يُقَدِّس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196246,
+    "content_id": "196246",
     "reference_id": 25842,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قدوس",
     "media_type": "Text",
     "index_reference": "قدوس",
@@ -4855,13 +4952,14 @@
           "label": "قدوس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196539,
+    "content_id": "196539",
     "reference_id": 26190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قديس",
     "media_type": "Text",
     "index_reference": "قديس",
@@ -5263,13 +5361,14 @@
           "label": "قدوس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144777,
+    "content_id": "144777",
     "reference_id": 25977,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قُرعة",
     "media_type": "Text",
     "index_reference": "قُرعة",
@@ -5404,13 +5503,14 @@
           "label": "زكريا (العهد القديم)",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196251,
+    "content_id": "196251",
     "reference_id": 25848,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قرن",
     "media_type": "Text",
     "index_reference": "قرن",
@@ -5644,13 +5744,14 @@
           "label": "بُوق",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144790,
+    "content_id": "144790",
     "reference_id": 26058,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قَسَم",
     "media_type": "Text",
     "index_reference": "قَسَم",
@@ -6132,13 +6233,50 @@
           "label": "وعد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Kish",
+          "type": "person",
+          "preferred_label": "قَيْس",
+          "confidence": 0.8394,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kish.2",
+          "type": "person",
+          "preferred_label": "قَيْس",
+          "confidence": 0.8394,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kish.3",
+          "type": "person",
+          "preferred_label": "قَيْس",
+          "confidence": 0.8394,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kish.4",
+          "type": "person",
+          "preferred_label": "قَيْس",
+          "confidence": 0.8394,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Cosam",
+          "type": "person",
+          "preferred_label": "قصَمَ",
+          "confidence": 0.8111,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196438,
+    "content_id": "196438",
     "reference_id": 26071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قَصْر",
     "media_type": "Text",
     "index_reference": "قَصْر",
@@ -6265,13 +6403,106 @@
           "label": "ملك",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Pekah",
+          "type": "person",
+          "preferred_label": "فَقْح",
+          "confidence": 0.8591,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kish",
+          "type": "person",
+          "preferred_label": "قَيْس",
+          "confidence": 0.8431,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kish.2",
+          "type": "person",
+          "preferred_label": "قَيْس",
+          "confidence": 0.8431,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kish.3",
+          "type": "person",
+          "preferred_label": "قَيْس",
+          "confidence": 0.8431,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kish.4",
+          "type": "person",
+          "preferred_label": "قَيْس",
+          "confidence": 0.8431,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bozkath",
+          "type": "place",
+          "preferred_label": "بَصْقَة",
+          "confidence": 0.8357,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Keziah",
+          "type": "person",
+          "preferred_label": "قَصِيعَةَ",
+          "confidence": 0.8315,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "دِمَشْقَ",
+          "confidence": 0.8304,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rezeph",
+          "type": "place",
+          "preferred_label": "رَصْفَ",
+          "confidence": 0.8285,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Keturah",
+          "type": "person",
+          "preferred_label": "قَطورَة",
+          "confidence": 0.8152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jezer",
+          "type": "person",
+          "preferred_label": "يِصْر",
+          "confidence": 0.8094,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashvath",
+          "type": "person",
+          "preferred_label": "عَشْة",
+          "confidence": 0.8089,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pekahiah",
+          "type": "person",
+          "preferred_label": "فَقَحْيَا",
+          "confidence": 0.8045,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196550,
+    "content_id": "196550",
     "reference_id": 26203,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قضيب",
     "media_type": "Text",
     "index_reference": "قضيب",
@@ -6346,13 +6577,22 @@
           "label": "بار",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Koz",
+          "type": "person",
+          "preferred_label": "قوص",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196161,
+    "content_id": "196161",
     "reference_id": 25745,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قطيع",
     "media_type": "Text",
     "index_reference": "قطيع",
@@ -6871,13 +7111,22 @@
           "label": "خروف",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Flock",
+          "type": "fauna",
+          "preferred_label": "Flock",
+          "confidence": 0.5207,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196660,
+    "content_id": "196660",
     "reference_id": 26345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قمح",
     "media_type": "Text",
     "index_reference": "قمح",
@@ -7074,13 +7323,14 @@
           "label": "يُغَرْبِل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144782,
+    "content_id": "144782",
     "reference_id": 26019,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قوة",
     "media_type": "Text",
     "index_reference": "قوة",
@@ -7501,13 +7751,22 @@
           "label": "معجزة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Strength",
+          "type": "keyterm",
+          "preferred_label": "Strength",
+          "confidence": 0.8943,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196334,
+    "content_id": "196334",
     "reference_id": 25947,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قُورَح",
     "media_type": "Text",
     "index_reference": "قُورَح",
@@ -7633,13 +7892,36 @@
           "label": "كاهن",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Korah.3",
+          "type": "person",
+          "preferred_label": "قورَحَ",
+          "confidence": 0.6648,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Korah",
+          "type": "person",
+          "preferred_label": "قورَحَ",
+          "confidence": 0.6437,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Korah.2",
+          "type": "person",
+          "preferred_label": "قورَحَ",
+          "confidence": 0.5806,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196003,
+    "content_id": "196003",
     "reference_id": 25564,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قِيافا",
     "media_type": "Text",
     "index_reference": "قِيافا",
@@ -7742,13 +8024,22 @@
           "label": "High Priest",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Caiaphas",
+          "type": "person",
+          "preferred_label": "قَيَافَا",
+          "confidence": 0.6465,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196526,
+    "content_id": "196526",
     "reference_id": 26173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قيامة",
     "media_type": "Text",
     "index_reference": "قيامة",
@@ -8010,13 +8301,22 @@
           "end_ref_usfm": "JHN 5:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "Resurrection",
+          "confidence": 0.531,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 196232,
+    "content_id": "196232",
     "reference_id": 25822,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قيثارة",
     "media_type": "Text",
     "index_reference": "قيثارة",
@@ -8115,13 +8415,14 @@
           "label": "شاول",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195994,
+    "content_id": "195994",
     "reference_id": 25549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قيد",
     "media_type": "Text",
     "index_reference": "قيد",
@@ -8603,13 +8904,14 @@
           "label": "عبد",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196323,
+    "content_id": "196323",
     "reference_id": 25934,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قيدار",
     "media_type": "Text",
     "index_reference": "قيدار",
@@ -8660,13 +8962,22 @@
           "label": "إسماعيل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Kedar",
+          "type": "person",
+          "preferred_label": "قِيدَارَ",
+          "confidence": 0.775,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196066,
+    "content_id": "196066",
     "reference_id": 25638,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قيروان (قورينة)",
     "media_type": "Text",
     "index_reference": "قيروان (قورينة)",
@@ -8738,13 +9049,22 @@
           "label": "كريت",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cyrene",
+          "type": "place",
+          "preferred_label": "قَيْرَوَانِيًّا",
+          "confidence": 0.5035,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144718,
+    "content_id": "144718",
     "reference_id": 25562,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قَيْصَرَ",
     "media_type": "Text",
     "index_reference": "قَيْصَرَ",
@@ -8932,13 +9252,22 @@
           "label": "روما",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tiberius",
+          "type": "person",
+          "preferred_label": "طِيبَارِيوسَ",
+          "confidence": 0.5798,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144719,
+    "content_id": "144719",
     "reference_id": 25563,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "قَيْصَرِيَّة",
     "media_type": "Text",
     "index_reference": "قَيْصَرِيَّة",
@@ -9117,6 +9446,22 @@
           "resource_code": "UWTranslationWords",
           "label": "طَرسوس",
           "language": "arb"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Caesarea",
+          "type": "place",
+          "preferred_label": "قَيْصَرِيَّةَ",
+          "confidence": 0.8727,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:CaesareaPhilippi",
+          "type": "place",
+          "preferred_label": "قَيْصَرِيَّةِ",
+          "confidence": 0.6364,
+          "match_method": "scored"
         }
       ]
     }

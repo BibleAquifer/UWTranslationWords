@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391002,
+    "content_id": "391002",
     "reference_id": 26076,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "逾越節",
     "media_type": "Text",
     "index_reference": "逾越節",
@@ -270,13 +270,14 @@
           "end_ref_usfm": "LEV 23:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390682,
+    "content_id": "390682",
     "reference_id": 25748,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "愚昧",
     "media_type": "Text",
     "index_reference": "愚昧",
@@ -1074,13 +1075,36 @@
           "label": "智慧",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Foolish",
+          "type": "keyterm",
+          "preferred_label": "Foolish",
+          "confidence": 0.873,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Stupid",
+          "type": "keyterm",
+          "preferred_label": "Stupid",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Fool",
+          "type": "keyterm",
+          "preferred_label": "Fool",
+          "confidence": 0.8306,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390678,
+    "content_id": "390678",
     "reference_id": 25744,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "漁夫",
     "media_type": "Text",
     "index_reference": "漁夫",
@@ -1144,13 +1168,14 @@
           "end_ref_usfm": "LUK 5:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 391090,
+    "content_id": "391090",
     "reference_id": 26168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "餘民",
     "media_type": "Text",
     "index_reference": "餘民",
@@ -1250,13 +1275,14 @@
           "end_ref_usfm": "EZK 6:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 391043,
+    "content_id": "391043",
     "reference_id": 26119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "預定",
     "media_type": "Text",
     "index_reference": "預定",
@@ -1308,13 +1334,14 @@
           "end_ref_usfm": "1CO 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390685,
+    "content_id": "390685",
     "reference_id": 25751,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "預知",
     "media_type": "Text",
     "index_reference": "預知",
@@ -1375,7 +1402,8 @@
           "label": "預定",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

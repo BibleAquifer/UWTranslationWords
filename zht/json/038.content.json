@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390985,
+    "content_id": "390985",
     "reference_id": 26059,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "俄巴底亞",
     "media_type": "Text",
     "index_reference": "俄巴底亞",
@@ -152,13 +152,14 @@
           "label": "西底家",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390726,
+    "content_id": "390726",
     "reference_id": 25794,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "蛾摩拉",
     "media_type": "Text",
     "index_reference": "蛾摩拉",
@@ -306,13 +307,29 @@
           "label": "所多瑪",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gomorrah",
+          "type": "place",
+          "preferred_label": "Gomorrah",
+          "confidence": 0.5029,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodom",
+          "confidence": 0.5029,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391283,
+    "content_id": "391283",
     "reference_id": 26363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "軛",
     "media_type": "Text",
     "index_reference": "軛",
@@ -411,13 +428,14 @@
           "label": "僕人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390986,
+    "content_id": "390986",
     "reference_id": 26060,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "噩",
     "media_type": "Text",
     "index_reference": "噩",
@@ -441,7 +459,8 @@
           "label": "巴珊",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

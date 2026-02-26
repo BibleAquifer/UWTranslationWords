@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 675933,
+    "content_id": "675933",
     "reference_id": 25881,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yacob",
     "media_type": "Text",
     "index_reference": "yacob",
@@ -1407,13 +1407,29 @@
           "label": "Ribka",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.8957,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Yakub",
+          "confidence": 0.5136,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675954,
+    "content_id": "675954",
     "reference_id": 25902,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yahudi",
     "media_type": "Text",
     "index_reference": "yahudi",
@@ -2653,13 +2669,22 @@
           "label": "Penguasa Yahudi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.5425,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675935,
+    "content_id": "675935",
     "reference_id": 25883,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakobus (anak of Alfeus)",
     "media_type": "Text",
     "index_reference": "yakobus (anak of alfeus)",
@@ -2752,13 +2777,29 @@
           "label": "Yakobus (anak Zebedeus)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675936,
+    "content_id": "675936",
     "reference_id": 25884,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakobus (anak Zebedeus)",
     "media_type": "Text",
     "index_reference": "yakobus (anak zebedeus)",
@@ -2948,13 +2989,36 @@
           "label": "Musa",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.904,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "Yohanes",
+          "confidence": 0.6475,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.616,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675934,
+    "content_id": "675934",
     "reference_id": 25882,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakobus (Saudara Yesus)",
     "media_type": "Text",
     "index_reference": "yakobus (saudara yesus)",
@@ -3078,13 +3142,22 @@
           "label": "Persekusi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.78,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675902,
+    "content_id": "675902",
     "reference_id": 25842,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yang Mahakudus",
     "media_type": "Text",
     "index_reference": "yang mahakudus",
@@ -3175,13 +3248,14 @@
           "label": "Kudus",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675939,
+    "content_id": "675939",
     "reference_id": 25887,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yebusi",
     "media_type": "Text",
     "index_reference": "yebusi",
@@ -3303,13 +3377,29 @@
           "label": "Melkisedek",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jebusites",
+          "type": "group",
+          "preferred_label": "Jebusites",
+          "confidence": 0.7642,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amorites",
+          "type": "group",
+          "preferred_label": "Amorites",
+          "confidence": 0.5542,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675822,
+    "content_id": "675822",
     "reference_id": 25723,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehezkiel",
     "media_type": "Text",
     "index_reference": "yehezkiel",
@@ -3360,13 +3450,29 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Yehezkiel",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Tuhan",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675943,
+    "content_id": "675943",
     "reference_id": 25891,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehoram",
     "media_type": "Text",
     "index_reference": "yehoram",
@@ -3449,13 +3555,29 @@
           "label": "Obaja",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoram",
+          "type": "person",
+          "preferred_label": "Yoram",
+          "confidence": 0.7592,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 0.5702,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675945,
+    "content_id": "675945",
     "reference_id": 25893,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehu",
     "media_type": "Text",
     "index_reference": "yehu",
@@ -3573,13 +3695,36 @@
           "label": "Samaria",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehu.4",
+          "type": "person",
+          "preferred_label": "Yehu",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehu",
+          "type": "person",
+          "preferred_label": "Yehu",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehu.2",
+          "type": "person",
+          "preferred_label": "Yehu",
+          "confidence": 0.5071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675976,
+    "content_id": "675976",
     "reference_id": 25924,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehuda",
     "media_type": "Text",
     "index_reference": "yehuda",
@@ -3943,13 +4088,29 @@
           "label": "Yehuda",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.9926,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yehuda",
+          "confidence": 0.6056,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675992,
+    "content_id": "675992",
     "reference_id": 25942,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehuda",
     "media_type": "Text",
     "index_reference": "yehuda",
@@ -4004,13 +4165,29 @@
           "label": "Laut Asin",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yehuda",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675947,
+    "content_id": "675947",
     "reference_id": 25895,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yeremia",
     "media_type": "Text",
     "index_reference": "yeremia",
@@ -4147,13 +4324,29 @@
           "label": "Menderita",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jeremiah.6",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeremiah.7",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675948,
+    "content_id": "675948",
     "reference_id": 25896,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yerikho",
     "media_type": "Text",
     "index_reference": "yerikho",
@@ -4282,13 +4475,22 @@
           "label": "Laut Asin",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jericho",
+          "type": "place",
+          "preferred_label": "Yerikho",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675949,
+    "content_id": "675949",
     "reference_id": 25897,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yerobeam",
     "media_type": "Text",
     "index_reference": "yerobeam",
@@ -4364,13 +4566,29 @@
           "label": "Salomo",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Yerobeam",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "Yerobeam",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675950,
+    "content_id": "675950",
     "reference_id": 25898,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yerusalem",
     "media_type": "Text",
     "index_reference": "yerusalem",
@@ -5816,13 +6034,22 @@
           "label": "Bait Suci",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalem",
+          "confidence": 0.983,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675929,
+    "content_id": "675929",
     "reference_id": 25877,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yesaya",
     "media_type": "Text",
     "index_reference": "yesaya",
@@ -6063,13 +6290,43 @@
           "label": "Uzia",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 0.9097,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeshaiah.6",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 0.6129,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeshaiah.4",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 0.6129,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeshaiah.5",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 0.6129,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675952,
+    "content_id": "675952",
     "reference_id": 25900,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yesus",
     "media_type": "Text",
     "index_reference": "yesus",
@@ -11290,13 +11547,22 @@
           "label": "Anak Allah",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesus",
+          "confidence": 0.9935,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675953,
+    "content_id": "675953",
     "reference_id": 25901,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yitro",
     "media_type": "Text",
     "index_reference": "yitro",
@@ -11425,13 +11691,22 @@
           "label": "Musa",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "Yitro",
+          "confidence": 0.82,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675957,
+    "content_id": "675957",
     "reference_id": 25905,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yizreel",
     "media_type": "Text",
     "index_reference": "yizreel",
@@ -11507,13 +11782,36 @@
           "label": "Laut Asin",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jezreel.2",
+          "type": "place",
+          "preferred_label": "Yizreel",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jezreel",
+          "type": "place",
+          "preferred_label": "Yizreel",
+          "confidence": 0.6889,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Jezreel",
+          "type": "group",
+          "preferred_label": "Yizreel",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675958,
+    "content_id": "675958",
     "reference_id": 25906,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoab",
     "media_type": "Text",
     "index_reference": "yoab",
@@ -11580,13 +11878,43 @@
           "label": "Daud",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joab.3",
+          "type": "person",
+          "preferred_label": "Yoab",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joab.4",
+          "type": "person",
+          "preferred_label": "Yoab",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "Yoab",
+          "confidence": 0.61,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abishai",
+          "type": "person",
+          "preferred_label": "Abisai",
+          "confidence": 0.53,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675959,
+    "content_id": "675959",
     "reference_id": 25907,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoas",
     "media_type": "Text",
     "index_reference": "yoas",
@@ -11662,13 +11990,29 @@
           "label": "Gideon",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joash",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joash.2",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 0.64,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675961,
+    "content_id": "675961",
     "reference_id": 25909,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoel",
     "media_type": "Text",
     "index_reference": "yoel",
@@ -11736,13 +12080,43 @@
           "label": "Yehuda",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joel",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.617,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.14",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.577,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.13",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.577,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.12",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.577,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675964,
+    "content_id": "675964",
     "reference_id": 25912,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yohanes (Pembaptis)",
     "media_type": "Text",
     "index_reference": "yohanes (pembaptis)",
@@ -12318,13 +12692,22 @@
           "label": "Membaptis",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "Yohanes",
+          "confidence": 0.9699,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675963,
+    "content_id": "675963",
     "reference_id": 25911,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yohanes (Seorang Rasul)",
     "media_type": "Text",
     "index_reference": "yohanes (seorang rasul)",
@@ -12584,13 +12967,29 @@
           "label": "Yohanes (Pembaptis)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "Yohanes",
+          "confidence": 0.9163,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.5517,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675962,
+    "content_id": "675962",
     "reference_id": 25910,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yohanes Markus",
     "media_type": "Text",
     "index_reference": "yohanes markus",
@@ -12705,13 +13104,22 @@
           "label": "Paulus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "Markus",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675966,
+    "content_id": "675966",
     "reference_id": 25914,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yonatan",
     "media_type": "Text",
     "index_reference": "yonatan",
@@ -12781,13 +13189,29 @@
           "label": "Saul (PL)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jonathan.4",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 0.6214,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675967,
+    "content_id": "675967",
     "reference_id": 25915,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoppe",
     "media_type": "Text",
     "index_reference": "yoppe",
@@ -12909,13 +13333,22 @@
           "label": "Saron",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Joppa",
+          "type": "place",
+          "preferred_label": "Yafo",
+          "confidence": 0.72,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675968,
+    "content_id": "675968",
     "reference_id": 25916,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoram",
     "media_type": "Text",
     "index_reference": "yoram",
@@ -13013,13 +13446,29 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joram.3",
+          "type": "person",
+          "preferred_label": "Yoram",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoram",
+          "type": "person",
+          "preferred_label": "Yoram",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675944,
+    "content_id": "675944",
     "reference_id": 25892,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosafat",
     "media_type": "Text",
     "index_reference": "yosafat",
@@ -13114,13 +13563,36 @@
           "label": "Salomo",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat.2",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675973,
+    "content_id": "675973",
     "reference_id": 25921,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosia",
     "media_type": "Text",
     "index_reference": "yosia",
@@ -13201,13 +13673,29 @@
           "label": "Bait Suci",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "Yosia",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amon.3",
+          "type": "person",
+          "preferred_label": "Amon",
+          "confidence": 0.5258,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675972,
+    "content_id": "675972",
     "reference_id": 25920,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosua",
     "media_type": "Text",
     "index_reference": "yosua",
@@ -13360,13 +13848,29 @@
           "label": "Tanah Perjanjian",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Yosua",
+          "confidence": 0.6952,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Yosua",
+          "confidence": 0.6786,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675941,
+    "content_id": "675941",
     "reference_id": 25889,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoyada",
     "media_type": "Text",
     "index_reference": "yoyada",
@@ -13417,13 +13921,22 @@
           "label": "Yoas",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiada.2",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675940,
+    "content_id": "675940",
     "reference_id": 25888,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoyakim",
     "media_type": "Text",
     "index_reference": "yoyakim",
@@ -13505,13 +14018,22 @@
           "label": "Manasye",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Yoyakim",
+          "confidence": 0.57,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675942,
+    "content_id": "675942",
     "reference_id": 25890,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoyakim",
     "media_type": "Text",
     "index_reference": "yoyakim",
@@ -13594,13 +14116,22 @@
           "label": "Nebukadnezar",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Yoyakim",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675977,
+    "content_id": "675977",
     "reference_id": 25925,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudaisme",
     "media_type": "Text",
     "index_reference": "yudaisme",
@@ -13638,13 +14169,14 @@
           "label": "Hukum",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675979,
+    "content_id": "675979",
     "reference_id": 25927,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudas anak Yakobus",
     "media_type": "Text",
     "index_reference": "yudas anak yakobus",
@@ -13699,13 +14231,43 @@
           "label": "Yudas Iskariot",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675978,
+    "content_id": "675978",
     "reference_id": 25926,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudas Iskariot",
     "media_type": "Text",
     "index_reference": "yudas iskariot",
@@ -13906,13 +14468,29 @@
           "label": "Yudas anak Yakobus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.9286,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.6286,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675980,
+    "content_id": "675980",
     "reference_id": 25928,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudea",
     "media_type": "Text",
     "index_reference": "yudea",
@@ -14492,13 +15070,29 @@
           "label": "Samaria",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Yehuda",
+          "confidence": 0.7078,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalem",
+          "confidence": 0.5275,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675892,
+    "content_id": "675892",
     "reference_id": 25804,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yunani",
     "media_type": "Text",
     "index_reference": "yunani",
@@ -14593,13 +15187,29 @@
           "label": "Tesalonika",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "Yunani",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Javan",
+          "type": "person",
+          "preferred_label": "Yunani",
+          "confidence": 0.6889,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675893,
+    "content_id": "675893",
     "reference_id": 25805,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yunani",
     "media_type": "Text",
     "index_reference": "yunani",
@@ -14837,13 +15447,29 @@
           "label": "Roma",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Javan",
+          "type": "person",
+          "preferred_label": "Yunani",
+          "confidence": 0.7441,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Greek",
+          "type": "group",
+          "preferred_label": "Greeks",
+          "confidence": 0.6061,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675965,
+    "content_id": "675965",
     "reference_id": 25913,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yunus",
     "media_type": "Text",
     "index_reference": "yunus",
@@ -14999,13 +15625,22 @@
           "label": "Niniwe",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "Yunus",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675970,
+    "content_id": "675970",
     "reference_id": 25918,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yusuf (PB)",
     "media_type": "Text",
     "index_reference": "yusuf (pb)",
@@ -15190,13 +15825,36 @@
           "label": "Perawan / keperawanan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joseph.3",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesus",
+          "confidence": 0.5237,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675971,
+    "content_id": "675971",
     "reference_id": 25919,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yusuf (PL)",
     "media_type": "Text",
     "index_reference": "yusuf (pl)",
@@ -16177,6 +16835,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Rahel",
           "language": "ind"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 0.9822,
+          "match_method": "scored"
         }
       ]
     }

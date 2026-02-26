@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179738,
+    "content_id": "179738",
     "reference_id": 25662,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जंगल",
     "media_type": "Text",
     "index_reference": "जंगल",
@@ -522,13 +522,22 @@
           "end_ref_usfm": "GEN 37:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Gaza",
+          "type": "place",
+          "preferred_label": "गाज़ा",
+          "confidence": 0.5416,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 180421,
+    "content_id": "180421",
     "reference_id": 26369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जकर्याह (नया नियम)",
     "media_type": "Text",
     "index_reference": "जकर्याह (नया नियम)",
@@ -638,13 +647,22 @@
           "label": "भविष्यद्वक्ता",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zechariah",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.825,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180422,
+    "content_id": "180422",
     "reference_id": 26370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ज़कर्याह (पुराना नियम)",
     "media_type": "Text",
     "index_reference": "ज़कर्याह (पुराना नियम)",
@@ -793,13 +811,120 @@
           "label": "जरुब्बाबेल",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zechariah.17",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.597,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.28",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.18",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.21",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.22",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.27",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.20",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.25",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.26",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.19",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.24",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.23",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.12",
+          "type": "person",
+          "preferred_label": "जकर्याह",
+          "confidence": 0.557,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uriah.5",
+          "type": "person",
+          "preferred_label": "ऊरिय्याह",
+          "confidence": 0.5165,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Berechiah.6",
+          "type": "person",
+          "preferred_label": "बेरेक्याह",
+          "confidence": 0.5075,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180416,
+    "content_id": "180416",
     "reference_id": 26364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जक्कई",
     "media_type": "Text",
     "index_reference": "जक्कई",
@@ -869,13 +994,22 @@
           "label": "कर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zacchaeus",
+          "type": "person",
+          "preferred_label": "जक्कई",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180420,
+    "content_id": "180420",
     "reference_id": 26368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जबूलून",
     "media_type": "Text",
     "index_reference": "जबूलून",
@@ -979,13 +1113,29 @@
           "label": "लिआ:",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zebulun",
+          "type": "person",
+          "preferred_label": "जबूलून",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Zebulun",
+          "type": "group",
+          "preferred_label": "जबूलून",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180419,
+    "content_id": "180419",
     "reference_id": 26367,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जब्दी",
     "media_type": "Text",
     "index_reference": "जब्दी",
@@ -1120,13 +1270,22 @@
           "label": "यूहन्ना (प्रेरित)",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "जब्दी",
+          "confidence": 0.8316,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180425,
+    "content_id": "180425",
     "reference_id": 26373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जरुब्बाबेल",
     "media_type": "Text",
     "index_reference": "जरुब्बाबेल",
@@ -1352,13 +1511,29 @@
           "label": "सिदकिय्याह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zerubbabel.2",
+          "type": "person",
+          "preferred_label": "जरूब्बाबेल",
+          "confidence": 0.8923,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zerubbabel",
+          "type": "person",
+          "preferred_label": "जरूब्बाबेल",
+          "confidence": 0.6154,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179819,
+    "content_id": "179819",
     "reference_id": 25746,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जल-प्रलय/बाढ़",
     "media_type": "Text",
     "index_reference": "जल-प्रलय/बाढ़",
@@ -1527,13 +1702,14 @@
           "label": "नूह",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179562,
+    "content_id": "179562",
     "reference_id": 25474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जहाज़",
     "media_type": "Text",
     "index_reference": "जहाज़",
@@ -1749,13 +1925,14 @@
           "label": "वाचा का सन्दूक",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180108,
+    "content_id": "180108",
     "reference_id": 26044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जाति",
     "media_type": "Text",
     "index_reference": "जाति",
@@ -2578,13 +2755,14 @@
           "label": "रोम",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180145,
+    "content_id": "180145",
     "reference_id": 26083,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जाति",
     "media_type": "Text",
     "index_reference": "जाति",
@@ -4849,13 +5027,14 @@
           "label": "संसार",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180052,
+    "content_id": "180052",
     "reference_id": 25987,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जादू",
     "media_type": "Text",
     "index_reference": "जादू",
@@ -4972,13 +5151,22 @@
           "label": "जादूगर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Magic",
+          "type": "keyterm",
+          "preferred_label": "Magic",
+          "confidence": 0.84,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180307,
+    "content_id": "180307",
     "reference_id": 26253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जादूगर",
     "media_type": "Text",
     "index_reference": "जादूगर",
@@ -5116,13 +5304,14 @@
           "label": "दंडवत करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180012,
+    "content_id": "180012",
     "reference_id": 25946,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जानना",
     "media_type": "Text",
     "index_reference": "जानना",
@@ -10346,13 +10535,29 @@
           "label": "बुद्धिमान",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Zanoah",
+          "type": "place",
+          "preferred_label": "जानोह",
+          "confidence": 0.8708,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Zanoah.2",
+          "type": "place",
+          "preferred_label": "जानोह",
+          "confidence": 0.8708,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179836,
+    "content_id": "179836",
     "reference_id": 25763,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जिब्राईल",
     "media_type": "Text",
     "index_reference": "जिब्राईल",
@@ -10443,13 +10648,22 @@
           "label": "जकर्याह (नया नियम)",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "गब्रिएल",
+          "confidence": 0.7182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 182438,
+    "content_id": "182438",
     "reference_id": 26374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जिल्पा",
     "media_type": "Text",
     "index_reference": "जिल्पा",
@@ -10536,13 +10750,29 @@
           "label": "लिआ:",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "जिल्पा",
+          "confidence": 0.95,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "लिआ",
+          "confidence": 0.575,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180361,
+    "content_id": "180361",
     "reference_id": 26308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जीभ",
     "media_type": "Text",
     "index_reference": "जीभ",
@@ -11055,13 +11285,14 @@
           "label": "आत्मा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179632,
+    "content_id": "179632",
     "reference_id": 25550,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जीवन की पुस्तक",
     "media_type": "Text",
     "index_reference": "जीवन की पुस्तक",
@@ -11166,13 +11397,14 @@
           "label": "कुंडली ग्रन्थ",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180415,
+    "content_id": "180415",
     "reference_id": 26363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जूआ",
     "media_type": "Text",
     "index_reference": "जूआ",
@@ -11271,13 +11503,29 @@
           "label": "सेवा करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shua",
+          "type": "person",
+          "preferred_label": "शूआ",
+          "confidence": 0.8094,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shua.2",
+          "type": "person",
+          "preferred_label": "शूआ",
+          "confidence": 0.8094,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180255,
+    "content_id": "180255",
     "reference_id": 26197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जूता",
     "media_type": "Text",
     "index_reference": "जूता",
@@ -11407,13 +11655,14 @@
           "end_ref_usfm": "MRK 6:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180124,
+    "content_id": "180124",
     "reference_id": 26062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जैतून",
     "media_type": "Text",
     "index_reference": "जैतून",
@@ -11630,13 +11879,29 @@
           "label": "जैतून पर्वत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:OlivesMount",
+          "type": "place",
+          "preferred_label": "जैतून पर्वत",
+          "confidence": 0.6343,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:OliveTree",
+          "type": "flora",
+          "preferred_label": "Olive Tree",
+          "confidence": 0.5143,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180098,
+    "content_id": "180098",
     "reference_id": 26034,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जैतून पर्वत",
     "media_type": "Text",
     "index_reference": "जैतून पर्वत",
@@ -11739,13 +12004,22 @@
           "label": "जैतून",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:OlivesMount",
+          "type": "place",
+          "preferred_label": "जैतून पर्वत",
+          "confidence": 0.68,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179593,
+    "content_id": "179593",
     "reference_id": 25505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "जौ",
     "media_type": "Text",
     "index_reference": "जौ",
@@ -11868,7 +12142,8 @@
           "label": "यूहन्ना 6:9 (#1)",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

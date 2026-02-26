@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391085,
+    "content_id": "391085",
     "reference_id": 26163,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "蘆葦",
     "media_type": "Text",
     "index_reference": "蘆葦",
@@ -142,13 +142,14 @@
           "label": "尼羅河",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390909,
+    "content_id": "390909",
     "reference_id": 25983,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "魯特琴",
     "media_type": "Text",
     "index_reference": "魯特琴",
@@ -196,13 +197,14 @@
           "label": "豎琴",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390589,
+    "content_id": "390589",
     "reference_id": 25652,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "鹿",
     "media_type": "Text",
     "index_reference": "鹿",
@@ -248,13 +250,22 @@
           "end_ref_usfm": "SNG 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "fauna:Deer",
+          "type": "fauna",
+          "preferred_label": "Deer",
+          "confidence": 0.8095,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 391107,
+    "content_id": "391107",
     "reference_id": 26185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "路得",
     "media_type": "Text",
     "index_reference": "路得",
@@ -390,13 +401,14 @@
           "label": "審判官",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390907,
+    "content_id": "390907",
     "reference_id": 25981,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "路加",
     "media_type": "Text",
     "index_reference": "路加",
@@ -458,13 +470,14 @@
           "label": "敘利亞",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390910,
+    "content_id": "390910",
     "reference_id": 25984,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "路司得",
     "media_type": "Text",
     "index_reference": "路司得",
@@ -544,7 +557,8 @@
           "label": "提摩太",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

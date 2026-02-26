@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179523,
+    "content_id": "179523",
     "reference_id": 25433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "व्यभिचार",
     "media_type": "Text",
     "index_reference": "व्यभिचार",
@@ -215,13 +215,22 @@
           "label": "व्यभिचार",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Giddalti",
+          "type": "person",
+          "preferred_label": "गिद्दलती",
+          "confidence": 0.8053,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179826,
+    "content_id": "179826",
     "reference_id": 25753,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "व्यभिचार",
     "media_type": "Text",
     "index_reference": "व्यभिचार",
@@ -530,13 +539,22 @@
           "label": "वैश्या",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Giddalti",
+          "type": "person",
+          "preferred_label": "गिद्दलती",
+          "confidence": 0.8053,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180385,
+    "content_id": "180385",
     "reference_id": 26332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "व्यर्थ",
     "media_type": "Text",
     "index_reference": "व्यर्थ",
@@ -710,13 +728,14 @@
           "label": "देवता",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180022,
+    "content_id": "180022",
     "reference_id": 25957,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "व्यवस्था",
     "media_type": "Text",
     "index_reference": "व्यवस्था",
@@ -970,13 +989,14 @@
           "label": "व्यवस्था",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180024,
+    "content_id": "180024",
     "reference_id": 25959,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "व्यवस्था",
     "media_type": "Text",
     "index_reference": "व्यवस्था",
@@ -1972,13 +1992,14 @@
           "label": "यूहन्ना 9:14 (#2)",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180023,
+    "content_id": "180023",
     "reference_id": 25958,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "व्यवस्था पालन",
     "media_type": "Text",
     "index_reference": "व्यवस्था पालन",
@@ -2329,13 +2350,14 @@
           "label": "सब्त",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179533,
+    "content_id": "179533",
     "reference_id": 25444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "व्याकुल",
     "media_type": "Text",
     "index_reference": "व्याकुल",
@@ -2384,7 +2406,8 @@
           "label": "मोआब",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

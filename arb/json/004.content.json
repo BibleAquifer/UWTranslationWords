@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196016,
+    "content_id": "196016",
     "reference_id": 25581,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "التِّبْن",
     "media_type": "Text",
     "index_reference": "التِّبْن",
@@ -58,13 +58,57 @@
           "label": "يُغَرْبِل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:PotsherdGate",
+          "type": "place",
+          "preferred_label": "ٱلْفَخَّارِ",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BetherMountain",
+          "type": "place",
+          "preferred_label": "ٱلْمشَعَّبَةِ",
+          "confidence": 0.824,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:DungGate",
+          "type": "place",
+          "preferred_label": "ٱلدِّمْنِ",
+          "confidence": 0.8148,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bithron",
+          "type": "place",
+          "preferred_label": "ٱلشّعَبِ",
+          "confidence": 0.8097,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:EzelStone",
+          "type": "place",
+          "preferred_label": "ٱلِٱفْتِرَاقِ",
+          "confidence": 0.8088,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:MizpehValley",
+          "type": "place",
+          "preferred_label": "ٱلْمِصْفَاةِ",
+          "confidence": 0.8029,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 195889,
+    "content_id": "195889",
     "reference_id": 25432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "التبني",
     "media_type": "Text",
     "index_reference": "التبني",
@@ -132,13 +176,14 @@
           "label": "روح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195970,
+    "content_id": "195970",
     "reference_id": 25520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "التسول من أجل المال",
     "media_type": "Text",
     "index_reference": "التسول من أجل المال",
@@ -162,13 +207,14 @@
           "label": "توسل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196477,
+    "content_id": "196477",
     "reference_id": 26119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "التعيين المسبق",
     "media_type": "Text",
     "index_reference": "التعيين المسبق",
@@ -220,13 +266,14 @@
           "end_ref_usfm": "1CO 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196199,
+    "content_id": "196199",
     "reference_id": 25785,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "التقط",
     "media_type": "Text",
     "index_reference": "التقط",
@@ -349,13 +396,14 @@
           "label": "راعوث",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195929,
+    "content_id": "195929",
     "reference_id": 25475,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تابوت العهد",
     "media_type": "Text",
     "index_reference": "تابوت العهد",
@@ -557,13 +605,29 @@
           "label": "القُدس (الموضع المُقَدَّس)",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:ArkOfTheCovenant",
+          "type": "realia",
+          "preferred_label": "Ark of the Covenant",
+          "confidence": 0.5488,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:CovenantBox",
+          "type": "keyterm",
+          "preferred_label": "Covenant Box",
+          "confidence": 0.529,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196057,
+    "content_id": "196057",
     "reference_id": 25628,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تاج (إكليل)",
     "media_type": "Text",
     "index_reference": "تاج (إكليل)",
@@ -799,13 +863,14 @@
           "label": "زيتون",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196622,
+    "content_id": "196622",
     "reference_id": 26290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تَارَح",
     "media_type": "Text",
     "index_reference": "تَارَح",
@@ -945,13 +1010,36 @@
           "label": "أُور",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Terah",
+          "type": "person",
+          "preferred_label": "تَارَحَ",
+          "confidence": 0.8571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Haran",
+          "type": "person",
+          "preferred_label": "حَارَانَ",
+          "confidence": 0.6243,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Haran",
+          "type": "place",
+          "preferred_label": "حَارَانَ",
+          "confidence": 0.5671,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196040,
+    "content_id": "196040",
     "reference_id": 25607,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تأكيد",
     "media_type": "Text",
     "index_reference": "تأكيد",
@@ -1061,13 +1149,22 @@
           "label": "ثقة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Certification",
+          "type": "keyterm",
+          "preferred_label": "Certification",
+          "confidence": 0.8162,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196382,
+    "content_id": "196382",
     "reference_id": 26005,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تأمَّل",
     "media_type": "Text",
     "index_reference": "تأمَّل",
@@ -1101,13 +1198,14 @@
           "end_ref_usfm": "JOS 1:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196501,
+    "content_id": "196501",
     "reference_id": 26144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تأهل",
     "media_type": "Text",
     "index_reference": "تأهل",
@@ -1159,13 +1257,14 @@
           "label": "يفدي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196528,
+    "content_id": "196528",
     "reference_id": 26175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تبجيل",
     "media_type": "Text",
     "index_reference": "تبجيل",
@@ -1244,13 +1343,14 @@
           "label": "كرم، إكرام، يُكرم",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144713,
+    "content_id": "144713",
     "reference_id": 25543,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تجديف",
     "media_type": "Text",
     "index_reference": "تجديف",
@@ -1533,13 +1633,14 @@
           "label": "إفتراء",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196617,
+    "content_id": "196617",
     "reference_id": 26285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تجربة",
     "media_type": "Text",
     "index_reference": "تجربة",
@@ -1697,13 +1798,14 @@
           "label": "امتحان",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196120,
+    "content_id": "196120",
     "reference_id": 25701,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تحتمل (تصمد)",
     "media_type": "Text",
     "index_reference": "تحتمل (تصمد)",
@@ -2021,13 +2123,14 @@
           "label": "مُثَابَرة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195963,
+    "content_id": "195963",
     "reference_id": 25512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تحمُّل العبء",
     "media_type": "Text",
     "index_reference": "تحمُّل العبء",
@@ -2044,13 +2147,14 @@
           "label": "تحتمل (تصمد)",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195964,
+    "content_id": "195964",
     "reference_id": 25513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تحمل المسؤولية",
     "media_type": "Text",
     "index_reference": "تحمل المسؤولية",
@@ -2067,13 +2171,14 @@
           "label": "إثم",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196387,
+    "content_id": "196387",
     "reference_id": 26010,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تذكار",
     "media_type": "Text",
     "index_reference": "تذكار",
@@ -2125,13 +2230,14 @@
           "end_ref_usfm": "JOS 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196568,
+    "content_id": "196568",
     "reference_id": 26227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ترس",
     "media_type": "Text",
     "index_reference": "ترس",
@@ -2241,13 +2347,22 @@
           "label": "روح",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.8936,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196613,
+    "content_id": "196613",
     "reference_id": 26280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ترشيش",
     "media_type": "Text",
     "index_reference": "ترشيش",
@@ -2335,13 +2450,29 @@
           "label": "المجوس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarshish",
+          "type": "place",
+          "preferred_label": "تَرْشِيشَ",
+          "confidence": 0.5687,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tarshish",
+          "type": "person",
+          "preferred_label": "تَرْشِيشَ",
+          "confidence": 0.5409,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196631,
+    "content_id": "196631",
     "reference_id": 26305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ترصة",
     "media_type": "Text",
     "index_reference": "ترصة",
@@ -2405,13 +2536,29 @@
           "label": "شَكِيم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tirzah",
+          "type": "person",
+          "preferred_label": "تِرْصَةَ",
+          "confidence": 0.6642,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoglah",
+          "type": "person",
+          "preferred_label": "حجْلَة",
+          "confidence": 0.5067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196641,
+    "content_id": "196641",
     "reference_id": 26319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ترواس",
     "media_type": "Text",
     "index_reference": "ترواس",
@@ -2512,13 +2659,22 @@
           "label": "تيموثاوس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Troas",
+          "type": "place",
+          "preferred_label": "تَروَاسَ",
+          "confidence": 0.6417,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196625,
+    "content_id": "196625",
     "reference_id": 26295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تسالونيكي",
     "media_type": "Text",
     "index_reference": "تسالونيكي",
@@ -2616,13 +2772,22 @@
           "label": "روما",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "تَسَالونِيكِي",
+          "confidence": 0.6744,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196475,
+    "content_id": "196475",
     "reference_id": 26116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تسبيح",
     "media_type": "Text",
     "index_reference": "تسبيح",
@@ -3006,13 +3171,14 @@
           "label": "عبادة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196082,
+    "content_id": "196082",
     "reference_id": 25656,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تسليم إلى الشر",
     "media_type": "Text",
     "index_reference": "تسليم إلى الشر",
@@ -3021,13 +3187,14 @@
     "content": "<h1>تسليم، إطلاق</h1><h2>التعريف:</h2><ul><li><p>يمكن أن يعني مصطلح &quot;تسليم&quot; أو &quot;تسليم إلى&quot;: تسليم شخص ما إلى عدو أو خصم، مثلما أسلم يهوذا الرب يسوع إلى قادة اليهود أو عندما أسلم الله إسرائيل إلى أعدائهم بسبب خطاياهم المتكررة.</p></li></ul><h2>اقتراحات الترجمة:</h2><ul><li><p>عندما يعني &quot;تسليم&quot; أن يقوم شخص بتسليم شخص ما إلى عدو، يمكن ترجمته كـ &quot;خيانة&quot; أو &quot;تسليم&quot;. عندما يشير &quot;تسليم&quot; إلى أن الله يسلم الناس إلى خصم يمكن ترجمتها كـ &quot;تسليم&quot; أو &quot;إعطاء&quot;.</p></li></ul><h2>شواهد الكتاب المقدس:</h2><h2>أمثلة من قصص الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونج: H1350، H2020، H2502، H3205، H3444، H3467، H4042، H4422، H4672، H5337، H5414، H5462، H6299، H6403، H6413، H6475، H6561، H7725، H7804، H8199، G03250، G05250، G06290، G10800، G13250، G15600، G16590، G18070، G19290، G26730، G30860، G38600، G45060، G49910، G50880، G54830</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196119,
+    "content_id": "196119",
     "reference_id": 25700,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تشجيع",
     "media_type": "Text",
     "index_reference": "تشجيع",
@@ -3051,13 +3218,22 @@
           "label": "حضّ",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Encourage",
+          "type": "keyterm",
+          "preferred_label": "Encourage",
+          "confidence": 0.8822,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196600,
+    "content_id": "196600",
     "reference_id": 26267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تعثر (عثرة)",
     "media_type": "Text",
     "index_reference": "تعثر (عثرة)",
@@ -3281,13 +3457,14 @@
           "label": "الخطية",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196015,
+    "content_id": "196015",
     "reference_id": 25579,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تعداد",
     "media_type": "Text",
     "index_reference": "تعداد",
@@ -3342,13 +3519,14 @@
           "label": "روما",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196635,
+    "content_id": "196635",
     "reference_id": 26312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تعدي",
     "media_type": "Text",
     "index_reference": "تعدي",
@@ -3590,13 +3768,14 @@
           "label": "إثم (تجاوز أو تعدي)",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144736,
+    "content_id": "144736",
     "reference_id": 25676,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تعليم",
     "media_type": "Text",
     "index_reference": "تعليم",
@@ -3702,13 +3881,22 @@
           "end_ref_usfm": "MAT 15:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Teaching",
+          "type": "keyterm",
+          "preferred_label": "Teaching",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 196271,
+    "content_id": "196271",
     "reference_id": 25871,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تعليم",
     "media_type": "Text",
     "index_reference": "تعليم",
@@ -4038,13 +4226,22 @@
           "label": "مرسوم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Teaching",
+          "type": "keyterm",
+          "preferred_label": "Teaching",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196468,
+    "content_id": "196468",
     "reference_id": 26109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تعهد",
     "media_type": "Text",
     "index_reference": "تعهد",
@@ -4183,13 +4380,14 @@
           "label": "وعد",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195941,
+    "content_id": "195941",
     "reference_id": 25487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تعيين",
     "media_type": "Text",
     "index_reference": "تعيين",
@@ -4269,13 +4467,14 @@
           "label": "شاول",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196379,
+    "content_id": "196379",
     "reference_id": 26002,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تقدمة الدقيق",
     "media_type": "Text",
     "index_reference": "تقدمة الدقيق",
@@ -4319,13 +4518,14 @@
           "label": "ذبيحة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196524,
+    "content_id": "196524",
     "reference_id": 26171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تقرير",
     "media_type": "Text",
     "index_reference": "تقرير",
@@ -4875,13 +5075,14 @@
           "end_ref_usfm": "LUK 8:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 144835,
+    "content_id": "144835",
     "reference_id": 26310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تقليد",
     "media_type": "Text",
     "index_reference": "تقليد",
@@ -5032,13 +5233,14 @@
           "label": "موسى",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196203,
+    "content_id": "196203",
     "reference_id": 25789,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تقيّ",
     "media_type": "Text",
     "index_reference": "تقيّ",
@@ -5304,13 +5506,14 @@
           "label": "بار",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196092,
+    "content_id": "196092",
     "reference_id": 25669,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تلميذ",
     "media_type": "Text",
     "index_reference": "تلميذ",
@@ -6880,13 +7083,22 @@
           "label": "يوحنا المعمدان",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "Be a Disciple",
+          "confidence": 0.5422,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196091,
+    "content_id": "196091",
     "reference_id": 25668,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تمييز",
     "media_type": "Text",
     "index_reference": "تمييز",
@@ -7139,13 +7351,14 @@
           "label": "حكيم",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196644,
+    "content_id": "196644",
     "reference_id": 26323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تُوبَال",
     "media_type": "Text",
     "index_reference": "تُوبَال",
@@ -7242,13 +7455,29 @@
           "label": "نبي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tubal",
+          "type": "person",
+          "preferred_label": "توبَال",
+          "confidence": 0.664,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tiras",
+          "type": "person",
+          "preferred_label": "تِيرَاس",
+          "confidence": 0.5065,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196467,
+    "content_id": "196467",
     "reference_id": 26108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "توسل",
     "media_type": "Text",
     "index_reference": "توسل",
@@ -7342,13 +7571,14 @@
           "end_ref_usfm": "2CO 8:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 195971,
+    "content_id": "195971",
     "reference_id": 25521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "توسَّل",
     "media_type": "Text",
     "index_reference": "توسَّل",
@@ -7594,13 +7824,22 @@
           "label": "توسل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tophel",
+          "type": "place",
+          "preferred_label": "توفَلَ",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 144831,
+    "content_id": "144831",
     "reference_id": 26298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "توما",
     "media_type": "Text",
     "index_reference": "توما",
@@ -7735,13 +7974,22 @@
           "label": "الله الآب",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "تومَا",
+          "confidence": 0.6715,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144839,
+    "content_id": "144839",
     "reference_id": 26325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تيخيكس",
     "media_type": "Text",
     "index_reference": "تيخيكس",
@@ -7843,13 +8091,22 @@
           "label": "يخدم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tychicus",
+          "type": "person",
+          "preferred_label": "تِيخِيكس",
+          "confidence": 0.787,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144833,
+    "content_id": "144833",
     "reference_id": 26306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تيطس",
     "media_type": "Text",
     "index_reference": "تيطس",
@@ -8002,13 +8259,22 @@
           "label": "يخدم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "تِيطسَ",
+          "confidence": 0.8705,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196630,
+    "content_id": "196630",
     "reference_id": 26304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تيموثاوس",
     "media_type": "Text",
     "index_reference": "تيموثاوس",
@@ -8204,13 +8470,22 @@
           "label": "يخدم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "تِيموثَاوس",
+          "confidence": 0.786,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144742,
+    "content_id": "144742",
     "reference_id": 25740,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "تين",
     "media_type": "Text",
     "index_reference": "تين",
@@ -8370,7 +8645,16 @@
           "end_ref_usfm": "REV 6:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "flora:Fig",
+          "type": "flora",
+          "preferred_label": "Fig",
+          "confidence": 0.502,
+          "match_method": "scored"
+        }
+      ]
     }
   }
 ]

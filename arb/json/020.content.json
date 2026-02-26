@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196434,
+    "content_id": "196434",
     "reference_id": 26067,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الناظر (أسقف)",
     "media_type": "Text",
     "index_reference": "الناظر (أسقف)",
@@ -160,13 +160,14 @@
           "label": "راعي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196272,
+    "content_id": "196272",
     "reference_id": 25872,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النزاهة",
     "media_type": "Text",
     "index_reference": "النزاهة",
@@ -275,13 +276,22 @@
           "label": "يوسف (العهد القديم)",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fairness",
+          "type": "keyterm",
+          "preferred_label": "Fairness",
+          "confidence": 0.8784,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196589,
+    "content_id": "196589",
     "reference_id": 26254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النَّفْس",
     "media_type": "Text",
     "index_reference": "النَّفْس",
@@ -773,13 +783,36 @@
           "label": "روح",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jeshimon",
+          "type": "place",
+          "preferred_label": "ٱلْقَفْرِ",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:PeoplesGate",
+          "type": "place",
+          "preferred_label": "ٱلشَّعْبِ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Pisgah",
+          "type": "place",
+          "preferred_label": "ٱلْفِسْجَةِ",
+          "confidence": 0.8008,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196417,
+    "content_id": "196417",
     "reference_id": 26048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النقْب",
     "media_type": "Text",
     "index_reference": "النقْب",
@@ -911,13 +944,14 @@
           "label": "شمعون",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196210,
+    "content_id": "196210",
     "reference_id": 25798,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "النميمة",
     "media_type": "Text",
     "index_reference": "النميمة",
@@ -971,13 +1005,14 @@
           "label": "إفتراء",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196414,
+    "content_id": "196414",
     "reference_id": 26043,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ناثان",
     "media_type": "Text",
     "index_reference": "ناثان",
@@ -1058,13 +1093,78 @@
           "label": "أوريَّا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahath",
+          "type": "person",
+          "preferred_label": "نَحَث",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahath.2",
+          "type": "person",
+          "preferred_label": "نَحَث",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Nehushtan",
+          "type": "deity",
+          "preferred_label": "نَحشْتَانَ",
+          "confidence": 0.8053,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.3",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.4",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196411,
+    "content_id": "196411",
     "reference_id": 26040,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ناحور",
     "media_type": "Text",
     "index_reference": "ناحور",
@@ -1197,13 +1297,29 @@
           "label": "رِفقَة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahor.2",
+          "type": "person",
+          "preferred_label": "نَاحورَ",
+          "confidence": 0.688,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nahor",
+          "type": "person",
+          "preferred_label": "نَاحورَ",
+          "confidence": 0.6118,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196412,
+    "content_id": "196412",
     "reference_id": 26041,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ناحوم",
     "media_type": "Text",
     "index_reference": "ناحوم",
@@ -1248,13 +1364,36 @@
           "label": "نبي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahum.2",
+          "type": "person",
+          "preferred_label": "نَاحومَ",
+          "confidence": 0.8785,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Elkosh",
+          "type": "place",
+          "preferred_label": "ٱلْأَلْقوشِيِّ",
+          "confidence": 0.604,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "نِينَوَى",
+          "confidence": 0.5395,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144789,
+    "content_id": "144789",
     "reference_id": 26045,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ناصرة",
     "media_type": "Text",
     "index_reference": "ناصرة",
@@ -1509,13 +1648,22 @@
           "label": "جوزيف NT",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "نَاصِرَة",
+          "confidence": 0.6237,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196343,
+    "content_id": "196343",
     "reference_id": 25957,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ناموس",
     "media_type": "Text",
     "index_reference": "ناموس",
@@ -1769,13 +1917,14 @@
           "label": "شريعة موسى",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196163,
+    "content_id": "196163",
     "reference_id": 25747,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَاي",
     "media_type": "Text",
     "index_reference": "نَاي",
@@ -1848,13 +1997,22 @@
           "label": "راعي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Benaiah",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.6308,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196416,
+    "content_id": "196416",
     "reference_id": 26047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نبوخذنصر/نبوخذناصر",
     "media_type": "Text",
     "index_reference": "نبوخذنصر/نبوخذناصر",
@@ -1966,13 +2124,22 @@
           "label": "ميشائيل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "نَبوخَذْنَاصَّر",
+          "confidence": 0.5154,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196486,
+    "content_id": "196486",
     "reference_id": 26129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نبي",
     "media_type": "Text",
     "index_reference": "نبي",
@@ -3299,13 +3466,14 @@
           "label": "رؤيا",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196147,
+    "content_id": "196147",
     "reference_id": 25729,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نبيٌ كاذِب",
     "media_type": "Text",
     "index_reference": "نبيٌ كاذِب",
@@ -3420,13 +3588,14 @@
           "label": "نبي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196001,
+    "content_id": "196001",
     "reference_id": 25559,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نحاس",
     "media_type": "Text",
     "index_reference": "نحاس",
@@ -3722,13 +3891,14 @@
           "label": "هيكل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196418,
+    "content_id": "196418",
     "reference_id": 26049,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نحميا",
     "media_type": "Text",
     "index_reference": "نحميا",
@@ -3832,13 +4002,22 @@
           "label": "أورشليم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "نَحَمْيَا",
+          "confidence": 0.5102,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196439,
+    "content_id": "196439",
     "reference_id": 26072,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نخلة",
     "media_type": "Text",
     "index_reference": "نخلة",
@@ -3912,13 +4091,14 @@
           "label": "سلام",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196415,
+    "content_id": "196415",
     "reference_id": 26046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نذير",
     "media_type": "Text",
     "index_reference": "نذير",
@@ -3981,13 +4161,14 @@
           "label": "زكريا (العهد القديم)",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196107,
+    "content_id": "196107",
     "reference_id": 25686,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَسر",
     "media_type": "Text",
     "index_reference": "نَسر",
@@ -4091,13 +4272,64 @@
           "label": "نبوخذنصر/نبوخذناصر",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahath",
+          "type": "person",
+          "preferred_label": "نَحَث",
+          "confidence": 0.8413,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahath.2",
+          "type": "person",
+          "preferred_label": "نَحَث",
+          "confidence": 0.8413,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nezib",
+          "type": "place",
+          "preferred_label": "نَصِيب",
+          "confidence": 0.8372,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Nisroch",
+          "type": "deity",
+          "preferred_label": "نِسْروخَ",
+          "confidence": 0.8349,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naharai",
+          "type": "person",
+          "preferred_label": "نَحْرَاي",
+          "confidence": 0.8116,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahor",
+          "type": "person",
+          "preferred_label": "نَاحورَ",
+          "confidence": 0.8097,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahor.2",
+          "type": "person",
+          "preferred_label": "نَاحورَ",
+          "confidence": 0.8097,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196084,
+    "content_id": "196084",
     "reference_id": 25660,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نسل",
     "media_type": "Text",
     "index_reference": "نسل",
@@ -4256,13 +4488,14 @@
           "label": "نوح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144810,
+    "content_id": "144810",
     "reference_id": 26197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَعل",
     "media_type": "Text",
     "index_reference": "نَعل",
@@ -4392,13 +4625,14 @@
           "end_ref_usfm": "MRK 6:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196410,
+    "content_id": "196410",
     "reference_id": 26039,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نعمان",
     "media_type": "Text",
     "index_reference": "نعمان",
@@ -4461,13 +4695,22 @@
           "label": "نبي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.535,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196211,
+    "content_id": "196211",
     "reference_id": 25800,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نعمة",
     "media_type": "Text",
     "index_reference": "نعمة",
@@ -5263,13 +5506,22 @@
           "end_ref_usfm": "GEN 43:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Favor",
+          "type": "keyterm",
+          "preferred_label": "Favor",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 196413,
+    "content_id": "196413",
     "reference_id": 26042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نفتالي",
     "media_type": "Text",
     "index_reference": "نفتالي",
@@ -5373,13 +5625,22 @@
           "label": "يعقوب",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Naphtali",
+          "type": "person",
+          "preferred_label": "نَفْتَالِي",
+          "confidence": 0.641,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196652,
+    "content_id": "196652",
     "reference_id": 26334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نقاب (برقع)",
     "media_type": "Text",
     "index_reference": "نقاب (برقع)",
@@ -5469,13 +5730,14 @@
           "label": "موسى",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196349,
+    "content_id": "196349",
     "reference_id": 25964,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَمِر",
     "media_type": "Text",
     "index_reference": "نَمِر",
@@ -5544,13 +5806,29 @@
           "label": "رؤيا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:HermonMount",
+          "type": "place",
+          "preferred_label": "حَرْمونَ",
+          "confidence": 0.5315,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Amana",
+          "type": "place",
+          "preferred_label": "أَمَانَةَ",
+          "confidence": 0.509,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196470,
+    "content_id": "196470",
     "reference_id": 26111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَهْب",
     "media_type": "Text",
     "index_reference": "نَهْب",
@@ -5559,13 +5837,113 @@
     "content": "<h1>نَهْب، منهوب، غنيمة، غنائم</h1><h2>حقائق:</h2><p>تشير مصطلحات &quot;غنيمة&quot; و&quot;نَهْب&quot;، عند استخدامها كأسماء، إلى الأشياء التي تؤخذ بالقوة من شخص أو مكان، عادةً في وقت الحرب. والفعل &quot;ينهب&quot; يعني أخذ الأشياء من شخص أو مكان، عادةً بالقوة وخلال وقت الحرب.</p><ul><li><p>عند تَرْجَمَة الفعل &quot;ينهب&quot; في سياق الحرب، يجب استخدام كلمة مختلفة عن الفعل &quot;يسرق&quot; لأن &quot;يسرق&quot; عادةً ما تعني ارتكاب فعل خطأ ولكن أن &quot;ينهب&quot; شيئًا في الحرب ليس بالضرورة خطية.</p></li><li><p>يمكنك تَرْجَمَة الفعل &quot;ينهب&quot; بكلمة مثل &quot;يسلب&quot; أو بعبارة وصفية &quot;يأخذ البضائع من&quot;.</p></li><li><p>كذلك يمكنك تَرْجَمَة مصطلح &quot;غنيمة&quot; بعبارة وصفية مثل &quot;البضائع المنهوبة&quot; أو &quot;الأشياء المنهوبة&quot;.</p></li><li><p>واعتمادًا على السياق، يمكنك تَرْجَمَة مصطلح &quot;نهب&quot; بعبارة وصفية مثل &quot;البضائع المستولي عليها&quot; أو بعبارة وصفية أخرى أو بمصطلح مثل &quot;غنيمة&quot; أو &quot;غنائم&quot;.</p></li><li><p>قد تحتوي لغتك على كلمة للأشياء التي يتم أخذها بالقوة و/أو في وقت الحرب.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونج:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nahath",
+          "type": "person",
+          "preferred_label": "نَحَث",
+          "confidence": 0.8661,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahath.2",
+          "type": "person",
+          "preferred_label": "نَحَث",
+          "confidence": 0.8661,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Neco",
+          "type": "person",
+          "preferred_label": "نَخْو",
+          "confidence": 0.8507,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nezib",
+          "type": "place",
+          "preferred_label": "نَصِيب",
+          "confidence": 0.8426,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Nibhaz",
+          "type": "deity",
+          "preferred_label": "نِبْحَزَ",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naggai",
+          "type": "person",
+          "preferred_label": "نَجَّايِ",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nedabiah",
+          "type": "person",
+          "preferred_label": "نَدَبْيَا",
+          "confidence": 0.8194,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nepheg",
+          "type": "person",
+          "preferred_label": "نَافَج",
+          "confidence": 0.8057,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nepheg.2",
+          "type": "person",
+          "preferred_label": "نَافَج",
+          "confidence": 0.8057,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nogah",
+          "type": "person",
+          "preferred_label": "نوجَه",
+          "confidence": 0.8043,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nadab",
+          "type": "person",
+          "preferred_label": "نَادَاب",
+          "confidence": 0.8004,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nadab.2",
+          "type": "person",
+          "preferred_label": "نَادَاب",
+          "confidence": 0.8004,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nadab.3",
+          "type": "person",
+          "preferred_label": "نَادَاب",
+          "confidence": 0.8004,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nadab.4",
+          "type": "person",
+          "preferred_label": "نَادَاب",
+          "confidence": 0.8004,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 196309,
+    "content_id": "196309",
     "reference_id": 25917,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نهر الأردن",
     "media_type": "Text",
     "index_reference": "نهر الأردن",
@@ -5759,13 +6137,22 @@
           "label": "بحر الجليل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jordan",
+          "type": "place",
+          "preferred_label": "ٱلْأرْدنِّ",
+          "confidence": 0.682,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196422,
+    "content_id": "196422",
     "reference_id": 26053,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نهر النيل",
     "media_type": "Text",
     "index_reference": "نهر النيل",
@@ -5935,13 +6322,22 @@
           "label": "موسى",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nile",
+          "type": "place",
+          "preferred_label": "فِي",
+          "confidence": 0.6265,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196424,
+    "content_id": "196424",
     "reference_id": 26055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نوح",
     "media_type": "Text",
     "index_reference": "نوح",
@@ -6230,13 +6626,22 @@
           "label": "نسل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "نوحٌ",
+          "confidence": 0.9909,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196676,
+    "content_id": "196676",
     "reference_id": 26363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نير",
     "media_type": "Text",
     "index_reference": "نير",
@@ -6335,13 +6740,43 @@
           "label": "عبد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Neri",
+          "type": "person",
+          "preferred_label": "نِيرِي",
+          "confidence": 0.8615,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Neriah",
+          "type": "person",
+          "preferred_label": "نِيرِيَّا",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naharai",
+          "type": "person",
+          "preferred_label": "نَحْرَاي",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naarai",
+          "type": "person",
+          "preferred_label": "نَعْرَاي",
+          "confidence": 0.8066,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196423,
+    "content_id": "196423",
     "reference_id": 26054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نِينَوَى",
     "media_type": "Text",
     "index_reference": "نِينَوَى",
@@ -6462,6 +6897,22 @@
           "resource_code": "UWTranslationWords",
           "label": "يتوب",
           "language": "arb"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "نِينَوَى",
+          "confidence": 0.925,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Nineveh",
+          "type": "group",
+          "preferred_label": "نِينَوَى",
+          "confidence": 0.675,
+          "match_method": "scored"
         }
       ]
     }

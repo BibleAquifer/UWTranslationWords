@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390882,
+    "content_id": "390882",
     "reference_id": 25954,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "燈",
     "media_type": "Text",
     "index_reference": "燈",
@@ -230,13 +230,22 @@
           "label": "燈臺",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Lamp",
+          "type": "realia",
+          "preferred_label": "Lamp",
+          "confidence": 0.8824,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390883,
+    "content_id": "390883",
     "reference_id": 25955,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "燈臺",
     "media_type": "Text",
     "index_reference": "燈臺",
@@ -467,6 +476,22 @@
           "resource_code": "UWTranslationWords",
           "label": "聖殿",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Lampstand",
+          "type": "realia",
+          "preferred_label": "Lampstand",
+          "confidence": 0.8286,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Lampstand.2",
+          "type": "realia",
+          "preferred_label": "Lampstand",
+          "confidence": 0.8286,
+          "match_method": "embedding"
         }
       ]
     }

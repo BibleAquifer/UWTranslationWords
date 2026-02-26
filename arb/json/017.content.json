@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196012,
+    "content_id": "196012",
     "reference_id": 25575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكرمل",
     "media_type": "Text",
     "index_reference": "الكرمل",
@@ -65,13 +65,14 @@
           "label": "بحر الملح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144812,
+    "content_id": "144812",
     "reference_id": 26204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كاتب",
     "media_type": "Text",
     "index_reference": "كاتب",
@@ -582,13 +583,22 @@
           "label": "فريسي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Scribe",
+          "type": "person",
+          "preferred_label": "A Scribe",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196134,
+    "content_id": "196134",
     "reference_id": 25716,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كارز",
     "media_type": "Text",
     "index_reference": "كارز",
@@ -637,13 +647,14 @@
           "label": "روح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196005,
+    "content_id": "196005",
     "reference_id": 25566,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كالب",
     "media_type": "Text",
     "index_reference": "كالب",
@@ -692,13 +703,14 @@
           "label": "يشوع",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196450,
+    "content_id": "196450",
     "reference_id": 26086,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كامل",
     "media_type": "Text",
     "index_reference": "كامل",
@@ -1010,13 +1022,22 @@
           "label": "عَيب",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Complete",
+          "type": "keyterm",
+          "preferred_label": "Complete",
+          "confidence": 0.843,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 144801,
+    "content_id": "144801",
     "reference_id": 26121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كاهن",
     "media_type": "Text",
     "index_reference": "كاهن",
@@ -2009,13 +2030,14 @@
           "label": "وسيط",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196492,
+    "content_id": "196492",
     "reference_id": 26135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كبرياء",
     "media_type": "Text",
     "index_reference": "كبرياء",
@@ -2221,13 +2243,14 @@
           "label": "الفخر-إحساس إيجابي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196606,
+    "content_id": "196606",
     "reference_id": 26273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كِبريت",
     "media_type": "Text",
     "index_reference": "كِبريت",
@@ -2334,13 +2357,14 @@
           "label": "سَدُوم",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196078,
+    "content_id": "196078",
     "reference_id": 25651,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كرس",
     "media_type": "Text",
     "index_reference": "كرس",
@@ -2430,13 +2454,22 @@
           "label": "ارتكب",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "كورَشَ",
+          "confidence": 0.8167,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196653,
+    "content_id": "196653",
     "reference_id": 26336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كرم",
     "media_type": "Text",
     "index_reference": "كرم",
@@ -2708,13 +2741,22 @@
           "label": "كرمة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144755,
+    "content_id": "144755",
     "reference_id": 25846,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كرم، إكرام، يُكرم",
     "media_type": "Text",
     "index_reference": "كرم، إكرام، يُكرم",
@@ -3214,13 +3256,14 @@
           "label": "تسبيح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144841,
+    "content_id": "144841",
     "reference_id": 26335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كرمة",
     "media_type": "Text",
     "index_reference": "كرمة",
@@ -3353,13 +3396,14 @@
           "label": "كرم",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196045,
+    "content_id": "196045",
     "reference_id": 25613,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كَرْنِيلِيُوسُ",
     "media_type": "Text",
     "index_reference": "كَرْنِيلِيُوسُ",
@@ -3478,13 +3522,22 @@
           "label": "يونانيّ",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cornelius",
+          "type": "person",
+          "preferred_label": "كَرْنِيلِيوس",
+          "confidence": 0.8369,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196020,
+    "content_id": "196020",
     "reference_id": 25585,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كروبيم",
     "media_type": "Text",
     "index_reference": "كروبيم",
@@ -3610,13 +3663,14 @@
           "label": "ملاك",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144729,
+    "content_id": "144729",
     "reference_id": 25626,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كريت",
     "media_type": "Text",
     "index_reference": "كريت",
@@ -3680,13 +3734,22 @@
           "end_ref_usfm": "AMO 9:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Crete",
+          "type": "place",
+          "preferred_label": "كِرِيتَ",
+          "confidence": 0.74,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 196019,
+    "content_id": "196019",
     "reference_id": 25584,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كِرِيتِيِّون",
     "media_type": "Text",
     "index_reference": "كِرِيتِيِّون",
@@ -3731,13 +3794,36 @@
           "label": "الفلسطينيون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "كَنْعَان",
+          "confidence": 0.6385,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "فِلِشْتِيم",
+          "confidence": 0.616,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "ٱلْفِلِسْطِينِيِّينَ",
+          "confidence": 0.607,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 195944,
+    "content_id": "195944",
     "reference_id": 25490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كَفَّارَة",
     "media_type": "Text",
     "index_reference": "كَفَّارَة",
@@ -3843,13 +3929,113 @@
           "label": "يفدي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Keturah",
+          "type": "person",
+          "preferred_label": "قَطورَة",
+          "confidence": 0.8706,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pekahiah",
+          "type": "person",
+          "preferred_label": "فَقَحْيَا",
+          "confidence": 0.8505,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sapphira",
+          "type": "person",
+          "preferred_label": "سَفِّيرَة",
+          "confidence": 0.85,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "رِفْقَة",
+          "confidence": 0.8397,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shiphrah",
+          "type": "person",
+          "preferred_label": "شِفْرَة",
+          "confidence": 0.8367,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Taphath",
+          "type": "person",
+          "preferred_label": "طَافَة",
+          "confidence": 0.8225,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zipporah",
+          "type": "person",
+          "preferred_label": "صَفّورَةَ",
+          "confidence": 0.8225,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rizpah",
+          "type": "person",
+          "preferred_label": "رِصْفَة",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pispa",
+          "type": "person",
+          "preferred_label": "فِسْفَة",
+          "confidence": 0.8162,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hashubah",
+          "type": "person",
+          "preferred_label": "حَشوبَة",
+          "confidence": 0.8151,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dophkah",
+          "type": "place",
+          "preferred_label": "دفْقَةَ",
+          "confidence": 0.8134,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ziphah",
+          "type": "person",
+          "preferred_label": "زِيفَة",
+          "confidence": 0.8104,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Keziah",
+          "type": "person",
+          "preferred_label": "قَصِيعَةَ",
+          "confidence": 0.8092,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Orpah",
+          "type": "person",
+          "preferred_label": "عرْفَة",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 144721,
+    "content_id": "144721",
     "reference_id": 25573,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كَفْرِنَاحُوم",
     "media_type": "Text",
     "index_reference": "كَفْرِنَاحُوم",
@@ -3988,13 +4174,22 @@
           "label": "بحر الجليل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Capernaum",
+          "type": "place",
+          "preferred_label": "كَفْرَنَاحومَ",
+          "confidence": 0.9188,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196017,
+    "content_id": "196017",
     "reference_id": 25582,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كلدانيون",
     "media_type": "Text",
     "index_reference": "كلدانيون",
@@ -4111,13 +4306,22 @@
           "label": "أُور",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Chaldea",
+          "type": "place",
+          "preferred_label": "ٱلْكَلْدَانِيِّينَ",
+          "confidence": 0.5271,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196668,
+    "content_id": "196668",
     "reference_id": 26355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كلمة الله",
     "media_type": "Text",
     "index_reference": "كلمة الله",
@@ -5168,13 +5372,22 @@
           "label": "يهوه",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.8192,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196010,
+    "content_id": "196010",
     "reference_id": 25572,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كنعان",
     "media_type": "Text",
     "index_reference": "كنعان",
@@ -5685,13 +5898,22 @@
           "label": "أرض الموعد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "كَنْعَان",
+          "confidence": 0.6977,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196025,
+    "content_id": "196025",
     "reference_id": 25590,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كنيسة",
     "media_type": "Text",
     "index_reference": "كنيسة",
@@ -6347,13 +6569,22 @@
           "label": "مسيحي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 0.5462,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196494,
+    "content_id": "196494",
     "reference_id": 26137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كورة",
     "media_type": "Text",
     "index_reference": "كورة",
@@ -6525,13 +6756,14 @@
           "label": "سوريا",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196067,
+    "content_id": "196067",
     "reference_id": 25639,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كُورَش",
     "media_type": "Text",
     "index_reference": "كُورَش",
@@ -6667,13 +6899,29 @@
           "label": "بلاد فارس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "كورَشَ",
+          "confidence": 0.9595,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "فَارِسَ",
+          "confidence": 0.5118,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196044,
+    "content_id": "196044",
     "reference_id": 25612,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كُورِنْثُوس",
     "media_type": "Text",
     "index_reference": "كُورِنْثُوس",
@@ -6771,13 +7019,22 @@
           "label": "تيطس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Corinth",
+          "type": "place",
+          "preferred_label": "كورِنْثوسَ",
+          "confidence": 0.7112,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196062,
+    "content_id": "196062",
     "reference_id": 25634,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كُوش",
     "media_type": "Text",
     "index_reference": "كُوش",
@@ -6864,13 +7121,29 @@
           "label": "الحبشة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cush.2",
+          "type": "person",
+          "preferred_label": "كوشَ",
+          "confidence": 0.8037,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Cush",
+          "type": "place",
+          "preferred_label": "كوشَ",
+          "confidence": 0.5814,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196032,
+    "content_id": "196032",
     "reference_id": 25597,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كولوسي",
     "media_type": "Text",
     "index_reference": "كولوسي",
@@ -6907,13 +7180,29 @@
           "label": "بولس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Colossae",
+          "type": "place",
+          "preferred_label": "كولوسِّي",
+          "confidence": 0.764,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "يَسوع",
+          "confidence": 0.562,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196026,
+    "content_id": "196026",
     "reference_id": 25591,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كِيلِيكِيَّة",
     "media_type": "Text",
     "index_reference": "كِيلِيكِيَّة",
@@ -6998,6 +7287,22 @@
           "resource_code": "UWTranslationWords",
           "label": "طَرسوس",
           "language": "arb"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Cilicia",
+          "type": "place",
+          "preferred_label": "كِيلِيكِيَّةَ",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Lycia",
+          "type": "place",
+          "preferred_label": "لِيكِيَّةَ",
+          "confidence": 0.5656,
+          "match_method": "scored"
         }
       ]
     }

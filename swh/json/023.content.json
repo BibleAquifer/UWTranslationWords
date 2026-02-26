@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 626874,
+    "content_id": "626874",
     "reference_id": 25449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Waamaleki",
     "media_type": "Text",
     "index_reference": "waamaleki",
@@ -114,13 +114,36 @@
           "label": "Sauli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Amalek",
+          "type": "place",
+          "preferred_label": "Amaleki",
+          "confidence": 0.7037,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amalek",
+          "type": "group",
+          "preferred_label": "Amalekites",
+          "confidence": 0.6331,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amalek",
+          "type": "person",
+          "preferred_label": "Amaleki",
+          "confidence": 0.5768,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626878,
+    "content_id": "626878",
     "reference_id": 25454,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Waamori",
     "media_type": "Text",
     "index_reference": "waamori",
@@ -238,13 +261,22 @@
           "end_ref_usfm": "GEN 15:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Amorites",
+          "type": "group",
+          "preferred_label": "Amorites",
+          "confidence": 0.8274,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 626889,
+    "content_id": "626889",
     "reference_id": 25470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Waarabu",
     "media_type": "Text",
     "index_reference": "waarabu",
@@ -326,13 +358,29 @@
           "label": "Sinai",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Arabia",
+          "type": "place",
+          "preferred_label": "Waarabu",
+          "confidence": 0.7846,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Arabia",
+          "type": "group",
+          "preferred_label": "Arabians",
+          "confidence": 0.54,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627095,
+    "content_id": "627095",
     "reference_id": 25826,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Waebrania",
     "media_type": "Text",
     "index_reference": "waebrania",
@@ -580,13 +628,22 @@
           "label": "Viongozi wa Kiyahudi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Hebrews",
+          "type": "group",
+          "preferred_label": "Hebrews",
+          "confidence": 0.5586,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627246,
+    "content_id": "627246",
     "reference_id": 26100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wafilisti",
     "media_type": "Text",
     "index_reference": "wafilisti",
@@ -755,13 +812,36 @@
           "label": "Samaki wa chumvi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Wafilisti",
+          "confidence": 0.8435,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Wafilisti",
+          "confidence": 0.6935,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "Wafilisti",
+          "confidence": 0.6174,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627071,
+    "content_id": "627071",
     "reference_id": 25784,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wagirgashi",
     "media_type": "Text",
     "index_reference": "wagirgashi",
@@ -835,13 +915,36 @@
           "label": "Nuhu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Girgashites",
+          "type": "group",
+          "preferred_label": "Girgashites",
+          "confidence": 0.79,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amorites",
+          "type": "group",
+          "preferred_label": "Amorites",
+          "confidence": 0.6275,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Jebusites",
+          "type": "group",
+          "preferred_label": "Jebusites",
+          "confidence": 0.529,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626961,
+    "content_id": "626961",
     "reference_id": 25582,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wakaldayo",
     "media_type": "Text",
     "index_reference": "wakaldayo",
@@ -958,13 +1061,29 @@
           "label": "Uru",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Chaldea",
+          "type": "place",
+          "preferred_label": "Wakaldayo",
+          "confidence": 0.8286,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Chaldea",
+          "type": "group",
+          "preferred_label": "Chaldeans",
+          "confidence": 0.5766,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575739,
+    "content_id": "575739",
     "reference_id": 26303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wakati",
     "media_type": "Text",
     "index_reference": "wakati",
@@ -1871,13 +1990,14 @@
           "label": "Dhiki",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 626963,
+    "content_id": "626963",
     "reference_id": 25584,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wakerethi",
     "media_type": "Text",
     "index_reference": "wakerethi",
@@ -1922,13 +2042,64 @@
           "label": "Wafilisti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Cherethite",
+          "type": "group",
+          "preferred_label": "Cherethites",
+          "confidence": 0.751,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Wakanaani",
+          "confidence": 0.598,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Wafilisti",
+          "confidence": 0.598,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Wafilisti",
+          "confidence": 0.598,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5935,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Woe.2",
+          "type": "keyterm",
+          "preferred_label": "Woe",
+          "confidence": 0.5485,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.508,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575711,
+    "content_id": "575711",
     "reference_id": 26252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wana wa Mungu",
     "media_type": "Text",
     "index_reference": "wana wa mungu",
@@ -2040,13 +2211,22 @@
           "label": "Roho",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.598,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575585,
+    "content_id": "575585",
     "reference_id": 25962,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wanaume Waliojifunza",
     "media_type": "Text",
     "index_reference": "wanaume waliojifunza",
@@ -2108,13 +2288,14 @@
           "label": "Danieli",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627106,
+    "content_id": "627106",
     "reference_id": 25851,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wapanda farasi",
     "media_type": "Text",
     "index_reference": "wapanda farasi",
@@ -2235,13 +2416,14 @@
           "label": "Farasi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627002,
+    "content_id": "627002",
     "reference_id": 25656,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wasilisha kudhuru",
     "media_type": "Text",
     "index_reference": "wasilisha kudhuru",
@@ -2250,13 +2432,14 @@
     "content": "<h1>toa, kabidhi, badilisha, achilia</h1><h2>Ufafanuzi:</h2><ul><li><p>Neno &quot;kuwasilisha&quot; au &quot;kuwasilisha kwa&quot; au &quot;kuwasilisha hadi&quot; linaweza kumaanisha kumtoa mtu kwa adui au mpinzani, kama vile Yuda alivyomtoa Yesu kwa viongozi wa Kiyahudi au Mungu alivyowatoa Waisraeli kwa maadui zao kutokana na dhambi zao za mara kwa mara.</p></li></ul><h2>Mapendekezo ya Tafsiri:</h2><ul><li><p>Wakati &quot;kukabidhi&quot; inamaanisha kumtoa mtu kwa adui, inaweza kutafsiriwa kama &quot;kusaliti&quot; au &quot;kupeana.&quot; Wakati &quot;kukabidhi&quot; inahusu Mungu kuwatoa watu kwa adui, inaweza pia kutafsiriwa kama &quot;kukabidhi&quot; au &quot;kupeana.&quot;</p></li></ul><h2>Marejeleo ya Biblia:</h2><h2>Mifano kutoka katika hadithi za Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p>Strong&apos;s: H1350, H2020, H2502, H3205, H3444, H3467, H4042, H4422, H4672, H5337, H5414, H5462, H6299, H6403, H6413, H6475, H6561, H7725, H7804, H8199, G03250, G05250, G06290, G10800, G13250, G15600, G16590, G18070, G19290, G26730, G30860, G38600, G45060, G49910, G50880, G54830</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575632,
+    "content_id": "575632",
     "reference_id": 26084,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Watu wa Mungu",
     "media_type": "Text",
     "index_reference": "watu wa mungu",
@@ -2461,13 +2644,14 @@
           "label": "Kikundi cha Watu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627365,
+    "content_id": "627365",
     "reference_id": 26351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Watu wenye hekima",
     "media_type": "Text",
     "index_reference": "watu wenye hekima",
@@ -2611,13 +2795,14 @@
           "label": "Mwerevu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627123,
+    "content_id": "627123",
     "reference_id": 25887,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wayebusi",
     "media_type": "Text",
     "index_reference": "wayebusi",
@@ -2746,13 +2931,29 @@
           "label": "Melkizedeki",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jebusites",
+          "type": "group",
+          "preferred_label": "Jebusites",
+          "confidence": 0.7237,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amorites",
+          "type": "group",
+          "preferred_label": "Amorites",
+          "confidence": 0.5947,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627122,
+    "content_id": "627122",
     "reference_id": 25886,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "wivu",
     "media_type": "Text",
     "index_reference": "wivu",
@@ -2872,13 +3073,14 @@
           "label": "Husuda",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627369,
+    "content_id": "627369",
     "reference_id": 26366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Wivu",
     "media_type": "Text",
     "index_reference": "wivu",
@@ -3014,7 +3216,8 @@
           "end_ref_usfm": "ROM 10:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

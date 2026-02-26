@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179923,
+    "content_id": "179923",
     "reference_id": 25854,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घड़ी",
     "media_type": "Text",
     "index_reference": "घड़ी",
@@ -465,13 +465,14 @@
           "label": "घड़ी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180194,
+    "content_id": "180194",
     "reference_id": 26135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घमंडी",
     "media_type": "Text",
     "index_reference": "घमंडी",
@@ -677,13 +678,14 @@
           "label": "गर्व-सकारात्मक भावना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179894,
+    "content_id": "179894",
     "reference_id": 25824,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घमण्ड",
     "media_type": "Text",
     "index_reference": "घमण्ड",
@@ -731,13 +733,22 @@
           "label": "घमंडी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gamad",
+          "type": "place",
+          "preferred_label": "गम्‍मद",
+          "confidence": 0.8089,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179924,
+    "content_id": "179924",
     "reference_id": 25856,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घर",
     "media_type": "Text",
     "index_reference": "घर",
@@ -3177,13 +3188,22 @@
           "end_ref_usfm": "2JN 1:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 182421,
+    "content_id": "182421",
     "reference_id": 25855,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घराना-वंशज_राष्ट्र",
     "media_type": "Text",
     "index_reference": "घराना-वंशज_राष्ट्र",
@@ -3214,13 +3234,14 @@
           "label": "इस्राएल के राज्य",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180297,
+    "content_id": "180297",
     "reference_id": 26243,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घात करना",
     "media_type": "Text",
     "index_reference": "घात करना",
@@ -3424,13 +3445,14 @@
           "label": "वध करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179920,
+    "content_id": "179920",
     "reference_id": 25851,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घुड़सवार",
     "media_type": "Text",
     "index_reference": "घुड़सवार",
@@ -3551,13 +3573,14 @@
           "label": "घोड़ा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179638,
+    "content_id": "179638",
     "reference_id": 25556,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घूस",
     "media_type": "Text",
     "index_reference": "घूस",
@@ -3633,13 +3656,14 @@
           "end_ref_usfm": "PRO 15:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179513,
+    "content_id": "179513",
     "reference_id": 25423,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घृणा",
     "media_type": "Text",
     "index_reference": "घृणा",
@@ -3895,13 +3919,14 @@
           "label": "बलिदान करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179741,
+    "content_id": "179741",
     "reference_id": 25665,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घृणा",
     "media_type": "Text",
     "index_reference": "घृणा",
@@ -3968,13 +3993,14 @@
           "label": "भावी कहने",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180288,
+    "content_id": "180288",
     "reference_id": 26233,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घेर",
     "media_type": "Text",
     "index_reference": "घेर",
@@ -4008,13 +4034,14 @@
           "end_ref_usfm": "1KI 20:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179919,
+    "content_id": "179919",
     "reference_id": 25850,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घोड़ा",
     "media_type": "Text",
     "index_reference": "घोड़ा",
@@ -4262,13 +4289,22 @@
           "label": "सुलैमान",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Horse",
+          "type": "fauna",
+          "preferred_label": "Horse",
+          "confidence": 0.8643,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179726,
+    "content_id": "179726",
     "reference_id": 25649,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "घोषणा करना",
     "media_type": "Text",
     "index_reference": "घोषणा करना",
@@ -4556,6 +4592,22 @@
           "resource_code": "Unknown",
           "label": "प्रचार करना",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Declare",
+          "type": "keyterm",
+          "preferred_label": "Declare",
+          "confidence": 0.8569,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Proclaim",
+          "type": "keyterm",
+          "preferred_label": "Proclaim",
+          "confidence": 0.8089,
+          "match_method": "embedding"
         }
       ]
     }

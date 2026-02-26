@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390657,
+    "content_id": "390657",
     "reference_id": 25722,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "歡樂",
     "media_type": "Text",
     "index_reference": "歡樂",
@@ -136,13 +136,29 @@
           "label": "讚美",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Happy",
+          "type": "keyterm",
+          "preferred_label": "Happy",
+          "confidence": 0.8351,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Happiness",
+          "type": "keyterm",
+          "preferred_label": "Happiness",
+          "confidence": 0.8116,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391237,
+    "content_id": "391237",
     "reference_id": 26317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "患難",
     "media_type": "Text",
     "index_reference": "患難",
@@ -395,7 +411,8 @@
           "label": "忿怒",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

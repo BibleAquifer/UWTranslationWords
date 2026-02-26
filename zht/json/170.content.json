@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391182,
+    "content_id": "391182",
     "reference_id": 26261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "司提反",
     "media_type": "Text",
     "index_reference": "司提反",
@@ -102,13 +102,14 @@
           "label": "石頭",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391113,
+    "content_id": "391113",
     "reference_id": 26191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "死海",
     "media_type": "Text",
     "index_reference": "死海",
@@ -183,6 +184,15 @@
           "resource_code": "UWTranslationWords",
           "label": "南地",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:SaltSea",
+          "type": "place",
+          "preferred_label": "Dead Sea",
+          "confidence": 0.8846,
+          "match_method": "embedding"
         }
       ]
     }

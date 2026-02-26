@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 27002,
+    "content_id": "27002",
     "reference_id": 26144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Qualify",
     "media_type": "Text",
     "index_reference": "qualify",
@@ -54,13 +54,14 @@
           "label": "Redeem",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 27003,
+    "content_id": "27003",
     "reference_id": 26145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Queen",
     "media_type": "Text",
     "index_reference": "queen",
@@ -174,13 +175,22 @@
           "label": "Sheba",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:QueenOfSheba",
+          "type": "person",
+          "preferred_label": "Queen of Sheba",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27004,
+    "content_id": "27004",
     "reference_id": 26146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Quench",
     "media_type": "Text",
     "index_reference": "quench",
@@ -253,7 +263,8 @@
           "label": "Holy Spirit",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

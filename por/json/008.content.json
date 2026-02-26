@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 237896,
+    "content_id": "237896",
     "reference_id": 25763,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gabriel",
     "media_type": "Text",
     "index_reference": "gabriel",
@@ -93,13 +93,22 @@
           "label": "Zacarias NT",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "Gabriel",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237897,
+    "content_id": "237897",
     "reference_id": 25764,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gade",
     "media_type": "Text",
     "index_reference": "gade",
@@ -191,13 +200,22 @@
           "label": "Zilpa",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "Gade",
+          "confidence": 0.8769,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238102,
+    "content_id": "238102",
     "reference_id": 25971,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gafanhoto-migratório",
     "media_type": "Text",
     "index_reference": "gafanhoto-migratório",
@@ -327,13 +345,22 @@
           "label": "Praga",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Locust",
+          "type": "fauna",
+          "preferred_label": "Locust",
+          "confidence": 0.6185,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237898,
+    "content_id": "237898",
     "reference_id": 25765,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galácia",
     "media_type": "Text",
     "index_reference": "galácia",
@@ -439,13 +466,36 @@
           "label": "Paulo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "Galácia",
+          "confidence": 0.7818,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Dalmatia",
+          "type": "place",
+          "preferred_label": "Dalmácia",
+          "confidence": 0.5329,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Asia",
+          "type": "place",
+          "preferred_label": "Asia",
+          "confidence": 0.5242,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237899,
+    "content_id": "237899",
     "reference_id": 25766,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galileia",
     "media_type": "Text",
     "index_reference": "galileia",
@@ -921,13 +971,36 @@
           "label": "Mar da Galileia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galileia",
+          "confidence": 0.9413,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judeia",
+          "confidence": 0.5847,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Galilee",
+          "type": "group",
+          "preferred_label": "Galileans",
+          "confidence": 0.5723,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237901,
+    "content_id": "237901",
     "reference_id": 25768,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gate",
     "media_type": "Text",
     "index_reference": "gate",
@@ -1004,13 +1077,22 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gath",
+          "type": "place",
+          "preferred_label": "Gate",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237902,
+    "content_id": "237902",
     "reference_id": 25769,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gaza",
     "media_type": "Text",
     "index_reference": "gaza",
@@ -1086,13 +1168,22 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gaza",
+          "type": "place",
+          "preferred_label": "Gaza",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237906,
+    "content_id": "237906",
     "reference_id": 25773,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gentio",
     "media_type": "Text",
     "index_reference": "gentio",
@@ -1640,13 +1731,22 @@
           "label": "Judeu",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "Gentiles",
+          "confidence": 0.6395,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237905,
+    "content_id": "237905",
     "reference_id": 25772,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Geração",
     "media_type": "Text",
     "index_reference": "geração",
@@ -2144,13 +2244,14 @@
           "label": "Descendente",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237903,
+    "content_id": "237903",
     "reference_id": 25770,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Geração - Grupo de Descendentes",
     "media_type": "Text",
     "index_reference": "geração - grupo de descendentes",
@@ -2167,13 +2268,14 @@
           "label": "Descendente",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237904,
+    "content_id": "237904",
     "reference_id": 25771,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Geração - Pessoas que vivem no mesmo período de tempo",
     "media_type": "Text",
     "index_reference": "geração - pessoas que vivem no mesmo período de tempo",
@@ -2182,13 +2284,14 @@
     "content": "<h1>geração</h1><h2>Definição:</h2><p>O termo “geração” neste sentido refere-se às pessoas que estão vivas ao mesmo tempo. Essas pessoas geralmente compartilham a mesma cultura, experiências e modo de vida.</p><h2>Sugestões de Tradução</h2><ul><li><p>A frase “a geração de seus pais” poderia ser traduzida como “seus antepassados” ou “aqueles que viveram antes dele”.</p></li><li><p>A frase “esta geração” ou “pessoas desta geração” poderia ser traduzida como “as pessoas que vivem agora” ou “vocês”.</p></li><li><p>A frase “gerações futuras” poderia ser traduzida como “aqueles que viverão depois de nós” ou “pessoas que viverão posteriormente”.</p></li></ul><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237658,
+    "content_id": "237658",
     "reference_id": 25522,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gerar",
     "media_type": "Text",
     "index_reference": "gerar",
@@ -2197,13 +2300,29 @@
     "content": "<h1>gerar, gerou, concebeu, gerado</h1><h2>Definição:</h2><p>O termo “gerar” significa tornar-se pai de alguém.</p><h2>Sugestões de Tradução:</h2><ul><li><p>Você poderia traduzir a frase “gerar” como “trazer à existência” e o termo “concebeu” como “tornou-se pai de” e o termo “procriou” como “deu vida”.</p></li><li><p>O termo “gerado” é a forma passiva de “gerar” e significa “nascer”.</p></li></ul><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p></p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Gerar",
+          "type": "place",
+          "preferred_label": "Gerar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Gerah",
+          "type": "realia",
+          "preferred_label": "Gerah",
+          "confidence": 0.8627,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 237907,
+    "content_id": "237907",
     "reference_id": 25774,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gerar",
     "media_type": "Text",
     "index_reference": "gerar",
@@ -2302,13 +2421,29 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gerar",
+          "type": "place",
+          "preferred_label": "Gerar",
+          "confidence": 0.9273,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:ValleyOfGerar",
+          "type": "place",
+          "preferred_label": "Valley of Gerar",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 191641,
+    "content_id": "191641",
     "reference_id": 25992,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gerente",
     "media_type": "Text",
     "index_reference": "gerente",
@@ -2500,13 +2635,14 @@
           "label": "Servo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237908,
+    "content_id": "237908",
     "reference_id": 25775,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gesur",
     "media_type": "Text",
     "index_reference": "gesur",
@@ -2569,13 +2705,29 @@
           "label": "Mar da Galileia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Geshur",
+          "type": "place",
+          "preferred_label": "Gesur",
+          "confidence": 0.6786,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Geshur",
+          "type": "group",
+          "preferred_label": "Geshurites",
+          "confidence": 0.6738,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237909,
+    "content_id": "237909",
     "reference_id": 25776,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Getsêmani",
     "media_type": "Text",
     "index_reference": "getsêmani",
@@ -2619,13 +2771,36 @@
           "label": "Monte das Oliveiras",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gethsemane",
+          "type": "place",
+          "preferred_label": "Getsêmani",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "ser discípulo",
+          "confidence": 0.562,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:OliveTree",
+          "type": "flora",
+          "preferred_label": "Olive Tree",
+          "confidence": 0.544,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237911,
+    "content_id": "237911",
     "reference_id": 25778,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gibeá",
     "media_type": "Text",
     "index_reference": "gibeá",
@@ -2681,13 +2856,22 @@
           "label": "Jerusalém",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gibeah.2",
+          "type": "place",
+          "preferred_label": "Gibeah",
+          "confidence": 0.6933,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237912,
+    "content_id": "237912",
     "reference_id": 25779,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gibeão",
     "media_type": "Text",
     "index_reference": "gibeão",
@@ -2749,13 +2933,29 @@
           "label": "Jerusalém",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gibeon",
+          "type": "place",
+          "preferred_label": "Gibeão",
+          "confidence": 0.9111,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Gibeon",
+          "type": "group",
+          "preferred_label": "Gibeonites",
+          "confidence": 0.6039,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237913,
+    "content_id": "237913",
     "reference_id": 25780,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gideão",
     "media_type": "Text",
     "index_reference": "gideão",
@@ -2831,13 +3031,22 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "Gideão",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237910,
+    "content_id": "237910",
     "reference_id": 25777,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gigante",
     "media_type": "Text",
     "index_reference": "gigante",
@@ -2881,13 +3090,22 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Nephilim",
+          "type": "group",
+          "preferred_label": "Nephilim",
+          "confidence": 0.5382,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237914,
+    "content_id": "237914",
     "reference_id": 25781,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gileade",
     "media_type": "Text",
     "index_reference": "gileade",
@@ -3005,13 +3223,22 @@
           "label": "Rúben",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "Gileade",
+          "confidence": 0.9077,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237915,
+    "content_id": "237915",
     "reference_id": 25782,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gilgal",
     "media_type": "Text",
     "index_reference": "gilgal",
@@ -3080,13 +3307,29 @@
           "label": "Rio Jordão",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gilgal.2",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Gilgal.3",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237917,
+    "content_id": "237917",
     "reference_id": 25784,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Girgaseus",
     "media_type": "Text",
     "index_reference": "girgaseus",
@@ -3160,13 +3403,36 @@
           "label": "Noé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Girgashites",
+          "type": "group",
+          "preferred_label": "Girgashites",
+          "confidence": 0.79,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amorites",
+          "type": "group",
+          "preferred_label": "Amorites",
+          "confidence": 0.6275,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Jebusites",
+          "type": "group",
+          "preferred_label": "Jebusites",
+          "confidence": 0.5875,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237919,
+    "content_id": "237919",
     "reference_id": 25786,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Glória",
     "media_type": "Text",
     "index_reference": "glória",
@@ -4591,13 +4857,22 @@
           "label": "Louvar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Glory",
+          "type": "keyterm",
+          "preferred_label": "Glory",
+          "confidence": 0.7664,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237925,
+    "content_id": "237925",
     "reference_id": 25792,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gólgota",
     "media_type": "Text",
     "index_reference": "gólgota",
@@ -4640,13 +4915,22 @@
           "label": "Monte das Oliveiras",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Golgotha",
+          "type": "place",
+          "preferred_label": "Golgotha",
+          "confidence": 0.937,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237926,
+    "content_id": "237926",
     "reference_id": 25793,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Golias",
     "media_type": "Text",
     "index_reference": "golias",
@@ -4695,13 +4979,29 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Goliath",
+          "type": "person",
+          "preferred_label": "Golias",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Filisteu",
+          "confidence": 0.5935,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237927,
+    "content_id": "237927",
     "reference_id": 25794,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gomorra",
     "media_type": "Text",
     "index_reference": "gomorra",
@@ -4849,13 +5149,29 @@
           "label": "Sodoma",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gomorrah",
+          "type": "place",
+          "preferred_label": "Gomorra",
+          "confidence": 0.9529,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodoma",
+          "confidence": 0.7099,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237930,
+    "content_id": "237930",
     "reference_id": 25797,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gósen",
     "media_type": "Text",
     "index_reference": "gósen",
@@ -4990,13 +5306,22 @@
           "label": "Rio Nilo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "Gósen",
+          "confidence": 0.8316,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237932,
+    "content_id": "237932",
     "reference_id": 25799,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Governador",
     "media_type": "Text",
     "index_reference": "governador",
@@ -5342,13 +5667,14 @@
           "label": "Roma",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 191642,
+    "content_id": "191642",
     "reference_id": 26184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Governante",
     "media_type": "Text",
     "index_reference": "governante",
@@ -6203,13 +6529,14 @@
           "label": "Sinagoga",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237933,
+    "content_id": "237933",
     "reference_id": 25800,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Graça",
     "media_type": "Text",
     "index_reference": "graça",
@@ -7005,13 +7332,22 @@
           "end_ref_usfm": "GEN 43:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Favor",
+          "type": "keyterm",
+          "preferred_label": "favor",
+          "confidence": 0.803,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 237945,
+    "content_id": "237945",
     "reference_id": 25812,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Granizo",
     "media_type": "Text",
     "index_reference": "granizo",
@@ -7141,13 +7477,14 @@
           "end_ref_usfm": "MAT 28:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237934,
+    "content_id": "237934",
     "reference_id": 25801,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Grão",
     "media_type": "Text",
     "index_reference": "grão",
@@ -7483,13 +7820,22 @@
           "label": "Trigo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Grain",
+          "type": "flora",
+          "preferred_label": "Grain",
+          "confidence": 0.5179,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237937,
+    "content_id": "237937",
     "reference_id": 25804,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Grécia",
     "media_type": "Text",
     "index_reference": "grécia",
@@ -7584,13 +7930,22 @@
           "label": "Tessalônica",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "Grécia",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237938,
+    "content_id": "237938",
     "reference_id": 25805,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Grego",
     "media_type": "Text",
     "index_reference": "grego",
@@ -7835,13 +8190,29 @@
           "label": "João 12.20 (#2)",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Greek",
+          "type": "group",
+          "preferred_label": "Greeks",
+          "confidence": 0.6916,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Javan",
+          "type": "person",
+          "preferred_label": "Javã",
+          "confidence": 0.5641,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238213,
+    "content_id": "238213",
     "reference_id": 26083,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Grupo de Pessoas",
     "media_type": "Text",
     "index_reference": "grupo de pessoas",
@@ -10106,13 +10477,22 @@
           "label": "Mundo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:GenericGroup",
+          "type": "group",
+          "preferred_label": "A Group of People",
+          "confidence": 0.9072,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238466,
+    "content_id": "238466",
     "reference_id": 26340,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Guerreiro",
     "media_type": "Text",
     "index_reference": "guerreiro",
@@ -10385,7 +10765,8 @@
           "label": "Túmulo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

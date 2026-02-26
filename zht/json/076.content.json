@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390697,
+    "content_id": "390697",
     "reference_id": 25763,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "加百列",
     "media_type": "Text",
     "index_reference": "加百列",
@@ -93,13 +93,14 @@
           "label": "撒迦利亞 NT",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390862,
+    "content_id": "390862",
     "reference_id": 25933,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "加低斯",
     "media_type": "Text",
     "index_reference": "加低斯",
@@ -173,13 +174,14 @@
           "label": "聖潔",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390699,
+    "content_id": "390699",
     "reference_id": 25765,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "加拉太",
     "media_type": "Text",
     "index_reference": "加拉太",
@@ -285,13 +287,14 @@
           "label": "保羅",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390700,
+    "content_id": "390700",
     "reference_id": 25766,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "加利利",
     "media_type": "Text",
     "index_reference": "加利利",
@@ -767,13 +770,22 @@
           "label": "加利利海",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilee",
+          "confidence": 0.8448,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391129,
+    "content_id": "391129",
     "reference_id": 26207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "加利利海",
     "media_type": "Text",
     "index_reference": "加利利海",
@@ -1083,13 +1095,29 @@
           "label": "約翰福音 6:1 (#2)",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:GalileeSea",
+          "type": "place",
+          "preferred_label": "Sea of Galilee",
+          "confidence": 0.8736,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilee",
+          "confidence": 0.8286,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390855,
+    "content_id": "390855",
     "reference_id": 25926,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "加略人猶大",
     "media_type": "Text",
     "index_reference": "加略人猶大",
@@ -1290,13 +1318,14 @@
           "label": "雅各的兒子猶大",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390703,
+    "content_id": "390703",
     "reference_id": 25769,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "加薩",
     "media_type": "Text",
     "index_reference": "加薩",
@@ -1372,13 +1401,22 @@
           "label": "非利士人",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gaza",
+          "type": "place",
+          "preferred_label": "Gaza",
+          "confidence": 0.8215,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390962,
+    "content_id": "390962",
     "reference_id": 26036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "加增",
     "media_type": "Text",
     "index_reference": "加增",
@@ -1832,13 +1870,14 @@
           "end_ref_usfm": "HOS 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390513,
+    "content_id": "390513",
     "reference_id": 25573,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迦百農",
     "media_type": "Text",
     "index_reference": "迦百農",
@@ -1977,13 +2016,14 @@
           "label": "加利利海",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390698,
+    "content_id": "390698",
     "reference_id": 25764,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迦得",
     "media_type": "Text",
     "index_reference": "迦得",
@@ -2075,13 +2115,14 @@
           "label": "悉帕",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390506,
+    "content_id": "390506",
     "reference_id": 25566,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迦勒",
     "media_type": "Text",
     "index_reference": "迦勒",
@@ -2130,13 +2171,14 @@
           "label": "約書亞",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390521,
+    "content_id": "390521",
     "reference_id": 25582,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迦勒底人",
     "media_type": "Text",
     "index_reference": "迦勒底人",
@@ -2253,13 +2295,14 @@
           "label": "吾珥",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390515,
+    "content_id": "390515",
     "reference_id": 25575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迦密",
     "media_type": "Text",
     "index_reference": "迦密",
@@ -2322,13 +2365,14 @@
           "label": "死海",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390511,
+    "content_id": "390511",
     "reference_id": 25571,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迦拿",
     "media_type": "Text",
     "index_reference": "迦拿",
@@ -2396,13 +2440,36 @@
           "label": "十二門徒",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cana",
+          "type": "place",
+          "preferred_label": "Cana",
+          "confidence": 0.8221,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Canaan",
+          "type": "person",
+          "preferred_label": "Canaan",
+          "confidence": 0.819,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaan",
+          "confidence": 0.819,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390512,
+    "content_id": "390512",
     "reference_id": 25572,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迦南",
     "media_type": "Text",
     "index_reference": "迦南",
@@ -2913,13 +2980,29 @@
           "label": "應許之地",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Canaan",
+          "type": "person",
+          "preferred_label": "Canaan",
+          "confidence": 0.887,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaan",
+          "confidence": 0.887,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390702,
+    "content_id": "390702",
     "reference_id": 25768,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迦特",
     "media_type": "Text",
     "index_reference": "迦特",
@@ -2996,13 +3079,14 @@
           "label": "非利士人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390787,
+    "content_id": "390787",
     "reference_id": 25857,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "家",
     "media_type": "Text",
     "index_reference": "家",
@@ -3207,13 +3291,22 @@
           "label": "房子",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.8865,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390785,
+    "content_id": "390785",
     "reference_id": 25855,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "家—後裔_民族",
     "media_type": "Text",
     "index_reference": "家—後裔_民族",
@@ -3244,13 +3337,14 @@
           "label": "以色列國",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390665,
+    "content_id": "390665",
     "reference_id": 25731,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "家庭",
     "media_type": "Text",
     "index_reference": "家庭",
@@ -3389,13 +3483,14 @@
           "label": "房子",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390791,
+    "content_id": "390791",
     "reference_id": 25861,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "假冒為善的人",
     "media_type": "Text",
     "index_reference": "假冒為善的人",
@@ -3573,13 +3668,14 @@
           "end_ref_usfm": "MAT 6:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390662,
+    "content_id": "390662",
     "reference_id": 25728,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "假神",
     "media_type": "Text",
     "index_reference": "假神",
@@ -3928,13 +4024,14 @@
           "label": "敬拜",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390663,
+    "content_id": "390663",
     "reference_id": 25729,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "假先知",
     "media_type": "Text",
     "index_reference": "假先知",
@@ -4049,7 +4146,8 @@
           "label": "先知",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

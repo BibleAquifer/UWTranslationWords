@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467176,
+    "content_id": "467176",
     "reference_id": 26039,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naaman",
     "media_type": "Text",
     "index_reference": "naaman",
@@ -65,13 +65,43 @@
           "label": "Prophète",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Syria",
+          "type": "group",
+          "preferred_label": "Araméen",
+          "confidence": 0.5315,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467177,
+    "content_id": "467177",
     "reference_id": 26040,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nahor",
     "media_type": "Text",
     "index_reference": "nahor",
@@ -204,13 +234,43 @@
           "label": "Rebecca",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahor.2",
+          "type": "person",
+          "preferred_label": "Nachor",
+          "confidence": 0.8095,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nahor",
+          "type": "person",
+          "preferred_label": "Nachor",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Nahor",
+          "type": "place",
+          "preferred_label": "Nahor",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraham",
+          "confidence": 0.5205,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467178,
+    "content_id": "467178",
     "reference_id": 26041,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nahum",
     "media_type": "Text",
     "index_reference": "nahum",
@@ -255,13 +315,43 @@
           "label": "Ninive",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahum.2",
+          "type": "person",
+          "preferred_label": "Nahum",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Elkosh",
+          "type": "place",
+          "preferred_label": "Elkosch",
+          "confidence": 0.631,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "Ninive",
+          "confidence": 0.562,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.5395,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467180,
+    "content_id": "467180",
     "reference_id": 26043,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nathan",
     "media_type": "Text",
     "index_reference": "nathan",
@@ -342,13 +432,64 @@
           "label": "Urie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 0.61,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elnathan.3",
+          "type": "person",
+          "preferred_label": "Elnathan",
+          "confidence": 0.577,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elnathan.4",
+          "type": "person",
+          "preferred_label": "Elnathan",
+          "confidence": 0.577,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elnathan.2",
+          "type": "person",
+          "preferred_label": "Elnathan",
+          "confidence": 0.577,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467181,
+    "content_id": "467181",
     "reference_id": 26044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nation",
     "media_type": "Text",
     "index_reference": "nation",
@@ -1171,13 +1312,22 @@
           "label": "Rome",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "nation; peuple",
+          "confidence": 0.6153,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467183,
+    "content_id": "467183",
     "reference_id": 26046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazaréen",
     "media_type": "Text",
     "index_reference": "nazaréen",
@@ -1240,13 +1390,22 @@
           "label": "Zacharie (AT)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Nazirite",
+          "type": "group",
+          "preferred_label": "Nazirites",
+          "confidence": 0.5012,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467182,
+    "content_id": "467182",
     "reference_id": 26045,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazareth",
     "media_type": "Text",
     "index_reference": "nazareth",
@@ -1501,13 +1660,22 @@
           "label": "Marie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Nazareth",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 32922,
+    "content_id": "32922",
     "reference_id": 25551,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "né de nouveau",
     "media_type": "Text",
     "index_reference": "né de nouveau",
@@ -1648,13 +1816,22 @@
           "label": "Jean 3.6 (#4)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:NewWorld",
+          "type": "keyterm",
+          "preferred_label": "nouvelle naissance",
+          "confidence": 0.8876,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467184,
+    "content_id": "467184",
     "reference_id": 26047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nébucadnetsar",
     "media_type": "Text",
     "index_reference": "nébucadnetsar",
@@ -1766,13 +1943,22 @@
           "label": "Mischaël",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "Nebucadnetsar",
+          "confidence": 0.7089,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467185,
+    "content_id": "467185",
     "reference_id": 26048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Néguev",
     "media_type": "Text",
     "index_reference": "néguev",
@@ -1904,13 +2090,22 @@
           "label": "Siméon",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Negeb",
+          "type": "place",
+          "preferred_label": "Negev",
+          "confidence": 0.6878,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467186,
+    "content_id": "467186",
     "reference_id": 26049,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Néhémie",
     "media_type": "Text",
     "index_reference": "néhémie",
@@ -2014,13 +2209,36 @@
           "label": "Jérusalem",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 0.7667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467362,
+    "content_id": "467362",
     "reference_id": 26247,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neige",
     "media_type": "Text",
     "index_reference": "neige",
@@ -2086,13 +2304,14 @@
           "label": "Liban",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467179,
+    "content_id": "467179",
     "reference_id": 26042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nephtali",
     "media_type": "Text",
     "index_reference": "nephtali",
@@ -2189,13 +2408,29 @@
           "label": "Jacob",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Naphtali",
+          "type": "person",
+          "preferred_label": "Nephthali",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Naphtali",
+          "type": "group",
+          "preferred_label": "Nephthali",
+          "confidence": 0.6797,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467189,
+    "content_id": "467189",
     "reference_id": 26053,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nil",
     "media_type": "Text",
     "index_reference": "nil",
@@ -2365,13 +2600,22 @@
           "label": "Moïse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nile",
+          "type": "place",
+          "preferred_label": "Nile River",
+          "confidence": 0.937,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467190,
+    "content_id": "467190",
     "reference_id": 26054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ninive",
     "media_type": "Text",
     "index_reference": "ninive",
@@ -2493,13 +2737,29 @@
           "label": "Repentir",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "Ninive",
+          "confidence": 0.925,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Nineveh",
+          "type": "group",
+          "preferred_label": "Ninive",
+          "confidence": 0.675,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467192,
+    "content_id": "467192",
     "reference_id": 26056,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Noble",
     "media_type": "Text",
     "index_reference": "noble",
@@ -2629,13 +2889,14 @@
           "end_ref_usfm": "PSA 16:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 467191,
+    "content_id": "467191",
     "reference_id": 26055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Noé",
     "media_type": "Text",
     "index_reference": "noé",
@@ -2924,13 +3185,22 @@
           "label": "Descendant",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 0.9009,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466646,
+    "content_id": "466646",
     "reference_id": 25467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nommer",
     "media_type": "Text",
     "index_reference": "nommer",
@@ -3558,13 +3828,29 @@
           "end_ref_usfm": "NUM 3:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naam",
+          "type": "person",
+          "preferred_label": "Naam",
+          "confidence": 0.8351,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Name",
+          "type": "keyterm",
+          "preferred_label": "nom",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 466729,
+    "content_id": "466729",
     "reference_id": 25558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nouveau marié",
     "media_type": "Text",
     "index_reference": "nouveau marié",
@@ -3684,13 +3970,14 @@
           "label": "Mariéé",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467188,
+    "content_id": "467188",
     "reference_id": 26052,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nouvelle lune",
     "media_type": "Text",
     "index_reference": "nouvelle lune",
@@ -3777,6 +4064,15 @@
           "resource_code": "Unknown",
           "label": "Moutons",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:NewMoonFestival",
+          "type": "keyterm",
+          "preferred_label": "néoménies",
+          "confidence": 0.5385,
+          "match_method": "scored"
         }
       ]
     }

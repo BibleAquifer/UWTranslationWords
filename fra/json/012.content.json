@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467008,
+    "content_id": "467008",
     "reference_id": 25862,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iconium",
     "media_type": "Text",
     "index_reference": "iconium",
@@ -88,13 +88,22 @@
           "label": "Pierre",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "Icone",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467009,
+    "content_id": "467009",
     "reference_id": 25863,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Image",
     "media_type": "Text",
     "index_reference": "image",
@@ -276,13 +285,36 @@
           "label": "Image de Dieu; Image",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Teraphim",
+          "type": "deity",
+          "preferred_label": "théraphim",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:GravenImage",
+          "type": "realia",
+          "preferred_label": "Graven Image",
+          "confidence": 0.6296,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Image",
+          "type": "realia",
+          "preferred_label": "Image",
+          "confidence": 0.6278,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467010,
+    "content_id": "467010",
     "reference_id": 25864,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Image de Dieu; Image",
     "media_type": "Text",
     "index_reference": "image de dieu; image",
@@ -367,13 +399,14 @@
           "label": "Fils de Dieu",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466904,
+    "content_id": "466904",
     "reference_id": 25753,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Immoralité sexuelle",
     "media_type": "Text",
     "index_reference": "immoralité sexuelle",
@@ -682,13 +715,14 @@
           "label": "Prostitué",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467396,
+    "content_id": "467396",
     "reference_id": 26282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Impôts",
     "media_type": "Text",
     "index_reference": "impôts",
@@ -984,13 +1018,29 @@
           "label": "Péché",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:PollTax",
+          "type": "keyterm",
+          "preferred_label": "taxe",
+          "confidence": 0.8112,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:TributeTax",
+          "type": "keyterm",
+          "preferred_label": "taxe",
+          "confidence": 0.8112,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 466882,
+    "content_id": "466882",
     "reference_id": 25727,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Infidèle",
     "media_type": "Text",
     "index_reference": "infidèle",
@@ -1124,13 +1174,22 @@
           "label": "Fidèle",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Unfaithful",
+          "type": "keyterm",
+          "preferred_label": "être infidèle",
+          "confidence": 0.78,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467014,
+    "content_id": "467014",
     "reference_id": 25868,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iniquité",
     "media_type": "Text",
     "index_reference": "iniquité",
@@ -1414,13 +1473,22 @@
           "label": "Transgression",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Ardour",
+          "type": "keyterm",
+          "preferred_label": "ardeur",
+          "confidence": 0.5205,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467015,
+    "content_id": "467015",
     "reference_id": 25869,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Innocent",
     "media_type": "Text",
     "index_reference": "innocent",
@@ -1570,13 +1638,22 @@
           "label": "Culpabilité",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Innocence",
+          "type": "keyterm",
+          "preferred_label": "propreté",
+          "confidence": 0.5372,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466898,
+    "content_id": "466898",
     "reference_id": 25746,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Inondation",
     "media_type": "Text",
     "index_reference": "inondation",
@@ -1745,13 +1822,22 @@
           "label": "Noé",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Foundation",
+          "type": "realia",
+          "preferred_label": "Foundation",
+          "confidence": 0.5408,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467017,
+    "content_id": "467017",
     "reference_id": 25871,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Instuire",
     "media_type": "Text",
     "index_reference": "instuire",
@@ -2081,13 +2167,22 @@
           "label": "décret, édit, publier un décret",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Instruction",
+          "type": "keyterm",
+          "preferred_label": "Instruction",
+          "confidence": 0.5027,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467018,
+    "content_id": "467018",
     "reference_id": 25872,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Intégrité",
     "media_type": "Text",
     "index_reference": "intégrité",
@@ -2196,13 +2291,14 @@
           "label": "Joseph (AT)",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 32927,
+    "content_id": "32927",
     "reference_id": 25992,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "intendant",
     "media_type": "Text",
     "index_reference": "intendant",
@@ -2394,13 +2490,14 @@
           "label": "Serviteur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467019,
+    "content_id": "467019",
     "reference_id": 25873,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Interceder",
     "media_type": "Text",
     "index_reference": "interceder",
@@ -2466,13 +2563,14 @@
           "label": "Prier",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467020,
+    "content_id": "467020",
     "reference_id": 25874,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Interpreter",
     "media_type": "Text",
     "index_reference": "interpreter ",
@@ -2698,13 +2796,14 @@
           "label": "Vision",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466714,
+    "content_id": "466714",
     "reference_id": 25542,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Irréprochable",
     "media_type": "Text",
     "index_reference": "irréprochable",
@@ -2888,13 +2987,22 @@
           "end_ref_usfm": "GEN 17:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Unblemished",
+          "type": "keyterm",
+          "preferred_label": "irréprochable",
+          "confidence": 0.6774,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 467021,
+    "content_id": "467021",
     "reference_id": 25876,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaac",
     "media_type": "Text",
     "index_reference": "isaac",
@@ -3572,13 +3680,29 @@
           "label": "Sara",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaac",
+          "confidence": 0.981,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israël",
+          "confidence": 0.5571,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467023,
+    "content_id": "467023",
     "reference_id": 25878,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ismaël",
     "media_type": "Text",
     "index_reference": "ismaël",
@@ -3803,13 +3927,36 @@
           "label": "Sara",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 0.9143,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ishmael.5",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 0.6143,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ishmael",
+          "type": "group",
+          "preferred_label": "Ismaélite",
+          "confidence": 0.5806,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467024,
+    "content_id": "467024",
     "reference_id": 25879,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Israël",
     "media_type": "Text",
     "index_reference": "israël",
@@ -5782,13 +5929,36 @@
           "label": "Nation",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israël",
+          "confidence": 0.9938,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "Israël",
+          "confidence": 0.6187,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.5769,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467025,
+    "content_id": "467025",
     "reference_id": 25880,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Issacar",
     "media_type": "Text",
     "index_reference": "issacar",
@@ -5874,13 +6044,29 @@
           "label": "Lea",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Issachar",
+          "type": "person",
+          "preferred_label": "Issacar",
+          "confidence": 0.84,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Issachar",
+          "type": "group",
+          "preferred_label": "Issacar",
+          "confidence": 0.5567,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466844,
+    "content_id": "466844",
     "reference_id": 25684,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ivre",
     "media_type": "Text",
     "index_reference": "ivre ",
@@ -6036,7 +6222,8 @@
           "label": "Vin",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

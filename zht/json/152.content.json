@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390719,
+    "content_id": "390719",
     "reference_id": 25786,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "榮耀",
     "media_type": "Text",
     "index_reference": "榮耀",
@@ -1426,6 +1426,15 @@
           "resource_code": "UWTranslationWords",
           "label": "讚美",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Glory",
+          "type": "keyterm",
+          "preferred_label": "Glory",
+          "confidence": 0.8911,
+          "match_method": "embedding"
         }
       ]
     }

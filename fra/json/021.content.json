@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467268,
+    "content_id": "467268",
     "reference_id": 26147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabbah",
     "media_type": "Text",
     "index_reference": "rabbah",
@@ -57,13 +57,29 @@
           "label": "David",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "Ammon",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.56,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467269,
+    "content_id": "467269",
     "reference_id": 26148,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabbi",
     "media_type": "Text",
     "index_reference": "rabbi",
@@ -201,13 +217,14 @@
           "label": "Professeur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467270,
+    "content_id": "467270",
     "reference_id": 26149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rachel",
     "media_type": "Text",
     "index_reference": "rachel",
@@ -536,13 +553,22 @@
           "label": "Lea",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Rachel",
+          "confidence": 0.9739,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467281,
+    "content_id": "467281",
     "reference_id": 26161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Racheter",
     "media_type": "Text",
     "index_reference": "racheter",
@@ -837,13 +863,22 @@
           "label": "Rançon",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Redeem",
+          "type": "keyterm",
+          "preferred_label": "acheter",
+          "confidence": 0.6902,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467272,
+    "content_id": "467272",
     "reference_id": 26151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahab",
     "media_type": "Text",
     "index_reference": "rahab",
@@ -911,13 +946,22 @@
           "label": "Prostitué",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahab",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467273,
+    "content_id": "467273",
     "reference_id": 26152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rama",
     "media_type": "Text",
     "index_reference": "rama",
@@ -1002,13 +1046,29 @@
           "label": "Benjamin",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ramah.2",
+          "type": "place",
+          "preferred_label": "Ramah",
+          "confidence": 0.6654,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ramah",
+          "type": "place",
+          "preferred_label": "Rama",
+          "confidence": 0.6308,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467274,
+    "content_id": "467274",
     "reference_id": 26153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ramoth",
     "media_type": "Text",
     "index_reference": "ramoth",
@@ -1120,13 +1180,29 @@
           "label": "Refuge",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ramoth-gilead",
+          "type": "place",
+          "preferred_label": "Ramoth en Galaad",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Remeth",
+          "type": "place",
+          "preferred_label": "Ramoth",
+          "confidence": 0.68,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467275,
+    "content_id": "467275",
     "reference_id": 26154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rançon",
     "media_type": "Text",
     "index_reference": "rançon",
@@ -1253,13 +1329,22 @@
           "label": "Racheter",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Ransom",
+          "type": "keyterm",
+          "preferred_label": "rançon",
+          "confidence": 0.5206,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467291,
+    "content_id": "467291",
     "reference_id": 26171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rapport",
     "media_type": "Text",
     "index_reference": "rapport",
@@ -1809,13 +1894,14 @@
           "end_ref_usfm": "LUK 8:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466912,
+    "content_id": "466912",
     "reference_id": 25761,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Réaliser",
     "media_type": "Text",
     "index_reference": "réaliser",
@@ -2255,13 +2341,14 @@
           "label": "Prophète",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467276,
+    "content_id": "467276",
     "reference_id": 26156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebecca",
     "media_type": "Text",
     "index_reference": "rebecca",
@@ -2507,13 +2594,22 @@
           "label": "Néguev",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebecca",
+          "confidence": 0.9871,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467277,
+    "content_id": "467277",
     "reference_id": 26157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebelle",
     "media_type": "Text",
     "index_reference": "rebelle",
@@ -2706,13 +2802,14 @@
           "label": "Gouverneur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466747,
+    "content_id": "466747",
     "reference_id": 25579,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Recensement",
     "media_type": "Text",
     "index_reference": "recensement",
@@ -2767,13 +2864,14 @@
           "label": "Rome",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467279,
+    "content_id": "467279",
     "reference_id": 26159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Recevoir",
     "media_type": "Text",
     "index_reference": "recevoir",
@@ -4150,13 +4248,14 @@
           "label": "Sauver",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466971,
+    "content_id": "466971",
     "reference_id": 25823,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Récolte",
     "media_type": "Text",
     "index_reference": "récolte",
@@ -4524,13 +4623,14 @@
           "label": "La bonnes nouvelle",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467296,
+    "content_id": "467296",
     "reference_id": 26176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Récompense",
     "media_type": "Text",
     "index_reference": "récompense",
@@ -4770,13 +4870,14 @@
           "label": "Punir",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467280,
+    "content_id": "467280",
     "reference_id": 26160,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Réconcilier",
     "media_type": "Text",
     "index_reference": "réconcilier",
@@ -4879,13 +4980,22 @@
           "label": "Sacrificer",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Reconcile",
+          "type": "keyterm",
+          "preferred_label": "réconcilier",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467284,
+    "content_id": "467284",
     "reference_id": 26164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Refuge",
     "media_type": "Text",
     "index_reference": "refuge",
@@ -4961,13 +5071,36 @@
           "end_ref_usfm": "DEU 32:38"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:SeekfindRefuge",
+          "type": "keyterm",
+          "preferred_label": "se réfugier",
+          "confidence": 0.5944,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Fortress",
+          "type": "realia",
+          "preferred_label": "Fortress",
+          "confidence": 0.5357,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Refuge",
+          "type": "keyterm",
+          "preferred_label": "refuge",
+          "confidence": 0.5357,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 467286,
+    "content_id": "467286",
     "reference_id": 26166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Règne",
     "media_type": "Text",
     "index_reference": "règne",
@@ -5243,13 +5376,22 @@
           "label": "Royaume",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "régne",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467266,
+    "content_id": "467266",
     "reference_id": 26145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "reine",
     "media_type": "Text",
     "index_reference": "reine",
@@ -5363,13 +5505,22 @@
           "label": "Saba",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:QueenOfSheba",
+          "type": "person",
+          "preferred_label": "reine de Séba",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467112,
+    "content_id": "467112",
     "reference_id": 25972,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reins",
     "media_type": "Text",
     "index_reference": "reins",
@@ -5514,13 +5665,14 @@
           "label": "Ceindre",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467287,
+    "content_id": "467287",
     "reference_id": 26167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rejeter",
     "media_type": "Text",
     "index_reference": "rejeter",
@@ -5752,13 +5904,22 @@
           "end_ref_usfm": "JHN 12:50"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Reject",
+          "type": "keyterm",
+          "preferred_label": "rejeter",
+          "confidence": 0.6878,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 467289,
+    "content_id": "467289",
     "reference_id": 26169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Renommée",
     "media_type": "Text",
     "index_reference": "renommée",
@@ -5788,13 +5949,22 @@
           "label": "Honneur",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.507,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467290,
+    "content_id": "467290",
     "reference_id": 26170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Repentir",
     "media_type": "Text",
     "index_reference": "repentir",
@@ -6191,13 +6361,22 @@
           "label": "Péché",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Repent",
+          "type": "keyterm",
+          "preferred_label": "se repentir",
+          "confidence": 0.9613,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467278,
+    "content_id": "467278",
     "reference_id": 26158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Réprimander",
     "media_type": "Text",
     "index_reference": "réprimander",
@@ -6665,13 +6844,14 @@
           "label": "Exhorter",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467292,
+    "content_id": "467292",
     "reference_id": 26172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Restaurer",
     "media_type": "Text",
     "index_reference": "restaurer",
@@ -7017,13 +7197,14 @@
           "end_ref_usfm": "LEV 6:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 467288,
+    "content_id": "467288",
     "reference_id": 26168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reste",
     "media_type": "Text",
     "index_reference": "reste",
@@ -7123,13 +7304,14 @@
           "end_ref_usfm": "EZK 6:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 467293,
+    "content_id": "467293",
     "reference_id": 26173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Résurrection",
     "media_type": "Text",
     "index_reference": "résurrection",
@@ -7391,13 +7573,22 @@
           "end_ref_usfm": "JHN 5:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "résurrection",
+          "confidence": 0.981,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 467295,
+    "content_id": "467295",
     "reference_id": 26175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Révérence",
     "media_type": "Text",
     "index_reference": "révérence",
@@ -7476,13 +7667,14 @@
           "label": "Honneur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466797,
+    "content_id": "466797",
     "reference_id": 25633,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rideau",
     "media_type": "Text",
     "index_reference": "rideau",
@@ -7916,13 +8108,14 @@
           "label": "Temple, maison de Dieu",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467298,
+    "content_id": "467298",
     "reference_id": 26178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rimmon",
     "media_type": "Text",
     "index_reference": "rimmon",
@@ -7985,13 +8178,36 @@
           "label": "Syrie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Rimmon.3",
+          "type": "place",
+          "preferred_label": "Rock of Rimmon",
+          "confidence": 0.6889,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rimmon",
+          "type": "person",
+          "preferred_label": "Rimmon",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Rimmon",
+          "type": "deity",
+          "preferred_label": "Rimmon",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467299,
+    "content_id": "467299",
     "reference_id": 26179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Robe",
     "media_type": "Text",
     "index_reference": "robe",
@@ -8256,13 +8472,29 @@
           "label": "Tunique",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Robe",
+          "type": "realia",
+          "preferred_label": "Robe",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Cloak",
+          "type": "realia",
+          "preferred_label": "Cloak",
+          "confidence": 0.5929,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467285,
+    "content_id": "467285",
     "reference_id": 26165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roboam",
     "media_type": "Text",
     "index_reference": "roboam",
@@ -8325,13 +8557,36 @@
           "label": "Salomon",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Roboam",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Salomon",
+          "confidence": 0.607,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abijah.4",
+          "type": "person",
+          "preferred_label": "Abijah",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467086,
+    "content_id": "467086",
     "reference_id": 25943,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roi des Juifs",
     "media_type": "Text",
     "index_reference": "roi des juifs",
@@ -8505,13 +8760,22 @@
           "label": "Les sages",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.531,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467081,
+    "content_id": "467081",
     "reference_id": 25938,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roi royaume",
     "media_type": "Text",
     "index_reference": "roi royaume",
@@ -10278,13 +10542,14 @@
           "label": "Royaume de Dieu",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467301,
+    "content_id": "467301",
     "reference_id": 26181,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rome",
     "media_type": "Text",
     "index_reference": "rome",
@@ -10449,13 +10714,22 @@
           "label": "Pilate",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Rome",
+          "confidence": 0.9478,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467283,
+    "content_id": "467283",
     "reference_id": 26163,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roseau",
     "media_type": "Text",
     "index_reference": "roseau",
@@ -10595,13 +10869,22 @@
           "label": "Nil",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Reed",
+          "type": "flora",
+          "preferred_label": "Reed",
+          "confidence": 0.5522,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467302,
+    "content_id": "467302",
     "reference_id": 26182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royal",
     "media_type": "Text",
     "index_reference": "royal",
@@ -10702,13 +10985,14 @@
           "label": "reine",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467082,
+    "content_id": "467082",
     "reference_id": 25939,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royaume",
     "media_type": "Text",
     "index_reference": "royaume",
@@ -11019,13 +11303,22 @@
           "label": "Prêtre",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "régne",
+          "confidence": 0.6584,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467084,
+    "content_id": "467084",
     "reference_id": 25941,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royaume d'Israël",
     "media_type": "Text",
     "index_reference": "royaume d'israël",
@@ -11103,13 +11396,36 @@
           "label": "Samarie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israël",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Juda",
+          "confidence": 0.553,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Juda",
+          "confidence": 0.517,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467083,
+    "content_id": "467083",
     "reference_id": 25940,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royaume de Dieu",
     "media_type": "Text",
     "index_reference": "royaume de dieu",
@@ -11966,13 +12282,22 @@
           "label": "Règne",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "régne",
+          "confidence": 0.688,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467294,
+    "content_id": "467294",
     "reference_id": 26174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruben",
     "media_type": "Text",
     "index_reference": "ruben",
@@ -12106,13 +12431,22 @@
           "label": "Lea",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "Ruben",
+          "confidence": 0.9765,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467303,
+    "content_id": "467303",
     "reference_id": 26183,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruine",
     "media_type": "Text",
     "index_reference": "ruine",
@@ -12226,13 +12560,14 @@
           "label": "Devaster ",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467304,
+    "content_id": "467304",
     "reference_id": 26185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruth",
     "media_type": "Text",
     "index_reference": "ruth",
@@ -12367,6 +12702,15 @@
           "resource_code": "Unknown",
           "label": "Juge",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Ruth",
+          "confidence": 0.925,
+          "match_method": "scored"
         }
       ]
     }

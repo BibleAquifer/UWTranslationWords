@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196491,
+    "content_id": "196491",
     "reference_id": 26134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الفخر-إحساس إيجابي",
     "media_type": "Text",
     "index_reference": "الفخر-إحساس إيجابي",
@@ -33,13 +33,14 @@
           "label": "كبرياء",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196133,
+    "content_id": "196133",
     "reference_id": 25715,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الفرات",
     "media_type": "Text",
     "index_reference": "الفرات",
@@ -109,13 +110,22 @@
           "end_ref_usfm": "GEN 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Euphrates",
+          "type": "place",
+          "preferred_label": "ٱلْفرَاتِ",
+          "confidence": 0.5568,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 196452,
+    "content_id": "196452",
     "reference_id": 26088,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الفِرزي",
     "media_type": "Text",
     "index_reference": "الفِرزي",
@@ -224,13 +234,22 @@
           "label": "إله زائف",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "حِثًّا",
+          "confidence": 0.5301,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196461,
+    "content_id": "196461",
     "reference_id": 26100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الفلسطينيون",
     "media_type": "Text",
     "index_reference": "الفلسطينيون",
@@ -399,13 +418,22 @@
           "label": "بحر الملح",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "فِلِشْتِيم",
+          "confidence": 0.524,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196440,
+    "content_id": "196440",
     "reference_id": 26074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فاران",
     "media_type": "Text",
     "index_reference": "فاران",
@@ -493,13 +521,22 @@
           "label": "سيناء",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Paran",
+          "type": "place",
+          "preferred_label": "فَارَانَ",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 195948,
+    "content_id": "195948",
     "reference_id": 25495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فأْس",
     "media_type": "Text",
     "index_reference": "فأْس",
@@ -545,13 +582,36 @@
           "end_ref_usfm": "1KI 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Festus",
+          "type": "person",
+          "preferred_label": "فَسْتوسَ",
+          "confidence": 0.8405,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pallu",
+          "type": "person",
+          "preferred_label": "فَلّو",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pildash",
+          "type": "person",
+          "preferred_label": "فِلْدَاشَ",
+          "confidence": 0.813,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 196047,
+    "content_id": "196047",
     "reference_id": 25615,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فاسد",
     "media_type": "Text",
     "index_reference": "فاسد",
@@ -737,13 +797,14 @@
           "label": "شرير",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144822,
+    "content_id": "144822",
     "reference_id": 26246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فخ",
     "media_type": "Text",
     "index_reference": "فخ",
@@ -956,13 +1017,14 @@
           "label": "تجربة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196436,
+    "content_id": "196436",
     "reference_id": 26069,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فدان آرام",
     "media_type": "Text",
     "index_reference": "فدان آرام",
@@ -1108,13 +1170,22 @@
           "label": "سوريا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Paddan-aram",
+          "type": "place",
+          "preferred_label": "ٱلْأَرَامِيِّ",
+          "confidence": 0.5993,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196510,
+    "content_id": "196510",
     "reference_id": 26154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فدية",
     "media_type": "Text",
     "index_reference": "فدية",
@@ -1241,13 +1312,14 @@
           "label": "يفدي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196315,
+    "content_id": "196315",
     "reference_id": 25923,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فرح",
     "media_type": "Text",
     "index_reference": "فرح",
@@ -2349,13 +2421,14 @@
           "end_ref_usfm": "1TH 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196254,
+    "content_id": "196254",
     "reference_id": 25851,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فُرْسان",
     "media_type": "Text",
     "index_reference": "فُرْسان",
@@ -2476,13 +2549,36 @@
           "label": "حصان",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Paran",
+          "type": "place",
+          "preferred_label": "فَارَانَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:ParanMount",
+          "type": "place",
+          "preferred_label": "فَارَانَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Pharpar",
+          "type": "place",
+          "preferred_label": "فَرْفَر",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196456,
+    "content_id": "196456",
     "reference_id": 26094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فرعون",
     "media_type": "Text",
     "index_reference": "فرعون",
@@ -3611,13 +3707,22 @@
           "label": "ملك",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.5587,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196478,
+    "content_id": "196478",
     "reference_id": 26120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فَريسَة",
     "media_type": "Text",
     "index_reference": "فَريسَة",
@@ -3651,13 +3756,141 @@
           "end_ref_usfm": "JER 12:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pispa",
+          "type": "person",
+          "preferred_label": "فِسْفَة",
+          "confidence": 0.883,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Pathros",
+          "type": "place",
+          "preferred_label": "فَتْروسَ",
+          "confidence": 0.872,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Phrygia",
+          "type": "place",
+          "preferred_label": "فَرِيجِيَّةَ",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pekahiah",
+          "type": "person",
+          "preferred_label": "فَقَحْيَا",
+          "confidence": 0.842,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rizpah",
+          "type": "person",
+          "preferred_label": "رِصْفَة",
+          "confidence": 0.8364,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Parshandatha",
+          "type": "person",
+          "preferred_label": "فَرْشَنْدَاثَا",
+          "confidence": 0.8345,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Peninnah",
+          "type": "person",
+          "preferred_label": "فَنِنَّة",
+          "confidence": 0.8293,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shiphrah",
+          "type": "person",
+          "preferred_label": "شِفْرَة",
+          "confidence": 0.8247,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Zeus",
+          "type": "deity",
+          "preferred_label": "زَفْسَ",
+          "confidence": 0.8203,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Piram",
+          "type": "person",
+          "preferred_label": "فِرْآمَ",
+          "confidence": 0.8125,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aspatha",
+          "type": "person",
+          "preferred_label": "أَسْفَاثَا",
+          "confidence": 0.8083,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashvath",
+          "type": "person",
+          "preferred_label": "عَشْة",
+          "confidence": 0.8065,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "رِفْقَة",
+          "confidence": 0.8037,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah",
+          "type": "person",
+          "preferred_label": "فَلَطْيَا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.2",
+          "type": "person",
+          "preferred_label": "فَلَطْيَا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.3",
+          "type": "person",
+          "preferred_label": "فَلَطْيَا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.4",
+          "type": "person",
+          "preferred_label": "فَلَطْيَا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zeruah",
+          "type": "person",
+          "preferred_label": "صَروعَة",
+          "confidence": 0.8007,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 196457,
+    "content_id": "196457",
     "reference_id": 26095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فريسي",
     "media_type": "Text",
     "index_reference": "فريسي",
@@ -4266,13 +4499,22 @@
           "label": "صَّدُّوقِيِّ",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.5332,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196576,
+    "content_id": "196576",
     "reference_id": 26237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فضة",
     "media_type": "Text",
     "index_reference": "فضة",
@@ -5197,13 +5439,14 @@
           "label": "هيكل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196151,
+    "content_id": "196151",
     "reference_id": 25734,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فضل (نعمة، قبول)",
     "media_type": "Text",
     "index_reference": "فضل (نعمة، قبول)",
@@ -5645,13 +5888,29 @@
           "end_ref_usfm": "1SA 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Raamah",
+          "type": "person",
+          "preferred_label": "رَعْمَة",
+          "confidence": 0.8002,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Raamah",
+          "type": "place",
+          "preferred_label": "رَعْمَة",
+          "confidence": 0.8002,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 196646,
+    "content_id": "196646",
     "reference_id": 26328,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فطير (خبز غير مختمر)",
     "media_type": "Text",
     "index_reference": "فطير (خبز غير مختمر)",
@@ -5879,13 +6138,14 @@
           "label": "خميرة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196449,
+    "content_id": "196449",
     "reference_id": 26085,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فَغُور",
     "media_type": "Text",
     "index_reference": "فَغُور",
@@ -5949,13 +6209,22 @@
           "label": "عبادة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Peor",
+          "type": "place",
+          "preferred_label": "فَغورَ",
+          "confidence": 0.5238,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144783,
+    "content_id": "144783",
     "reference_id": 26020,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فِكر",
     "media_type": "Text",
     "index_reference": "فِكر",
@@ -6340,13 +6609,14 @@
           "label": "النَّفْس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196460,
+    "content_id": "196460",
     "reference_id": 26099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فلسطين",
     "media_type": "Text",
     "index_reference": "فلسطين",
@@ -6402,13 +6672,22 @@
           "label": "الفلسطينيون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "ٱلْفِلِسْطِينِيِّينَ",
+          "confidence": 0.5877,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 195928,
+    "content_id": "195928",
     "reference_id": 25474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فُلْك",
     "media_type": "Text",
     "index_reference": "فُلْك",
@@ -6624,13 +6903,106 @@
           "label": "تابوت العهد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Pekah",
+          "type": "person",
+          "preferred_label": "فَقْح",
+          "confidence": 0.897,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pekahiah",
+          "type": "person",
+          "preferred_label": "فَقَحْيَا",
+          "confidence": 0.8358,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "دِمَشْقَ",
+          "confidence": 0.8214,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shilshah",
+          "type": "person",
+          "preferred_label": "شِلْشَة",
+          "confidence": 0.8207,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "زِلْفَةَ",
+          "confidence": 0.8152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pispa",
+          "type": "person",
+          "preferred_label": "فِسْفَة",
+          "confidence": 0.8109,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rezeph",
+          "type": "place",
+          "preferred_label": "رَصْفَ",
+          "confidence": 0.8077,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dophkah",
+          "type": "place",
+          "preferred_label": "دفْقَةَ",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashvath",
+          "type": "person",
+          "preferred_label": "عَشْة",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah",
+          "type": "person",
+          "preferred_label": "فَلَطْيَا",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.2",
+          "type": "person",
+          "preferred_label": "فَلَطْيَا",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.3",
+          "type": "person",
+          "preferred_label": "فَلَطْيَا",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.4",
+          "type": "person",
+          "preferred_label": "فَلَطْيَا",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196474,
+    "content_id": "196474",
     "reference_id": 26115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فوطيفار",
     "media_type": "Text",
     "index_reference": "فوطيفار",
@@ -6692,13 +7064,22 @@
           "label": "فرعون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Potiphar",
+          "type": "person",
+          "preferred_label": "لِفوطِيفَارَ",
+          "confidence": 0.5353,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196266,
+    "content_id": "196266",
     "reference_id": 25866,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "في المسيح",
     "media_type": "Text",
     "index_reference": "في المسيح",
@@ -7716,13 +8097,22 @@
           "label": "السيد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "يَسوع",
+          "confidence": 0.5219,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144797,
+    "content_id": "144797",
     "reference_id": 26098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فِيلُبُّسُ الرسول",
     "media_type": "Text",
     "index_reference": "فِيلُبُّسُ الرسول",
@@ -7848,13 +8238,22 @@
           "label": "فيليبس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "فِيلبّسَ",
+          "confidence": 0.7358,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196459,
+    "content_id": "196459",
     "reference_id": 26097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فيلبي",
     "media_type": "Text",
     "index_reference": "فيلبي",
@@ -7955,13 +8354,22 @@
           "label": "سيلا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "فِيلِبِّي",
+          "confidence": 0.5388,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196458,
+    "content_id": "196458",
     "reference_id": 26096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فيليبس",
     "media_type": "Text",
     "index_reference": "فيليبس",
@@ -8081,13 +8489,22 @@
           "label": "فيليبس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "فِيلبّسَ",
+          "confidence": 0.7819,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196462,
+    "content_id": "196462",
     "reference_id": 26101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فينحاس",
     "media_type": "Text",
     "index_reference": "فينحاس",
@@ -8175,13 +8592,22 @@
           "label": "صموئيل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Phinehas",
+          "type": "person",
+          "preferred_label": "فِينَحَاس",
+          "confidence": 0.5522,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196463,
+    "content_id": "196463",
     "reference_id": 26102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فينيقية",
     "media_type": "Text",
     "index_reference": "فينيقية",
@@ -8255,6 +8681,15 @@
           "resource_code": "UWTranslationWords",
           "label": "صور",
           "language": "arb"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Phoenicia",
+          "type": "place",
+          "preferred_label": "فِينِيقِيَّةً",
+          "confidence": 0.5353,
+          "match_method": "scored"
         }
       ]
     }

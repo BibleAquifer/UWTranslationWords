@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179704,
+    "content_id": "179704",
     "reference_id": 25627,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "क्रूस",
     "media_type": "Text",
     "index_reference": "क्रूस",
@@ -189,13 +189,50 @@
           "label": "रोम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Cross",
+          "type": "realia",
+          "preferred_label": "Cross",
+          "confidence": 0.5982,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Cyrene",
+          "type": "place",
+          "preferred_label": "कुरेने",
+          "confidence": 0.5544,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Alexander",
+          "type": "person",
+          "preferred_label": "सिकन्दर",
+          "confidence": 0.5383,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rufus",
+          "type": "person",
+          "preferred_label": "रूफुस",
+          "confidence": 0.5248,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Cleopas",
+          "type": "person",
+          "preferred_label": "क्लियुपास",
+          "confidence": 0.5023,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179706,
+    "content_id": "179706",
     "reference_id": 25629,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "क्रूस पर चढ़ाना",
     "media_type": "Text",
     "index_reference": "क्रूस पर चढ़ाना",
@@ -520,13 +557,22 @@
           "label": "रोम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Cross",
+          "type": "realia",
+          "preferred_label": "Cross",
+          "confidence": 0.5541,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179703,
+    "content_id": "179703",
     "reference_id": 25626,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "क्रेते",
     "media_type": "Text",
     "index_reference": "क्रेते",
@@ -590,13 +636,29 @@
           "end_ref_usfm": "AMO 9:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Crete",
+          "type": "place",
+          "preferred_label": "क्रेते",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Cretan",
+          "type": "group",
+          "preferred_label": "क्रेती",
+          "confidence": 0.68,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 180209,
+    "content_id": "180209",
     "reference_id": 26150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "क्रोध",
     "media_type": "Text",
     "index_reference": "क्रोध",
@@ -650,13 +712,22 @@
           "label": "संयम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rizia",
+          "type": "person",
+          "preferred_label": "रिस्या",
+          "confidence": 0.8813,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180410,
+    "content_id": "180410",
     "reference_id": 26358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "क्रोध",
     "media_type": "Text",
     "index_reference": "क्रोध",
@@ -1046,6 +1117,15 @@
           "resource_code": "UWTranslationWords",
           "label": "पाप",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Rizia",
+          "type": "person",
+          "preferred_label": "रिस्या",
+          "confidence": 0.8813,
+          "match_method": "embedding"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 237824,
+    "content_id": "237824",
     "reference_id": 25691,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ecrom",
     "media_type": "Text",
     "index_reference": "ecrom",
@@ -86,13 +86,29 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ekron",
+          "type": "place",
+          "preferred_label": "Ecrom",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ashkelon",
+          "type": "place",
+          "preferred_label": "Asquelom",
+          "confidence": 0.557,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237821,
+    "content_id": "237821",
     "reference_id": 25688,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Éden",
     "media_type": "Text",
     "index_reference": "éden",
@@ -184,13 +200,22 @@
           "label": "Eva",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Eden.2",
+          "type": "place",
+          "preferred_label": "Garden of Eden",
+          "confidence": 0.8037,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237822,
+    "content_id": "237822",
     "reference_id": 25689,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Edom",
     "media_type": "Text",
     "index_reference": "edom",
@@ -350,13 +375,43 @@
           "label": "Profeta",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edom",
+          "confidence": 0.8095,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Edom",
+          "type": "group",
+          "preferred_label": "Edomites",
+          "confidence": 0.6381,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esaú",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Seir",
+          "type": "place",
+          "preferred_label": "Seir",
+          "confidence": 0.5262,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237839,
+    "content_id": "237839",
     "reference_id": 25706,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Éfeso",
     "media_type": "Text",
     "index_reference": "éfeso",
@@ -514,13 +569,22 @@
           "label": "Timóteo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Éfeso",
+          "confidence": 0.9636,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237840,
+    "content_id": "237840",
     "reference_id": 25707,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Éfode",
     "media_type": "Text",
     "index_reference": "éfode",
@@ -700,13 +764,22 @@
           "label": "Sacerdote",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Ephod",
+          "type": "realia",
+          "preferred_label": "Ephod",
+          "confidence": 0.6909,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237841,
+    "content_id": "237841",
     "reference_id": 25708,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efraim",
     "media_type": "Text",
     "index_reference": "efraim",
@@ -847,13 +920,36 @@
           "label": "Manassés",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Efraim",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ephraim",
+          "type": "group",
+          "preferred_label": "Efraim",
+          "confidence": 0.5452,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:EphraimGate",
+          "type": "place",
+          "preferred_label": "Ephraim Gate",
+          "confidence": 0.5346,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237842,
+    "content_id": "237842",
     "reference_id": 25709,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efrata",
     "media_type": "Text",
     "index_reference": "efrata",
@@ -929,13 +1025,43 @@
           "label": "Israel",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Belém",
+          "confidence": 0.8695,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ephrathah",
+          "type": "person",
+          "preferred_label": "Efrata",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Raquel",
+          "confidence": 0.632,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ephrathah",
+          "type": "group",
+          "preferred_label": "Ephrathites",
+          "confidence": 0.5315,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237823,
+    "content_id": "237823",
     "reference_id": 25690,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Egito",
     "media_type": "Text",
     "index_reference": "egito",
@@ -2618,13 +2744,29 @@
           "label": "Patriarcas",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Egito",
+          "confidence": 0.9942,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Egypt",
+          "type": "person",
+          "preferred_label": "Egito",
+          "confidence": 0.6029,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237835,
+    "content_id": "237835",
     "reference_id": 25702,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ein-Gedi",
     "media_type": "Text",
     "index_reference": "ein-gedi",
@@ -2709,13 +2851,22 @@
           "label": "Vinhedo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Engedi",
+          "type": "place",
+          "preferred_label": "En-Gedi",
+          "confidence": 0.6185,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237825,
+    "content_id": "237825",
     "reference_id": 25692,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elão",
     "media_type": "Text",
     "index_reference": "elão",
@@ -2782,13 +2933,22 @@
           "label": "Sem",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Elam",
+          "type": "place",
+          "preferred_label": "Elam",
+          "confidence": 0.5398,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237827,
+    "content_id": "237827",
     "reference_id": 25694,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleazar",
     "media_type": "Text",
     "index_reference": "eleazar",
@@ -2899,13 +3059,50 @@
           "label": "Poderoso",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eleazar.7",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eleazar.6",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eleazar",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eleazar.8",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237828,
+    "content_id": "237828",
     "reference_id": 25695,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleito",
     "media_type": "Text",
     "index_reference": "eleito",
@@ -3278,13 +3475,22 @@
           "label": "Cristo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Chosen",
+          "type": "keyterm",
+          "preferred_label": "escolhido",
+          "confidence": 0.7033,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237829,
+    "content_id": "237829",
     "reference_id": 25696,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eliaquim",
     "media_type": "Text",
     "index_reference": "eliaquim",
@@ -3365,13 +3571,57 @@
           "label": "Faraó",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eliakim.3",
+          "type": "person",
+          "preferred_label": "Eliaquim",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eliakim.4",
+          "type": "person",
+          "preferred_label": "Eliaquim",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eliakim",
+          "type": "person",
+          "preferred_label": "Eliaquim",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eliakim.2",
+          "type": "person",
+          "preferred_label": "Eliaquim",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Jeoaquim",
+          "confidence": 0.61,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah",
+          "type": "person",
+          "preferred_label": "Hilquias",
+          "confidence": 0.525,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237830,
+    "content_id": "237830",
     "reference_id": 25697,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elias",
     "media_type": "Text",
     "index_reference": "elias",
@@ -3619,13 +3869,36 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Elias",
+          "confidence": 0.9282,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "Elias",
+          "confidence": 0.6103,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "Elias",
+          "confidence": 0.6103,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237831,
+    "content_id": "237831",
     "reference_id": 25698,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eliseu",
     "media_type": "Text",
     "index_reference": "eliseu",
@@ -3687,13 +3960,36 @@
           "label": "Profeta",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Eliseu",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5052,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237999,
+    "content_id": "237999",
     "reference_id": 25866,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Em Cristo",
     "media_type": "Text",
     "index_reference": "em cristo",
@@ -4711,13 +5007,29 @@
           "label": "Senhor",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:InChrist",
+          "type": "keyterm",
+          "preferred_label": "em cristo",
+          "confidence": 0.7753,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.6299,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237833,
+    "content_id": "237833",
     "reference_id": 25700,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Encorajar",
     "media_type": "Text",
     "index_reference": "encorajar",
@@ -4741,13 +5053,14 @@
           "label": "Exortar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237781,
+    "content_id": "237781",
     "reference_id": 25648,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enganar",
     "media_type": "Text",
     "index_reference": "enganar",
@@ -5381,13 +5694,14 @@
           "end_ref_usfm": "LEV 19:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237836,
+    "content_id": "237836",
     "reference_id": 25703,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enoque",
     "media_type": "Text",
     "index_reference": "enoque",
@@ -5514,13 +5828,43 @@
           "label": "Sete",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Enoch.2",
+          "type": "person",
+          "preferred_label": "Enoque",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Enoch",
+          "type": "person",
+          "preferred_label": "Enoque",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hanoch.2",
+          "type": "person",
+          "preferred_label": "Enoque",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hanoch",
+          "type": "person",
+          "preferred_label": "Enoque",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238453,
+    "content_id": "238453",
     "reference_id": 26327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Entender",
     "media_type": "Text",
     "index_reference": "entender",
@@ -6584,13 +6928,22 @@
           "label": "Sábio",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Understanding",
+          "type": "keyterm",
+          "preferred_label": "Understanding",
+          "confidence": 0.8564,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 237696,
+    "content_id": "237696",
     "reference_id": 25561,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enterrar",
     "media_type": "Text",
     "index_reference": "enterrar",
@@ -6903,13 +7256,14 @@
           "label": "Túmulo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237789,
+    "content_id": "237789",
     "reference_id": 25656,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Entregar ao dano",
     "media_type": "Text",
     "index_reference": "entregar ao dano",
@@ -6918,13 +7272,14 @@
     "content": "<h1>entregar, passar, transferir, liberar</h1><h2>Definição:</h2><ul><li><p>O termo &quot;entregar&quot; ou “entregar a” ou “entregar para” pode significar passar alguém para um inimigo ou adversário, como quando Judas entregou Jesus aos líderes judeus ou quando Deus entregou Israel aos seus inimigos por causa de seu pecado repetido.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Quando &quot;entregar&quot; significa que uma pessoa ou pessoas entregam alguém a um inimigo, pode ser traduzido como “trair” ou “passar” ou “dar”. Quando &quot;entregar&quot; se refere a Deus entregando pessoas a um adversário, pode ser traduzido como &quot;passar&quot; ou &quot;dar&quot;.</p></li></ul><h2>Referências Bíblicas:</h2><h2>Exemplos de histórias bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1350, H2020, H2502, H3205, H3444, H3467, H4042, H4422, H4672, H5337, H5414, H5462, H6299, H6403, H6413, H6475, H6561, H7725, H7804, H8199, G03250, G05250, G06290, G10800, G13250, G15600, G16590, G18070, G19290, G26730, G30860, G38600, G45060, G49910, G50880, G54830</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238402,
+    "content_id": "238402",
     "reference_id": 26273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enxofre",
     "media_type": "Text",
     "index_reference": "enxofre",
@@ -7031,13 +7386,14 @@
           "label": "Sodoma",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238485,
+    "content_id": "238485",
     "reference_id": 26359,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Errado",
     "media_type": "Text",
     "index_reference": "errado",
@@ -7209,13 +7565,14 @@
           "end_ref_usfm": "MAT 20:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237843,
+    "content_id": "237843",
     "reference_id": 25710,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esaú",
     "media_type": "Text",
     "index_reference": "esaú",
@@ -7710,13 +8067,29 @@
           "label": "Rebeca",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esaú",
+          "confidence": 0.9413,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edom",
+          "confidence": 0.5797,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237882,
+    "content_id": "237882",
     "reference_id": 25749,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Escabelo",
     "media_type": "Text",
     "index_reference": "escabelo",
@@ -7786,13 +8159,22 @@
           "end_ref_usfm": "JAS 2:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Footstool",
+          "type": "realia",
+          "preferred_label": "Footstool",
+          "confidence": 0.538,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 237837,
+    "content_id": "237837",
     "reference_id": 25704,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Escravizar",
     "media_type": "Text",
     "index_reference": "escravizar",
@@ -7902,13 +8284,22 @@
           "label": "Servo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Slavery",
+          "type": "keyterm",
+          "preferred_label": "escravidão",
+          "confidence": 0.5116,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238333,
+    "content_id": "238333",
     "reference_id": 26204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Escriba",
     "media_type": "Text",
     "index_reference": "escriba",
@@ -8419,13 +8810,14 @@
           "label": "Fariseu",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238356,
+    "content_id": "238356",
     "reference_id": 26227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Escudo",
     "media_type": "Text",
     "index_reference": "escudo",
@@ -8535,13 +8927,22 @@
           "label": "Espírito",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Shield",
+          "type": "keyterm",
+          "preferred_label": "Shield",
+          "confidence": 0.5014,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237857,
+    "content_id": "237857",
     "reference_id": 25724,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esdras",
     "media_type": "Text",
     "index_reference": "esdras",
@@ -8757,13 +9158,22 @@
           "label": "Templo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 0.7585,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237584,
+    "content_id": "237584",
     "reference_id": 25446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esmolas",
     "media_type": "Text",
     "index_reference": "esmolas",
@@ -8863,13 +9273,14 @@
           "end_ref_usfm": "ACT 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238404,
+    "content_id": "238404",
     "reference_id": 26275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Espada",
     "media_type": "Text",
     "index_reference": "espada",
@@ -9304,13 +9715,14 @@
           "label": "Palavra de Deus",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237980,
+    "content_id": "237980",
     "reference_id": 25847,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esperança",
     "media_type": "Text",
     "index_reference": "esperança",
@@ -9931,13 +10343,29 @@
           "label": "Palavra de Deus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Hope",
+          "type": "keyterm",
+          "preferred_label": "hope",
+          "confidence": 0.6702,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Spain",
+          "type": "place",
+          "preferred_label": "Espanha",
+          "confidence": 0.514,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238428,
+    "content_id": "238428",
     "reference_id": 26299,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Espinho",
     "media_type": "Text",
     "index_reference": "espinho",
@@ -10095,13 +10523,22 @@
           "label": "Espírito",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Brier",
+          "type": "flora",
+          "preferred_label": "Brier",
+          "confidence": 0.6337,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238386,
+    "content_id": "238386",
     "reference_id": 26257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Espírito",
     "media_type": "Text",
     "index_reference": "espírito",
@@ -11225,13 +11662,29 @@
           "label": "Alma",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Spirit.2",
+          "type": "keyterm",
+          "preferred_label": "Spirit",
+          "confidence": 0.6587,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.5333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237977,
+    "content_id": "237977",
     "reference_id": 25844,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Espírito Santo",
     "media_type": "Text",
     "index_reference": "espírito santo",
@@ -12592,13 +13045,22 @@
           "label": "Santo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.7649,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238387,
+    "content_id": "238387",
     "reference_id": 26258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esplendor",
     "media_type": "Text",
     "index_reference": "esplendor",
@@ -12738,13 +13200,22 @@
           "label": "Majestade",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Majesty",
+          "type": "keyterm",
+          "preferred_label": "majesty",
+          "confidence": 0.6111,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238389,
+    "content_id": "238389",
     "reference_id": 26260,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Estatuto",
     "media_type": "Text",
     "index_reference": "estatuto",
@@ -12975,13 +13446,22 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Decree",
+          "type": "keyterm",
+          "preferred_label": "decree",
+          "confidence": 0.7154,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237643,
+    "content_id": "237643",
     "reference_id": 25507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Estéril",
     "media_type": "Text",
     "index_reference": "estéril",
@@ -13075,13 +13555,14 @@
           "end_ref_usfm": "GAL 4:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238390,
+    "content_id": "238390",
     "reference_id": 26261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Estêvão",
     "media_type": "Text",
     "index_reference": "estêvão",
@@ -13181,13 +13662,22 @@
           "label": "Pedra",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Stephen",
+          "type": "person",
+          "preferred_label": "Estevão",
+          "confidence": 0.8395,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237844,
+    "content_id": "237844",
     "reference_id": 25711,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esther",
     "media_type": "Text",
     "index_reference": "esther",
@@ -13243,13 +13733,29 @@
           "label": "Pérsia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "Ester",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mordecai.2",
+          "type": "person",
+          "preferred_label": "Mordecai",
+          "confidence": 0.513,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237883,
+    "content_id": "237883",
     "reference_id": 25750,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Estrangeiro",
     "media_type": "Text",
     "index_reference": "estrangeiro",
@@ -13565,13 +14071,14 @@
           "end_ref_usfm": "DEU 1:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237818,
+    "content_id": "237818",
     "reference_id": 25685,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Estrume",
     "media_type": "Text",
     "index_reference": "estrume",
@@ -13613,13 +14120,14 @@
           "label": "Portão",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237845,
+    "content_id": "237845",
     "reference_id": 25712,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eternidade",
     "media_type": "Text",
     "index_reference": "eternidade",
@@ -14388,13 +14896,29 @@
           "label": "Reinar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Always",
+          "type": "keyterm",
+          "preferred_label": "para a eternidade",
+          "confidence": 0.8145,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Life",
+          "type": "keyterm",
+          "preferred_label": "Life",
+          "confidence": 0.5189,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237846,
+    "content_id": "237846",
     "reference_id": 25713,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Etiópia",
     "media_type": "Text",
     "index_reference": "etiópia",
@@ -14487,13 +15011,29 @@
           "label": "Filipe",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ethiopia",
+          "type": "place",
+          "preferred_label": "Etiópia",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ethiopia",
+          "type": "group",
+          "preferred_label": "Ethiopians",
+          "confidence": 0.5656,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237848,
+    "content_id": "237848",
     "reference_id": 25715,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eufrates",
     "media_type": "Text",
     "index_reference": "eufrates",
@@ -14563,13 +15103,22 @@
           "end_ref_usfm": "GEN 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Euphrates",
+          "type": "place",
+          "preferred_label": "Rio Eufrates",
+          "confidence": 0.8133,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 237847,
+    "content_id": "237847",
     "reference_id": 25714,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eunuco",
     "media_type": "Text",
     "index_reference": "eunuco",
@@ -14635,13 +15184,14 @@
           "label": "Filipe",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237850,
+    "content_id": "237850",
     "reference_id": 25717,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eva",
     "media_type": "Text",
     "index_reference": "eva",
@@ -14696,13 +15246,22 @@
           "label": "Satanás",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "Eva",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237849,
+    "content_id": "237849",
     "reference_id": 25716,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Evangelista",
     "media_type": "Text",
     "index_reference": "evangelista",
@@ -14751,13 +15310,22 @@
           "label": "Espírito",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 0.5045,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237852,
+    "content_id": "237852",
     "reference_id": 25719,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Exaltar",
     "media_type": "Text",
     "index_reference": "exaltar",
@@ -14958,13 +15526,14 @@
           "label": "Adorar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237854,
+    "content_id": "237854",
     "reference_id": 25721,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Exílio",
     "media_type": "Text",
     "index_reference": "exílio",
@@ -15176,13 +15745,14 @@
           "label": "Reino de Judá",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237853,
+    "content_id": "237853",
     "reference_id": 25720,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Exortar",
     "media_type": "Text",
     "index_reference": "exortar",
@@ -15540,13 +16110,22 @@
           "end_ref_usfm": "1TH 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:AskFor",
+          "type": "keyterm",
+          "preferred_label": "rogar",
+          "confidence": 0.5905,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 237627,
+    "content_id": "237627",
     "reference_id": 25490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Expiação",
     "media_type": "Text",
     "index_reference": "expiação",
@@ -15652,13 +16231,22 @@
           "label": "Redimir",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Appease",
+          "type": "keyterm",
+          "preferred_label": "appease",
+          "confidence": 0.5752,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237711,
+    "content_id": "237711",
     "reference_id": 25576,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Expulsar",
     "media_type": "Text",
     "index_reference": "expulsar",
@@ -16146,13 +16734,14 @@
           "label": "Sortes",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238276,
+    "content_id": "238276",
     "reference_id": 26146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Extinguir",
     "media_type": "Text",
     "index_reference": "extinguir",
@@ -16225,13 +16814,14 @@
           "label": "Espírito Santo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237855,
+    "content_id": "237855",
     "reference_id": 25722,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Exultar",
     "media_type": "Text",
     "index_reference": "exultar",
@@ -16365,13 +16955,14 @@
           "label": "Louvar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237967,
+    "content_id": "237967",
     "reference_id": 25834,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezequias",
     "media_type": "Text",
     "index_reference": "ezequias",
@@ -16465,13 +17056,22 @@
           "label": "Senaqueribe",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Ezequias",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237856,
+    "content_id": "237856",
     "reference_id": 25723,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezequiel",
     "media_type": "Text",
     "index_reference": "ezequiel",
@@ -16521,6 +17121,22 @@
           "resource_code": "UWTranslationWords",
           "label": "Profeta",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Ezequiel",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5935,
+          "match_method": "scored"
         }
       ]
     }

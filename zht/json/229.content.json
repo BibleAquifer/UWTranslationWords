@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391185,
+    "content_id": "391185",
     "reference_id": 26264,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "爭鬥",
     "media_type": "Text",
     "index_reference": "爭鬥",
@@ -258,13 +258,14 @@
           "end_ref_usfm": "PSA 55:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390594,
+    "content_id": "390594",
     "reference_id": 25657,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拯救者",
     "media_type": "Text",
     "index_reference": "拯救者",
@@ -643,13 +644,29 @@
           "label": "救",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Savior",
+          "type": "keyterm",
+          "preferred_label": "Savior",
+          "confidence": 0.9136,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Rescue",
+          "type": "keyterm",
+          "preferred_label": "Rescue",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390802,
+    "content_id": "390802",
     "reference_id": 25872,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "正直",
     "media_type": "Text",
     "index_reference": "正直",
@@ -758,13 +775,22 @@
           "label": "約瑟（舊約）",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Honest",
+          "type": "keyterm",
+          "preferred_label": "Honest",
+          "confidence": 0.856,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390544,
+    "content_id": "390544",
     "reference_id": 25607,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "證實",
     "media_type": "Text",
     "index_reference": "證實",
@@ -873,6 +899,15 @@
           "resource_code": "UWTranslationWords",
           "label": "信任",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Proof",
+          "type": "keyterm",
+          "preferred_label": "Proof",
+          "confidence": 0.8205,
+          "match_method": "embedding"
         }
       ]
     }

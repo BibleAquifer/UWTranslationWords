@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 627055,
+    "content_id": "627055",
     "reference_id": 25763,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gabrieli",
     "media_type": "Text",
     "index_reference": "gabrieli",
@@ -93,13 +93,22 @@
           "label": "Zakaria AJ",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "Gabrieli",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627056,
+    "content_id": "627056",
     "reference_id": 25764,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gad",
     "media_type": "Text",
     "index_reference": "gad",
@@ -191,13 +200,22 @@
           "label": "Zilpa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "Gadi",
+          "confidence": 0.8769,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627057,
+    "content_id": "627057",
     "reference_id": 25765,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galatia",
     "media_type": "Text",
     "index_reference": "galatia",
@@ -303,13 +321,36 @@
           "label": "Paulo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "Galatia",
+          "confidence": 0.7818,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Dalmatia",
+          "type": "place",
+          "preferred_label": "Dalmatia",
+          "confidence": 0.5464,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Asia",
+          "type": "place",
+          "preferred_label": "Asia",
+          "confidence": 0.5017,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575495,
+    "content_id": "575495",
     "reference_id": 25766,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galilaya",
     "media_type": "Text",
     "index_reference": "galilaya",
@@ -785,13 +826,36 @@
           "label": "Bahari la Galilaya",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilaya",
+          "confidence": 0.9413,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Yudea",
+          "confidence": 0.5262,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Galilee",
+          "type": "group",
+          "preferred_label": "Galileans",
+          "confidence": 0.5228,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626962,
+    "content_id": "626962",
     "reference_id": 25583,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gari la farasi",
     "media_type": "Text",
     "index_reference": "gari la farasi",
@@ -960,13 +1024,22 @@
           "label": "Rumi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Chariot",
+          "type": "realia",
+          "preferred_label": "Chariot",
+          "confidence": 0.6527,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627058,
+    "content_id": "627058",
     "reference_id": 25768,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gathi",
     "media_type": "Text",
     "index_reference": "gathi",
@@ -1043,13 +1116,22 @@
           "label": "Wafilisti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gath",
+          "type": "place",
+          "preferred_label": "Gathi",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575509,
+    "content_id": "575509",
     "reference_id": 25799,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gavana",
     "media_type": "Text",
     "index_reference": "gavana",
@@ -1395,13 +1477,14 @@
           "label": "Rumi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627059,
+    "content_id": "627059",
     "reference_id": 25769,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gaza",
     "media_type": "Text",
     "index_reference": "gaza",
@@ -1477,13 +1560,22 @@
           "label": "Wafilisti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gaza",
+          "type": "place",
+          "preferred_label": "Gaza",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627062,
+    "content_id": "627062",
     "reference_id": 25774,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gerari",
     "media_type": "Text",
     "index_reference": "gerari",
@@ -1582,13 +1674,22 @@
           "label": "Wafilisti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gerar",
+          "type": "place",
+          "preferred_label": "Gerari",
+          "confidence": 0.9273,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627063,
+    "content_id": "627063",
     "reference_id": 25775,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Geshuri",
     "media_type": "Text",
     "index_reference": "geshuri",
@@ -1651,13 +1752,29 @@
           "label": "Aramu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Geshur",
+          "type": "group",
+          "preferred_label": "Geshurites",
+          "confidence": 0.6783,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Geshur",
+          "type": "place",
+          "preferred_label": "Wageshuri",
+          "confidence": 0.6426,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575499,
+    "content_id": "575499",
     "reference_id": 25776,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gethsemane",
     "media_type": "Text",
     "index_reference": "gethsemane",
@@ -1701,13 +1818,36 @@
           "label": " Mlima wa Mizeituni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gethsemane",
+          "type": "place",
+          "preferred_label": "Gethsemane",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "Be a Disciple",
+          "confidence": 0.589,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:OliveTree",
+          "type": "flora",
+          "preferred_label": "Olive Tree",
+          "confidence": 0.58,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575779,
+    "content_id": "575779",
     "reference_id": 26358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ghadhabu",
     "media_type": "Text",
     "index_reference": "ghadhabu",
@@ -2098,13 +2238,14 @@
           "label": "dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575717,
+    "content_id": "575717",
     "reference_id": 26263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ghala",
     "media_type": "Text",
     "index_reference": "ghala",
@@ -2212,13 +2353,22 @@
           "label": "Hekalu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Barn",
+          "type": "realia",
+          "preferred_label": "Barn",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575481,
+    "content_id": "575481",
     "reference_id": 25746,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gharika",
     "media_type": "Text",
     "index_reference": "gharika",
@@ -2387,13 +2537,14 @@
           "label": "Nuhu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627065,
+    "content_id": "627065",
     "reference_id": 25778,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gibea",
     "media_type": "Text",
     "index_reference": "gibea",
@@ -2449,13 +2600,22 @@
           "label": "Yerusalemu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gibeah.2",
+          "type": "place",
+          "preferred_label": "Gibeah",
+          "confidence": 0.7428,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627066,
+    "content_id": "627066",
     "reference_id": 25779,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gibeoni",
     "media_type": "Text",
     "index_reference": "gibeoni",
@@ -2517,13 +2677,29 @@
           "label": "Yerusalemu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gibeon",
+          "type": "place",
+          "preferred_label": "Gibeoni",
+          "confidence": 0.9111,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Gibeon",
+          "type": "group",
+          "preferred_label": "Gibeonites",
+          "confidence": 0.6084,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627067,
+    "content_id": "627067",
     "reference_id": 25780,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gideoni",
     "media_type": "Text",
     "index_reference": "gideoni",
@@ -2599,13 +2775,22 @@
           "label": "Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "Gideoni",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627068,
+    "content_id": "627068",
     "reference_id": 25781,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gileadi",
     "media_type": "Text",
     "index_reference": "gileadi",
@@ -2723,13 +2908,22 @@
           "label": "Reubeni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "Gileadi",
+          "confidence": 0.9077,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627069,
+    "content_id": "627069",
     "reference_id": 25782,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gilgali",
     "media_type": "Text",
     "index_reference": "gilgali",
@@ -2798,13 +2992,29 @@
           "label": "Mto wa Yordani",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gilgal.2",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.614,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Gilgal.3",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.614,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627070,
+    "content_id": "627070",
     "reference_id": 25783,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gird",
     "media_type": "Text",
     "index_reference": "gird",
@@ -2918,13 +3128,14 @@
           "label": "Viuno",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575505,
+    "content_id": "575505",
     "reference_id": 25792,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Golgotha",
     "media_type": "Text",
     "index_reference": "golgotha",
@@ -2967,13 +3178,22 @@
           "label": " Mlima wa Mizeituni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Golgotha",
+          "type": "place",
+          "preferred_label": "Golgotha",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627074,
+    "content_id": "627074",
     "reference_id": 25793,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Goliathi",
     "media_type": "Text",
     "index_reference": "goliathi",
@@ -3022,13 +3242,36 @@
           "label": "Wafilisti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Goliath",
+          "type": "person",
+          "preferred_label": "Goliathi",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Wafilisti",
+          "confidence": 0.6115,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Gath",
+          "type": "place",
+          "preferred_label": "Gathi",
+          "confidence": 0.5965,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627302,
+    "content_id": "627302",
     "reference_id": 26205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gombo",
     "media_type": "Text",
     "index_reference": "gombo",
@@ -3198,13 +3441,22 @@
           "label": "Neno la Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.698,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575506,
+    "content_id": "575506",
     "reference_id": 25794,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gomora",
     "media_type": "Text",
     "index_reference": "gomora",
@@ -3352,13 +3604,29 @@
           "label": "Samaki wa chumvi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gomorrah",
+          "type": "place",
+          "preferred_label": "Gomora",
+          "confidence": 0.9529,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodoma",
+          "confidence": 0.7279,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627075,
+    "content_id": "627075",
     "reference_id": 25797,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gosheni",
     "media_type": "Text",
     "index_reference": "gosheni",
@@ -3493,13 +3761,22 @@
           "label": "Mto Naili",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "Gosheni",
+          "confidence": 0.8316,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575515,
+    "content_id": "575515",
     "reference_id": 25821,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gumu",
     "media_type": "Text",
     "index_reference": "gumu",
@@ -3701,7 +3978,8 @@
           "end_ref_usfm": "REV 2:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

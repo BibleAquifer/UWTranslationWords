@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390701,
+    "content_id": "390701",
     "reference_id": 25767,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "門",
     "media_type": "Text",
     "index_reference": "門",
@@ -696,13 +696,22 @@
           "end_ref_usfm": "DEU 21:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Door",
+          "type": "realia",
+          "preferred_label": "Door",
+          "confidence": 0.9237,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 391221,
+    "content_id": "391221",
     "reference_id": 26301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "門檻",
     "media_type": "Text",
     "index_reference": "門檻",
@@ -751,13 +760,14 @@
           "label": "帳棚",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390606,
+    "content_id": "390606",
     "reference_id": 25669,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "門徒",
     "media_type": "Text",
     "index_reference": "門徒",
@@ -2327,13 +2337,22 @@
           "label": "十二門徒",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "Be a Disciple",
+          "confidence": 0.5422,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390617,
+    "content_id": "390617",
     "reference_id": 25680,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "門柱",
     "media_type": "Text",
     "index_reference": "門柱",
@@ -2399,6 +2418,22 @@
           "resource_code": "UWTranslationWords",
           "label": "逾越節",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Doorstep",
+          "type": "realia",
+          "preferred_label": "Doorstep",
+          "confidence": 0.8157,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Door",
+          "type": "realia",
+          "preferred_label": "Door",
+          "confidence": 0.8089,
+          "match_method": "embedding"
         }
       ]
     }

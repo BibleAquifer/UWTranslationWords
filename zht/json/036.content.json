@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391149,
+    "content_id": "391149",
     "reference_id": 26227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "盾牌",
     "media_type": "Text",
     "index_reference": "盾牌",
@@ -111,6 +111,15 @@
           "resource_code": "UWTranslationWords",
           "label": "靈",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Shield",
+          "type": "keyterm",
+          "preferred_label": "Shield",
+          "confidence": 0.8196,
+          "match_method": "embedding"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 675937,
+    "content_id": "675937",
     "reference_id": 25885,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jafet",
     "media_type": "Text",
     "index_reference": "jafet",
@@ -107,13 +107,29 @@
           "label": "Sem",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Japheth",
+          "type": "person",
+          "preferred_label": "Yafet",
+          "confidence": 0.8736,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Sem",
+          "confidence": 0.5898,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675817,
+    "content_id": "675817",
     "reference_id": 25718,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jahat",
     "media_type": "Text",
     "index_reference": "jahat",
@@ -2288,13 +2304,43 @@
           "label": "Dosa",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jahath",
+          "type": "person",
+          "preferred_label": "Yahat",
+          "confidence": 0.8334,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.2",
+          "type": "person",
+          "preferred_label": "Yahat",
+          "confidence": 0.8334,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.3",
+          "type": "person",
+          "preferred_label": "Yahat",
+          "confidence": 0.8334,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.4",
+          "type": "person",
+          "preferred_label": "Yahat",
+          "confidence": 0.8334,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 675681,
+    "content_id": "675681",
     "reference_id": 25535,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jam",
     "media_type": "Text",
     "index_reference": "jam",
@@ -2472,13 +2518,14 @@
           "end_ref_usfm": "JHN 4:52"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675907,
+    "content_id": "675907",
     "reference_id": 25854,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jam",
     "media_type": "Text",
     "index_reference": "jam",
@@ -2941,13 +2988,14 @@
           "label": "Jam",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676108,
+    "content_id": "676108",
     "reference_id": 26127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Janji",
     "media_type": "Text",
     "index_reference": "janji",
@@ -3319,13 +3367,22 @@
           "label": "Perjanjian",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Promise",
+          "type": "keyterm",
+          "preferred_label": "janji",
+          "confidence": 0.9556,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675946,
+    "content_id": "675946",
     "reference_id": 25894,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jefta",
     "media_type": "Text",
     "index_reference": "jefta",
@@ -3401,13 +3458,22 @@
           "label": "Hakim",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jephthah",
+          "type": "person",
+          "preferred_label": "Yefta",
+          "confidence": 0.76,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675652,
+    "content_id": "675652",
     "reference_id": 25505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jelai",
     "media_type": "Text",
     "index_reference": "jelai",
@@ -3509,13 +3575,22 @@
           "label": "Menumbuk/mengirik",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Barley",
+          "type": "flora",
+          "preferred_label": "Barley",
+          "confidence": 0.556,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675728,
+    "content_id": "675728",
     "reference_id": 25590,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jemaat",
     "media_type": "Text",
     "index_reference": "jemaat",
@@ -4171,13 +4246,22 @@
           "label": "Kristen",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "jemaat",
+          "confidence": 0.9962,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676199,
+    "content_id": "676199",
     "reference_id": 26246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jerat",
     "media_type": "Text",
     "index_reference": "jerat",
@@ -4383,13 +4467,22 @@
           "label": "Mencobai",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Trap",
+          "type": "realia",
+          "preferred_label": "Trap",
+          "confidence": 0.641,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676203,
+    "content_id": "676203",
     "reference_id": 26254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jiwa",
     "media_type": "Text",
     "index_reference": "jiwa",
@@ -4881,13 +4974,14 @@
           "label": "Roh",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675974,
+    "content_id": "675974",
     "reference_id": 25922,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jotam",
     "media_type": "Text",
     "index_reference": "jotam",
@@ -4956,13 +5050,29 @@
           "label": "Uzia",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jotham.2",
+          "type": "person",
+          "preferred_label": "Yotam",
+          "confidence": 0.8262,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jotham",
+          "type": "person",
+          "preferred_label": "Yotam",
+          "confidence": 0.6262,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675573,
+    "content_id": "675573",
     "reference_id": 25426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jurang maut",
     "media_type": "Text",
     "index_reference": "jurang maut",
@@ -5054,13 +5164,22 @@
           "label": "Menghukum",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Abyss",
+          "type": "keyterm",
+          "preferred_label": "jurang maut",
+          "confidence": 0.96,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676170,
+    "content_id": "676170",
     "reference_id": 26202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Juruselamat",
     "media_type": "Text",
     "index_reference": "juruselamat",
@@ -5259,6 +5378,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Menyelamatkan",
           "language": "ind"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Savior",
+          "type": "keyterm",
+          "preferred_label": "juruselamat",
+          "confidence": 0.8909,
+          "match_method": "scored"
         }
       ]
     }

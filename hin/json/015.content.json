@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180168,
+    "content_id": "180168",
     "reference_id": 26106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गड्ढा",
     "media_type": "Text",
     "index_reference": "गड्ढा",
@@ -129,13 +129,14 @@
           "label": "नरक",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179841,
+    "content_id": "179841",
     "reference_id": 25768,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गत",
     "media_type": "Text",
     "index_reference": "गत",
@@ -212,13 +213,22 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gath",
+          "type": "place",
+          "preferred_label": "गत",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179847,
+    "content_id": "179847",
     "reference_id": 25776,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गतसमनी",
     "media_type": "Text",
     "index_reference": "गतसमनी",
@@ -262,13 +272,22 @@
           "label": "जैतून पर्वत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gethsemane",
+          "type": "place",
+          "preferred_label": "गतसमनी",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179752,
+    "content_id": "179752",
     "reference_id": 25678,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गदहा",
     "media_type": "Text",
     "index_reference": "गदहा",
@@ -566,13 +585,50 @@
           "end_ref_usfm": "DEU 5:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gedor",
+          "type": "person",
+          "preferred_label": "गदोर",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gedor",
+          "type": "place",
+          "preferred_label": "गदोर",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gedor.2",
+          "type": "place",
+          "preferred_label": "गदोर",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "गाद",
+          "confidence": 0.8083,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gad.2",
+          "type": "person",
+          "preferred_label": "गाद",
+          "confidence": 0.8083,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 180326,
+    "content_id": "180326",
     "reference_id": 26273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गन्धक",
     "media_type": "Text",
     "index_reference": "गन्धक",
@@ -679,13 +735,14 @@
           "label": "सदोम",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180101,
+    "content_id": "180101",
     "reference_id": 26037,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गन्धरस",
     "media_type": "Text",
     "index_reference": "गन्धरस",
@@ -776,13 +833,14 @@
           "label": "ज्योतिषी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179845,
+    "content_id": "179845",
     "reference_id": 25774,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गरार",
     "media_type": "Text",
     "index_reference": "गरार",
@@ -881,13 +939,29 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gerar",
+          "type": "place",
+          "preferred_label": "गरार",
+          "confidence": 0.9273,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Gomorrah",
+          "type": "place",
+          "preferred_label": "गमोरा",
+          "confidence": 0.5239,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180406,
+    "content_id": "180406",
     "reference_id": 26354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गर्भ",
     "media_type": "Text",
     "index_reference": "गर्भ",
@@ -1113,13 +1187,14 @@
           "end_ref_usfm": "GEN 38:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179682,
+    "content_id": "179682",
     "reference_id": 25603,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गर्भवती होना",
     "media_type": "Text",
     "index_reference": "गर्भवती होना",
@@ -1371,13 +1446,14 @@
           "label": "गर्भ",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 182430,
+    "content_id": "182430",
     "reference_id": 26134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गर्व-सकारात्मक भावना",
     "media_type": "Text",
     "index_reference": "गर्व-सकारात्मक भावना",
@@ -1408,13 +1484,14 @@
           "label": "घमंडी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179838,
+    "content_id": "179838",
     "reference_id": 25765,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गलातिया",
     "media_type": "Text",
     "index_reference": "गलातिया",
@@ -1520,13 +1597,36 @@
           "label": "पौलुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "गलातिया",
+          "confidence": 0.7818,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Bithynia",
+          "type": "place",
+          "preferred_label": "बितूनिया",
+          "confidence": 0.5242,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Phrygia",
+          "type": "place",
+          "preferred_label": "फ्रूगिया",
+          "confidence": 0.5017,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179839,
+    "content_id": "179839",
     "reference_id": 25766,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गलील",
     "media_type": "Text",
     "index_reference": "गलील",
@@ -2002,13 +2102,29 @@
           "label": "गलील सागर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "गलील",
+          "confidence": 0.9413,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Galilee",
+          "type": "group",
+          "preferred_label": "गलीली",
+          "confidence": 0.6533,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180265,
+    "content_id": "180265",
     "reference_id": 26207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गलील सागर",
     "media_type": "Text",
     "index_reference": "गलील सागर",
@@ -2318,13 +2434,22 @@
           "label": "यूहन्ना 6:1 (#3)",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "गलील",
+          "confidence": 0.6157,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180346,
+    "content_id": "180346",
     "reference_id": 26293,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गवाही",
     "media_type": "Text",
     "index_reference": "गवाही",
@@ -3774,13 +3899,22 @@
           "label": "गवाही",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Witness.2",
+          "type": "keyterm",
+          "preferred_label": "Testimony",
+          "confidence": 0.8364,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 182404,
+    "content_id": "182404",
     "reference_id": 25514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गवाही देना_साक्षी होना",
     "media_type": "Text",
     "index_reference": "गवाही देना_साक्षी होना",
@@ -3804,13 +3938,14 @@
           "label": "गवाही",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179846,
+    "content_id": "179846",
     "reference_id": 25775,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गशूर",
     "media_type": "Text",
     "index_reference": "गशूर",
@@ -3873,13 +4008,22 @@
           "label": "गलील सागर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Geshur",
+          "type": "place",
+          "preferred_label": "गशूर",
+          "confidence": 0.6786,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179842,
+    "content_id": "179842",
     "reference_id": 25769,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गाज़ा",
     "media_type": "Text",
     "index_reference": "गाज़ा",
@@ -3955,13 +4099,22 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gaza",
+          "type": "place",
+          "preferred_label": "गाज़ा",
+          "confidence": 0.7015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179837,
+    "content_id": "179837",
     "reference_id": 25764,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गाद",
     "media_type": "Text",
     "index_reference": "गाद",
@@ -4053,13 +4206,22 @@
           "label": "जिल्पा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "गाद",
+          "confidence": 0.8769,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179700,
+    "content_id": "179700",
     "reference_id": 25623,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गाय",
     "media_type": "Text",
     "index_reference": "गाय",
@@ -4677,13 +4839,22 @@
           "label": "जूआ",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bull",
+          "type": "fauna",
+          "preferred_label": "Cattle",
+          "confidence": 0.5009,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180170,
+    "content_id": "180170",
     "reference_id": 26108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिड़गिड़ाना",
     "media_type": "Text",
     "index_reference": "गिड़गिड़ाना",
@@ -4777,13 +4948,14 @@
           "end_ref_usfm": "2CO 8:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179851,
+    "content_id": "179851",
     "reference_id": 25780,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिदोन",
     "media_type": "Text",
     "index_reference": "गिदोन",
@@ -4859,13 +5031,22 @@
           "label": "यहोवा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "गिदोन",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179849,
+    "content_id": "179849",
     "reference_id": 25778,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिबा",
     "media_type": "Text",
     "index_reference": "गिबा",
@@ -4921,13 +5102,64 @@
           "label": "यरूशलेम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gibea",
+          "type": "person",
+          "preferred_label": "गिबा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gibeah",
+          "type": "place",
+          "preferred_label": "गिबा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Geba",
+          "type": "place",
+          "preferred_label": "गेबा",
+          "confidence": 0.9219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hagabah",
+          "type": "person",
+          "preferred_label": "हगाबा",
+          "confidence": 0.8385,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gishpa",
+          "type": "person",
+          "preferred_label": "गिश्पा",
+          "confidence": 0.8369,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gabbatha",
+          "type": "place",
+          "preferred_label": "गब्बता",
+          "confidence": 0.8315,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gabbai",
+          "type": "person",
+          "preferred_label": "गब्बै",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179850,
+    "content_id": "179850",
     "reference_id": 25779,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिबोन",
     "media_type": "Text",
     "index_reference": "गिबोन",
@@ -4989,13 +5221,29 @@
           "label": "यरूशलेम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gibeon",
+          "type": "place",
+          "preferred_label": "गिबोन",
+          "confidence": 0.9111,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Gibeon",
+          "type": "group",
+          "preferred_label": "गिबोनी",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179855,
+    "content_id": "179855",
     "reference_id": 25784,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिर्गाशियों",
     "media_type": "Text",
     "index_reference": "गिर्गाशियों",
@@ -5069,13 +5317,14 @@
           "label": "नूह",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179853,
+    "content_id": "179853",
     "reference_id": 25782,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिलगाल",
     "media_type": "Text",
     "index_reference": "गिलगाल",
@@ -5144,13 +5393,22 @@
           "label": "यरदन नदी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "बेतेल",
+          "confidence": 0.5475,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179852,
+    "content_id": "179852",
     "reference_id": 25781,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिलाद",
     "media_type": "Text",
     "index_reference": "गिलाद",
@@ -5268,13 +5526,22 @@
           "label": "रूबेन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "गिलाद",
+          "confidence": 0.9077,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180395,
+    "content_id": "180395",
     "reference_id": 26343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गुम्मट",
     "media_type": "Text",
     "index_reference": "गुम्मट",
@@ -5359,13 +5626,22 @@
           "label": "चौकस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gamad",
+          "type": "place",
+          "preferred_label": "गम्‍मद",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180336,
+    "content_id": "180336",
     "reference_id": 26283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गुरु",
     "media_type": "Text",
     "index_reference": "गुरु",
@@ -5792,13 +6068,14 @@
           "label": "प्रचार करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179863,
+    "content_id": "179863",
     "reference_id": 25792,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गुलगुता",
     "media_type": "Text",
     "index_reference": "गुलगुता",
@@ -5841,13 +6118,22 @@
           "label": "जैतून पर्वत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Golgotha",
+          "type": "place",
+          "preferred_label": "गुलगुता",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180397,
+    "content_id": "180397",
     "reference_id": 26345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गेहूँ",
     "media_type": "Text",
     "index_reference": "गेहूँ",
@@ -6044,13 +6330,14 @@
           "label": "ओसाई",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180369,
+    "content_id": "180369",
     "reference_id": 26316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गोत्र",
     "media_type": "Text",
     "index_reference": "गोत्र",
@@ -6347,13 +6634,14 @@
           "label": "जाति",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179759,
+    "content_id": "179759",
     "reference_id": 25685,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गोबर",
     "media_type": "Text",
     "index_reference": "गोबर",
@@ -6395,13 +6683,22 @@
           "label": "फाटक",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gur",
+          "type": "place",
+          "preferred_label": "गूर",
+          "confidence": 0.805,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179864,
+    "content_id": "179864",
     "reference_id": 25793,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गोलियत",
     "media_type": "Text",
     "index_reference": "गोलियत",
@@ -6450,13 +6747,29 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Goliath",
+          "type": "person",
+          "preferred_label": "गोलियत",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "पलिश्ती",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179868,
+    "content_id": "179868",
     "reference_id": 25797,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गोशेन",
     "media_type": "Text",
     "index_reference": "गोशेन",
@@ -6590,6 +6903,15 @@
           "resource_code": "UWTranslationWords",
           "label": "नील नदी",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "गोशेन",
+          "confidence": 0.8316,
+          "match_method": "scored"
         }
       ]
     }

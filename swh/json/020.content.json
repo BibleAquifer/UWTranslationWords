@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 575581,
+    "content_id": "575581",
     "reference_id": 25954,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Taa",
     "media_type": "Text",
     "index_reference": "taa",
@@ -230,13 +230,14 @@
           "label": "Kinara",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627193,
+    "content_id": "627193",
     "reference_id": 26005,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tafakari",
     "media_type": "Text",
     "index_reference": "tafakari",
@@ -270,13 +271,22 @@
           "end_ref_usfm": "JOS 1:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Think",
+          "type": "keyterm",
+          "preferred_label": "Think",
+          "confidence": 0.8729,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 575543,
+    "content_id": "575543",
     "reference_id": 25874,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tafsiri",
     "media_type": "Text",
     "index_reference": "tafsiri",
@@ -502,13 +512,14 @@
           "label": "Maono",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575693,
+    "content_id": "575693",
     "reference_id": 26209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tafuta",
     "media_type": "Text",
     "index_reference": "tafuta",
@@ -1666,13 +1677,50 @@
           "label": "Haki",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Iscah",
+          "type": "person",
+          "preferred_label": "Iska",
+          "confidence": 0.9028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Alexander",
+          "type": "person",
+          "preferred_label": "Iskanda",
+          "confidence": 0.848,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Alexander.2",
+          "type": "person",
+          "preferred_label": "Iskanda",
+          "confidence": 0.848,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Alexander.3",
+          "type": "person",
+          "preferred_label": "Iskanda",
+          "confidence": 0.848,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Alexander.4",
+          "type": "person",
+          "preferred_label": "Iskanda",
+          "confidence": 0.848,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 626969,
+    "content_id": "626969",
     "reference_id": 25592,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tahiri",
     "media_type": "Text",
     "index_reference": "tahiri",
@@ -2069,13 +2117,22 @@
           "label": "Agano",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Circumcision",
+          "type": "keyterm",
+          "preferred_label": "Circumcision",
+          "confidence": 0.6017,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575454,
+    "content_id": "575454",
     "reference_id": 25686,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tai",
     "media_type": "Text",
     "index_reference": "tai",
@@ -2179,13 +2236,22 @@
           "label": "Nebukadneza",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Vulture",
+          "type": "fauna",
+          "preferred_label": "Vulture",
+          "confidence": 0.5629,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575615,
+    "content_id": "575615",
     "reference_id": 26044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Taifa",
     "media_type": "Text",
     "index_reference": "taifa",
@@ -3008,13 +3074,14 @@
           "label": "Rumi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575427,
+    "content_id": "575427",
     "reference_id": 25628,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Taji",
     "media_type": "Text",
     "index_reference": "taji",
@@ -3250,13 +3317,22 @@
           "label": "Mzeituni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Crown",
+          "type": "realia",
+          "preferred_label": "Crown",
+          "confidence": 0.5224,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626979,
+    "content_id": "626979",
     "reference_id": 25609,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Takasa",
     "media_type": "Text",
     "index_reference": "takasa",
@@ -3372,13 +3448,14 @@
           "label": "Takasa",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575685,
+    "content_id": "575685",
     "reference_id": 26195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Takasa",
     "media_type": "Text",
     "index_reference": "takasa",
@@ -3601,13 +3678,22 @@
           "label": "Takatifu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Consecration.2",
+          "type": "keyterm",
+          "preferred_label": "Consecration",
+          "confidence": 0.5332,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575525,
+    "content_id": "575525",
     "reference_id": 25840,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Takatifu",
     "media_type": "Text",
     "index_reference": "takatifu",
@@ -4587,13 +4673,22 @@
           "label": "Takasa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "Holy",
+          "confidence": 0.9364,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575593,
+    "content_id": "575593",
     "reference_id": 25982,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamaa",
     "media_type": "Text",
     "index_reference": "tamaa",
@@ -4882,13 +4977,14 @@
           "label": "Mungu wa Uongo",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575724,
+    "content_id": "575724",
     "reference_id": 26279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamari",
     "media_type": "Text",
     "index_reference": "tamari",
@@ -5006,13 +5102,29 @@
           "label": "Samaki wa chumvi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "Tamari",
+          "confidence": 0.7867,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tamar.3",
+          "type": "person",
+          "preferred_label": "Tamari",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575477,
+    "content_id": "575477",
     "reference_id": 25739,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamasha",
     "media_type": "Text",
     "index_reference": "tamasha",
@@ -5276,13 +5388,14 @@
           "label": "Karamu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575438,
+    "content_id": "575438",
     "reference_id": 25649,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tangaza",
     "media_type": "Text",
     "index_reference": "tangaza",
@@ -5571,13 +5684,22 @@
           "label": "Hubiri",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Declare",
+          "type": "keyterm",
+          "preferred_label": "Declare",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575494,
+    "content_id": "575494",
     "reference_id": 25762,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tanuru",
     "media_type": "Text",
     "index_reference": "tanuru",
@@ -5674,13 +5796,22 @@
           "label": "Picha",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Kiln",
+          "type": "realia",
+          "preferred_label": "Kiln",
+          "confidence": 0.6562,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627342,
+    "content_id": "627342",
     "reference_id": 26280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tarshishi",
     "media_type": "Text",
     "index_reference": "tarshishi",
@@ -5768,13 +5899,29 @@
           "label": "Watu wenye hekima",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarshish",
+          "type": "place",
+          "preferred_label": "Tarshishi",
+          "confidence": 0.6722,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tarshish",
+          "type": "person",
+          "preferred_label": "Tarshishi",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627343,
+    "content_id": "627343",
     "reference_id": 26281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tarso",
     "media_type": "Text",
     "index_reference": "tarso",
@@ -5836,13 +5983,29 @@
           "label": "Mkoa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarsus",
+          "type": "place",
+          "preferred_label": "Tarso",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Tarsus",
+          "type": "group",
+          "preferred_label": "Tarso",
+          "confidence": 0.76,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626871,
+    "content_id": "626871",
     "reference_id": 25444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tarumbeta",
     "media_type": "Text",
     "index_reference": "tarumbeta",
@@ -5891,13 +6054,14 @@
           "label": "Moabu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575750,
+    "content_id": "575750",
     "reference_id": 26321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tarumbeta",
     "media_type": "Text",
     "index_reference": "tarumbeta",
@@ -6130,13 +6294,29 @@
           "label": "Pembe",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Trumpet",
+          "type": "realia",
+          "preferred_label": "Trumpet",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:RamsHorn",
+          "type": "realia",
+          "preferred_label": "Rams Horn",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627011,
+    "content_id": "627011",
     "reference_id": 25673,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tawanya",
     "media_type": "Text",
     "index_reference": "tawanya",
@@ -6289,13 +6469,14 @@
           "label": "Uhamisho",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575765,
+    "content_id": "575765",
     "reference_id": 26342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tazama",
     "media_type": "Text",
     "index_reference": "tazama",
@@ -7079,13 +7260,14 @@
           "end_ref_usfm": "MAT 25:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575432,
+    "content_id": "575432",
     "reference_id": 25635,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tengwa",
     "media_type": "Text",
     "index_reference": "tengwa",
@@ -7317,13 +7499,14 @@
           "end_ref_usfm": "2CO 11:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627347,
+    "content_id": "627347",
     "reference_id": 26290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tera",
     "media_type": "Text",
     "index_reference": "tera",
@@ -7463,13 +7646,22 @@
           "label": "Uru",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Terah",
+          "type": "person",
+          "preferred_label": "Tera",
+          "confidence": 0.8571,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575719,
+    "content_id": "575719",
     "reference_id": 26272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Teseka",
     "media_type": "Text",
     "index_reference": "teseka",
@@ -7911,13 +8103,14 @@
           "end_ref_usfm": "JER 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575744,
+    "content_id": "575744",
     "reference_id": 26313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tetemeka",
     "media_type": "Text",
     "index_reference": "tetemeka",
@@ -8153,13 +8346,14 @@
           "label": "Bwana",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575732,
+    "content_id": "575732",
     "reference_id": 26294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tetrarki",
     "media_type": "Text",
     "index_reference": "tetrarki",
@@ -8247,13 +8441,22 @@
           "label": "Rumi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herode",
+          "confidence": 0.5752,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575745,
+    "content_id": "575745",
     "reference_id": 26314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thambi",
     "media_type": "Text",
     "index_reference": "thambi",
@@ -8393,13 +8596,14 @@
           "label": "Uvunjaji wa sheria",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575706,
+    "content_id": "575706",
     "reference_id": 26247,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Theluji",
     "media_type": "Text",
     "index_reference": "theluji",
@@ -8465,13 +8669,14 @@
           "label": "Lebanoni",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627349,
+    "content_id": "627349",
     "reference_id": 26295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thesalonike",
     "media_type": "Text",
     "index_reference": "thesalonike",
@@ -8569,13 +8774,29 @@
           "label": "Rumi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "Thesalonike",
+          "confidence": 0.8769,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Thessalonica",
+          "type": "group",
+          "preferred_label": "Thessalonians",
+          "confidence": 0.6241,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626977,
+    "content_id": "626977",
     "reference_id": 25607,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thibitisha",
     "media_type": "Text",
     "index_reference": "thibitisha",
@@ -8685,13 +8906,22 @@
           "label": "Imani",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Certification",
+          "type": "keyterm",
+          "preferred_label": "Certification",
+          "confidence": 0.8357,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627359,
+    "content_id": "627359",
     "reference_id": 26325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tikiko",
     "media_type": "Text",
     "index_reference": "tikiko",
@@ -8793,13 +9023,22 @@
           "label": "Mhudumu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tychicus",
+          "type": "person",
+          "preferred_label": "Tikiko",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575493,
+    "content_id": "575493",
     "reference_id": 25761,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timiza",
     "media_type": "Text",
     "index_reference": "timiza",
@@ -9239,13 +9478,14 @@
           "label": "nabii",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627351,
+    "content_id": "627351",
     "reference_id": 26304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timotheo",
     "media_type": "Text",
     "index_reference": "timotheo",
@@ -9441,13 +9681,22 @@
           "label": "Kigiriki",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timotheo",
+          "confidence": 0.984,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575478,
+    "content_id": "575478",
     "reference_id": 25740,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tini",
     "media_type": "Text",
     "index_reference": "tini",
@@ -9607,13 +9856,22 @@
           "end_ref_usfm": "REV 6:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "flora:Fig",
+          "type": "flora",
+          "preferred_label": "Fig",
+          "confidence": 0.6325,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 575753,
+    "content_id": "575753",
     "reference_id": 26326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tiro",
     "media_type": "Text",
     "index_reference": "tiro",
@@ -9742,13 +10000,29 @@
           "label": "Sidoni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tyre",
+          "type": "place",
+          "preferred_label": "Tiro",
+          "confidence": 0.9467,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sidon",
+          "type": "place",
+          "preferred_label": "Wasidoni",
+          "confidence": 0.6147,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627352,
+    "content_id": "627352",
     "reference_id": 26305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tirza",
     "media_type": "Text",
     "index_reference": "tirza",
@@ -9812,13 +10086,64 @@
           "label": "Shekemu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tirzah",
+          "type": "person",
+          "preferred_label": "Tirza",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Milcah.2",
+          "type": "person",
+          "preferred_label": "Milka",
+          "confidence": 0.5967,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tirzah",
+          "type": "place",
+          "preferred_label": "Tirza",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zelophehad",
+          "type": "person",
+          "preferred_label": "Selofehadi",
+          "confidence": 0.5382,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "Nuhu",
+          "confidence": 0.5157,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mahlah",
+          "type": "person",
+          "preferred_label": "Mala",
+          "confidence": 0.5157,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoglah",
+          "type": "person",
+          "preferred_label": "Hogla",
+          "confidence": 0.5067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627353,
+    "content_id": "627353",
     "reference_id": 26306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tito",
     "media_type": "Text",
     "index_reference": "tito",
@@ -9971,13 +10296,22 @@
           "label": "Himiza",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Tito",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575735,
+    "content_id": "575735",
     "reference_id": 26298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tomaso",
     "media_type": "Text",
     "index_reference": "tomaso",
@@ -10112,13 +10446,22 @@
           "label": "Kumi na wawili",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Tomaso",
+          "confidence": 0.82,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575465,
+    "content_id": "575465",
     "reference_id": 25714,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Towashi",
     "media_type": "Text",
     "index_reference": "towashi",
@@ -10184,13 +10527,22 @@
           "label": "Filipo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ethiopia",
+          "type": "place",
+          "preferred_label": "Wakushi",
+          "confidence": 0.5059,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627357,
+    "content_id": "627357",
     "reference_id": 26319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Troa",
     "media_type": "Text",
     "index_reference": "troa",
@@ -10291,13 +10643,22 @@
           "label": "Timotheo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Troas",
+          "type": "place",
+          "preferred_label": "Troa",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627358,
+    "content_id": "627358",
     "reference_id": 26323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tubali",
     "media_type": "Text",
     "index_reference": "tubali",
@@ -10394,13 +10755,29 @@
           "label": "nabii",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tubal",
+          "type": "person",
+          "preferred_label": "Tubali",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tubal",
+          "type": "place",
+          "preferred_label": "Tubali",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575670,
+    "content_id": "575670",
     "reference_id": 26170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tubu",
     "media_type": "Text",
     "index_reference": "tubu",
@@ -10797,13 +11174,22 @@
           "label": "dhambi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Repent",
+          "type": "keyterm",
+          "preferred_label": "Repent",
+          "confidence": 0.6013,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575531,
+    "content_id": "575531",
     "reference_id": 25847,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tumaini",
     "media_type": "Text",
     "index_reference": "tumaini",
@@ -11424,13 +11810,22 @@
           "label": "Neno la Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Hope",
+          "type": "keyterm",
+          "preferred_label": "Hope",
+          "confidence": 0.5217,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575775,
+    "content_id": "575775",
     "reference_id": 26354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tumbo la uzazi",
     "media_type": "Text",
     "index_reference": "tumbo la uzazi",
@@ -11656,13 +12051,14 @@
           "end_ref_usfm": "GEN 38:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575492,
+    "content_id": "575492",
     "reference_id": 25760,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tunda",
     "media_type": "Text",
     "index_reference": "tunda",
@@ -12417,13 +12813,14 @@
           "label": "Tumbo la uzazi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627051,
+    "content_id": "627051",
     "reference_id": 25743,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tunda la Kwanza",
     "media_type": "Text",
     "index_reference": "tunda la kwanza",
@@ -12579,13 +12976,14 @@
           "label": "Mzaliwa wa Kwanza",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575674,
+    "content_id": "575674",
     "reference_id": 26176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tuzo",
     "media_type": "Text",
     "index_reference": "tuzo",
@@ -12825,7 +13223,8 @@
           "label": "Adhibu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

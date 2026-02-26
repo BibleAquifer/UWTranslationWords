@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180245,
+    "content_id": "180245",
     "reference_id": 26187,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "टाट",
     "media_type": "Text",
     "index_reference": "टाट",
@@ -127,13 +127,14 @@
           "label": "चिन्ह",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180036,
+    "content_id": "180036",
     "reference_id": 25971,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "टिड्डी",
     "media_type": "Text",
     "index_reference": "टिड्डी",
@@ -262,6 +263,15 @@
           "resource_code": "UWTranslationWords",
           "label": "मरी",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Locust",
+          "type": "fauna",
+          "preferred_label": "Locust",
+          "confidence": 0.5285,
+          "match_method": "scored"
         }
       ]
     }

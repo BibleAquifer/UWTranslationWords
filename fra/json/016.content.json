@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467125,
+    "content_id": "467125",
     "reference_id": 25986,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Macédoine",
     "media_type": "Text",
     "index_reference": "macédoine",
@@ -230,13 +230,22 @@
           "label": "Thessalonique",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Macedonia",
+          "type": "place",
+          "preferred_label": "Macédoine",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467155,
+    "content_id": "467155",
     "reference_id": 26018,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Madian",
     "media_type": "Text",
     "index_reference": "madian",
@@ -372,13 +381,43 @@
           "label": "Moïse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Midian",
+          "type": "place",
+          "preferred_label": "Madian",
+          "confidence": 0.8353,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Midian",
+          "type": "person",
+          "preferred_label": "Madian",
+          "confidence": 0.6471,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Midian",
+          "type": "group",
+          "preferred_label": "Madianite",
+          "confidence": 0.5706,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Medan",
+          "type": "person",
+          "preferred_label": "Medan",
+          "confidence": 0.547,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467126,
+    "content_id": "467126",
     "reference_id": 25987,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Magie",
     "media_type": "Text",
     "index_reference": "magie",
@@ -495,13 +534,29 @@
           "label": "Sorcellerie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Magi",
+          "type": "group",
+          "preferred_label": "Magi",
+          "confidence": 0.8659,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Magic",
+          "type": "keyterm",
+          "preferred_label": "magique",
+          "confidence": 0.8089,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467127,
+    "content_id": "467127",
     "reference_id": 25988,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Magistrat",
     "media_type": "Text",
     "index_reference": "magistrat",
@@ -594,13 +649,14 @@
           "label": "loi",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467002,
+    "content_id": "467002",
     "reference_id": 25856,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maison",
     "media_type": "Text",
     "index_reference": "maison",
@@ -3040,13 +3096,22 @@
           "end_ref_usfm": "2JN 1:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.5649,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 467331,
+    "content_id": "467331",
     "reference_id": 26213,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maîtrise de soi",
     "media_type": "Text",
     "index_reference": "maîtrise de soi",
@@ -3161,13 +3226,14 @@
           "label": "Saint-Esprit",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467128,
+    "content_id": "467128",
     "reference_id": 25989,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Majesté",
     "media_type": "Text",
     "index_reference": "majesté",
@@ -3275,13 +3341,14 @@
           "label": "Roi royaume",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467130,
+    "content_id": "467130",
     "reference_id": 25991,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Malachie",
     "media_type": "Text",
     "index_reference": "malachie",
@@ -3347,13 +3414,50 @@
           "label": "Repentir",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Malachi",
+          "type": "person",
+          "preferred_label": "Malachie",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Utterance",
+          "type": "keyterm",
+          "preferred_label": "Utterance",
+          "confidence": 0.7435,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israël",
+          "confidence": 0.6115,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.607,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "parole du seigneur",
+          "confidence": 0.5395,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467131,
+    "content_id": "467131",
     "reference_id": 25993,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Manassé",
     "media_type": "Text",
     "index_reference": "manassé",
@@ -3475,13 +3579,36 @@
           "label": "Joseph (AT)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Manasseh",
+          "type": "person",
+          "preferred_label": "Manassé",
+          "confidence": 0.9059,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Manasseh",
+          "type": "group",
+          "preferred_label": "Manassé",
+          "confidence": 0.5441,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Éphraïm",
+          "confidence": 0.5013,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467132,
+    "content_id": "467132",
     "reference_id": 25994,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Manne",
     "media_type": "Text",
     "index_reference": "manne",
@@ -3612,13 +3739,22 @@
           "label": "Sabbat",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Manaen",
+          "type": "person",
+          "preferred_label": "Manahen",
+          "confidence": 0.8117,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467167,
+    "content_id": "467167",
     "reference_id": 26030,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mardochée",
     "media_type": "Text",
     "index_reference": "mardochée",
@@ -3693,13 +3829,29 @@
           "label": "Perse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mordecai",
+          "type": "person",
+          "preferred_label": "Mardochée",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mordecai.2",
+          "type": "person",
+          "preferred_label": "Mardochée",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467135,
+    "content_id": "467135",
     "reference_id": 25998,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marie",
     "media_type": "Text",
     "index_reference": "marie",
@@ -3903,13 +4055,22 @@
           "label": "Vierge",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mary",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.9167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467137,
+    "content_id": "467137",
     "reference_id": 26000,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marie soeur da Marthe",
     "media_type": "Text",
     "index_reference": "marie soeur da marthe",
@@ -4032,13 +4193,29 @@
           "label": "Marthe",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.9143,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Martha",
+          "type": "person",
+          "preferred_label": "Marthe",
+          "confidence": 0.7429,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467136,
+    "content_id": "467136",
     "reference_id": 25999,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marie-Madeleine",
     "media_type": "Text",
     "index_reference": "marie-madeleine",
@@ -4165,13 +4342,36 @@
           "label": "Démoniaque",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Marymagdalene",
+          "type": "person",
+          "preferred_label": "Marie de Magdala",
+          "confidence": 0.7396,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.7143,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.619,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466728,
+    "content_id": "466728",
     "reference_id": 25557,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mariéé",
     "media_type": "Text",
     "index_reference": "mariéé",
@@ -4243,13 +4443,57 @@
           "label": "Nouveau marié",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mary",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.8523,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.8523,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.8523,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.8523,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.5",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.8523,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.6",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.8523,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467134,
+    "content_id": "467134",
     "reference_id": 25997,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marthe",
     "media_type": "Text",
     "index_reference": "marthe",
@@ -4364,13 +4608,36 @@
           "label": "Marie soeur da Marthe",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Martha",
+          "type": "person",
+          "preferred_label": "Marthe",
+          "confidence": 0.9,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "Marie",
+          "confidence": 0.6285,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lazarus.2",
+          "type": "person",
+          "preferred_label": "Lazare",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467138,
+    "content_id": "467138",
     "reference_id": 26001,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Matthieu",
     "media_type": "Text",
     "index_reference": "matthieu",
@@ -4462,13 +4729,29 @@
           "label": "Impôts",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "Matthieu",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Alphaeus",
+          "type": "person",
+          "preferred_label": "Alphée",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466796,
+    "content_id": "466796",
     "reference_id": 25632,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maudire",
     "media_type": "Text",
     "index_reference": "maudire",
@@ -4786,13 +5069,14 @@
           "label": "Bénir",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467140,
+    "content_id": "467140",
     "reference_id": 26003,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mèdes, Médie",
     "media_type": "Text",
     "index_reference": "mèdes, médie",
@@ -4894,13 +5178,36 @@
           "label": "Perse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Mede",
+          "type": "group",
+          "preferred_label": "Mède(s); Médie",
+          "confidence": 0.7275,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Media",
+          "type": "place",
+          "preferred_label": "Médie",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Medan",
+          "type": "person",
+          "preferred_label": "Medan",
+          "confidence": 0.579,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467141,
+    "content_id": "467141",
     "reference_id": 26004,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Médiateur",
     "media_type": "Text",
     "index_reference": "médiateur",
@@ -4961,13 +5268,14 @@
           "label": "Réconcilier",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467142,
+    "content_id": "467142",
     "reference_id": 26005,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Méditer",
     "media_type": "Text",
     "index_reference": "méditer",
@@ -5001,13 +5309,14 @@
           "end_ref_usfm": "JOS 1:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 467145,
+    "content_id": "467145",
     "reference_id": 26008,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melchisédek",
     "media_type": "Text",
     "index_reference": "melchisédek",
@@ -5127,13 +5436,22 @@
           "label": "Juste",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Melchizedek",
+          "type": "person",
+          "preferred_label": "Melchisédek",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467146,
+    "content_id": "467146",
     "reference_id": 26009,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membre",
     "media_type": "Text",
     "index_reference": "membre",
@@ -5314,13 +5632,14 @@
           "label": "Pharisien",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467148,
+    "content_id": "467148",
     "reference_id": 26011,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memphis",
     "media_type": "Text",
     "index_reference": "memphis",
@@ -5351,13 +5670,57 @@
           "label": "Nil",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Memphis",
+          "type": "place",
+          "preferred_label": "Memphis",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:Thistle",
+          "type": "flora",
+          "preferred_label": "Thistle",
+          "confidence": 0.7435,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:Nettle",
+          "type": "flora",
+          "preferred_label": "Nettle",
+          "confidence": 0.6805,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Égypte",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Money",
+          "type": "realia",
+          "preferred_label": "Money",
+          "confidence": 0.5485,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Dispossess",
+          "type": "keyterm",
+          "preferred_label": "déposséder",
+          "confidence": 0.5215,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467003,
+    "content_id": "467003",
     "reference_id": 25857,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ménage",
     "media_type": "Text",
     "index_reference": "ménage",
@@ -5555,13 +5918,14 @@
           "label": "Maison",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466695,
+    "content_id": "466695",
     "reference_id": 25521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mendier",
     "media_type": "Text",
     "index_reference": "mendier ",
@@ -5807,13 +6171,22 @@
           "label": "Plaider",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:AskFor",
+          "type": "keyterm",
+          "preferred_label": "prier",
+          "confidence": 0.5197,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466778,
+    "content_id": "466778",
     "reference_id": 25611,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mepriser",
     "media_type": "Text",
     "index_reference": "mepriser ",
@@ -5891,13 +6264,14 @@
           "label": "Deshonneur ",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467326,
+    "content_id": "467326",
     "reference_id": 26207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mer de Galilée",
     "media_type": "Text",
     "index_reference": "mer de galilée",
@@ -6207,13 +6581,22 @@
           "label": "Mer Salée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilée",
+          "confidence": 0.6157,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467310,
+    "content_id": "467310",
     "reference_id": 26191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mer Salée",
     "media_type": "Text",
     "index_reference": "mer salée",
@@ -6289,13 +6672,22 @@
           "label": "Néguev",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:SaltSea",
+          "type": "place",
+          "preferred_label": "Dead Sea",
+          "confidence": 0.544,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467150,
+    "content_id": "467150",
     "reference_id": 26013,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Meshech",
     "media_type": "Text",
     "index_reference": "meshech",
@@ -6357,13 +6749,36 @@
           "label": "Sem",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Meshech.2",
+          "type": "person",
+          "preferred_label": "Méschec",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mash",
+          "type": "person",
+          "preferred_label": "Masch",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Meshech",
+          "type": "place",
+          "preferred_label": "Méschec",
+          "confidence": 0.5227,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467151,
+    "content_id": "467151",
     "reference_id": 26014,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mésopotamie",
     "media_type": "Text",
     "index_reference": "mésopotamie",
@@ -6426,13 +6841,22 @@
           "label": "L'Euphrate",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Mesopotamia",
+          "type": "place",
+          "preferred_label": "Mésopotamie",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467152,
+    "content_id": "467152",
     "reference_id": 26015,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Messager",
     "media_type": "Text",
     "index_reference": "messager",
@@ -6608,13 +7032,29 @@
           "label": "Jean (le Baptiste)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Messengers",
+          "type": "group",
+          "preferred_label": "Messengers",
+          "confidence": 0.8283,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Messenger",
+          "type": "person",
+          "preferred_label": "A Messenger",
+          "confidence": 0.8161,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467153,
+    "content_id": "467153",
     "reference_id": 26016,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miché",
     "media_type": "Text",
     "index_reference": "miché",
@@ -6747,13 +7187,43 @@
           "label": "Argent",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Micah.6",
+          "type": "person",
+          "preferred_label": "Micah",
+          "confidence": 0.7105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mica",
+          "type": "person",
+          "preferred_label": "Mica",
+          "confidence": 0.6305,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.545,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zichri.5",
+          "type": "person",
+          "preferred_label": "Zicri",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467154,
+    "content_id": "467154",
     "reference_id": 26017,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Michel",
     "media_type": "Text",
     "index_reference": "michel",
@@ -6828,13 +7298,29 @@
           "label": "Perse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Michael.11",
+          "type": "person",
+          "preferred_label": "Micaël",
+          "confidence": 0.7926,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Michael.10",
+          "type": "person",
+          "preferred_label": "Micaël",
+          "confidence": 0.6211,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466992,
+    "content_id": "466992",
     "reference_id": 25845,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miel",
     "media_type": "Text",
     "index_reference": "miel",
@@ -6993,13 +7479,14 @@
           "label": "Samson",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467158,
+    "content_id": "467158",
     "reference_id": 26021,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ministre",
     "media_type": "Text",
     "index_reference": "ministre",
@@ -7546,13 +8033,29 @@
           "label": "Serviteur",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Serve",
+          "type": "keyterm",
+          "preferred_label": "servir",
+          "confidence": 0.7878,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Servant",
+          "type": "keyterm",
+          "preferred_label": "serviteur",
+          "confidence": 0.5636,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467159,
+    "content_id": "467159",
     "reference_id": 26022,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miracle",
     "media_type": "Text",
     "index_reference": "miracle",
@@ -7842,13 +8345,22 @@
           "label": "Signe",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:MiraculousSign",
+          "type": "keyterm",
+          "preferred_label": "signe",
+          "confidence": 0.6163,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467160,
+    "content_id": "467160",
     "reference_id": 26023,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miriam",
     "media_type": "Text",
     "index_reference": "miriam",
@@ -7950,13 +8462,22 @@
           "label": "Rebelle",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Miriam",
+          "type": "person",
+          "preferred_label": "Miriam",
+          "confidence": 0.84,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467161,
+    "content_id": "467161",
     "reference_id": 26024,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mischaël",
     "media_type": "Text",
     "index_reference": "mischaël",
@@ -8014,13 +8535,43 @@
           "label": "Hanania",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mishael.3",
+          "type": "person",
+          "preferred_label": "Mischaël",
+          "confidence": 0.9,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 0.694,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.15",
+          "type": "person",
+          "preferred_label": "Hanania",
+          "confidence": 0.63,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Azariah.20",
+          "type": "person",
+          "preferred_label": "Azaria",
+          "confidence": 0.5895,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467149,
+    "content_id": "467149",
     "reference_id": 26012,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miséricorde",
     "media_type": "Text",
     "index_reference": "miséricorde",
@@ -8489,13 +9040,29 @@
           "label": "Pardonner",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "pitié",
+          "confidence": 0.6223,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Compassionate",
+          "type": "keyterm",
+          "preferred_label": "miséricordieux",
+          "confidence": 0.562,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467162,
+    "content_id": "467162",
     "reference_id": 26025,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mispa",
     "media_type": "Text",
     "index_reference": "mispa",
@@ -8602,13 +9169,22 @@
           "label": "Saül (AT)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Mizpah",
+          "type": "place",
+          "preferred_label": "Mitspa",
+          "confidence": 0.6228,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467163,
+    "content_id": "467163",
     "reference_id": 26026,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moab",
     "media_type": "Text",
     "index_reference": "moab",
@@ -8780,13 +9356,29 @@
           "label": "Mer Salée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Moab",
+          "type": "place",
+          "preferred_label": "Moab",
+          "confidence": 0.9619,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Moab",
+          "type": "person",
+          "preferred_label": "Moab",
+          "confidence": 0.619,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467168,
+    "content_id": "467168",
     "reference_id": 26031,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moïse",
     "media_type": "Text",
     "index_reference": "moïse",
@@ -10864,13 +11456,29 @@
           "label": "Dix Commandements",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Moïse",
+          "confidence": 0.9977,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.6628,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467166,
+    "content_id": "467166",
     "reference_id": 26029,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moloch",
     "media_type": "Text",
     "index_reference": "moloch",
@@ -10960,13 +11568,22 @@
           "label": "L'Éternel, Yahvé",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Molech",
+          "type": "deity",
+          "preferred_label": "Molek",
+          "confidence": 0.8857,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467464,
+    "content_id": "467464",
     "reference_id": 26356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Monde",
     "media_type": "Text",
     "index_reference": "monde",
@@ -12013,13 +12630,14 @@
           "label": "Rome",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467171,
+    "content_id": "467171",
     "reference_id": 26034,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mont des Oliviers",
     "media_type": "Text",
     "index_reference": "mont des oliviers",
@@ -12122,13 +12740,29 @@
           "label": "Olive",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:OlivesMount",
+          "type": "place",
+          "preferred_label": "montagne des oliviers",
+          "confidence": 0.6305,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:OliveTree",
+          "type": "flora",
+          "preferred_label": "Olive Tree",
+          "confidence": 0.5183,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467170,
+    "content_id": "467170",
     "reference_id": 26033,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mont Hermon",
     "media_type": "Text",
     "index_reference": "mont hermon",
@@ -12190,13 +12824,22 @@
           "label": "Syrie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:HermonMount",
+          "type": "place",
+          "preferred_label": "Mount Hermon",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467165,
+    "content_id": "467165",
     "reference_id": 26028,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moule",
     "media_type": "Text",
     "index_reference": "moule",
@@ -12227,13 +12870,14 @@
           "label": "Argent",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467340,
+    "content_id": "467340",
     "reference_id": 26224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moutons",
     "media_type": "Text",
     "index_reference": "moutons",
@@ -12866,13 +13510,22 @@
           "label": "Le berger",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Lamb",
+          "type": "fauna",
+          "preferred_label": "Sheep",
+          "confidence": 0.5592,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467173,
+    "content_id": "467173",
     "reference_id": 26036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Multiplier",
     "media_type": "Text",
     "index_reference": "multiplier",
@@ -13326,13 +13979,14 @@
           "end_ref_usfm": "HOS 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 467174,
+    "content_id": "467174",
     "reference_id": 26037,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Myrrhe",
     "media_type": "Text",
     "index_reference": "myrrhe",
@@ -13423,13 +14077,29 @@
           "label": "Les savants",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Myrrh",
+          "type": "flora",
+          "preferred_label": "Myrrh",
+          "confidence": 0.7309,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Myrrh",
+          "type": "realia",
+          "preferred_label": "Myrrh",
+          "confidence": 0.6452,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467175,
+    "content_id": "467175",
     "reference_id": 26038,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mystère",
     "media_type": "Text",
     "index_reference": "mystère",
@@ -13660,7 +14330,8 @@
           "label": "Juif",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

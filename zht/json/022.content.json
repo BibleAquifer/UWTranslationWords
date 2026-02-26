@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390508,
+    "content_id": "390508",
     "reference_id": 25568,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "稱呼—命名",
     "media_type": "Text",
     "index_reference": "稱呼—命名",
@@ -50,13 +50,14 @@
           "label": "召喚—呼召",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390935,
+    "content_id": "390935",
     "reference_id": 26009,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "成員",
     "media_type": "Text",
     "index_reference": "成員",
@@ -237,13 +238,14 @@
           "label": "法利賽人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390453,
+    "content_id": "390453",
     "reference_id": 25512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "承擔——背負重擔",
     "media_type": "Text",
     "index_reference": "承擔——背負重擔",
@@ -260,13 +262,14 @@
           "label": "忍耐",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390454,
+    "content_id": "390454",
     "reference_id": 25513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "承擔——負有責任",
     "media_type": "Text",
     "index_reference": "承擔——負有責任",
@@ -283,13 +286,14 @@
           "label": "罪孽",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390455,
+    "content_id": "390455",
     "reference_id": 25514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "承擔—見證_作證",
     "media_type": "Text",
     "index_reference": "承擔—見證_作證",
@@ -313,13 +317,14 @@
           "label": "見證",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390369,
+    "content_id": "390369",
     "reference_id": 25428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "承認",
     "media_type": "Text",
     "index_reference": "承認",
@@ -392,13 +397,22 @@
           "label": "救",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Approved",
+          "type": "keyterm",
+          "preferred_label": "Approved",
+          "confidence": 0.8112,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390543,
+    "content_id": "390543",
     "reference_id": 25606,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "承認",
     "media_type": "Text",
     "index_reference": "承認",
@@ -668,6 +682,15 @@
           "resource_code": "UWTranslationWords",
           "label": "見證",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Approved",
+          "type": "keyterm",
+          "preferred_label": "Approved",
+          "confidence": 0.8112,
+          "match_method": "embedding"
         }
       ]
     }

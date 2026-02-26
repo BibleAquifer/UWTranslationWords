@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 676079,
+    "content_id": "676079",
     "reference_id": 26059,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Obaja",
     "media_type": "Text",
     "index_reference": "obaja",
@@ -131,13 +131,64 @@
           "label": "Saul (PL)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Obadiah.4",
+          "type": "person",
+          "preferred_label": "Obaja",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.2",
+          "type": "person",
+          "preferred_label": "Obaja",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.12",
+          "type": "person",
+          "preferred_label": "Obaja",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.10",
+          "type": "person",
+          "preferred_label": "Obaja",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.11",
+          "type": "person",
+          "preferred_label": "Obaja",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.5",
+          "type": "person",
+          "preferred_label": "Obaja",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebadiah.8",
+          "type": "person",
+          "preferred_label": "Zebaja",
+          "confidence": 0.5118,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676080,
+    "content_id": "676080",
     "reference_id": 26060,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Og",
     "media_type": "Text",
     "index_reference": "og",
@@ -161,13 +212,29 @@
           "label": "Basan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Og",
+          "type": "person",
+          "preferred_label": "Og",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ir",
+          "type": "person",
+          "preferred_label": "Ir",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 676081,
+    "content_id": "676081",
     "reference_id": 26063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Omri",
     "media_type": "Text",
     "index_reference": "omri",
@@ -205,13 +272,36 @@
           "label": "Yerobeam",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Omri",
+          "type": "person",
+          "preferred_label": "Omri",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahaziah.2",
+          "type": "person",
+          "preferred_label": "Ahazia",
+          "confidence": 0.5787,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalem",
+          "confidence": 0.5142,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675847,
+    "content_id": "675847",
     "reference_id": 25748,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Bodoh",
     "media_type": "Text",
     "index_reference": "orang bodoh",
@@ -1009,13 +1099,36 @@
           "label": "Bijaksana",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Stupid",
+          "type": "keyterm",
+          "preferred_label": "bodoh",
+          "confidence": 0.7538,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Foolish",
+          "type": "keyterm",
+          "preferred_label": "bodoh",
+          "confidence": 0.6677,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Fool",
+          "type": "keyterm",
+          "preferred_label": "orang bodoh",
+          "confidence": 0.6585,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675725,
+    "content_id": "675725",
     "reference_id": 25584,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Keret",
     "media_type": "Text",
     "index_reference": "orang keret",
@@ -1053,13 +1166,50 @@
           "label": "Daud",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Kanaan",
+          "confidence": 0.652,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Tuhan",
+          "confidence": 0.6475,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Cherethite",
+          "type": "group",
+          "preferred_label": "Cherethites",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "firman tuhan",
+          "confidence": 0.5665,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Filistin",
+          "confidence": 0.535,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676160,
+    "content_id": "676160",
     "reference_id": 26190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang suci",
     "media_type": "Text",
     "index_reference": "orang suci",
@@ -1461,13 +1611,22 @@
           "label": "Kudus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Clean",
+          "type": "keyterm",
+          "preferred_label": "suci",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 675870,
+    "content_id": "675870",
     "reference_id": 25773,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang-orang bukan Yahudi",
     "media_type": "Text",
     "index_reference": "orang-orang bukan yahudi",
@@ -2015,13 +2174,14 @@
           "label": "Yahudi",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675639,
+    "content_id": "675639",
     "reference_id": 25492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Otoritas",
     "media_type": "Text",
     "index_reference": "otoritas",
@@ -2676,6 +2836,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Memerintah",
           "language": "ind"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Authority.2",
+          "type": "keyterm",
+          "preferred_label": "kekuasaan",
+          "confidence": 0.7736,
+          "match_method": "scored"
         }
       ]
     }
