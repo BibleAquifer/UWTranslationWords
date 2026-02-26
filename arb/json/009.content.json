@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196175,
+    "content_id": "196175",
     "reference_id": 25759,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الذبائح الاختيارية",
     "media_type": "Text",
     "index_reference": "الذبائح الاختيارية",
@@ -159,13 +159,14 @@
           "label": "ذبيحة الخطيئة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196666,
+    "content_id": "196666",
     "reference_id": 26353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذئب",
     "media_type": "Text",
     "index_reference": "ذئب",
@@ -251,13 +252,14 @@
           "label": "خروف",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196445,
+    "content_id": "196445",
     "reference_id": 26081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذبائح السلامة",
     "media_type": "Text",
     "index_reference": "ذبائح السلامة",
@@ -377,13 +379,14 @@
           "label": "فطير (خبز غير مختمر)",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196582,
+    "content_id": "196582",
     "reference_id": 26245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذبح",
     "media_type": "Text",
     "index_reference": "ذبح",
@@ -548,13 +551,22 @@
           "label": "عبد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Slaughtering",
+          "type": "keyterm",
+          "preferred_label": "Slaughtering",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 144809,
+    "content_id": "144809",
     "reference_id": 26188,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذبيحة",
     "media_type": "Text",
     "index_reference": "ذبيحة",
@@ -1217,13 +1229,14 @@
           "label": "عبادة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196217,
+    "content_id": "196217",
     "reference_id": 25807,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذبيحة الإثم",
     "media_type": "Text",
     "index_reference": "ذبيحة الإثم",
@@ -1292,13 +1305,14 @@
           "label": "ذبيحة الخطيئة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196580,
+    "content_id": "196580",
     "reference_id": 26242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذبيحة الخطيئة",
     "media_type": "Text",
     "index_reference": "ذبيحة الخطيئة",
@@ -1392,13 +1406,14 @@
           "label": "الخطية",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196155,
+    "content_id": "196155",
     "reference_id": 25738,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذبيحة السلامة",
     "media_type": "Text",
     "index_reference": "ذبيحة السلامة",
@@ -1495,13 +1510,14 @@
           "label": "فطير (خبز غير مختمر)",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196572,
+    "content_id": "196572",
     "reference_id": 26231,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذكي",
     "media_type": "Text",
     "index_reference": "ذكي",
@@ -1523,13 +1539,22 @@
           "end_ref_usfm": "EXO 21:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Crafty",
+          "type": "keyterm",
+          "preferred_label": "Crafty",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 196496,
+    "content_id": "196496",
     "reference_id": 26139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذَكِي",
     "media_type": "Text",
     "index_reference": "ذَكِي",
@@ -1717,13 +1742,50 @@
           "label": "حكيم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zecher",
+          "type": "person",
+          "preferred_label": "زَاكِر",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shittim",
+          "type": "place",
+          "preferred_label": "شِطِّيمَ",
+          "confidence": 0.8159,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:KingsValley",
+          "type": "place",
+          "preferred_label": "مَلِك",
+          "confidence": 0.8099,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matri",
+          "type": "person",
+          "preferred_label": "مَطْرِي",
+          "confidence": 0.8086,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mishal",
+          "type": "place",
+          "preferred_label": "مِشْآلَ",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196216,
+    "content_id": "196216",
     "reference_id": 25806,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذنب",
     "media_type": "Text",
     "index_reference": "ذنب",
@@ -1900,13 +1962,14 @@
           "label": "الخطية",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196205,
+    "content_id": "196205",
     "reference_id": 25791,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ذهب",
     "media_type": "Text",
     "index_reference": "ذهب",
@@ -3033,7 +3096,8 @@
           "label": "هيكل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

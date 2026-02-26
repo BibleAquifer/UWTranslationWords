@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 676216,
+    "content_id": "676216",
     "reference_id": 26292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uji",
     "media_type": "Text",
     "index_reference": "uji",
@@ -314,13 +314,22 @@
           "label": "Mencobai",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Approved",
+          "type": "keyterm",
+          "preferred_label": "tahan uji",
+          "confidence": 0.6077,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675584,
+    "content_id": "675584",
     "reference_id": 25437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Umur",
     "media_type": "Text",
     "index_reference": "umur",
@@ -744,13 +753,22 @@
           "end_ref_usfm": "REV 22:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Always",
+          "type": "keyterm",
+          "preferred_label": "selama, lamanya",
+          "confidence": 0.6136,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 676047,
+    "content_id": "676047",
     "reference_id": 26021,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Untuk melayani",
     "media_type": "Text",
     "index_reference": "untuk melayani",
@@ -1297,13 +1315,22 @@
           "label": "Memperbudak",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Serve",
+          "type": "keyterm",
+          "preferred_label": "melayani",
+          "confidence": 0.8418,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676148,
+    "content_id": "676148",
     "reference_id": 26176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Upah",
     "media_type": "Text",
     "index_reference": "upah",
@@ -1543,13 +1570,14 @@
           "label": "Menghukum",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676238,
+    "content_id": "676238",
     "reference_id": 26329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ur",
     "media_type": "Text",
     "index_reference": "ur",
@@ -1632,13 +1660,36 @@
           "label": "Mesopotamia",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ur",
+          "type": "place",
+          "preferred_label": "Ur-Kasdim",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Chaldea",
+          "type": "place",
+          "preferred_label": "Kasdim",
+          "confidence": 0.5375,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Haran",
+          "type": "person",
+          "preferred_label": "Haran",
+          "confidence": 0.5205,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676239,
+    "content_id": "676239",
     "reference_id": 26330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uria",
     "media_type": "Text",
     "index_reference": "uria",
@@ -1718,13 +1769,36 @@
           "label": "Daud",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Uriah",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uriah.4",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uriah.5",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676041,
+    "content_id": "676041",
     "reference_id": 26015,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Utusan",
     "media_type": "Text",
     "index_reference": "utusan",
@@ -1900,13 +1974,14 @@
           "label": "Yohanes (Pembaptis)",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676240,
+    "content_id": "676240",
     "reference_id": 26331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uzia",
     "media_type": "Text",
     "index_reference": "uzia",
@@ -1986,6 +2061,22 @@
           "resource_code": "UWTranslationWords",
           "label": "Memerintah",
           "language": "ind"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Uzziah",
+          "type": "person",
+          "preferred_label": "Uzia",
+          "confidence": 0.9,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Hizkia",
+          "confidence": 0.52,
+          "match_method": "scored"
         }
       ]
     }

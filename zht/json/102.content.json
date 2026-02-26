@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391178,
+    "content_id": "391178",
     "reference_id": 26257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "靈",
     "media_type": "Text",
     "index_reference": "靈",
@@ -1126,13 +1126,14 @@
           "label": "靈魂",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 369025,
+    "content_id": "369025",
     "reference_id": 26254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "靈魂",
     "media_type": "Text",
     "index_reference": "靈魂",
@@ -1623,6 +1624,15 @@
           "resource_code": "UWTranslationWords",
           "label": "靈",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Spirit.2",
+          "type": "keyterm",
+          "preferred_label": "Spirit",
+          "confidence": 0.8982,
+          "match_method": "embedding"
         }
       ]
     }

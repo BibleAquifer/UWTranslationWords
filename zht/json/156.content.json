@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391195,
+    "content_id": "391195",
     "reference_id": 26274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "掃除",
     "media_type": "Text",
     "index_reference": "掃除",
@@ -119,13 +119,36 @@
           "label": "先知",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Erastus",
+          "type": "person",
+          "preferred_label": "Erastus",
+          "confidence": 0.8462,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Clean",
+          "type": "keyterm",
+          "preferred_label": "Clean",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:CleanOut",
+          "type": "keyterm",
+          "preferred_label": "Clean Out",
+          "confidence": 0.822,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391122,
+    "content_id": "391122",
     "reference_id": 26200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "掃羅",
     "media_type": "Text",
     "index_reference": "掃羅",
@@ -203,7 +226,8 @@
           "label": "王",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

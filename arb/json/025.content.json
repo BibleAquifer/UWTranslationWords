@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 144846,
+    "content_id": "144846",
     "reference_id": 26367,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زبدي",
     "media_type": "Text",
     "index_reference": "زبدي",
@@ -137,13 +137,22 @@
           "label": "يوحنا الرسول",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zebedee",
+          "type": "person",
+          "preferred_label": "بْنَ",
+          "confidence": 0.5121,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196680,
+    "content_id": "196680",
     "reference_id": 26368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زَبُولُون",
     "media_type": "Text",
     "index_reference": "زَبُولُون",
@@ -247,13 +256,29 @@
           "label": "لَيْئَة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zebulun",
+          "type": "person",
+          "preferred_label": "زَبولونَ",
+          "confidence": 0.8127,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Zebulun",
+          "type": "group",
+          "preferred_label": "زَبولونَ",
+          "confidence": 0.5293,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196685,
+    "content_id": "196685",
     "reference_id": 26373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زَرُبَّابِل",
     "media_type": "Text",
     "index_reference": "زَرُبَّابِل",
@@ -479,13 +504,29 @@
           "label": "صَدَقيا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zerubbabel.2",
+          "type": "person",
+          "preferred_label": "زَربَّابِل",
+          "confidence": 0.8203,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zerubbabel",
+          "type": "person",
+          "preferred_label": "زَربَّابِل",
+          "confidence": 0.5434,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196677,
+    "content_id": "196677",
     "reference_id": 26364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زَكَّا",
     "media_type": "Text",
     "index_reference": "زَكَّا",
@@ -555,13 +596,22 @@
           "label": "الخطية",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zacchaeus",
+          "type": "person",
+          "preferred_label": "زَكَّا",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196681,
+    "content_id": "196681",
     "reference_id": 26369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زكريا (العهد الجديد)",
     "media_type": "Text",
     "index_reference": "زكريا (العهد الجديد)",
@@ -671,13 +721,22 @@
           "label": "نبي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zechariah",
+          "type": "person",
+          "preferred_label": "زَكَرِيَّا",
+          "confidence": 0.5685,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196682,
+    "content_id": "196682",
     "reference_id": 26370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زكريا (العهد القديم)",
     "media_type": "Text",
     "index_reference": "زكريا (العهد القديم)",
@@ -826,13 +885,14 @@
           "label": "زَرُبَّابِل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196686,
+    "content_id": "196686",
     "reference_id": 26374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زِلْفَة",
     "media_type": "Text",
     "index_reference": "زِلْفَة",
@@ -919,13 +979,29 @@
           "label": "لَيْئَة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "زِلْفَةَ",
+          "confidence": 0.95,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "لَيْئَةَ",
+          "confidence": 0.6695,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 195890,
+    "content_id": "195890",
     "reference_id": 25433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زنا",
     "media_type": "Text",
     "index_reference": "زنا",
@@ -1138,13 +1214,14 @@
           "label": "زِنَا",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196169,
+    "content_id": "196169",
     "reference_id": 25753,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زِنَا",
     "media_type": "Text",
     "index_reference": "زِنَا",
@@ -1453,13 +1530,36 @@
           "label": "عاهرة (زانية)",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zebina",
+          "type": "person",
+          "preferred_label": "زَبِينَا",
+          "confidence": 0.8116,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ziza",
+          "type": "person",
+          "preferred_label": "زِيزَا",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ziza.2",
+          "type": "person",
+          "preferred_label": "زِيزَا",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196376,
+    "content_id": "196376",
     "reference_id": 25996,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زواج",
     "media_type": "Text",
     "index_reference": "زواج",
@@ -1504,13 +1604,14 @@
           "label": "حواء",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144791,
+    "content_id": "144791",
     "reference_id": 26061,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زيت",
     "media_type": "Text",
     "index_reference": "زيت",
@@ -1847,13 +1948,22 @@
           "label": "ذبيحة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:OliveOil",
+          "type": "realia",
+          "preferred_label": "Olive Oil",
+          "confidence": 0.8309,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196429,
+    "content_id": "196429",
     "reference_id": 26062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "زيتون",
     "media_type": "Text",
     "index_reference": "زيتون",
@@ -2070,7 +2180,8 @@
           "label": "جبل الزيتون",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

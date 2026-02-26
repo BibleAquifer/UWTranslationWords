@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180130,
+    "content_id": "180130",
     "reference_id": 26068,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आ पड़े",
     "media_type": "Text",
     "index_reference": "आ पड़े",
@@ -83,13 +83,14 @@
           "label": "दण्ड देना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180137,
+    "content_id": "180137",
     "reference_id": 26075,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आंशिक",
     "media_type": "Text",
     "index_reference": "आंशिक",
@@ -173,13 +174,14 @@
           "label": "अनुग्रह",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179793,
+    "content_id": "179793",
     "reference_id": 25720,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आग्रह करना",
     "media_type": "Text",
     "index_reference": "आग्रह करना",
@@ -537,13 +539,14 @@
           "end_ref_usfm": "1TH 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179727,
+    "content_id": "179727",
     "reference_id": 25650,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आज्ञा/आदेश",
     "media_type": "Text",
     "index_reference": "आज्ञा/आदेश",
@@ -736,13 +739,14 @@
           "label": "व्यवस्था",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180311,
+    "content_id": "180311",
     "reference_id": 26257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आत्मा",
     "media_type": "Text",
     "index_reference": "आत्मा",
@@ -1866,13 +1870,22 @@
           "label": "प्राण",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "पवित्र आत्मा",
+          "confidence": 0.6368,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179519,
+    "content_id": "179519",
     "reference_id": 25429,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आदम",
     "media_type": "Text",
     "index_reference": "आदम",
@@ -2750,13 +2763,22 @@
           "label": "परमेश्‍वर का प्रतिरूप",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Adam",
+          "type": "person",
+          "preferred_label": "आदम",
+          "confidence": 0.6652,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179915,
+    "content_id": "179915",
     "reference_id": 25846,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आदर",
     "media_type": "Text",
     "index_reference": "आदर",
@@ -3256,13 +3278,22 @@
           "label": "स्तुति",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Manahath",
+          "type": "group",
+          "preferred_label": "मानहती",
+          "confidence": 0.8361,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179731,
+    "content_id": "179731",
     "reference_id": 25654,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आनन्द",
     "media_type": "Text",
     "index_reference": "आनन्द",
@@ -3536,13 +3567,14 @@
           "end_ref_usfm": "PSA 119:70"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179990,
+    "content_id": "179990",
     "reference_id": 25923,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आनन्द",
     "media_type": "Text",
     "index_reference": "आनन्द",
@@ -4644,13 +4676,14 @@
           "end_ref_usfm": "1TH 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179540,
+    "content_id": "179540",
     "reference_id": 25451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आमीन",
     "media_type": "Text",
     "index_reference": "आमीन",
@@ -5334,13 +5367,22 @@
           "label": "पूरा करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Surely",
+          "type": "keyterm",
+          "preferred_label": "Surely!",
+          "confidence": 0.5071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179544,
+    "content_id": "179544",
     "reference_id": 25455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आमोस",
     "media_type": "Text",
     "index_reference": "आमोस",
@@ -5392,13 +5434,64 @@
           "label": "उज्जियाह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Amos.3",
+          "type": "person",
+          "preferred_label": "आमोस",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tekoa",
+          "type": "place",
+          "preferred_label": "तकोआ",
+          "confidence": 0.775,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joash.4",
+          "type": "person",
+          "preferred_label": "योआश",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:HaveAVision",
+          "type": "keyterm",
+          "preferred_label": "Have a Vision",
+          "confidence": 0.604,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "यारोबाम",
+          "confidence": 0.562,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "यहूदा",
+          "confidence": 0.5125,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "यहूदा",
+          "confidence": 0.5125,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179545,
+    "content_id": "179545",
     "reference_id": 25456,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आमोस",
     "media_type": "Text",
     "index_reference": "आमोस",
@@ -5441,13 +5534,22 @@
           "label": "यशायाह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Amoz",
+          "type": "person",
+          "preferred_label": "आमोस",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179526,
+    "content_id": "179526",
     "reference_id": 25437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आयु",
     "media_type": "Text",
     "index_reference": "आयु",
@@ -5871,13 +5973,22 @@
           "end_ref_usfm": "REV 22:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Always",
+          "type": "keyterm",
+          "preferred_label": "Always",
+          "confidence": 0.5326,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 180329,
+    "content_id": "180329",
     "reference_id": 26276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आराधनालय",
     "media_type": "Text",
     "index_reference": "आराधनालय",
@@ -6290,13 +6401,22 @@
           "label": "दंडवत करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Synagogue",
+          "type": "realia",
+          "preferred_label": "Synagogue",
+          "confidence": 0.5356,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179916,
+    "content_id": "179916",
     "reference_id": 25847,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आशा",
     "media_type": "Text",
     "index_reference": "आशा",
@@ -6917,13 +7037,22 @@
           "label": "परमेश्‍वर का वचन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Hope",
+          "type": "keyterm",
+          "preferred_label": "Hope",
+          "confidence": 0.5217,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179627,
+    "content_id": "179627",
     "reference_id": 25545,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आशीष देना",
     "media_type": "Text",
     "index_reference": "आशीष देना",
@@ -8291,13 +8420,14 @@
           "label": "स्तुति",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179570,
+    "content_id": "179570",
     "reference_id": 25482,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आशेर",
     "media_type": "Text",
     "index_reference": "आशेर",
@@ -8395,13 +8525,36 @@
           "label": "जिल्पा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Asher",
+          "type": "person",
+          "preferred_label": "आशेर",
+          "confidence": 0.8933,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Asher",
+          "type": "group",
+          "preferred_label": "आशेर",
+          "confidence": 0.61,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Beriah",
+          "type": "person",
+          "preferred_label": "बरीआ",
+          "confidence": 0.5142,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179567,
+    "content_id": "179567",
     "reference_id": 25479,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आसा",
     "media_type": "Text",
     "index_reference": "आसा",
@@ -8447,13 +8600,36 @@
           "end_ref_usfm": "1KI 15:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "आसा",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Asa.2",
+          "type": "person",
+          "preferred_label": "आसा",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Asaph.3",
+          "type": "person",
+          "preferred_label": "आसाप",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 179568,
+    "content_id": "179568",
     "reference_id": 25480,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आसाप",
     "media_type": "Text",
     "index_reference": "आसाप",
@@ -8572,13 +8748,36 @@
           "label": "तुरही",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Asaph.2",
+          "type": "person",
+          "preferred_label": "आसाप",
+          "confidence": 0.825,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Asaph.3",
+          "type": "person",
+          "preferred_label": "आसाप",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Asaph.4",
+          "type": "person",
+          "preferred_label": "आसाप",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179573,
+    "content_id": "179573",
     "reference_id": 25485,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आसिया",
     "media_type": "Text",
     "index_reference": "आसिया",
@@ -8760,13 +8959,22 @@
           "label": "रोम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Asia",
+          "type": "place",
+          "preferred_label": "आसिया",
+          "confidence": 0.8571,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179527,
+    "content_id": "179527",
     "reference_id": 25438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आहाब",
     "media_type": "Text",
     "index_reference": "आहाब",
@@ -8836,13 +9044,22 @@
           "label": "यहोवा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ahab",
+          "type": "person",
+          "preferred_label": "अहाब",
+          "confidence": 0.6232,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180181,
+    "content_id": "180181",
     "reference_id": 26120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आहेर",
     "media_type": "Text",
     "index_reference": "आहेर",
@@ -8876,13 +9093,14 @@
           "end_ref_usfm": "JER 12:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 182410,
+    "content_id": "182410",
     "reference_id": 25569,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "आह्वान के लिए कॉल",
     "media_type": "Text",
     "index_reference": "आह्वान के लिए कॉल",
@@ -9075,7 +9293,8 @@
           "label": "बुलाना- नाम के लिए",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

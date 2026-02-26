@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390744,
+    "content_id": "390744",
     "reference_id": 25813,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "含",
     "media_type": "Text",
     "index_reference": "含",
@@ -94,6 +94,15 @@
           "resource_code": "UWTranslationWords",
           "label": "挪亞",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Ham",
+          "type": "person",
+          "preferred_label": "Ham",
+          "confidence": 0.5056,
+          "match_method": "scored"
         }
       ]
     }

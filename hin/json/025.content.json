@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179808,
+    "content_id": "179808",
     "reference_id": 25735,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "डर",
     "media_type": "Text",
     "index_reference": "डर",
@@ -1486,13 +1486,22 @@
           "label": "यहोवा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.5077,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180344,
+    "content_id": "180344",
     "reference_id": 26291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "डर",
     "media_type": "Text",
     "index_reference": "डर",
@@ -1718,13 +1727,22 @@
           "label": "यहोवा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.8646,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179778,
+    "content_id": "179778",
     "reference_id": 25705,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "डाह",
     "media_type": "Text",
     "index_reference": "डाह",
@@ -1958,13 +1976,14 @@
           "label": "ईर्ष्यालु",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180354,
+    "content_id": "180354",
     "reference_id": 26301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "डेवढ़ी",
     "media_type": "Text",
     "index_reference": "डेवढ़ी",
@@ -2013,7 +2032,8 @@
           "label": "तम्बू",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

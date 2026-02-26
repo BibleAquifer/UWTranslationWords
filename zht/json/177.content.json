@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391226,
+    "content_id": "391226",
     "reference_id": 26306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "提多",
     "media_type": "Text",
     "index_reference": "提多",
@@ -155,13 +155,14 @@
           "label": "服事",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391224,
+    "content_id": "391224",
     "reference_id": 26304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "提摩太",
     "media_type": "Text",
     "index_reference": "提摩太",
@@ -356,6 +357,15 @@
           "resource_code": "UWTranslationWords",
           "label": "服事",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timothy",
+          "confidence": 0.534,
+          "match_method": "scored"
         }
       ]
     }

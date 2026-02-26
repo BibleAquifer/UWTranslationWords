@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 676089,
+    "content_id": "676089",
     "reference_id": 26080,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Damai",
     "media_type": "Text",
     "index_reference": "damai",
@@ -762,13 +762,29 @@
           "end_ref_usfm": "COL 1:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Peace",
+          "type": "keyterm",
+          "preferred_label": "memperdamaikan",
+          "confidence": 0.6531,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:IntactState",
+          "type": "keyterm",
+          "preferred_label": "damai",
+          "confidence": 0.5256,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 676173,
+    "content_id": "676173",
     "reference_id": 26207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Danau Galilea",
     "media_type": "Text",
     "index_reference": "danau galilea",
@@ -1071,13 +1087,22 @@
           "label": "Laut Asin",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilea",
+          "confidence": 0.6157,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675854,
+    "content_id": "675854",
     "reference_id": 25755,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dasar",
     "media_type": "Text",
     "index_reference": "dasar",
@@ -1390,13 +1415,22 @@
           "label": "Menciptakan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:FoundationGate",
+          "type": "place",
+          "preferred_label": "Dasar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 675763,
+    "content_id": "675763",
     "reference_id": 25645,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daud",
     "media_type": "Text",
     "index_reference": "daud",
@@ -1847,13 +1881,22 @@
           "label": "Saul (PL)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Daud",
+          "confidence": 0.9833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675770,
+    "content_id": "675770",
     "reference_id": 25655,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Delila",
     "media_type": "Text",
     "index_reference": "delila",
@@ -1902,13 +1945,22 @@
           "label": "Simson",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "Delila",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675607,
+    "content_id": "675607",
     "reference_id": 25460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derita",
     "media_type": "Text",
     "index_reference": "derita",
@@ -1972,13 +2024,14 @@
           "end_ref_usfm": "PSA 116:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675918,
+    "content_id": "675918",
     "reference_id": 25866,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Di dalam Kristus",
     "media_type": "Text",
     "index_reference": "di dalam kristus",
@@ -2996,13 +3049,29 @@
           "label": "Tuan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:InChrist",
+          "type": "keyterm",
+          "preferred_label": "dalam kristus",
+          "confidence": 0.7753,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesus",
+          "confidence": 0.5219,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675765,
+    "content_id": "675765",
     "reference_id": 25647,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diakon/diaken",
     "media_type": "Text",
     "index_reference": "diakon/diaken",
@@ -3057,13 +3126,14 @@
           "label": "Memperbudak",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675697,
+    "content_id": "675697",
     "reference_id": 25551,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dilahirkan kembali",
     "media_type": "Text",
     "index_reference": "dilahirkan kembali",
@@ -3190,13 +3260,14 @@
           "label": "Menyelamatkan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675794,
+    "content_id": "675794",
     "reference_id": 25695,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dipilih",
     "media_type": "Text",
     "index_reference": "dipilih",
@@ -3569,13 +3640,22 @@
           "label": "Kristus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Chosen",
+          "type": "keyterm",
+          "preferred_label": "orang pilihan",
+          "confidence": 0.6898,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675780,
+    "content_id": "675780",
     "reference_id": 25676,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Doktrin",
     "media_type": "Text",
     "index_reference": "doktrin",
@@ -3681,13 +3761,14 @@
           "end_ref_usfm": "MAT 15:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 676196,
+    "content_id": "676196",
     "reference_id": 26240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dosa",
     "media_type": "Text",
     "index_reference": "dosa",
@@ -5475,13 +5556,22 @@
           "label": "Jahat",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Sin",
+          "type": "keyterm",
+          "preferred_label": "berbuat dosa",
+          "confidence": 0.9224,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675563,
+    "content_id": "675563",
     "reference_id": 25416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dua belas suku Israel",
     "media_type": "Text",
     "index_reference": "dua belas suku israel",
@@ -5625,13 +5715,22 @@
           "label": "Simeon",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676253,
+    "content_id": "676253",
     "reference_id": 26356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dunia",
     "media_type": "Text",
     "index_reference": "dunia",
@@ -6678,13 +6777,29 @@
           "label": "Roma",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:FundamentalPrinciples",
+          "type": "keyterm",
+          "preferred_label": "roh, roh dunia",
+          "confidence": 0.6047,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Ability",
+          "type": "keyterm",
+          "preferred_label": "keahlian",
+          "confidence": 0.5207,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675917,
+    "content_id": "675917",
     "reference_id": 25865,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dupa",
     "media_type": "Text",
     "index_reference": "dupa",
@@ -6890,7 +7005,8 @@
           "label": "Kemenyan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467026,
+    "content_id": "467026",
     "reference_id": 25881,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jacob",
     "media_type": "Text",
     "index_reference": "jacob",
@@ -1414,13 +1414,29 @@
           "label": "Rebecca",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israël",
+          "confidence": 0.9857,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Jacob",
+          "confidence": 0.6036,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467028,
+    "content_id": "467028",
     "reference_id": 25883,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jacques (fils d'Alphée)",
     "media_type": "Text",
     "index_reference": "jacques (fils d'alphée)",
@@ -1520,13 +1536,36 @@
           "label": "Douze",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Jacques",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Jacques",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.5582,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467029,
+    "content_id": "467029",
     "reference_id": 25884,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jacques (fils de Zébédée)",
     "media_type": "Text",
     "index_reference": "jacques (fils de zébédée)",
@@ -1716,13 +1755,36 @@
           "label": "Moïse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Jacques",
+          "confidence": 0.904,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "Jean",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Jacques",
+          "confidence": 0.616,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467027,
+    "content_id": "467027",
     "reference_id": 25882,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jacques (frère de Jésus)",
     "media_type": "Text",
     "index_reference": "jacques (frère de jésus)",
@@ -1846,13 +1908,22 @@
           "label": "Persécuter",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "Jacques",
+          "confidence": 0.78,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467031,
+    "content_id": "467031",
     "reference_id": 25886,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jaloux",
     "media_type": "Text",
     "index_reference": "jaloux",
@@ -1972,13 +2043,36 @@
           "label": "Envie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Resentment",
+          "type": "keyterm",
+          "preferred_label": "jalousie",
+          "confidence": 0.6342,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Zealous.2",
+          "type": "keyterm",
+          "preferred_label": "zélé",
+          "confidence": 0.5436,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Ardour",
+          "type": "keyterm",
+          "preferred_label": "ardeur",
+          "confidence": 0.5401,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467030,
+    "content_id": "467030",
     "reference_id": 25885,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Japhet",
     "media_type": "Text",
     "index_reference": "japhet",
@@ -2090,13 +2184,29 @@
           "label": "Sem",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Japheth",
+          "type": "person",
+          "preferred_label": "Japhet",
+          "confidence": 0.9636,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Sem",
+          "confidence": 0.6573,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467056,
+    "content_id": "467056",
     "reference_id": 25911,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jean (l'apôtre)",
     "media_type": "Text",
     "index_reference": "jean (l'apôtre)",
@@ -2363,13 +2473,29 @@
           "label": "Zébédée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "Jean",
+          "confidence": 0.9163,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Jacques",
+          "confidence": 0.5247,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467057,
+    "content_id": "467057",
     "reference_id": 25912,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jean (le Baptiste)",
     "media_type": "Text",
     "index_reference": "jean (le baptiste)",
@@ -3015,13 +3141,43 @@
           "label": "Jean 10.40 (#2)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "Jean",
+          "confidence": 0.9699,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Baptist",
+          "type": "keyterm",
+          "preferred_label": "baptiste [jean]",
+          "confidence": 0.6516,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judée",
+          "confidence": 0.5229,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judéen",
+          "confidence": 0.5143,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467055,
+    "content_id": "467055",
     "reference_id": 25910,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jean Marc",
     "media_type": "Text",
     "index_reference": "jean marc",
@@ -3136,13 +3292,22 @@
           "label": "Paul",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "Marc",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467032,
+    "content_id": "467032",
     "reference_id": 25887,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jébusiens",
     "media_type": "Text",
     "index_reference": "jébusiens",
@@ -3271,13 +3436,36 @@
           "label": "Melchisédek",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jebusites",
+          "type": "group",
+          "preferred_label": "Jébusiens",
+          "confidence": 0.8947,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amorites",
+          "type": "group",
+          "preferred_label": "Amorites",
+          "confidence": 0.5947,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hittite",
+          "type": "group",
+          "preferred_label": "Hittite",
+          "confidence": 0.5315,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467034,
+    "content_id": "467034",
     "reference_id": 25889,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jehojada",
     "media_type": "Text",
     "index_reference": "jehojada",
@@ -3328,13 +3516,36 @@
           "label": "Joas",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiada.2",
+          "type": "person",
+          "preferred_label": "Jehojada",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joash.3",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467038,
+    "content_id": "467038",
     "reference_id": 25893,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jéhu",
     "media_type": "Text",
     "index_reference": "jéhu",
@@ -3452,13 +3663,36 @@
           "label": "Samarie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehu.4",
+          "type": "person",
+          "preferred_label": "Jéhu",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehu",
+          "type": "person",
+          "preferred_label": "Jéhu",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehu.2",
+          "type": "person",
+          "preferred_label": "Jéhu",
+          "confidence": 0.5071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467039,
+    "content_id": "467039",
     "reference_id": 25894,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jephté",
     "media_type": "Text",
     "index_reference": "jephté",
@@ -3534,13 +3768,22 @@
           "label": "Juge",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jephthah",
+          "type": "person",
+          "preferred_label": "Jephthé",
+          "confidence": 0.8095,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467040,
+    "content_id": "467040",
     "reference_id": 25895,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jérémie",
     "media_type": "Text",
     "index_reference": "jérémie",
@@ -3684,13 +3927,29 @@
           "label": "Citerne",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jeremiah.6",
+          "type": "person",
+          "preferred_label": "Jérémie",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeremiah.7",
+          "type": "person",
+          "preferred_label": "Jérémie",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467041,
+    "content_id": "467041",
     "reference_id": 25896,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jéricho",
     "media_type": "Text",
     "index_reference": "jéricho",
@@ -3826,13 +4085,22 @@
           "label": "Mer Salée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jericho",
+          "type": "place",
+          "preferred_label": "Jéricho",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467042,
+    "content_id": "467042",
     "reference_id": 25897,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jéroboam",
     "media_type": "Text",
     "index_reference": "jéroboam",
@@ -3908,13 +4176,36 @@
           "label": "Salomon",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Jéroboam",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "Jéroboam",
+          "confidence": 0.55,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joram.3",
+          "type": "person",
+          "preferred_label": "Joram",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467043,
+    "content_id": "467043",
     "reference_id": 25898,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jérusalem",
     "media_type": "Text",
     "index_reference": "jérusalem",
@@ -5367,13 +5658,22 @@
           "label": "Temple, maison de Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jérusalem",
+          "confidence": 0.983,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467044,
+    "content_id": "467044",
     "reference_id": 25899,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jesse",
     "media_type": "Text",
     "index_reference": "jesse",
@@ -5506,13 +5806,22 @@
           "label": "Ruth",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesse",
+          "type": "person",
+          "preferred_label": "Isaï",
+          "confidence": 0.9636,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467045,
+    "content_id": "467045",
     "reference_id": 25900,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jésus",
     "media_type": "Text",
     "index_reference": "jésus",
@@ -10733,13 +11042,22 @@
           "label": "Fils de Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jésus",
+          "confidence": 0.9935,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467046,
+    "content_id": "467046",
     "reference_id": 25901,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jethro",
     "media_type": "Text",
     "index_reference": "jethro",
@@ -10889,13 +11207,22 @@
           "label": "Moïse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "Jéthro",
+          "confidence": 0.82,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466887,
+    "content_id": "466887",
     "reference_id": 25733,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "jeûne, jeûner",
     "media_type": "Text",
     "index_reference": "jeûne, jeûner",
@@ -11093,13 +11420,22 @@
           "label": "Chefs des juifs",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fast",
+          "type": "keyterm",
+          "preferred_label": "jeûner",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467049,
+    "content_id": "467049",
     "reference_id": 25904,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jézabel",
     "media_type": "Text",
     "index_reference": "jézabel",
@@ -11161,13 +11497,22 @@
           "label": "Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jezebel",
+          "type": "person",
+          "preferred_label": "Jézabel",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467050,
+    "content_id": "467050",
     "reference_id": 25905,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jizreel",
     "media_type": "Text",
     "index_reference": "jizreel",
@@ -11250,13 +11595,43 @@
           "label": "Mer Salée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jezreel.2",
+          "type": "place",
+          "preferred_label": "Jizreel",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jezreel",
+          "type": "place",
+          "preferred_label": "Jizreel",
+          "confidence": 0.6889,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Jezreel",
+          "type": "group",
+          "preferred_label": "Jizreel",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:JezreelValley",
+          "type": "place",
+          "preferred_label": "vallée de Jizreel",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467051,
+    "content_id": "467051",
     "reference_id": 25906,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joab",
     "media_type": "Text",
     "index_reference": "joab",
@@ -11323,13 +11698,43 @@
           "label": "David",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joab.3",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joab.4",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 0.61,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abishai",
+          "type": "person",
+          "preferred_label": "Abischaï",
+          "confidence": 0.512,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467052,
+    "content_id": "467052",
     "reference_id": 25907,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joas",
     "media_type": "Text",
     "index_reference": "joas",
@@ -11412,13 +11817,29 @@
           "label": "Les Hauts Lieux",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joash",
+          "type": "person",
+          "preferred_label": "Yoash",
+          "confidence": 0.5905,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joash.2",
+          "type": "person",
+          "preferred_label": "Yoash",
+          "confidence": 0.5905,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467053,
+    "content_id": "467053",
     "reference_id": 25908,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Job",
     "media_type": "Text",
     "index_reference": "job",
@@ -11795,13 +12216,29 @@
           "label": "Groupe de personnes",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Job",
+          "type": "person",
+          "preferred_label": "Job",
+          "confidence": 0.9649,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elihu.5",
+          "type": "person",
+          "preferred_label": "Élihou",
+          "confidence": 0.614,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467054,
+    "content_id": "467054",
     "reference_id": 25909,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joël",
     "media_type": "Text",
     "index_reference": "joël",
@@ -11876,13 +12313,43 @@
           "label": "Pentecôte",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joel",
+          "type": "person",
+          "preferred_label": "Joël",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.14",
+          "type": "person",
+          "preferred_label": "Joël",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.13",
+          "type": "person",
+          "preferred_label": "Joël",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joel.12",
+          "type": "person",
+          "preferred_label": "Joël",
+          "confidence": 0.64,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467068,
+    "content_id": "467068",
     "reference_id": 25923,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joie",
     "media_type": "Text",
     "index_reference": "joie",
@@ -12984,13 +13451,14 @@
           "end_ref_usfm": "1TH 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 467035,
+    "content_id": "467035",
     "reference_id": 25890,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jojakim",
     "media_type": "Text",
     "index_reference": "jojakim",
@@ -13073,13 +13541,29 @@
           "label": "Nébucadnetsar",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Jojakim",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoiachin",
+          "type": "person",
+          "preferred_label": "Jojakin",
+          "confidence": 0.5941,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467033,
+    "content_id": "467033",
     "reference_id": 25888,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jojakin",
     "media_type": "Text",
     "index_reference": "jojakin",
@@ -13161,13 +13645,29 @@
           "label": "Manassé",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoiachin",
+          "type": "person",
+          "preferred_label": "Jojakin",
+          "confidence": 0.69,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Jojakim",
+          "confidence": 0.507,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467058,
+    "content_id": "467058",
     "reference_id": 25913,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jonas",
     "media_type": "Text",
     "index_reference": "jonas",
@@ -13323,13 +13823,22 @@
           "label": "Ninive",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "Jonas",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467059,
+    "content_id": "467059",
     "reference_id": 25914,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jonathan",
     "media_type": "Text",
     "index_reference": "jonathan",
@@ -13413,13 +13922,29 @@
           "label": "Scribe",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jonathan.4",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 0.6214,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467060,
+    "content_id": "467060",
     "reference_id": 25915,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joppé (Japho)",
     "media_type": "Text",
     "index_reference": "joppé (japho)",
@@ -13548,13 +14073,22 @@
           "label": "Le Saron, la plaine de Saron",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Joppa",
+          "type": "place",
+          "preferred_label": "Joppa",
+          "confidence": 0.8505,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467036,
+    "content_id": "467036",
     "reference_id": 25891,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joram",
     "media_type": "Text",
     "index_reference": "joram",
@@ -13637,13 +14171,29 @@
           "label": "Abdias",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoram",
+          "type": "person",
+          "preferred_label": "Joram",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Josaphat",
+          "confidence": 0.5792,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467061,
+    "content_id": "467061",
     "reference_id": 25916,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joram",
     "media_type": "Text",
     "index_reference": "joram",
@@ -13748,13 +14298,29 @@
           "label": "Prophète",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joram.3",
+          "type": "person",
+          "preferred_label": "Joram",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoram",
+          "type": "person",
+          "preferred_label": "Joram",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467037,
+    "content_id": "467037",
     "reference_id": 25892,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Josaphat",
     "media_type": "Text",
     "index_reference": "josaphat",
@@ -13856,13 +14422,43 @@
           "label": "Salomon",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Josaphat",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat",
+          "type": "person",
+          "preferred_label": "Josaphat",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoshaphat.2",
+          "type": "person",
+          "preferred_label": "Josaphat",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "Asa",
+          "confidence": 0.529,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467064,
+    "content_id": "467064",
     "reference_id": 25919,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joseph (AT)",
     "media_type": "Text",
     "index_reference": "joseph (at)",
@@ -14844,13 +15440,29 @@
           "label": "Rachel",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9822,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:StewardOfJoseph",
+          "type": "person",
+          "preferred_label": "Steward of Joseph",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467063,
+    "content_id": "467063",
     "reference_id": 25918,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joseph (NT)",
     "media_type": "Text",
     "index_reference": "joseph (nt)",
@@ -15035,13 +15647,29 @@
           "label": "Vierge",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joseph.3",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467066,
+    "content_id": "467066",
     "reference_id": 25921,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Josias",
     "media_type": "Text",
     "index_reference": "josias",
@@ -15129,13 +15757,29 @@
           "label": "loi",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "Josias",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amon.3",
+          "type": "person",
+          "preferred_label": "Amon",
+          "confidence": 0.5078,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467065,
+    "content_id": "467065",
     "reference_id": 25920,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Josué",
     "media_type": "Text",
     "index_reference": "josué",
@@ -15302,13 +15946,29 @@
           "label": "Zacharie (AT)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Josué",
+          "confidence": 0.6952,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Josué",
+          "confidence": 0.6786,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467067,
+    "content_id": "467067",
     "reference_id": 25922,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jotham",
     "media_type": "Text",
     "index_reference": "jotham",
@@ -15377,13 +16037,29 @@
           "label": "Ozias",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jotham.2",
+          "type": "person",
+          "preferred_label": "Jotham",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jotham",
+          "type": "person",
+          "preferred_label": "Jotham",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467471,
+    "content_id": "467471",
     "reference_id": 26363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joug",
     "media_type": "Text",
     "index_reference": "joug",
@@ -15475,13 +16151,22 @@
           "label": "Serviteur",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Yoke",
+          "type": "realia",
+          "preferred_label": "Yoke",
+          "confidence": 0.592,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467076,
+    "content_id": "467076",
     "reference_id": 25931,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jour du jugement dernier",
     "media_type": "Text",
     "index_reference": "jour du jugement dernier",
@@ -15550,13 +16235,22 @@
           "label": "Juger",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "jugement",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467069,
+    "content_id": "467069",
     "reference_id": 25924,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Juda",
     "media_type": "Text",
     "index_reference": "juda",
@@ -15927,13 +16621,29 @@
           "label": "Lea",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Juda",
+          "confidence": 0.9926,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Juda",
+          "confidence": 0.6056,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467085,
+    "content_id": "467085",
     "reference_id": 25942,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Juda",
     "media_type": "Text",
     "index_reference": "juda",
@@ -15988,13 +16698,29 @@
           "label": "Mer Salée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Juda",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Juda",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467072,
+    "content_id": "467072",
     "reference_id": 25927,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judas",
     "media_type": "Text",
     "index_reference": "judas",
@@ -16056,13 +16782,36 @@
           "label": "Douze",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.7714,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Jacques",
+          "confidence": 0.5914,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467071,
+    "content_id": "467071",
     "reference_id": 25926,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judas Iscariote",
     "media_type": "Text",
     "index_reference": "judas iscariote",
@@ -16263,13 +17012,29 @@
           "label": "Judas",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.9286,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.6286,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467073,
+    "content_id": "467073",
     "reference_id": 25928,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judée",
     "media_type": "Text",
     "index_reference": "judée",
@@ -16849,13 +17614,36 @@
           "label": "Samarie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judée",
+          "confidence": 0.7978,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judéen",
+          "confidence": 0.5591,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jérusalem",
+          "confidence": 0.559,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467075,
+    "content_id": "467075",
     "reference_id": 25930,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Juge",
     "media_type": "Text",
     "index_reference": "juge",
@@ -17050,13 +17838,22 @@
           "label": "loi",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Dinaite",
+          "type": "person",
+          "preferred_label": "Dinaite",
+          "confidence": 0.5254,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467074,
+    "content_id": "467074",
     "reference_id": 25929,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Juger",
     "media_type": "Text",
     "index_reference": "juger",
@@ -18364,13 +19161,29 @@
           "label": "Loi",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "jugement",
+          "confidence": 0.5427,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Swear",
+          "type": "keyterm",
+          "preferred_label": "jurer",
+          "confidence": 0.5119,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467047,
+    "content_id": "467047",
     "reference_id": 25902,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Juif",
     "media_type": "Text",
     "index_reference": "juif",
@@ -19610,13 +20423,22 @@
           "label": "Chefs des juifs",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.574,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467297,
+    "content_id": "467297",
     "reference_id": 26177,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Juste",
     "media_type": "Text",
     "index_reference": "juste",
@@ -21691,13 +22513,29 @@
           "label": "loi",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Just",
+          "type": "keyterm",
+          "preferred_label": "être juste",
+          "confidence": 0.782,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Complete",
+          "type": "keyterm",
+          "preferred_label": "juste",
+          "confidence": 0.606,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 32925,
+    "content_id": "32925",
     "reference_id": 25932,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "justice",
     "media_type": "Text",
     "index_reference": "justice",
@@ -22293,6 +23131,22 @@
           "resource_code": "UWTranslationWords",
           "label": "Juste",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GrantJustice",
+          "type": "keyterm",
+          "preferred_label": "aider (quelqu'un) à obtenir justice",
+          "confidence": 0.6117,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Just",
+          "type": "keyterm",
+          "preferred_label": "être juste",
+          "confidence": 0.561,
+          "match_method": "scored"
         }
       ]
     }

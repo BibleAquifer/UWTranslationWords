@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391273,
+    "content_id": "391273",
     "reference_id": 26353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "狼",
     "media_type": "Text",
     "index_reference": "狼",
@@ -88,13 +88,22 @@
           "label": "綿羊",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Wolf",
+          "type": "fauna",
+          "preferred_label": "Wolf",
+          "confidence": 0.8321,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391261,
+    "content_id": "391261",
     "reference_id": 26341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "浪費",
     "media_type": "Text",
     "index_reference": "浪費",
@@ -164,7 +173,8 @@
           "end_ref_usfm": "ZEC 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

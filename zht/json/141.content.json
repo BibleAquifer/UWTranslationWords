@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390585,
+    "content_id": "390585",
     "reference_id": 25648,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "欺騙",
     "media_type": "Text",
     "index_reference": "欺騙",
@@ -636,13 +636,14 @@
           "end_ref_usfm": "LEV 19:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 369022,
+    "content_id": "369022",
     "reference_id": 26117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "祈禱",
     "media_type": "Text",
     "index_reference": "祈禱",
@@ -1730,13 +1731,22 @@
           "label": "讚美",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pray",
+          "type": "keyterm",
+          "preferred_label": "Pray",
+          "confidence": 0.9102,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390462,
+    "content_id": "390462",
     "reference_id": 25521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "乞求",
     "media_type": "Text",
     "index_reference": "乞求",
@@ -1982,13 +1992,14 @@
           "label": "懇求",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390461,
+    "content_id": "390461",
     "reference_id": 25520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "乞討—金錢",
     "media_type": "Text",
     "index_reference": "乞討—金錢",
@@ -2012,13 +2023,14 @@
           "label": "懇求",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391089,
+    "content_id": "391089",
     "reference_id": 26167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "棄絕",
     "media_type": "Text",
     "index_reference": "棄絕",
@@ -2250,7 +2262,8 @@
           "end_ref_usfm": "JHN 12:50"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390693,
+    "content_id": "390693",
     "reference_id": 25759,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "甘心祭",
     "media_type": "Text",
     "index_reference": "甘心祭",
@@ -159,13 +159,14 @@
           "label": "贖罪祭",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391180,
+    "content_id": "391180",
     "reference_id": 26259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "竿（杖）",
     "media_type": "Text",
     "index_reference": "竿（杖）",
@@ -395,13 +396,14 @@
           "label": "牧羊人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 369007,
+    "content_id": "369007",
     "reference_id": 25576,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "趕出",
     "media_type": "Text",
     "index_reference": "趕出",
@@ -889,13 +891,14 @@
           "label": "籤",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390988,
+    "content_id": "390988",
     "reference_id": 26062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "橄欖",
     "media_type": "Text",
     "index_reference": "橄欖",
@@ -1112,13 +1115,22 @@
           "label": "橄欖山",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:OliveTree",
+          "type": "flora",
+          "preferred_label": "Olive Tree",
+          "confidence": 0.8031,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390960,
+    "content_id": "390960",
     "reference_id": 26034,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "橄欖山",
     "media_type": "Text",
     "index_reference": "橄欖山",
@@ -1220,6 +1232,15 @@
           "resource_code": "UWTranslationWords",
           "label": "橄欖",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:OlivesMount",
+          "type": "place",
+          "preferred_label": "Mount of Olives",
+          "confidence": 0.8422,
+          "match_method": "embedding"
         }
       ]
     }

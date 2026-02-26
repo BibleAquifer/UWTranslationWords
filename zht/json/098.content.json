@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 369015,
+    "content_id": "369015",
     "reference_id": 25795,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "良善",
     "media_type": "Text",
     "index_reference": "良善",
@@ -2248,13 +2248,22 @@
           "label": "公義",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Good",
+          "type": "keyterm",
+          "preferred_label": "Good",
+          "confidence": 0.856,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390545,
+    "content_id": "390545",
     "reference_id": 25608,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "良心",
     "media_type": "Text",
     "index_reference": "良心",
@@ -2444,13 +2453,22 @@
           "end_ref_usfm": "TIT 1:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Conscience",
+          "type": "keyterm",
+          "preferred_label": "Conscience",
+          "confidence": 0.5233,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 391119,
+    "content_id": "391119",
     "reference_id": 26197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "涼鞋",
     "media_type": "Text",
     "index_reference": "涼鞋",
@@ -2580,7 +2598,8 @@
           "end_ref_usfm": "MRK 6:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

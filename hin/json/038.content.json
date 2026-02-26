@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180300,
+    "content_id": "180300",
     "reference_id": 26246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फंदा",
     "media_type": "Text",
     "index_reference": "फंदा",
@@ -215,13 +215,14 @@
           "label": "परीक्षा करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179788,
+    "content_id": "179788",
     "reference_id": 25715,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फरात महानद",
     "media_type": "Text",
     "index_reference": "फरात महानद",
@@ -291,13 +292,14 @@
           "end_ref_usfm": "GEN 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180157,
+    "content_id": "180157",
     "reference_id": 26095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फरीसी",
     "media_type": "Text",
     "index_reference": "फरीसी",
@@ -906,13 +908,22 @@
           "label": "सदूकी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "फरीसी",
+          "confidence": 0.9832,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179833,
+    "content_id": "179833",
     "reference_id": 25760,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फल",
     "media_type": "Text",
     "index_reference": "फल",
@@ -1667,13 +1678,14 @@
           "label": "गर्भ",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179893,
+    "content_id": "179893",
     "reference_id": 25823,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फसल",
     "media_type": "Text",
     "index_reference": "फसल",
@@ -2041,13 +2053,14 @@
           "label": "शुभ सन्देश",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180138,
+    "content_id": "180138",
     "reference_id": 26076,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फसह",
     "media_type": "Text",
     "index_reference": "फसह",
@@ -2315,13 +2328,14 @@
           "end_ref_usfm": "LEV 23:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179840,
+    "content_id": "179840",
     "reference_id": 25767,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फाटक",
     "media_type": "Text",
     "index_reference": "फाटक",
@@ -3015,13 +3029,29 @@
           "end_ref_usfm": "DEU 21:19"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:SheepGate",
+          "type": "place",
+          "preferred_label": "भेड़ फाटक",
+          "confidence": 0.6104,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:WaterGate",
+          "type": "place",
+          "preferred_label": "जलफाटक",
+          "confidence": 0.5274,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 180153,
+    "content_id": "180153",
     "reference_id": 26091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फारस",
     "media_type": "Text",
     "index_reference": "फारस",
@@ -3190,13 +3220,36 @@
           "label": "नहेम्याह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "फारस",
+          "confidence": 0.9778,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Persia",
+          "type": "group",
+          "preferred_label": "फारसी",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "कुस्रू",
+          "confidence": 0.6071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180156,
+    "content_id": "180156",
     "reference_id": 26094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फ़िरौन",
     "media_type": "Text",
     "index_reference": "फ़िरौन",
@@ -4325,13 +4378,43 @@
           "label": "राजा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "फ़िरौन",
+          "confidence": 0.8152,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "फ़िरौन",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "फ़िरौन",
+          "confidence": 0.6239,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "फ़िरौन",
+          "confidence": 0.6087,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180159,
+    "content_id": "180159",
     "reference_id": 26097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फिलिप्पी",
     "media_type": "Text",
     "index_reference": "फिलिप्पी",
@@ -4432,13 +4515,36 @@
           "label": "सीलास",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "फिलिप्पी",
+          "confidence": 0.7818,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "फिलिप्पियों",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Neapolis",
+          "type": "place",
+          "preferred_label": "नियापुलिस",
+          "confidence": 0.5239,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180158,
+    "content_id": "180158",
     "reference_id": 26096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फिलिप्पुस",
     "media_type": "Text",
     "index_reference": "फिलिप्पुस",
@@ -4558,13 +4664,22 @@
           "label": "फिलिप्पुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "फिलिप्पुस",
+          "confidence": 0.9529,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180160,
+    "content_id": "180160",
     "reference_id": 26098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फिलिप्पुस",
     "media_type": "Text",
     "index_reference": "फिलिप्पुस",
@@ -4690,13 +4805,22 @@
           "label": "फिलिप्पुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "फिलिप्पुस",
+          "confidence": 0.9158,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180164,
+    "content_id": "180164",
     "reference_id": 26102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "फीनीके",
     "media_type": "Text",
     "index_reference": "फीनीके",
@@ -4770,6 +4894,22 @@
           "resource_code": "UWTranslationWords",
           "label": "सोर",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Phoenicia",
+          "type": "place",
+          "preferred_label": "फीनीके",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Antioch",
+          "type": "place",
+          "preferred_label": "अन्ताकिया",
+          "confidence": 0.5179,
+          "match_method": "scored"
         }
       ]
     }

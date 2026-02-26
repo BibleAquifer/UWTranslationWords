@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390488,
+    "content_id": "390488",
     "reference_id": 25548,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "波阿斯",
     "media_type": "Text",
     "index_reference": "波阿斯",
@@ -172,13 +172,22 @@
           "label": "路得",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Boaz",
+          "type": "person",
+          "preferred_label": "Boaz",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391016,
+    "content_id": "391016",
     "reference_id": 26091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "波斯",
     "media_type": "Text",
     "index_reference": "波斯",
@@ -347,13 +356,22 @@
           "label": "尼希米",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "Persia",
+          "confidence": 0.5278,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391040,
+    "content_id": "391040",
     "reference_id": 26115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "波提乏",
     "media_type": "Text",
     "index_reference": "波提乏",
@@ -415,13 +433,14 @@
           "label": "法老",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390471,
+    "content_id": "390471",
     "reference_id": 25531,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "伯·示麥",
     "media_type": "Text",
     "index_reference": "伯·示麥",
@@ -498,13 +517,14 @@
           "label": "非利士人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390468,
+    "content_id": "390468",
     "reference_id": 25528,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "伯大尼",
     "media_type": "Text",
     "index_reference": "伯大尼",
@@ -647,13 +667,14 @@
           "label": "橄欖山",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390470,
+    "content_id": "390470",
     "reference_id": 25530,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "伯利恆",
     "media_type": "Text",
     "index_reference": "伯利恆",
@@ -793,13 +814,22 @@
           "label": "彌迦",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Bethlehem",
+          "confidence": 0.5278,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390469,
+    "content_id": "390469",
     "reference_id": 25529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "伯特利",
     "media_type": "Text",
     "index_reference": "伯特利",
@@ -939,6 +969,15 @@
           "resource_code": "UWTranslationWords",
           "label": "耶路撒冷",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "Bethel",
+          "confidence": 0.5265,
+          "match_method": "scored"
         }
       ]
     }

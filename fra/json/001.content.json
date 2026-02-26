@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 466956,
+    "content_id": "466956",
     "reference_id": 25807,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "&quot;l'offrande de culpabilité",
     "media_type": "Text",
     "index_reference": "&quot;l'offrande de culpabilité ",
@@ -70,6 +70,15 @@
           "resource_code": "Unknown",
           "label": "Sacrifice de péché",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "offrande",
+          "confidence": 0.7167,
+          "match_method": "scored"
         }
       ]
     }

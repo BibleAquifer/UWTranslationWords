@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390593,
+    "content_id": "390593",
     "reference_id": 25656,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "交給—傷害",
     "media_type": "Text",
     "index_reference": "交給—傷害",
@@ -11,13 +11,14 @@
     "content": "<h1>交給、交付、歸與、釋放</h1><h2>定義：</h2><ul><li><p>「交給」或「交與」或「交上」可以指將某人交給敵人或對手，例如猶大將耶穌交給猶太領袖，或神因以色列再三犯罪而將他們交給敵人。</p></li></ul><h2>翻譯相關建議：</h2><ul><li><p>當「交給」指的是一個人或人將某人交給敵人時，可以翻譯為「出賣」或「交付」或「交給（give over）」。當「交給」指神將人交給敵人時，可以翻譯為「交付」或「交給（give over）」。</p></li></ul><h2>原文參照：</h2><ul><li><p>史特朗號：H1350，H2020，H2502，H3205，H3444，H3467，H4042，H4422，H4672，H5337，H5414，H5462，H6299，H6403，H6413，H6475，H6561，H7725，H7804，H8199，G03250，G05250，G06290，G10800，G13250，G15600，G16590，G18070，G19290，G26730，G30860，G38600，G45060，G49910，G50880，G54830</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 391058,
+    "content_id": "391058",
     "reference_id": 26135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "驕傲",
     "media_type": "Text",
     "index_reference": "驕傲",
@@ -223,13 +224,14 @@
           "label": "驕傲-正面意義",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391057,
+    "content_id": "391057",
     "reference_id": 26134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "驕傲-正面意義",
     "media_type": "Text",
     "index_reference": "驕傲-正面意義",
@@ -260,13 +262,14 @@
           "label": "驕傲",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390778,
+    "content_id": "390778",
     "reference_id": 25848,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "角",
     "media_type": "Text",
     "index_reference": "角",
@@ -500,13 +503,14 @@
           "label": "號角",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390683,
+    "content_id": "390683",
     "reference_id": 25749,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "腳凳",
     "media_type": "Text",
     "index_reference": "腳凳",
@@ -576,13 +580,14 @@
           "end_ref_usfm": "JAS 2:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 369008,
+    "content_id": "369008",
     "reference_id": 25590,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "教會",
     "media_type": "Text",
     "index_reference": "教會",
@@ -1238,13 +1243,22 @@
           "label": "基督徒",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 0.5462,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390613,
+    "content_id": "390613",
     "reference_id": 25676,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "教義",
     "media_type": "Text",
     "index_reference": "教義",
@@ -1350,13 +1364,22 @@
           "end_ref_usfm": "MAT 15:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Teaching",
+          "type": "keyterm",
+          "preferred_label": "Teaching",
+          "confidence": 0.8143,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 391282,
+    "content_id": "391282",
     "reference_id": 26362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "酵母",
     "media_type": "Text",
     "index_reference": "酵母",
@@ -1508,7 +1531,8 @@
           "label": "無酵餅",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

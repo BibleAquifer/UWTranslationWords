@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 237863,
+    "content_id": "237863",
     "reference_id": 25730,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falsa testemunha",
     "media_type": "Text",
     "index_reference": "falsa testemunha",
@@ -104,13 +104,14 @@
           "label": "Testemunho",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237861,
+    "content_id": "237861",
     "reference_id": 25728,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falso deus",
     "media_type": "Text",
     "index_reference": "falso deus",
@@ -459,13 +460,14 @@
           "label": "Adorar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237862,
+    "content_id": "237862",
     "reference_id": 25729,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falso profeta",
     "media_type": "Text",
     "index_reference": "falso profeta",
@@ -580,13 +582,14 @@
           "label": "Profeta",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237864,
+    "content_id": "237864",
     "reference_id": 25731,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Família",
     "media_type": "Text",
     "index_reference": "família",
@@ -725,13 +728,14 @@
           "label": "Casa",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238224,
+    "content_id": "238224",
     "reference_id": 26094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faraó",
     "media_type": "Text",
     "index_reference": "faraó",
@@ -1860,13 +1864,43 @@
           "label": "Rei",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 0.8152,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 0.6239,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 0.6087,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238225,
+    "content_id": "238225",
     "reference_id": 26095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fariseu",
     "media_type": "Text",
     "index_reference": "fariseu",
@@ -2475,13 +2509,22 @@
           "label": "Saduceu",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.8122,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237867,
+    "content_id": "237867",
     "reference_id": 25734,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Favor",
     "media_type": "Text",
     "index_reference": "favor",
@@ -2923,13 +2966,29 @@
           "end_ref_usfm": "1SA 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Favor",
+          "type": "keyterm",
+          "preferred_label": "favor",
+          "confidence": 0.8192,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Delight",
+          "type": "keyterm",
+          "preferred_label": "delight",
+          "confidence": 0.6033,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 237858,
+    "content_id": "237858",
     "reference_id": 25725,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fé",
     "media_type": "Text",
     "index_reference": "fé",
@@ -4196,13 +4255,29 @@
           "label": "Fiel",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:HavingLittleFaith",
+          "type": "keyterm",
+          "preferred_label": "de pequena fé",
+          "confidence": 0.6077,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "crer",
+          "confidence": 0.5365,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238382,
+    "content_id": "238382",
     "reference_id": 26253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Feitiçaria",
     "media_type": "Text",
     "index_reference": "feitiçaria",
@@ -4340,13 +4415,14 @@
           "label": "Adorar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238232,
+    "content_id": "238232",
     "reference_id": 26102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fenícia",
     "media_type": "Text",
     "index_reference": "fenícia",
@@ -4421,13 +4497,22 @@
           "label": "Tiro",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Phoenicia",
+          "type": "place",
+          "preferred_label": "Fenícia",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238008,
+    "content_id": "238008",
     "reference_id": 25875,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ferro",
     "media_type": "Text",
     "index_reference": "ferro",
@@ -4444,13 +4529,14 @@
           "label": "Armadura",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237869,
+    "content_id": "237869",
     "reference_id": 25736,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festa",
     "media_type": "Text",
     "index_reference": "festa",
@@ -4703,13 +4789,22 @@
           "label": "Festival",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Festus",
+          "type": "person",
+          "preferred_label": "Festo",
+          "confidence": 0.904,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 237872,
+    "content_id": "237872",
     "reference_id": 25739,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festival",
     "media_type": "Text",
     "index_reference": "festival",
@@ -4973,13 +5068,22 @@
           "label": "Festa",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:FestivalOfTheTabernacles",
+          "type": "realia",
+          "preferred_label": "Festival of the Tabernacles",
+          "confidence": 0.6098,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237756,
+    "content_id": "237756",
     "reference_id": 25622,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fidelidade aliança",
     "media_type": "Text",
     "index_reference": "fidelidade aliança",
@@ -5242,13 +5346,22 @@
           "label": "Promessa",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kindness",
+          "type": "keyterm",
+          "preferred_label": "kindness",
+          "confidence": 0.7255,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237859,
+    "content_id": "237859",
     "reference_id": 25726,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fiel",
     "media_type": "Text",
     "index_reference": "fiel",
@@ -5807,13 +5920,22 @@
           "label": "Fé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Faithfulness",
+          "type": "keyterm",
+          "preferred_label": "Faithfulness",
+          "confidence": 0.5471,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237873,
+    "content_id": "237873",
     "reference_id": 25740,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Figo",
     "media_type": "Text",
     "index_reference": "figo",
@@ -5973,13 +6095,22 @@
           "end_ref_usfm": "REV 6:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "flora:Fig",
+          "type": "flora",
+          "preferred_label": "Fig",
+          "confidence": 0.889,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 237777,
+    "content_id": "237777",
     "reference_id": 25644,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filha de Sião",
     "media_type": "Text",
     "index_reference": "filha de sião",
@@ -6029,13 +6160,22 @@
           "label": "Sião",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalém",
+          "confidence": 0.5845,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238379,
+    "content_id": "238379",
     "reference_id": 26250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filho de Deus",
     "media_type": "Text",
     "index_reference": "filho de deus",
@@ -6718,13 +6858,14 @@
           "label": "Filhos de Deus",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238380,
+    "content_id": "238380",
     "reference_id": 26251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filho do Homem",
     "media_type": "Text",
     "index_reference": "filho do homem",
@@ -7266,13 +7407,14 @@
           "label": "Javé",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238381,
+    "content_id": "238381",
     "reference_id": 26252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filhos de Deus",
     "media_type": "Text",
     "index_reference": "filhos de deus",
@@ -7384,13 +7526,22 @@
           "label": "Espírito",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.6025,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238226,
+    "content_id": "238226",
     "reference_id": 26096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipe",
     "media_type": "Text",
     "index_reference": "filipe",
@@ -7510,13 +7661,22 @@
           "label": "Filipe",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 0.9529,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238228,
+    "content_id": "238228",
     "reference_id": 26098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipe, o Apóstolo",
     "media_type": "Text",
     "index_reference": "filipe, o apóstolo",
@@ -7642,13 +7802,22 @@
           "label": "Filipe",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 0.9158,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238227,
+    "content_id": "238227",
     "reference_id": 26097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipos",
     "media_type": "Text",
     "index_reference": "filipos",
@@ -7749,13 +7918,29 @@
           "label": "Silas",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipos",
+          "confidence": 0.7818,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:CaesareaPhilippi",
+          "type": "place",
+          "preferred_label": "Cesareia de Filipos",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238230,
+    "content_id": "238230",
     "reference_id": 26100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filisteus",
     "media_type": "Text",
     "index_reference": "filisteus",
@@ -7924,13 +8109,36 @@
           "label": "Mar Salgado",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Filisteu",
+          "confidence": 0.8165,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "Filisteu",
+          "confidence": 0.5904,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Filístia",
+          "confidence": 0.5585,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238229,
+    "content_id": "238229",
     "reference_id": 26099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filístia",
     "media_type": "Text",
     "index_reference": "filístia",
@@ -7986,13 +8194,22 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Filístia",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238231,
+    "content_id": "238231",
     "reference_id": 26101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Finéias",
     "media_type": "Text",
     "index_reference": "finéias",
@@ -8080,13 +8297,29 @@
           "label": "Samuel",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Phinehas",
+          "type": "person",
+          "preferred_label": "Fineias",
+          "confidence": 0.7862,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Phinehas.3",
+          "type": "person",
+          "preferred_label": "Fineias",
+          "confidence": 0.6084,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237880,
+    "content_id": "237880",
     "reference_id": 25747,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Flauta",
     "media_type": "Text",
     "index_reference": "flauta",
@@ -8159,13 +8392,22 @@
           "label": "Pastor",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Flute",
+          "type": "realia",
+          "preferred_label": "Flute",
+          "confidence": 0.7247,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237931,
+    "content_id": "237931",
     "reference_id": 25798,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fofoca",
     "media_type": "Text",
     "index_reference": "fofoca",
@@ -8219,13 +8461,14 @@
           "label": "Calúnia",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237865,
+    "content_id": "237865",
     "reference_id": 25732,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fome",
     "media_type": "Text",
     "index_reference": "fome",
@@ -8451,13 +8694,14 @@
           "end_ref_usfm": "1CH 21:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237889,
+    "content_id": "237889",
     "reference_id": 25756,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fonte",
     "media_type": "Text",
     "index_reference": "fonte",
@@ -8655,13 +8899,14 @@
           "label": "Dilúvio ",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237895,
+    "content_id": "237895",
     "reference_id": 25762,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fornalha",
     "media_type": "Text",
     "index_reference": "fornalha",
@@ -8758,13 +9003,22 @@
           "label": "Imagem",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Kiln",
+          "type": "realia",
+          "preferred_label": "Kiln",
+          "confidence": 0.7552,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237886,
+    "content_id": "237886",
     "reference_id": 25753,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fornicação",
     "media_type": "Text",
     "index_reference": "fornicação",
@@ -9073,13 +9327,22 @@
           "label": "Prostituta",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fornication",
+          "type": "keyterm",
+          "preferred_label": "fornication",
+          "confidence": 0.7398,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238395,
+    "content_id": "238395",
     "reference_id": 26266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fortaleza",
     "media_type": "Text",
     "index_reference": "fortaleza",
@@ -9213,13 +9476,14 @@
           "label": "Javé",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237893,
+    "content_id": "237893",
     "reference_id": 25760,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fruto",
     "media_type": "Text",
     "index_reference": "fruto",
@@ -9974,13 +10238,14 @@
           "label": "Ventre",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237888,
+    "content_id": "237888",
     "reference_id": 25755,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fundamento",
     "media_type": "Text",
     "index_reference": "fundamento",
@@ -10292,6 +10557,15 @@
           "resource_code": "Unknown",
           "label": "Criação",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Foundation",
+          "type": "realia",
+          "preferred_label": "Foundation",
+          "confidence": 0.6035,
+          "match_method": "scored"
         }
       ]
     }

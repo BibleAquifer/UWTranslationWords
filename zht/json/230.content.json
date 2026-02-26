@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390533,
+    "content_id": "390533",
     "reference_id": 25595,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "支派",
     "media_type": "Text",
     "index_reference": "支派",
@@ -172,13 +172,14 @@
           "label": "支派",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391236,
+    "content_id": "391236",
     "reference_id": 26316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "支派",
     "media_type": "Text",
     "index_reference": "支派",
@@ -475,13 +476,14 @@
           "label": "族群",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 369018,
+    "content_id": "369018",
     "reference_id": 25946,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "知道",
     "media_type": "Text",
     "index_reference": "知道",
@@ -5705,13 +5707,14 @@
           "label": "智慧",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390874,
+    "content_id": "390874",
     "reference_id": 25945,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "知道-關係",
     "media_type": "Text",
     "index_reference": "知道-關係",
@@ -5720,13 +5723,14 @@
     "content": "<h1>認識、認識了、知識、未知</h1><h2>定義：</h2><p>在這個意義上，「認識」、「知識」和「認識了」這些詞語意味著與某人有關係。</p><ul><li><p>「認識」神意味著與祂建立關係。這同樣適用於認識人。</p></li><li><p>耶穌在馬太福音七章23節中說，在審判日，祂會對一些人說「我從來不認識你們」。說「我從來不認識你們」的意思是祂從未與他們有個人的關係。</p></li><li><p>「認識神」有時被用作「敬畏雅巍（和合本譯為：耶和華）」的同義詞。</p></li><li><p>當用於男人和女人時，「認識」通常是一種委婉用語，指的是發生性行為。</p></li></ul><h2>翻譯相關建議</h2><ul><li><p>根據上下文，「認識」的翻譯方式可以包括「熟識」、「熟悉」或「有關係」。</p></li><li><p>有些語言對於「認識」有兩個不同的詞彙，一個用於知道事實，另一個用於認識一個人並與那個人建立關係。在翻譯「認識」這個詞的意思時，在此應該使用表示認識一個人並與那個人建立關係的詞彙。</p></li></ul><p>（另見：<span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_know-information\" data-resourceType=\"UWTranslationWords\">知道-信息</span>，<span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_reveal\" data-resourceType=\"UWTranslationWords\">揭示</span>）</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390584,
+    "content_id": "390584",
     "reference_id": 25647,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "執事",
     "media_type": "Text",
     "index_reference": "執事",
@@ -5781,13 +5785,14 @@
           "label": "僕人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390428,
+    "content_id": "390428",
     "reference_id": 25487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "指派",
     "media_type": "Text",
     "index_reference": "指派",
@@ -5867,13 +5872,14 @@
           "label": "掃羅",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390958,
+    "content_id": "390958",
     "reference_id": 26032,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "至高者",
     "media_type": "Text",
     "index_reference": "至高者",
@@ -6017,13 +6023,14 @@
           "label": "神",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391088,
+    "content_id": "391088",
     "reference_id": 26166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "治理",
     "media_type": "Text",
     "index_reference": "治理",
@@ -6299,13 +6306,14 @@
           "label": "王國",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391270,
+    "content_id": "391270",
     "reference_id": 26350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "智慧",
     "media_type": "Text",
     "index_reference": "智慧",
@@ -7474,6 +7482,15 @@
           "resource_code": "UWTranslationWords",
           "label": "果子",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Wisdom",
+          "type": "person",
+          "preferred_label": "Wisdom",
+          "confidence": 0.8752,
+          "match_method": "embedding"
         }
       ]
     }

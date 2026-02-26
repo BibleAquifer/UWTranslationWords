@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390624,
+    "content_id": "390624",
     "reference_id": 25687,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "地",
     "media_type": "Text",
     "index_reference": "地",
@@ -3645,13 +3645,14 @@
           "label": "世界",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390914,
+    "content_id": "390914",
     "reference_id": 25988,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "地方法官",
     "media_type": "Text",
     "index_reference": "地方法官",
@@ -3744,13 +3745,14 @@
           "label": "摩西律法",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390760,
+    "content_id": "390760",
     "reference_id": 25829,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "地獄",
     "media_type": "Text",
     "index_reference": "地獄",
@@ -3884,13 +3886,22 @@
           "label": "天堂",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Hell",
+          "type": "place",
+          "preferred_label": "Hell",
+          "confidence": 0.9329,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390932,
+    "content_id": "390932",
     "reference_id": 26006,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "地中海",
     "media_type": "Text",
     "index_reference": "地中海",
@@ -3994,13 +4005,22 @@
           "label": "亨通",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:GreatSea",
+          "type": "place",
+          "preferred_label": "Mediterranean Sea",
+          "confidence": 0.8838,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390681,
+    "content_id": "390681",
     "reference_id": 25747,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "笛",
     "media_type": "Text",
     "index_reference": "笛",
@@ -4073,13 +4093,14 @@
           "label": "牧羊人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390404,
+    "content_id": "390404",
     "reference_id": 25463,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "敵基督",
     "media_type": "Text",
     "index_reference": "敵基督",
@@ -4128,7 +4149,8 @@
           "label": "患難",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

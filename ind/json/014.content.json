@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 676012,
+    "content_id": "676012",
     "reference_id": 25985,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ma'akha",
     "media_type": "Text",
     "index_reference": "ma'akha",
@@ -54,13 +54,50 @@
           "label": "Naftali",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gaham",
+          "type": "person",
+          "preferred_label": "Gaham",
+          "confidence": 0.8515,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Maacah",
+          "type": "person",
+          "preferred_label": "Maakha",
+          "confidence": 0.829,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tahash",
+          "type": "person",
+          "preferred_label": "Tahash",
+          "confidence": 0.757,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Reumah",
+          "type": "person",
+          "preferred_label": "Reuma",
+          "confidence": 0.6985,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tebah",
+          "type": "person",
+          "preferred_label": "Tebah",
+          "confidence": 0.6985,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675784,
+    "content_id": "675784",
     "reference_id": 25684,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mabuk",
     "media_type": "Text",
     "index_reference": "mabuk",
@@ -216,13 +253,14 @@
           "label": "Anggur",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675592,
+    "content_id": "675592",
     "reference_id": 25445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mahakuasa",
     "media_type": "Text",
     "index_reference": "mahakuasa",
@@ -529,13 +567,22 @@
           "label": "Tuan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Tuhan",
+          "confidence": 0.5329,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675755,
+    "content_id": "675755",
     "reference_id": 25628,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mahkota",
     "media_type": "Text",
     "index_reference": "mahkota",
@@ -764,13 +811,22 @@
           "label": "Raja",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Crown",
+          "type": "realia",
+          "preferred_label": "Crown",
+          "confidence": 0.5719,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676013,
+    "content_id": "676013",
     "reference_id": 25986,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Makedonia",
     "media_type": "Text",
     "index_reference": "makedonia",
@@ -998,13 +1054,22 @@
           "label": "Tesalonika",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Macedonia",
+          "type": "place",
+          "preferred_label": "Makedonia",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675752,
+    "content_id": "675752",
     "reference_id": 25625,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Makhluk",
     "media_type": "Text",
     "index_reference": "makhluk",
@@ -1160,13 +1225,14 @@
           "label": "Menciptakan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675606,
+    "content_id": "675606",
     "reference_id": 25459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Malaikat",
     "media_type": "Text",
     "index_reference": "malaikat",
@@ -2333,13 +2399,29 @@
           "label": "Memperbudak",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Angels",
+          "type": "group",
+          "preferred_label": "Angels",
+          "confidence": 0.8918,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Angel",
+          "type": "deity",
+          "preferred_label": "An Angel",
+          "confidence": 0.8457,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 675735,
+    "content_id": "675735",
     "reference_id": 25600,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Malakukan",
     "media_type": "Text",
     "index_reference": "malakukan",
@@ -2454,13 +2536,14 @@
           "label": "Dosa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676018,
+    "content_id": "676018",
     "reference_id": 25991,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maleakhi",
     "media_type": "Text",
     "index_reference": "maleakhi",
@@ -2533,13 +2616,50 @@
           "label": "Bertobat",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Malachi",
+          "type": "person",
+          "preferred_label": "Maleakhi",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Utterance",
+          "type": "keyterm",
+          "preferred_label": "ucapan ilahi",
+          "confidence": 0.7435,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Tuhan",
+          "confidence": 0.607,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5575,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "firman tuhan",
+          "confidence": 0.535,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676180,
+    "content_id": "676180",
     "reference_id": 26220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Malu",
     "media_type": "Text",
     "index_reference": "malu",
@@ -3266,13 +3386,14 @@
           "label": "Bersujud",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676020,
+    "content_id": "676020",
     "reference_id": 25993,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Manasye",
     "media_type": "Text",
     "index_reference": "manasye",
@@ -3394,13 +3515,29 @@
           "label": "Yusuf (PL)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Manasseh",
+          "type": "person",
+          "preferred_label": "Manasye",
+          "confidence": 0.9059,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Manasseh",
+          "type": "group",
+          "preferred_label": "Manasye",
+          "confidence": 0.5441,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676024,
+    "content_id": "676024",
     "reference_id": 25998,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maria",
     "media_type": "Text",
     "index_reference": "maria",
@@ -3597,13 +3734,22 @@
           "label": "Perawan / keperawanan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mary",
+          "type": "person",
+          "preferred_label": "Maria",
+          "confidence": 0.9167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676026,
+    "content_id": "676026",
     "reference_id": 26000,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maria (saudara perempuan Marta)",
     "media_type": "Text",
     "index_reference": "maria (saudara perempuan marta)",
@@ -3719,13 +3865,29 @@
           "label": "Marta",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "Maria",
+          "confidence": 0.9143,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Martha",
+          "type": "person",
+          "preferred_label": "Marta",
+          "confidence": 0.6529,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676025,
+    "content_id": "676025",
     "reference_id": 25999,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maria Magdalena",
     "media_type": "Text",
     "index_reference": "maria magdalena",
@@ -3852,13 +4014,36 @@
           "label": "Kerasukan setan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Marymagdalene",
+          "type": "person",
+          "preferred_label": "Maria",
+          "confidence": 0.8476,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "Maria",
+          "confidence": 0.7143,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "Maria",
+          "confidence": 0.619,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676023,
+    "content_id": "676023",
     "reference_id": 25997,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marta",
     "media_type": "Text",
     "index_reference": "marta",
@@ -3966,13 +4151,29 @@
           "label": "Maria (saudara perempuan Marta)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Martha",
+          "type": "person",
+          "preferred_label": "Marta",
+          "confidence": 0.9,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "Maria",
+          "confidence": 0.66,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676233,
+    "content_id": "676233",
     "reference_id": 26320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Masalah",
     "media_type": "Text",
     "index_reference": "masalah",
@@ -4393,13 +4594,14 @@
           "label": "Persekusi",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676027,
+    "content_id": "676027",
     "reference_id": 26001,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Matius",
     "media_type": "Text",
     "index_reference": "matius",
@@ -4477,13 +4679,43 @@
           "label": "Rasul",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "Matius",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Tomas",
+          "confidence": 0.5308,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.5237,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Alphaeus",
+          "type": "person",
+          "preferred_label": "Alfeus",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676117,
+    "content_id": "676117",
     "reference_id": 26140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mazmur",
     "media_type": "Text",
     "index_reference": "mazmur",
@@ -4565,13 +4797,14 @@
           "label": "Musa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676029,
+    "content_id": "676029",
     "reference_id": 26003,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Media",
     "media_type": "Text",
     "index_reference": "media",
@@ -4652,13 +4885,36 @@
           "label": "Elam",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Medan",
+          "type": "person",
+          "preferred_label": "Media",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Media",
+          "type": "place",
+          "preferred_label": "Media",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Mede",
+          "type": "group",
+          "preferred_label": "Medes",
+          "confidence": 0.66,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675668,
+    "content_id": "675668",
     "reference_id": 25522,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melahirkan",
     "media_type": "Text",
     "index_reference": "melahirkan",
@@ -4667,13 +4923,14 @@
     "content": "<h1>melahirkan, memperanakkan, memberi kehidupan, diperanakkan</h1><h2>Definisi:</h2><p>Istilah “beget” berarti menjadi bapa dari seseorang.</p><h2>Saran Penerjemahan:</h2><ul><li><p>Anda dapat menerjemahkan frasa &quot;beget&quot; sebagai “melahirkan” dan istilah “begat” sebagai “melahirkan” dan istilah “begot” sebagai “memberi kehidupan”.</p></li><li><p>Istilah “begotten” adalah bentuk pasif dari “beget” dan berarti “dilahirkan”.</p></li></ul><h2>Referensi Alkitab:</h2><h2>Data Kata:</h2><ul><li><p></p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 676227,
+    "content_id": "676227",
     "reference_id": 26312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melanggar",
     "media_type": "Text",
     "index_reference": "melanggar",
@@ -4915,13 +5172,14 @@
           "label": "Pelanggaran",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676060,
+    "content_id": "676060",
     "reference_id": 26036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melipatgandaan",
     "media_type": "Text",
     "index_reference": "melipatgandaan",
@@ -5375,13 +5633,14 @@
           "end_ref_usfm": "HOS 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 676034,
+    "content_id": "676034",
     "reference_id": 26008,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melkisedek",
     "media_type": "Text",
     "index_reference": "melkisedek",
@@ -5487,13 +5746,22 @@
           "label": "Benar",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Melchizedek",
+          "type": "person",
+          "preferred_label": "Melkisedek",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675851,
+    "content_id": "675851",
     "reference_id": 25752,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memaafkan",
     "media_type": "Text",
     "index_reference": "memaafkan",
@@ -5955,13 +6223,22 @@
           "label": "Bersalah",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Forgive",
+          "type": "keyterm",
+          "preferred_label": "mengampuni",
+          "confidence": 0.6819,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676237,
+    "content_id": "676237",
     "reference_id": 26327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memahami",
     "media_type": "Text",
     "index_reference": "memahami",
@@ -7025,13 +7302,22 @@
           "label": "Bijaksana",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:DealGently",
+          "type": "keyterm",
+          "preferred_label": "mengerti",
+          "confidence": 0.8594,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 675713,
+    "content_id": "675713",
     "reference_id": 25567,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memanggil",
     "media_type": "Text",
     "index_reference": "memanggil",
@@ -7087,13 +7373,22 @@
           "label": "Berdoa",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesus",
+          "confidence": 0.5655,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675714,
+    "content_id": "675714",
     "reference_id": 25568,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memanggil",
     "media_type": "Text",
     "index_reference": "memanggil",
@@ -7141,13 +7436,14 @@
           "label": "Panggilan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675640,
+    "content_id": "675640",
     "reference_id": 25493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membalas dendam",
     "media_type": "Text",
     "index_reference": "membalas dendam",
@@ -7329,13 +7625,22 @@
           "label": "Benar",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GrantJustice",
+          "type": "keyterm",
+          "preferred_label": "menuntut pembalasan",
+          "confidence": 0.581,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675650,
+    "content_id": "675650",
     "reference_id": 25503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membaptis",
     "media_type": "Text",
     "index_reference": "membaptis",
@@ -7817,13 +8122,29 @@
           "label": "Bertobat",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "baptisan",
+          "confidence": 0.8715,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "Yohanes",
+          "confidence": 0.5047,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675771,
+    "content_id": "675771",
     "reference_id": 25656,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membebaskan",
     "media_type": "Text",
     "index_reference": "membebaskan",
@@ -7832,13 +8153,14 @@
     "content": "<h1>membebaskan, menyerahkan, menyerahkan, melepaskan</h1><h2>Definisi:</h2><ul><li><p>Istilah &quot;membebaskan&quot; atau &quot; membebaskan kepada&quot; atau &quot;menyerahkan kepada&quot; dapat berarti menyerahkan seseorang kepada musuh atau lawan, seperti ketika Yudas menyerahkan Yesus kepada para pemimpin Yahudi atau ketika Allah menyerahkan Israel kepada musuh-musuh mereka karena dosa yang berulang-ulang.</p></li></ul><h2>Saran Penerjemahan:</h2><ul><li><p>Ketika &quot;membebaskan&quot; berarti seseorang atau seseorang menyerahkan seseorang kepada musuh, maka dapat diterjemahkan sebagai &quot;mengkhianati&quot; atau &quot;melepaskan&quot; atau &quot;menyerahkan.&quot; Ketika &quot;menyerahkan&quot; merujuk kepada Allah yang menyerahkan seseorang kepada musuh, maka kata ini dapat diterjemahkan menjadi &quot;melepaskan&quot; atau &quot;menyerahkan&quot;.</p></li></ul><h2>Rujukan Alkitab:</h2><h2>Contoh dari Buku Kisah Alkitab OBS:</h2><h2>Data Kata:</h2><ul><li><p>Strong’s: H1350, H2020, H2502, H3205, H3444, H3467, H4042, H4422, H4672, H5337, H5414, H5462, H6299, H6403, H6413, H6475, H6561, H7725, H7804, H8199, G03250, G05250, G06290, G10800, G13250, G15600, G16590, G18070, G19290, G26730, G30860, G38600, G45060, G49910, G50880, G54830</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675772,
+    "content_id": "675772",
     "reference_id": 25657,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membebaskan",
     "media_type": "Text",
     "index_reference": "membebaskan",
@@ -8217,13 +8539,29 @@
           "label": "Menyelamatkan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Rescue",
+          "type": "keyterm",
+          "preferred_label": "melepaskan",
+          "confidence": 0.5327,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Deliver",
+          "type": "keyterm",
+          "preferred_label": "menyelamatkan",
+          "confidence": 0.5059,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676053,
+    "content_id": "676053",
     "reference_id": 26028,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membentuk",
     "media_type": "Text",
     "index_reference": "membentuk",
@@ -8254,13 +8592,14 @@
           "label": "Perak",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675923,
+    "content_id": "675923",
     "reference_id": 25871,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memberi perintah",
     "media_type": "Text",
     "index_reference": "memberi perintah",
@@ -8582,13 +8921,29 @@
           "end_ref_usfm": "HEB 11:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Command",
+          "type": "keyterm",
+          "preferred_label": "memerintahkan",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Commandment",
+          "type": "keyterm",
+          "preferred_label": "perintah",
+          "confidence": 0.8052,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 676131,
+    "content_id": "676131",
     "reference_id": 26157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memberontak",
     "media_type": "Text",
     "index_reference": "memberontak",
@@ -8774,13 +9129,22 @@
           "label": "Otoritas",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Rebel",
+          "type": "keyterm",
+          "preferred_label": "memberontak",
+          "confidence": 0.5625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675721,
+    "content_id": "675721",
     "reference_id": 25576,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membuang",
     "media_type": "Text",
     "index_reference": "membuang",
@@ -9261,13 +9625,14 @@
           "label": "Kerasukan setan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675582,
+    "content_id": "675582",
     "reference_id": 25435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membuat menderita",
     "media_type": "Text",
     "index_reference": "membuat menderita",
@@ -9591,13 +9956,14 @@
           "label": "Menderita",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675698,
+    "content_id": "675698",
     "reference_id": 25552,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Membungkuk",
     "media_type": "Text",
     "index_reference": "membungkuk",
@@ -10156,13 +10522,14 @@
           "label": "Bersujud",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676120,
+    "content_id": "676120",
     "reference_id": 26144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memenuhi syarat",
     "media_type": "Text",
     "index_reference": "memenuhi syarat",
@@ -10207,13 +10574,14 @@
           "label": "Menebus",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676140,
+    "content_id": "676140",
     "reference_id": 26166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memerintah",
     "media_type": "Text",
     "index_reference": "memerintah",
@@ -10481,13 +10849,14 @@
           "end_ref_usfm": "LUK 19:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 676156,
+    "content_id": "676156",
     "reference_id": 26184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memerintah",
     "media_type": "Text",
     "index_reference": "memerintah",
@@ -11328,13 +11697,14 @@
           "label": "Raja",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676037,
+    "content_id": "676037",
     "reference_id": 26011,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memfis",
     "media_type": "Text",
     "index_reference": "memfis",
@@ -11365,13 +11735,57 @@
           "label": "Sungai Nil",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Memphis",
+          "type": "place",
+          "preferred_label": "Memfis",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:Thistle",
+          "type": "flora",
+          "preferred_label": "Thistle",
+          "confidence": 0.6895,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:Nettle",
+          "type": "flora",
+          "preferred_label": "Nettle",
+          "confidence": 0.6895,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Mesir",
+          "confidence": 0.6475,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Dispossess",
+          "type": "keyterm",
+          "preferred_label": "mengusir",
+          "confidence": 0.5935,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Money",
+          "type": "realia",
+          "preferred_label": "Money",
+          "confidence": 0.562,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676102,
+    "content_id": "676102",
     "reference_id": 26114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memiliki",
     "media_type": "Text",
     "index_reference": "memiliki",
@@ -11739,13 +12153,14 @@
           "label": "Bersujud",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675666,
+    "content_id": "675666",
     "reference_id": 25520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Meminta",
     "media_type": "Text",
     "index_reference": "meminta",
@@ -11769,13 +12184,22 @@
           "label": "Permohonan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:AskFor",
+          "type": "keyterm",
+          "preferred_label": "meminta",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 675667,
+    "content_id": "675667",
     "reference_id": 25521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Meminta",
     "media_type": "Text",
     "index_reference": "meminta",
@@ -12021,13 +12445,22 @@
           "label": "Permohonan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:AskFor",
+          "type": "keyterm",
+          "preferred_label": "meminta",
+          "confidence": 0.7447,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675704,
+    "content_id": "675704",
     "reference_id": 25558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mempelai laki-laki",
     "media_type": "Text",
     "index_reference": "mempelai laki-laki",
@@ -12154,13 +12587,14 @@
           "label": "Pernikahan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675803,
+    "content_id": "675803",
     "reference_id": 25704,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memperbudak",
     "media_type": "Text",
     "index_reference": "memperbudak",
@@ -12270,13 +12704,14 @@
           "label": "Memperbudak",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676178,
+    "content_id": "676178",
     "reference_id": 26217,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Memperbudak",
     "media_type": "Text",
     "index_reference": "memperbudak",
@@ -15367,13 +15802,14 @@
           "label": "Benar",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675926,
+    "content_id": "675926",
     "reference_id": 25874,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menafsirkan",
     "media_type": "Text",
     "index_reference": "menafsirkan",
@@ -15592,13 +16028,14 @@
           "label": "Penglihatan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676082,
+    "content_id": "676082",
     "reference_id": 26065,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menahbiskan",
     "media_type": "Text",
     "index_reference": "menahbiskan",
@@ -15714,13 +16151,14 @@
           "label": "Hukum",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675768,
+    "content_id": "675768",
     "reference_id": 25653,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menajiskan",
     "media_type": "Text",
     "index_reference": "menajiskan",
@@ -15943,13 +16381,14 @@
           "label": "Cemar",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675659,
+    "content_id": "675659",
     "reference_id": 25513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menanggung",
     "media_type": "Text",
     "index_reference": "menanggung",
@@ -15966,13 +16405,14 @@
           "label": "Kedurhakaan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675819,
+    "content_id": "675819",
     "reference_id": 25720,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menasihati",
     "media_type": "Text",
     "index_reference": "menasihati",
@@ -16330,13 +16770,22 @@
           "end_ref_usfm": "1TH 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:AskFor",
+          "type": "keyterm",
+          "preferred_label": "meminta",
+          "confidence": 0.577,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 676174,
+    "content_id": "676174",
     "reference_id": 26209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mencari",
     "media_type": "Text",
     "index_reference": "mencari",
@@ -17494,13 +17943,14 @@
           "label": "Adil",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675751,
+    "content_id": "675751",
     "reference_id": 25624,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menciptakan",
     "media_type": "Text",
     "index_reference": "menciptakan",
@@ -17832,13 +18282,14 @@
           "label": "Dunia",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675994,
+    "content_id": "675994",
     "reference_id": 25944,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mencium",
     "media_type": "Text",
     "index_reference": "mencium",
@@ -18040,13 +18491,14 @@
           "end_ref_usfm": "GEN 27:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 676215,
+    "content_id": "676215",
     "reference_id": 26285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mencobai",
     "media_type": "Text",
     "index_reference": "mencobai",
@@ -18204,13 +18656,22 @@
           "label": "Uji",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:PutToTheTest",
+          "type": "keyterm",
+          "preferred_label": "mencobai",
+          "confidence": 0.9429,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676134,
+    "content_id": "676134",
     "reference_id": 26160,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mendamaikan",
     "media_type": "Text",
     "index_reference": "mendamaikan",
@@ -18313,13 +18774,29 @@
           "label": "Pengorbanan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Reconcile",
+          "type": "keyterm",
+          "preferred_label": "memperdamaikan",
+          "confidence": 0.7767,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Peace",
+          "type": "keyterm",
+          "preferred_label": "memperdamaikan",
+          "confidence": 0.5367,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675767,
+    "content_id": "675767",
     "reference_id": 25649,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mendeklarasikan",
     "media_type": "Text",
     "index_reference": "mendeklarasikan",
@@ -18601,13 +19078,14 @@
           "label": "<h2>berkhotbah",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676211,
+    "content_id": "676211",
     "reference_id": 26272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menderita",
     "media_type": "Text",
     "index_reference": "menderita",
@@ -19049,13 +19527,14 @@
           "end_ref_usfm": "JER 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675799,
+    "content_id": "675799",
     "reference_id": 25700,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mendorong",
     "media_type": "Text",
     "index_reference": "mendorong",
@@ -19072,13 +19551,14 @@
           "label": "Menasihati",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676135,
+    "content_id": "676135",
     "reference_id": 26161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menebus",
     "media_type": "Text",
     "index_reference": "menebus",
@@ -19366,13 +19846,22 @@
           "label": "Bebas",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Liberation",
+          "type": "keyterm",
+          "preferred_label": "penebusan",
+          "confidence": 0.6266,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676132,
+    "content_id": "676132",
     "reference_id": 26158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menegur",
     "media_type": "Text",
     "index_reference": "menegur",
@@ -19840,13 +20329,14 @@
           "label": "<p>#menegur",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676133,
+    "content_id": "676133",
     "reference_id": 26159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menerima",
     "media_type": "Text",
     "index_reference": "menerima",
@@ -21223,13 +21713,14 @@
           "label": "Menyelamatkan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675739,
+    "content_id": "675739",
     "reference_id": 25606,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengaku",
     "media_type": "Text",
     "index_reference": "mengaku",
@@ -21500,13 +21991,14 @@
           "label": "Kesaksian",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675575,
+    "content_id": "675575",
     "reference_id": 25428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengakui",
     "media_type": "Text",
     "index_reference": "mengakui",
@@ -21579,13 +22071,14 @@
           "label": "Menyelamatkan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675661,
+    "content_id": "675661",
     "reference_id": 25515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengandung",
     "media_type": "Text",
     "index_reference": "mengandung",
@@ -22533,13 +23026,14 @@
           "label": "Buah",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676084,
+    "content_id": "676084",
     "reference_id": 26067,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengawasi",
     "media_type": "Text",
     "index_reference": "mengawasi",
@@ -22690,13 +23184,14 @@
           "label": "Penatua",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676052,
+    "content_id": "676052",
     "reference_id": 26027,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengejek",
     "media_type": "Text",
     "index_reference": "mengejek",
@@ -23024,13 +23519,14 @@
           "end_ref_usfm": "MAT 9:24"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675860,
+    "content_id": "675860",
     "reference_id": 25761,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menggenapi",
     "media_type": "Text",
     "index_reference": "menggenapi",
@@ -23470,13 +23966,22 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Happen",
+          "type": "keyterm",
+          "preferred_label": "menggenapi",
+          "confidence": 0.7863,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675693,
+    "content_id": "675693",
     "reference_id": 25547,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menghapuskan",
     "media_type": "Text",
     "index_reference": "menghapuskan",
@@ -23564,13 +24069,22 @@
           "end_ref_usfm": "EXO 32:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Destroy",
+          "type": "keyterm",
+          "preferred_label": "menghancurkan",
+          "confidence": 0.6243,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 676116,
+    "content_id": "676116",
     "reference_id": 26138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menghasut",
     "media_type": "Text",
     "index_reference": "menghasut",
@@ -23628,13 +24142,14 @@
           "end_ref_usfm": "EZK 20:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675734,
+    "content_id": "675734",
     "reference_id": 25598,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menghibur",
     "media_type": "Text",
     "index_reference": "menghibur",
@@ -23948,13 +24463,22 @@
           "label": "Roh Kudus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Encourage",
+          "type": "keyterm",
+          "preferred_label": "menasihati",
+          "confidence": 0.514,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675689,
+    "content_id": "675689",
     "reference_id": 25543,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menghujat",
     "media_type": "Text",
     "index_reference": "menghujat",
@@ -24237,13 +24761,22 @@
           "label": "Fitnah",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Blaspheme",
+          "type": "keyterm",
+          "preferred_label": "menghujat",
+          "confidence": 0.887,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676118,
+    "content_id": "676118",
     "reference_id": 26141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menghukum",
     "media_type": "Text",
     "index_reference": "menghukum",
@@ -24408,13 +24941,14 @@
           "label": "Dosa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675695,
+    "content_id": "675695",
     "reference_id": 25549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengikat",
     "media_type": "Text",
     "index_reference": "mengikat",
@@ -24896,13 +25430,14 @@
           "label": "Memperbudak",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675679,
+    "content_id": "675679",
     "reference_id": 25533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengkhianati",
     "media_type": "Text",
     "index_reference": "mengkhianati",
@@ -25150,13 +25685,14 @@
           "label": "Yudas Iskariot",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676085,
+    "content_id": "676085",
     "reference_id": 26068,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menguasai",
     "media_type": "Text",
     "index_reference": "menguasai",
@@ -25230,13 +25766,14 @@
           "label": "Menghukum",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675707,
+    "content_id": "675707",
     "reference_id": 25561,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menguburkan",
     "media_type": "Text",
     "index_reference": "menguburkan",
@@ -25542,13 +26079,14 @@
           "label": "Yerikho",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675742,
+    "content_id": "675742",
     "reference_id": 25609,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menguduskan",
     "media_type": "Text",
     "index_reference": "menguduskan",
@@ -25664,13 +26202,14 @@
           "label": "Menyucikan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675609,
+    "content_id": "675609",
     "reference_id": 25462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengurapi",
     "media_type": "Text",
     "index_reference": "mengurapi",
@@ -25944,13 +26483,22 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Anointed",
+          "type": "keyterm",
+          "preferred_label": "diurapi",
+          "confidence": 0.5814,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675757,
+    "content_id": "675757",
     "reference_id": 25632,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mengutuk",
     "media_type": "Text",
     "index_reference": "mengutuk",
@@ -26268,13 +26816,22 @@
           "label": "Berkat",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Curse",
+          "type": "keyterm",
+          "preferred_label": "kutuk",
+          "confidence": 0.5347,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675853,
+    "content_id": "675853",
     "reference_id": 25754,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Meninggalkan",
     "media_type": "Text",
     "index_reference": "meninggalkan",
@@ -26554,13 +27111,14 @@
           "end_ref_usfm": "PRO 27:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675818,
+    "content_id": "675818",
     "reference_id": 25719,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Meninggikan",
     "media_type": "Text",
     "index_reference": "meninggikan",
@@ -26754,13 +27312,14 @@
           "label": "Bersujud",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675766,
+    "content_id": "675766",
     "reference_id": 25648,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menipu",
     "media_type": "Text",
     "index_reference": "menipu",
@@ -27394,13 +27953,22 @@
           "end_ref_usfm": "LEV 19:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Deceit",
+          "type": "keyterm",
+          "preferred_label": "penipuan",
+          "confidence": 0.5181,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 676141,
+    "content_id": "676141",
     "reference_id": 26167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menolak",
     "media_type": "Text",
     "index_reference": "menolak",
@@ -27632,13 +28200,14 @@
           "end_ref_usfm": "JHN 12:50"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675634,
+    "content_id": "675634",
     "reference_id": 25487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menugaskan",
     "media_type": "Text",
     "index_reference": "menugaskan",
@@ -27718,13 +28287,14 @@
           "label": "Saul (PL)",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676220,
+    "content_id": "676220",
     "reference_id": 26300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menumbuk/mengirik",
     "media_type": "Text",
     "index_reference": "menumbuk/mengirik",
@@ -27830,13 +28400,14 @@
           "end_ref_usfm": "RUT 3:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675614,
+    "content_id": "675614",
     "reference_id": 25467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menunjuk",
     "media_type": "Text",
     "index_reference": "menunjuk",
@@ -28464,13 +29035,14 @@
           "end_ref_usfm": "NUM 3:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675756,
+    "content_id": "675756",
     "reference_id": 25629,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menyalibkan",
     "media_type": "Text",
     "index_reference": "menyalibkan",
@@ -28795,13 +29367,22 @@
           "label": "Roma",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Cross",
+          "type": "realia",
+          "preferred_label": "Cross",
+          "confidence": 0.5316,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676169,
+    "content_id": "676169",
     "reference_id": 26201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menyelamatkan",
     "media_type": "Text",
     "index_reference": "menyelamatkan",
@@ -29813,13 +30394,29 @@
           "label": "Dosa",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Salvation",
+          "type": "keyterm",
+          "preferred_label": "keselamatan",
+          "confidence": 0.8351,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Deliver",
+          "type": "keyterm",
+          "preferred_label": "menyelamatkan",
+          "confidence": 0.6048,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676165,
+    "content_id": "676165",
     "reference_id": 26195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Menyucikan",
     "media_type": "Text",
     "index_reference": "menyucikan",
@@ -30042,13 +30639,22 @@
           "label": "Kudus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Consecration.2",
+          "type": "keyterm",
+          "preferred_label": "dikhususkan",
+          "confidence": 0.6052,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676031,
+    "content_id": "676031",
     "reference_id": 26005,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Merenungkan",
     "media_type": "Text",
     "index_reference": "merenungkan",
@@ -30082,13 +30688,14 @@
           "end_ref_usfm": "JOS 1:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 676039,
+    "content_id": "676039",
     "reference_id": 26013,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mesekh",
     "media_type": "Text",
     "index_reference": "mesekh",
@@ -30150,13 +30757,43 @@
           "label": "Sem",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Meshech.2",
+          "type": "person",
+          "preferred_label": "Mesekh",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Javan",
+          "type": "person",
+          "preferred_label": "Yunani",
+          "confidence": 0.543,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mash",
+          "type": "person",
+          "preferred_label": "Mas",
+          "confidence": 0.5329,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Meshech",
+          "type": "place",
+          "preferred_label": "Mesekh",
+          "confidence": 0.5227,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675789,
+    "content_id": "675789",
     "reference_id": 25690,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mesir",
     "media_type": "Text",
     "index_reference": "mesir",
@@ -31825,13 +32462,29 @@
           "label": "Sungai Nil",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Mesir",
+          "confidence": 0.9942,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Egypt",
+          "type": "person",
+          "preferred_label": "Mesir",
+          "confidence": 0.6029,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676040,
+    "content_id": "676040",
     "reference_id": 26014,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mesopotamia",
     "media_type": "Text",
     "index_reference": "mesopotamia",
@@ -31894,13 +32547,29 @@
           "label": "Sungai Efrat",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Mesopotamia",
+          "type": "place",
+          "preferred_label": "Aram-Mesopotamia",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Aram-naharaim",
+          "type": "place",
+          "preferred_label": "orang",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676172,
+    "content_id": "676172",
     "reference_id": 26206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Meterai",
     "media_type": "Text",
     "index_reference": "meterai",
@@ -32116,13 +32785,22 @@
           "label": "Roh Kudus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Seal",
+          "type": "realia",
+          "preferred_label": "Seal",
+          "confidence": 0.5271,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675919,
+    "content_id": "675919",
     "reference_id": 25867,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mewarisi",
     "media_type": "Text",
     "index_reference": "mewarisi",
@@ -32545,13 +33223,14 @@
           "label": "Tanah Perjanjian",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675594,
+    "content_id": "675594",
     "reference_id": 25447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mezbah",
     "media_type": "Text",
     "index_reference": "mezbah",
@@ -33099,13 +33778,36 @@
           "label": "Pengorbanan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:TempleAltar",
+          "type": "realia",
+          "preferred_label": "Temple Altar",
+          "confidence": 0.5387,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:StoneAltar",
+          "type": "realia",
+          "preferred_label": "Stone Altar",
+          "confidence": 0.5253,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:TabernacleAltar",
+          "type": "realia",
+          "preferred_label": "Tabernacle Altar",
+          "confidence": 0.5207,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675595,
+    "content_id": "675595",
     "reference_id": 25448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mezbah dupa",
     "media_type": "Text",
     "index_reference": "mezbah dupa",
@@ -33147,13 +33849,14 @@
           "label": "Dupa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676044,
+    "content_id": "676044",
     "reference_id": 26018,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Midian",
     "media_type": "Text",
     "index_reference": "midian",
@@ -33296,13 +33999,43 @@
           "label": "Musa",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Midian",
+          "type": "place",
+          "preferred_label": "Midian",
+          "confidence": 0.8353,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Midian",
+          "type": "group",
+          "preferred_label": "Midianites",
+          "confidence": 0.6471,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Midian",
+          "type": "person",
+          "preferred_label": "Midian",
+          "confidence": 0.6471,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Medan",
+          "type": "person",
+          "preferred_label": "Media",
+          "confidence": 0.547,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676042,
+    "content_id": "676042",
     "reference_id": 26016,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mikha",
     "media_type": "Text",
     "index_reference": "mikha",
@@ -33414,13 +34147,36 @@
           "label": "Perak",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Micah.6",
+          "type": "person",
+          "preferred_label": "Mikha",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mica",
+          "type": "person",
+          "preferred_label": "Mikha",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Tuhan",
+          "confidence": 0.527,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676043,
+    "content_id": "676043",
     "reference_id": 26017,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mikhael",
     "media_type": "Text",
     "index_reference": "mikhael",
@@ -33481,13 +34237,29 @@
           "label": "Utusan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Michael.11",
+          "type": "person",
+          "preferred_label": "Mikhael",
+          "confidence": 0.8286,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Michael.10",
+          "type": "person",
+          "preferred_label": "Mikhael",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675783,
+    "content_id": "675783",
     "reference_id": 25682,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mimpi",
     "media_type": "Text",
     "index_reference": "mimpi",
@@ -33763,13 +34535,14 @@
           "label": "Penglihatan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675684,
+    "content_id": "675684",
     "reference_id": 25538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Minggu",
     "media_type": "Text",
     "index_reference": "minggu",
@@ -33809,13 +34582,22 @@
           "end_ref_usfm": "LEV 23:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Week",
+          "type": "keyterm",
+          "preferred_label": "minggu",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 676048,
+    "content_id": "676048",
     "reference_id": 26023,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miriam",
     "media_type": "Text",
     "index_reference": "miriam",
@@ -33910,13 +34692,22 @@
           "label": "Memberontak",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Miriam",
+          "type": "person",
+          "preferred_label": "Miryam",
+          "confidence": 0.84,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676049,
+    "content_id": "676049",
     "reference_id": 26024,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Misael",
     "media_type": "Text",
     "index_reference": "misael",
@@ -33960,13 +34751,43 @@
           "label": "Babilon",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mishael.3",
+          "type": "person",
+          "preferred_label": "Misael",
+          "confidence": 0.9,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 0.775,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.15",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.5895,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Azariah.20",
+          "type": "person",
+          "preferred_label": "Azarya",
+          "confidence": 0.5895,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676050,
+    "content_id": "676050",
     "reference_id": 26025,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mizpa",
     "media_type": "Text",
     "index_reference": "mizpa",
@@ -34073,13 +34894,22 @@
           "label": "Saul (PL)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Mizpah",
+          "type": "place",
+          "preferred_label": "Mizpa",
+          "confidence": 0.6633,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676051,
+    "content_id": "676051",
     "reference_id": 26026,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moab",
     "media_type": "Text",
     "index_reference": "moab",
@@ -34251,13 +35081,29 @@
           "label": "Laut Asin",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Moab",
+          "type": "place",
+          "preferred_label": "Moab",
+          "confidence": 0.9619,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Moab",
+          "type": "person",
+          "preferred_label": "Moab",
+          "confidence": 0.619,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676054,
+    "content_id": "676054",
     "reference_id": 26029,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Molekh",
     "media_type": "Text",
     "index_reference": "molekh",
@@ -34340,13 +35186,22 @@
           "label": "Bersujud",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Molech",
+          "type": "deity",
+          "preferred_label": "Molokh",
+          "confidence": 0.8452,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676055,
+    "content_id": "676055",
     "reference_id": 26030,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mordekhai",
     "media_type": "Text",
     "index_reference": "mordekhai",
@@ -34414,13 +35269,29 @@
           "label": "Ester",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Mordecai",
+          "type": "person",
+          "preferred_label": "Mordekhai",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mordecai.2",
+          "type": "person",
+          "preferred_label": "Mordekhai",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676078,
+    "content_id": "676078",
     "reference_id": 26056,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mulia",
     "media_type": "Text",
     "index_reference": "mulia",
@@ -34550,13 +35421,22 @@
           "end_ref_usfm": "PSA 16:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Mighty",
+          "type": "keyterm",
+          "preferred_label": "mulia",
+          "confidence": 0.8136,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 675913,
+    "content_id": "675913",
     "reference_id": 25861,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Munafik",
     "media_type": "Text",
     "index_reference": "munafik",
@@ -34734,13 +35614,22 @@
           "end_ref_usfm": "MAT 6:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Hypocrisy",
+          "type": "keyterm",
+          "preferred_label": "kemunafikan",
+          "confidence": 0.5838,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 675777,
+    "content_id": "675777",
     "reference_id": 25669,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Murid",
     "media_type": "Text",
     "index_reference": "murid",
@@ -36303,13 +37192,22 @@
           "label": "Yohanes (Pembaptis)",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "menjadi murid",
+          "confidence": 0.9922,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676255,
+    "content_id": "676255",
     "reference_id": 26358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Murka",
     "media_type": "Text",
     "index_reference": "murka",
@@ -36700,13 +37598,14 @@
           "label": "Dosa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676119,
+    "content_id": "676119",
     "reference_id": 26142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Murni",
     "media_type": "Text",
     "index_reference": "murni",
@@ -37206,13 +38105,22 @@
           "label": "Roh",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pure",
+          "type": "keyterm",
+          "preferred_label": "murni",
+          "confidence": 0.878,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676056,
+    "content_id": "676056",
     "reference_id": 26031,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Musa",
     "media_type": "Text",
     "index_reference": "musa",
@@ -39283,13 +40191,29 @@
           "label": "Tanah Perjanjian",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Musa",
+          "confidence": 0.9977,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Tuhan",
+          "confidence": 0.5908,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675581,
+    "content_id": "675581",
     "reference_id": 25434,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Musuh",
     "media_type": "Text",
     "index_reference": "musuh",
@@ -39691,7 +40615,8 @@
           "label": "Setan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

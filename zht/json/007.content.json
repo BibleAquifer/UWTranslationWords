@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391005,
+    "content_id": "391005",
     "reference_id": 26079,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "保羅",
     "media_type": "Text",
     "index_reference": "保羅",
@@ -1084,13 +1084,22 @@
           "label": "羅馬城",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paul",
+          "confidence": 0.5409,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391034,
+    "content_id": "391034",
     "reference_id": 26109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "保證",
     "media_type": "Text",
     "index_reference": "保證",
@@ -1229,13 +1238,14 @@
           "label": "應許",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391187,
+    "content_id": "391187",
     "reference_id": 26266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "堡壘",
     "media_type": "Text",
     "index_reference": "堡壘",
@@ -1369,13 +1379,22 @@
           "label": "雅巍",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Fortress",
+          "type": "realia",
+          "preferred_label": "Fortress",
+          "confidence": 0.848,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391222,
+    "content_id": "391222",
     "reference_id": 26302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "寶座",
     "media_type": "Text",
     "index_reference": "寶座",
@@ -1815,13 +1834,14 @@
           "label": "治理",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390892,
+    "content_id": "390892",
     "reference_id": 25964,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "豹",
     "media_type": "Text",
     "index_reference": "豹",
@@ -1890,13 +1910,14 @@
           "label": "異象",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390434,
+    "content_id": "390434",
     "reference_id": 25493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "報仇",
     "media_type": "Text",
     "index_reference": "報仇",
@@ -2078,13 +2099,14 @@
           "label": "公義",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391093,
+    "content_id": "391093",
     "reference_id": 26171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "報告",
     "media_type": "Text",
     "index_reference": "報告",
@@ -2634,7 +2656,8 @@
           "end_ref_usfm": "LUK 8:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

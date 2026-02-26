@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390375,
+    "content_id": "390375",
     "reference_id": 25434,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "仇敵",
     "media_type": "Text",
     "index_reference": "仇敵",
@@ -403,6 +403,22 @@
           "resource_code": "UWTranslationWords",
           "label": "撒但",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "group:GenericEnemies",
+          "type": "group",
+          "preferred_label": "Enemies",
+          "confidence": 0.8708,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:GenericEnemy",
+          "type": "person",
+          "preferred_label": "An Enemy",
+          "confidence": 0.8235,
+          "match_method": "embedding"
         }
       ]
     }

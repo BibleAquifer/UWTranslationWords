@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 575609,
+    "content_id": "575609",
     "reference_id": 26034,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mlima wa Mizeituni",
     "media_type": "Text",
     "index_reference": " mlima wa mizeituni",
@@ -104,6 +104,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Mzeituni",
           "language": "swh"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:OlivesMount",
+          "type": "place",
+          "preferred_label": "Mizeituni",
+          "confidence": 0.68,
+          "match_method": "scored"
         }
       ]
     }

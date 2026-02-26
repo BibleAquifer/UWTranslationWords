@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196250,
+    "content_id": "196250",
     "reference_id": 25847,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الرجاء",
     "media_type": "Text",
     "index_reference": "الرجاء",
@@ -623,13 +623,22 @@
           "label": "كلمة الله",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Hope",
+          "type": "keyterm",
+          "preferred_label": "Hope",
+          "confidence": 0.5217,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196389,
+    "content_id": "196389",
     "reference_id": 26012,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الرحمة",
     "media_type": "Text",
     "index_reference": "الرحمة",
@@ -1098,13 +1107,29 @@
           "label": "يغفر",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "Mercy",
+          "confidence": 0.8977,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Kindness",
+          "type": "keyterm",
+          "preferred_label": "Kindness",
+          "confidence": 0.8465,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196420,
+    "content_id": "196420",
     "reference_id": 26051,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الرفائيين",
     "media_type": "Text",
     "index_reference": "الرفائيين",
@@ -1113,13 +1138,14 @@
     "content": "<h1>الرفائيين</h1><h2>حقائق:</h2><p>مصطلح &quot;الرفائيين&quot; هو اسم يُطلق على مجموعة السكان الذين كانوا يعيشون على الجانب الشرقي لنهر الأردن.</p><ul><li><p>كان هناك وادٍ سُمّي على اسم هذه الجماعة، وهو &quot;<span>وَادِي ٱلرَّفَائِيِّينَ</span>&quot;، والذي تم ذكره ست مرات في العهد القديم.</p></li><li><p>إن مصطلح &quot;رفا&quot; هو نقل صوتي إنجليزي لكلمة عبرية. من الصعب تحديد ما تعنيه كلمة &quot;رفا&quot; بالضبط وبالتالي نوع الكائنات التي تشير إليها كلمة &quot;رفا&quot;. يمكن أن يشير مصطلح &quot;رفا&quot; إلى مجموعة من البشر الأحياء أو الأرواح أو الكائنات شبه الإلهية. لهذا السبب اختارت العديد من الترجمات الإنجليزية نقل الكلمة الأصلية (العبرية) كما في &quot;الرفائيين&quot;. قد ترغب في فعل الشيء نفسه في الترجمة الخاصة بك.</p></li><li><p>أطلق العمونيون على مجموعة الرفائيين اسم &quot;<span>زَمْزُمِيِّينَ</span>&quot; (انظر تثنية 2:20).</p></li></ul><p>(اقتراحات الترجمة: كيفية ترجمة الأسماء، نسخ أو استعارة الكلمات)</p><h2>نصوص كتابية:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونج:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196248,
+    "content_id": "196248",
     "reference_id": 25844,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الروح القدس",
     "media_type": "Text",
     "index_reference": "الروح القدس",
@@ -2480,13 +2506,22 @@
           "label": "قدوس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "ٱلرّوحِ",
+          "confidence": 0.7379,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196507,
+    "content_id": "196507",
     "reference_id": 26151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "راحاب",
     "media_type": "Text",
     "index_reference": "راحاب",
@@ -2554,13 +2589,22 @@
           "label": "عاهرة (زانية)",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "رَاحَاب",
+          "confidence": 0.856,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196505,
+    "content_id": "196505",
     "reference_id": 26149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَاحِيل",
     "media_type": "Text",
     "index_reference": "رَاحِيل",
@@ -2889,13 +2933,22 @@
           "label": "لَيْئَة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "رَاحِيل",
+          "confidence": 0.9739,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196536,
+    "content_id": "196536",
     "reference_id": 26185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "راعوث",
     "media_type": "Text",
     "index_reference": "راعوث",
@@ -3031,13 +3084,22 @@
           "label": "منصب القاضي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "رَاعوث",
+          "confidence": 0.8035,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144817,
+    "content_id": "144817",
     "reference_id": 26226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "راعي",
     "media_type": "Text",
     "index_reference": "راعي",
@@ -3362,13 +3424,14 @@
           "label": "خروف",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196511,
+    "content_id": "196511",
     "reference_id": 26155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رافا",
     "media_type": "Text",
     "index_reference": "رافا",
@@ -3377,13 +3440,22 @@
     "content": "<h1>رفا، الرفائيون، وادي الرفائيين</h1><h2>حقائق:</h2><p>مصطلح &quot;رفا&quot; هو اسم لمجموعة من السكان الذين عاشوا في موقع على الجانب الشرقي من نهر الأردن. كما أنه يُستخدم للإشارة إلى الموتى أو أرواحهم. يُطلق على &quot;رفا&quot; اسم &quot;الرفائيون&quot; أو في الأصل العبري &quot;ريفائييم&quot;.</p><ul><li><p>كان هناك وادٍ سُمّي على اسم هذه المجموعة من الناس، &quot;وادي الرفائيين&quot;، والذي يُذكر ست مرات في العهد القديم.</p></li><li><p>&quot;رفا&quot; هو ترجمة لكلمة عبرية. ومن الصعب تحديد معنى كلمة &quot;رفا&quot; بدقة وبالتالي نوع الكائنات التي كانت تشير إليها، سواء كانت مجموعة من الناس الأحياء، الأرواح، أو كائنات شبه إلهية. لهذا السبب فقد اختارت العديد من الترجمات ترجمة الكلمة الأصلية (العبرية) حرفيًا إلى &quot;الرفائيون&quot; أو &quot;ريفائييم&quot;. وقد ترغب في فعل الشيء نفسه في ترجمتك.</p></li><li><p>في أيوب 26: 5، مزمور 88: 10، أمثال 2: 18، أمثال 9: 18، أمثال 21: 16، إشعياء 14: 9، إشعياء 26: 14، وإشعياء 26: 19 يشير مصطلح &quot;الرفائيون&quot; إلى الأشخاص الذين ماتوا أو إلى &quot;أرواحهم&quot;.</p></li><li><p>في جميع الحالات الأخرى في العهد القديم فإن مصطلح &quot;الرفائيون&quot; يشير إلى مجموعة من الناس الذين كانوا أحياء وقد شكلوا مجموعة معينة من الناس.</p></li><li><p>أطلق العمونيون على مجموعة الناس الذين يُطلق عليهم الرفائيون اسم &quot;الزمزميين&quot; (انظر تثنية 2: 20).</p></li><li><p>يشير مصطلح &quot;رفا&quot; إلى مجموعة من الناس الأحياء في كل الحالات في العهد القديم باستثناء 1 أخبار الأيام 8: 2 و 8: 37. ففي كل من هاتين الآيتين يشير إلى اسم رجل (رجل مختلف في كل آية).</p></li></ul><p>(اقتراحات الترجمة: كيفية ترجمة الأسماء، نسخ أو استعارة الكلمات)</p><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونج:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Raphu",
+          "type": "person",
+          "preferred_label": "رَافو",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 196509,
+    "content_id": "196509",
     "reference_id": 26153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "راموث",
     "media_type": "Text",
     "index_reference": "راموث",
@@ -3495,13 +3567,22 @@
           "label": "ملجأ",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ramoth-gilead",
+          "type": "place",
+          "preferred_label": "رَاموتَ",
+          "confidence": 0.7175,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 195927,
+    "content_id": "195927",
     "reference_id": 25473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَامي قَوسٍ",
     "media_type": "Text",
     "index_reference": "رَامي قَوسٍ",
@@ -3561,13 +3642,14 @@
           "label": "آشور",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196527,
+    "content_id": "196527",
     "reference_id": 26174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَأُوبَيْن",
     "media_type": "Text",
     "index_reference": "رَأُوبَيْن",
@@ -3701,13 +3783,22 @@
           "label": "لَيْئَة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "رَأوبَيْنَ",
+          "confidence": 0.954,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196655,
+    "content_id": "196655",
     "reference_id": 26338,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رؤيا",
     "media_type": "Text",
     "index_reference": "رؤيا",
@@ -3881,13 +3972,22 @@
           "label": "حلم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Vision",
+          "type": "keyterm",
+          "preferred_label": "Vision",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 144807,
+    "content_id": "144807",
     "reference_id": 26184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رئيس",
     "media_type": "Text",
     "index_reference": "رئيس",
@@ -4742,13 +4842,14 @@
           "label": "مَجمَع",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196624,
+    "content_id": "196624",
     "reference_id": 26294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رئيس الربع",
     "media_type": "Text",
     "index_reference": "رئيس الربع",
@@ -4836,13 +4937,22 @@
           "label": "روما",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "هِيرودسَ",
+          "confidence": 0.5932,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196443,
+    "content_id": "196443",
     "reference_id": 26078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَئِيسِ ٱلْآبَاءِ",
     "media_type": "Text",
     "index_reference": "رَئِيسِ ٱلْآبَاءِ",
@@ -4912,13 +5022,14 @@
           "end_ref_usfm": "EZR 3:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196504,
+    "content_id": "196504",
     "reference_id": 26147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَبَّةَ",
     "media_type": "Text",
     "index_reference": "رَبَّةَ",
@@ -4973,13 +5084,64 @@
           "label": "داود",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Riblah",
+          "type": "place",
+          "preferred_label": "رَبْلَةَ",
+          "confidence": 0.9304,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah.2",
+          "type": "place",
+          "preferred_label": "رَبْلَةَ",
+          "confidence": 0.9304,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rissah",
+          "type": "place",
+          "preferred_label": "رِسَّةَ",
+          "confidence": 0.8506,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Sibmah",
+          "type": "place",
+          "preferred_label": "سَبْمَةَ",
+          "confidence": 0.8399,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rithmah",
+          "type": "place",
+          "preferred_label": "رِثْمَةَ",
+          "confidence": 0.8366,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Recah",
+          "type": "place",
+          "preferred_label": "رَيْكَةَ",
+          "confidence": 0.8208,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rinnah",
+          "type": "person",
+          "preferred_label": "رِنَّة",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196483,
+    "content_id": "196483",
     "reference_id": 26126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رِبح (مَكسب)",
     "media_type": "Text",
     "index_reference": "رِبح (مَكسب)",
@@ -5357,13 +5519,29 @@
           "label": "رِبح-روحيًا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Resheph",
+          "type": "person",
+          "preferred_label": "رَشَف",
+          "confidence": 0.8155,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rezeph",
+          "type": "place",
+          "preferred_label": "رَصْفَ",
+          "confidence": 0.8067,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196482,
+    "content_id": "196482",
     "reference_id": 26125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رِبح-روحيًا",
     "media_type": "Text",
     "index_reference": "رِبح-روحيًا",
@@ -5380,13 +5558,14 @@
           "label": "رِبح (مَكسب)",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144802,
+    "content_id": "144802",
     "reference_id": 26148,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ربِّي (راباي)",
     "media_type": "Text",
     "index_reference": "ربِّي (راباي)",
@@ -5524,13 +5703,14 @@
           "label": "مُعَلِّم",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196340,
+    "content_id": "196340",
     "reference_id": 25953,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَثاء",
     "media_type": "Text",
     "index_reference": "رَثاء",
@@ -5648,13 +5828,14 @@
           "end_ref_usfm": "JOB 27:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 195880,
+    "content_id": "195880",
     "reference_id": 25423,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رجس",
     "media_type": "Text",
     "index_reference": "رجس",
@@ -5910,13 +6091,14 @@
           "label": "إله زائف",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196375,
+    "content_id": "196375",
     "reference_id": 25995,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَجُلُ ٱلله",
     "media_type": "Text",
     "index_reference": "رَجُلُ ٱلله",
@@ -5978,13 +6160,14 @@
           "label": "نبي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196520,
+    "content_id": "196520",
     "reference_id": 26165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رحبعام",
     "media_type": "Text",
     "index_reference": "رحبعام",
@@ -6047,13 +6230,29 @@
           "label": "سليمان",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "رَحبْعَامَ",
+          "confidence": 0.5967,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "سلَيْمَانَ",
+          "confidence": 0.5215,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144725,
+    "content_id": "144725",
     "reference_id": 25602,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَحْمَة",
     "media_type": "Text",
     "index_reference": "رَحْمَة",
@@ -6255,13 +6454,57 @@
           "end_ref_usfm": "JAS 5:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Raamah",
+          "type": "person",
+          "preferred_label": "رَعْمَة",
+          "confidence": 0.9724,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Raamah",
+          "type": "place",
+          "preferred_label": "رَعْمَة",
+          "confidence": 0.9724,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah",
+          "type": "person",
+          "preferred_label": "نَعْمَة",
+          "confidence": 0.9259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah.2",
+          "type": "person",
+          "preferred_label": "نَعْمَة",
+          "confidence": 0.9259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naamah",
+          "type": "place",
+          "preferred_label": "نَعْمَة",
+          "confidence": 0.9259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rithmah",
+          "type": "place",
+          "preferred_label": "رِثْمَةَ",
+          "confidence": 0.8613,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 196531,
+    "content_id": "196531",
     "reference_id": 26179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رِدَاء",
     "media_type": "Text",
     "index_reference": "رِدَاء",
@@ -6526,13 +6769,22 @@
           "label": "ثَوب",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Raddai",
+          "type": "person",
+          "preferred_label": "رَدَّايَ",
+          "confidence": 0.8154,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 195920,
+    "content_id": "195920",
     "reference_id": 25466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رسول",
     "media_type": "Text",
     "index_reference": "رسول",
@@ -7040,13 +7292,22 @@
           "label": "بولس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Persis",
+          "type": "person",
+          "preferred_label": "بَرْسِيسَ",
+          "confidence": 0.8429,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196392,
+    "content_id": "196392",
     "reference_id": 26015,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رسول",
     "media_type": "Text",
     "index_reference": "رسول",
@@ -7222,13 +7483,22 @@
           "label": "يوحنا المعمدان",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Persis",
+          "type": "person",
+          "preferred_label": "بَرْسِيسَ",
+          "confidence": 0.8429,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 195999,
+    "content_id": "195999",
     "reference_id": 25556,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رشوة",
     "media_type": "Text",
     "index_reference": "رشوة",
@@ -7304,13 +7574,14 @@
           "end_ref_usfm": "PRO 15:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196252,
+    "content_id": "196252",
     "reference_id": 25849,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رعب",
     "media_type": "Text",
     "index_reference": "رعب",
@@ -7365,13 +7636,14 @@
           "label": "رهبة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196512,
+    "content_id": "196512",
     "reference_id": 26156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رِفقَة",
     "media_type": "Text",
     "index_reference": "رِفقَة",
@@ -7617,13 +7889,22 @@
           "label": "النقْب",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "رِفْقَة",
+          "confidence": 0.9511,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196035,
+    "content_id": "196035",
     "reference_id": 25601,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رفيق",
     "media_type": "Text",
     "index_reference": "رفيق",
@@ -7855,13 +8136,14 @@
           "end_ref_usfm": "PSA 38:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196471,
+    "content_id": "196471",
     "reference_id": 26112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رُمَّان",
     "media_type": "Text",
     "index_reference": "رُمَّان",
@@ -7961,13 +8243,71 @@
           "label": "هيكل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Rimmon",
+          "type": "deity",
+          "preferred_label": "رِمّونَ",
+          "confidence": 0.855,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rimmon",
+          "type": "person",
+          "preferred_label": "رِمّونَ",
+          "confidence": 0.855,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Rephan",
+          "type": "deity",
+          "preferred_label": "رَمْفَانَ",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehum",
+          "type": "person",
+          "preferred_label": "رَحوم",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehum.2",
+          "type": "person",
+          "preferred_label": "رَحوم",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehum.3",
+          "type": "person",
+          "preferred_label": "رَحوم",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehum.4",
+          "type": "person",
+          "preferred_label": "رَحوم",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ramiah",
+          "type": "person",
+          "preferred_label": "رَمْيَا",
+          "confidence": 0.8117,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196591,
+    "content_id": "196591",
     "reference_id": 26256,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رمح",
     "media_type": "Text",
     "index_reference": "رمح",
@@ -8054,13 +8394,14 @@
           "label": "محارب",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196530,
+    "content_id": "196530",
     "reference_id": 26178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رمون",
     "media_type": "Text",
     "index_reference": "رمون",
@@ -8130,13 +8471,29 @@
           "label": "زَبُولُون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rimmon",
+          "type": "person",
+          "preferred_label": "رِمّونَ",
+          "confidence": 0.5544,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Rimmon",
+          "type": "deity",
+          "preferred_label": "رِمّونَ",
+          "confidence": 0.5544,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 195947,
+    "content_id": "195947",
     "reference_id": 25494,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رهبة",
     "media_type": "Text",
     "index_reference": "رهبة",
@@ -8191,13 +8548,50 @@
           "label": "مجد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "رَاحَاب",
+          "confidence": 0.8519,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rohgah",
+          "type": "person",
+          "preferred_label": "رهْجَة",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah",
+          "type": "place",
+          "preferred_label": "رَبْلَةَ",
+          "confidence": 0.8171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah.2",
+          "type": "place",
+          "preferred_label": "رَبْلَةَ",
+          "confidence": 0.8171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ribai",
+          "type": "person",
+          "preferred_label": "رِيبَايَ",
+          "confidence": 0.8167,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 144827,
+    "content_id": "144827",
     "reference_id": 26291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رهبة",
     "media_type": "Text",
     "index_reference": "رهبة",
@@ -8423,13 +8817,50 @@
           "label": "يهوه",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "رَاحَاب",
+          "confidence": 0.8519,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rohgah",
+          "type": "person",
+          "preferred_label": "رهْجَة",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah",
+          "type": "place",
+          "preferred_label": "رَبْلَةَ",
+          "confidence": 0.8171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah.2",
+          "type": "place",
+          "preferred_label": "رَبْلَةَ",
+          "confidence": 0.8171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ribai",
+          "type": "person",
+          "preferred_label": "رِيبَايَ",
+          "confidence": 0.8167,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196106,
+    "content_id": "196106",
     "reference_id": 25685,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَوَث",
     "media_type": "Text",
     "index_reference": "رَوَث",
@@ -8471,13 +8902,92 @@
           "label": "باب (بوابة)",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Reu",
+          "type": "person",
+          "preferred_label": "رَعوَ",
+          "confidence": 0.8545,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Resheph",
+          "type": "person",
+          "preferred_label": "رَشَف",
+          "confidence": 0.8385,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rhoda",
+          "type": "person",
+          "preferred_label": "رَوْدَا",
+          "confidence": 0.8346,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehob",
+          "type": "person",
+          "preferred_label": "رَحوبَ",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehob.2",
+          "type": "person",
+          "preferred_label": "رَحوبَ",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rehob.2",
+          "type": "place",
+          "preferred_label": "رَحوبَ",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rehob.3",
+          "type": "place",
+          "preferred_label": "رَحوبَ",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rezeph",
+          "type": "place",
+          "preferred_label": "رَصْفَ",
+          "confidence": 0.8243,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rissah",
+          "type": "place",
+          "preferred_label": "رِسَّةَ",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Recah",
+          "type": "place",
+          "preferred_label": "رَيْكَةَ",
+          "confidence": 0.8046,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raddai",
+          "type": "person",
+          "preferred_label": "رَدَّايَ",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 144824,
+    "content_id": "144824",
     "reference_id": 26257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "روح",
     "media_type": "Text",
     "index_reference": "روح",
@@ -9601,13 +10111,22 @@
           "label": "النَّفْس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Spirit.2",
+          "type": "keyterm",
+          "preferred_label": "Spirit",
+          "confidence": 0.8826,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196533,
+    "content_id": "196533",
     "reference_id": 26181,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "روما",
     "media_type": "Text",
     "index_reference": "روما",
@@ -9772,13 +10291,22 @@
           "label": "بولس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "ٱلرّومَانِيّونَ",
+          "confidence": 0.5968,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144758,
+    "content_id": "144758",
     "reference_id": 25861,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رياء",
     "media_type": "Text",
     "index_reference": "رياء",
@@ -9956,7 +10484,8 @@
           "end_ref_usfm": "MAT 6:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

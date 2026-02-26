@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196551,
+    "content_id": "196551",
     "reference_id": 26205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الدَرْج",
     "media_type": "Text",
     "index_reference": "الدَرْج",
@@ -172,13 +172,22 @@
           "label": "كلمة الله",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.5495,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196071,
+    "content_id": "196071",
     "reference_id": 25643,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَارِيُوس",
     "media_type": "Text",
     "index_reference": "دَارِيُوس",
@@ -308,13 +317,43 @@
           "label": "بلاد فارس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "دَارِيوسَ",
+          "confidence": 0.839,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "دَارِيوسَ",
+          "confidence": 0.5457,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Iddo.6",
+          "type": "person",
+          "preferred_label": "يَدّو",
+          "confidence": 0.5408,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zechariah.17",
+          "type": "person",
+          "preferred_label": "زَكَرِيَّا",
+          "confidence": 0.5048,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196069,
+    "content_id": "196069",
     "reference_id": 25641,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دان",
     "media_type": "Text",
     "index_reference": "دان",
@@ -418,13 +457,29 @@
           "label": "يعقوب",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "دَانَ",
+          "confidence": 0.5398,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "دَانَ",
+          "confidence": 0.5398,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196070,
+    "content_id": "196070",
     "reference_id": 25642,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دانيال",
     "media_type": "Text",
     "index_reference": "دانيال",
@@ -479,13 +534,22 @@
           "label": "نبوخذنصر/نبوخذناصر",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "دَانِيآل",
+          "confidence": 0.7065,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144731,
+    "content_id": "144731",
     "reference_id": 25645,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "داود",
     "media_type": "Text",
     "index_reference": "داود",
@@ -943,13 +1007,22 @@
           "label": "شاول",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "دَاودَ",
+          "confidence": 0.8348,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 195967,
+    "content_id": "195967",
     "reference_id": 25516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دُب",
     "media_type": "Text",
     "index_reference": "دُب",
@@ -992,13 +1065,22 @@
           "label": "أَلِيشَع",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bear",
+          "type": "fauna",
+          "preferred_label": "Bear",
+          "confidence": 0.595,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196627,
+    "content_id": "196627",
     "reference_id": 26300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "درس الحبوب",
     "media_type": "Text",
     "index_reference": "درس الحبوب",
@@ -1126,13 +1208,14 @@
           "label": "يُغَرْبِل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195998,
+    "content_id": "195998",
     "reference_id": 25555,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "درع الصدر",
     "media_type": "Text",
     "index_reference": "درع الصدر",
@@ -1346,13 +1429,14 @@
           "label": "محارب",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196212,
+    "content_id": "196212",
     "reference_id": 25802,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَقِيق ٱلتَّقْدِمَة",
     "media_type": "Text",
     "index_reference": "دَقِيق ٱلتَّقْدِمَة",
@@ -1445,13 +1529,14 @@
           "label": "ذبيحة الخطيئة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196081,
+    "content_id": "196081",
     "reference_id": 25655,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَليلة",
     "media_type": "Text",
     "index_reference": "دَليلة",
@@ -1507,13 +1592,22 @@
           "label": "شمشون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "دَلِيلَة",
+          "confidence": 0.7362,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196068,
+    "content_id": "196068",
     "reference_id": 25640,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دمشق",
     "media_type": "Text",
     "index_reference": "دمشق",
@@ -1672,13 +1766,22 @@
           "label": "يؤمن",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "دِمَشْقَ",
+          "confidence": 0.7105,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144732,
+    "content_id": "144732",
     "reference_id": 25653,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَنِس",
     "media_type": "Text",
     "index_reference": "دَنِس",
@@ -1901,13 +2004,14 @@
           "label": "يُدنِّس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196038,
+    "content_id": "196038",
     "reference_id": 25605,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دينونة",
     "media_type": "Text",
     "index_reference": "دينونة",
@@ -2172,7 +2276,8 @@
           "label": "يعاقب",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467374,
+    "content_id": "467374",
     "reference_id": 26259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Une verge",
     "media_type": "Text",
     "index_reference": "une verge",
@@ -232,13 +232,22 @@
           "label": "Le berger",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nile",
+          "type": "place",
+          "preferred_label": "Nile River",
+          "confidence": 0.5002,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467440,
+    "content_id": "467440",
     "reference_id": 26330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Urie",
     "media_type": "Text",
     "index_reference": "urie",
@@ -325,13 +334,36 @@
           "label": "Hittites",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Uriah",
+          "type": "person",
+          "preferred_label": "Urie",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uriah.4",
+          "type": "person",
+          "preferred_label": "Urie",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Uriah.5",
+          "type": "person",
+          "preferred_label": "Urie",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467462,
+    "content_id": "467462",
     "reference_id": 26354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uterus",
     "media_type": "Text",
     "index_reference": "uterus",
@@ -557,7 +589,8 @@
           "end_ref_usfm": "GEN 38:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

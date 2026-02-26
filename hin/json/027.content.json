@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180340,
+    "content_id": "180340",
     "reference_id": 26287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तम्बू",
     "media_type": "Text",
     "index_reference": "तम्बू",
@@ -254,13 +254,22 @@
           "label": "मिलापवाला तम्बू",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Tent",
+          "type": "realia",
+          "preferred_label": "Tent",
+          "confidence": 0.538,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179681,
+    "content_id": "179681",
     "reference_id": 25602,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तरस",
     "media_type": "Text",
     "index_reference": "तरस",
@@ -462,13 +471,29 @@
           "end_ref_usfm": "JAS 5:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Tarsus",
+          "type": "group",
+          "preferred_label": "तरसुस",
+          "confidence": 0.9074,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tarsus",
+          "type": "place",
+          "preferred_label": "तरसुस",
+          "confidence": 0.9074,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 180334,
+    "content_id": "180334",
     "reference_id": 26281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तरसुस",
     "media_type": "Text",
     "index_reference": "तरसुस",
@@ -530,13 +555,29 @@
           "label": "प्रांत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarsus",
+          "type": "place",
+          "preferred_label": "तरसुस",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Tarsus",
+          "type": "group",
+          "preferred_label": "तरसुस",
+          "confidence": 0.76,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180333,
+    "content_id": "180333",
     "reference_id": 26280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तर्शीश",
     "media_type": "Text",
     "index_reference": "तर्शीश",
@@ -624,13 +665,29 @@
           "label": "बुद्धिमानों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarshish",
+          "type": "place",
+          "preferred_label": "तर्शीश",
+          "confidence": 0.6722,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tarshish",
+          "type": "person",
+          "preferred_label": "तर्शीश",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180328,
+    "content_id": "180328",
     "reference_id": 26275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तलवार",
     "media_type": "Text",
     "index_reference": "तलवार",
@@ -1065,13 +1122,22 @@
           "label": "परमेश्‍वर का वचन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Sword",
+          "type": "realia",
+          "preferred_label": "Sword",
+          "confidence": 0.8326,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180332,
+    "content_id": "180332",
     "reference_id": 26279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तामार",
     "media_type": "Text",
     "index_reference": "तामार",
@@ -1189,13 +1255,43 @@
           "label": "खारा ताल",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "तामार",
+          "confidence": 0.7867,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tamar.3",
+          "type": "person",
+          "preferred_label": "तामार",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Timnah",
+          "type": "place",
+          "preferred_label": "तिम्नाह",
+          "confidence": 0.5142,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Perez",
+          "type": "person",
+          "preferred_label": "पेरेस",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180358,
+    "content_id": "180358",
     "reference_id": 26305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तिर्सा",
     "media_type": "Text",
     "index_reference": "तिर्सा",
@@ -1259,13 +1355,57 @@
           "label": "शेकेम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tirzah",
+          "type": "person",
+          "preferred_label": "तिर्सा",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zelophehad",
+          "type": "person",
+          "preferred_label": "सलोफाद",
+          "confidence": 0.6642,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Milcah.2",
+          "type": "person",
+          "preferred_label": "मिल्का",
+          "confidence": 0.5967,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoglah",
+          "type": "person",
+          "preferred_label": "होग्ला",
+          "confidence": 0.5967,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tirzah",
+          "type": "place",
+          "preferred_label": "तिर्सा",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "नूह",
+          "confidence": 0.5292,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180359,
+    "content_id": "180359",
     "reference_id": 26306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तीतुस",
     "media_type": "Text",
     "index_reference": "तीतुस",
@@ -1418,13 +1558,22 @@
           "label": "प्रोत्साहित करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "तीतुस",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180357,
+    "content_id": "180357",
     "reference_id": 26304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तीमुथियुस",
     "media_type": "Text",
     "index_reference": "तीमुथियुस",
@@ -1620,13 +1769,36 @@
           "label": "सेवा करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "तीमुथियुस",
+          "confidence": 0.984,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Trophimus",
+          "type": "person",
+          "preferred_label": "त्रुफिमुस",
+          "confidence": 0.517,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jason",
+          "type": "person",
+          "preferred_label": "यासोन",
+          "confidence": 0.5035,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180378,
+    "content_id": "180378",
     "reference_id": 26325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तुखिकुस",
     "media_type": "Text",
     "index_reference": "तुखिकुस",
@@ -1728,13 +1900,29 @@
           "label": "सेवा करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tychicus",
+          "type": "person",
+          "preferred_label": "तुखिकुस",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Secundus",
+          "type": "person",
+          "preferred_label": "सिकुन्दुस",
+          "confidence": 0.5195,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179690,
+    "content_id": "179690",
     "reference_id": 25611,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तुच्छ जाने",
     "media_type": "Text",
     "index_reference": "तुच्छ जाने",
@@ -1812,13 +2000,14 @@
           "label": "निरादर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180374,
+    "content_id": "180374",
     "reference_id": 26321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तुरही",
     "media_type": "Text",
     "index_reference": "तुरही",
@@ -2051,13 +2240,22 @@
           "label": "क्रोध",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Trumpet",
+          "type": "realia",
+          "preferred_label": "Trumpet",
+          "confidence": 0.5165,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180376,
+    "content_id": "180376",
     "reference_id": 26323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तूबल",
     "media_type": "Text",
     "index_reference": "तूबल",
@@ -2154,13 +2352,29 @@
           "label": "भविष्यद्वक्ता",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tubal",
+          "type": "person",
+          "preferred_label": "तूबल",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tubal",
+          "type": "place",
+          "preferred_label": "तूबल",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180343,
+    "content_id": "180343",
     "reference_id": 26290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तेरह",
     "media_type": "Text",
     "index_reference": "तेरह",
@@ -2300,13 +2514,57 @@
           "label": "ऊर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Terah",
+          "type": "person",
+          "preferred_label": "तेरह",
+          "confidence": 0.8571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nahor",
+          "type": "person",
+          "preferred_label": "नाहोर",
+          "confidence": 0.5658,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Haran",
+          "type": "person",
+          "preferred_label": "हारान",
+          "confidence": 0.5658,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "अब्राहम",
+          "confidence": 0.5404,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Haran",
+          "type": "place",
+          "preferred_label": "हारान",
+          "confidence": 0.5086,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nahor.2",
+          "type": "person",
+          "preferred_label": "नाहोर",
+          "confidence": 0.5086,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180123,
+    "content_id": "180123",
     "reference_id": 26061,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "तेल",
     "media_type": "Text",
     "index_reference": "तेल",
@@ -2642,6 +2900,15 @@
           "resource_code": "UWTranslationWords",
           "label": "बलिदान करना",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:OliveOil",
+          "type": "realia",
+          "preferred_label": "Olive Oil",
+          "confidence": 0.5538,
+          "match_method": "scored"
         }
       ]
     }

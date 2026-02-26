@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390484,
+    "content_id": "390484",
     "reference_id": 25544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "瑕疵",
     "media_type": "Text",
     "index_reference": "瑕疵",
@@ -77,13 +77,14 @@
           "label": "罪",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390741,
+    "content_id": "390741",
     "reference_id": 25810,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "夏甲",
     "media_type": "Text",
     "index_reference": "夏甲",
@@ -201,13 +202,22 @@
           "label": "僕人",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Hagar",
+          "confidence": 0.5167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390653,
+    "content_id": "390653",
     "reference_id": 25717,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "夏娃",
     "media_type": "Text",
     "index_reference": "夏娃",
@@ -262,7 +272,8 @@
           "label": "撒但",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

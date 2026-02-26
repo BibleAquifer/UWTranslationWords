@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391239,
+    "content_id": "391239",
     "reference_id": 26319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "特羅亞",
     "media_type": "Text",
     "index_reference": "特羅亞",
@@ -102,6 +102,15 @@
           "resource_code": "UWTranslationWords",
           "label": "提摩太",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Tiria",
+          "type": "person",
+          "preferred_label": "Tiria",
+          "confidence": 0.8172,
+          "match_method": "embedding"
         }
       ]
     }

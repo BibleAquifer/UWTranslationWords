@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391177,
+    "content_id": "391177",
     "reference_id": 26256,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "矛",
     "media_type": "Text",
     "index_reference": "矛",
@@ -88,6 +88,15 @@
           "resource_code": "UWTranslationWords",
           "label": "戰士",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Spear",
+          "type": "realia",
+          "preferred_label": "Spear",
+          "confidence": 0.8046,
+          "match_method": "embedding"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 676087,
+    "content_id": "676087",
     "reference_id": 26077,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sabar",
     "media_type": "Text",
     "index_reference": "sabar",
@@ -202,13 +202,14 @@
           "label": "Bertekun",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676158,
+    "content_id": "676158",
     "reference_id": 26186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sabat",
     "media_type": "Text",
     "index_reference": "sabat",
@@ -728,13 +729,22 @@
           "end_ref_usfm": "ACT 13:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Sabbath",
+          "type": "keyterm",
+          "preferred_label": "sabat",
+          "confidence": 0.9724,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 675736,
+    "content_id": "675736",
     "reference_id": 25601,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sahabat",
     "media_type": "Text",
     "index_reference": "sahabat",
@@ -966,13 +976,22 @@
           "end_ref_usfm": "PSA 38:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Amaw",
+          "type": "place",
+          "preferred_label": "teman-teman",
+          "confidence": 0.8127,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 675829,
+    "content_id": "675829",
     "reference_id": 25730,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saksi jahat",
     "media_type": "Text",
     "index_reference": "saksi jahat",
@@ -1074,13 +1093,14 @@
           "label": "Kesaksian",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676256,
+    "content_id": "676256",
     "reference_id": 26359,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salah",
     "media_type": "Text",
     "index_reference": "salah",
@@ -1252,13 +1272,14 @@
           "end_ref_usfm": "MAT 20:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675881,
+    "content_id": "675881",
     "reference_id": 25789,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saleh",
     "media_type": "Text",
     "index_reference": "saleh",
@@ -1524,13 +1545,14 @@
           "label": "Benar",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675754,
+    "content_id": "675754",
     "reference_id": 25627,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salib",
     "media_type": "Text",
     "index_reference": "salib",
@@ -1717,13 +1739,22 @@
           "label": "Roma",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Cross",
+          "type": "realia",
+          "preferred_label": "Cross",
+          "confidence": 0.6252,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676201,
+    "content_id": "676201",
     "reference_id": 26249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salomo",
     "media_type": "Text",
     "index_reference": "salomo",
@@ -1950,13 +1981,22 @@
           "label": "Bait Suci",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Salomo",
+          "confidence": 0.9226,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676162,
+    "content_id": "676162",
     "reference_id": 26192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samaria",
     "media_type": "Text",
     "index_reference": "samaria",
@@ -2164,13 +2204,43 @@
           "label": "Saron",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Samaria",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.7929,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Samaritan",
+          "type": "group",
+          "preferred_label": "Samaritans",
+          "confidence": 0.7286,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Samaria.2",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalem",
+          "confidence": 0.5065,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676164,
+    "content_id": "676164",
     "reference_id": 26194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samuel",
     "media_type": "Text",
     "index_reference": "samuel",
@@ -2237,13 +2307,22 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676234,
+    "content_id": "676234",
     "reference_id": 26321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sangkakala",
     "media_type": "Text",
     "index_reference": "sangkakala",
@@ -2469,13 +2548,22 @@
           "label": "Murka",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Trumpet",
+          "type": "realia",
+          "preferred_label": "Trumpet",
+          "confidence": 0.539,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675750,
+    "content_id": "675750",
     "reference_id": 25623,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sapi",
     "media_type": "Text",
     "index_reference": "sapi",
@@ -3093,13 +3181,22 @@
           "label": "Kuk",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bull",
+          "type": "fauna",
+          "preferred_label": "Cattle",
+          "confidence": 0.6134,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676166,
+    "content_id": "676166",
     "reference_id": 26198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sara",
     "media_type": "Text",
     "index_reference": "sara",
@@ -3412,13 +3509,43 @@
           "label": "Ishak",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 0.9837,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraham",
+          "confidence": 0.5382,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Ishak",
+          "confidence": 0.5168,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Hebron",
+          "type": "place",
+          "preferred_label": "Hebron",
+          "confidence": 0.5038,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676181,
+    "content_id": "676181",
     "reference_id": 26221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saron",
     "media_type": "Text",
     "index_reference": "saron",
@@ -3475,13 +3602,29 @@
           "label": "Laut",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sharon.2",
+          "type": "place",
+          "preferred_label": "Sharon Plain",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sharon",
+          "type": "place",
+          "preferred_label": "Saron",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676168,
+    "content_id": "676168",
     "reference_id": 26200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saul (PL)",
     "media_type": "Text",
     "index_reference": "saul (pl)",
@@ -3559,13 +3702,36 @@
           "label": "Raja",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 0.7538,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaul.2",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaul",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675593,
+    "content_id": "675593",
     "reference_id": 25446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sedekah",
     "media_type": "Text",
     "index_reference": "sedekah",
@@ -3665,13 +3831,14 @@
           "end_ref_usfm": "ACT 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 676175,
+    "content_id": "676175",
     "reference_id": 26210,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seir",
     "media_type": "Text",
     "index_reference": "seir",
@@ -3688,13 +3855,57 @@
           "label": "Edom",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Seir",
+          "type": "person",
+          "preferred_label": "Seir",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Seir",
+          "type": "place",
+          "preferred_label": "Seir",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:SeirMount",
+          "type": "place",
+          "preferred_label": "Seir",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:SeirMount.2",
+          "type": "place",
+          "preferred_label": "Seir",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Seirah",
+          "type": "place",
+          "preferred_label": "Seira",
+          "confidence": 0.8502,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shear-jashub",
+          "type": "person",
+          "preferred_label": "Syear",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 676112,
+    "content_id": "676112",
     "reference_id": 26131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sejahtera",
     "media_type": "Text",
     "index_reference": "sejahtera",
@@ -3883,13 +4094,14 @@
           "label": "Roh",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676184,
+    "content_id": "676184",
     "reference_id": 26225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sem",
     "media_type": "Text",
     "index_reference": "sem",
@@ -4031,13 +4243,22 @@
           "label": "Nuh",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Sem",
+          "confidence": 0.9294,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676258,
+    "content_id": "676258",
     "reference_id": 26366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Semangat",
     "media_type": "Text",
     "index_reference": "semangat",
@@ -4173,13 +4394,22 @@
           "end_ref_usfm": "ROM 10:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Leb-kamai",
+          "type": "place",
+          "preferred_label": "semangat",
+          "confidence": 0.8486,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 676091,
+    "content_id": "676091",
     "reference_id": 26086,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sempurna",
     "media_type": "Text",
     "index_reference": "sempurna",
@@ -4491,13 +4721,14 @@
           "label": "Cacat",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676177,
+    "content_id": "676177",
     "reference_id": 26214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Senherib",
     "media_type": "Text",
     "index_reference": "senherib",
@@ -4561,13 +4792,22 @@
           "label": "Niniwe",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sennacherib",
+          "type": "person",
+          "preferred_label": "Sanherib",
+          "confidence": 0.746,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675846,
+    "content_id": "675846",
     "reference_id": 25747,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seruling",
     "media_type": "Text",
     "index_reference": "seruling",
@@ -4633,13 +4873,22 @@
           "label": "Kawanan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Flute",
+          "type": "realia",
+          "preferred_label": "Flute",
+          "confidence": 0.5177,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676003,
+    "content_id": "676003",
     "reference_id": 25968,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Serupa",
     "media_type": "Text",
     "index_reference": "serupa",
@@ -8488,13 +8737,14 @@
           "label": "Binasa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676095,
+    "content_id": "676095",
     "reference_id": 26092,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sesat",
     "media_type": "Text",
     "index_reference": "sesat",
@@ -8736,13 +8986,14 @@
           "label": "Jahat",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676179,
+    "content_id": "676179",
     "reference_id": 26218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Set",
     "media_type": "Text",
     "index_reference": "set",
@@ -8854,13 +9105,22 @@
           "label": "Nuh",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Seth",
+          "type": "person",
+          "preferred_label": "Set",
+          "confidence": 0.9333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675773,
+    "content_id": "675773",
     "reference_id": 25658,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Setan",
     "media_type": "Text",
     "index_reference": "setan",
@@ -9447,13 +9707,29 @@
           "label": "Setan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:DemonPossessed",
+          "type": "keyterm",
+          "preferred_label": "kerasukan setan",
+          "confidence": 0.6135,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Demons",
+          "type": "deity",
+          "preferred_label": "Demons",
+          "confidence": 0.5502,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676167,
+    "content_id": "676167",
     "reference_id": 26199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Setan",
     "media_type": "Text",
     "index_reference": "setan",
@@ -9954,13 +10230,22 @@
           "label": "Mencobai",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Iblis",
+          "confidence": 0.6822,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675825,
+    "content_id": "675825",
     "reference_id": 25726,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Setia",
     "media_type": "Text",
     "index_reference": "setia",
@@ -10519,13 +10804,29 @@
           "label": "Iman",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Faithfulness",
+          "type": "keyterm",
+          "preferred_label": "kesetiaan",
+          "confidence": 0.6956,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:LoyalPerson",
+          "type": "keyterm",
+          "preferred_label": "orang yang setia",
+          "confidence": 0.613,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676182,
+    "content_id": "676182",
     "reference_id": 26222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheba",
     "media_type": "Text",
     "index_reference": "sheba",
@@ -10606,13 +10907,64 @@
           "label": "Salomo",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sheba",
+          "type": "person",
+          "preferred_label": "Syeba",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sheba.2",
+          "type": "place",
+          "preferred_label": "Sheba",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:QueenOfSheba",
+          "type": "person",
+          "preferred_label": "negeri",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheba.2",
+          "type": "person",
+          "preferred_label": "Syeba",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheba.3",
+          "type": "person",
+          "preferred_label": "Syeba",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Seba",
+          "type": "person",
+          "preferred_label": "Seba",
+          "confidence": 0.6232,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Seba",
+          "type": "place",
+          "preferred_label": "Seba",
+          "confidence": 0.5869,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676241,
+    "content_id": "676241",
     "reference_id": 26332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sia-sia",
     "media_type": "Text",
     "index_reference": "sia-sia",
@@ -10786,13 +11138,22 @@
           "label": "Ilah",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Worthless",
+          "type": "keyterm",
+          "preferred_label": "sia, sia",
+          "confidence": 0.7241,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676188,
+    "content_id": "676188",
     "reference_id": 26232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sidon",
     "media_type": "Text",
     "index_reference": "sidon",
@@ -10937,13 +11298,36 @@
           "label": "Nuh",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sidon",
+          "type": "place",
+          "preferred_label": "Sidon",
+          "confidence": 0.8333,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Sidon",
+          "type": "group",
+          "preferred_label": "Sidonians",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sidon",
+          "type": "person",
+          "preferred_label": "Sidon",
+          "confidence": 0.6167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676014,
+    "content_id": "676014",
     "reference_id": 25987,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sihir",
     "media_type": "Text",
     "index_reference": "sihir",
@@ -11039,13 +11423,14 @@
           "label": "Mesir",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676191,
+    "content_id": "676191",
     "reference_id": 26235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sihon",
     "media_type": "Text",
     "index_reference": "sihon",
@@ -11062,13 +11447,50 @@
           "label": "Amori",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sihon",
+          "type": "person",
+          "preferred_label": "Sihon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shion",
+          "type": "place",
+          "preferred_label": "Sion",
+          "confidence": 0.8355,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sidon",
+          "type": "person",
+          "preferred_label": "Sidon",
+          "confidence": 0.8011,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kadesh",
+          "type": "place",
+          "preferred_label": "Sidon",
+          "confidence": 0.8011,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Sidon",
+          "type": "place",
+          "preferred_label": "Sidon",
+          "confidence": 0.8011,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 676183,
+    "content_id": "676183",
     "reference_id": 26223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sikhem",
     "media_type": "Text",
     "index_reference": "sikhem",
@@ -11214,13 +11636,36 @@
           "label": "Yacob",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Sekhem",
+          "confidence": 0.7435,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "Sekhem",
+          "confidence": 0.6435,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hamor",
+          "type": "person",
+          "preferred_label": "Hemor",
+          "confidence": 0.6175,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676225,
+    "content_id": "676225",
     "reference_id": 26309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siksaan",
     "media_type": "Text",
     "index_reference": "siksaan",
@@ -11406,13 +11851,14 @@
           "label": "Bersujud",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676192,
+    "content_id": "676192",
     "reference_id": 26236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silas",
     "media_type": "Text",
     "index_reference": "silas",
@@ -11555,13 +12001,29 @@
           "label": "Kesaksian",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Silas",
+          "type": "person",
+          "preferred_label": "Silas",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paulus",
+          "confidence": 0.518,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676185,
+    "content_id": "676185",
     "reference_id": 26228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silo",
     "media_type": "Text",
     "index_reference": "silo",
@@ -11644,13 +12106,29 @@
           "label": "Bait Suci",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "Silo",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "Silo",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676186,
+    "content_id": "676186",
     "reference_id": 26229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simei",
     "media_type": "Text",
     "index_reference": "simei",
@@ -11699,13 +12177,43 @@
           "label": "Benyamin",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shimei.4",
+          "type": "person",
+          "preferred_label": "Simei",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shimei.6",
+          "type": "person",
+          "preferred_label": "Simei",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Shimei",
+          "type": "group",
+          "preferred_label": "Shimeites",
+          "confidence": 0.6262,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shimei.5",
+          "type": "person",
+          "preferred_label": "Simei",
+          "confidence": 0.5167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676194,
+    "content_id": "676194",
     "reference_id": 26238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simeon",
     "media_type": "Text",
     "index_reference": "simeon",
@@ -11832,13 +12340,43 @@
           "label": "Yacob",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simeon.5",
+          "type": "person",
+          "preferred_label": "Simeon",
+          "confidence": 0.8889,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simeon.2",
+          "type": "person",
+          "preferred_label": "Simeon",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Simeon",
+          "type": "group",
+          "preferred_label": "Simeon",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:AWifeOfSimeon",
+          "type": "person",
+          "preferred_label": "A Wife of Simeon",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676195,
+    "content_id": "676195",
     "reference_id": 26239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simon orang Zelot",
     "media_type": "Text",
     "index_reference": "simon orang zelot",
@@ -11905,13 +12443,36 @@
           "label": "Murid",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simon.2",
+          "type": "person",
+          "preferred_label": "Simon",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Zealot",
+          "type": "group",
+          "preferred_label": "Zelot",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Petrus",
+          "confidence": 0.53,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676163,
+    "content_id": "676163",
     "reference_id": 26193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simson",
     "media_type": "Text",
     "index_reference": "simson",
@@ -11959,13 +12520,22 @@
           "label": "Dua belas suku Israel",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "Simson",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676197,
+    "content_id": "676197",
     "reference_id": 26241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinai",
     "media_type": "Text",
     "index_reference": "sinai",
@@ -12136,13 +12706,36 @@
           "label": "Sinai",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:SinaiMount",
+          "type": "place",
+          "preferred_label": "Sinai",
+          "confidence": 0.8133,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:SinaiWilderness",
+          "type": "place",
+          "preferred_label": "gurun",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sin",
+          "type": "place",
+          "preferred_label": "Sin",
+          "confidence": 0.5008,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676187,
+    "content_id": "676187",
     "reference_id": 26230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinear",
     "media_type": "Text",
     "index_reference": "sinear",
@@ -12243,13 +12836,22 @@
           "label": "Ur",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Shinar",
+          "type": "place",
+          "preferred_label": "Sinear",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676004,
+    "content_id": "676004",
     "reference_id": 25969,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Singa",
     "media_type": "Text",
     "index_reference": "singa",
@@ -12406,13 +13008,22 @@
           "label": "Simson",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Lion",
+          "type": "fauna",
+          "preferred_label": "Lion",
+          "confidence": 0.7306,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675759,
+    "content_id": "675759",
     "reference_id": 25637,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siprus",
     "media_type": "Text",
     "index_reference": "siprus",
@@ -12522,13 +13133,22 @@
           "label": "Laut",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cyprus",
+          "type": "place",
+          "preferred_label": "Siprus",
+          "confidence": 0.875,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676212,
+    "content_id": "676212",
     "reference_id": 26277,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siria",
     "media_type": "Text",
     "index_reference": "siria",
@@ -12641,13 +13261,22 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Syria",
+          "type": "group",
+          "preferred_label": "Syrians",
+          "confidence": 0.5386,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676200,
+    "content_id": "676200",
     "reference_id": 26248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sodom",
     "media_type": "Text",
     "index_reference": "sodom",
@@ -12852,13 +13481,22 @@
           "label": "Gomora",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodom",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675624,
+    "content_id": "675624",
     "reference_id": 25477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sombong",
     "media_type": "Text",
     "index_reference": "sombong",
@@ -12925,13 +13563,14 @@
           "label": "Bangga",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676205,
+    "content_id": "676205",
     "reference_id": 26261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Stefanus",
     "media_type": "Text",
     "index_reference": "stefanus",
@@ -13024,13 +13663,22 @@
           "label": "Paulus",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Stephen",
+          "type": "person",
+          "preferred_label": "Stefanus",
+          "confidence": 0.88,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675702,
+    "content_id": "675702",
     "reference_id": 25556,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Suap",
     "media_type": "Text",
     "index_reference": "suap",
@@ -13106,13 +13754,14 @@
           "end_ref_usfm": "PRO 15:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 675975,
+    "content_id": "675975",
     "reference_id": 25923,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sukacita",
     "media_type": "Text",
     "index_reference": "sukacita",
@@ -14214,13 +14863,14 @@
           "end_ref_usfm": "1TH 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 676210,
+    "content_id": "676210",
     "reference_id": 26271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sukot",
     "media_type": "Text",
     "index_reference": "sukot",
@@ -14272,13 +14922,29 @@
           "end_ref_usfm": "JDG 8:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Succoth",
+          "type": "place",
+          "preferred_label": "Sukot",
+          "confidence": 0.7455,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Succoth.2",
+          "type": "place",
+          "preferred_label": "Sukot",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 675730,
+    "content_id": "675730",
     "reference_id": 25592,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sunat",
     "media_type": "Text",
     "index_reference": "sunat",
@@ -14675,13 +15341,22 @@
           "label": "Perjanjian",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Circumcision",
+          "type": "keyterm",
+          "preferred_label": "penyunatan",
+          "confidence": 0.6917,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675814,
+    "content_id": "675814",
     "reference_id": 25715,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sungai Efrat",
     "media_type": "Text",
     "index_reference": "sungai efrat",
@@ -14751,13 +15426,22 @@
           "end_ref_usfm": "GEN 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Euphrates",
+          "type": "place",
+          "preferred_label": "Efrat",
+          "confidence": 0.8133,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 676075,
+    "content_id": "676075",
     "reference_id": 26053,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sungai Nil",
     "media_type": "Text",
     "index_reference": "sungai nil",
@@ -14927,13 +15611,22 @@
           "label": "Musa",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nile",
+          "type": "place",
+          "preferred_label": "sungai",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675969,
+    "content_id": "675969",
     "reference_id": 25917,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sungai Yordan",
     "media_type": "Text",
     "index_reference": "sungai yordan",
@@ -15127,13 +15820,22 @@
           "label": "Danau Galilea",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jordan",
+          "type": "place",
+          "preferred_label": "Yordan",
+          "confidence": 0.88,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 675896,
+    "content_id": "675896",
     "reference_id": 25825,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Surga",
     "media_type": "Text",
     "index_reference": "surga",
@@ -17484,6 +18186,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Kerajaan Allah",
           "language": "ind"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Heaven",
+          "type": "keyterm",
+          "preferred_label": "sorga",
+          "confidence": 0.7645,
+          "match_method": "scored"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390669,
+    "content_id": "390669",
     "reference_id": 25735,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "害怕",
     "media_type": "Text",
     "index_reference": "害怕",
@@ -1485,6 +1485,15 @@
           "resource_code": "UWTranslationWords",
           "label": "雅巍",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.5077,
+          "match_method": "scored"
         }
       ]
     }

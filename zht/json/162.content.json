@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390367,
+    "content_id": "390367",
     "reference_id": 25426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "深淵",
     "media_type": "Text",
     "index_reference": "深淵",
@@ -94,13 +94,22 @@
           "label": "刑罰",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Abyss",
+          "type": "keyterm",
+          "preferred_label": "Abyss",
+          "confidence": 0.51,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 369014,
+    "content_id": "369014",
     "reference_id": 25788,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神",
     "media_type": "Text",
     "index_reference": "神",
@@ -8967,13 +8976,22 @@
           "label": "雅巍",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5299,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390612,
+    "content_id": "390612",
     "reference_id": 25675,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的",
     "media_type": "Text",
     "index_reference": "神的",
@@ -9061,13 +9079,22 @@
           "label": "審判",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "Divine",
+          "confidence": 0.8505,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390789,
+    "content_id": "390789",
     "reference_id": 25859,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的殿",
     "media_type": "Text",
     "index_reference": "神的殿",
@@ -9393,13 +9420,22 @@
           "label": "聖殿",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.5192,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391172,
+    "content_id": "391172",
     "reference_id": 26250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的兒子",
     "media_type": "Text",
     "index_reference": "神的兒子",
@@ -10082,13 +10118,14 @@
           "label": "神的兒子們",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391174,
+    "content_id": "391174",
     "reference_id": 26252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的兒子們",
     "media_type": "Text",
     "index_reference": "神的兒子們",
@@ -10200,13 +10237,14 @@
           "label": "靈",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390869,
+    "content_id": "390869",
     "reference_id": 25940,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的國",
     "media_type": "Text",
     "index_reference": "神的國",
@@ -11063,13 +11101,22 @@
           "label": "治理",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "Kingdom",
+          "confidence": 0.544,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391275,
+    "content_id": "391275",
     "reference_id": 26355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的話",
     "media_type": "Text",
     "index_reference": "神的話",
@@ -12120,13 +12167,14 @@
           "label": "雅巍",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390794,
+    "content_id": "390794",
     "reference_id": 25864,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的形象",
     "media_type": "Text",
     "index_reference": "神的形象",
@@ -12211,13 +12259,14 @@
           "label": "神的兒子",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391266,
+    "content_id": "391266",
     "reference_id": 26346,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的旨意",
     "media_type": "Text",
     "index_reference": "神的旨意",
@@ -12569,13 +12618,14 @@
           "end_ref_usfm": "JHN 5:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 391009,
+    "content_id": "391009",
     "reference_id": 26084,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神的子民",
     "media_type": "Text",
     "index_reference": "神的子民",
@@ -12780,13 +12830,14 @@
           "label": "族群",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390948,
+    "content_id": "390948",
     "reference_id": 26022,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神蹟",
     "media_type": "Text",
     "index_reference": "神蹟",
@@ -13076,13 +13127,14 @@
           "label": "跡象",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390921,
+    "content_id": "390921",
     "reference_id": 25995,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "神人",
     "media_type": "Text",
     "index_reference": "神人",
@@ -13144,13 +13196,14 @@
           "label": "先知",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390858,
+    "content_id": "390858",
     "reference_id": 25929,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "審判",
     "media_type": "Text",
     "index_reference": "審判",
@@ -14458,13 +14511,29 @@
           "label": "摩西律法",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 0.9034,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "Judgment",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390859,
+    "content_id": "390859",
     "reference_id": 25930,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "審判官",
     "media_type": "Text",
     "index_reference": "審判官",
@@ -14659,13 +14728,22 @@
           "label": "摩西律法",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 0.8799,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390860,
+    "content_id": "390860",
     "reference_id": 25931,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "審判日",
     "media_type": "Text",
     "index_reference": "審判日",
@@ -14734,7 +14812,8 @@
           "label": "審判",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

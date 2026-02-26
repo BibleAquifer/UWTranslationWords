@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196202,
+    "content_id": "196202",
     "reference_id": 25788,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الله",
     "media_type": "Text",
     "index_reference": "الله",
@@ -8869,13 +8869,22 @@
           "label": "يهوه",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "ٱلرَّبِّ",
+          "confidence": 0.6289,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196204,
+    "content_id": "196204",
     "reference_id": 25790,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الله الآب",
     "media_type": "Text",
     "index_reference": "الله الآب",
@@ -10295,13 +10304,22 @@
           "label": "ابن الله",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "ٱلرَّبِّ",
+          "confidence": 0.5849,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196335,
+    "content_id": "196335",
     "reference_id": 25948,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لَابَان",
     "media_type": "Text",
     "index_reference": "لَابَان",
@@ -10640,13 +10658,22 @@
           "label": "رَاحِيل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Laban",
+          "type": "person",
+          "preferred_label": "لَابَان",
+          "confidence": 0.9608,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196339,
+    "content_id": "196339",
     "reference_id": 25952,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لامَك",
     "media_type": "Text",
     "index_reference": "لامَك",
@@ -10750,13 +10777,29 @@
           "label": "شِيث",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Lamech.2",
+          "type": "person",
+          "preferred_label": "لَامَكَ",
+          "confidence": 0.6967,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lamech",
+          "type": "person",
+          "preferred_label": "لَامَكَ",
+          "confidence": 0.624,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196351,
+    "content_id": "196351",
     "reference_id": 25967,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لاوي",
     "media_type": "Text",
     "index_reference": "لاوي",
@@ -11320,13 +11363,29 @@
           "label": "هيكل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Levi",
+          "type": "group",
+          "preferred_label": "لَّاوِي",
+          "confidence": 0.7655,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Levi.3",
+          "type": "person",
+          "preferred_label": "لَّاوِي",
+          "confidence": 0.6427,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196173,
+    "content_id": "196173",
     "reference_id": 25757,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لُبان",
     "media_type": "Text",
     "index_reference": "لُبان",
@@ -11405,13 +11464,14 @@
           "label": "حكماء",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196348,
+    "content_id": "196348",
     "reference_id": 25963,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لبنان",
     "media_type": "Text",
     "index_reference": "لبنان",
@@ -11515,13 +11575,14 @@
           "label": "ٱلسِّنْدِيَان",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196632,
+    "content_id": "196632",
     "reference_id": 26308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لسان",
     "media_type": "Text",
     "index_reference": "لسان",
@@ -12034,13 +12095,14 @@
           "label": "تسبيح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196365,
+    "content_id": "196365",
     "reference_id": 25984,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لِسْتِرَة",
     "media_type": "Text",
     "index_reference": "لِسْتِرَة",
@@ -12120,13 +12182,29 @@
           "label": "تيموثاوس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Lystra",
+          "type": "place",
+          "preferred_label": "لِسْتِرَةَ",
+          "confidence": 0.84,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Derbe",
+          "type": "place",
+          "preferred_label": "دَرْبَةَ",
+          "confidence": 0.509,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196345,
+    "content_id": "196345",
     "reference_id": 25960,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لعازر",
     "media_type": "Text",
     "index_reference": "لعازر",
@@ -12243,13 +12321,22 @@
           "label": "مَرْثَا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Lazarus.2",
+          "type": "person",
+          "preferred_label": "لِعَازَر",
+          "confidence": 0.6955,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196060,
+    "content_id": "196060",
     "reference_id": 25632,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لعنة",
     "media_type": "Text",
     "index_reference": "لعنة",
@@ -12567,13 +12654,14 @@
           "label": "بارك",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196358,
+    "content_id": "196358",
     "reference_id": 25976,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لُوط",
     "media_type": "Text",
     "index_reference": "لُوط",
@@ -12823,13 +12911,22 @@
           "label": "سَدُوم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "لوطًا",
+          "confidence": 0.8273,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196362,
+    "content_id": "196362",
     "reference_id": 25981,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لوقا",
     "media_type": "Text",
     "index_reference": "لوقا",
@@ -12891,13 +12988,22 @@
           "label": "سوريا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "لوقَا",
+          "confidence": 0.6229,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196350,
+    "content_id": "196350",
     "reference_id": 25966,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لِوِيَاثَان",
     "media_type": "Text",
     "index_reference": "لِوِيَاثَان",
@@ -12947,13 +13053,22 @@
           "label": "حيَّة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:GiantCroccodile",
+          "type": "fauna",
+          "preferred_label": "Leviathan",
+          "confidence": 0.513,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196346,
+    "content_id": "196346",
     "reference_id": 25961,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لَيْئَة",
     "media_type": "Text",
     "index_reference": "لَيْئَة",
@@ -13237,6 +13352,29 @@
           "resource_code": "UWTranslationWords",
           "label": "زَبُولُون",
           "language": "arb"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "لَيْئَةَ",
+          "confidence": 0.9765,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "زِلْفَةَ",
+          "confidence": 0.5401,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "رَاحِيل",
+          "confidence": 0.5082,
+          "match_method": "scored"
         }
       ]
     }

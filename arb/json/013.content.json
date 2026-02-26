@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 195915,
+    "content_id": "195915",
     "reference_id": 25460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الضَّيْق",
     "media_type": "Text",
     "index_reference": "الضَّيْق",
@@ -66,13 +66,22 @@
           "end_ref_usfm": "PSA 116:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:SolomonsPortico",
+          "type": "place",
+          "preferred_label": "ٱلرِّوَاقِ",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 196558,
+    "content_id": "196558",
     "reference_id": 26213,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ضَبْط النَّفس",
     "media_type": "Text",
     "index_reference": "ضَبْط النَّفس",
@@ -187,13 +196,14 @@
           "label": "الروح القدس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195918,
+    "content_id": "195918",
     "reference_id": 25463,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ضد المسيح",
     "media_type": "Text",
     "index_reference": "ضد المسيح",
@@ -242,13 +252,14 @@
           "label": "ضيقة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144726,
+    "content_id": "144726",
     "reference_id": 25608,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ضمير",
     "media_type": "Text",
     "index_reference": "ضمير",
@@ -438,13 +449,22 @@
           "end_ref_usfm": "TIT 1:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Conscience",
+          "type": "keyterm",
+          "preferred_label": "Conscience",
+          "confidence": 0.5233,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 144836,
+    "content_id": "144836",
     "reference_id": 26317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ضيقة",
     "media_type": "Text",
     "index_reference": "ضيقة",
@@ -697,7 +717,8 @@
           "label": "غضب",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 675838,
+    "content_id": "675838",
     "reference_id": 25739,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festival",
     "media_type": "Text",
     "index_reference": "festival",
@@ -266,13 +266,22 @@
           "label": "Pesta",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:FestivalOfTheTabernacles",
+          "type": "realia",
+          "preferred_label": "Festival of the Tabernacles",
+          "confidence": 0.6098,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676097,
+    "content_id": "676097",
     "reference_id": 26097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipi",
     "media_type": "Text",
     "index_reference": "filipi",
@@ -373,13 +382,29 @@
           "label": "Silas",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipi",
+          "confidence": 0.7818,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "Philippians",
+          "confidence": 0.5059,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 676252,
+    "content_id": "676252",
     "reference_id": 26355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Firman Allah",
     "media_type": "Text",
     "index_reference": "firman allah",
@@ -1423,13 +1448,22 @@
           "label": "Nabi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "firman tuhan",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 676198,
+    "content_id": "676198",
     "reference_id": 26244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fitnah",
     "media_type": "Text",
     "index_reference": "fitnah",
@@ -1597,7 +1631,8 @@
           "label": "Menghujat",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

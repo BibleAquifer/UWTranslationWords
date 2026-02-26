@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 237941,
+    "content_id": "237941",
     "reference_id": 25808,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Habacuque",
     "media_type": "Text",
     "index_reference": "habacuque",
@@ -40,13 +40,22 @@
           "label": "Jeremias",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.607,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237942,
+    "content_id": "237942",
     "reference_id": 25809,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hades",
     "media_type": "Text",
     "index_reference": "hades",
@@ -150,13 +159,29 @@
           "label": "Túmulo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:WorldOfTheDead",
+          "type": "keyterm",
+          "preferred_label": "World of the Dead",
+          "confidence": 0.9333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Hell",
+          "type": "place",
+          "preferred_label": "Hell",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237943,
+    "content_id": "237943",
     "reference_id": 25810,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hagar",
     "media_type": "Text",
     "index_reference": "hagar",
@@ -274,13 +299,22 @@
           "label": "Servo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Hagar",
+          "confidence": 0.9667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237947,
+    "content_id": "237947",
     "reference_id": 25814,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hamate",
     "media_type": "Text",
     "index_reference": "hamate",
@@ -356,13 +390,29 @@
           "label": "Zedequias",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Hamath",
+          "type": "place",
+          "preferred_label": "Hamate",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hamathites",
+          "type": "group",
+          "preferred_label": "Hamathites",
+          "confidence": 0.5544,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237948,
+    "content_id": "237948",
     "reference_id": 25815,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hamor",
     "media_type": "Text",
     "index_reference": "hamor",
@@ -492,13 +542,29 @@
           "label": "Sucote",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hamor",
+          "type": "person",
+          "preferred_label": "Hamor",
+          "confidence": 0.9059,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Siquém",
+          "confidence": 0.5473,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237949,
+    "content_id": "237949",
     "reference_id": 25816,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hananias",
     "media_type": "Text",
     "index_reference": "hananias",
@@ -623,13 +689,92 @@
           "label": "Misael",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hananiah.12",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6889,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.15",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.7",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.8",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.5",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.9",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.6",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.11",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.10",
+          "type": "person",
+          "preferred_label": "Hananias",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hanani.4",
+          "type": "person",
+          "preferred_label": "Hanani",
+          "confidence": 0.5592,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Azariah.20",
+          "type": "person",
+          "preferred_label": "Azarias",
+          "confidence": 0.5182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237952,
+    "content_id": "237952",
     "reference_id": 25819,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Harã",
     "media_type": "Text",
     "index_reference": "harã",
@@ -797,13 +942,43 @@
           "label": "Ur",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Haran",
+          "type": "place",
+          "preferred_label": "Harã",
+          "confidence": 0.7905,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Haran",
+          "type": "person",
+          "preferred_label": "Harã",
+          "confidence": 0.6952,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Terah",
+          "type": "person",
+          "preferred_label": "Tera",
+          "confidence": 0.5827,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraão",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237955,
+    "content_id": "237955",
     "reference_id": 25822,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Harpa",
     "media_type": "Text",
     "index_reference": "harpa",
@@ -902,13 +1077,22 @@
           "label": "Saul",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Lyre",
+          "type": "realia",
+          "preferred_label": "Lyre",
+          "confidence": 0.8172,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237959,
+    "content_id": "237959",
     "reference_id": 25826,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hebreu",
     "media_type": "Text",
     "index_reference": "hebreu",
@@ -1156,13 +1340,22 @@
           "label": "Líderes judeus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Hebrews",
+          "type": "group",
+          "preferred_label": "Hebrews",
+          "confidence": 0.7521,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237960,
+    "content_id": "237960",
     "reference_id": 25827,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hebrom",
     "media_type": "Text",
     "index_reference": "hebrom",
@@ -1247,13 +1440,29 @@
           "label": "Anaque",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Hebron",
+          "type": "place",
+          "preferred_label": "Hebrom",
+          "confidence": 0.8333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:HebronValley",
+          "type": "place",
+          "preferred_label": "Vale de Hebrom",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238000,
+    "content_id": "238000",
     "reference_id": 25867,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herdar",
     "media_type": "Text",
     "index_reference": "herdar",
@@ -1676,13 +1885,14 @@
           "label": "Terra Prometida",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237961,
+    "content_id": "237961",
     "reference_id": 25828,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herdeiro",
     "media_type": "Text",
     "index_reference": "herdeiro",
@@ -1821,13 +2031,14 @@
           "label": "Herdar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237963,
+    "content_id": "237963",
     "reference_id": 25830,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Antipas",
     "media_type": "Text",
     "index_reference": "herodes antipas",
@@ -2083,13 +2294,29 @@
           "label": "Roma",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herodes Antipas",
+          "confidence": 0.8743,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237965,
+    "content_id": "237965",
     "reference_id": 25832,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes, o Grande",
     "media_type": "Text",
     "index_reference": "herodes, o grande",
@@ -2194,13 +2421,22 @@
           "label": "Templo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.9636,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237964,
+    "content_id": "237964",
     "reference_id": 25831,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodias",
     "media_type": "Text",
     "index_reference": "herodias",
@@ -2267,13 +2503,29 @@
           "label": "João Batista",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "Herodias",
+          "confidence": 0.9429,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herodes Antipas",
+          "confidence": 0.7822,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237966,
+    "content_id": "237966",
     "reference_id": 25833,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hesbom",
     "media_type": "Text",
     "index_reference": "hesbom",
@@ -2297,13 +2549,36 @@
           "label": "Seom",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Heshbon",
+          "type": "place",
+          "preferred_label": "Hesbom",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Heshmon",
+          "type": "place",
+          "preferred_label": "Hesmom",
+          "confidence": 0.8317,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Helbon",
+          "type": "place",
+          "preferred_label": "Helbom",
+          "confidence": 0.821,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 237972,
+    "content_id": "237972",
     "reference_id": 25839,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heveu",
     "media_type": "Text",
     "index_reference": "heveu",
@@ -2426,13 +2701,36 @@
           "label": "Siquém",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Hivites",
+          "type": "group",
+          "preferred_label": "Hivites",
+          "confidence": 0.6864,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "Hete",
+          "confidence": 0.6737,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hittite",
+          "type": "group",
+          "preferred_label": "Hittites",
+          "confidence": 0.5702,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237970,
+    "content_id": "237970",
     "reference_id": 25837,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hilquias",
     "media_type": "Text",
     "index_reference": "hilquias",
@@ -2535,13 +2833,50 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Hilkiah.6",
+          "type": "person",
+          "preferred_label": "Hilquias",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah.5",
+          "type": "person",
+          "preferred_label": "Hilquias",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah",
+          "type": "person",
+          "preferred_label": "Hilquias",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hilkiah.2",
+          "type": "person",
+          "preferred_label": "Hilquias",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Malchijah.9",
+          "type": "person",
+          "preferred_label": "Malquias",
+          "confidence": 0.5542,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237994,
+    "content_id": "237994",
     "reference_id": 25861,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hipócrita",
     "media_type": "Text",
     "index_reference": "hipócrita",
@@ -2719,13 +3054,22 @@
           "end_ref_usfm": "MAT 6:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Hypocrisy",
+          "type": "keyterm",
+          "preferred_label": "hipocrisia",
+          "confidence": 0.5838,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 237971,
+    "content_id": "237971",
     "reference_id": 25838,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hitita",
     "media_type": "Text",
     "index_reference": "hitita",
@@ -2977,13 +3321,43 @@
           "label": "Urias",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "Hete",
+          "confidence": 0.8298,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hittite",
+          "type": "group",
+          "preferred_label": "Hittites",
+          "confidence": 0.6917,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hivites",
+          "type": "group",
+          "preferred_label": "Hivites",
+          "confidence": 0.5515,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaã",
+          "confidence": 0.5329,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237695,
+    "content_id": "237695",
     "reference_id": 25560,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holocausto",
     "media_type": "Text",
     "index_reference": "holocausto",
@@ -3263,13 +3637,29 @@
           "label": "Sacrifício",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "offering",
+          "confidence": 0.573,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:StoneAltar",
+          "type": "realia",
+          "preferred_label": "Stone Altar",
+          "confidence": 0.526,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238125,
+    "content_id": "238125",
     "reference_id": 25995,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Homem de Deus",
     "media_type": "Text",
     "index_reference": "homem de deus",
@@ -3331,13 +3721,22 @@
           "label": "Profeta",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5271,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238093,
+    "content_id": "238093",
     "reference_id": 25962,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Homens Instruídos",
     "media_type": "Text",
     "index_reference": "homens instruídos",
@@ -3399,13 +3798,22 @@
           "label": "Daniel",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.5835,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238477,
+    "content_id": "238477",
     "reference_id": 26351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Homens Sábios",
     "media_type": "Text",
     "index_reference": "homens sábios",
@@ -3549,13 +3957,14 @@
           "label": "Sábio",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237979,
+    "content_id": "237979",
     "reference_id": 25846,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Honra",
     "media_type": "Text",
     "index_reference": "honra",
@@ -4055,13 +4464,14 @@
           "label": "Louvar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237987,
+    "content_id": "237987",
     "reference_id": 25854,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hora",
     "media_type": "Text",
     "index_reference": "hora",
@@ -4524,13 +4934,14 @@
           "label": "Hora",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237671,
+    "content_id": "237671",
     "reference_id": 25535,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hora no período bíblico",
     "media_type": "Text",
     "index_reference": "hora no período bíblico",
@@ -4708,13 +5119,14 @@
           "end_ref_usfm": "JHN 4:52"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237982,
+    "content_id": "237982",
     "reference_id": 25849,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Horror",
     "media_type": "Text",
     "index_reference": "horror",
@@ -4769,13 +5181,14 @@
           "label": "Terror",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237993,
+    "content_id": "237993",
     "reference_id": 25860,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Humilde",
     "media_type": "Text",
     "index_reference": "humilde",
@@ -4961,13 +5374,22 @@
           "label": "Orgulhoso",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Poor",
+          "type": "keyterm",
+          "preferred_label": "poor",
+          "confidence": 0.5108,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238111,
+    "content_id": "238111",
     "reference_id": 25980,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Humilde",
     "media_type": "Text",
     "index_reference": "humilde",
@@ -5028,7 +5450,8 @@
           "label": "Orgulhoso",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 26720,
+    "content_id": "26720",
     "reference_id": 25862,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iconium",
     "media_type": "Text",
     "index_reference": "iconium",
@@ -88,13 +88,22 @@
           "label": "Stone",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "Iconium",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26721,
+    "content_id": "26721",
     "reference_id": 25863,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Image",
     "media_type": "Text",
     "index_reference": "image",
@@ -276,13 +285,36 @@
           "label": "Image of God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Image",
+          "type": "realia",
+          "preferred_label": "Image",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "deity:Teraphim",
+          "type": "deity",
+          "preferred_label": "Teraphim",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:GravenImage",
+          "type": "realia",
+          "preferred_label": "Graven Image",
+          "confidence": 0.6296,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26722,
+    "content_id": "26722",
     "reference_id": 25864,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Image of God",
     "media_type": "Text",
     "index_reference": "image of god",
@@ -367,13 +399,22 @@
           "label": "Son of God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26724,
+    "content_id": "26724",
     "reference_id": 25866,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "In Christ",
     "media_type": "Text",
     "index_reference": "in christ",
@@ -1391,13 +1432,29 @@
           "label": "Lord",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.7784,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:InChrist",
+          "type": "keyterm",
+          "preferred_label": "In Christ",
+          "confidence": 0.7753,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26723,
+    "content_id": "26723",
     "reference_id": 25865,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Incense",
     "media_type": "Text",
     "index_reference": "incense",
@@ -1603,13 +1660,36 @@
           "label": "Frankincense",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Incense",
+          "type": "realia",
+          "preferred_label": "Incense",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:Altar",
+          "type": "realia",
+          "preferred_label": "Altar",
+          "confidence": 0.5186,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Censer",
+          "type": "realia",
+          "preferred_label": "Censer",
+          "confidence": 0.5079,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26725,
+    "content_id": "26725",
     "reference_id": 25867,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Inherit",
     "media_type": "Text",
     "index_reference": "inherit",
@@ -2032,13 +2112,14 @@
           "label": "Promised Land",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26726,
+    "content_id": "26726",
     "reference_id": 25868,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iniquity",
     "media_type": "Text",
     "index_reference": "iniquity",
@@ -2322,13 +2403,22 @@
           "label": "Trespass",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Ardour",
+          "type": "keyterm",
+          "preferred_label": "Passion",
+          "confidence": 0.5385,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26727,
+    "content_id": "26727",
     "reference_id": 25869,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Innocent",
     "media_type": "Text",
     "index_reference": "innocent",
@@ -2478,13 +2568,22 @@
           "label": "Guilt",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Innocence",
+          "type": "keyterm",
+          "preferred_label": "Innocence",
+          "confidence": 0.5372,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26728,
+    "content_id": "26728",
     "reference_id": 25870,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Inquire",
     "media_type": "Text",
     "index_reference": "inquire",
@@ -2530,13 +2629,22 @@
           "end_ref_usfm": "EZK 20:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:AskFor",
+          "type": "keyterm",
+          "preferred_label": "Ask for",
+          "confidence": 0.8565,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 26729,
+    "content_id": "26729",
     "reference_id": 25871,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Instruct",
     "media_type": "Text",
     "index_reference": "instruct",
@@ -2866,13 +2974,22 @@
           "label": "Decree",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Instruction",
+          "type": "keyterm",
+          "preferred_label": "Instruction",
+          "confidence": 0.5972,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26730,
+    "content_id": "26730",
     "reference_id": 25872,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Integrity",
     "media_type": "Text",
     "index_reference": "integrity",
@@ -2981,13 +3098,22 @@
           "label": "Joseph OT",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Uprightness",
+          "type": "keyterm",
+          "preferred_label": "Uprightness",
+          "confidence": 0.8221,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 26731,
+    "content_id": "26731",
     "reference_id": 25873,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Intercede",
     "media_type": "Text",
     "index_reference": "intercede",
@@ -3053,13 +3179,14 @@
           "label": "Pray",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26732,
+    "content_id": "26732",
     "reference_id": 25874,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Interpret",
     "media_type": "Text",
     "index_reference": "interpret",
@@ -3285,13 +3412,22 @@
           "label": "Vision",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Interpret",
+          "type": "keyterm",
+          "preferred_label": "Interpret",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 26733,
+    "content_id": "26733",
     "reference_id": 25875,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iron",
     "media_type": "Text",
     "index_reference": "iron",
@@ -3308,13 +3444,22 @@
           "label": "Armor",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Yiron",
+          "type": "place",
+          "preferred_label": "Iron",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26734,
+    "content_id": "26734",
     "reference_id": 25876,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaac",
     "media_type": "Text",
     "index_reference": "isaac",
@@ -3992,13 +4137,29 @@
           "label": "Sarah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaac",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.5346,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26735,
+    "content_id": "26735",
     "reference_id": 25877,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaiah",
     "media_type": "Text",
     "index_reference": "isaiah",
@@ -4246,13 +4407,29 @@
           "label": "Uzziah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeshaiah.6",
+          "type": "person",
+          "preferred_label": "Jeshaiah",
+          "confidence": 0.5094,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26736,
+    "content_id": "26736",
     "reference_id": 25878,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ishmael",
     "media_type": "Text",
     "index_reference": "ishmael",
@@ -4477,13 +4654,71 @@
           "label": "Sarah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ishmael.2",
+          "type": "person",
+          "preferred_label": "Ishmael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ishmael.3",
+          "type": "person",
+          "preferred_label": "Ishmael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ishmael.4",
+          "type": "person",
+          "preferred_label": "Ishmael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ishmael.5",
+          "type": "person",
+          "preferred_label": "Ishmael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ishmael.6",
+          "type": "person",
+          "preferred_label": "Ishmael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ishmael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "group:Ishmael",
+          "type": "group",
+          "preferred_label": "Ishmaelites",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mishma",
+          "type": "person",
+          "preferred_label": "Mishma",
+          "confidence": 0.5108,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26737,
+    "content_id": "26737",
     "reference_id": 25879,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Israel",
     "media_type": "Text",
     "index_reference": "israel",
@@ -6456,13 +6691,43 @@
           "label": "Nation",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Israel",
+          "type": "place",
+          "preferred_label": "Israel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.7794,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "Israelites",
+          "confidence": 0.6187,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26738,
+    "content_id": "26738",
     "reference_id": 25880,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Issachar",
     "media_type": "Text",
     "index_reference": "issachar",
@@ -6547,6 +6812,29 @@
           "resource_code": "UWTranslationWords",
           "label": "Leah",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Issachar.2",
+          "type": "person",
+          "preferred_label": "Issachar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Issachar",
+          "type": "person",
+          "preferred_label": "Issachar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "group:Issachar",
+          "type": "group",
+          "preferred_label": "Tribe of Issachar",
+          "confidence": 0.5567,
+          "match_method": "scored"
         }
       ]
     }

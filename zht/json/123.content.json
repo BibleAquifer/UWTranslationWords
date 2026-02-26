@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390969,
+    "content_id": "390969",
     "reference_id": 26043,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拿單",
     "media_type": "Text",
     "index_reference": "拿單",
@@ -83,13 +83,14 @@
           "label": "烏利亞",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390968,
+    "content_id": "390968",
     "reference_id": 26042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拿弗他利",
     "media_type": "Text",
     "index_reference": "拿弗他利",
@@ -193,13 +194,14 @@
           "label": "雅各",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390966,
+    "content_id": "390966",
     "reference_id": 26040,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拿鶴",
     "media_type": "Text",
     "index_reference": "拿鶴",
@@ -332,13 +334,14 @@
           "label": "利百加",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390971,
+    "content_id": "390971",
     "reference_id": 26045,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拿撒勒",
     "media_type": "Text",
     "index_reference": "拿撒勒",
@@ -593,13 +596,14 @@
           "label": "馬利亞",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390972,
+    "content_id": "390972",
     "reference_id": 26046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拿細耳人",
     "media_type": "Text",
     "index_reference": "拿細耳人",
@@ -662,13 +666,14 @@
           "label": "撒迦利亞 （舊約）",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390967,
+    "content_id": "390967",
     "reference_id": 26041,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "那鴻",
     "media_type": "Text",
     "index_reference": "那鴻",
@@ -712,6 +717,22 @@
           "resource_code": "UWTranslationWords",
           "label": "先知",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Elkosh",
+          "type": "place",
+          "preferred_label": "Elkosh",
+          "confidence": 0.55,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nahum.2",
+          "type": "person",
+          "preferred_label": "Nahum",
+          "confidence": 0.55,
+          "match_method": "scored"
         }
       ]
     }

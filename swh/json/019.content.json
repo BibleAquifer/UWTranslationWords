@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 575532,
+    "content_id": "575532",
     "reference_id": 25854,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saa",
     "media_type": "Text",
     "index_reference": "saa",
@@ -465,13 +465,14 @@
           "label": "Saa",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575386,
+    "content_id": "575386",
     "reference_id": 25535,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saa ya Wakati wa Kibiblia",
     "media_type": "Text",
     "index_reference": "saa ya wakati wa kibiblia",
@@ -649,13 +650,14 @@
           "end_ref_usfm": "JHN 4:52"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575679,
+    "content_id": "575679",
     "reference_id": 26186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sabato",
     "media_type": "Text",
     "index_reference": "sabato",
@@ -1175,13 +1177,22 @@
           "end_ref_usfm": "ACT 13:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Sabbath",
+          "type": "keyterm",
+          "preferred_label": "Sabbath",
+          "confidence": 0.8689,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 575360,
+    "content_id": "575360",
     "reference_id": 25446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka",
     "media_type": "Text",
     "index_reference": "sadaka",
@@ -1281,13 +1292,14 @@
           "end_ref_usfm": "ACT 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627237,
+    "content_id": "627237",
     "reference_id": 26081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Amani",
     "media_type": "Text",
     "index_reference": "sadaka ya amani",
@@ -1407,13 +1419,14 @@
           "label": "Mkate Usiotiwa Chachu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627190,
+    "content_id": "627190",
     "reference_id": 26002,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Chakula",
     "media_type": "Text",
     "index_reference": "sadaka ya chakula",
@@ -1457,13 +1470,14 @@
           "label": "Dhabihu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627324,
+    "content_id": "627324",
     "reference_id": 26242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Dhambi",
     "media_type": "Text",
     "index_reference": "sadaka ya dhambi",
@@ -1557,13 +1571,14 @@
           "label": "dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627082,
+    "content_id": "627082",
     "reference_id": 25807,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Hatia",
     "media_type": "Text",
     "index_reference": "sadaka ya hatia",
@@ -1632,13 +1647,14 @@
           "label": "Sadaka ya Dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627054,
+    "content_id": "627054",
     "reference_id": 25759,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Hiari",
     "media_type": "Text",
     "index_reference": "sadaka ya hiari",
@@ -1795,13 +1811,14 @@
           "label": "Sadaka ya Dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627017,
+    "content_id": "627017",
     "reference_id": 25683,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Kinywaji",
     "media_type": "Text",
     "index_reference": "sadaka ya kinywaji",
@@ -1880,13 +1897,14 @@
           "label": "Sadaka ya Nafaka",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 626949,
+    "content_id": "626949",
     "reference_id": 25560,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Kuteketezwa",
     "media_type": "Text",
     "index_reference": "sadaka ya kuteketezwa",
@@ -2166,13 +2184,22 @@
           "label": "Dhabihu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "Offering",
+          "confidence": 0.546,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627078,
+    "content_id": "627078",
     "reference_id": 25802,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Nafaka",
     "media_type": "Text",
     "index_reference": "sadaka ya nafaka",
@@ -2265,13 +2292,14 @@
           "label": "Sadaka ya Dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627196,
+    "content_id": "627196",
     "reference_id": 26010,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Ukumbusho",
     "media_type": "Text",
     "index_reference": "sadaka ya ukumbusho",
@@ -2323,13 +2351,14 @@
           "end_ref_usfm": "JOS 4:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627048,
+    "content_id": "627048",
     "reference_id": 25738,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka ya Ushirika",
     "media_type": "Text",
     "index_reference": "sadaka ya ushirika",
@@ -2426,13 +2455,14 @@
           "label": "Mkate Usiotiwa Chachu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575783,
+    "content_id": "575783",
     "reference_id": 26365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadoki",
     "media_type": "Text",
     "index_reference": "sadoki",
@@ -2551,13 +2581,64 @@
           "label": "Nehemia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zadok.2",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6941,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.4",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6471,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.6",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6235,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.7",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6235,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6235,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.8",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6235,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zadok.5",
+          "type": "person",
+          "preferred_label": "Sadoki",
+          "confidence": 0.6235,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575368,
+    "content_id": "575368",
     "reference_id": 25474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Safina",
     "media_type": "Text",
     "index_reference": "safina",
@@ -2773,13 +2854,22 @@
           "label": "Sanduku la Agano",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Ship",
+          "type": "realia",
+          "preferred_label": "Ship",
+          "confidence": 0.5786,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575410,
+    "content_id": "575410",
     "reference_id": 25596,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Safisha",
     "media_type": "Text",
     "index_reference": "safisha",
@@ -3442,13 +3532,22 @@
           "label": "Dhabihu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sapphira",
+          "type": "person",
+          "preferred_label": "Safira",
+          "confidence": 0.8006,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575655,
+    "content_id": "575655",
     "reference_id": 26142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Safisha",
     "media_type": "Text",
     "index_reference": "safisha",
@@ -3948,13 +4047,22 @@
           "label": "Roho",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pure",
+          "type": "keyterm",
+          "preferred_label": "Pure",
+          "confidence": 0.5045,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627340,
+    "content_id": "627340",
     "reference_id": 26273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salfa",
     "media_type": "Text",
     "index_reference": "salfa",
@@ -4061,13 +4169,22 @@
           "label": "Kuasi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zalaph",
+          "type": "person",
+          "preferred_label": "Salafu",
+          "confidence": 0.8344,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627294,
+    "content_id": "627294",
     "reference_id": 26191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samaki wa chumvi",
     "media_type": "Text",
     "index_reference": "samaki wa chumvi",
@@ -4143,13 +4260,14 @@
           "label": "Negebu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575684,
+    "content_id": "575684",
     "reference_id": 26192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samaria",
     "media_type": "Text",
     "index_reference": "samaria",
@@ -4357,13 +4475,43 @@
           "label": "Sharoni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Samaria",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.7929,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Samaritan",
+          "type": "group",
+          "preferred_label": "Samaritans",
+          "confidence": 0.7286,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Samaria.2",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalemu",
+          "confidence": 0.5065,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575486,
+    "content_id": "575486",
     "reference_id": 25752,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samehe",
     "media_type": "Text",
     "index_reference": "samehe",
@@ -4825,13 +4973,22 @@
           "label": "Hatia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Forgive",
+          "type": "keyterm",
+          "preferred_label": "Forgive",
+          "confidence": 0.5604,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627295,
+    "content_id": "627295",
     "reference_id": 26193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samsoni",
     "media_type": "Text",
     "index_reference": "samsoni",
@@ -4886,13 +5043,29 @@
           "label": "Wafilisti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "Samsoni",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Eshtaol",
+          "type": "place",
+          "preferred_label": "Eshtaoli",
+          "confidence": 0.5218,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627296,
+    "content_id": "627296",
     "reference_id": 26194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samweli",
     "media_type": "Text",
     "index_reference": "samweli",
@@ -4973,13 +5146,22 @@
           "label": "Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samweli",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626893,
+    "content_id": "626893",
     "reference_id": 25475,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sanduku la Agano",
     "media_type": "Text",
     "index_reference": "sanduku la agano",
@@ -5181,13 +5363,36 @@
           "label": "Ushuhuda",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:ArkOfTheCovenant",
+          "type": "realia",
+          "preferred_label": "Ark of the Covenant",
+          "confidence": 0.6478,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:CovenantBox",
+          "type": "keyterm",
+          "preferred_label": "Covenant Box",
+          "confidence": 0.619,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Witness.2",
+          "type": "keyterm",
+          "preferred_label": "Testimony",
+          "confidence": 0.5229,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627298,
+    "content_id": "627298",
     "reference_id": 26198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sara",
     "media_type": "Text",
     "index_reference": "sara",
@@ -5500,13 +5705,43 @@
           "label": "Isaka",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 0.9837,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abrahamu",
+          "confidence": 0.5382,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaka",
+          "confidence": 0.5168,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Hebron",
+          "type": "place",
+          "preferred_label": "Hebroni",
+          "confidence": 0.5038,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627299,
+    "content_id": "627299",
     "reference_id": 26200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sauli",
     "media_type": "Text",
     "index_reference": "sauli",
@@ -5584,13 +5819,36 @@
           "label": "Mfalme",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Sauli",
+          "confidence": 0.7538,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaul.2",
+          "type": "person",
+          "preferred_label": "Shauli",
+          "confidence": 0.621,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaul",
+          "type": "person",
+          "preferred_label": "Shauli",
+          "confidence": 0.621,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575788,
+    "content_id": "575788",
     "reference_id": 26375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sayuni",
     "media_type": "Text",
     "index_reference": "sayuni",
@@ -5732,13 +5990,22 @@
           "label": "Wayebusi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalemu",
+          "confidence": 0.6991,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627371,
+    "content_id": "627371",
     "reference_id": 26371,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sedekia",
     "media_type": "Text",
     "index_reference": "sedekia",
@@ -5843,13 +6110,50 @@
           "label": "Nehemia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zedekiah.4",
+          "type": "person",
+          "preferred_label": "Sedekia",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zedekiah.5",
+          "type": "person",
+          "preferred_label": "Sedekia",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zedekiah.3",
+          "type": "person",
+          "preferred_label": "Sedekia",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Yehoyakimu",
+          "confidence": 0.56,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoiachin",
+          "type": "person",
+          "preferred_label": "Yekonia",
+          "confidence": 0.5398,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627372,
+    "content_id": "627372",
     "reference_id": 26372,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sefania",
     "media_type": "Text",
     "index_reference": "sefania",
@@ -5911,13 +6215,43 @@
           "label": "kuhani",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zephaniah.2",
+          "type": "person",
+          "preferred_label": "Sefania",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zephaniah.3",
+          "type": "person",
+          "preferred_label": "Sefania",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zephaniah.4",
+          "type": "person",
+          "preferred_label": "Sefania",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Seraiah.2",
+          "type": "person",
+          "preferred_label": "Seraya",
+          "confidence": 0.5695,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575627,
+    "content_id": "575627",
     "reference_id": 26075,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sehemu",
     "media_type": "Text",
     "index_reference": "sehemu",
@@ -6001,13 +6335,14 @@
           "label": "Fadhila",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627303,
+    "content_id": "627303",
     "reference_id": 26210,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seiri",
     "media_type": "Text",
     "index_reference": "seiri",
@@ -6024,13 +6359,57 @@
           "label": "Edomu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Seir",
+          "type": "person",
+          "preferred_label": "Seiri",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Seir",
+          "type": "place",
+          "preferred_label": "Seiri",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:SeirMount",
+          "type": "place",
+          "preferred_label": "Seiri",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:SeirMount.2",
+          "type": "place",
+          "preferred_label": "Seiri",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Seirah",
+          "type": "place",
+          "preferred_label": "Seira",
+          "confidence": 0.882,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Zior",
+          "type": "place",
+          "preferred_label": "Siori",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627304,
+    "content_id": "627304",
     "reference_id": 26212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sela",
     "media_type": "Text",
     "index_reference": "sela",
@@ -6066,13 +6445,22 @@
           "label": "Zaburi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5232,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627306,
+    "content_id": "627306",
     "reference_id": 26214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Senakeribu",
     "media_type": "Text",
     "index_reference": "senakeribu",
@@ -6143,13 +6531,22 @@
           "label": "Ninawi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sennacherib",
+          "type": "person",
+          "preferred_label": "Senakeribu",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626960,
+    "content_id": "626960",
     "reference_id": 25579,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sensa",
     "media_type": "Text",
     "index_reference": "sensa",
@@ -6204,13 +6601,14 @@
           "label": "Rumi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575406,
+    "content_id": "575406",
     "reference_id": 25580,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Senturioni",
     "media_type": "Text",
     "index_reference": "senturioni",
@@ -6384,13 +6782,14 @@
           "label": "Rumi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627308,
+    "content_id": "627308",
     "reference_id": 26218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sethi",
     "media_type": "Text",
     "index_reference": "sethi",
@@ -6502,13 +6901,29 @@
           "label": "Mzawa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Seth",
+          "type": "person",
+          "preferred_label": "Sethi",
+          "confidence": 0.9333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Enosh",
+          "type": "person",
+          "preferred_label": "Enoshi",
+          "confidence": 0.5642,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626948,
+    "content_id": "626948",
     "reference_id": 25559,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shaba",
     "media_type": "Text",
     "index_reference": "shaba",
@@ -6804,13 +7219,14 @@
           "label": "Hekalu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627309,
+    "content_id": "627309",
     "reference_id": 26219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shaddai",
     "media_type": "Text",
     "index_reference": "shaddai",
@@ -6827,13 +7243,14 @@
           "label": "Mungu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575472,
+    "content_id": "575472",
     "reference_id": 25730,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shahidi wa Uongo",
     "media_type": "Text",
     "index_reference": "shahidi wa uongo",
@@ -6935,13 +7352,14 @@
           "label": "Ushuhuda",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575760,
+    "content_id": "575760",
     "reference_id": 26336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shamba la mizabibu",
     "media_type": "Text",
     "index_reference": "shamba la mizabibu",
@@ -7213,13 +7631,22 @@
           "label": "Mzabibu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.703,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627310,
+    "content_id": "627310",
     "reference_id": 26221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sharoni",
     "media_type": "Text",
     "index_reference": "sharoni",
@@ -7276,13 +7703,36 @@
           "label": "Mediterania",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sharon.2",
+          "type": "place",
+          "preferred_label": "Sharon Plain",
+          "confidence": 0.764,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sharon",
+          "type": "place",
+          "preferred_label": "vya",
+          "confidence": 0.664,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Bashan",
+          "type": "place",
+          "preferred_label": "Bashani",
+          "confidence": 0.5195,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626916,
+    "content_id": "626916",
     "reference_id": 25505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shayiri",
     "media_type": "Text",
     "index_reference": "shayiri",
@@ -7398,13 +7848,22 @@
           "label": "Ngano",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Barley",
+          "type": "flora",
+          "preferred_label": "Barley",
+          "confidence": 0.6145,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627311,
+    "content_id": "627311",
     "reference_id": 26222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheba",
     "media_type": "Text",
     "index_reference": "sheba",
@@ -7485,13 +7944,64 @@
           "label": "Ethiopia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sheba",
+          "type": "person",
+          "preferred_label": "Sheba",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sheba.2",
+          "type": "place",
+          "preferred_label": "Sheba",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:QueenOfSheba",
+          "type": "person",
+          "preferred_label": "malkia",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheba.2",
+          "type": "person",
+          "preferred_label": "Sheba",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheba.3",
+          "type": "person",
+          "preferred_label": "Sheba",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Seba",
+          "type": "person",
+          "preferred_label": "Seba",
+          "confidence": 0.6232,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Seba",
+          "type": "place",
+          "preferred_label": "Seba",
+          "confidence": 0.5869,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627312,
+    "content_id": "627312",
     "reference_id": 26223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shekemu",
     "media_type": "Text",
     "index_reference": "shekemu",
@@ -7651,13 +8161,36 @@
           "label": "Mhivi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 0.82,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "Shekemu",
+          "confidence": 0.72,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hamor",
+          "type": "person",
+          "preferred_label": "Hamori",
+          "confidence": 0.5185,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626997,
+    "content_id": "626997",
     "reference_id": 25647,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "shemasi",
     "media_type": "Text",
     "index_reference": "shemasi",
@@ -7712,13 +8245,14 @@
           "label": "Mtumishi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627313,
+    "content_id": "627313",
     "reference_id": 26225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shemu",
     "media_type": "Text",
     "index_reference": "shemu",
@@ -7860,13 +8394,22 @@
           "label": "Nuhu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Shemu",
+          "confidence": 0.9294,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627161,
+    "content_id": "627161",
     "reference_id": 25957,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria",
     "media_type": "Text",
     "index_reference": "sheria",
@@ -8120,13 +8663,36 @@
           "label": "Sheria ya Mose",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Law",
+          "type": "keyterm",
+          "preferred_label": "Law",
+          "confidence": 0.9385,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:EnactLaws",
+          "type": "keyterm",
+          "preferred_label": "Enact Laws",
+          "confidence": 0.8108,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Regulations",
+          "type": "keyterm",
+          "preferred_label": "Regulations",
+          "confidence": 0.8048,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 627331,
+    "content_id": "627331",
     "reference_id": 26260,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria",
     "media_type": "Text",
     "index_reference": "sheria",
@@ -8357,13 +8923,22 @@
           "label": "Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Decree",
+          "type": "keyterm",
+          "preferred_label": "Decree",
+          "confidence": 0.5039,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627228,
+    "content_id": "627228",
     "reference_id": 26066,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria ndogo",
     "media_type": "Text",
     "index_reference": "sheria ndogo",
@@ -8547,13 +9122,14 @@
           "label": "Sheria",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575584,
+    "content_id": "575584",
     "reference_id": 25959,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria ya Mose",
     "media_type": "Text",
     "index_reference": "sheria ya mose",
@@ -9535,13 +10111,14 @@
           "label": "Mungu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575687,
+    "content_id": "575687",
     "reference_id": 26199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shetani",
     "media_type": "Text",
     "index_reference": "shetani",
@@ -10042,13 +10619,22 @@
           "label": "Jaribu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Shetani",
+          "confidence": 0.7722,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575749,
+    "content_id": "575749",
     "reference_id": 26320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shida",
     "media_type": "Text",
     "index_reference": "shida",
@@ -10469,13 +11055,14 @@
           "label": "Kutesa",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627315,
+    "content_id": "627315",
     "reference_id": 26228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shilo",
     "media_type": "Text",
     "index_reference": "shilo",
@@ -10579,13 +11166,36 @@
           "label": "Samweli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "Shilo",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "Shilo",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5507,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627316,
+    "content_id": "627316",
     "reference_id": 26229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shimei",
     "media_type": "Text",
     "index_reference": "shimei",
@@ -10648,13 +11258,43 @@
           "label": "Lawi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shimei.4",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Shimei",
+          "type": "group",
+          "preferred_label": "Shimeites",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shimei.6",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shimei.5",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.5167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575643,
+    "content_id": "575643",
     "reference_id": 26106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shimo",
     "media_type": "Text",
     "index_reference": "shimo",
@@ -10781,13 +11421,162 @@
           "label": "Jehanamu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shimei.10",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.11",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.12",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.13",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.14",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.15",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.16",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.17",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.18",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.2",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.4",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.5",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.6",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.7",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.8",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimei.9",
+          "type": "person",
+          "preferred_label": "Shimei",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shittim",
+          "type": "place",
+          "preferred_label": "Shitimu",
+          "confidence": 0.8462,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimea.2",
+          "type": "person",
+          "preferred_label": "Shimea",
+          "confidence": 0.8346,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimea.3",
+          "type": "person",
+          "preferred_label": "Shimea",
+          "confidence": 0.8346,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shillem",
+          "type": "person",
+          "preferred_label": "Shilemu",
+          "confidence": 0.8306,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimeon",
+          "type": "person",
+          "preferred_label": "Shimeoni",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 626857,
+    "content_id": "626857",
     "reference_id": 25426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shimo la Kuzimu",
     "media_type": "Text",
     "index_reference": "shimo la kuzimu",
@@ -10879,13 +11668,22 @@
           "label": "Adhibu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Abyss",
+          "type": "keyterm",
+          "preferred_label": "Abyss",
+          "confidence": 0.636,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627317,
+    "content_id": "627317",
     "reference_id": 26230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shinari",
     "media_type": "Text",
     "index_reference": "shinari",
@@ -10993,13 +11791,22 @@
           "label": "Uru",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Shinar",
+          "type": "place",
+          "preferred_label": "Shinari",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575372,
+    "content_id": "575372",
     "reference_id": 25495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shoka",
     "media_type": "Text",
     "index_reference": "shoka",
@@ -11045,13 +11852,22 @@
           "end_ref_usfm": "1KI 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Secacah",
+          "type": "place",
+          "preferred_label": "Sekaka",
+          "confidence": 0.8206,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 626924,
+    "content_id": "626924",
     "reference_id": 25514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shuhudia_kutoa ushahidi",
     "media_type": "Text",
     "index_reference": "shuhudia_kutoa ushahidi",
@@ -11075,13 +11891,14 @@
           "label": "Ushuhuda",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575763,
+    "content_id": "575763",
     "reference_id": 26340,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shujaa",
     "media_type": "Text",
     "index_reference": "shujaa",
@@ -11354,13 +12171,36 @@
           "label": "Rumi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shuhah",
+          "type": "person",
+          "preferred_label": "Shuha",
+          "confidence": 0.926,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shua",
+          "type": "person",
+          "preferred_label": "Shua",
+          "confidence": 0.8967,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shua.2",
+          "type": "person",
+          "preferred_label": "Shua",
+          "confidence": 0.8967,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575700,
+    "content_id": "575700",
     "reference_id": 26232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sidoni",
     "media_type": "Text",
     "index_reference": "sidoni",
@@ -11519,13 +12359,43 @@
           "label": "Foinike",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sidon",
+          "type": "place",
+          "preferred_label": "Wasidoni",
+          "confidence": 0.7928,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Sidon",
+          "type": "group",
+          "preferred_label": "Sidonians",
+          "confidence": 0.5928,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sidon",
+          "type": "person",
+          "preferred_label": "Wasidoni",
+          "confidence": 0.5762,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tyre",
+          "type": "place",
+          "preferred_label": "Tiro",
+          "confidence": 0.5133,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575645,
+    "content_id": "575645",
     "reference_id": 26116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sifa",
     "media_type": "Text",
     "index_reference": "sifa",
@@ -11909,13 +12779,14 @@
           "label": "Kuabudu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627320,
+    "content_id": "627320",
     "reference_id": 26235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sihoni",
     "media_type": "Text",
     "index_reference": "sihoni",
@@ -11939,13 +12810,36 @@
           "label": "Heshboni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sihon",
+          "type": "person",
+          "preferred_label": "Sihoni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shion",
+          "type": "place",
+          "preferred_label": "Shioni",
+          "confidence": 0.8439,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gihon",
+          "type": "place",
+          "preferred_label": "Gihoni",
+          "confidence": 0.8009,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 626996,
+    "content_id": "626996",
     "reference_id": 25646,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya Bwana",
     "media_type": "Text",
     "index_reference": "siku ya bwana",
@@ -12075,13 +12969,22 @@
           "label": "Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.61,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575572,
+    "content_id": "575572",
     "reference_id": 25931,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya Hukumu",
     "media_type": "Text",
     "index_reference": "siku ya hukumu",
@@ -12150,13 +13053,22 @@
           "label": "Hakimu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "Judgment",
+          "confidence": 0.551,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627160,
+    "content_id": "627160",
     "reference_id": 25956,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya mwisho",
     "media_type": "Text",
     "index_reference": "siku ya mwisho",
@@ -12308,13 +13220,14 @@
           "label": "Dunia",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575385,
+    "content_id": "575385",
     "reference_id": 25534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya Wakati wa Biblia",
     "media_type": "Text",
     "index_reference": "siku ya wakati wa biblia",
@@ -16024,13 +16937,14 @@
           "label": "Wakati",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627321,
+    "content_id": "627321",
     "reference_id": 26236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sila",
     "media_type": "Text",
     "index_reference": "sila",
@@ -16173,13 +17087,29 @@
           "label": "Paulo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Silas",
+          "type": "person",
+          "preferred_label": "Sila",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paulo",
+          "confidence": 0.545,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626894,
+    "content_id": "626894",
     "reference_id": 25476,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silaha",
     "media_type": "Text",
     "index_reference": "silaha",
@@ -16291,13 +17221,14 @@
           "label": "Roho",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 626944,
+    "content_id": "626944",
     "reference_id": 25553,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silaha ya Upinde",
     "media_type": "Text",
     "index_reference": "silaha ya upinde",
@@ -16421,13 +17352,14 @@
           "end_ref_usfm": "PSA 58:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627168,
+    "content_id": "627168",
     "reference_id": 25969,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simba",
     "media_type": "Text",
     "index_reference": "simba",
@@ -16598,13 +17530,22 @@
           "label": "Samsoni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Lion",
+          "type": "fauna",
+          "preferred_label": "Lion",
+          "confidence": 0.6316,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627322,
+    "content_id": "627322",
     "reference_id": 26238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simeoni",
     "media_type": "Text",
     "index_reference": "simeoni",
@@ -16738,13 +17679,36 @@
           "label": "Lea",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simeon.5",
+          "type": "person",
+          "preferred_label": "Simeoni",
+          "confidence": 0.8889,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simeon.2",
+          "type": "person",
+          "preferred_label": "Simeoni",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Simeon",
+          "type": "group",
+          "preferred_label": "Simeoni",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575703,
+    "content_id": "575703",
     "reference_id": 26239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simoni Zelote",
     "media_type": "Text",
     "index_reference": "simoni zelote",
@@ -16818,13 +17782,29 @@
           "label": "Kumi na wawili",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simon.2",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Zealot",
+          "type": "group",
+          "preferred_label": "Zelote",
+          "confidence": 0.68,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575722,
+    "content_id": "575722",
     "reference_id": 26276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinagogi",
     "media_type": "Text",
     "index_reference": "sinagogi",
@@ -17237,13 +18217,22 @@
           "label": "Kuabudu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Synagogue",
+          "type": "realia",
+          "preferred_label": "Synagogue",
+          "confidence": 0.7921,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627323,
+    "content_id": "627323",
     "reference_id": 26241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinai",
     "media_type": "Text",
     "index_reference": "sinai",
@@ -17428,13 +18417,36 @@
           "label": "Amri Kumi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:SinaiMount",
+          "type": "place",
+          "preferred_label": "Sinai",
+          "confidence": 0.8133,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:SinaiWilderness",
+          "type": "place",
+          "preferred_label": "Sinai",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sin",
+          "type": "place",
+          "preferred_label": "Sini",
+          "confidence": 0.5638,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575705,
+    "content_id": "575705",
     "reference_id": 26246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Snare",
     "media_type": "Text",
     "index_reference": "snare",
@@ -17647,13 +18659,29 @@
           "label": "Jaribu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Trap",
+          "type": "realia",
+          "preferred_label": "Trap",
+          "confidence": 0.8345,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Net",
+          "type": "realia",
+          "preferred_label": "Net",
+          "confidence": 0.6414,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575707,
+    "content_id": "575707",
     "reference_id": 26248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sodoma",
     "media_type": "Text",
     "index_reference": "sodoma",
@@ -17858,13 +18886,29 @@
           "label": "Gomora",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodoma",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Gomorrah",
+          "type": "place",
+          "preferred_label": "Gomora",
+          "confidence": 0.5617,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575708,
+    "content_id": "575708",
     "reference_id": 26249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Solomoni",
     "media_type": "Text",
     "index_reference": "solomoni",
@@ -18091,13 +19135,22 @@
           "label": "Ufalme wa Israeli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Sulemani",
+          "confidence": 0.8911,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627337,
+    "content_id": "627337",
     "reference_id": 26269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Somo",
     "media_type": "Text",
     "index_reference": "somo",
@@ -18253,13 +19306,14 @@
           "label": "Jisalimisha",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627336,
+    "content_id": "627336",
     "reference_id": 26268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Somo-Mada",
     "media_type": "Text",
     "index_reference": "somo-mada",
@@ -18268,13 +19322,14 @@
     "content": "<h1>somo</h1><h2>Uhalisia:</h2><p>Inapotumika kwa maana hii, neno &quot;somo&quot; linamaanisha mada au lengo la kitu, kama vile, &quot;utakuwa somo la dhihaka.&quot;</p><ul><li><p>Kulingana na muktadha, neno &quot;subject&quot; linaweza kumaanisha &quot;mada,&quot; &quot;mada ya mazungumzo,&quot; &quot;lengo la mazungumzo,&quot; au &quot;dhima.&quot;</p></li></ul><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627332,
+    "content_id": "627332",
     "reference_id": 26261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Stefano",
     "media_type": "Text",
     "index_reference": "stefano",
@@ -18374,13 +19429,22 @@
           "label": "Paulo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Stephen",
+          "type": "person",
+          "preferred_label": "Stefano",
+          "confidence": 0.88,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627339,
+    "content_id": "627339",
     "reference_id": 26271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sukothi",
     "media_type": "Text",
     "index_reference": "sukothi",
@@ -18432,13 +19496,29 @@
           "end_ref_usfm": "JDG 8:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Succoth",
+          "type": "place",
+          "preferred_label": "Sukothi",
+          "confidence": 0.7455,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Succoth.2",
+          "type": "place",
+          "preferred_label": "Sukothi",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 575428,
+    "content_id": "575428",
     "reference_id": 25629,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sulubisha",
     "media_type": "Text",
     "index_reference": "sulubisha",
@@ -18763,13 +19843,22 @@
           "label": "Rumi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Cross",
+          "type": "realia",
+          "preferred_label": "Cross",
+          "confidence": 0.6126,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626976,
+    "content_id": "626976",
     "reference_id": 25604,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Suria",
     "media_type": "Text",
     "index_reference": "suria",
@@ -18827,13 +19916,14 @@
           "end_ref_usfm": "JDG 19:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627000,
+    "content_id": "627000",
     "reference_id": 25652,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Swala",
     "media_type": "Text",
     "index_reference": "swala",
@@ -18879,13 +19969,14 @@
           "end_ref_usfm": "SNG 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575723,
+    "content_id": "575723",
     "reference_id": 26277,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Syria",
     "media_type": "Text",
     "index_reference": "syria",
@@ -19018,6 +20109,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Naamani",
           "language": "swh"
+        }
+      ],
+      "acai": [
+        {
+          "id": "group:Syria",
+          "type": "group",
+          "preferred_label": "Syrians",
+          "confidence": 0.6286,
+          "match_method": "scored"
         }
       ]
     }

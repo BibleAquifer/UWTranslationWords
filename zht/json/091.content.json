@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391212,
+    "content_id": "391212",
     "reference_id": 26291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "恐怖",
     "media_type": "Text",
     "index_reference": "恐怖",
@@ -227,6 +227,22 @@
           "resource_code": "UWTranslationWords",
           "label": "雅巍",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Terror",
+          "type": "keyterm",
+          "preferred_label": "Terror",
+          "confidence": 0.8226,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Fear",
+          "type": "keyterm",
+          "preferred_label": "Fear",
+          "confidence": 0.8046,
+          "match_method": "embedding"
         }
       ]
     }

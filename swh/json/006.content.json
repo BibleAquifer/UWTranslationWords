@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 627019,
+    "content_id": "627019",
     "reference_id": 25688,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Edeni",
     "media_type": "Text",
     "index_reference": "edeni",
@@ -94,13 +94,22 @@
           "label": "Hawa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Eden.2",
+          "type": "place",
+          "preferred_label": "Garden of Eden",
+          "confidence": 0.8172,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627020,
+    "content_id": "627020",
     "reference_id": 25689,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Edomu",
     "media_type": "Text",
     "index_reference": "edomu",
@@ -260,13 +269,36 @@
           "label": "Obadia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edomu",
+          "confidence": 0.8095,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Edom",
+          "type": "group",
+          "preferred_label": "Edomites",
+          "confidence": 0.5886,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esau",
+          "confidence": 0.5529,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627029,
+    "content_id": "627029",
     "reference_id": 25706,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efeso",
     "media_type": "Text",
     "index_reference": "efeso",
@@ -424,13 +456,22 @@
           "label": "Timotheo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Efeso",
+          "confidence": 0.9636,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627030,
+    "content_id": "627030",
     "reference_id": 25707,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efodi",
     "media_type": "Text",
     "index_reference": "efodi",
@@ -610,13 +651,22 @@
           "label": "kuhani",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Ephod",
+          "type": "realia",
+          "preferred_label": "Ephod",
+          "confidence": 0.7629,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627031,
+    "content_id": "627031",
     "reference_id": 25708,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efraimu",
     "media_type": "Text",
     "index_reference": "efraimu",
@@ -757,13 +807,36 @@
           "label": "Ufalme wa Israeli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Efraimu",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:EphraimGate",
+          "type": "place",
+          "preferred_label": "Efraimu",
+          "confidence": 0.6381,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ephraim",
+          "type": "group",
+          "preferred_label": "Efraimu",
+          "confidence": 0.5452,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627032,
+    "content_id": "627032",
     "reference_id": 25709,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efrathah",
     "media_type": "Text",
     "index_reference": "efrathah",
@@ -839,13 +912,43 @@
           "label": "Kalebu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Bethlehemu",
+          "confidence": 0.919,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Raheli",
+          "confidence": 0.677,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ephrathah",
+          "type": "person",
+          "preferred_label": "Efrata",
+          "confidence": 0.617,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ephrathah",
+          "type": "group",
+          "preferred_label": "Ephrathites",
+          "confidence": 0.599,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627021,
+    "content_id": "627021",
     "reference_id": 25691,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ekroni",
     "media_type": "Text",
     "index_reference": "ekroni",
@@ -929,13 +1032,29 @@
           "label": "Wafilisti",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ekron",
+          "type": "place",
+          "preferred_label": "Ekroni",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ashkelon",
+          "type": "place",
+          "preferred_label": "Ashkeloni",
+          "confidence": 0.602,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627022,
+    "content_id": "627022",
     "reference_id": 25692,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elamu",
     "media_type": "Text",
     "index_reference": "elamu",
@@ -1002,13 +1121,43 @@
           "label": "Shemu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Elam",
+          "type": "place",
+          "preferred_label": "Elamu",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elam.2",
+          "type": "person",
+          "preferred_label": "Elamu",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elam",
+          "type": "person",
+          "preferred_label": "Elamu",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Elam",
+          "type": "group",
+          "preferred_label": "Elamites",
+          "confidence": 0.5838,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575458,
+    "content_id": "575458",
     "reference_id": 25694,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleazari",
     "media_type": "Text",
     "index_reference": "eleazari",
@@ -1119,13 +1268,50 @@
           "label": "Hodari",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eleazar.7",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eleazar.6",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eleazar",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eleazar.8",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575542,
+    "content_id": "575542",
     "reference_id": 25871,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elekeza",
     "media_type": "Text",
     "index_reference": "elekeza",
@@ -1455,13 +1641,14 @@
           "label": "Amri",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575460,
+    "content_id": "575460",
     "reference_id": 25696,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eliakimu",
     "media_type": "Text",
     "index_reference": "eliakimu",
@@ -1542,13 +1729,50 @@
           "label": "Farao",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eliakim.3",
+          "type": "person",
+          "preferred_label": "Eliakimu",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Yehoyakimu",
+          "confidence": 0.6685,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eliakim.4",
+          "type": "person",
+          "preferred_label": "Eliakimu",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eliakim",
+          "type": "person",
+          "preferred_label": "Eliakimu",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Eliakim.2",
+          "type": "person",
+          "preferred_label": "Eliakimu",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627023,
+    "content_id": "627023",
     "reference_id": 25698,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elisha",
     "media_type": "Text",
     "index_reference": "elisha",
@@ -1610,13 +1834,29 @@
           "label": "nabii",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Elisha",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575461,
+    "content_id": "575461",
     "reference_id": 25697,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eliya",
     "media_type": "Text",
     "index_reference": "eliya",
@@ -1864,13 +2104,36 @@
           "label": "Mungu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.9282,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.6103,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.6103,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627024,
+    "content_id": "627024",
     "reference_id": 25699,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elizabeti",
     "media_type": "Text",
     "index_reference": "elizabeti",
@@ -1949,13 +2212,22 @@
           "label": "Zakaria AJ",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "Elisabeti",
+          "confidence": 0.9061,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627026,
+    "content_id": "627026",
     "reference_id": 25702,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Engedi",
     "media_type": "Text",
     "index_reference": "engedi",
@@ -2040,13 +2312,22 @@
           "label": "Ngome imara",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Engedi",
+          "type": "place",
+          "preferred_label": "Engedi",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575738,
+    "content_id": "575738",
     "reference_id": 26302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enzi",
     "media_type": "Text",
     "index_reference": "enzi",
@@ -2486,13 +2767,22 @@
           "label": "Utawala",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Throne",
+          "type": "realia",
+          "preferred_label": "Throne",
+          "confidence": 0.5368,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627033,
+    "content_id": "627033",
     "reference_id": 25710,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esau",
     "media_type": "Text",
     "index_reference": "esau",
@@ -2987,13 +3277,29 @@
           "label": "Rebeka",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esau",
+          "confidence": 0.9413,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edomu",
+          "confidence": 0.6427,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627034,
+    "content_id": "627034",
     "reference_id": 25711,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esta",
     "media_type": "Text",
     "index_reference": "esta",
@@ -3049,13 +3355,29 @@
           "label": "Uajemi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "Esther",
+          "confidence": 0.82,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mordecai.2",
+          "type": "person",
+          "preferred_label": "Mordekai",
+          "confidence": 0.5985,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627035,
+    "content_id": "627035",
     "reference_id": 25713,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ethiopia",
     "media_type": "Text",
     "index_reference": "ethiopia",
@@ -3148,13 +3470,36 @@
           "label": "Filipo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ethiopia",
+          "type": "place",
+          "preferred_label": "Wakushi",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ethiopia",
+          "type": "group",
+          "preferred_label": "Ethiopians",
+          "confidence": 0.6286,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Cush.2",
+          "type": "place",
+          "preferred_label": "Cush",
+          "confidence": 0.5357,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627041,
+    "content_id": "627041",
     "reference_id": 25723,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezekieli",
     "media_type": "Text",
     "index_reference": "ezekieli",
@@ -3205,13 +3550,29 @@
           "label": "Uhamisho",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Ezekieli",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "BWANA",
+          "confidence": 0.6475,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627042,
+    "content_id": "627042",
     "reference_id": 25724,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezra",
     "media_type": "Text",
     "index_reference": "ezra",
@@ -3426,6 +3787,22 @@
           "resource_code": "UWTranslationWords",
           "label": "Hekalu",
           "language": "swh"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 0.9385,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 0.6462,
+          "match_method": "scored"
         }
       ]
     }

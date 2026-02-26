@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180409,
+    "content_id": "180409",
     "reference_id": 26357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दंडवत करना",
     "media_type": "Text",
     "index_reference": "दंडवत करना",
@@ -504,13 +504,14 @@
           "label": "आदर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180112,
+    "content_id": "180112",
     "reference_id": 26048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दक्षिण देश",
     "media_type": "Text",
     "index_reference": "दक्षिण देश",
@@ -642,13 +643,22 @@
           "label": "शमौन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:South.3",
+          "type": "place",
+          "preferred_label": "South",
+          "confidence": 0.8065,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179753,
+    "content_id": "179753",
     "reference_id": 25679,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दण्ड",
     "media_type": "Text",
     "index_reference": "दण्ड",
@@ -682,13 +692,22 @@
           "end_ref_usfm": "PSA 92:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Punishment",
+          "type": "keyterm",
+          "preferred_label": "Punishment",
+          "confidence": 0.8169,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 180200,
+    "content_id": "180200",
     "reference_id": 26141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दण्ड देना",
     "media_type": "Text",
     "index_reference": "दण्ड देना",
@@ -853,13 +872,14 @@
           "label": "पाप",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179634,
+    "content_id": "179634",
     "reference_id": 25552,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दण्डवत्",
     "media_type": "Text",
     "index_reference": "दण्डवत्",
@@ -1418,13 +1438,14 @@
           "label": "दंडवत करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180193,
+    "content_id": "180193",
     "reference_id": 26133,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दण्डवत् करना",
     "media_type": "Text",
     "index_reference": "दण्डवत् करना",
@@ -1473,13 +1494,14 @@
           "label": "दण्डवत्",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179717,
+    "content_id": "179717",
     "reference_id": 25640,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दमिश्क",
     "media_type": "Text",
     "index_reference": "दमिश्क",
@@ -1638,13 +1660,22 @@
           "label": "विश्वास करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "दमिश्क",
+          "confidence": 0.913,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180076,
+    "content_id": "180076",
     "reference_id": 26012,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दया",
     "media_type": "Text",
     "index_reference": "दया",
@@ -2113,13 +2144,22 @@
           "label": "क्षमा करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "Mercy",
+          "confidence": 0.8058,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180391,
+    "content_id": "180391",
     "reference_id": 26338,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दर्शन",
     "media_type": "Text",
     "index_reference": "दर्शन",
@@ -2293,13 +2333,14 @@
           "label": "स्वप्न",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179732,
+    "content_id": "179732",
     "reference_id": 25655,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दलीला",
     "media_type": "Text",
     "index_reference": "दलीला",
@@ -2355,13 +2396,22 @@
           "label": "शिमशोन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "दलीला",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180339,
+    "content_id": "180339",
     "reference_id": 26286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दस आज्ञाएँ",
     "media_type": "Text",
     "index_reference": "दस आज्ञाएँ",
@@ -2438,13 +2488,14 @@
           "label": "दंडवत करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180341,
+    "content_id": "180341",
     "reference_id": 26288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दसवां",
     "media_type": "Text",
     "index_reference": "दसवां",
@@ -2626,13 +2677,14 @@
           "label": "मन्दिर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180353,
+    "content_id": "180353",
     "reference_id": 26300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाँवना",
     "media_type": "Text",
     "index_reference": "दाँवना",
@@ -2760,13 +2812,14 @@
           "label": "ओसाई",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179722,
+    "content_id": "179722",
     "reference_id": 25645,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाऊद",
     "media_type": "Text",
     "index_reference": "दाऊद",
@@ -3224,13 +3277,22 @@
           "label": "शाऊल (पुराना नियम)",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "दाऊद",
+          "confidence": 0.9833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179926,
+    "content_id": "179926",
     "reference_id": 25858,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाऊद का घराना",
     "media_type": "Text",
     "index_reference": "दाऊद का घराना",
@@ -3312,13 +3374,22 @@
           "label": "राजा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "दाऊद",
+          "confidence": 0.75,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179673,
+    "content_id": "179673",
     "reference_id": 25594,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाऊद का नगर",
     "media_type": "Text",
     "index_reference": "दाऊद का नगर",
@@ -3386,13 +3457,22 @@
           "label": "यरूशलेम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "दाऊद",
+          "confidence": 0.73,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180388,
+    "content_id": "180388",
     "reference_id": 26335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाख",
     "media_type": "Text",
     "index_reference": "दाख",
@@ -3525,13 +3605,22 @@
           "label": "दाख की बारी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.551,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180389,
+    "content_id": "180389",
     "reference_id": 26336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाख की बारी",
     "media_type": "Text",
     "index_reference": "दाख की बारी",
@@ -3803,13 +3892,22 @@
           "label": "दाख",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.6265,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180319,
+    "content_id": "180319",
     "reference_id": 26265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाखमधु",
     "media_type": "Text",
     "index_reference": "दाखमधु",
@@ -3889,13 +3987,22 @@
           "label": "दाखरस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.5641,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180399,
+    "content_id": "180399",
     "reference_id": 26347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाखरस",
     "media_type": "Text",
     "index_reference": "दाखरस",
@@ -4360,13 +4467,22 @@
           "label": "दाखरस के कुण्ड",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.5085,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180400,
+    "content_id": "180400",
     "reference_id": 26348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दाखरस के कुण्ड",
     "media_type": "Text",
     "index_reference": "दाखरस के कुण्ड",
@@ -4439,13 +4555,22 @@
           "label": "क्रोध",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Winepress",
+          "type": "realia",
+          "preferred_label": "Winepress",
+          "confidence": 0.5995,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179535,
+    "content_id": "179535",
     "reference_id": 25446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दान",
     "media_type": "Text",
     "index_reference": "दान",
@@ -4545,13 +4670,43 @@
           "end_ref_usfm": "ACT 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "दान",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "दान",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "दान",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dathan",
+          "type": "person",
+          "preferred_label": "दातान",
+          "confidence": 0.8245,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 179718,
+    "content_id": "179718",
     "reference_id": 25641,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दान",
     "media_type": "Text",
     "index_reference": "दान",
@@ -4655,13 +4810,36 @@
           "label": "याकूब",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "दान",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "दान",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "दान",
+          "confidence": 0.61,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 182426,
+    "content_id": "182426",
     "reference_id": 26051,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दानव",
     "media_type": "Text",
     "index_reference": "दानव",
@@ -4670,13 +4848,14 @@
     "content": "<h1>रापा, <span>रपाइयों</span>, रापाइम,</h1><h2>तथ्य:</h2><p>शब्द “रापा” उन निवासियों के समूह का नाम है जो यर्दन नदी के पूर्वी किनारे पर एक स्थान पर रहते थे। “रापा” को “रापाई ” या “रापाइम” कहा जाता है। </p><ul><li><p>इस जन समूह के नाम पर एक घाटी का नाम रखा गया, “<span>रपाईम की तराई</span>”, जिसका उल्लेख पुराने नियम में छह बार किया गया है।</p></li><li><p>“रापा” एक इब्रानी शब्द का अंग्रेज़ी लिप्यंतरण है। यह निश्चित रूप से निर्धारित करना कठिन है कि &quot;रापा&quot; शब्द का क्या अर्थ है और इसके परिणामस्वरूप &quot;रापा&quot; शब्द किस प्रकार के प्राणियों को संदर्भित करता है। &quot;रापा&quot; शब्द जीवित लोगों, आत्माओं, या अर्ध-दिव्य प्राणियों के समूह को संदर्भित कर सकता है। इस कारण से कई अंग्रेज़ी अनुवादों ने मूल भाषा (इब्रानी) शब्द को “रपाइयों” या “रापाइम” के रूप में लिप्यंतरित करना चुना है। हो सकता है कि आप अपने अनुवाद में भी ऐसा ही करना चाहें।</p></li><li><p>अम्मोनियों के समूह ने रपाइयों को &quot;<span>जमजुम्मी</span>&quot; नाम से बुलाया (देखें व्यवस्थाविवरण 2:20)।</p></li></ul><p>(अनुवाद सुझाव: नामों का अनुवाद कैसे करें, शब्दों की नकल या उधार लें)</p><h2>बाइबल संदर्भ:</h2><h2>शब्द विवरण:</h2><ul><li><p>स्ट्रॉन्ग :</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179719,
+    "content_id": "179719",
     "reference_id": 25642,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दानिय्येल",
     "media_type": "Text",
     "index_reference": "दानिय्येल",
@@ -4731,13 +4910,29 @@
           "label": "नबूकदनेस्सर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "दानिय्येल",
+          "confidence": 0.9,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.15",
+          "type": "person",
+          "preferred_label": "हनन्याह",
+          "confidence": 0.5065,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179720,
+    "content_id": "179720",
     "reference_id": 25643,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दारा",
     "media_type": "Text",
     "index_reference": "दारा",
@@ -4867,13 +5062,29 @@
           "label": "फारस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "दारा",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "दारा",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179617,
+    "content_id": "179617",
     "reference_id": 25534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दिन",
     "media_type": "Text",
     "index_reference": "दिन",
@@ -8583,13 +8794,29 @@
           "label": "समय",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Macedonia",
+          "type": "place",
+          "preferred_label": "मकिदुनिया",
+          "confidence": 0.6007,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hellenist",
+          "type": "group",
+          "preferred_label": "यूनानवादी",
+          "confidence": 0.6007,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179928,
+    "content_id": "179928",
     "reference_id": 25860,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दीन",
     "media_type": "Text",
     "index_reference": "दीन",
@@ -8775,13 +9002,22 @@
           "label": "घमंडी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Dishan",
+          "type": "person",
+          "preferred_label": "दीशान",
+          "confidence": 0.8808,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180045,
+    "content_id": "180045",
     "reference_id": 25980,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दीन",
     "media_type": "Text",
     "index_reference": "दीन",
@@ -8842,13 +9078,22 @@
           "label": "घमंडी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Dishan",
+          "type": "person",
+          "preferred_label": "दीशान",
+          "confidence": 0.8808,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180019,
+    "content_id": "180019",
     "reference_id": 25954,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दीया",
     "media_type": "Text",
     "index_reference": "दीया",
@@ -9076,13 +9321,22 @@
           "label": "दीवट/दीवटों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Dinah",
+          "type": "person",
+          "preferred_label": "दीना",
+          "confidence": 0.8826,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180020,
+    "content_id": "180020",
     "reference_id": 25955,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दीवट/दीवटों",
     "media_type": "Text",
     "index_reference": "दीवट/दीवटों",
@@ -9314,13 +9568,14 @@
           "label": "मन्दिर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180373,
+    "content_id": "180373",
     "reference_id": 26320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दुःख",
     "media_type": "Text",
     "index_reference": "दुःख",
@@ -9741,13 +9996,14 @@
           "label": "सताना/सताव",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180325,
+    "content_id": "180325",
     "reference_id": 26272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दुःख उठाना",
     "media_type": "Text",
     "index_reference": "दुःख उठाना",
@@ -10189,13 +10445,14 @@
           "end_ref_usfm": "JER 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179525,
+    "content_id": "179525",
     "reference_id": 25435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दुःखित",
     "media_type": "Text",
     "index_reference": "दुःखित",
@@ -10533,13 +10790,14 @@
           "label": "दुःख उठाना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179639,
+    "content_id": "179639",
     "reference_id": 25557,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दुल्हन",
     "media_type": "Text",
     "index_reference": "दुल्हन",
@@ -10618,13 +10876,14 @@
           "label": "विवाह",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179640,
+    "content_id": "179640",
     "reference_id": 25558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दुल्हा",
     "media_type": "Text",
     "index_reference": "दुल्हा",
@@ -10751,13 +11010,14 @@
           "label": "विवाह",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179734,
+    "content_id": "179734",
     "reference_id": 25658,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दुष्टात्मा",
     "media_type": "Text",
     "index_reference": "दुष्टात्मा",
@@ -11344,13 +11604,22 @@
           "label": "शैतान",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "शैतान",
+          "confidence": 0.8599,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179735,
+    "content_id": "179735",
     "reference_id": 25659,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दुष्टात्माएँ थीं",
     "media_type": "Text",
     "index_reference": "दुष्टात्माएँ थीं",
@@ -11464,13 +11733,22 @@
           "label": "दुष्टात्मा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:DemonPossessed",
+          "type": "keyterm",
+          "preferred_label": "Be Demon Possessed",
+          "confidence": 0.5335,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180079,
+    "content_id": "180079",
     "reference_id": 26015,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दूत",
     "media_type": "Text",
     "index_reference": "दूत",
@@ -11646,13 +11924,22 @@
           "label": "यूहन्ना (बपतिस्मा देनेवाला)",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Epaphroditus",
+          "type": "person",
+          "preferred_label": "इपफ्रुदीतुस",
+          "confidence": 0.6148,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179686,
+    "content_id": "179686",
     "reference_id": 25607,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दृढ़ करने",
     "media_type": "Text",
     "index_reference": "दृढ़ करने",
@@ -11762,13 +12049,14 @@
           "label": "विश्वास",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180320,
+    "content_id": "180320",
     "reference_id": 26266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दृढ़गढ़",
     "media_type": "Text",
     "index_reference": "दृढ़गढ़",
@@ -11902,13 +12190,14 @@
           "label": "यहोवा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180135,
+    "content_id": "180135",
     "reference_id": 26073,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दृष्टान्त",
     "media_type": "Text",
     "index_reference": "दृष्टान्त",
@@ -12214,13 +12503,22 @@
           "label": "सामरिया",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Parable",
+          "type": "keyterm",
+          "preferred_label": "Parable",
+          "confidence": 0.605,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180129,
+    "content_id": "180129",
     "reference_id": 26067,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "देखरेख",
     "media_type": "Text",
     "index_reference": "देखरेख",
@@ -12378,13 +12676,14 @@
           "label": "चरवाहा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179801,
+    "content_id": "179801",
     "reference_id": 25728,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "देवता",
     "media_type": "Text",
     "index_reference": "देवता",
@@ -12733,13 +13032,22 @@
           "label": "दंडवत करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "Divine",
+          "confidence": 0.807,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179657,
+    "content_id": "179657",
     "reference_id": 25578,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "देवदारू",
     "media_type": "Text",
     "index_reference": "देवदारू",
@@ -12819,13 +13127,14 @@
           "label": "मन्दिर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179626,
+    "content_id": "179626",
     "reference_id": 25544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दोष",
     "media_type": "Text",
     "index_reference": "दोष",
@@ -12900,13 +13209,14 @@
           "label": "पाप",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179877,
+    "content_id": "179877",
     "reference_id": 25806,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दोष",
     "media_type": "Text",
     "index_reference": "दोष",
@@ -13083,13 +13393,14 @@
           "label": "पाप",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179684,
+    "content_id": "179684",
     "reference_id": 25605,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दोष लगाना",
     "media_type": "Text",
     "index_reference": "दोष लगाना",
@@ -13354,13 +13665,14 @@
           "label": "दण्ड देना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179878,
+    "content_id": "179878",
     "reference_id": 25807,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "दोषबलि",
     "media_type": "Text",
     "index_reference": "दोषबलि",
@@ -13429,7 +13741,8 @@
           "label": "पापबलि",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

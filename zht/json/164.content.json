@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390387,
+    "content_id": "390387",
     "reference_id": 25446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "施捨",
     "media_type": "Text",
     "index_reference": "施捨",
@@ -102,13 +102,14 @@
           "end_ref_usfm": "ACT 3:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390444,
+    "content_id": "390444",
     "reference_id": 25503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "施洗",
     "media_type": "Text",
     "index_reference": "施洗",
@@ -590,13 +591,22 @@
           "label": "悔改",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "Baptism",
+          "confidence": 0.534,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390842,
+    "content_id": "390842",
     "reference_id": 25912,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "施洗約翰",
     "media_type": "Text",
     "index_reference": "施洗約翰",
@@ -1249,13 +1259,22 @@
           "label": "約翰福音 10:40 (#2)",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.5199,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390896,
+    "content_id": "390896",
     "reference_id": 25969,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "獅子",
     "media_type": "Text",
     "index_reference": "獅子",
@@ -1426,13 +1445,22 @@
           "label": "綿羊",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Lion",
+          "type": "fauna",
+          "preferred_label": "Lion",
+          "confidence": 0.5326,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391063,
+    "content_id": "391063",
     "reference_id": 26140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "詩篇",
     "media_type": "Text",
     "index_reference": "詩篇",
@@ -1514,13 +1542,14 @@
           "label": "摩西",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391216,
+    "content_id": "391216",
     "reference_id": 26296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "十二門徒",
     "media_type": "Text",
     "index_reference": "十二門徒",
@@ -1791,13 +1820,14 @@
           "label": "門徒",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391209,
+    "content_id": "391209",
     "reference_id": 26288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "十分之一",
     "media_type": "Text",
     "index_reference": "十分之一",
@@ -1979,13 +2009,14 @@
           "label": "聖殿",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391207,
+    "content_id": "391207",
     "reference_id": 26286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "十誡",
     "media_type": "Text",
     "index_reference": "十誡",
@@ -2062,13 +2093,14 @@
           "label": "敬拜",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390564,
+    "content_id": "390564",
     "reference_id": 25627,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "十字架",
     "media_type": "Text",
     "index_reference": "十字架",
@@ -2255,13 +2287,22 @@
           "label": "羅馬城",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Cross",
+          "type": "realia",
+          "preferred_label": "Cross",
+          "confidence": 0.5352,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391037,
+    "content_id": "391037",
     "reference_id": 26112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "石榴",
     "media_type": "Text",
     "index_reference": "石榴",
@@ -2361,13 +2402,22 @@
           "label": "聖殿",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Pomegranate",
+          "type": "flora",
+          "preferred_label": "Pomegranate",
+          "confidence": 0.8312,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391183,
+    "content_id": "391183",
     "reference_id": 26262,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "石頭",
     "media_type": "Text",
     "index_reference": "石頭",
@@ -2587,13 +2637,14 @@
           "label": "約翰福音 8:59 (#1)",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390718,
+    "content_id": "390718",
     "reference_id": 25785,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拾取",
     "media_type": "Text",
     "index_reference": "拾取",
@@ -2716,13 +2767,14 @@
           "label": "路得",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390784,
+    "content_id": "390784",
     "reference_id": 25854,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "時候",
     "media_type": "Text",
     "index_reference": "時候",
@@ -3185,13 +3237,14 @@
           "label": "時候",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391223,
+    "content_id": "391223",
     "reference_id": 26303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "時間",
     "media_type": "Text",
     "index_reference": "時間",
@@ -4098,13 +4151,14 @@
           "label": "患難",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390377,
+    "content_id": "390377",
     "reference_id": 25436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "時期-時間段",
     "media_type": "Text",
     "index_reference": "時期-時間段",
@@ -4113,13 +4167,14 @@
     "content": "<h1>時期、年代、時間</h1><h2>定義：</h2><p>在這個意義上，「時期（age）」一詞指的是一個時間段。</p><ul><li><p>其他用來表示較長時間的詞語包括「時代（era）」和「季節（season）」。</p></li><li><p>耶穌提到「這世代（this age）」是指當前邪惡、罪惡和對神的不順服充滿全地的時期。</p></li><li><p>將來會有一個時代，公義將在新天新地中掌權。</p></li></ul><h2>翻譯相關建議：</h2><ul><li><p>根據上下文，「時期（age）」一詞可以翻譯為「年代（ear）」或「時代（time period）」或「時間（time）」。</p></li><li><p>「這現今邪惡的世代」的意思是「在這個人們非常邪惡的當下時期」。</p></li><li><p>「世代的終結」（在馬太福音二十八章20節耶穌所說的話中提到）意指「這段歷史的結束」或「現今世代的終結」，並指耶穌第二次降臨時現今世代的終結。</p></li></ul><h2>原文參照：</h2><ul><li><p>史特朗號：</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390607,
+    "content_id": "390607",
     "reference_id": 25670,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "使灰心",
     "media_type": "Text",
     "index_reference": "使灰心",
@@ -4143,13 +4198,14 @@
           "label": "害怕",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390407,
+    "content_id": "390407",
     "reference_id": 25466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "使徒",
     "media_type": "Text",
     "index_reference": "使徒",
@@ -4657,13 +4713,14 @@
           "label": "十二門徒",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391023,
+    "content_id": "391023",
     "reference_id": 26098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "使徒腓力",
     "media_type": "Text",
     "index_reference": "使徒腓力",
@@ -4789,13 +4846,14 @@
           "label": "腓利",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390841,
+    "content_id": "390841",
     "reference_id": 25911,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "使徒約翰",
     "media_type": "Text",
     "index_reference": "使徒約翰",
@@ -5062,13 +5120,43 @@
           "label": "西庇太",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.818,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390941,
+    "content_id": "390941",
     "reference_id": 26015,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "使者",
     "media_type": "Text",
     "index_reference": "使者",
@@ -5244,13 +5332,14 @@
           "label": "施洗約翰",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391117,
+    "content_id": "391117",
     "reference_id": 26195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "使之成聖",
     "media_type": "Text",
     "index_reference": "使之成聖",
@@ -5473,13 +5562,14 @@
           "label": "聖潔",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390706,
+    "content_id": "390706",
     "reference_id": 25772,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "世代",
     "media_type": "Text",
     "index_reference": "世代",
@@ -5977,13 +6067,14 @@
           "label": "後裔",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390704,
+    "content_id": "390704",
     "reference_id": 25770,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "世代—後裔群體",
     "media_type": "Text",
     "index_reference": "世代—後裔群體",
@@ -6000,13 +6091,14 @@
           "label": "後裔",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390705,
+    "content_id": "390705",
     "reference_id": 25771,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "世代—生活在同一時期的人",
     "media_type": "Text",
     "index_reference": "世代—生活在同一時期的人",
@@ -6015,13 +6107,14 @@
     "content": "<h1>世代</h1><h2>定義：</h2><p>此處的「世代」一詞是指同一時期活著的人。這些人通常共享相同的文化、經歷和生活方式。</p><h2>翻譯相關建議</h2><ul><li><p>「他歷代的祖宗」這個詞語可以翻譯為「他的祖先」或「那些在他之前生活的人」。</p></li><li><p>「這世代」或「這世代的人」這個短語可以翻譯為「現在生活的人」或「你們這些人」。</p></li><li><p>「將來的世代」這個詞可以翻譯為「在我們之後生活的人」或「在以後世代生活的人」。</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 391276,
+    "content_id": "391276",
     "reference_id": 26356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "世界",
     "media_type": "Text",
     "index_reference": "世界",
@@ -7068,13 +7161,22 @@
           "label": "羅馬城",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Worldly",
+          "type": "keyterm",
+          "preferred_label": "Worldly",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391144,
+    "content_id": "391144",
     "reference_id": 26222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "示巴",
     "media_type": "Text",
     "index_reference": "示巴",
@@ -7155,13 +7257,14 @@
           "label": "所羅門",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391145,
+    "content_id": "391145",
     "reference_id": 26223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "示劍",
     "media_type": "Text",
     "index_reference": "示劍",
@@ -7321,13 +7424,14 @@
           "label": "雅各",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391150,
+    "content_id": "391150",
     "reference_id": 26228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "示羅",
     "media_type": "Text",
     "index_reference": "示羅",
@@ -7431,13 +7535,14 @@
           "label": "聖殿",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391151,
+    "content_id": "391151",
     "reference_id": 26229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "示每",
     "media_type": "Text",
     "index_reference": "示每",
@@ -7500,13 +7605,14 @@
           "label": "祭司",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391152,
+    "content_id": "391152",
     "reference_id": 26230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "示拿",
     "media_type": "Text",
     "index_reference": "示拿",
@@ -7614,13 +7720,14 @@
           "label": "吾珥",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391235,
+    "content_id": "391235",
     "reference_id": 26315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "試煉",
     "media_type": "Text",
     "index_reference": "試煉",
@@ -7725,13 +7832,14 @@
           "label": "試驗",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391206,
+    "content_id": "391206",
     "reference_id": 26285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "試探",
     "media_type": "Text",
     "index_reference": "試探",
@@ -7889,13 +7997,14 @@
           "label": "試驗",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391213,
+    "content_id": "391213",
     "reference_id": 26292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "試驗",
     "media_type": "Text",
     "index_reference": "試驗",
@@ -8207,13 +8316,14 @@
           "label": "試探",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390984,
+    "content_id": "390984",
     "reference_id": 26058,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "誓約",
     "media_type": "Text",
     "index_reference": "誓約",
@@ -8695,13 +8805,22 @@
           "label": "應許",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Promise",
+          "type": "keyterm",
+          "preferred_label": "Promise",
+          "confidence": 0.8908,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390692,
+    "content_id": "390692",
     "reference_id": 25758,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "釋放",
     "media_type": "Text",
     "index_reference": "釋放",
@@ -8997,7 +9116,8 @@
           "label": "僕人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

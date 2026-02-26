@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179831,
+    "content_id": "179831",
     "reference_id": 25758,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वतंत्र",
     "media_type": "Text",
     "index_reference": "स्वतंत्र",
@@ -298,13 +298,14 @@
           "label": "सेवा करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179756,
+    "content_id": "179756",
     "reference_id": 25682,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वप्न",
     "media_type": "Text",
     "index_reference": "स्वप्न",
@@ -580,13 +581,36 @@
           "label": "दर्शन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zephaniah.2",
+          "type": "person",
+          "preferred_label": "सपन्याह",
+          "confidence": 0.8727,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zephaniah.3",
+          "type": "person",
+          "preferred_label": "सपन्याह",
+          "confidence": 0.8727,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zephaniah.4",
+          "type": "person",
+          "preferred_label": "सपन्याह",
+          "confidence": 0.8727,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179895,
+    "content_id": "179895",
     "reference_id": 25825,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वर्ग",
     "media_type": "Text",
     "index_reference": "स्वर्ग",
@@ -2938,13 +2962,22 @@
           "label": "परमेश्‍वर का राज्य",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Hell",
+          "type": "place",
+          "preferred_label": "नरक",
+          "confidence": 0.8031,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179547,
+    "content_id": "179547",
     "reference_id": 25459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वर्गदूत",
     "media_type": "Text",
     "index_reference": "स्वर्गदूत",
@@ -4118,13 +4151,14 @@
           "label": "सेवा करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179832,
+    "content_id": "179832",
     "reference_id": 25759,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वेच्छाबलि",
     "media_type": "Text",
     "index_reference": "स्वेच्छाबलि",
@@ -4281,7 +4315,8 @@
           "label": "पापबलि",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

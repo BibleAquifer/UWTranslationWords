@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390486,
+    "content_id": "390486",
     "reference_id": 25546,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "流血",
     "media_type": "Text",
     "index_reference": "流血",
@@ -68,13 +68,29 @@
           "label": "屠殺",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Bleed",
+          "type": "keyterm",
+          "preferred_label": "Bleed",
+          "confidence": 0.8644,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Blood",
+          "type": "keyterm",
+          "preferred_label": "Blood",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391194,
+    "content_id": "391194",
     "reference_id": 26273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "硫磺",
     "media_type": "Text",
     "index_reference": "硫磺",
@@ -181,7 +197,8 @@
           "label": "所多瑪",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

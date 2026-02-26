@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 27218,
+    "content_id": "27218",
     "reference_id": 26360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yahweh",
     "media_type": "Text",
     "index_reference": "yahweh",
@@ -4359,13 +4359,22 @@
           "label": "Lord",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 27219,
+    "content_id": "27219",
     "reference_id": 26361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yahweh of Hosts",
     "media_type": "Text",
     "index_reference": "yahweh of hosts",
@@ -4436,13 +4445,22 @@
           "label": "Yahweh",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 27220,
+    "content_id": "27220",
     "reference_id": 26362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yeast",
     "media_type": "Text",
     "index_reference": "yeast",
@@ -4594,13 +4612,14 @@
           "label": "Unleavened Bread",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 27221,
+    "content_id": "27221",
     "reference_id": 26363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoke",
     "media_type": "Text",
     "index_reference": "yoke",
@@ -4698,6 +4717,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Servant",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Yoke",
+          "type": "realia",
+          "preferred_label": "Yoke",
+          "confidence": 1.0,
+          "match_method": "content_id"
         }
       ]
     }

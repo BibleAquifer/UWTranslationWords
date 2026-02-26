@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 238351,
+    "content_id": "238351",
     "reference_id": 26222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sabá",
     "media_type": "Text",
     "index_reference": "sabá",
@@ -83,13 +83,43 @@
           "label": "Salomão",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:QueenOfSheba",
+          "type": "person",
+          "preferred_label": "Rainha de Sabá",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sabtah",
+          "type": "person",
+          "preferred_label": "Sabtá",
+          "confidence": 0.6097,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheba",
+          "type": "person",
+          "preferred_label": "Seba",
+          "confidence": 0.5242,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sabteca",
+          "type": "person",
+          "preferred_label": "Sabtecá",
+          "confidence": 0.5242,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238315,
+    "content_id": "238315",
     "reference_id": 26186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sábado",
     "media_type": "Text",
     "index_reference": "sábado",
@@ -624,13 +654,22 @@
           "label": "João 9.14 (#2)",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Sabbath",
+          "type": "keyterm",
+          "preferred_label": "sabbath",
+          "confidence": 0.7474,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238476,
+    "content_id": "238476",
     "reference_id": 26350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sábio",
     "media_type": "Text",
     "index_reference": "sábio",
@@ -1800,13 +1839,14 @@
           "label": "Fruto",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238251,
+    "content_id": "238251",
     "reference_id": 26121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sacerdote",
     "media_type": "Text",
     "index_reference": "sacerdote",
@@ -2799,13 +2839,14 @@
           "label": "Sacrifício",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238317,
+    "content_id": "238317",
     "reference_id": 26188,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sacrifício",
     "media_type": "Text",
     "index_reference": "sacrifício",
@@ -3468,13 +3509,22 @@
           "label": "Adorar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "offering",
+          "confidence": 0.5147,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238318,
+    "content_id": "238318",
     "reference_id": 26189,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saduceu",
     "media_type": "Text",
     "index_reference": "saduceu",
@@ -3623,13 +3673,22 @@
           "label": "Sacerdote",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Sadducee",
+          "type": "group",
+          "preferred_label": "Sadducees",
+          "confidence": 0.8375,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238270,
+    "content_id": "238270",
     "reference_id": 26140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salmo",
     "media_type": "Text",
     "index_reference": "salmo",
@@ -3711,13 +3770,22 @@
           "label": "Santo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5285,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238378,
+    "content_id": "238378",
     "reference_id": 26249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salomão",
     "media_type": "Text",
     "index_reference": "salomão",
@@ -3944,13 +4012,22 @@
           "label": "Templo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Salomão",
+          "confidence": 0.9226,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238331,
+    "content_id": "238331",
     "reference_id": 26202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salvador",
     "media_type": "Text",
     "index_reference": "salvador",
@@ -4150,13 +4227,29 @@
           "label": "Salvar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Savior",
+          "type": "keyterm",
+          "preferred_label": "salvador",
+          "confidence": 0.8909,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.511,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238330,
+    "content_id": "238330",
     "reference_id": 26201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salvar",
     "media_type": "Text",
     "index_reference": "salvar",
@@ -5168,13 +5261,22 @@
           "label": "Pecado",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Salvation",
+          "type": "keyterm",
+          "preferred_label": "salvation",
+          "confidence": 0.7991,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238321,
+    "content_id": "238321",
     "reference_id": 26192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samaria",
     "media_type": "Text",
     "index_reference": "samaria",
@@ -5382,13 +5484,43 @@
           "label": "Saron",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Samaria",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.7929,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Samaritan",
+          "type": "group",
+          "preferred_label": "Samaritans",
+          "confidence": 0.7286,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Samaria.2",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalém",
+          "confidence": 0.5065,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238323,
+    "content_id": "238323",
     "reference_id": 26194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samuel",
     "media_type": "Text",
     "index_reference": "samuel",
@@ -5469,13 +5601,22 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238326,
+    "content_id": "238326",
     "reference_id": 26197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sandália",
     "media_type": "Text",
     "index_reference": "sandália",
@@ -5605,13 +5746,22 @@
           "end_ref_usfm": "MRK 6:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Sandal",
+          "type": "realia",
+          "preferred_label": "Sandal",
+          "confidence": 0.7251,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 238322,
+    "content_id": "238322",
     "reference_id": 26193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sansão",
     "media_type": "Text",
     "index_reference": "sansão",
@@ -5666,13 +5816,36 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "Sansão",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Eshtaol",
+          "type": "place",
+          "preferred_label": "Estaol",
+          "confidence": 0.5308,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Manoah",
+          "type": "person",
+          "preferred_label": "Manoá",
+          "confidence": 0.5182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238324,
+    "content_id": "238324",
     "reference_id": 26195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santificar",
     "media_type": "Text",
     "index_reference": "santificar",
@@ -5895,13 +6068,22 @@
           "label": "Santo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Consecration.2",
+          "type": "keyterm",
+          "preferred_label": "consecration",
+          "confidence": 0.5962,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237973,
+    "content_id": "237973",
     "reference_id": 25840,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santo",
     "media_type": "Text",
     "index_reference": "santo",
@@ -6881,13 +7063,22 @@
           "label": "Santificar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "holy",
+          "confidence": 0.5601,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238319,
+    "content_id": "238319",
     "reference_id": 26190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santo",
     "media_type": "Text",
     "index_reference": "santo",
@@ -7289,13 +7480,14 @@
           "label": "Santo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238325,
+    "content_id": "238325",
     "reference_id": 26196,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santuário",
     "media_type": "Text",
     "index_reference": "santuário",
@@ -7431,13 +7623,14 @@
           "label": "Templo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238327,
+    "content_id": "238327",
     "reference_id": 26198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sara",
     "media_type": "Text",
     "index_reference": "sara",
@@ -7750,13 +7943,43 @@
           "label": "Isaque",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 0.9837,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraão",
+          "confidence": 0.5382,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaque",
+          "confidence": 0.5168,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Hebron",
+          "type": "place",
+          "preferred_label": "Hebrom",
+          "confidence": 0.5038,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238350,
+    "content_id": "238350",
     "reference_id": 26221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saron",
     "media_type": "Text",
     "index_reference": "saron",
@@ -7813,13 +8036,29 @@
           "label": "Mediterrâneo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sharon.2",
+          "type": "place",
+          "preferred_label": "Sharon Plain",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sharon",
+          "type": "place",
+          "preferred_label": "Sarom",
+          "confidence": 0.6595,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238328,
+    "content_id": "238328",
     "reference_id": 26199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Satanás",
     "media_type": "Text",
     "index_reference": "satanás",
@@ -8320,13 +8559,22 @@
           "label": "Tentar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satanás",
+          "confidence": 0.7722,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238329,
+    "content_id": "238329",
     "reference_id": 26200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saul",
     "media_type": "Text",
     "index_reference": "saul",
@@ -8404,13 +8652,43 @@
           "label": "Rei",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 0.7538,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaul.2",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaul",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Samlah",
+          "type": "person",
+          "preferred_label": "Samlá",
+          "confidence": 0.5183,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238339,
+    "content_id": "238339",
     "reference_id": 26210,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seir",
     "media_type": "Text",
     "index_reference": "seir",
@@ -8427,13 +8705,36 @@
           "label": "Edom",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Seir",
+          "type": "person",
+          "preferred_label": "Seir",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Seir",
+          "type": "place",
+          "preferred_label": "Seir",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Seirah",
+          "type": "place",
+          "preferred_label": "Seirá",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238341,
+    "content_id": "238341",
     "reference_id": 26212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Selah",
     "media_type": "Text",
     "index_reference": "selah",
@@ -8469,13 +8770,22 @@
           "label": "Salmo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5142,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238335,
+    "content_id": "238335",
     "reference_id": 26206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Selo",
     "media_type": "Text",
     "index_reference": "selo",
@@ -8705,13 +9015,22 @@
           "label": "João 3.33 (#3)",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Seal",
+          "type": "realia",
+          "preferred_label": "Seal",
+          "confidence": 0.6936,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238354,
+    "content_id": "238354",
     "reference_id": 26225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sem",
     "media_type": "Text",
     "index_reference": "sem",
@@ -8853,13 +9172,22 @@
           "label": "Noé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Sem",
+          "confidence": 0.9294,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237674,
+    "content_id": "237674",
     "reference_id": 25538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Semana no período bíblico",
     "media_type": "Text",
     "index_reference": "semana no período bíblico",
@@ -8907,13 +9235,14 @@
           "label": "Pentecostes",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238384,
+    "content_id": "238384",
     "reference_id": 26255,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Semear",
     "media_type": "Text",
     "index_reference": "semear",
@@ -9243,13 +9572,36 @@
           "label": "Colheita",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shemer",
+          "type": "person",
+          "preferred_label": "Semer",
+          "confidence": 0.9267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemer.2",
+          "type": "person",
+          "preferred_label": "Semer",
+          "confidence": 0.9267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Semein",
+          "type": "person",
+          "preferred_label": "Semei",
+          "confidence": 0.8066,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238337,
+    "content_id": "238337",
     "reference_id": 26208,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Semente",
     "media_type": "Text",
     "index_reference": "semente",
@@ -9765,13 +10117,14 @@
           "label": "Descendente",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238343,
+    "content_id": "238343",
     "reference_id": 26214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Senaqueribe",
     "media_type": "Text",
     "index_reference": "senaqueribe",
@@ -9842,13 +10195,22 @@
           "label": "Nínive",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sennacherib",
+          "type": "person",
+          "preferred_label": "Senaqueribe",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238104,
+    "content_id": "238104",
     "reference_id": 25973,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Senhor",
     "media_type": "Text",
     "index_reference": "senhor",
@@ -14582,13 +14944,29 @@
           "label": "João 12.21 (#3)",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.6257,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5077,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238106,
+    "content_id": "238106",
     "reference_id": 25975,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Senhor Javé",
     "media_type": "Text",
     "index_reference": "senhor javé",
@@ -14668,13 +15046,22 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.7088,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238364,
+    "content_id": "238364",
     "reference_id": 26235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seom",
     "media_type": "Text",
     "index_reference": "seom",
@@ -14698,13 +15085,22 @@
           "label": "Hesbom",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sihon",
+          "type": "person",
+          "preferred_label": "Seom",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238344,
+    "content_id": "238344",
     "reference_id": 26215,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Serafins",
     "media_type": "Text",
     "index_reference": "serafins",
@@ -14721,13 +15117,14 @@
           "label": "Anjo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238345,
+    "content_id": "238345",
     "reference_id": 26216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Serpente",
     "media_type": "Text",
     "index_reference": "serpente",
@@ -14992,13 +15389,22 @@
           "label": "Tentar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Snake",
+          "type": "fauna",
+          "preferred_label": "Snake",
+          "confidence": 0.9114,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238346,
+    "content_id": "238346",
     "reference_id": 26217,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Servo",
     "media_type": "Text",
     "index_reference": "servo",
@@ -18089,13 +18495,29 @@
           "label": "Justo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Serve",
+          "type": "keyterm",
+          "preferred_label": "servir",
+          "confidence": 0.537,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Serve.2",
+          "type": "keyterm",
+          "preferred_label": "servir como escravo",
+          "confidence": 0.5235,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238347,
+    "content_id": "238347",
     "reference_id": 26218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sete",
     "media_type": "Text",
     "index_reference": "sete",
@@ -18207,13 +18629,22 @@
           "label": "Noé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Seth",
+          "type": "person",
+          "preferred_label": "Sete",
+          "confidence": 0.9333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238348,
+    "content_id": "238348",
     "reference_id": 26219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shaddai",
     "media_type": "Text",
     "index_reference": "shaddai",
@@ -18230,13 +18661,14 @@
           "label": "Deus",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238501,
+    "content_id": "238501",
     "reference_id": 26375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sião",
     "media_type": "Text",
     "index_reference": "sião",
@@ -18378,13 +18810,22 @@
           "label": "Jerusalém",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalém",
+          "confidence": 0.8926,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238361,
+    "content_id": "238361",
     "reference_id": 26232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sidom",
     "media_type": "Text",
     "index_reference": "sidom",
@@ -18543,13 +18984,50 @@
           "label": "Tiro",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sidon",
+          "type": "place",
+          "preferred_label": "Sidom",
+          "confidence": 0.8333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sidon",
+          "type": "person",
+          "preferred_label": "Sidom",
+          "confidence": 0.6167,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Sidon",
+          "type": "group",
+          "preferred_label": "Sidonians",
+          "confidence": 0.5433,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tyre",
+          "type": "place",
+          "preferred_label": "Tiro",
+          "confidence": 0.5313,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodoma",
+          "confidence": 0.5267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238365,
+    "content_id": "238365",
     "reference_id": 26236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silas",
     "media_type": "Text",
     "index_reference": "silas",
@@ -18692,13 +19170,29 @@
           "label": "Testemunho",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Silas",
+          "type": "person",
+          "preferred_label": "Silas",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paulo",
+          "confidence": 0.518,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238357,
+    "content_id": "238357",
     "reference_id": 26228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siló",
     "media_type": "Text",
     "index_reference": "siló",
@@ -18802,13 +19296,29 @@
           "label": "Templo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "Siló",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "Siló",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238368,
+    "content_id": "238368",
     "reference_id": 26239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simão, o Zelote",
     "media_type": "Text",
     "index_reference": "simão, o zelote",
@@ -18882,13 +19392,29 @@
           "label": "Os Doze",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simon.2",
+          "type": "person",
+          "preferred_label": "Simão",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Zealot",
+          "type": "group",
+          "preferred_label": "Zelote",
+          "confidence": 0.68,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238367,
+    "content_id": "238367",
     "reference_id": 26238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simeão",
     "media_type": "Text",
     "index_reference": "simeão",
@@ -19022,13 +19548,36 @@
           "label": "Lia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simeon.5",
+          "type": "person",
+          "preferred_label": "Simeão",
+          "confidence": 0.8889,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simeon.2",
+          "type": "person",
+          "preferred_label": "Simeão",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Simeon",
+          "type": "group",
+          "preferred_label": "Simeão",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238358,
+    "content_id": "238358",
     "reference_id": 26229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simei",
     "media_type": "Text",
     "index_reference": "simei",
@@ -19091,13 +19640,43 @@
           "label": "Sacerdote",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shimei.4",
+          "type": "person",
+          "preferred_label": "Simei",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shimei.6",
+          "type": "person",
+          "preferred_label": "Simei",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Shimei",
+          "type": "group",
+          "preferred_label": "Shimeites",
+          "confidence": 0.6262,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shimei.5",
+          "type": "person",
+          "preferred_label": "Simei",
+          "confidence": 0.5167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238405,
+    "content_id": "238405",
     "reference_id": 26276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinagoga",
     "media_type": "Text",
     "index_reference": "sinagoga",
@@ -19510,13 +20089,22 @@
           "label": "Adorar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Synagogue",
+          "type": "realia",
+          "preferred_label": "Synagogue",
+          "confidence": 0.7921,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238370,
+    "content_id": "238370",
     "reference_id": 26241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinai",
     "media_type": "Text",
     "index_reference": "sinai",
@@ -19701,13 +20289,36 @@
           "label": "Dez Mandamentos",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:SinaiMount",
+          "type": "place",
+          "preferred_label": "Monte Sinai",
+          "confidence": 0.8133,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:SinaiWilderness",
+          "type": "place",
+          "preferred_label": "Deserto do Sinai",
+          "confidence": 0.64,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sin",
+          "type": "place",
+          "preferred_label": "Deserto de Sin",
+          "confidence": 0.5008,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238363,
+    "content_id": "238363",
     "reference_id": 26234,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinal",
     "media_type": "Text",
     "index_reference": "sinal",
@@ -20341,13 +20952,22 @@
           "label": "Milagre",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Example",
+          "type": "keyterm",
+          "preferred_label": "example",
+          "confidence": 0.58,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238359,
+    "content_id": "238359",
     "reference_id": 26230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinar",
     "media_type": "Text",
     "index_reference": "sinar",
@@ -20455,13 +21075,22 @@
           "label": "Ur",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Shinar",
+          "type": "place",
+          "preferred_label": "Sinar",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238352,
+    "content_id": "238352",
     "reference_id": 26223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siquém",
     "media_type": "Text",
     "index_reference": "siquém",
@@ -20621,13 +21250,29 @@
           "label": "Jacó",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Siquém",
+          "confidence": 0.82,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "Siquém",
+          "confidence": 0.72,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238406,
+    "content_id": "238406",
     "reference_id": 26277,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Síria",
     "media_type": "Text",
     "index_reference": "síria",
@@ -20761,13 +21406,22 @@
           "label": "Profeta",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Syria",
+          "type": "group",
+          "preferred_label": "Syrians",
+          "confidence": 0.5791,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238377,
+    "content_id": "238377",
     "reference_id": 26248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sodoma",
     "media_type": "Text",
     "index_reference": "sodoma",
@@ -20972,13 +21626,29 @@
           "label": "Gomorra",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodoma",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Gomorrah",
+          "type": "place",
+          "preferred_label": "Gomorra",
+          "confidence": 0.5437,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238498,
+    "content_id": "238498",
     "reference_id": 26372,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sofonias",
     "media_type": "Text",
     "index_reference": "sofonias",
@@ -21040,13 +21710,36 @@
           "label": "Sacerdote",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zephaniah.2",
+          "type": "person",
+          "preferred_label": "Sofonias",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zephaniah.3",
+          "type": "person",
+          "preferred_label": "Sofonias",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zephaniah.4",
+          "type": "person",
+          "preferred_label": "Sofonias",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238401,
+    "content_id": "238401",
     "reference_id": 26272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sofrer",
     "media_type": "Text",
     "index_reference": "sofrer",
@@ -21488,13 +22181,14 @@
           "end_ref_usfm": "JER 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237815,
+    "content_id": "237815",
     "reference_id": 25682,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sonho",
     "media_type": "Text",
     "index_reference": "sonho",
@@ -21770,13 +22464,14 @@
           "label": "Visão",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238108,
+    "content_id": "238108",
     "reference_id": 25977,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sortes",
     "media_type": "Text",
     "index_reference": "sortes",
@@ -21911,13 +22606,22 @@
           "label": "Zacarias AT",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Lot",
+          "type": "keyterm",
+          "preferred_label": "lot",
+          "confidence": 0.508,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238399,
+    "content_id": "238399",
     "reference_id": 26270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Submeter",
     "media_type": "Text",
     "index_reference": "submeter",
@@ -21993,13 +22697,14 @@
           "end_ref_usfm": "1PE 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237691,
+    "content_id": "237691",
     "reference_id": 25556,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Suborno",
     "media_type": "Text",
     "index_reference": "suborno",
@@ -22075,13 +22780,14 @@
           "end_ref_usfm": "PRO 15:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238400,
+    "content_id": "238400",
     "reference_id": 26271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sucote",
     "media_type": "Text",
     "index_reference": "sucote",
@@ -22133,13 +22839,29 @@
           "end_ref_usfm": "JDG 8:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Succoth",
+          "type": "place",
+          "preferred_label": "Sucote",
+          "confidence": 0.7455,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Succoth.2",
+          "type": "place",
+          "preferred_label": "Sucote",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 238398,
+    "content_id": "238398",
     "reference_id": 26269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sujeito",
     "media_type": "Text",
     "index_reference": "sujeito",
@@ -22295,13 +23017,14 @@
           "label": "Submeter",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237969,
+    "content_id": "237969",
     "reference_id": 25836,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sumo Sacerdote",
     "media_type": "Text",
     "index_reference": "sumo sacerdote",
@@ -23108,13 +23831,14 @@
           "label": "Templo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238197,
+    "content_id": "238197",
     "reference_id": 26067,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Supervisor",
     "media_type": "Text",
     "index_reference": "supervisor",
@@ -23272,13 +23996,14 @@
           "label": "Pastor",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237657,
+    "content_id": "237657",
     "reference_id": 25521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Suplicar",
     "media_type": "Text",
     "index_reference": "suplicar",
@@ -23524,13 +24249,14 @@
           "label": "Implorar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237656,
+    "content_id": "237656",
     "reference_id": 25520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Suplicar por dinheiro",
     "media_type": "Text",
     "index_reference": "suplicar por dinheiro",
@@ -23554,7 +24280,8 @@
           "label": "Implorar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

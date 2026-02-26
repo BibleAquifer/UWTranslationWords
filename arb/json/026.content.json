@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196031,
+    "content_id": "196031",
     "reference_id": 25596,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "طاهر",
     "media_type": "Text",
     "index_reference": "طاهر",
@@ -665,13 +665,14 @@
           "label": "قدوس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196614,
+    "content_id": "196614",
     "reference_id": 26281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "طَرسوس",
     "media_type": "Text",
     "index_reference": "طَرسوس",
@@ -733,13 +734,29 @@
           "label": "كورة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarsus",
+          "type": "place",
+          "preferred_label": "طَرْسوسِيًّا",
+          "confidence": 0.8695,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Tarsus",
+          "type": "group",
+          "preferred_label": "طَرْسوسِيًّا",
+          "confidence": 0.6295,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196162,
+    "content_id": "196162",
     "reference_id": 25746,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "طوفان",
     "media_type": "Text",
     "index_reference": "طوفان",
@@ -908,7 +925,8 @@
           "label": "نوح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

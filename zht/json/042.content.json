@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390415,
+    "content_id": "390415",
     "reference_id": 25474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "方舟",
     "media_type": "Text",
     "index_reference": "方舟",
@@ -218,13 +218,14 @@
           "label": "約櫃",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390551,
+    "content_id": "390551",
     "reference_id": 25614,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "房角石",
     "media_type": "Text",
     "index_reference": "房角石",
@@ -282,13 +283,22 @@
           "end_ref_usfm": "1PE 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Cornerstone",
+          "type": "realia",
+          "preferred_label": "Cornerstone",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 390786,
+    "content_id": "390786",
     "reference_id": 25856,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "房子",
     "media_type": "Text",
     "index_reference": "房子",
@@ -2728,7 +2738,16 @@
           "end_ref_usfm": "2JN 1:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.9363,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

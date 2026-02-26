@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 467392,
+    "content_id": "467392",
     "reference_id": 26278,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tabernacle",
     "media_type": "Text",
     "index_reference": "tabernacle",
@@ -606,13 +606,36 @@
           "label": "Temple, maison de Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Frame",
+          "type": "realia",
+          "preferred_label": "Frame",
+          "confidence": 0.6768,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Tabernacle",
+          "type": "realia",
+          "preferred_label": "Tabernacle",
+          "confidence": 0.6566,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:LinenStrips",
+          "type": "realia",
+          "preferred_label": "Linen Strips",
+          "confidence": 0.6323,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467393,
+    "content_id": "467393",
     "reference_id": 26279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamar",
     "media_type": "Text",
     "index_reference": "tamar",
@@ -730,13 +753,29 @@
           "label": "Mer Salée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 0.7867,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tamar.3",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467395,
+    "content_id": "467395",
     "reference_id": 26281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tarse",
     "media_type": "Text",
     "index_reference": "tarse",
@@ -798,13 +837,29 @@
           "label": "Province",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarsus",
+          "type": "place",
+          "preferred_label": "Tarse",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Tarsus",
+          "type": "group",
+          "preferred_label": "Tarse",
+          "confidence": 0.76,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467394,
+    "content_id": "467394",
     "reference_id": 26280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tarsis",
     "media_type": "Text",
     "index_reference": "tarsis",
@@ -892,13 +947,29 @@
           "label": "Ninive",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tarshish",
+          "type": "place",
+          "preferred_label": "Tarsis",
+          "confidence": 0.6722,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tarshish",
+          "type": "person",
+          "preferred_label": "Tarsis",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467407,
+    "content_id": "467407",
     "reference_id": 26293,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Témoignage",
     "media_type": "Text",
     "index_reference": "témoignage",
@@ -2348,13 +2419,29 @@
           "label": "Témoignage",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:BearWitness",
+          "type": "keyterm",
+          "preferred_label": "témoigner",
+          "confidence": 0.697,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Witness",
+          "type": "keyterm",
+          "preferred_label": "témoin",
+          "confidence": 0.5288,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467398,
+    "content_id": "467398",
     "reference_id": 26284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temple, maison de Dieu",
     "media_type": "Text",
     "index_reference": "temple, maison de dieu",
@@ -3350,13 +3437,29 @@
           "label": "Sion",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Temple",
+          "type": "realia",
+          "preferred_label": "Temple",
+          "confidence": 0.86,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:House",
+          "type": "realia",
+          "preferred_label": "House",
+          "confidence": 0.5625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467417,
+    "content_id": "467417",
     "reference_id": 26303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temps",
     "media_type": "Text",
     "index_reference": "temps",
@@ -4263,13 +4366,14 @@
           "label": "Tribulation",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466707,
+    "content_id": "466707",
     "reference_id": 25534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temps biblique",
     "media_type": "Text",
     "index_reference": "temps biblique",
@@ -7979,13 +8083,14 @@
           "label": "Temps",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466709,
+    "content_id": "466709",
     "reference_id": 25536,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temps biblique",
     "media_type": "Text",
     "index_reference": "temps biblique",
@@ -8271,13 +8376,14 @@
           "end_ref_usfm": "ACT 18:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466712,
+    "content_id": "466712",
     "reference_id": 25539,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temps biblique",
     "media_type": "Text",
     "index_reference": "temps biblique",
@@ -9369,13 +9475,14 @@
           "label": "Temps biblique",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466708,
+    "content_id": "466708",
     "reference_id": 25535,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temps biblique",
     "media_type": "Text",
     "index_reference": "temps biblique ",
@@ -9553,13 +9660,14 @@
           "end_ref_usfm": "JHN 4:52"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466710,
+    "content_id": "466710",
     "reference_id": 25537,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temps biblique",
     "media_type": "Text",
     "index_reference": "temps biblique ",
@@ -9613,13 +9721,14 @@
           "label": "Veiller",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466711,
+    "content_id": "466711",
     "reference_id": 25538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temps biblique semaine",
     "media_type": "Text",
     "index_reference": "temps biblique semaine",
@@ -9667,13 +9776,22 @@
           "label": "Pentecôte",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Week",
+          "type": "keyterm",
+          "preferred_label": "semaine",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467401,
+    "content_id": "467401",
     "reference_id": 26287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tente",
     "media_type": "Text",
     "index_reference": "tente",
@@ -9925,13 +10043,22 @@
           "label": "Tente de la Rencontre",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Tent",
+          "type": "realia",
+          "preferred_label": "Tent",
+          "confidence": 0.8755,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467403,
+    "content_id": "467403",
     "reference_id": 26289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tente de la Rencontre",
     "media_type": "Text",
     "index_reference": "tente de la rencontre",
@@ -10085,13 +10212,22 @@
           "label": "Tente",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:TentOfMeeting",
+          "type": "realia",
+          "preferred_label": "Tent of Meeting",
+          "confidence": 0.545,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467399,
+    "content_id": "467399",
     "reference_id": 26285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tenter",
     "media_type": "Text",
     "index_reference": "tenter",
@@ -10249,13 +10385,22 @@
           "label": "Tester",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:PutToTheTest",
+          "type": "keyterm",
+          "preferred_label": "mis à l'essai",
+          "confidence": 0.7944,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467404,
+    "content_id": "467404",
     "reference_id": 26290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terah",
     "media_type": "Text",
     "index_reference": "terah",
@@ -10388,13 +10533,29 @@
           "label": "Sem",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Terah",
+          "type": "person",
+          "preferred_label": "Térach",
+          "confidence": 0.8571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraham",
+          "confidence": 0.5179,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466847,
+    "content_id": "466847",
     "reference_id": 25687,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terre",
     "media_type": "Text",
     "index_reference": "terre",
@@ -14037,13 +14198,22 @@
           "label": "Monde",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Worldly",
+          "type": "keyterm",
+          "preferred_label": "terrestre",
+          "confidence": 0.8048,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467250,
+    "content_id": "467250",
     "reference_id": 26128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terre promise",
     "media_type": "Text",
     "index_reference": "terre promise",
@@ -14080,13 +14250,22 @@
           "label": "Promesse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.5565,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467405,
+    "content_id": "467405",
     "reference_id": 26291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Terreur",
     "media_type": "Text",
     "index_reference": "terreur",
@@ -14312,13 +14491,22 @@
           "label": "L'Éternel, Yahvé",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Terror",
+          "type": "keyterm",
+          "preferred_label": "terreur",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467406,
+    "content_id": "467406",
     "reference_id": 26292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tester",
     "media_type": "Text",
     "index_reference": "tester",
@@ -14630,13 +14818,22 @@
           "label": "Tenter",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Interpret",
+          "type": "keyterm",
+          "preferred_label": "tester",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467408,
+    "content_id": "467408",
     "reference_id": 26294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tétrarque",
     "media_type": "Text",
     "index_reference": "tétrarque",
@@ -14724,13 +14921,22 @@
           "label": "Rome",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Hérode Antipas",
+          "confidence": 0.6067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467409,
+    "content_id": "467409",
     "reference_id": 26295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thessalonique",
     "media_type": "Text",
     "index_reference": "thessalonique",
@@ -14828,13 +15034,29 @@
           "label": "Rome",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "Thessalonique",
+          "confidence": 0.8769,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Thessalonica",
+          "type": "group",
+          "preferred_label": "une Thessalonicien",
+          "confidence": 0.6331,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467419,
+    "content_id": "467419",
     "reference_id": 26305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thirtsa",
     "media_type": "Text",
     "index_reference": "thirtsa",
@@ -14898,13 +15120,64 @@
           "label": "Sichem",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tirzah",
+          "type": "person",
+          "preferred_label": "Thirtsa",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tirzah",
+          "type": "place",
+          "preferred_label": "Thirtsa",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Milcah.2",
+          "type": "person",
+          "preferred_label": "Milca",
+          "confidence": 0.5652,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zelophehad",
+          "type": "person",
+          "preferred_label": "Tselophchad",
+          "confidence": 0.5652,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoglah",
+          "type": "person",
+          "preferred_label": "Hogla",
+          "confidence": 0.5652,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Mahlah",
+          "type": "person",
+          "preferred_label": "Machla",
+          "confidence": 0.5562,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "Noa",
+          "confidence": 0.5067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467412,
+    "content_id": "467412",
     "reference_id": 26298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thomas",
     "media_type": "Text",
     "index_reference": "thomas",
@@ -15039,13 +15312,22 @@
           "label": "Douze",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Thomas",
+          "confidence": 0.82,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467418,
+    "content_id": "467418",
     "reference_id": 26304,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timothée",
     "media_type": "Text",
     "index_reference": "timothée",
@@ -15241,13 +15523,22 @@
           "label": "Ministre",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timothée",
+          "confidence": 0.984,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466652,
+    "content_id": "466652",
     "reference_id": 25473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tireur d'arc",
     "media_type": "Text",
     "index_reference": "tireur d'arc ",
@@ -15307,13 +15598,22 @@
           "label": "Assyrie",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Bow",
+          "type": "realia",
+          "preferred_label": "Bow",
+          "confidence": 0.5111,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 32929,
+    "content_id": "32929",
     "reference_id": 26306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tite",
     "media_type": "Text",
     "index_reference": "tite",
@@ -15466,13 +15766,22 @@
           "label": "Ministre",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Tite",
+          "confidence": 0.92,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467420,
+    "content_id": "467420",
     "reference_id": 26307,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tombe",
     "media_type": "Text",
     "index_reference": "tombe",
@@ -15898,13 +16207,22 @@
           "label": "Enterrer ",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Grave",
+          "type": "realia",
+          "preferred_label": "Grave",
+          "confidence": 0.8346,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467451,
+    "content_id": "467451",
     "reference_id": 26343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tour de garde",
     "media_type": "Text",
     "index_reference": "tour de garde",
@@ -15989,13 +16307,14 @@
           "label": "Veiller",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467422,
+    "content_id": "467422",
     "reference_id": 26309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tourmenter",
     "media_type": "Text",
     "index_reference": "tourmenter",
@@ -16181,13 +16500,14 @@
           "label": "Adorer",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466626,
+    "content_id": "466626",
     "reference_id": 25445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tout puissant",
     "media_type": "Text",
     "index_reference": "tout puissant",
@@ -16494,13 +16814,22 @@
           "label": "Seigneur",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.5329,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467423,
+    "content_id": "467423",
     "reference_id": 26310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tradition",
     "media_type": "Text",
     "index_reference": "tradition",
@@ -16651,13 +16980,22 @@
           "label": "Moïse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Teaching",
+          "type": "keyterm",
+          "preferred_label": "se rendre",
+          "confidence": 0.8824,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466706,
+    "content_id": "466706",
     "reference_id": 25533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trahir",
     "media_type": "Text",
     "index_reference": "trahir",
@@ -16905,13 +17243,14 @@
           "label": "Judas Iscariote",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467425,
+    "content_id": "467425",
     "reference_id": 26312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Transgresser",
     "media_type": "Text",
     "index_reference": "transgresser",
@@ -17153,13 +17492,14 @@
           "label": "Transgression",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467427,
+    "content_id": "467427",
     "reference_id": 26314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Transgression",
     "media_type": "Text",
     "index_reference": "transgression",
@@ -17299,13 +17639,14 @@
           "label": "Transgresser",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467091,
+    "content_id": "467091",
     "reference_id": 25950,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Travail",
     "media_type": "Text",
     "index_reference": "travail",
@@ -17869,13 +18210,57 @@
           "label": "Dur",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Delaiah",
+          "type": "person",
+          "preferred_label": "Delaja",
+          "confidence": 0.8836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Delaiah.2",
+          "type": "person",
+          "preferred_label": "Delaja",
+          "confidence": 0.8836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Delaiah.3",
+          "type": "person",
+          "preferred_label": "Delaja",
+          "confidence": 0.8836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Delaiah.4",
+          "type": "person",
+          "preferred_label": "Delaja",
+          "confidence": 0.8836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Delaiah.5",
+          "type": "person",
+          "preferred_label": "Delaja",
+          "confidence": 0.8836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Job",
+          "type": "person",
+          "preferred_label": "Job",
+          "confidence": 0.8478,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467382,
+    "content_id": "467382",
     "reference_id": 26267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trébucher",
     "media_type": "Text",
     "index_reference": "trébucher",
@@ -18099,13 +18484,22 @@
           "label": "Péché",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Stumble",
+          "type": "keyterm",
+          "preferred_label": "intrans. trébucher",
+          "confidence": 0.6941,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467426,
+    "content_id": "467426",
     "reference_id": 26313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trembler",
     "media_type": "Text",
     "index_reference": "trembler",
@@ -18341,13 +18735,14 @@
           "label": "Seigneur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467169,
+    "content_id": "467169",
     "reference_id": 26032,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Très Haut",
     "media_type": "Text",
     "index_reference": "très haut",
@@ -18491,13 +18886,14 @@
           "label": "Dieu",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467429,
+    "content_id": "467429",
     "reference_id": 26316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tribu",
     "media_type": "Text",
     "index_reference": "tribu",
@@ -18794,13 +19190,14 @@
           "label": "Groupe de personnes",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467430,
+    "content_id": "467430",
     "reference_id": 26317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tribulation",
     "media_type": "Text",
     "index_reference": "tribulation",
@@ -19053,13 +19450,14 @@
           "label": "Colère",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 559321,
+    "content_id": "559321",
     "reference_id": 25620,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tribunal",
     "media_type": "Text",
     "index_reference": "tribunal",
@@ -19133,13 +19531,22 @@
           "label": "Temple, maison de Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:CourtCase",
+          "type": "keyterm",
+          "preferred_label": "tribunal",
+          "confidence": 0.8877,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 467432,
+    "content_id": "467432",
     "reference_id": 26319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Troas",
     "media_type": "Text",
     "index_reference": "troas",
@@ -19240,13 +19647,22 @@
           "label": "Timothée",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Troas",
+          "type": "place",
+          "preferred_label": "Troas",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466811,
+    "content_id": "466811",
     "reference_id": 25648,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tromper",
     "media_type": "Text",
     "index_reference": "tromper",
@@ -19880,13 +20296,22 @@
           "end_ref_usfm": "LEV 19:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Deceit",
+          "type": "keyterm",
+          "preferred_label": "tromperie",
+          "confidence": 0.5946,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 467434,
+    "content_id": "467434",
     "reference_id": 26321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trompette",
     "media_type": "Text",
     "index_reference": "trompette",
@@ -20119,13 +20544,29 @@
           "label": "Colère",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Trumpet",
+          "type": "realia",
+          "preferred_label": "Trumpet",
+          "confidence": 0.8135,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:RamsHorn",
+          "type": "realia",
+          "preferred_label": "Rams Horn",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467416,
+    "content_id": "467416",
     "reference_id": 26302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trône",
     "media_type": "Text",
     "index_reference": "trône",
@@ -20565,13 +21006,29 @@
           "label": "Règne",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Throne",
+          "type": "realia",
+          "preferred_label": "Throne",
+          "confidence": 0.7843,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.5029,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467433,
+    "content_id": "467433",
     "reference_id": 26320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Troubler",
     "media_type": "Text",
     "index_reference": "troubler",
@@ -20992,13 +21449,14 @@
           "label": "Persécuter",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467435,
+    "content_id": "467435",
     "reference_id": 26323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tubal",
     "media_type": "Text",
     "index_reference": "tubal",
@@ -21095,13 +21553,43 @@
           "label": "Prophète",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tubal",
+          "type": "person",
+          "preferred_label": "Tubal",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Tubal-cain",
+          "type": "person",
+          "preferred_label": "Tubal-Caïn",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Meshech",
+          "type": "place",
+          "preferred_label": "Méschec",
+          "confidence": 0.5,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Tubal",
+          "type": "place",
+          "preferred_label": "Tubal",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467358,
+    "content_id": "467358",
     "reference_id": 26243,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tuer",
     "media_type": "Text",
     "index_reference": "tuer",
@@ -21305,13 +21793,14 @@
           "label": "Abattage",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467436,
+    "content_id": "467436",
     "reference_id": 26324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tunique",
     "media_type": "Text",
     "index_reference": "tunique",
@@ -21521,13 +22010,29 @@
           "label": "Robe",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Tunic.2",
+          "type": "realia",
+          "preferred_label": "Tunic",
+          "confidence": 0.6404,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Tunic",
+          "type": "realia",
+          "preferred_label": "Tunic",
+          "confidence": 0.5737,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 32931,
+    "content_id": "32931",
     "reference_id": 26325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tychicus",
     "media_type": "Text",
     "index_reference": "tychicus",
@@ -21629,13 +22134,22 @@
           "label": "Ministre",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tychicus",
+          "type": "person",
+          "preferred_label": "Tychique",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467437,
+    "content_id": "467437",
     "reference_id": 26326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tyr",
     "media_type": "Text",
     "index_reference": "tyr",
@@ -21763,6 +22277,29 @@
           "resource_code": "Unknown",
           "label": "Sidon",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Tyre",
+          "type": "place",
+          "preferred_label": "Tyr",
+          "confidence": 0.9467,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Tyre",
+          "type": "group",
+          "preferred_label": "Tyrien",
+          "confidence": 0.5903,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sidon",
+          "type": "place",
+          "preferred_label": "Sidon",
+          "confidence": 0.5292,
+          "match_method": "scored"
         }
       ]
     }

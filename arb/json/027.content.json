@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196079,
+    "content_id": "196079",
     "reference_id": 25652,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غزال",
     "media_type": "Text",
     "index_reference": "غزال",
@@ -48,13 +48,14 @@
           "end_ref_usfm": "SNG 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196184,
+    "content_id": "196184",
     "reference_id": 25769,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غزة",
     "media_type": "Text",
     "index_reference": "غزة",
@@ -130,13 +131,22 @@
           "label": "الفلسطينيون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gaza",
+          "type": "place",
+          "preferred_label": "غَزَّةَ",
+          "confidence": 0.5125,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196671,
+    "content_id": "196671",
     "reference_id": 26358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غضب",
     "media_type": "Text",
     "index_reference": "غضب",
@@ -527,13 +537,14 @@
           "label": "الخطية",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196061,
+    "content_id": "196061",
     "reference_id": 25633,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غطاء \"حجاب\"",
     "media_type": "Text",
     "index_reference": "غطاء \"حجاب\"",
@@ -967,13 +978,22 @@
           "label": "هيكل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:CoverLid",
+          "type": "realia",
+          "preferred_label": "Cover Lid",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 195945,
+    "content_id": "195945",
     "reference_id": 25491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غطاء الكفارة (كرسي الرحمة)",
     "media_type": "Text",
     "index_reference": "غطاء الكفارة (كرسي الرحمة)",
@@ -1139,13 +1159,22 @@
           "label": "يفدي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:CoverLid",
+          "type": "realia",
+          "preferred_label": "Cover Lid",
+          "confidence": 0.508,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196181,
+    "content_id": "196181",
     "reference_id": 25765,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غلاطية",
     "media_type": "Text",
     "index_reference": "غلاطية",
@@ -1251,13 +1280,22 @@
           "label": "بولس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "غَلَاطِيَّةَ",
+          "confidence": 0.5028,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196679,
+    "content_id": "196679",
     "reference_id": 26366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غيرة",
     "media_type": "Text",
     "index_reference": "غيرة",
@@ -1393,13 +1431,14 @@
           "end_ref_usfm": "ROM 10:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196281,
+    "content_id": "196281",
     "reference_id": 25886,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "غيور",
     "media_type": "Text",
     "index_reference": "غيور",
@@ -1519,7 +1558,8 @@
           "label": "حسد",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

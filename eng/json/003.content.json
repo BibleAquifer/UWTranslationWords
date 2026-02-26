@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 26355,
+    "content_id": "26355",
     "reference_id": 25497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baal",
     "media_type": "Text",
     "index_reference": "baal",
@@ -91,13 +91,64 @@
           "label": "Yahweh",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Baal.2",
+          "type": "person",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Baal",
+          "type": "person",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Baalath-beer",
+          "type": "place",
+          "preferred_label": "Baalath-beer",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Bamoth-baal",
+          "type": "place",
+          "preferred_label": "Bamoth-baal",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ethbaal",
+          "type": "person",
+          "preferred_label": "Ethbaal",
+          "confidence": 0.5285,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26356,
+    "content_id": "26356",
     "reference_id": 25498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baasha",
     "media_type": "Text",
     "index_reference": "baasha",
@@ -140,13 +191,36 @@
           "label": "False God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Baasha",
+          "type": "person",
+          "preferred_label": "Baasha",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "Asa",
+          "confidence": 0.5682,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahijah.3",
+          "type": "person",
+          "preferred_label": "Ahijah",
+          "confidence": 0.5083,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26357,
+    "content_id": "26357",
     "reference_id": 25499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babel",
     "media_type": "Text",
     "index_reference": "babel",
@@ -190,13 +264,29 @@
           "label": "Mesopotamia",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26358,
+    "content_id": "26358",
     "reference_id": 25500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babylon",
     "media_type": "Text",
     "index_reference": "babylon",
@@ -434,13 +524,43 @@
           "label": "Nebuchadnezzar",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "group:Babylon",
+          "type": "group",
+          "preferred_label": "Babylonians",
+          "confidence": 0.6118,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Babylonia",
+          "type": "place",
+          "preferred_label": "Babylonia",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26359,
+    "content_id": "26359",
     "reference_id": 25501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Balaam",
     "media_type": "Text",
     "index_reference": "balaam",
@@ -562,13 +682,29 @@
           "label": "Peor",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "Balaam",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "Balak",
+          "confidence": 0.5185,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26360,
+    "content_id": "26360",
     "reference_id": 25502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Banquet",
     "media_type": "Text",
     "index_reference": "banquet",
@@ -626,13 +762,14 @@
           "end_ref_usfm": "SNG 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26361,
+    "content_id": "26361",
     "reference_id": 25503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baptize",
     "media_type": "Text",
     "index_reference": "baptize",
@@ -1114,13 +1251,29 @@
           "label": "Repent",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "Baptism",
+          "confidence": 0.8535,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.5227,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26362,
+    "content_id": "26362",
     "reference_id": 25504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barabbas",
     "media_type": "Text",
     "index_reference": "barabbas",
@@ -1217,13 +1370,22 @@
           "label": "Rome",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "Barabbas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26363,
+    "content_id": "26363",
     "reference_id": 25505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barley",
     "media_type": "Text",
     "index_reference": "barley",
@@ -1346,13 +1508,22 @@
           "label": "John 6:9 (#1)",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Barley",
+          "type": "flora",
+          "preferred_label": "Barley",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26364,
+    "content_id": "26364",
     "reference_id": 25506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barnabas",
     "media_type": "Text",
     "index_reference": "barnabas",
@@ -1578,13 +1749,36 @@
           "label": "Paul",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Barnabas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:FatherOfBarnabas",
+          "type": "person",
+          "preferred_label": "Father of Barnabas",
+          "confidence": 0.6,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.5589,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26365,
+    "content_id": "26365",
     "reference_id": 25507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barren",
     "media_type": "Text",
     "index_reference": "barren",
@@ -1678,13 +1872,14 @@
           "end_ref_usfm": "GAL 4:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26366,
+    "content_id": "26366",
     "reference_id": 25508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bartholomew",
     "media_type": "Text",
     "index_reference": "bartholomew",
@@ -1779,13 +1974,43 @@
           "label": "The Twelve",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bartholomew",
+          "type": "person",
+          "preferred_label": "Bartholomew",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "Matthew",
+          "confidence": 0.562,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Thomas",
+          "confidence": 0.5215,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 0.521,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26367,
+    "content_id": "26367",
     "reference_id": 25509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baruch",
     "media_type": "Text",
     "index_reference": "baruch",
@@ -1867,13 +2092,43 @@
           "label": "Prophet",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Baruch.2",
+          "type": "person",
+          "preferred_label": "Baruch",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Baruch.3",
+          "type": "person",
+          "preferred_label": "Baruch",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Baruch.4",
+          "type": "person",
+          "preferred_label": "Baruch",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Baruch",
+          "type": "person",
+          "preferred_label": "Baruch",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26368,
+    "content_id": "26368",
     "reference_id": 25510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bashan",
     "media_type": "Text",
     "index_reference": "bashan",
@@ -1942,13 +2197,29 @@
           "label": "Syria",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bashan",
+          "type": "place",
+          "preferred_label": "Bashan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Havvoth-jair",
+          "type": "place",
+          "preferred_label": "Havvoth-jair",
+          "confidence": 0.5167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26369,
+    "content_id": "26369",
     "reference_id": 25511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bathsheba",
     "media_type": "Text",
     "index_reference": "bathsheba",
@@ -2004,13 +2275,22 @@
           "label": "Uriah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "Bathsheba",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26373,
+    "content_id": "26373",
     "reference_id": 25515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bear",
     "media_type": "Text",
     "index_reference": "bear",
@@ -2965,13 +3245,29 @@
           "label": "Fruit",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bear",
+          "type": "fauna",
+          "preferred_label": "Bear",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:Yoke",
+          "type": "realia",
+          "preferred_label": "Yoke",
+          "confidence": 0.5396,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26374,
+    "content_id": "26374",
     "reference_id": 25516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bear Animal",
     "media_type": "Text",
     "index_reference": "bear animal",
@@ -3014,13 +3310,22 @@
           "label": "Elisha",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bear",
+          "type": "fauna",
+          "preferred_label": "Bear",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26370,
+    "content_id": "26370",
     "reference_id": 25512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bear-Carry Burden",
     "media_type": "Text",
     "index_reference": "bear-carry burden",
@@ -3037,13 +3342,14 @@
           "label": "Endure",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26371,
+    "content_id": "26371",
     "reference_id": 25513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bear-Held Responsible For",
     "media_type": "Text",
     "index_reference": "bear-held responsible for",
@@ -3060,13 +3366,14 @@
           "label": "Iniquity",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26372,
+    "content_id": "26372",
     "reference_id": 25514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bear-witness_testify",
     "media_type": "Text",
     "index_reference": "bear-witness_testify",
@@ -3090,13 +3397,14 @@
           "label": "Testimony",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26375,
+    "content_id": "26375",
     "reference_id": 25517,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beast",
     "media_type": "Text",
     "index_reference": "beast",
@@ -3562,13 +3870,14 @@
           "label": "Nation",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26376,
+    "content_id": "26376",
     "reference_id": 25518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beelzebul",
     "media_type": "Text",
     "index_reference": "beelzebul",
@@ -3648,13 +3957,22 @@
           "label": "Satan",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26377,
+    "content_id": "26377",
     "reference_id": 25519,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beersheba",
     "media_type": "Text",
     "index_reference": "beersheba",
@@ -3791,13 +4109,22 @@
           "label": "Oath",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beersheba",
+          "type": "place",
+          "preferred_label": "Beersheba",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26379,
+    "content_id": "26379",
     "reference_id": 25521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beg",
     "media_type": "Text",
     "index_reference": "beg",
@@ -4043,13 +4370,14 @@
           "label": "Plead",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26378,
+    "content_id": "26378",
     "reference_id": 25520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beg-For Money",
     "media_type": "Text",
     "index_reference": "beg-for money",
@@ -4073,13 +4401,14 @@
           "label": "Plead",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26380,
+    "content_id": "26380",
     "reference_id": 25522,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beget",
     "media_type": "Text",
     "index_reference": "beget",
@@ -4088,13 +4417,14 @@
     "content": "<h1>beget, begot, begat, begotten</h1><h2>Definition:</h2><p>The term “beget” means to become the father of someone.</p><h2>Translation Suggestions:</h2><ul><li><p>You could translate the phrase “beget” as “bring forth” and the term “begat” as “fathered” and the term “begot” as “gave life.”</p></li><li><p>The term “begotten” is the passive form of “beget” and means to “be born.”</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p></p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26381,
+    "content_id": "26381",
     "reference_id": 25523,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Believe",
     "media_type": "Text",
     "index_reference": "believe",
@@ -5635,13 +5965,36 @@
           "label": "Trust",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "Believe",
+          "confidence": 0.9228,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:BelieveIn",
+          "type": "keyterm",
+          "preferred_label": "Believe In",
+          "confidence": 0.6173,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Disbelieve",
+          "type": "keyterm",
+          "preferred_label": "Disbelieve",
+          "confidence": 0.5363,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26382,
+    "content_id": "26382",
     "reference_id": 25524,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beloved",
     "media_type": "Text",
     "index_reference": "beloved",
@@ -6043,13 +6396,22 @@
           "label": "Love",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Beloved",
+          "type": "keyterm",
+          "preferred_label": "Beloved",
+          "confidence": 0.975,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26383,
+    "content_id": "26383",
     "reference_id": 25525,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Benaiah",
     "media_type": "Text",
     "index_reference": "benaiah",
@@ -6130,13 +6492,106 @@
           "label": "Solomon",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Benaiah.10",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.11",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.12",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.2",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.3",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.4",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.5",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.6",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.7",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.8",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah.9",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benaiah",
+          "type": "person",
+          "preferred_label": "Benaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Bedeiah",
+          "type": "person",
+          "preferred_label": "Bedeiah",
+          "confidence": 0.5195,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26384,
+    "content_id": "26384",
     "reference_id": 25526,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Benjamin",
     "media_type": "Text",
     "index_reference": "benjamin",
@@ -6390,13 +6845,57 @@
           "label": "Rachel",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Benjamin.2",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benjamin.3",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Benjamin",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "group:Benjamin",
+          "type": "group",
+          "preferred_label": "Tribe of Benjamin",
+          "confidence": 0.5974,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26385,
+    "content_id": "26385",
     "reference_id": 25527,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berea",
     "media_type": "Text",
     "index_reference": "berea",
@@ -6465,13 +6964,29 @@
           "label": "Thessalonica",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Berea",
+          "type": "place",
+          "preferred_label": "Berea",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "group:Berea",
+          "type": "group",
+          "preferred_label": "Bereans",
+          "confidence": 0.5902,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26386,
+    "content_id": "26386",
     "reference_id": 25528,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethany",
     "media_type": "Text",
     "index_reference": "bethany",
@@ -6614,13 +7129,36 @@
           "label": "Mount of Olives",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethany.2",
+          "type": "place",
+          "preferred_label": "Bethany",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Bethany",
+          "type": "place",
+          "preferred_label": "Bethany",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Bethabara",
+          "type": "place",
+          "preferred_label": "Bethany Beyond the Jordan",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26387,
+    "content_id": "26387",
     "reference_id": 25529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethel",
     "media_type": "Text",
     "index_reference": "bethel",
@@ -6761,13 +7299,29 @@
           "label": "Jerusalem",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethel.2",
+          "type": "place",
+          "preferred_label": "Bethel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "Bethel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26388,
+    "content_id": "26388",
     "reference_id": 25530,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethlehem",
     "media_type": "Text",
     "index_reference": "bethlehem",
@@ -6907,13 +7461,29 @@
           "label": "Micah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethlehem.2",
+          "type": "place",
+          "preferred_label": "Bethlehem",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Bethlehem",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26389,
+    "content_id": "26389",
     "reference_id": 25531,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethshemesh",
     "media_type": "Text",
     "index_reference": "bethshemesh",
@@ -6990,13 +7560,36 @@
           "label": "Philistines",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beth-shemesh",
+          "type": "place",
+          "preferred_label": "Beth-shemesh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Beth-shemesh.2",
+          "type": "place",
+          "preferred_label": "Beth-shemesh",
+          "confidence": 0.6487,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Beth-shemesh.3",
+          "type": "place",
+          "preferred_label": "Beth-shemesh",
+          "confidence": 0.6487,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26390,
+    "content_id": "26390",
     "reference_id": 25532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethuel",
     "media_type": "Text",
     "index_reference": "bethuel",
@@ -7095,13 +7688,36 @@
           "label": "Rebekah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bethuel",
+          "type": "person",
+          "preferred_label": "Bethuel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Bethuel",
+          "type": "place",
+          "preferred_label": "Bethuel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebekah",
+          "confidence": 0.5035,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26391,
+    "content_id": "26391",
     "reference_id": 25533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Betray",
     "media_type": "Text",
     "index_reference": "betray",
@@ -7349,13 +7965,14 @@
           "label": "Judas Iscariot",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26392,
+    "content_id": "26392",
     "reference_id": 25534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Biblical Time Day",
     "media_type": "Text",
     "index_reference": "biblical time day",
@@ -11065,13 +11682,14 @@
           "label": "Time",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26393,
+    "content_id": "26393",
     "reference_id": 25535,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Biblical Time Hour",
     "media_type": "Text",
     "index_reference": "biblical time hour",
@@ -11249,13 +11867,14 @@
           "end_ref_usfm": "JHN 4:52"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26394,
+    "content_id": "26394",
     "reference_id": 25536,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Biblical Time Month",
     "media_type": "Text",
     "index_reference": "biblical time month",
@@ -11541,13 +12160,14 @@
           "end_ref_usfm": "ACT 18:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26395,
+    "content_id": "26395",
     "reference_id": 25537,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Biblical Time Watch",
     "media_type": "Text",
     "index_reference": "biblical time watch",
@@ -11601,13 +12221,14 @@
           "label": "Watch",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26396,
+    "content_id": "26396",
     "reference_id": 25538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Biblical Time Week",
     "media_type": "Text",
     "index_reference": "biblical time week",
@@ -11655,13 +12276,22 @@
           "label": "Pentecost",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Week",
+          "type": "keyterm",
+          "preferred_label": "Week",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26397,
+    "content_id": "26397",
     "reference_id": 25539,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Biblical Time Year",
     "media_type": "Text",
     "index_reference": "biblical time year",
@@ -12753,13 +13383,14 @@
           "label": "Biblical Time Month",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26398,
+    "content_id": "26398",
     "reference_id": 25540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bilhah",
     "media_type": "Text",
     "index_reference": "bilhah",
@@ -12852,13 +13483,29 @@
           "label": "Rachel",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bilhah",
+          "type": "person",
+          "preferred_label": "Bilhah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Bilhah",
+          "type": "place",
+          "preferred_label": "Bilhah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26399,
+    "content_id": "26399",
     "reference_id": 25541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Birthright",
     "media_type": "Text",
     "index_reference": "birthright",
@@ -12944,13 +13591,14 @@
           "label": "Inherit",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26400,
+    "content_id": "26400",
     "reference_id": 25542,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Blameless",
     "media_type": "Text",
     "index_reference": "blameless",
@@ -13134,13 +13782,43 @@
           "end_ref_usfm": "GEN 17:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Blameless",
+          "type": "keyterm",
+          "preferred_label": "Be Blameless",
+          "confidence": 0.7032,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Unblemished",
+          "type": "keyterm",
+          "preferred_label": "Unblemished",
+          "confidence": 0.6774,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Complete",
+          "type": "keyterm",
+          "preferred_label": "Complete",
+          "confidence": 0.6645,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:WithoutReproach",
+          "type": "keyterm",
+          "preferred_label": "Without Reproach",
+          "confidence": 0.6645,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 26401,
+    "content_id": "26401",
     "reference_id": 25543,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Blasphemy",
     "media_type": "Text",
     "index_reference": "blasphemy",
@@ -13423,13 +14101,22 @@
           "label": "Slander",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Blaspheme",
+          "type": "keyterm",
+          "preferred_label": "Blaspheme",
+          "confidence": 0.8375,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26402,
+    "content_id": "26402",
     "reference_id": 25544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Blemish",
     "media_type": "Text",
     "index_reference": "blemish",
@@ -13504,13 +14191,22 @@
           "label": "Sin",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Unblemished",
+          "type": "keyterm",
+          "preferred_label": "Unblemished",
+          "confidence": 0.541,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26403,
+    "content_id": "26403",
     "reference_id": 25545,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bless",
     "media_type": "Text",
     "index_reference": "bless",
@@ -14878,13 +15574,29 @@
           "label": "Praise",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Bless",
+          "type": "keyterm",
+          "preferred_label": "Bless",
+          "confidence": 0.8791,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Happy",
+          "type": "keyterm",
+          "preferred_label": "Happy",
+          "confidence": 0.6088,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26404,
+    "content_id": "26404",
     "reference_id": 25546,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bloodshed",
     "media_type": "Text",
     "index_reference": "bloodshed",
@@ -14950,13 +15662,36 @@
           "label": "Slaughter",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:SheddingOfBlood",
+          "type": "keyterm",
+          "preferred_label": "Shedding of Blood",
+          "confidence": 0.8667,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Bleed",
+          "type": "keyterm",
+          "preferred_label": "Bleed",
+          "confidence": 0.8657,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Blood",
+          "type": "keyterm",
+          "preferred_label": "Blood",
+          "confidence": 0.8596,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 26405,
+    "content_id": "26405",
     "reference_id": 25547,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Blotout",
     "media_type": "Text",
     "index_reference": "blotout",
@@ -15044,13 +15779,14 @@
           "end_ref_usfm": "EXO 32:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26406,
+    "content_id": "26406",
     "reference_id": 25548,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Boaz",
     "media_type": "Text",
     "index_reference": "boaz",
@@ -15220,13 +15956,22 @@
           "label": "Ruth",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Boaz",
+          "type": "person",
+          "preferred_label": "Boaz",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26407,
+    "content_id": "26407",
     "reference_id": 25549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bond",
     "media_type": "Text",
     "index_reference": "bond",
@@ -15708,13 +16453,22 @@
           "label": "Servant",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Chain",
+          "type": "realia",
+          "preferred_label": "Chain",
+          "confidence": 0.6092,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26408,
+    "content_id": "26408",
     "reference_id": 25550,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Book of Life",
     "media_type": "Text",
     "index_reference": "book of life",
@@ -15819,13 +16573,29 @@
           "label": "Scroll",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.7577,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Life",
+          "type": "keyterm",
+          "preferred_label": "Life",
+          "confidence": 0.6654,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26409,
+    "content_id": "26409",
     "reference_id": 25551,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Born Again",
     "media_type": "Text",
     "index_reference": "born again",
@@ -15966,13 +16736,14 @@
           "label": "John 3:6 (#4)",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26410,
+    "content_id": "26410",
     "reference_id": 25552,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bow",
     "media_type": "Text",
     "index_reference": "bow",
@@ -16531,13 +17302,29 @@
           "label": "Worship",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Bow",
+          "type": "realia",
+          "preferred_label": "Bow",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "keyterm:BowDown",
+          "type": "keyterm",
+          "preferred_label": "Bow Down",
+          "confidence": 0.6719,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26411,
+    "content_id": "26411",
     "reference_id": 25553,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bow Weapon",
     "media_type": "Text",
     "index_reference": "bow weapon",
@@ -16661,13 +17448,22 @@
           "end_ref_usfm": "PSA 58:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Bow",
+          "type": "realia",
+          "preferred_label": "Bow",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 26412,
+    "content_id": "26412",
     "reference_id": 25554,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bread",
     "media_type": "Text",
     "index_reference": "bread",
@@ -17733,13 +18529,36 @@
           "label": "Temple",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:BreadOfDisplay",
+          "type": "realia",
+          "preferred_label": "Bread of Display",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:UnleavenedBread",
+          "type": "realia",
+          "preferred_label": "Unleavened Bread",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "keyterm:BreadOfDisplay",
+          "type": "keyterm",
+          "preferred_label": "Bread of Display",
+          "confidence": 0.6071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26413,
+    "content_id": "26413",
     "reference_id": 25555,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Breast Plate",
     "media_type": "Text",
     "index_reference": "breast plate",
@@ -17953,13 +18772,29 @@
           "label": "Temple",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Breastplate",
+          "type": "realia",
+          "preferred_label": "Breastplate",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:Breast-piece",
+          "type": "realia",
+          "preferred_label": "Breast-Piece",
+          "confidence": 0.7634,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26414,
+    "content_id": "26414",
     "reference_id": 25556,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bribe",
     "media_type": "Text",
     "index_reference": "bribe",
@@ -18035,13 +18870,14 @@
           "end_ref_usfm": "PRO 15:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26415,
+    "content_id": "26415",
     "reference_id": 25557,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bride",
     "media_type": "Text",
     "index_reference": "bride",
@@ -18120,13 +18956,14 @@
           "label": "Marriage",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26416,
+    "content_id": "26416",
     "reference_id": 25558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bridegroom",
     "media_type": "Text",
     "index_reference": "bridegroom",
@@ -18253,13 +19090,14 @@
           "label": "Marriage",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26417,
+    "content_id": "26417",
     "reference_id": 25559,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bronze",
     "media_type": "Text",
     "index_reference": "bronze",
@@ -18555,13 +19393,14 @@
           "label": "Temple",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26418,
+    "content_id": "26418",
     "reference_id": 25560,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Burnt Offering",
     "media_type": "Text",
     "index_reference": "burnt offering",
@@ -18841,13 +19680,22 @@
           "label": "Sacrifice",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "Offering",
+          "confidence": 0.96,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26419,
+    "content_id": "26419",
     "reference_id": 25561,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bury",
     "media_type": "Text",
     "index_reference": "bury",
@@ -19160,7 +20008,8 @@
           "label": "Tomb",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

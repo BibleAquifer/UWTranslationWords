@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 627225,
+    "content_id": "627225",
     "reference_id": 26059,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Obadia",
     "media_type": "Text",
     "index_reference": "obadia",
@@ -152,13 +152,64 @@
           "label": "Sedekia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Obadiah.4",
+          "type": "person",
+          "preferred_label": "Obadia",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.2",
+          "type": "person",
+          "preferred_label": "Obadia",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.12",
+          "type": "person",
+          "preferred_label": "Obadia",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.10",
+          "type": "person",
+          "preferred_label": "Obadia",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.11",
+          "type": "person",
+          "preferred_label": "Obadia",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Obadiah.5",
+          "type": "person",
+          "preferred_label": "Obadia",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zebadiah.8",
+          "type": "person",
+          "preferred_label": "Zebadia",
+          "confidence": 0.5298,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627226,
+    "content_id": "627226",
     "reference_id": 26060,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ogu",
     "media_type": "Text",
     "index_reference": "ogu",
@@ -182,13 +233,22 @@
           "label": "Bashani",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Og",
+          "type": "person",
+          "preferred_label": "Ogu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575688,
+    "content_id": "575688",
     "reference_id": 26201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Okoa",
     "media_type": "Text",
     "index_reference": "okoa",
@@ -1200,13 +1260,22 @@
           "label": "Mwokozi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Salvation",
+          "type": "keyterm",
+          "preferred_label": "Salvation",
+          "confidence": 0.5651,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575773,
+    "content_id": "575773",
     "reference_id": 26352,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ole",
     "media_type": "Text",
     "index_reference": "ole",
@@ -1468,13 +1537,22 @@
           "end_ref_usfm": "LUK 17:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Disaster",
+          "type": "keyterm",
+          "preferred_label": "Disaster",
+          "confidence": 0.5469,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 575379,
+    "content_id": "575379",
     "reference_id": 25521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Omba",
     "media_type": "Text",
     "index_reference": "omba",
@@ -1720,13 +1798,14 @@
           "label": "Kuomba",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575646,
+    "content_id": "575646",
     "reference_id": 26117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Omba",
     "media_type": "Text",
     "index_reference": "omba",
@@ -2814,13 +2893,22 @@
           "label": "Sifa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pray",
+          "type": "keyterm",
+          "preferred_label": "Pray",
+          "confidence": 0.5524,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626928,
+    "content_id": "626928",
     "reference_id": 25520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Omba Pesa",
     "media_type": "Text",
     "index_reference": "omba pesa",
@@ -2844,13 +2932,14 @@
           "label": "Kuomba",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627159,
+    "content_id": "627159",
     "reference_id": 25953,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Omboleza",
     "media_type": "Text",
     "index_reference": "omboleza",
@@ -2968,13 +3057,14 @@
           "end_ref_usfm": "JOB 27:17"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575610,
+    "content_id": "575610",
     "reference_id": 26035,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Omboleza",
     "media_type": "Text",
     "index_reference": "omboleza",
@@ -3209,13 +3299,14 @@
           "label": "dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627227,
+    "content_id": "627227",
     "reference_id": 26063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Omri",
     "media_type": "Text",
     "index_reference": "omri",
@@ -3260,13 +3351,36 @@
           "label": "Tirza",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Omri",
+          "type": "person",
+          "preferred_label": "Omri",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahaziah.2",
+          "type": "person",
+          "preferred_label": "Ahazia",
+          "confidence": 0.5787,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalemu",
+          "confidence": 0.5142,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626861,
+    "content_id": "626861",
     "reference_id": 25430,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Onya",
     "media_type": "Text",
     "index_reference": "onya",
@@ -3354,7 +3468,23 @@
           "end_ref_usfm": "NEH 9:34"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Anaiah",
+          "type": "person",
+          "preferred_label": "Anaya",
+          "confidence": 0.8124,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Anaiah.2",
+          "type": "person",
+          "preferred_label": "Anaya",
+          "confidence": 0.8124,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

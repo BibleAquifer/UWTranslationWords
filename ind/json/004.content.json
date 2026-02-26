@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 675690,
+    "content_id": "675690",
     "reference_id": 25544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cacat",
     "media_type": "Text",
     "index_reference": "cacat",
@@ -77,13 +77,14 @@
           "label": "Dosa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 676106,
+    "content_id": "676106",
     "reference_id": 26124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cemar",
     "media_type": "Text",
     "index_reference": "cemar",
@@ -187,13 +188,14 @@
           "label": "Kudus",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 675840,
+    "content_id": "675840",
     "reference_id": 25741,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cemara",
     "media_type": "Text",
     "index_reference": "cemara",
@@ -239,13 +241,22 @@
           "end_ref_usfm": "PSA 104:18"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "flora:PineTree",
+          "type": "flora",
+          "preferred_label": "Aleppo Pine",
+          "confidence": 0.5118,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 675938,
+    "content_id": "675938",
     "reference_id": 25886,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cemburu",
     "media_type": "Text",
     "index_reference": "cemburu",
@@ -364,6 +375,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Iri hati",
           "language": "ind"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Zealous.2",
+          "type": "keyterm",
+          "preferred_label": "cemburu",
+          "confidence": 0.6471,
+          "match_method": "scored"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390937,
+    "content_id": "390937",
     "reference_id": 26011,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "摩弗",
     "media_type": "Text",
     "index_reference": "摩弗",
@@ -33,13 +33,29 @@
           "label": "尼羅河",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Thistle",
+          "type": "flora",
+          "preferred_label": "Thistle",
+          "confidence": 0.55,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:Nettle",
+          "type": "flora",
+          "preferred_label": "Nettle",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390955,
+    "content_id": "390955",
     "reference_id": 26029,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "摩洛",
     "media_type": "Text",
     "index_reference": "摩洛",
@@ -129,13 +145,14 @@
           "label": "雅巍",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390957,
+    "content_id": "390957",
     "reference_id": 26031,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "摩西",
     "media_type": "Text",
     "index_reference": "摩西",
@@ -2213,13 +2230,22 @@
           "label": "十誡",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Moses",
+          "confidence": 0.5477,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390887,
+    "content_id": "390887",
     "reference_id": 25959,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "摩西律法",
     "media_type": "Text",
     "index_reference": "摩西律法",
@@ -3215,13 +3241,14 @@
           "label": "約翰福音 9:14 (#2)",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390952,
+    "content_id": "390952",
     "reference_id": 26026,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "摩押",
     "media_type": "Text",
     "index_reference": "摩押",
@@ -3393,13 +3420,22 @@
           "label": "死海",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Moab",
+          "type": "place",
+          "preferred_label": "Moab",
+          "confidence": 0.5119,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390925,
+    "content_id": "390925",
     "reference_id": 25999,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "抹大拉的馬利亞",
     "media_type": "Text",
     "index_reference": "抹大拉的馬利亞",
@@ -3526,13 +3562,14 @@
           "label": "被鬼附",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390487,
+    "content_id": "390487",
     "reference_id": 25547,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "抹去",
     "media_type": "Text",
     "index_reference": "抹去",
@@ -3620,13 +3657,14 @@
           "end_ref_usfm": "EXO 32:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390956,
+    "content_id": "390956",
     "reference_id": 26030,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "末底改",
     "media_type": "Text",
     "index_reference": "末底改",
@@ -3701,13 +3739,14 @@
           "label": "波斯",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390884,
+    "content_id": "390884",
     "reference_id": 25956,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "末日",
     "media_type": "Text",
     "index_reference": "末日",
@@ -3859,13 +3898,14 @@
           "label": "世界",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390931,
+    "content_id": "390931",
     "reference_id": 26005,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "默想",
     "media_type": "Text",
     "index_reference": "默想",
@@ -3899,7 +3939,8 @@
           "end_ref_usfm": "JOS 1:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

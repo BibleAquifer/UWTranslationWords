@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179971,
+    "content_id": "179971",
     "reference_id": 25904,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ईजेबेल",
     "media_type": "Text",
     "index_reference": "ईजेबेल",
@@ -64,13 +64,29 @@
           "label": "देवता",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jezebel",
+          "type": "person",
+          "preferred_label": "ईजेबेल",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "बाल",
+          "confidence": 0.5389,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179953,
+    "content_id": "179953",
     "reference_id": 25886,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ईर्ष्यालु",
     "media_type": "Text",
     "index_reference": "ईर्ष्यालु",
@@ -190,13 +206,43 @@
           "label": "डाह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Addar",
+          "type": "person",
+          "preferred_label": "अद्दार",
+          "confidence": 0.8189,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Addar",
+          "type": "place",
+          "preferred_label": "अद्दार",
+          "confidence": 0.8189,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Asshurim",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Assyria",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179749,
+    "content_id": "179749",
     "reference_id": 25675,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ईश्वरीय",
     "media_type": "Text",
     "index_reference": "ईश्वरीय",
@@ -283,6 +329,15 @@
           "resource_code": "UWTranslationWords",
           "label": "न्यायी",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "Divine",
+          "confidence": 0.8439,
+          "match_method": "embedding"
         }
       ]
     }

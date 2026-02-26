@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 575781,
+    "content_id": "575781",
     "reference_id": 26362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chachu",
     "media_type": "Text",
     "index_reference": "chachu",
@@ -154,13 +154,14 @@
           "label": "Mkate Usiotiwa Chachu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575459,
+    "content_id": "575459",
     "reference_id": 25695,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chagua",
     "media_type": "Text",
     "index_reference": "chagua",
@@ -533,13 +534,22 @@
           "label": "Kristo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Chosen",
+          "type": "keyterm",
+          "preferred_label": "Chosen",
+          "confidence": 0.6133,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627053,
+    "content_id": "627053",
     "reference_id": 25756,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chemchemi",
     "media_type": "Text",
     "index_reference": "chemchemi",
@@ -737,13 +747,14 @@
           "label": "Gharika",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627271,
+    "content_id": "627271",
     "reference_id": 26138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chokoza",
     "media_type": "Text",
     "index_reference": "chokoza",
@@ -801,13 +812,14 @@
           "end_ref_usfm": "EZK 20:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 627165,
+    "content_id": "627165",
     "reference_id": 25964,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chui",
     "media_type": "Text",
     "index_reference": "chui",
@@ -876,13 +888,22 @@
           "label": "Mawindo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Leopard",
+          "type": "fauna",
+          "preferred_label": "Leopard",
+          "confidence": 0.632,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575354,
+    "content_id": "575354",
     "reference_id": 25423,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chukizo",
     "media_type": "Text",
     "index_reference": "chukizo",
@@ -1138,13 +1159,14 @@
           "label": "Mungu wa Uongo",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627118,
+    "content_id": "627118",
     "reference_id": 25875,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chuma",
     "media_type": "Text",
     "index_reference": "chuma",
@@ -1161,7 +1183,8 @@
           "label": "Silaha",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

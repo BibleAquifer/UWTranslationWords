@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180037,
+    "content_id": "180037",
     "reference_id": 25972,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कटी",
     "media_type": "Text",
     "index_reference": "कटी",
@@ -147,13 +147,14 @@
           "label": "कमर कसना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179891,
+    "content_id": "179891",
     "reference_id": 25821,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कठोर",
     "media_type": "Text",
     "index_reference": "कठोर",
@@ -355,13 +356,14 @@
           "end_ref_usfm": "REV 2:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 182419,
+    "content_id": "182419",
     "reference_id": 25820,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कठोर-अडिग",
     "media_type": "Text",
     "index_reference": "कठोर-अडिग",
@@ -378,13 +380,14 @@
           "label": "बुराई",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179651,
+    "content_id": "179651",
     "reference_id": 25572,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कनान",
     "media_type": "Text",
     "index_reference": "कनान",
@@ -895,13 +898,36 @@
           "label": "प्रतिज्ञा का देश",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "कनान",
+          "confidence": 0.9407,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Canaan",
+          "type": "group",
+          "preferred_label": "कनानी",
+          "confidence": 0.7235,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Canaan",
+          "type": "person",
+          "preferred_label": "कनान",
+          "confidence": 0.6346,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179929,
+    "content_id": "179929",
     "reference_id": 25861,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कपटी",
     "media_type": "Text",
     "index_reference": "कपटी",
@@ -1079,13 +1105,14 @@
           "end_ref_usfm": "MAT 6:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179652,
+    "content_id": "179652",
     "reference_id": 25573,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कफरनहूम",
     "media_type": "Text",
     "index_reference": "कफरनहूम",
@@ -1224,13 +1251,22 @@
           "label": "गलील सागर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Capernaum",
+          "type": "place",
+          "preferred_label": "कफरनहूम",
+          "confidence": 0.9368,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180360,
+    "content_id": "180360",
     "reference_id": 26307,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कब्र",
     "media_type": "Text",
     "index_reference": "कब्र",
@@ -1656,13 +1692,29 @@
           "label": "मिट्टी देना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Chebar",
+          "type": "place",
+          "preferred_label": "कबार",
+          "confidence": 0.9817,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Grave",
+          "type": "realia",
+          "preferred_label": "Grave",
+          "confidence": 0.809,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179854,
+    "content_id": "179854",
     "reference_id": 25783,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कमर कसना",
     "media_type": "Text",
     "index_reference": "कमर कसना",
@@ -1776,13 +1828,14 @@
           "label": "कटी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180335,
+    "content_id": "180335",
     "reference_id": 26282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कर",
     "media_type": "Text",
     "index_reference": "कर",
@@ -2078,13 +2131,14 @@
           "label": "पाप",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180371,
+    "content_id": "180371",
     "reference_id": 26318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कर",
     "media_type": "Text",
     "index_reference": "कर",
@@ -2189,13 +2243,14 @@
           "label": "कर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180393,
+    "content_id": "180393",
     "reference_id": 26341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "करकट",
     "media_type": "Text",
     "index_reference": "करकट",
@@ -2265,13 +2320,14 @@
           "end_ref_usfm": "ZEC 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179679,
+    "content_id": "179679",
     "reference_id": 25600,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "करना",
     "media_type": "Text",
     "index_reference": "करना",
@@ -2386,13 +2442,29 @@
           "label": "पाप",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cherith",
+          "type": "place",
+          "preferred_label": "करीत",
+          "confidence": 0.8421,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Cherethite",
+          "type": "group",
+          "preferred_label": "करेती",
+          "confidence": 0.8216,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179664,
+    "content_id": "179664",
     "reference_id": 25585,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "करूब",
     "media_type": "Text",
     "index_reference": "करूब",
@@ -2518,13 +2590,22 @@
           "label": "स्वर्गदूत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:WingedCreature",
+          "type": "realia",
+          "preferred_label": "Winged Creature",
+          "confidence": 0.5162,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179663,
+    "content_id": "179663",
     "reference_id": 25584,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "करेतियों",
     "media_type": "Text",
     "index_reference": "करेतियों",
@@ -2569,13 +2650,36 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Cherethite",
+          "type": "group",
+          "preferred_label": "करेती",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "पलिश्ती",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "कनान",
+          "confidence": 0.58,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179654,
+    "content_id": "179654",
     "reference_id": 25575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कर्मेल",
     "media_type": "Text",
     "index_reference": "कर्मेल",
@@ -2638,13 +2742,29 @@
           "label": "खारा ताल",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Carmel",
+          "type": "place",
+          "preferred_label": "कर्मेल",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:CarmelMount",
+          "type": "place",
+          "preferred_label": "कर्मेल पर्वत",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180318,
+    "content_id": "180318",
     "reference_id": 26264,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कलह",
     "media_type": "Text",
     "index_reference": "कलह",
@@ -2900,13 +3020,14 @@
           "end_ref_usfm": "PSA 55:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179669,
+    "content_id": "179669",
     "reference_id": 25590,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कलीसिया",
     "media_type": "Text",
     "index_reference": "कलीसिया",
@@ -3562,13 +3683,22 @@
           "label": "मसीही विश्वासी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 0.5462,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179661,
+    "content_id": "179661",
     "reference_id": 25582,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कसदी",
     "media_type": "Text",
     "index_reference": "कसदी",
@@ -3685,13 +3815,22 @@
           "label": "ऊर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Chaldea",
+          "type": "group",
+          "preferred_label": "कसदियों",
+          "confidence": 0.8286,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180352,
+    "content_id": "180352",
     "reference_id": 26299,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "काँटा",
     "media_type": "Text",
     "index_reference": "काँटा",
@@ -3849,13 +3988,14 @@
           "label": "आत्मा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180366,
+    "content_id": "180366",
     "reference_id": 26313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कांपना",
     "media_type": "Text",
     "index_reference": "कांपना",
@@ -4091,13 +4231,14 @@
           "label": "प्रभु",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180000,
+    "content_id": "180000",
     "reference_id": 25933,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कादेश",
     "media_type": "Text",
     "index_reference": "कादेश",
@@ -4171,13 +4312,22 @@
           "label": "पवित्र",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kedesh",
+          "type": "place",
+          "preferred_label": "केदेश",
+          "confidence": 0.885,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179650,
+    "content_id": "179650",
     "reference_id": 25571,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "काना",
     "media_type": "Text",
     "index_reference": "काना",
@@ -4245,13 +4395,22 @@
           "label": "बारहों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cana",
+          "type": "place",
+          "preferred_label": "काना",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179869,
+    "content_id": "179869",
     "reference_id": 25798,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कानाफूसी",
     "media_type": "Text",
     "index_reference": "कानाफूसी",
@@ -4305,13 +4464,14 @@
           "label": "बदनामी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179648,
+    "content_id": "179648",
     "reference_id": 25566,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कालेब",
     "media_type": "Text",
     "index_reference": "कालेब",
@@ -4360,13 +4520,22 @@
           "label": "यहोशू",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Caleb",
+          "type": "person",
+          "preferred_label": "कालेब",
+          "confidence": 0.6214,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180003,
+    "content_id": "180003",
     "reference_id": 25936,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "किद्रोन नाला",
     "media_type": "Text",
     "index_reference": "किद्रोन नाला",
@@ -4453,13 +4622,22 @@
           "label": "जैतून पर्वत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kidron",
+          "type": "place",
+          "preferred_label": "किद्रोन",
+          "confidence": 0.85,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179670,
+    "content_id": "179670",
     "reference_id": 25591,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "किलिकिया",
     "media_type": "Text",
     "index_reference": "किलिकिया",
@@ -4545,13 +4723,43 @@
           "label": "तरसुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cilicia",
+          "type": "place",
+          "preferred_label": "किलिकिया",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Lycia",
+          "type": "place",
+          "preferred_label": "लूसिया",
+          "confidence": 0.5386,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Julius",
+          "type": "person",
+          "preferred_label": "यूलियुस",
+          "confidence": 0.5386,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Pamphylia",
+          "type": "place",
+          "preferred_label": "पंफूलिया",
+          "confidence": 0.5161,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180227,
+    "content_id": "180227",
     "reference_id": 26169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कीर्ति",
     "media_type": "Text",
     "index_reference": "कीर्ति",
@@ -4581,13 +4789,14 @@
           "label": "आदर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180263,
+    "content_id": "180263",
     "reference_id": 26205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुंडली ग्रन्थ",
     "media_type": "Text",
     "index_reference": "कुंडली ग्रन्थ",
@@ -4757,13 +4966,22 @@
           "label": "परमेश्‍वर का वचन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.5405,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180390,
+    "content_id": "180390",
     "reference_id": 26337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुँवारी",
     "media_type": "Text",
     "index_reference": "कुँवारी",
@@ -4928,13 +5146,14 @@
           "label": "मरियम",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179925,
+    "content_id": "179925",
     "reference_id": 25857,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुटुम्ब",
     "media_type": "Text",
     "index_reference": "कुटुम्ब",
@@ -5139,13 +5358,14 @@
           "label": "घर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180004,
+    "content_id": "180004",
     "reference_id": 25937,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुटुम्बी",
     "media_type": "Text",
     "index_reference": "कुटुम्बी",
@@ -5269,13 +5489,14 @@
           "end_ref_usfm": "ROM 16:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 180396,
+    "content_id": "180396",
     "reference_id": 26344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुण्ड",
     "media_type": "Text",
     "index_reference": "कुण्ड",
@@ -5492,13 +5713,14 @@
           "label": "कलह",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179692,
+    "content_id": "179692",
     "reference_id": 25613,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुरनेलियुस",
     "media_type": "Text",
     "index_reference": "कुरनेलियुस",
@@ -5617,13 +5839,22 @@
           "label": "यूनानी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cornelius",
+          "type": "person",
+          "preferred_label": "कुरनेलियुस",
+          "confidence": 0.8909,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179691,
+    "content_id": "179691",
     "reference_id": 25612,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुरिन्थुस",
     "media_type": "Text",
     "index_reference": "कुरिन्थुस",
@@ -5721,13 +5952,50 @@
           "label": "तीतुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Corinth",
+          "type": "place",
+          "preferred_label": "कुरिन्थुस",
+          "confidence": 0.8462,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Corinth",
+          "type": "group",
+          "preferred_label": "कुरिन्थ वासी",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Crispus",
+          "type": "person",
+          "preferred_label": "क्रिस्पुस",
+          "confidence": 0.5543,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "प्रिस्किल्ला",
+          "confidence": 0.5318,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Linus",
+          "type": "person",
+          "preferred_label": "लीनुस",
+          "confidence": 0.5183,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179715,
+    "content_id": "179715",
     "reference_id": 25638,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुरेन",
     "media_type": "Text",
     "index_reference": "कुरेन",
@@ -5799,13 +6067,36 @@
           "label": "क्रेते",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Cyrene",
+          "type": "place",
+          "preferred_label": "कुरेने",
+          "confidence": 0.8545,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Phoenicia",
+          "type": "place",
+          "preferred_label": "फीनीके",
+          "confidence": 0.5464,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Antioch",
+          "type": "place",
+          "preferred_label": "अन्ताकिया",
+          "confidence": 0.5381,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180377,
+    "content_id": "180377",
     "reference_id": 26324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुर्ता",
     "media_type": "Text",
     "index_reference": "कुर्ता",
@@ -6015,13 +6306,14 @@
           "label": "बागा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179674,
+    "content_id": "179674",
     "reference_id": 25595,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुल",
     "media_type": "Text",
     "index_reference": "कुल",
@@ -6191,13 +6483,22 @@
           "label": "गोत्र",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Amalek",
+          "type": "person",
+          "preferred_label": "अमालेक",
+          "confidence": 0.6133,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180140,
+    "content_id": "180140",
     "reference_id": 26078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुलपति",
     "media_type": "Text",
     "index_reference": "कुलपति",
@@ -6267,13 +6568,14 @@
           "end_ref_usfm": "EZR 3:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179676,
+    "content_id": "179676",
     "reference_id": 25597,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुलुस्से",
     "media_type": "Text",
     "index_reference": "कुलुस्से",
@@ -6310,13 +6612,29 @@
           "label": "पौलुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Colossae",
+          "type": "place",
+          "preferred_label": "कुलुस्से",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "यीशु",
+          "confidence": 0.5125,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179583,
+    "content_id": "179583",
     "reference_id": 25495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुल्हाड़ा",
     "media_type": "Text",
     "index_reference": "कुल्हाड़ा",
@@ -6362,13 +6680,14 @@
           "end_ref_usfm": "1KI 6:8"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179716,
+    "content_id": "179716",
     "reference_id": 25639,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कुस्रू",
     "media_type": "Text",
     "index_reference": "कुस्रू",
@@ -6504,13 +6823,29 @@
           "label": "फारस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "कुस्रू",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "फारस",
+          "confidence": 0.6648,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179711,
+    "content_id": "179711",
     "reference_id": 25634,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कूश",
     "media_type": "Text",
     "index_reference": "कूश",
@@ -6597,13 +6932,36 @@
           "label": "कूश",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cush.2",
+          "type": "person",
+          "preferred_label": "कूश",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Cush",
+          "type": "place",
+          "preferred_label": "कूश",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheba",
+          "type": "person",
+          "preferred_label": "शेबा",
+          "confidence": 0.5404,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179786,
+    "content_id": "179786",
     "reference_id": 25713,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कूश",
     "media_type": "Text",
     "index_reference": "कूश",
@@ -6696,13 +7054,29 @@
           "label": "फिलिप्पुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ethiopia",
+          "type": "place",
+          "preferred_label": "कूश",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ethiopia",
+          "type": "group",
+          "preferred_label": "कूशी",
+          "confidence": 0.6286,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180033,
+    "content_id": "180033",
     "reference_id": 25968,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "के समान",
     "media_type": "Text",
     "index_reference": "के समान",
@@ -10551,13 +10925,22 @@
           "label": "नाश होना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cain",
+          "type": "person",
+          "preferred_label": "कैन",
+          "confidence": 0.6006,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180001,
+    "content_id": "180001",
     "reference_id": 25934,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "केदार",
     "media_type": "Text",
     "index_reference": "केदार",
@@ -10608,13 +10991,29 @@
           "label": "बलिदान करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Kedar",
+          "type": "person",
+          "preferred_label": "केदार",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nebaioth",
+          "type": "person",
+          "preferred_label": "नबायोत",
+          "confidence": 0.512,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180002,
+    "content_id": "180002",
     "reference_id": 25935,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "केदेश",
     "media_type": "Text",
     "index_reference": "केदेश",
@@ -10699,13 +11098,29 @@
           "label": "शेकेम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kedesh",
+          "type": "place",
+          "preferred_label": "केदेश",
+          "confidence": 0.7167,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Daberath",
+          "type": "place",
+          "preferred_label": "दाबरात",
+          "confidence": 0.5308,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179647,
+    "content_id": "179647",
     "reference_id": 25565,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कैन",
     "media_type": "Text",
     "index_reference": "कैन",
@@ -10826,13 +11241,29 @@
           "label": "बलिदान करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Cain",
+          "type": "person",
+          "preferred_label": "कैन",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Enoch",
+          "type": "person",
+          "preferred_label": "हनोक",
+          "confidence": 0.562,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179646,
+    "content_id": "179646",
     "reference_id": 25564,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कैफा",
     "media_type": "Text",
     "index_reference": "कैफा",
@@ -10935,13 +11366,22 @@
           "label": "महायाजक",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Caiaphas",
+          "type": "person",
+          "preferred_label": "कैफा",
+          "confidence": 0.84,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179644,
+    "content_id": "179644",
     "reference_id": 25562,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कैसर",
     "media_type": "Text",
     "index_reference": "कैसर",
@@ -11129,13 +11569,22 @@
           "label": "रोम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Caesarea",
+          "type": "place",
+          "preferred_label": "कैसरिया",
+          "confidence": 0.8375,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179645,
+    "content_id": "179645",
     "reference_id": 25563,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कैसरिया",
     "media_type": "Text",
     "index_reference": "कैसरिया",
@@ -11315,13 +11764,22 @@
           "label": "तरसुस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Caesarea",
+          "type": "place",
+          "preferred_label": "कैसरिया",
+          "confidence": 0.8727,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179693,
+    "content_id": "179693",
     "reference_id": 25614,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कोने का पत्थर",
     "media_type": "Text",
     "index_reference": "कोने का पत्थर",
@@ -11379,13 +11837,22 @@
           "end_ref_usfm": "1PE 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Cornerstone",
+          "type": "realia",
+          "preferred_label": "Cornerstone",
+          "confidence": 0.536,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 180013,
+    "content_id": "180013",
     "reference_id": 25947,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "कोरह",
     "media_type": "Text",
     "index_reference": "कोरह",
@@ -11510,6 +11977,36 @@
           "resource_code": "UWTranslationWords",
           "label": "याजक",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Korah.3",
+          "type": "person",
+          "preferred_label": "कोरह",
+          "confidence": 0.7053,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Korah",
+          "type": "person",
+          "preferred_label": "कोरह",
+          "confidence": 0.6842,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Korah.2",
+          "type": "person",
+          "preferred_label": "कोरह",
+          "confidence": 0.6211,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Zerah",
+          "type": "person",
+          "preferred_label": "जेरह",
+          "confidence": 0.5086,
+          "match_method": "scored"
         }
       ]
     }

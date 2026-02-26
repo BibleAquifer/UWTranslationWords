@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390915,
+    "content_id": "390915",
     "reference_id": 25989,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "威嚴",
     "media_type": "Text",
     "index_reference": "威嚴",
@@ -110,13 +110,22 @@
           "label": "王",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Glory",
+          "type": "keyterm",
+          "preferred_label": "Glory",
+          "confidence": 0.8034,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391155,
+    "content_id": "391155",
     "reference_id": 26233,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "圍攻",
     "media_type": "Text",
     "index_reference": "圍攻",
@@ -150,13 +159,14 @@
           "end_ref_usfm": "1KI 20:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 391232,
+    "content_id": "391232",
     "reference_id": 26312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "違背",
     "media_type": "Text",
     "index_reference": "違背",
@@ -398,13 +408,14 @@
           "label": "侵害",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390945,
+    "content_id": "390945",
     "reference_id": 26019,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "偉大",
     "media_type": "Text",
     "index_reference": "偉大",
@@ -825,13 +836,14 @@
           "label": "神蹟",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390710,
+    "content_id": "390710",
     "reference_id": 25777,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "偉人",
     "media_type": "Text",
     "index_reference": "偉人",
@@ -875,7 +887,8 @@
           "label": "非利士人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

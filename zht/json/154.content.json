@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391121,
+    "content_id": "391121",
     "reference_id": 26199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒但",
     "media_type": "Text",
     "index_reference": "撒但",
@@ -503,13 +503,14 @@
           "label": "試探",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391111,
+    "content_id": "391111",
     "reference_id": 26189,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒都該人",
     "media_type": "Text",
     "index_reference": "撒都該人",
@@ -658,13 +659,22 @@
           "label": "祭司",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Sadducee",
+          "type": "group",
+          "preferred_label": "Sadducees",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391285,
+    "content_id": "391285",
     "reference_id": 26365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒督",
     "media_type": "Text",
     "index_reference": "撒督",
@@ -783,13 +793,14 @@
           "label": "所羅門",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391284,
+    "content_id": "391284",
     "reference_id": 26364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒該",
     "media_type": "Text",
     "index_reference": "撒該",
@@ -859,13 +870,14 @@
           "label": "稅",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391290,
+    "content_id": "391290",
     "reference_id": 26370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒迦利亞 （舊約）",
     "media_type": "Text",
     "index_reference": "撒迦利亞 （舊約）",
@@ -1014,13 +1026,14 @@
           "label": "所羅巴伯",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391289,
+    "content_id": "391289",
     "reference_id": 26369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒迦利亞 NT",
     "media_type": "Text",
     "index_reference": "撒迦利亞 NT",
@@ -1130,13 +1143,14 @@
           "label": "先知",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391120,
+    "content_id": "391120",
     "reference_id": 26198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒拉",
     "media_type": "Text",
     "index_reference": "撒拉",
@@ -1449,13 +1463,22 @@
           "label": "以撒",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sarah",
+          "confidence": 0.5337,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391137,
+    "content_id": "391137",
     "reference_id": 26215,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒拉弗",
     "media_type": "Text",
     "index_reference": "撒拉弗",
@@ -1472,13 +1495,22 @@
           "label": "天使",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Saraph",
+          "type": "person",
+          "preferred_label": "Saraph",
+          "confidence": 0.842,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391114,
+    "content_id": "391114",
     "reference_id": 26192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒馬利亞",
     "media_type": "Text",
     "index_reference": "撒馬利亞",
@@ -1686,13 +1718,29 @@
           "label": "沙崙",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Samaria",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.8808,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Samaria.2",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 0.8808,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391116,
+    "content_id": "391116",
     "reference_id": 26194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒母耳",
     "media_type": "Text",
     "index_reference": "撒母耳",
@@ -1773,13 +1821,14 @@
           "label": "雅巍",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391176,
+    "content_id": "391176",
     "reference_id": 26255,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒種",
     "media_type": "Text",
     "index_reference": "撒種",
@@ -2109,7 +2158,8 @@
           "label": "收成",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 369021,
+    "content_id": "369021",
     "reference_id": 26080,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "平安",
     "media_type": "Text",
     "index_reference": "平安",
@@ -762,13 +762,22 @@
           "end_ref_usfm": "COL 1:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:IntactState",
+          "type": "keyterm",
+          "preferred_label": "Peace",
+          "confidence": 0.8542,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 390672,
+    "content_id": "390672",
     "reference_id": 25738,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "平安祭",
     "media_type": "Text",
     "index_reference": "平安祭",
@@ -865,13 +874,14 @@
           "label": "無酵餅",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391006,
+    "content_id": "391006",
     "reference_id": 26081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "平安祭",
     "media_type": "Text",
     "index_reference": "平安祭",
@@ -991,7 +1001,8 @@
           "label": "無酵餅",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390970,
+    "content_id": "390970",
     "reference_id": 26044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "國家",
     "media_type": "Text",
     "index_reference": "國家",
@@ -825,13 +825,22 @@
           "label": "羅馬城",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Stater",
+          "type": "realia",
+          "preferred_label": "Stater",
+          "confidence": 0.8122,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390694,
+    "content_id": "390694",
     "reference_id": 25760,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "果子",
     "media_type": "Text",
     "index_reference": "果子",
@@ -1586,7 +1595,8 @@
           "label": "子宮",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

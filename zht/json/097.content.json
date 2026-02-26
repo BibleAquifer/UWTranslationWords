@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390539,
+    "content_id": "390539",
     "reference_id": 25602,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "憐憫",
     "media_type": "Text",
     "index_reference": "憐憫",
@@ -204,13 +204,22 @@
           "end_ref_usfm": "JAS 5:11"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "Mercy",
+          "confidence": 0.8145,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 390938,
+    "content_id": "390938",
     "reference_id": 26012,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "憐憫",
     "media_type": "Text",
     "index_reference": "憐憫",
@@ -678,6 +687,15 @@
           "resource_code": "UWTranslationWords",
           "label": "饒恕",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "Mercy",
+          "confidence": 0.8145,
+          "match_method": "embedding"
         }
       ]
     }

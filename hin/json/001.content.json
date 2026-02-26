@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 180073,
+    "content_id": "180073",
     "reference_id": 26009,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अंग",
     "media_type": "Text",
     "index_reference": "अंग",
@@ -183,13 +183,14 @@
           "label": "फरीसी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179874,
+    "content_id": "179874",
     "reference_id": 25803,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अंगूर",
     "media_type": "Text",
     "index_reference": "अंगूर",
@@ -299,13 +300,14 @@
           "label": "दाखरस",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179813,
+    "content_id": "179813",
     "reference_id": 25740,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अंजीर",
     "media_type": "Text",
     "index_reference": "अंजीर",
@@ -465,13 +467,22 @@
           "end_ref_usfm": "REV 6:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "flora:Fig",
+          "type": "flora",
+          "preferred_label": "Fig",
+          "confidence": 0.5695,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 179805,
+    "content_id": "179805",
     "reference_id": 25732,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अकाल",
     "media_type": "Text",
     "index_reference": "अकाल",
@@ -697,13 +708,14 @@
           "end_ref_usfm": "1CH 21:12"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179556,
+    "content_id": "179556",
     "reference_id": 25468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अक्विला",
     "media_type": "Text",
     "index_reference": "अक्विला",
@@ -789,13 +801,29 @@
           "label": "रोम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "अक्विला",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "प्रिस्किल्ला",
+          "confidence": 0.6067,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180381,
+    "content_id": "180381",
     "reference_id": 26328,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अख़मीरी रोटी",
     "media_type": "Text",
     "index_reference": "अख़मीरी रोटी",
@@ -1023,13 +1051,14 @@
           "label": "ख़मीर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179866,
+    "content_id": "179866",
     "reference_id": 25795,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अच्छा",
     "media_type": "Text",
     "index_reference": "अच्छा",
@@ -3275,13 +3304,22 @@
           "label": "धर्मी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Good",
+          "type": "keyterm",
+          "preferred_label": "Good",
+          "confidence": 0.8569,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179584,
+    "content_id": "179584",
     "reference_id": 25496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अजर्याह",
     "media_type": "Text",
     "index_reference": "अजर्याह",
@@ -3364,13 +3402,71 @@
           "label": "उज्जियाह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Azariah.20",
+          "type": "person",
+          "preferred_label": "अजर्याह",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Azariah.2",
+          "type": "person",
+          "preferred_label": "अजर्याह",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Azariah.5",
+          "type": "person",
+          "preferred_label": "अजर्याह",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Azariah.8",
+          "type": "person",
+          "preferred_label": "अजर्याह",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jehu.3",
+          "type": "person",
+          "preferred_label": "येहू",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jezaniah",
+          "type": "person",
+          "preferred_label": "याजन्याह",
+          "confidence": 0.5632,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hoshaiah.2",
+          "type": "person",
+          "preferred_label": "होशायाह",
+          "confidence": 0.5542,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hananiah.15",
+          "type": "person",
+          "preferred_label": "हनन्याह",
+          "confidence": 0.5533,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179577,
+    "content_id": "179577",
     "reference_id": 25489,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अतल्याह",
     "media_type": "Text",
     "index_reference": "अतल्याह",
@@ -3433,13 +3529,43 @@
           "label": "ओम्री",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Athaliah",
+          "type": "person",
+          "preferred_label": "अतल्याह",
+          "confidence": 0.84,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Athaliah.3",
+          "type": "person",
+          "preferred_label": "अतल्याह",
+          "confidence": 0.68,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahaziah.2",
+          "type": "person",
+          "preferred_label": "अहज्याह",
+          "confidence": 0.5495,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jeshaiah.4",
+          "type": "person",
+          "preferred_label": "यशायाह",
+          "confidence": 0.5315,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179516,
+    "content_id": "179516",
     "reference_id": 25426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अथाह कुण्ड",
     "media_type": "Text",
     "index_reference": "अथाह कुण्ड",
@@ -3531,13 +3657,22 @@
           "label": "दण्ड देना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Abyss",
+          "type": "keyterm",
+          "preferred_label": "Abyss",
+          "confidence": 0.5955,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179762,
+    "content_id": "179762",
     "reference_id": 25688,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अदन",
     "media_type": "Text",
     "index_reference": "अदन",
@@ -3629,13 +3764,64 @@
           "label": "हव्वा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eden",
+          "type": "person",
+          "preferred_label": "अदन",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eden.2",
+          "type": "person",
+          "preferred_label": "अदन",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Eden",
+          "type": "place",
+          "preferred_label": "अदन",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adna",
+          "type": "person",
+          "preferred_label": "अदना",
+          "confidence": 0.9267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adna.2",
+          "type": "person",
+          "preferred_label": "अदना",
+          "confidence": 0.9267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adnah",
+          "type": "person",
+          "preferred_label": "अदनह",
+          "confidence": 0.8325,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adnah.2",
+          "type": "person",
+          "preferred_label": "अदनह",
+          "confidence": 0.8325,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179521,
+    "content_id": "179521",
     "reference_id": 25431,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अदोनिय्याह",
     "media_type": "Text",
     "index_reference": "अदोनिय्याह",
@@ -3666,13 +3852,36 @@
           "label": "सुलैमान",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Adonijah.3",
+          "type": "person",
+          "preferred_label": "अदोनिय्याह",
+          "confidence": 1.0,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Adin.2",
+          "type": "person",
+          "preferred_label": "आदीन",
+          "confidence": 0.775,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Bigvai.3",
+          "type": "person",
+          "preferred_label": "बिगवै",
+          "confidence": 0.6265,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179936,
+    "content_id": "179936",
     "reference_id": 25868,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अधर्म",
     "media_type": "Text",
     "index_reference": "अधर्म",
@@ -3956,13 +4165,22 @@
           "label": "अपराध",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ahuzzath",
+          "type": "person",
+          "preferred_label": "अहुज्जत",
+          "confidence": 0.8349,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179803,
+    "content_id": "179803",
     "reference_id": 25730,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अधर्मी साक्षी",
     "media_type": "Text",
     "index_reference": "अधर्मी साक्षी",
@@ -4064,13 +4282,14 @@
           "label": "गवाही",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180175,
+    "content_id": "180175",
     "reference_id": 26114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अधिकार में लेना",
     "media_type": "Text",
     "index_reference": "अधिकार में लेना",
@@ -4438,13 +4657,14 @@
           "label": "दंडवत करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179580,
+    "content_id": "179580",
     "reference_id": 25492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अधिकारी",
     "media_type": "Text",
     "index_reference": "अधिकारी",
@@ -5100,13 +5320,22 @@
           "label": "शासन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Authority.2",
+          "type": "keyterm",
+          "preferred_label": "Authority",
+          "confidence": 0.5081,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179935,
+    "content_id": "179935",
     "reference_id": 25867,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अधिकारी होना",
     "media_type": "Text",
     "index_reference": "अधिकारी होना",
@@ -5529,13 +5758,14 @@
           "label": "प्रतिज्ञा का देश",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180322,
+    "content_id": "180322",
     "reference_id": 26269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अधीन",
     "media_type": "Text",
     "index_reference": "अधीन",
@@ -5691,13 +5921,43 @@
           "label": "अधीन होना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Tahath",
+          "type": "person",
+          "preferred_label": "तहत",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tahath.2",
+          "type": "person",
+          "preferred_label": "तहत",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tahath.3",
+          "type": "person",
+          "preferred_label": "तहत",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tahath",
+          "type": "place",
+          "preferred_label": "तहत",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180323,
+    "content_id": "180323",
     "reference_id": 26270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अधीन होना",
     "media_type": "Text",
     "index_reference": "अधीन होना",
@@ -5773,13 +6033,14 @@
           "end_ref_usfm": "1PE 5:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179880,
+    "content_id": "179880",
     "reference_id": 25809,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अधोलोक",
     "media_type": "Text",
     "index_reference": "अधोलोक",
@@ -5883,13 +6144,22 @@
           "label": "कब्र",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:WorldOfTheDead",
+          "type": "keyterm",
+          "preferred_label": "World of the Dead",
+          "confidence": 0.5598,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 182401,
+    "content_id": "182401",
     "reference_id": 25457,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अनाक",
     "media_type": "Text",
     "index_reference": "अनाक",
@@ -5906,13 +6176,50 @@
           "label": "हेब्रोन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Anak",
+          "type": "person",
+          "preferred_label": "अनाक",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Azbuk",
+          "type": "person",
+          "preferred_label": "अजबूक",
+          "confidence": 0.8689,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahishar",
+          "type": "person",
+          "preferred_label": "अहीशार",
+          "confidence": 0.83,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashhur",
+          "type": "person",
+          "preferred_label": "अशहूर",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Athach",
+          "type": "place",
+          "preferred_label": "अताक",
+          "confidence": 0.8102,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 182415,
+    "content_id": "182415",
     "reference_id": 25671,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अनादर-वस्तु",
     "media_type": "Text",
     "index_reference": "अनादर-वस्तु",
@@ -5929,13 +6236,14 @@
           "label": "आदर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180173,
+    "content_id": "180173",
     "reference_id": 26112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अनार",
     "media_type": "Text",
     "index_reference": "अनार",
@@ -6035,13 +6343,14 @@
           "label": "मन्दिर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179807,
+    "content_id": "179807",
     "reference_id": 25734,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अनुग्रह",
     "media_type": "Text",
     "index_reference": "अनुग्रह",
@@ -6483,13 +6792,14 @@
           "end_ref_usfm": "1SA 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 179871,
+    "content_id": "179871",
     "reference_id": 25800,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अनुग्रह",
     "media_type": "Text",
     "index_reference": "अनुग्रह",
@@ -7285,13 +7595,22 @@
           "end_ref_usfm": "GEN 43:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Favor",
+          "type": "keyterm",
+          "preferred_label": "Favor",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 179942,
+    "content_id": "179942",
     "reference_id": 25874,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अनुवाद करना",
     "media_type": "Text",
     "index_reference": "अनुवाद करना",
@@ -7517,13 +7836,14 @@
           "label": "दर्शन",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179552,
+    "content_id": "179552",
     "reference_id": 25464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अन्ताकिया",
     "media_type": "Text",
     "index_reference": "अन्ताकिया",
@@ -7703,13 +8023,29 @@
           "label": "सीरिया",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Antioch",
+          "type": "place",
+          "preferred_label": "अन्ताकिया",
+          "confidence": 0.8435,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Antioch.2",
+          "type": "place",
+          "preferred_label": "अन्ताकिया",
+          "confidence": 0.6522,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180021,
+    "content_id": "180021",
     "reference_id": 25956,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अन्तिम दिन",
     "media_type": "Text",
     "index_reference": "अन्तिम दिन",
@@ -7861,13 +8197,14 @@
           "label": "संसार",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179546,
+    "content_id": "179546",
     "reference_id": 25458,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अन्द्रियास",
     "media_type": "Text",
     "index_reference": "अन्द्रियास",
@@ -8007,13 +8344,22 @@
           "label": "बारहों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Andrew",
+          "type": "person",
+          "preferred_label": "अन्द्रियास",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179872,
+    "content_id": "179872",
     "reference_id": 25801,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अन्न",
     "media_type": "Text",
     "index_reference": "अन्न",
@@ -8349,13 +8695,14 @@
           "label": "गेहूँ",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179873,
+    "content_id": "179873",
     "reference_id": 25802,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अन्नबलि",
     "media_type": "Text",
     "index_reference": "अन्नबलि",
@@ -8448,13 +8795,14 @@
           "label": "पापबलि",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180066,
+    "content_id": "180066",
     "reference_id": 26002,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अन्नबलि",
     "media_type": "Text",
     "index_reference": "अन्नबलि",
@@ -8498,13 +8846,14 @@
           "label": "बलिदान करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179844,
+    "content_id": "179844",
     "reference_id": 25773,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अन्यजाति",
     "media_type": "Text",
     "index_reference": "अन्यजाति",
@@ -9052,13 +9401,22 @@
           "label": "यहूदी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "अन्यजाति",
+          "confidence": 0.77,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180132,
+    "content_id": "180132",
     "reference_id": 26070,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अन्यजाति",
     "media_type": "Text",
     "index_reference": "अन्यजाति",
@@ -9140,13 +9498,22 @@
           "label": "यहोवा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "अन्यजाति",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180367,
+    "content_id": "180367",
     "reference_id": 26314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अपराध",
     "media_type": "Text",
     "index_reference": "अपराध",
@@ -9286,13 +9653,14 @@
           "label": "उल्लंघन करना",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179553,
+    "content_id": "179553",
     "reference_id": 25465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अपुल्लोस",
     "media_type": "Text",
     "index_reference": "अपुल्लोस",
@@ -9403,13 +9771,29 @@
           "label": "परमेश्‍वर का वचन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Apollos",
+          "type": "person",
+          "preferred_label": "अपुल्लोस",
+          "confidence": 0.9333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "पौलुस",
+          "confidence": 0.6095,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179515,
+    "content_id": "179515",
     "reference_id": 25425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अबशालोम",
     "media_type": "Text",
     "index_reference": "अबशालोम",
@@ -9470,13 +9854,22 @@
           "label": "गशूर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Absalom",
+          "type": "person",
+          "preferred_label": "अबशालोम",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179510,
+    "content_id": "179510",
     "reference_id": 25420,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अबिय्याह",
     "media_type": "Text",
     "index_reference": "अबिय्याह",
@@ -9540,13 +9933,43 @@
           "end_ref_usfm": "1SA 8:3"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abijah.7",
+          "type": "person",
+          "preferred_label": "अबिय्याह",
+          "confidence": 0.7091,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abijah.4",
+          "type": "person",
+          "preferred_label": "अबिय्याह",
+          "confidence": 0.7091,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abijah.2",
+          "type": "person",
+          "preferred_label": "अबिय्याह",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Abijah.6",
+          "type": "person",
+          "preferred_label": "अबिय्याह",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 179511,
+    "content_id": "179511",
     "reference_id": 25421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अबीमेलेक",
     "media_type": "Text",
     "index_reference": "अबीमेलेक",
@@ -9748,13 +10171,29 @@
           "label": "गिदोन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Abimelech",
+          "type": "person",
+          "preferred_label": "अबीमेलेक",
+          "confidence": 0.9538,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Phicol",
+          "type": "person",
+          "preferred_label": "पीकोल",
+          "confidence": 0.5337,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179512,
+    "content_id": "179512",
     "reference_id": 25422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अब्नेर",
     "media_type": "Text",
     "index_reference": "अब्नेर",
@@ -9794,13 +10233,29 @@
           "end_ref_usfm": "1SA 17:56"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abner",
+          "type": "person",
+          "preferred_label": "अब्नेर",
+          "confidence": 0.6722,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ner.2",
+          "type": "person",
+          "preferred_label": "नेर",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 179514,
+    "content_id": "179514",
     "reference_id": 25424,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अब्राहम",
     "media_type": "Text",
     "index_reference": "अब्राहम",
@@ -11255,13 +11710,29 @@
           "label": "सारा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "अब्राहम",
+          "confidence": 0.9966,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hamor",
+          "type": "person",
+          "preferred_label": "हमोर",
+          "confidence": 0.6017,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180047,
+    "content_id": "180047",
     "reference_id": 25982,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अभिलाषा",
     "media_type": "Text",
     "index_reference": "अभिलाषा",
@@ -11550,13 +12021,14 @@
           "label": "देवता",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179550,
+    "content_id": "179550",
     "reference_id": 25462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अभिषेक करना",
     "media_type": "Text",
     "index_reference": "अभिषेक करना",
@@ -11837,13 +12309,14 @@
           "label": "भविष्यद्वक्ता",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179539,
+    "content_id": "179539",
     "reference_id": 25450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अमस्याह",
     "media_type": "Text",
     "index_reference": "अमस्याह",
@@ -11892,13 +12365,29 @@
           "label": "योआश",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Amaziah.2",
+          "type": "person",
+          "preferred_label": "अमस्याह",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amaziah",
+          "type": "person",
+          "preferred_label": "अमस्याह",
+          "confidence": 0.6214,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179538,
+    "content_id": "179538",
     "reference_id": 25449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अमालेक",
     "media_type": "Text",
     "index_reference": "अमालेक",
@@ -12010,13 +12499,43 @@
           "label": "शाऊल (पुराना नियम)",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Amalek",
+          "type": "place",
+          "preferred_label": "अमालेक",
+          "confidence": 0.7577,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Amalek",
+          "type": "group",
+          "preferred_label": "अमालेकी",
+          "confidence": 0.7231,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amalek",
+          "type": "person",
+          "preferred_label": "अमालेक",
+          "confidence": 0.6308,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Caleb",
+          "type": "person",
+          "preferred_label": "कालेब",
+          "confidence": 0.5183,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179865,
+    "content_id": "179865",
     "reference_id": 25794,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अमोरा",
     "media_type": "Text",
     "index_reference": "अमोरा",
@@ -12164,13 +12683,36 @@
           "label": "सदोम",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gomorrah",
+          "type": "place",
+          "preferred_label": "गमोरा",
+          "confidence": 0.8404,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "सदोम",
+          "confidence": 0.7279,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Amraphel",
+          "type": "person",
+          "preferred_label": "अम्रापेल",
+          "confidence": 0.6235,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179542,
+    "content_id": "179542",
     "reference_id": 25453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अम्नोन",
     "media_type": "Text",
     "index_reference": "अम्नोन",
@@ -12213,13 +12755,29 @@
           "label": "दाऊद",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Amnon",
+          "type": "person",
+          "preferred_label": "अम्नोन",
+          "confidence": 0.8857,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahinoam.2",
+          "type": "person",
+          "preferred_label": "अहीनोअम",
+          "confidence": 0.5071,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179541,
+    "content_id": "179541",
     "reference_id": 25452,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अम्मोन",
     "media_type": "Text",
     "index_reference": "अम्मोन",
@@ -12329,13 +12887,36 @@
           "label": "लूत",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "अम्मोन",
+          "confidence": 0.975,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Ammon",
+          "type": "group",
+          "preferred_label": "अम्मोनी",
+          "confidence": 0.925,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ben-ammi",
+          "type": "person",
+          "preferred_label": "बेनअम्मी",
+          "confidence": 0.5215,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179975,
+    "content_id": "179975",
     "reference_id": 25908,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अय्यूब",
     "media_type": "Text",
     "index_reference": "अय्यूब",
@@ -12712,13 +13293,22 @@
           "label": "जाति",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Job",
+          "type": "person",
+          "preferred_label": "अय्यूब",
+          "confidence": 0.9649,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179558,
+    "content_id": "179558",
     "reference_id": 25470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अरब",
     "media_type": "Text",
     "index_reference": "अरब",
@@ -12800,13 +13390,22 @@
           "label": "सीनै",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Arabia",
+          "type": "place",
+          "preferred_label": "अरब",
+          "confidence": 0.7846,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179557,
+    "content_id": "179557",
     "reference_id": 25469,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अराबा",
     "media_type": "Text",
     "index_reference": "अराबा",
@@ -12895,13 +13494,22 @@
           "label": "खारा ताल",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Arabah",
+          "type": "place",
+          "preferred_label": "अराबा",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179559,
+    "content_id": "179559",
     "reference_id": 25471,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अराम",
     "media_type": "Text",
     "index_reference": "अराम",
@@ -13037,13 +13645,43 @@
           "label": "सीरिया",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Aramean",
+          "type": "group",
+          "preferred_label": "अरामी",
+          "confidence": 0.6889,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aram",
+          "type": "person",
+          "preferred_label": "अराम",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Aram.2",
+          "type": "person",
+          "preferred_label": "अराम",
+          "confidence": 0.6222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Arpachshad",
+          "type": "person",
+          "preferred_label": "अर्पक्षद",
+          "confidence": 0.5182,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179560,
+    "content_id": "179560",
     "reference_id": 25472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अरारात",
     "media_type": "Text",
     "index_reference": "अरारात",
@@ -13098,13 +13736,29 @@
           "label": "नूह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ararat",
+          "type": "place",
+          "preferred_label": "अरारात",
+          "confidence": 0.8286,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sharezer",
+          "type": "person",
+          "preferred_label": "शरेसेर",
+          "confidence": 0.5658,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179757,
+    "content_id": "179757",
     "reference_id": 25683,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अर्घ",
     "media_type": "Text",
     "index_reference": "अर्घ",
@@ -13183,13 +13837,36 @@
           "label": "अन्नबलि",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Erech",
+          "type": "place",
+          "preferred_label": "एरेख",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Agag",
+          "type": "person",
+          "preferred_label": "अगाग",
+          "confidence": 0.8133,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Agag.2",
+          "type": "person",
+          "preferred_label": "अगाग",
+          "confidence": 0.8133,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179566,
+    "content_id": "179566",
     "reference_id": 25478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अर्तक्षत्र",
     "media_type": "Text",
     "index_reference": "अर्तक्षत्र",
@@ -13344,13 +14021,29 @@
           "label": "फारस",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Artaxerxes",
+          "type": "person",
+          "preferred_label": "अर्तक्षत्र",
+          "confidence": 0.8105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Artaxerxes.2",
+          "type": "person",
+          "preferred_label": "अर्तक्षत्र",
+          "confidence": 0.5342,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179736,
+    "content_id": "179736",
     "reference_id": 25660,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अवतरण",
     "media_type": "Text",
     "index_reference": "अवतरण",
@@ -13509,13 +14202,14 @@
           "label": "नूह",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179800,
+    "content_id": "179800",
     "reference_id": 25727,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अविश्वास",
     "media_type": "Text",
     "index_reference": "अविश्वास",
@@ -13649,13 +14343,14 @@
           "label": "विश्वासयोग्य",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179694,
+    "content_id": "179694",
     "reference_id": 25615,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अशुद्ध",
     "media_type": "Text",
     "index_reference": "अशुद्ध",
@@ -13841,13 +14536,99 @@
           "label": "बुराई",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ahishar",
+          "type": "person",
+          "preferred_label": "अहीशार",
+          "confidence": 0.8527,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashhur",
+          "type": "person",
+          "preferred_label": "अशहूर",
+          "confidence": 0.8478,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Nephushesim",
+          "type": "group",
+          "preferred_label": "नपूशस",
+          "confidence": 0.8413,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Arpachshad",
+          "type": "person",
+          "preferred_label": "अर्पक्षद",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ananiah",
+          "type": "person",
+          "preferred_label": "अनन्याह",
+          "confidence": 0.836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ananiah",
+          "type": "place",
+          "preferred_label": "अनन्याह",
+          "confidence": 0.836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Asshurim",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.8267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Assyria",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.8267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Anaharath",
+          "type": "place",
+          "preferred_label": "अनाहरत",
+          "confidence": 0.8249,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahihud",
+          "type": "person",
+          "preferred_label": "अहीहूद",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahihud.2",
+          "type": "person",
+          "preferred_label": "अहीहूद",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beeroth",
+          "type": "place",
+          "preferred_label": "बेरोत",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179730,
+    "content_id": "179730",
     "reference_id": 25653,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अशुद्ध",
     "media_type": "Text",
     "index_reference": "अशुद्ध",
@@ -14070,13 +14851,99 @@
           "label": "अशुद्ध करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ahishar",
+          "type": "person",
+          "preferred_label": "अहीशार",
+          "confidence": 0.8527,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashhur",
+          "type": "person",
+          "preferred_label": "अशहूर",
+          "confidence": 0.8478,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Nephushesim",
+          "type": "group",
+          "preferred_label": "नपूशस",
+          "confidence": 0.8413,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Arpachshad",
+          "type": "person",
+          "preferred_label": "अर्पक्षद",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ananiah",
+          "type": "person",
+          "preferred_label": "अनन्याह",
+          "confidence": 0.836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ananiah",
+          "type": "place",
+          "preferred_label": "अनन्याह",
+          "confidence": 0.836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Asshurim",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.8267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Assyria",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.8267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Anaharath",
+          "type": "place",
+          "preferred_label": "अनाहरत",
+          "confidence": 0.8249,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahihud",
+          "type": "person",
+          "preferred_label": "अहीहूद",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahihud.2",
+          "type": "person",
+          "preferred_label": "अहीहूद",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beeroth",
+          "type": "place",
+          "preferred_label": "बेरोत",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 179737,
+    "content_id": "179737",
     "reference_id": 25661,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अशुद्ध करना",
     "media_type": "Text",
     "index_reference": "अशुद्ध करना",
@@ -14153,13 +15020,14 @@
           "label": "मन्दिर",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180185,
+    "content_id": "180185",
     "reference_id": 26124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अशुद्ध करना",
     "media_type": "Text",
     "index_reference": "अशुद्ध करना",
@@ -14263,13 +15131,14 @@
           "label": "पवित्र",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179571,
+    "content_id": "179571",
     "reference_id": 25483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अशेरा",
     "media_type": "Text",
     "index_reference": "अशेरा",
@@ -14351,13 +15220,22 @@
           "label": "गिदोन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Asherah",
+          "type": "deity",
+          "preferred_label": "अशेरा",
+          "confidence": 0.9429,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179572,
+    "content_id": "179572",
     "reference_id": 25484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अश्कलोन",
     "media_type": "Text",
     "index_reference": "अश्कलोन",
@@ -14465,13 +15343,36 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ashkelon",
+          "type": "place",
+          "preferred_label": "अश्कलोन",
+          "confidence": 0.8462,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ashdod",
+          "type": "place",
+          "preferred_label": "अश्दोद",
+          "confidence": 0.6053,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ekron",
+          "type": "place",
+          "preferred_label": "एक्रोन",
+          "confidence": 0.5724,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179569,
+    "content_id": "179569",
     "reference_id": 25481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अश्दोद",
     "media_type": "Text",
     "index_reference": "अश्दोद",
@@ -14578,13 +15479,22 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ashdod",
+          "type": "place",
+          "preferred_label": "अश्दोद",
+          "confidence": 0.9385,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179576,
+    "content_id": "179576",
     "reference_id": 25488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अश्शूर",
     "media_type": "Text",
     "index_reference": "अश्शूर",
@@ -14680,13 +15590,29 @@
           "label": "सामरिया",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Asshur",
+          "type": "person",
+          "preferred_label": "अश्शूर",
+          "confidence": 0.625,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Asshurim",
+          "type": "group",
+          "preferred_label": "अश्शूरी",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180225,
+    "content_id": "180225",
     "reference_id": 26167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अस्वीकार करना",
     "media_type": "Text",
     "index_reference": "अस्वीकार करना",
@@ -14918,13 +15844,22 @@
           "end_ref_usfm": "JHN 12:50"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Reject",
+          "type": "keyterm",
+          "preferred_label": "Reject",
+          "confidence": 0.8279,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 179565,
+    "content_id": "179565",
     "reference_id": 25477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अहंकारी",
     "media_type": "Text",
     "index_reference": "अहंकारी",
@@ -14991,13 +15926,14 @@
           "label": "घमंडी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179530,
+    "content_id": "179530",
     "reference_id": 25441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अहज्याह",
     "media_type": "Text",
     "index_reference": "अहज्याह",
@@ -15060,13 +15996,36 @@
           "label": "योआश",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ahaziah.2",
+          "type": "person",
+          "preferred_label": "अहज्याह",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahaziah",
+          "type": "person",
+          "preferred_label": "अहज्याह",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Athaliah",
+          "type": "person",
+          "preferred_label": "अतल्याह",
+          "confidence": 0.6028,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179529,
+    "content_id": "179529",
     "reference_id": 25440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अहाज",
     "media_type": "Text",
     "index_reference": "अहाज",
@@ -15132,13 +16091,29 @@
           "label": "बेबीलोन",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Ahaz",
+          "type": "person",
+          "preferred_label": "आहाज",
+          "confidence": 0.6693,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahaz.2",
+          "type": "person",
+          "preferred_label": "आहाज",
+          "confidence": 0.5602,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179531,
+    "content_id": "179531",
     "reference_id": 25442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "अहिय्याह",
     "media_type": "Text",
     "index_reference": "अहिय्याह",
@@ -15192,6 +16167,29 @@
           "resource_code": "UWTranslationWords",
           "label": "शीलो",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Ahijah.3",
+          "type": "person",
+          "preferred_label": "अहिय्याह",
+          "confidence": 0.7143,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahijah.2",
+          "type": "person",
+          "preferred_label": "अहिय्याह",
+          "confidence": 0.6571,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ahiah",
+          "type": "person",
+          "preferred_label": "अहिय्याह",
+          "confidence": 0.6571,
+          "match_method": "scored"
         }
       ]
     }

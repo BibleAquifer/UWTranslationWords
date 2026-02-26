@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 26927,
+    "content_id": "26927",
     "reference_id": 26069,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paddanaram",
     "media_type": "Text",
     "index_reference": "paddanaram",
@@ -148,13 +148,22 @@
           "label": "Syria",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Paddan-aram",
+          "type": "place",
+          "preferred_label": "Paddan-aram",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26928,
+    "content_id": "26928",
     "reference_id": 26070,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pagan",
     "media_type": "Text",
     "index_reference": "pagan",
@@ -236,13 +245,14 @@
           "label": "Yahweh",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26929,
+    "content_id": "26929",
     "reference_id": 26071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Palace",
     "media_type": "Text",
     "index_reference": "palace",
@@ -369,13 +379,22 @@
           "label": "King",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Palace",
+          "type": "realia",
+          "preferred_label": "Palace",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26930,
+    "content_id": "26930",
     "reference_id": 26072,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Palm",
     "media_type": "Text",
     "index_reference": "palm",
@@ -449,13 +468,29 @@
           "label": "Peace",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Tyre",
+          "type": "place",
+          "preferred_label": "Tyre",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "flora:DatePalm",
+          "type": "flora",
+          "preferred_label": "Date Palm",
+          "confidence": 0.84,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26931,
+    "content_id": "26931",
     "reference_id": 26073,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Parable",
     "media_type": "Text",
     "index_reference": "parable",
@@ -761,13 +796,22 @@
           "label": "Samaria",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Parable",
+          "type": "keyterm",
+          "preferred_label": "Parable",
+          "confidence": 0.983,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26932,
+    "content_id": "26932",
     "reference_id": 26074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paran",
     "media_type": "Text",
     "index_reference": "paran",
@@ -855,13 +899,36 @@
           "label": "Sinai",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Paran",
+          "type": "place",
+          "preferred_label": "Paran",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:El-paran",
+          "type": "place",
+          "preferred_label": "El-paran",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:WildernessOfParan",
+          "type": "place",
+          "preferred_label": "Wilderness of Paran",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26933,
+    "content_id": "26933",
     "reference_id": 26075,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Partial",
     "media_type": "Text",
     "index_reference": "partial",
@@ -945,13 +1012,22 @@
           "label": "Favor",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Partiality",
+          "type": "keyterm",
+          "preferred_label": "Partiality",
+          "confidence": 0.6333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26934,
+    "content_id": "26934",
     "reference_id": 26076,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Passover",
     "media_type": "Text",
     "index_reference": "passover",
@@ -1219,13 +1295,22 @@
           "end_ref_usfm": "LEV 23:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Passover",
+          "type": "keyterm",
+          "preferred_label": "Passover",
+          "confidence": 0.928,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 26935,
+    "content_id": "26935",
     "reference_id": 26077,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patient",
     "media_type": "Text",
     "index_reference": "patient",
@@ -1425,13 +1510,14 @@
           "label": "Perseverance",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26936,
+    "content_id": "26936",
     "reference_id": 26078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patriarchs",
     "media_type": "Text",
     "index_reference": "patriarchs",
@@ -1501,13 +1587,22 @@
           "end_ref_usfm": "EZR 3:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericPriests",
+          "type": "group",
+          "preferred_label": "Priests",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 26937,
+    "content_id": "26937",
     "reference_id": 26079,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paul",
     "media_type": "Text",
     "index_reference": "paul",
@@ -2589,13 +2684,22 @@
           "label": "Rome",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paul",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26938,
+    "content_id": "26938",
     "reference_id": 26080,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Peace",
     "media_type": "Text",
     "index_reference": "peace",
@@ -3355,13 +3459,36 @@
           "end_ref_usfm": "COL 1:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "keyterm:Peace",
+          "type": "keyterm",
+          "preferred_label": "Make Peace",
+          "confidence": 0.8646,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:IntactState",
+          "type": "keyterm",
+          "preferred_label": "Peace",
+          "confidence": 0.5256,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 26939,
+    "content_id": "26939",
     "reference_id": 26081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Peace Offering",
     "media_type": "Text",
     "index_reference": "peace offering",
@@ -3481,13 +3608,29 @@
           "label": "Unleavened Bread",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "Offering",
+          "confidence": 0.7167,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26940,
+    "content_id": "26940",
     "reference_id": 26082,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pentecost",
     "media_type": "Text",
     "index_reference": "pentecost",
@@ -3574,13 +3717,14 @@
           "label": "Holy Spirit",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26941,
+    "content_id": "26941",
     "reference_id": 26083,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "People Group",
     "media_type": "Text",
     "index_reference": "people group",
@@ -5845,13 +5989,29 @@
           "label": "World",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "Gentiles",
+          "confidence": 0.6086,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Name",
+          "type": "keyterm",
+          "preferred_label": "Name",
+          "confidence": 0.6054,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26942,
+    "content_id": "26942",
     "reference_id": 26084,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "People of God",
     "media_type": "Text",
     "index_reference": "people of god",
@@ -6056,13 +6216,36 @@
           "label": "People Group",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "Israelites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.6595,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Name",
+          "type": "keyterm",
+          "preferred_label": "Name",
+          "confidence": 0.619,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26943,
+    "content_id": "26943",
     "reference_id": 26085,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Peor",
     "media_type": "Text",
     "index_reference": "peor",
@@ -6126,13 +6309,29 @@
           "label": "Worship",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Peor",
+          "type": "place",
+          "preferred_label": "Baal-peor",
+          "confidence": 0.5643,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26944,
+    "content_id": "26944",
     "reference_id": 26086,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perfect",
     "media_type": "Text",
     "index_reference": "perfect",
@@ -6444,13 +6643,14 @@
           "label": "Blemish",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26945,
+    "content_id": "26945",
     "reference_id": 26087,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perish",
     "media_type": "Text",
     "index_reference": "perish",
@@ -7050,13 +7250,14 @@
           "label": "Eternity",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26946,
+    "content_id": "26946",
     "reference_id": 26088,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perizzite",
     "media_type": "Text",
     "index_reference": "perizzite",
@@ -7165,13 +7366,43 @@
           "label": "False God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Perizzites",
+          "type": "group",
+          "preferred_label": "Perizzites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "Heth",
+          "confidence": 0.6066,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hittite",
+          "type": "group",
+          "preferred_label": "Hittites",
+          "confidence": 0.5931,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Hivites",
+          "type": "group",
+          "preferred_label": "Hivites",
+          "confidence": 0.5569,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26947,
+    "content_id": "26947",
     "reference_id": 26089,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Persecute",
     "media_type": "Text",
     "index_reference": "persecute",
@@ -7491,13 +7722,14 @@
           "label": "Rome",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26948,
+    "content_id": "26948",
     "reference_id": 26090,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perseverance",
     "media_type": "Text",
     "index_reference": "perseverance",
@@ -7582,13 +7814,14 @@
           "label": "Trial",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26949,
+    "content_id": "26949",
     "reference_id": 26091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Persia",
     "media_type": "Text",
     "index_reference": "persia",
@@ -7757,13 +7990,29 @@
           "label": "Nehemiah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "Persia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "group:Persia",
+          "type": "group",
+          "preferred_label": "Persians",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26950,
+    "content_id": "26950",
     "reference_id": 26092,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perverse",
     "media_type": "Text",
     "index_reference": "perverse",
@@ -8005,13 +8254,14 @@
           "label": "Evil",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26951,
+    "content_id": "26951",
     "reference_id": 26093,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Peter",
     "media_type": "Text",
     "index_reference": "peter",
@@ -9080,13 +9330,36 @@
           "label": "Disciple",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Peter",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:SecondAccuserOfPeter",
+          "type": "person",
+          "preferred_label": "Peter's Second Accuser",
+          "confidence": 0.6023,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:WifeOfPeter",
+          "type": "person",
+          "preferred_label": "Wife of Peter",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26952,
+    "content_id": "26952",
     "reference_id": 26094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pharaoh",
     "media_type": "Text",
     "index_reference": "pharaoh",
@@ -10215,13 +10488,92 @@
           "label": "King",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Pharaoh.10",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Neco",
+          "type": "person",
+          "preferred_label": "Neco",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.7",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.8",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.9",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Hophra",
+          "type": "person",
+          "preferred_label": "Hophra",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:DaughterOfPharaoh",
+          "type": "person",
+          "preferred_label": "Daughter of Pharaoh",
+          "confidence": 0.6,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26953,
+    "content_id": "26953",
     "reference_id": 26095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pharisee",
     "media_type": "Text",
     "index_reference": "pharisee",
@@ -10830,13 +11182,22 @@
           "label": "Sadducee",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26954,
+    "content_id": "26954",
     "reference_id": 26096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philip",
     "media_type": "Text",
     "index_reference": "philip",
@@ -10956,13 +11317,43 @@
           "label": "Philip",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26956,
+    "content_id": "26956",
     "reference_id": 26098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philip the Apostle",
     "media_type": "Text",
     "index_reference": "philip the apostle",
@@ -11088,13 +11479,29 @@
           "label": "Philip",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.5777,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26955,
+    "content_id": "26955",
     "reference_id": 26097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philippi",
     "media_type": "Text",
     "index_reference": "philippi",
@@ -11195,13 +11602,36 @@
           "label": "Silas",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Philippi",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:CaesareaPhilippi",
+          "type": "place",
+          "preferred_label": "Caesarea Philippi",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "Philippians",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26957,
+    "content_id": "26957",
     "reference_id": 26099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philistia",
     "media_type": "Text",
     "index_reference": "philistia",
@@ -11257,13 +11687,22 @@
           "label": "Philistines",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Philistia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26958,
+    "content_id": "26958",
     "reference_id": 26100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philistines",
     "media_type": "Text",
     "index_reference": "philistines",
@@ -11432,13 +11871,43 @@
           "label": "Saltsea",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Philistines",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Philistia",
+          "confidence": 0.6935,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:GreatSea",
+          "type": "place",
+          "preferred_label": "Mediterranean Sea",
+          "confidence": 0.6174,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "Philistine",
+          "confidence": 0.5949,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26959,
+    "content_id": "26959",
     "reference_id": 26101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Phinehas",
     "media_type": "Text",
     "index_reference": "phinehas",
@@ -11526,13 +11995,36 @@
           "label": "Samuel",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Phinehas.2",
+          "type": "person",
+          "preferred_label": "Phinehas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Phinehas.3",
+          "type": "person",
+          "preferred_label": "Phinehas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Phinehas",
+          "type": "person",
+          "preferred_label": "Phinehas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26960,
+    "content_id": "26960",
     "reference_id": 26102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Phonecia",
     "media_type": "Text",
     "index_reference": "phonecia",
@@ -11607,13 +12099,22 @@
           "label": "Tyre",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Phoenicia",
+          "type": "place",
+          "preferred_label": "Phoenicia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26961,
+    "content_id": "26961",
     "reference_id": 26103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pig",
     "media_type": "Text",
     "index_reference": "pig",
@@ -11715,13 +12216,22 @@
           "label": "Clean",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Pig",
+          "type": "fauna",
+          "preferred_label": "Pig",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26962,
+    "content_id": "26962",
     "reference_id": 26104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pilate",
     "media_type": "Text",
     "index_reference": "pilate",
@@ -12097,13 +12607,22 @@
           "label": "Rome",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Pilate",
+          "type": "person",
+          "preferred_label": "Pilate",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26963,
+    "content_id": "26963",
     "reference_id": 26105,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pillar",
     "media_type": "Text",
     "index_reference": "pillar",
@@ -12441,13 +12960,22 @@
           "label": "Image",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:SacredPillar",
+          "type": "realia",
+          "preferred_label": "Sacred Pillar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26964,
+    "content_id": "26964",
     "reference_id": 26106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pit",
     "media_type": "Text",
     "index_reference": "pit",
@@ -12574,13 +13102,29 @@
           "label": "Hell",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Hell",
+          "type": "place",
+          "preferred_label": "Hell",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:Pit",
+          "type": "realia",
+          "preferred_label": "Pit",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26965,
+    "content_id": "26965",
     "reference_id": 26107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Plague",
     "media_type": "Text",
     "index_reference": "plague",
@@ -12757,13 +13301,22 @@
           "label": "Pharaoh",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Blow",
+          "type": "keyterm",
+          "preferred_label": "Plague",
+          "confidence": 0.6148,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26966,
+    "content_id": "26966",
     "reference_id": 26108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Plead",
     "media_type": "Text",
     "index_reference": "plead",
@@ -12857,13 +13410,22 @@
           "end_ref_usfm": "2CO 8:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:AskFor",
+          "type": "keyterm",
+          "preferred_label": "Ask for",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 26967,
+    "content_id": "26967",
     "reference_id": 26109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pledge",
     "media_type": "Text",
     "index_reference": "pledge",
@@ -13002,13 +13564,36 @@
           "label": "Promise",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Promise",
+          "type": "keyterm",
+          "preferred_label": "Promise",
+          "confidence": 0.8867,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Swear",
+          "type": "keyterm",
+          "preferred_label": "Swear",
+          "confidence": 0.8778,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Oath",
+          "type": "keyterm",
+          "preferred_label": "Oath",
+          "confidence": 0.8436,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 26968,
+    "content_id": "26968",
     "reference_id": 26110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Plow",
     "media_type": "Text",
     "index_reference": "plow",
@@ -13093,13 +13678,29 @@
           "label": "Cow",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Plough",
+          "type": "realia",
+          "preferred_label": "Plough",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "realia:Mattock",
+          "type": "realia",
+          "preferred_label": "Mattock",
+          "confidence": 0.5357,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26969,
+    "content_id": "26969",
     "reference_id": 26111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Plunder",
     "media_type": "Text",
     "index_reference": "plunder",
@@ -13108,13 +13709,14 @@
     "content": "<h1>plunder, plundered, spoil, spoils</h1><h2>Facts:</h2><p>The terms “spoil” and “plunder,” when used as a noun, refer to things that are taken by force from a person or place, normally during a time of war. The verb “plunder” means to take things from a person or place, normally by force and during a time of war.</p><ul><li><p>When translating the verb “plunder” in the context of war you should use a different word than “steal” as “to steal” normally implies wrong doing and to “plunder”” something in war is not necessarily sinful.</p></li><li><p>You could translate the verb “plunder” with a word such as “pillage” or with a descriptive phrase “take the goods of.”</p></li><li><p>You could translate the term “spoil” with a descriptive phrase such as “plundered goods” or “plundered things.”</p></li><li><p>Depending on context, you could translate the term “plunder” with a descriptive phrase such as “captured goods” or with some other descriptive phrase or with a term such as “spoil” or “spoils.”</p></li><li><p>Your language may have a word for things that are taken by force and/or in a time of war.</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26970,
+    "content_id": "26970",
     "reference_id": 26112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pomegranate",
     "media_type": "Text",
     "index_reference": "pomegranate",
@@ -13214,13 +13816,22 @@
           "label": "Temple",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Pomegranate",
+          "type": "flora",
+          "preferred_label": "Pomegranate",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26971,
+    "content_id": "26971",
     "reference_id": 26113,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pontus",
     "media_type": "Text",
     "index_reference": "pontus",
@@ -13269,13 +13880,29 @@
           "label": "Pentecost",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Pontus",
+          "type": "place",
+          "preferred_label": "Pontus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "group:Pontus",
+          "type": "group",
+          "preferred_label": "Pontus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26972,
+    "content_id": "26972",
     "reference_id": 26114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Possess",
     "media_type": "Text",
     "index_reference": "possess",
@@ -13643,13 +14270,22 @@
           "label": "Worship",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Dispossess",
+          "type": "keyterm",
+          "preferred_label": "Dispossess",
+          "confidence": 0.5657,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26973,
+    "content_id": "26973",
     "reference_id": 26115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Potiphar",
     "media_type": "Text",
     "index_reference": "potiphar",
@@ -13711,13 +14347,22 @@
           "label": "Pharaoh",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Potiphar",
+          "type": "person",
+          "preferred_label": "Potiphar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 26974,
+    "content_id": "26974",
     "reference_id": 26116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Praise",
     "media_type": "Text",
     "index_reference": "praise",
@@ -14101,13 +14746,22 @@
           "label": "Worship",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Bless",
+          "type": "keyterm",
+          "preferred_label": "Bless",
+          "confidence": 0.5088,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26975,
+    "content_id": "26975",
     "reference_id": 26117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pray",
     "media_type": "Text",
     "index_reference": "pray",
@@ -15195,13 +15849,22 @@
           "label": "Praise",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pray",
+          "type": "keyterm",
+          "preferred_label": "Pray",
+          "confidence": 0.8899,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26976,
+    "content_id": "26976",
     "reference_id": 26118,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Preach",
     "media_type": "Text",
     "index_reference": "preach",
@@ -15852,13 +16515,22 @@
           "label": "Kingdom of God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Proclaim",
+          "type": "keyterm",
+          "preferred_label": "Proclaim",
+          "confidence": 0.5812,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26977,
+    "content_id": "26977",
     "reference_id": 26119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Predestine",
     "media_type": "Text",
     "index_reference": "predestine",
@@ -15910,13 +16582,14 @@
           "end_ref_usfm": "1CO 2:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 26978,
+    "content_id": "26978",
     "reference_id": 26120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prey",
     "media_type": "Text",
     "index_reference": "prey",
@@ -15950,13 +16623,22 @@
           "end_ref_usfm": "JER 12:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "fauna:Vulture",
+          "type": "fauna",
+          "preferred_label": "Vulture",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 26979,
+    "content_id": "26979",
     "reference_id": 26121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Priest",
     "media_type": "Text",
     "index_reference": "priest",
@@ -16949,13 +17631,22 @@
           "label": "Sacrifice",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Priesthood",
+          "type": "keyterm",
+          "preferred_label": "Priesthood",
+          "confidence": 0.5492,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26980,
+    "content_id": "26980",
     "reference_id": 26122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prince",
     "media_type": "Text",
     "index_reference": "prince",
@@ -17107,13 +17798,14 @@
           "label": "Spirit",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26981,
+    "content_id": "26981",
     "reference_id": 26123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Priscilla",
     "media_type": "Text",
     "index_reference": "priscilla",
@@ -17233,13 +17925,29 @@
           "label": "Syria",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "Priscilla",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "Aquila",
+          "confidence": 0.53,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26982,
+    "content_id": "26982",
     "reference_id": 26124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Profane",
     "media_type": "Text",
     "index_reference": "profane",
@@ -17343,13 +18051,22 @@
           "label": "Holy",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Profane",
+          "type": "keyterm",
+          "preferred_label": "Profane",
+          "confidence": 0.6706,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26984,
+    "content_id": "26984",
     "reference_id": 26126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Profit",
     "media_type": "Text",
     "index_reference": "profit",
@@ -17727,13 +18444,14 @@
           "label": "Profit-Spiritual",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26983,
+    "content_id": "26983",
     "reference_id": 26125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Profit-Spiritual",
     "media_type": "Text",
     "index_reference": "profit-spiritual",
@@ -17750,13 +18468,14 @@
           "label": "Profit",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26985,
+    "content_id": "26985",
     "reference_id": 26127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Promise",
     "media_type": "Text",
     "index_reference": "promise",
@@ -18135,13 +18854,22 @@
           "label": "Oath",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Promise",
+          "type": "keyterm",
+          "preferred_label": "Promise",
+          "confidence": 0.9556,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26986,
+    "content_id": "26986",
     "reference_id": 26128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Promised Land",
     "media_type": "Text",
     "index_reference": "promised land",
@@ -18178,13 +18906,22 @@
           "label": "Promise",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.516,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26987,
+    "content_id": "26987",
     "reference_id": 26129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophet",
     "media_type": "Text",
     "index_reference": "prophet",
@@ -19511,13 +20248,29 @@
           "label": "Vision",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:CretanProphet",
+          "type": "person",
+          "preferred_label": "Cretan Prophet",
+          "confidence": 0.6019,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Speak",
+          "type": "keyterm",
+          "preferred_label": "Speak as a Prophet",
+          "confidence": 0.5023,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26988,
+    "content_id": "26988",
     "reference_id": 26130,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Propitiation",
     "media_type": "Text",
     "index_reference": "propitiation",
@@ -19586,13 +20339,36 @@
           "label": "Forgive",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Propitiation",
+          "type": "keyterm",
+          "preferred_label": "Mercy Seat",
+          "confidence": 0.69,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Sin",
+          "type": "keyterm",
+          "preferred_label": "To Sin",
+          "confidence": 0.518,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5135,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26989,
+    "content_id": "26989",
     "reference_id": 26131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prosper",
     "media_type": "Text",
     "index_reference": "prosper",
@@ -19781,13 +20557,14 @@
           "label": "Spirit",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26990,
+    "content_id": "26990",
     "reference_id": 26132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prostitute",
     "media_type": "Text",
     "index_reference": "prostitute",
@@ -19944,13 +20721,22 @@
           "label": "False God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:PlayTheProstitute",
+          "type": "keyterm",
+          "preferred_label": "Play the Prostitute",
+          "confidence": 0.5045,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26991,
+    "content_id": "26991",
     "reference_id": 26133,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prostrate",
     "media_type": "Text",
     "index_reference": "prostrate",
@@ -19999,13 +20785,14 @@
           "label": "Bow",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26993,
+    "content_id": "26993",
     "reference_id": 26135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Proud",
     "media_type": "Text",
     "index_reference": "proud",
@@ -20211,13 +20998,14 @@
           "label": "Proud-Positivesense",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26992,
+    "content_id": "26992",
     "reference_id": 26134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Proud-Positivesense",
     "media_type": "Text",
     "index_reference": "proud-positivesense",
@@ -20248,13 +21036,14 @@
           "label": "Proud",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26994,
+    "content_id": "26994",
     "reference_id": 26136,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Proverb",
     "media_type": "Text",
     "index_reference": "proverb",
@@ -20351,13 +21140,22 @@
           "label": "Wise",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Saying",
+          "type": "keyterm",
+          "preferred_label": "Proverb",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26995,
+    "content_id": "26995",
     "reference_id": 26137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Province",
     "media_type": "Text",
     "index_reference": "province",
@@ -20529,13 +21327,14 @@
           "label": "Syria",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 26996,
+    "content_id": "26996",
     "reference_id": 26138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Provoke",
     "media_type": "Text",
     "index_reference": "provoke",
@@ -20593,13 +21392,22 @@
           "end_ref_usfm": "EZK 20:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Encourage",
+          "type": "keyterm",
+          "preferred_label": "Encourage",
+          "confidence": 0.8114,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 26997,
+    "content_id": "26997",
     "reference_id": 26139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prudent",
     "media_type": "Text",
     "index_reference": "prudent",
@@ -20787,13 +21595,29 @@
           "label": "Wise",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Crafty",
+          "type": "keyterm",
+          "preferred_label": "Crafty",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:HaveInsight",
+          "type": "keyterm",
+          "preferred_label": "Have Insight",
+          "confidence": 0.6285,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26998,
+    "content_id": "26998",
     "reference_id": 26140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Psalm",
     "media_type": "Text",
     "index_reference": "psalm",
@@ -20875,13 +21699,22 @@
           "label": "Holy",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5285,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 26999,
+    "content_id": "26999",
     "reference_id": 26141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Punish",
     "media_type": "Text",
     "index_reference": "punish",
@@ -21046,13 +21879,29 @@
           "label": "Sin",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Punishment",
+          "type": "keyterm",
+          "preferred_label": "Punishment",
+          "confidence": 0.9043,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Condemn",
+          "type": "keyterm",
+          "preferred_label": "Condemn",
+          "confidence": 0.8347,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 27000,
+    "content_id": "27000",
     "reference_id": 26142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Purify",
     "media_type": "Text",
     "index_reference": "purify",
@@ -21552,13 +22401,22 @@
           "label": "Spirit",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pure",
+          "type": "keyterm",
+          "preferred_label": "Pure",
+          "confidence": 0.698,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27001,
+    "content_id": "27001",
     "reference_id": 26143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Purple",
     "media_type": "Text",
     "index_reference": "purple",
@@ -21855,6 +22713,22 @@
           "resource_code": "UWTranslationWords",
           "label": "Temple",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:PurpleCloth",
+          "type": "realia",
+          "preferred_label": "Purple Cloth",
+          "confidence": 0.9289,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:Linen",
+          "type": "realia",
+          "preferred_label": "Linen",
+          "confidence": 0.5609,
+          "match_method": "scored"
         }
       ]
     }

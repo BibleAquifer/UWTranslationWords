@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391170,
+    "content_id": "391170",
     "reference_id": 26248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "所多瑪",
     "media_type": "Text",
     "index_reference": "所多瑪",
@@ -207,13 +207,22 @@
           "label": "蛾摩拉",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodom",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391293,
+    "content_id": "391293",
     "reference_id": 26373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "所羅巴伯",
     "media_type": "Text",
     "index_reference": "所羅巴伯",
@@ -439,13 +448,14 @@
           "label": "西底家",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391171,
+    "content_id": "391171",
     "reference_id": 26249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "所羅門",
     "media_type": "Text",
     "index_reference": "所羅門",
@@ -672,13 +682,22 @@
           "label": "聖殿",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Solomon",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391296,
+    "content_id": "391296",
     "reference_id": 26376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "瑣珥",
     "media_type": "Text",
     "index_reference": "瑣珥",
@@ -764,7 +783,8 @@
           "label": "所多瑪",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

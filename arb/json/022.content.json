@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196466,
+    "content_id": "196466",
     "reference_id": 26107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الوبأ",
     "media_type": "Text",
     "index_reference": "الوبأ",
@@ -179,13 +179,14 @@
           "label": "فرعون",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196618,
+    "content_id": "196618",
     "reference_id": 26286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الوصايا العشر",
     "media_type": "Text",
     "index_reference": "الوصايا العشر",
@@ -262,13 +263,14 @@
           "label": "عبادة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196656,
+    "content_id": "196656",
     "reference_id": 26339,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وادي",
     "media_type": "Text",
     "index_reference": "وادي",
@@ -277,13 +279,14 @@
     "content": "<h1>وادي</h1><h2>التعريف:</h2><p>يشير مصطلح &quot;وادي&quot; إلى مجرى موسمي، أو نهر موسمي، أو وادٍ بمعنى قاع مجري مائي في وقت معين من السنة.</p><ul><li><p>يكون &quot;الوادي&quot; مليئًا بالماء في جزء من السنة ويكون جافًا في جزء آخر من السنة.</p></li><li><p>عندما يكون &quot;الوادي&quot; ممتلئًا بالماء، فإن كَمّيَّة الماء الذي يحتويها تعتمد على أيّ توقيت في العام، وكمية الأمطار التي استقبلتها المنطقة، وكذلك حجم الوادي.</p></li></ul><h2>اقتراحات التَّرْجَمَة:</h2><ul><li><p> يمكن أن تشمل تَرْجَمَة &quot;وادي&quot;، بعض هذه المعاني: &quot;مجرى موسمي&quot; أو &quot;قاع مجرى مائي موسمي&quot; أو &quot;حوض نهر&quot; أو &quot;قاع نهر.&quot;</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونغ:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196325,
+    "content_id": "196325",
     "reference_id": 25936,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وادي قدرون",
     "media_type": "Text",
     "index_reference": "وادي قدرون",
@@ -370,13 +373,29 @@
           "label": "يهوذا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kidron",
+          "type": "place",
+          "preferred_label": "قَدْرونَ",
+          "confidence": 0.6655,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "يَسوع",
+          "confidence": 0.58,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144749,
+    "content_id": "144749",
     "reference_id": 25828,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وارث",
     "media_type": "Text",
     "index_reference": "وارث",
@@ -515,13 +534,14 @@
           "label": "يرث",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144747,
+    "content_id": "144747",
     "reference_id": 25799,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "والي",
     "media_type": "Text",
     "index_reference": "والي",
@@ -867,13 +887,14 @@
           "label": "روما",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196437,
+    "content_id": "196437",
     "reference_id": 26070,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وثني",
     "media_type": "Text",
     "index_reference": "وثني",
@@ -955,13 +976,14 @@
           "label": "يهوه",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196229,
+    "content_id": "196229",
     "reference_id": 25819,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وَحَارَان",
     "media_type": "Text",
     "index_reference": "وَحَارَان",
@@ -1129,13 +1151,36 @@
           "label": "أُور",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Haran",
+          "type": "place",
+          "preferred_label": "حَارَانَ",
+          "confidence": 0.7905,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Haran",
+          "type": "person",
+          "preferred_label": "حَارَانَ",
+          "confidence": 0.6952,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Terah",
+          "type": "person",
+          "preferred_label": "تَارَحَ",
+          "confidence": 0.6052,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 195968,
+    "content_id": "195968",
     "reference_id": 25517,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وحش",
     "media_type": "Text",
     "index_reference": "وحش",
@@ -1601,13 +1646,14 @@
           "label": "الماشية",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196384,
+    "content_id": "196384",
     "reference_id": 26007,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وديع",
     "media_type": "Text",
     "index_reference": "وديع",
@@ -1679,13 +1725,14 @@
           "label": "متواضع",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196381,
+    "content_id": "196381",
     "reference_id": 26004,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وسيط",
     "media_type": "Text",
     "index_reference": "وسيط",
@@ -1746,13 +1793,14 @@
           "label": "مصالحة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196484,
+    "content_id": "196484",
     "reference_id": 26127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وعد",
     "media_type": "Text",
     "index_reference": "وعد",
@@ -2131,13 +2179,22 @@
           "label": "قَسَم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Promise",
+          "type": "keyterm",
+          "preferred_label": "Promise",
+          "confidence": 0.5056,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144832,
+    "content_id": "144832",
     "reference_id": 26303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وقت",
     "media_type": "Text",
     "index_reference": "وقت",
@@ -3044,13 +3101,14 @@
           "label": "ضيقة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144778,
+    "content_id": "144778",
     "reference_id": 25992,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وَكِيل",
     "media_type": "Text",
     "index_reference": "وَكِيل",
@@ -3242,13 +3300,14 @@
           "label": "عبد",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 195972,
+    "content_id": "195972",
     "reference_id": 25522,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وَلَد",
     "media_type": "Text",
     "index_reference": "وَلَد",
@@ -3257,13 +3316,14 @@
     "content": "<h1> يولَد، وَلَد، تولد، المولود</h1><h2>التعريف:</h2><p>يعني مصطلح ”وَلَد“ أن تصبح أباً لشخص ما.</p><h2>اقتراحات الترجمة:</h2><ul><li><p>يمكنك أن تترجم عبارة &quot;يوَلَد&quot; كـ &quot;أنجب&quot; ومصطلح &quot;توَلد&quot; كـ &quot;أب&quot; ومصطلح &quot;وَلَد&quot; كـ &quot;أعطى الحياة&quot;.</p></li><li><p>مصطلح &quot;مولود&quot; هو الشكل المبني للمجهول من &quot;وَلَد&quot; ويعني &quot;أن يولد&quot;. ولكن إن كان غرض الترجمة هو الإشارة إلى المسيح، فمن الأفضل ترجمتها إلى ابن وليس ولد، خاصة في ظل السياق الإسلامي.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p></p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 195955,
+    "content_id": "195955",
     "reference_id": 25502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وليمة",
     "media_type": "Text",
     "index_reference": "وليمة",
@@ -3321,13 +3381,14 @@
           "end_ref_usfm": "SNG 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196153,
+    "content_id": "196153",
     "reference_id": 25736,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وليمة",
     "media_type": "Text",
     "index_reference": "وليمة",
@@ -3580,13 +3641,14 @@
           "label": "احتفال",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196665,
+    "content_id": "196665",
     "reference_id": 26352,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "وَيْل",
     "media_type": "Text",
     "index_reference": "وَيْل",
@@ -3848,7 +3910,8 @@
           "end_ref_usfm": "LUK 17:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

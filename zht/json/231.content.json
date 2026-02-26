@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390930,
+    "content_id": "390930",
     "reference_id": 26004,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "中保",
     "media_type": "Text",
     "index_reference": "中保",
@@ -63,13 +63,14 @@
           "label": "和好",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 369012,
+    "content_id": "369012",
     "reference_id": 25726,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "忠心",
     "media_type": "Text",
     "index_reference": "忠心",
@@ -628,13 +629,22 @@
           "label": "信心",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Faithfulness",
+          "type": "keyterm",
+          "preferred_label": "Faithfulness",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391130,
+    "content_id": "391130",
     "reference_id": 26208,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "種子",
     "media_type": "Text",
     "index_reference": "種子",
@@ -1150,7 +1160,8 @@
           "label": "後裔",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

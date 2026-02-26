@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 179998,
+    "content_id": "179998",
     "reference_id": 25931,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्याय का दिन",
     "media_type": "Text",
     "index_reference": "न्याय का दिन",
@@ -71,13 +71,22 @@
           "label": "न्यायी",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "योना",
+          "confidence": 0.53,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180053,
+    "content_id": "180053",
     "reference_id": 25988,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्यायाधीश",
     "media_type": "Text",
     "index_reference": "न्यायाधीश",
@@ -170,13 +179,22 @@
           "label": "व्यवस्था",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 0.8915,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 182411,
+    "content_id": "182411",
     "reference_id": 25619,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्यायालय-कानूनी",
     "media_type": "Text",
     "index_reference": "न्यायालय-कानूनी",
@@ -193,13 +211,14 @@
           "label": "न्यायी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179996,
+    "content_id": "179996",
     "reference_id": 25929,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्यायी",
     "media_type": "Text",
     "index_reference": "न्यायी",
@@ -1507,13 +1526,14 @@
           "label": "व्यवस्था",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179997,
+    "content_id": "179997",
     "reference_id": 25930,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्यायी",
     "media_type": "Text",
     "index_reference": "न्यायी",
@@ -1708,13 +1728,14 @@
           "label": "व्यवस्था",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179999,
+    "content_id": "179999",
     "reference_id": 25932,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "न्यायोचित",
     "media_type": "Text",
     "index_reference": "न्यायोचित",
@@ -2311,7 +2332,8 @@
           "label": "धर्मी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

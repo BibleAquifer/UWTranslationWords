@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391203,
+    "content_id": "391203",
     "reference_id": 26282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "稅",
     "media_type": "Text",
     "index_reference": "稅",
@@ -297,6 +297,15 @@
           "resource_code": "UWTranslationWords",
           "label": "罪",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Tax",
+          "type": "keyterm",
+          "preferred_label": "Tax",
+          "confidence": 0.9267,
+          "match_method": "embedding"
         }
       ]
     }

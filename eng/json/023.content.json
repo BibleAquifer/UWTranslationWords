@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 27190,
+    "content_id": "27190",
     "reference_id": 26332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vain",
     "media_type": "Text",
     "index_reference": "vain",
@@ -176,13 +176,14 @@
           "label": "False God",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 27191,
+    "content_id": "27191",
     "reference_id": 26333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vashti",
     "media_type": "Text",
     "index_reference": "vashti",
@@ -232,13 +233,22 @@
           "label": "Persia",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Vashti",
+          "type": "person",
+          "preferred_label": "Vashti",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 27192,
+    "content_id": "27192",
     "reference_id": 26334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Veil",
     "media_type": "Text",
     "index_reference": "veil",
@@ -328,13 +338,22 @@
           "label": "Moses",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Veil",
+          "type": "realia",
+          "preferred_label": "Veil",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 27193,
+    "content_id": "27193",
     "reference_id": 26335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vine",
     "media_type": "Text",
     "index_reference": "vine",
@@ -467,13 +486,22 @@
           "label": "Vineyard",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 27194,
+    "content_id": "27194",
     "reference_id": 26336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vineyard",
     "media_type": "Text",
     "index_reference": "vineyard",
@@ -745,13 +773,22 @@
           "label": "Vine",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 27195,
+    "content_id": "27195",
     "reference_id": 26337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Virgin",
     "media_type": "Text",
     "index_reference": "virgin",
@@ -916,13 +953,14 @@
           "label": "Mary",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 27196,
+    "content_id": "27196",
     "reference_id": 26338,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vision",
     "media_type": "Text",
     "index_reference": "vision",
@@ -1095,6 +1133,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Dream",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Simon.9",
+          "type": "person",
+          "preferred_label": "Simon",
+          "confidence": 0.5071,
+          "match_method": "scored"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 627046,
+    "content_id": "627046",
     "reference_id": 25734,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fadhila",
     "media_type": "Text",
     "index_reference": "fadhila",
@@ -444,13 +444,22 @@
           "end_ref_usfm": "1SA 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Favor",
+          "type": "keyterm",
+          "preferred_label": "Favor",
+          "confidence": 0.5177,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 575720,
+    "content_id": "575720",
     "reference_id": 26274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fagia",
     "media_type": "Text",
     "index_reference": "fagia",
@@ -567,13 +576,14 @@
           "label": "nabii",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575650,
+    "content_id": "575650",
     "reference_id": 26126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faida",
     "media_type": "Text",
     "index_reference": "faida",
@@ -951,13 +961,14 @@
           "label": "Faida-Kiroho",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627262,
+    "content_id": "627262",
     "reference_id": 26125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faida-Kiroho",
     "media_type": "Text",
     "index_reference": "faida-kiroho",
@@ -974,13 +985,14 @@
           "label": "Faida",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627045,
+    "content_id": "627045",
     "reference_id": 25731,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Familia",
     "media_type": "Text",
     "index_reference": "familia",
@@ -1119,13 +1131,14 @@
           "label": "Nyumba",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627265,
+    "content_id": "627265",
     "reference_id": 26131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fanikiwa",
     "media_type": "Text",
     "index_reference": "fanikiwa",
@@ -1314,13 +1327,14 @@
           "label": "Roho",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575411,
+    "content_id": "575411",
     "reference_id": 25598,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faraja",
     "media_type": "Text",
     "index_reference": "faraja",
@@ -1634,13 +1648,14 @@
           "label": "Roho Mtakatifu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627243,
+    "content_id": "627243",
     "reference_id": 26094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Farao",
     "media_type": "Text",
     "index_reference": "farao",
@@ -2769,13 +2784,43 @@
           "label": "Mfalme",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Farao",
+          "confidence": 0.8152,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Farao",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Farao",
+          "confidence": 0.6239,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "Farao",
+          "confidence": 0.6087,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627105,
+    "content_id": "627105",
     "reference_id": 25850,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Farasi",
     "media_type": "Text",
     "index_reference": "farasi",
@@ -3023,13 +3068,29 @@
           "label": "Solomoni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Horse",
+          "type": "fauna",
+          "preferred_label": "Horse",
+          "confidence": 0.6377,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:HorseGate",
+          "type": "place",
+          "preferred_label": "farasi",
+          "confidence": 0.6103,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575638,
+    "content_id": "575638",
     "reference_id": 26095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Farisayo",
     "media_type": "Text",
     "index_reference": "farisayo",
@@ -3638,13 +3699,22 @@
           "label": "Sheria",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.7447,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575702,
+    "content_id": "575702",
     "reference_id": 26237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fedha",
     "media_type": "Text",
     "index_reference": "fedha",
@@ -4569,13 +4639,22 @@
           "label": "Hekalu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Money",
+          "type": "realia",
+          "preferred_label": "Money",
+          "confidence": 0.6341,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575662,
+    "content_id": "575662",
     "reference_id": 26154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fidia",
     "media_type": "Text",
     "index_reference": "fidia",
@@ -4702,13 +4781,14 @@
           "label": "Komboa",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575482,
+    "content_id": "575482",
     "reference_id": 25747,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filimbi",
     "media_type": "Text",
     "index_reference": "filimbi",
@@ -4781,13 +4861,22 @@
           "label": "Mchungaji",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Flute",
+          "type": "realia",
+          "preferred_label": "Flute",
+          "confidence": 0.5897,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575639,
+    "content_id": "575639",
     "reference_id": 26097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipi",
     "media_type": "Text",
     "index_reference": "filipi",
@@ -4888,13 +4977,29 @@
           "label": "Sila",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipi",
+          "confidence": 0.7818,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "Philippians",
+          "confidence": 0.5059,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627244,
+    "content_id": "627244",
     "reference_id": 26096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipo",
     "media_type": "Text",
     "index_reference": "filipo",
@@ -5014,13 +5119,22 @@
           "label": "Filipo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Filipo",
+          "confidence": 0.9529,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627290,
+    "content_id": "627290",
     "reference_id": 26180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fimbo",
     "media_type": "Text",
     "index_reference": "fimbo",
@@ -5160,13 +5274,14 @@
           "label": "Fimbo",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575715,
+    "content_id": "575715",
     "reference_id": 26259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fimbo",
     "media_type": "Text",
     "index_reference": "fimbo",
@@ -5396,13 +5511,14 @@
           "label": "Mchungaji",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627301,
+    "content_id": "627301",
     "reference_id": 26203,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fimbo ya kifalme",
     "media_type": "Text",
     "index_reference": "fimbo ya kifalme",
@@ -5477,13 +5593,22 @@
           "label": "Mwenye Haki",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Rod",
+          "type": "realia",
+          "preferred_label": "Rod",
+          "confidence": 0.5472,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627247,
+    "content_id": "627247",
     "reference_id": 26101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Finehasi",
     "media_type": "Text",
     "index_reference": "finehasi",
@@ -5571,13 +5696,29 @@
           "label": "Samweli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Phinehas",
+          "type": "person",
+          "preferred_label": "Finehasi",
+          "confidence": 0.8222,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Phinehas.3",
+          "type": "person",
+          "preferred_label": "Finehasi",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575418,
+    "content_id": "575418",
     "reference_id": 25615,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fisadi",
     "media_type": "Text",
     "index_reference": "fisadi",
@@ -5763,13 +5904,14 @@
           "label": "Uovu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627248,
+    "content_id": "627248",
     "reference_id": 26102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Foinike",
     "media_type": "Text",
     "index_reference": "foinike",
@@ -5844,13 +5986,22 @@
           "label": "Tiro",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Phoenicia",
+          "type": "place",
+          "preferred_label": "Msirofoinike",
+          "confidence": 0.6163,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627036,
+    "content_id": "627036",
     "reference_id": 25715,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Frati",
     "media_type": "Text",
     "index_reference": "frati",
@@ -5920,13 +6071,22 @@
           "end_ref_usfm": "GEN 2:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Euphrates",
+          "type": "place",
+          "preferred_label": "Mto",
+          "confidence": 0.6108,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 575613,
+    "content_id": "575613",
     "reference_id": 26038,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fumbo",
     "media_type": "Text",
     "index_reference": "fumbo",
@@ -6157,13 +6317,14 @@
           "label": "Myahudi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575449,
+    "content_id": "575449",
     "reference_id": 25676,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fundisho",
     "media_type": "Text",
     "index_reference": "fundisho",
@@ -6269,13 +6430,14 @@
           "end_ref_usfm": "MAT 15:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 575729,
+    "content_id": "575729",
     "reference_id": 26288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fungu la kumi",
     "media_type": "Text",
     "index_reference": "fungu la kumi",
@@ -6457,13 +6619,14 @@
           "label": "Hema",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575440,
+    "content_id": "575440",
     "reference_id": 25654,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Furaha",
     "media_type": "Text",
     "index_reference": "furaha",
@@ -6737,13 +6900,29 @@
           "end_ref_usfm": "PSA 119:70"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Happiness",
+          "type": "keyterm",
+          "preferred_label": "Happiness",
+          "confidence": 0.9152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Happy",
+          "type": "keyterm",
+          "preferred_label": "Happy",
+          "confidence": 0.8857,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 575566,
+    "content_id": "575566",
     "reference_id": 25923,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Furaha",
     "media_type": "Text",
     "index_reference": "furaha",
@@ -7845,13 +8024,29 @@
           "end_ref_usfm": "1TH 1:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Happiness",
+          "type": "keyterm",
+          "preferred_label": "Happiness",
+          "confidence": 0.9152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Happy",
+          "type": "keyterm",
+          "preferred_label": "Happy",
+          "confidence": 0.8857,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 575468,
+    "content_id": "575468",
     "reference_id": 25722,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Furahia",
     "media_type": "Text",
     "index_reference": "furahia",
@@ -7985,13 +8180,14 @@
           "label": "Sifa",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 626942,
+    "content_id": "626942",
     "reference_id": 25547,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Futa",
     "media_type": "Text",
     "index_reference": "futa",
@@ -8079,7 +8275,8 @@
           "end_ref_usfm": "EXO 32:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390734,
+    "content_id": "390734",
     "reference_id": 25803,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "葡萄",
     "media_type": "Text",
     "index_reference": "葡萄",
@@ -112,13 +112,14 @@
           "label": "葡萄酒",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391267,
+    "content_id": "391267",
     "reference_id": 26347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "葡萄酒",
     "media_type": "Text",
     "index_reference": "葡萄酒",
@@ -583,13 +584,22 @@
           "label": "酒醡",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.876,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391255,
+    "content_id": "391255",
     "reference_id": 26335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "葡萄藤",
     "media_type": "Text",
     "index_reference": "葡萄藤",
@@ -722,13 +732,14 @@
           "label": "葡萄園",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391256,
+    "content_id": "391256",
     "reference_id": 26336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "葡萄園",
     "media_type": "Text",
     "index_reference": "葡萄園",
@@ -1000,13 +1011,22 @@
           "label": "葡萄藤",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391139,
+    "content_id": "391139",
     "reference_id": 26217,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "僕人",
     "media_type": "Text",
     "index_reference": "僕人",
@@ -4097,7 +4117,8 @@
           "label": "公義",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

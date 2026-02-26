@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 237633,
+    "content_id": "237633",
     "reference_id": 25497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baal",
     "media_type": "Text",
     "index_reference": "baal",
@@ -91,13 +91,43 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "Baal",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Bamoth-baal",
+          "type": "place",
+          "preferred_label": "Bamote-Baal",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Ethbaal",
+          "type": "person",
+          "preferred_label": "Etbaal",
+          "confidence": 0.56,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237634,
+    "content_id": "237634",
     "reference_id": 25498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baasa",
     "media_type": "Text",
     "index_reference": "baasa",
@@ -140,13 +170,29 @@
           "label": "Falso deus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Baasha",
+          "type": "person",
+          "preferred_label": "Baasa",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "Asa",
+          "confidence": 0.6042,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237635,
+    "content_id": "237635",
     "reference_id": 25499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babel",
     "media_type": "Text",
     "index_reference": "babel",
@@ -190,13 +236,29 @@
           "label": "Mesopotâmia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babilônia",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237636,
+    "content_id": "237636",
     "reference_id": 25500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babilônia",
     "media_type": "Text",
     "index_reference": "babilônia",
@@ -434,13 +496,22 @@
           "label": "Nabucodonosor",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babilônia",
+          "confidence": 0.9647,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237637,
+    "content_id": "237637",
     "reference_id": 25501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Balaão",
     "media_type": "Text",
     "index_reference": "balaão",
@@ -562,13 +633,36 @@
           "label": "Peor",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "Balaão",
+          "confidence": 0.88,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "Balaque",
+          "confidence": 0.55,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Beor.2",
+          "type": "person",
+          "preferred_label": "Beor",
+          "confidence": 0.508,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237638,
+    "content_id": "237638",
     "reference_id": 25502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Banquete",
     "media_type": "Text",
     "index_reference": "banquete",
@@ -626,13 +720,14 @@
           "end_ref_usfm": "SNG 2:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237642,
+    "content_id": "237642",
     "reference_id": 25506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barnabé",
     "media_type": "Text",
     "index_reference": "barnabé",
@@ -858,13 +953,22 @@
           "label": "Paulo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Barnabé",
+          "confidence": 0.9355,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237640,
+    "content_id": "237640",
     "reference_id": 25504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barrabás",
     "media_type": "Text",
     "index_reference": "barrabás",
@@ -961,13 +1065,22 @@
           "label": "Roma",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "Barrabás",
+          "confidence": 0.9333,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237644,
+    "content_id": "237644",
     "reference_id": 25508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bartolomeu",
     "media_type": "Text",
     "index_reference": "bartolomeu",
@@ -1062,13 +1175,57 @@
           "label": "Os Doze",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bartholomew",
+          "type": "person",
+          "preferred_label": "Bartolomeu",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Alphaeus",
+          "type": "person",
+          "preferred_label": "Alfeu",
+          "confidence": 0.5485,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "Mateus",
+          "confidence": 0.535,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Tiago",
+          "confidence": 0.53,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Tomé",
+          "confidence": 0.517,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.508,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237645,
+    "content_id": "237645",
     "reference_id": 25509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baruque",
     "media_type": "Text",
     "index_reference": "baruque",
@@ -1150,13 +1307,43 @@
           "label": "Profeta",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Baruch.4",
+          "type": "person",
+          "preferred_label": "Baruque",
+          "confidence": 0.75,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baruch.2",
+          "type": "person",
+          "preferred_label": "Baruque",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baruch",
+          "type": "person",
+          "preferred_label": "Baruque",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Baruch.3",
+          "type": "person",
+          "preferred_label": "Baruque",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237646,
+    "content_id": "237646",
     "reference_id": 25510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Basã",
     "media_type": "Text",
     "index_reference": "basã",
@@ -1225,13 +1412,22 @@
           "label": "Síria",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bashan",
+          "type": "place",
+          "preferred_label": "Basã",
+          "confidence": 0.7833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237647,
+    "content_id": "237647",
     "reference_id": 25511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bate-Seba",
     "media_type": "Text",
     "index_reference": "bate-seba",
@@ -1287,13 +1483,22 @@
           "label": "Urias",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "Bate-Seba",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237639,
+    "content_id": "237639",
     "reference_id": 25503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Batizar",
     "media_type": "Text",
     "index_reference": "batizar",
@@ -1775,13 +1980,22 @@
           "label": "Arrepender",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "batismo",
+          "confidence": 0.7905,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237817,
+    "content_id": "237817",
     "reference_id": 25684,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bêbado",
     "media_type": "Text",
     "index_reference": "bêbado",
@@ -1937,13 +2151,14 @@
           "label": "Vinho",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238394,
+    "content_id": "238394",
     "reference_id": 26265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bebida Forte",
     "media_type": "Text",
     "index_reference": "bebida forte",
@@ -2023,13 +2238,22 @@
           "label": "Vinho",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.6676,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238076,
+    "content_id": "238076",
     "reference_id": 25944,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beijo",
     "media_type": "Text",
     "index_reference": "beijo",
@@ -2231,13 +2455,14 @@
           "end_ref_usfm": "GEN 27:27"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237666,
+    "content_id": "237666",
     "reference_id": 25530,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Belém",
     "media_type": "Text",
     "index_reference": "belém",
@@ -2377,13 +2602,22 @@
           "label": "Miquéias",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Belém",
+          "confidence": 0.9778,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237654,
+    "content_id": "237654",
     "reference_id": 25518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Belzebu",
     "media_type": "Text",
     "index_reference": "belzebu",
@@ -2463,13 +2697,22 @@
           "label": "Satanás",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Satanás",
+          "confidence": 0.746,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237661,
+    "content_id": "237661",
     "reference_id": 25525,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Benaia",
     "media_type": "Text",
     "index_reference": "benaia",
@@ -2550,13 +2793,64 @@
           "label": "Salomão",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Benaiah",
+          "type": "person",
+          "preferred_label": "Benaia",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.9",
+          "type": "person",
+          "preferred_label": "Benaia",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.3",
+          "type": "person",
+          "preferred_label": "Benaia",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.11",
+          "type": "person",
+          "preferred_label": "Benaia",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.10",
+          "type": "person",
+          "preferred_label": "Benaia",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benaiah.8",
+          "type": "person",
+          "preferred_label": "Benaia",
+          "confidence": 0.65,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Bedeiah",
+          "type": "person",
+          "preferred_label": "Bedias",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237662,
+    "content_id": "237662",
     "reference_id": 25526,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Benjamim",
     "media_type": "Text",
     "index_reference": "benjamim",
@@ -2810,13 +3104,50 @@
           "label": "Raquel",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Benjamin",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.9263,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.6105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.6105,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Benjamin.3",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.6105,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Benjamin",
+          "type": "group",
+          "preferred_label": "Benjamim",
+          "confidence": 0.5974,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237663,
+    "content_id": "237663",
     "reference_id": 25527,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bereia",
     "media_type": "Text",
     "index_reference": "bereia",
@@ -2885,13 +3216,36 @@
           "label": "Tessalônica",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Berea",
+          "type": "place",
+          "preferred_label": "Bereia",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Berea",
+          "type": "group",
+          "preferred_label": "Bereans",
+          "confidence": 0.5632,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "Tessalônica",
+          "confidence": 0.521,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237655,
+    "content_id": "237655",
     "reference_id": 25519,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berseba",
     "media_type": "Text",
     "index_reference": "berseba",
@@ -3028,13 +3382,22 @@
           "label": "Juramento",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beersheba",
+          "type": "place",
+          "preferred_label": "Berseba",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237653,
+    "content_id": "237653",
     "reference_id": 25517,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Besta",
     "media_type": "Text",
     "index_reference": "besta",
@@ -3500,13 +3863,14 @@
           "label": "Nação",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237664,
+    "content_id": "237664",
     "reference_id": 25528,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Betânia",
     "media_type": "Text",
     "index_reference": "betânia",
@@ -3649,13 +4013,29 @@
           "label": "Monte das Oliveiras",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethany",
+          "type": "place",
+          "preferred_label": "Betânia",
+          "confidence": 0.8588,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Bethany.2",
+          "type": "place",
+          "preferred_label": "Betânia",
+          "confidence": 0.6235,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237667,
+    "content_id": "237667",
     "reference_id": 25531,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bete-Semes",
     "media_type": "Text",
     "index_reference": "bete-semes",
@@ -3732,13 +4112,43 @@
           "label": "Filisteus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beth-shemesh.2",
+          "type": "place",
+          "preferred_label": "Bete-Semes",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Beth-shemesh.3",
+          "type": "place",
+          "preferred_label": "Bete-Semes",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Beth-shemesh",
+          "type": "place",
+          "preferred_label": "Bete-Semes",
+          "confidence": 0.5833,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Beth-pazzez",
+          "type": "place",
+          "preferred_label": "Bete-Pasês",
+          "confidence": 0.5497,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237665,
+    "content_id": "237665",
     "reference_id": 25529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Betel",
     "media_type": "Text",
     "index_reference": "betel",
@@ -3879,13 +4289,22 @@
           "label": "Jerusalém",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "Betel",
+          "confidence": 0.9765,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237668,
+    "content_id": "237668",
     "reference_id": 25532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Betuel",
     "media_type": "Text",
     "index_reference": "betuel",
@@ -3984,13 +4403,29 @@
           "label": "Rebeca",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bethuel",
+          "type": "person",
+          "preferred_label": "Betuel",
+          "confidence": 0.96,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Bethuel",
+          "type": "place",
+          "preferred_label": "Betuel",
+          "confidence": 0.64,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237676,
+    "content_id": "237676",
     "reference_id": 25540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bila",
     "media_type": "Text",
     "index_reference": "bila",
@@ -4083,13 +4518,22 @@
           "label": "Raquel",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bilhah",
+          "type": "person",
+          "preferred_label": "Bila",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237679,
+    "content_id": "237679",
     "reference_id": 25543,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Blasfêmia",
     "media_type": "Text",
     "index_reference": "blasfêmia",
@@ -4372,13 +4816,22 @@
           "label": "Calúnia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Blaspheme",
+          "type": "keyterm",
+          "preferred_label": "blasfemar",
+          "confidence": 0.806,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237929,
+    "content_id": "237929",
     "reference_id": 25796,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Boas Notícias",
     "media_type": "Text",
     "index_reference": "boas notícias",
@@ -5004,13 +5457,22 @@
           "label": "Salvar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "boa notícia",
+          "confidence": 0.9397,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237684,
+    "content_id": "237684",
     "reference_id": 25548,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Boaz",
     "media_type": "Text",
     "index_reference": "boaz",
@@ -5180,13 +5642,22 @@
           "label": "Rute",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Boaz",
+          "type": "person",
+          "preferred_label": "Boaz",
+          "confidence": 0.95,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237920,
+    "content_id": "237920",
     "reference_id": 25787,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bode",
     "media_type": "Text",
     "index_reference": "bode",
@@ -5418,13 +5889,22 @@
           "label": "Vinho",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Goat",
+          "type": "fauna",
+          "preferred_label": "Goat",
+          "confidence": 0.5919,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237928,
+    "content_id": "237928",
     "reference_id": 25795,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bom",
     "media_type": "Text",
     "index_reference": "bom",
@@ -7670,13 +8150,22 @@
           "label": "Justo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Honest",
+          "type": "keyterm",
+          "preferred_label": "bom",
+          "confidence": 0.6097,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237694,
+    "content_id": "237694",
     "reference_id": 25559,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bronze",
     "media_type": "Text",
     "index_reference": "bronze",
@@ -7972,13 +8461,14 @@
           "label": "Templo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237811,
+    "content_id": "237811",
     "reference_id": 25678,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Burro",
     "media_type": "Text",
     "index_reference": "burro",
@@ -8276,13 +8766,22 @@
           "end_ref_usfm": "DEU 5:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "fauna:Donkey",
+          "type": "fauna",
+          "preferred_label": "Donkey",
+          "confidence": 0.6696,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 238338,
+    "content_id": "238338",
     "reference_id": 26209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Buscar",
     "media_type": "Text",
     "index_reference": "buscar",
@@ -9440,7 +9939,8 @@
           "label": "Justiça",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

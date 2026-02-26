@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390586,
+    "content_id": "390586",
     "reference_id": 25649,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "宣告",
     "media_type": "Text",
     "index_reference": "宣告",
@@ -291,13 +291,29 @@
           "label": "講道",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Declare",
+          "type": "keyterm",
+          "preferred_label": "Declare",
+          "confidence": 0.8746,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Proclaim",
+          "type": "keyterm",
+          "preferred_label": "Proclaim",
+          "confidence": 0.8717,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390748,
+    "content_id": "390748",
     "reference_id": 25817,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "懸掛",
     "media_type": "Text",
     "index_reference": "懸掛",
@@ -373,13 +389,14 @@
           "end_ref_usfm": "MAT 27:5"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 390631,
+    "content_id": "390631",
     "reference_id": 25695,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "選民",
     "media_type": "Text",
     "index_reference": "選民",
@@ -752,7 +769,8 @@
           "label": "基督",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

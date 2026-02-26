@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390460,
+    "content_id": "390460",
     "reference_id": 25519,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "別是巴",
     "media_type": "Text",
     "index_reference": "別是巴",
@@ -139,13 +139,22 @@
           "label": "誓約",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Beersheba",
+          "type": "place",
+          "preferred_label": "Beersheba",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390459,
+    "content_id": "390459",
     "reference_id": 25518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "別西卜",
     "media_type": "Text",
     "index_reference": "別西卜",
@@ -225,7 +234,8 @@
           "label": "撒但",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390400,
+    "content_id": "390400",
     "reference_id": 25459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天使",
     "media_type": "Text",
     "index_reference": "天使",
@@ -1176,13 +1176,29 @@
           "label": "僕人",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Angels",
+          "type": "group",
+          "preferred_label": "Angels",
+          "confidence": 0.849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Angel",
+          "type": "deity",
+          "preferred_label": "An Angel",
+          "confidence": 0.8085,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390756,
+    "content_id": "390756",
     "reference_id": 25825,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天堂",
     "media_type": "Text",
     "index_reference": "天堂",
@@ -3533,6 +3549,15 @@
           "resource_code": "UWTranslationWords",
           "label": "神的國",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Heavenly",
+          "type": "keyterm",
+          "preferred_label": "Heavenly",
+          "confidence": 0.8233,
+          "match_method": "embedding"
         }
       ]
     }

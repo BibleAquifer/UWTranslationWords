@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391268,
+    "content_id": "391268",
     "reference_id": 26348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "酒醡",
     "media_type": "Text",
     "index_reference": "酒醡",
@@ -75,13 +75,22 @@
           "label": "忿怒",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Winepress",
+          "type": "realia",
+          "preferred_label": "Winepress",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 390568,
+    "content_id": "390568",
     "reference_id": 25631,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "酒政",
     "media_type": "Text",
     "index_reference": "酒政",
@@ -193,13 +202,14 @@
           "label": "法老",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391123,
+    "content_id": "391123",
     "reference_id": 26201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "救",
     "media_type": "Text",
     "index_reference": "救",
@@ -1211,13 +1221,22 @@
           "label": "罪",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Rescue",
+          "type": "keyterm",
+          "preferred_label": "Rescue",
+          "confidence": 0.8409,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391083,
+    "content_id": "391083",
     "reference_id": 26161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "救贖",
     "media_type": "Text",
     "index_reference": "救贖",
@@ -1512,13 +1531,29 @@
           "label": "贖金",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Salvation",
+          "type": "keyterm",
+          "preferred_label": "Salvation",
+          "confidence": 0.8836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Rescue",
+          "type": "keyterm",
+          "preferred_label": "Rescue",
+          "confidence": 0.8513,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 391124,
+    "content_id": "391124",
     "reference_id": 26202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "救主",
     "media_type": "Text",
     "index_reference": "救主",
@@ -1717,6 +1752,15 @@
           "resource_code": "UWTranslationWords",
           "label": "救",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Savior",
+          "type": "keyterm",
+          "preferred_label": "Savior",
+          "confidence": 0.8349,
+          "match_method": "embedding"
         }
       ]
     }

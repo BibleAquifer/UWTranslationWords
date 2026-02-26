@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390981,
+    "content_id": "390981",
     "reference_id": 26055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "挪亞",
     "media_type": "Text",
     "index_reference": "挪亞",
@@ -290,6 +290,15 @@
           "resource_code": "UWTranslationWords",
           "label": "後裔",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 0.5409,
+          "match_method": "scored"
         }
       ]
     }

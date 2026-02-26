@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 466803,
+    "content_id": "466803",
     "reference_id": 25640,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Damas",
     "media_type": "Text",
     "index_reference": "damas",
@@ -161,13 +161,22 @@
           "label": "Croire",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "Damas",
+          "confidence": 0.913,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466804,
+    "content_id": "466804",
     "reference_id": 25641,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dan",
     "media_type": "Text",
     "index_reference": "dan",
@@ -264,13 +273,36 @@
           "label": "Jacob",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "Dan",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "Dan",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "Dan",
+          "confidence": 0.61,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466805,
+    "content_id": "466805",
     "reference_id": 25642,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daniel",
     "media_type": "Text",
     "index_reference": "daniel",
@@ -325,13 +357,22 @@
           "label": "Nébucadnetsar",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466806,
+    "content_id": "466806",
     "reference_id": 25643,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Darius",
     "media_type": "Text",
     "index_reference": "darius",
@@ -454,13 +495,29 @@
           "label": "Perse",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466808,
+    "content_id": "466808",
     "reference_id": 25645,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "David",
     "media_type": "Text",
     "index_reference": "david",
@@ -918,13 +975,22 @@
           "label": "Saül (AT)",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 0.9833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467449,
+    "content_id": "467449",
     "reference_id": 26341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Déchets",
     "media_type": "Text",
     "index_reference": "déchets",
@@ -994,13 +1060,14 @@
           "end_ref_usfm": "ZEC 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466812,
+    "content_id": "466812",
     "reference_id": 25649,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "déclarer, proclamer, annoncer, publier",
     "media_type": "Text",
     "index_reference": "déclarer, proclamer, annoncer, publier",
@@ -1289,13 +1356,14 @@
           "label": "Prêcher",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466813,
+    "content_id": "466813",
     "reference_id": 25650,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "décret, édit, publier un décret",
     "media_type": "Text",
     "index_reference": "décret, édit, publier un décret",
@@ -1488,13 +1556,14 @@
           "label": "loi",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466814,
+    "content_id": "466814",
     "reference_id": 25651,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dédier",
     "media_type": "Text",
     "index_reference": "dédier ",
@@ -1584,13 +1653,14 @@
           "label": "Commettre ",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466716,
+    "content_id": "466716",
     "reference_id": 25544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Défaut",
     "media_type": "Text",
     "index_reference": "défaut",
@@ -1665,13 +1735,14 @@
           "label": "Péché",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466817,
+    "content_id": "466817",
     "reference_id": 25654,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Delice",
     "media_type": "Text",
     "index_reference": "delice",
@@ -1945,13 +2016,14 @@
           "end_ref_usfm": "PSA 119:70"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466818,
+    "content_id": "466818",
     "reference_id": 25655,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Delila",
     "media_type": "Text",
     "index_reference": "delila",
@@ -2007,13 +2079,22 @@
           "label": "Samson",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "Delila",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466820,
+    "content_id": "466820",
     "reference_id": 25658,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Démon",
     "media_type": "Text",
     "index_reference": "démon",
@@ -2600,13 +2681,29 @@
           "label": "Satan",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Demons",
+          "type": "deity",
+          "preferred_label": "Demons",
+          "confidence": 0.7482,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:DemonPossessed",
+          "type": "keyterm",
+          "preferred_label": "être possédé par un démon",
+          "confidence": 0.6135,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466821,
+    "content_id": "466821",
     "reference_id": 25659,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Démoniaque",
     "media_type": "Text",
     "index_reference": "démoniaque",
@@ -2720,13 +2817,22 @@
           "label": "Démon",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:DemonPossessed",
+          "type": "keyterm",
+          "preferred_label": "être possédé par un démon",
+          "confidence": 0.655,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467097,
+    "content_id": "467097",
     "reference_id": 25956,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derniers jours",
     "media_type": "Text",
     "index_reference": "derniers jours",
@@ -2878,13 +2984,14 @@
           "label": "Monde",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466822,
+    "content_id": "466822",
     "reference_id": 25660,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Descendant",
     "media_type": "Text",
     "index_reference": "descendant",
@@ -3043,13 +3150,14 @@
           "label": "Noé",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466824,
+    "content_id": "466824",
     "reference_id": 25662,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Desert",
     "media_type": "Text",
     "index_reference": "desert",
@@ -3569,13 +3677,50 @@
           "end_ref_usfm": "GEN 37:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Shur",
+          "type": "place",
+          "preferred_label": "Shur",
+          "confidence": 0.6092,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:SinaiWilderness",
+          "type": "place",
+          "preferred_label": "désert de Sinaï",
+          "confidence": 0.6092,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Paran",
+          "type": "place",
+          "preferred_label": "Paran",
+          "confidence": 0.6046,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sin",
+          "type": "place",
+          "preferred_label": "désert de Sin",
+          "confidence": 0.6046,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Etham",
+          "type": "place",
+          "preferred_label": "Étham",
+          "confidence": 0.6046,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 466832,
+    "content_id": "466832",
     "reference_id": 25672,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deshonneur",
     "media_type": "Text",
     "index_reference": "deshonneur ",
@@ -3695,13 +3840,14 @@
           "label": "Honneur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466827,
+    "content_id": "466827",
     "reference_id": 25665,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Détestable",
     "media_type": "Text",
     "index_reference": "détestable",
@@ -3768,13 +3914,14 @@
           "label": "Devination ",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466826,
+    "content_id": "466826",
     "reference_id": 25664,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Detruire",
     "media_type": "Text",
     "index_reference": "detruire",
@@ -4095,13 +4242,14 @@
           "label": "La Pâques",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467172,
+    "content_id": "467172",
     "reference_id": 26035,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deuil",
     "media_type": "Text",
     "index_reference": "deuil",
@@ -4336,13 +4484,14 @@
           "label": "Péché",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466828,
+    "content_id": "466828",
     "reference_id": 25666,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Devaster",
     "media_type": "Text",
     "index_reference": "devaster ",
@@ -4390,13 +4539,14 @@
           "label": "Ruine",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466834,
+    "content_id": "466834",
     "reference_id": 25674,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Devination",
     "media_type": "Text",
     "index_reference": "devination ",
@@ -4483,13 +4633,14 @@
           "label": "Sorcellerie",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466829,
+    "content_id": "466829",
     "reference_id": 25667,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Devorer",
     "media_type": "Text",
     "index_reference": "devorer",
@@ -4795,13 +4946,14 @@
           "label": "Consumer ",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466810,
+    "content_id": "466810",
     "reference_id": 25647,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diacre",
     "media_type": "Text",
     "index_reference": "diacre",
@@ -4856,13 +5008,14 @@
           "label": "Serviteur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466883,
+    "content_id": "466883",
     "reference_id": 25728,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu",
     "media_type": "Text",
     "index_reference": "dieu",
@@ -5211,13 +5364,14 @@
           "label": "Adorer",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466937,
+    "content_id": "466937",
     "reference_id": 25788,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu",
     "media_type": "Text",
     "index_reference": "dieu",
@@ -14084,13 +14238,29 @@
           "label": "L'Éternel, Yahvé",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.7279,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Blaspheme",
+          "type": "keyterm",
+          "preferred_label": "parler contre dieu",
+          "confidence": 0.6022,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466939,
+    "content_id": "466939",
     "reference_id": 25790,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu le Père",
     "media_type": "Text",
     "index_reference": "dieu le père",
@@ -15510,13 +15680,22 @@
           "label": "Fils de Dieu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Éternel",
+          "confidence": 0.6344,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 32928,
+    "content_id": "32928",
     "reference_id": 26184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "dirigeant",
     "media_type": "Text",
     "index_reference": "dirigeant",
@@ -16371,13 +16550,22 @@
           "label": "Synagogue",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Diligent",
+          "type": "keyterm",
+          "preferred_label": "personne diligente",
+          "confidence": 0.5219,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466830,
+    "content_id": "466830",
     "reference_id": 25668,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Discerner",
     "media_type": "Text",
     "index_reference": "discerner ",
@@ -16630,13 +16818,29 @@
           "label": "Sage",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Discern",
+          "type": "keyterm",
+          "preferred_label": "évaluer",
+          "confidence": 0.686,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Perceive",
+          "type": "keyterm",
+          "preferred_label": "percevoir",
+          "confidence": 0.5615,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466831,
+    "content_id": "466831",
     "reference_id": 25669,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Disciple",
     "media_type": "Text",
     "index_reference": "disciple",
@@ -18206,13 +18410,29 @@
           "label": "Douze",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "trans. faire un disciple de",
+          "confidence": 0.9922,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:GenericDisciple",
+          "type": "person",
+          "preferred_label": "A Disciple",
+          "confidence": 0.6016,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466833,
+    "content_id": "466833",
     "reference_id": 25673,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Disperser",
     "media_type": "Text",
     "index_reference": "disperser ",
@@ -18365,13 +18585,14 @@
           "label": "Exil",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466835,
+    "content_id": "466835",
     "reference_id": 25675,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Divin",
     "media_type": "Text",
     "index_reference": "divin",
@@ -18459,13 +18680,22 @@
           "label": "Juger",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "divin",
+          "confidence": 0.8286,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 467400,
+    "content_id": "467400",
     "reference_id": 26286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dix Commandements",
     "media_type": "Text",
     "index_reference": "dix commandements",
@@ -18542,13 +18772,14 @@
           "label": "loi",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467402,
+    "content_id": "467402",
     "reference_id": 26288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dixième",
     "media_type": "Text",
     "index_reference": "dixième",
@@ -18730,13 +18961,14 @@
           "label": "Temple, maison de Dieu",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466836,
+    "content_id": "466836",
     "reference_id": 25676,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Doctrine",
     "media_type": "Text",
     "index_reference": "doctrine",
@@ -18842,13 +19074,14 @@
           "end_ref_usfm": "MAT 15:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 466837,
+    "content_id": "466837",
     "reference_id": 25677,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Domination",
     "media_type": "Text",
     "index_reference": "domination",
@@ -18938,13 +19171,14 @@
           "label": "autorité",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467144,
+    "content_id": "467144",
     "reference_id": 26007,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Doux",
     "media_type": "Text",
     "index_reference": "doux",
@@ -19016,13 +19250,14 @@
           "label": "Humble",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 467410,
+    "content_id": "467410",
     "reference_id": 26296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Douze",
     "media_type": "Text",
     "index_reference": "douze",
@@ -19293,13 +19528,14 @@
           "label": "Disciple",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466598,
+    "content_id": "466598",
     "reference_id": 25416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Douze tribus d'Israël",
     "media_type": "Text",
     "index_reference": "douze tribus d'israël",
@@ -19464,13 +19700,22 @@
           "label": "Tribu",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israël",
+          "confidence": 0.65,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 466713,
+    "content_id": "466713",
     "reference_id": 25541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Droit d'aînesse",
     "media_type": "Text",
     "index_reference": "droit d'aînesse",
@@ -19556,13 +19801,14 @@
           "label": "Hériter",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 466969,
+    "content_id": "466969",
     "reference_id": 25821,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dur",
     "media_type": "Text",
     "index_reference": "dur",
@@ -19764,7 +20010,8 @@
           "end_ref_usfm": "REV 2:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

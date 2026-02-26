@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 144728,
+    "content_id": "144728",
     "reference_id": 25621,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Covenant",
     "media_type": "Text",
     "index_reference": "Covenant",
@@ -519,13 +519,29 @@
           "label": "وعد",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 0.9628,
+          "match_method": "scored"
+        },
+        {
+          "id": "realia:ArkOfTheCovenant",
+          "type": "realia",
+          "preferred_label": "Ark of the Covenant",
+          "confidence": 0.6093,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144753,
+    "content_id": "144753",
     "reference_id": 25836,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "High Priest",
     "media_type": "Text",
     "index_reference": "High Priest",
@@ -1332,13 +1348,14 @@
           "label": "هيكل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144769,
+    "content_id": "144769",
     "reference_id": 25932,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Justice",
     "media_type": "Text",
     "index_reference": "Justice",
@@ -1935,13 +1952,22 @@
           "label": "بار",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GrantJustice",
+          "type": "keyterm",
+          "preferred_label": "Avenge",
+          "confidence": 0.6117,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144773,
+    "content_id": "144773",
     "reference_id": 25958,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lawful",
     "media_type": "Text",
     "index_reference": "Lawful",
@@ -2292,13 +2318,29 @@
           "label": "موسى",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Lawful",
+          "type": "keyterm",
+          "preferred_label": "Be Lawful",
+          "confidence": 0.8,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Lawless",
+          "type": "keyterm",
+          "preferred_label": "Lawless",
+          "confidence": 0.5846,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144815,
+    "content_id": "144815",
     "reference_id": 26220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shame",
     "media_type": "Text",
     "index_reference": "Shame",
@@ -3032,7 +3074,8 @@
           "label": "عبادة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

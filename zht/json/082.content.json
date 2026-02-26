@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391219,
+    "content_id": "391219",
     "reference_id": 26299,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "荊棘",
     "media_type": "Text",
     "index_reference": "荊棘",
@@ -160,13 +160,14 @@
           "label": "靈",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390918,
+    "content_id": "390918",
     "reference_id": 25992,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "經理",
     "media_type": "Text",
     "index_reference": "經理",
@@ -358,13 +359,14 @@
           "label": "僕人",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391153,
+    "content_id": "391153",
     "reference_id": 26231,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "精明",
     "media_type": "Text",
     "index_reference": "精明",
@@ -386,13 +388,22 @@
           "end_ref_usfm": "EXO 21:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Crafty",
+          "type": "keyterm",
+          "preferred_label": "Crafty",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 390779,
+    "content_id": "390779",
     "reference_id": 25849,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "驚駭",
     "media_type": "Text",
     "index_reference": "驚駭",
@@ -447,13 +458,14 @@
           "label": "恐怖",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390385,
+    "content_id": "390385",
     "reference_id": 25444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "警報",
     "media_type": "Text",
     "index_reference": "警報",
@@ -502,13 +514,14 @@
           "label": "摩押",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391277,
+    "content_id": "391277",
     "reference_id": 26357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "敬拜",
     "media_type": "Text",
     "index_reference": "敬拜",
@@ -1010,13 +1023,22 @@
           "label": "獻祭",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Worship",
+          "type": "keyterm",
+          "preferred_label": "Worship",
+          "confidence": 0.855,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390721,
+    "content_id": "390721",
     "reference_id": 25789,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "敬虔",
     "media_type": "Text",
     "index_reference": "敬虔",
@@ -1282,13 +1304,14 @@
           "label": "公義",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390435,
+    "content_id": "390435",
     "reference_id": 25494,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "敬畏",
     "media_type": "Text",
     "index_reference": "敬畏",
@@ -1343,13 +1366,14 @@
           "label": "榮耀",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391097,
+    "content_id": "391097",
     "reference_id": 26175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "敬畏",
     "media_type": "Text",
     "index_reference": "敬畏",
@@ -1428,7 +1452,8 @@
           "label": "尊貴",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

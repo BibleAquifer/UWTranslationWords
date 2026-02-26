@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 391051,
+    "content_id": "391051",
     "reference_id": 26127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "應許",
     "media_type": "Text",
     "index_reference": "應許",
@@ -381,13 +381,22 @@
           "label": "誓約",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Promise",
+          "type": "keyterm",
+          "preferred_label": "Promise",
+          "confidence": 0.5056,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 391052,
+    "content_id": "391052",
     "reference_id": 26128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "應許之地",
     "media_type": "Text",
     "index_reference": "應許之地",
@@ -424,13 +433,14 @@
           "label": "應許",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390695,
+    "content_id": "390695",
     "reference_id": 25761,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "應驗",
     "media_type": "Text",
     "index_reference": "應驗",
@@ -870,13 +880,14 @@
           "label": "先知",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390623,
+    "content_id": "390623",
     "reference_id": 25686,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "鷹",
     "media_type": "Text",
     "index_reference": "鷹",
@@ -980,7 +991,8 @@
           "label": "尼布甲尼撒",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

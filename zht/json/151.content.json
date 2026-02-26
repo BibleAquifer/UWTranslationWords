@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 390518,
+    "content_id": "390518",
     "reference_id": 25579,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "人口普查",
     "media_type": "Text",
     "index_reference": "人口普查",
@@ -57,13 +57,14 @@
           "label": "羅馬城",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391173,
+    "content_id": "391173",
     "reference_id": 26251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "人子",
     "media_type": "Text",
     "index_reference": "人子",
@@ -605,13 +606,22 @@
           "label": "雅巍",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:GenericMale",
+          "type": "person",
+          "preferred_label": "A Man",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 390637,
+    "content_id": "390637",
     "reference_id": 25701,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "忍耐",
     "media_type": "Text",
     "index_reference": "忍耐",
@@ -929,13 +939,14 @@
           "label": "忍耐",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391003,
+    "content_id": "391003",
     "reference_id": 26077,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "忍耐",
     "media_type": "Text",
     "index_reference": "忍耐",
@@ -1135,13 +1146,14 @@
           "label": "忍耐",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 391015,
+    "content_id": "391015",
     "reference_id": 26090,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "忍耐",
     "media_type": "Text",
     "index_reference": "忍耐",
@@ -1226,13 +1238,14 @@
           "label": "試煉",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 390408,
+    "content_id": "390408",
     "reference_id": 25467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "任命",
     "media_type": "Text",
     "index_reference": "任命",
@@ -1860,7 +1873,16 @@
           "end_ref_usfm": "NUM 3:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Appoint",
+          "type": "keyterm",
+          "preferred_label": "Appoint",
+          "confidence": 0.8508,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

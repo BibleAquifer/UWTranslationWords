@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 196235,
+    "content_id": "196235",
     "reference_id": 25825,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الجنّة",
     "media_type": "Text",
     "index_reference": "الجنّة",
@@ -2354,13 +2354,14 @@
           "label": "ملكوت الله",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196186,
+    "content_id": "196186",
     "reference_id": 25771,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الجيل - الأشخاص الذين يعيشون في نفس الحِقْبَة الزمنية",
     "media_type": "Text",
     "index_reference": "الجيل - الأشخاص الذين يعيشون في نفس الحِقْبَة الزمنية",
@@ -2369,13 +2370,14 @@
     "content": "<h1>جيل</h1><h2>التعريف:</h2><p>يشير مصطلح &quot;جيل&quot; في هذا السياق إلى الأشخاص الذين يعيشون في نفس الحِقْبَة الزمنية. هؤلاء  يشتركون معًا بوجه عام في نفس الثقافة والخبرات وأسلوب الحياة.</p><h2>اقتراحات التَّرْجَمَة</h2><ul><li><p>يمكن تَرْجَمَة عبارة &quot;جيل آبائه&quot; إلى &quot;أسلافه&quot; أو &quot;الذين عاشوا قبله&quot;.</p></li><li><p>يمكن تَرْجَمَة عبارة &quot;هذا الجيل&quot; أو &quot;أبناء هذا الجيل&quot; إلى &quot;الناس الذين يعيشون الآن&quot; أو &quot;أيها الناس- أو يا قوم&quot;.</p></li><li><p>يمكن تَرْجَمَة عبارة &quot;أجيال المستقبل&quot; إلى &quot;الذين يعيشون من بعدنا&quot; أو &quot;الأشخاص الذين يعيشون في وقت لاحق&quot;.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونغ:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 196180,
+    "content_id": "196180",
     "reference_id": 25764,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جاد",
     "media_type": "Text",
     "index_reference": "جاد",
@@ -2467,13 +2469,22 @@
           "label": "زِلْفَة",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "جَاد",
+          "confidence": 0.6834,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196419,
+    "content_id": "196419",
     "reference_id": 26050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جار",
     "media_type": "Text",
     "index_reference": "جار",
@@ -2842,13 +2853,14 @@
           "label": "السامرة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196209,
+    "content_id": "196209",
     "reference_id": 25797,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَاسَان",
     "media_type": "Text",
     "index_reference": "جَاسَان",
@@ -2983,13 +2995,22 @@
           "label": "نهر النيل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "جَاسَانَ",
+          "confidence": 0.8316,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196164,
+    "content_id": "196164",
     "reference_id": 25748,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جاهل (أحمق)",
     "media_type": "Text",
     "index_reference": "جاهل (أحمق)",
@@ -3787,13 +3808,22 @@
           "label": "حكيم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Foolish",
+          "type": "keyterm",
+          "preferred_label": "Foolish",
+          "confidence": 0.8117,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196191,
+    "content_id": "196191",
     "reference_id": 25777,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جبّار أو عملاق",
     "media_type": "Text",
     "index_reference": "جبّار أو عملاق",
@@ -3837,13 +3867,14 @@
           "label": "الفلسطينيون",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196179,
+    "content_id": "196179",
     "reference_id": 25763,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جبرائيل",
     "media_type": "Text",
     "index_reference": "جبرائيل",
@@ -3934,13 +3965,22 @@
           "label": "زكريا (العهد الجديد)",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "جِبْرَائِيل",
+          "confidence": 0.6147,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196192,
+    "content_id": "196192",
     "reference_id": 25778,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جِبعَة",
     "media_type": "Text",
     "index_reference": "جِبعَة",
@@ -3996,13 +4036,78 @@
           "label": "أورشليم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gibeah",
+          "type": "place",
+          "preferred_label": "جِبْعَةَ",
+          "confidence": 0.9118,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zebidah",
+          "type": "person",
+          "preferred_label": "زَبِيدَة",
+          "confidence": 0.8568,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashvath",
+          "type": "person",
+          "preferred_label": "عَشْة",
+          "confidence": 0.8456,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ziphah",
+          "type": "person",
+          "preferred_label": "زِيفَة",
+          "confidence": 0.8266,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mithkah",
+          "type": "place",
+          "preferred_label": "مِثْقَةَ",
+          "confidence": 0.8262,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Keturah",
+          "type": "person",
+          "preferred_label": "قَطورَة",
+          "confidence": 0.813,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shebna",
+          "type": "person",
+          "preferred_label": "شِبْنَة",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "دِمَشْقَ",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dophkah",
+          "type": "place",
+          "preferred_label": "دفْقَةَ",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196193,
+    "content_id": "196193",
     "reference_id": 25779,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جبعون",
     "media_type": "Text",
     "index_reference": "جبعون",
@@ -4064,13 +4169,22 @@
           "label": "أورشليم",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gibeon",
+          "type": "place",
+          "preferred_label": "جِبْعونَ",
+          "confidence": 0.7626,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144785,
+    "content_id": "144785",
     "reference_id": 26034,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جبل الزيتون",
     "media_type": "Text",
     "index_reference": "جبل الزيتون",
@@ -4173,13 +4287,14 @@
           "label": "زيتون",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196407,
+    "content_id": "196407",
     "reference_id": 26033,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَبَل حَرْمُون",
     "media_type": "Text",
     "index_reference": "جَبَل حَرْمُون",
@@ -4241,13 +4356,22 @@
           "label": "سوريا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:HermonMount",
+          "type": "place",
+          "preferred_label": "حَرْمونَ",
+          "confidence": 0.7015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196183,
+    "content_id": "196183",
     "reference_id": 25768,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جت",
     "media_type": "Text",
     "index_reference": "جت",
@@ -4324,13 +4448,14 @@
           "label": "الفلسطينيون",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144744,
+    "content_id": "144744",
     "reference_id": 25776,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جثسيماني",
     "media_type": "Text",
     "index_reference": "جثسيماني",
@@ -4374,13 +4499,22 @@
           "label": "جبل الزيتون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gethsemane",
+          "type": "place",
+          "preferred_label": "جَثْسَيْمَانِي",
+          "confidence": 0.73,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144750,
+    "content_id": "144750",
     "reference_id": 25829,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جحيم",
     "media_type": "Text",
     "index_reference": "جحيم",
@@ -4514,13 +4648,14 @@
           "label": "الجنّة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196194,
+    "content_id": "196194",
     "reference_id": 25780,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جدعون",
     "media_type": "Text",
     "index_reference": "جدعون",
@@ -4596,13 +4731,22 @@
           "label": "يهوه",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "جِدْعونَ",
+          "confidence": 0.6568,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144776,
+    "content_id": "144776",
     "reference_id": 25971,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جراد",
     "media_type": "Text",
     "index_reference": "جراد",
@@ -4732,13 +4876,14 @@
           "label": "الوبأ",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196189,
+    "content_id": "196189",
     "reference_id": 25774,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَرار",
     "media_type": "Text",
     "index_reference": "جَرار",
@@ -4837,13 +4982,22 @@
           "label": "الفلسطينيون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gerar",
+          "type": "place",
+          "preferred_label": "جَرَارَ",
+          "confidence": 0.8058,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196607,
+    "content_id": "196607",
     "reference_id": 26274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جرف",
     "media_type": "Text",
     "index_reference": "جرف",
@@ -4960,13 +5114,14 @@
           "label": "نبي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144826,
+    "content_id": "144826",
     "reference_id": 26282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جزية",
     "media_type": "Text",
     "index_reference": "جزية",
@@ -5262,13 +5417,22 @@
           "label": "الخطية",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:WayOfHoliness",
+          "type": "place",
+          "preferred_label": "طَرِيقٌ",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196640,
+    "content_id": "196640",
     "reference_id": 26318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جزية",
     "media_type": "Text",
     "index_reference": "جزية",
@@ -5373,13 +5537,22 @@
           "label": "جزية",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:WayOfHoliness",
+          "type": "place",
+          "preferred_label": "طَرِيقٌ",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 196190,
+    "content_id": "196190",
     "reference_id": 25775,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَشُور",
     "media_type": "Text",
     "index_reference": "جَشُور",
@@ -5442,13 +5615,22 @@
           "label": "آرام",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Geshur",
+          "type": "place",
+          "preferred_label": "جَشورَ",
+          "confidence": 0.6381,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196196,
+    "content_id": "196196",
     "reference_id": 25782,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جلجال",
     "media_type": "Text",
     "index_reference": "جلجال",
@@ -5517,13 +5699,14 @@
           "label": "نهر الأردن",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 144745,
+    "content_id": "144745",
     "reference_id": 25792,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جلجثة",
     "media_type": "Text",
     "index_reference": "جلجثة",
@@ -5566,13 +5749,22 @@
           "label": "جبل الزيتون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Golgotha",
+          "type": "place",
+          "preferred_label": "Golgotha",
+          "confidence": 0.55,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196195,
+    "content_id": "196195",
     "reference_id": 25781,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جِلْعَاد",
     "media_type": "Text",
     "index_reference": "جِلْعَاد",
@@ -5690,13 +5882,22 @@
           "label": "رَأُوبَيْن",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "جِلْعَادَ",
+          "confidence": 0.9077,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196206,
+    "content_id": "196206",
     "reference_id": 25793,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جُلْيَات",
     "media_type": "Text",
     "index_reference": "جُلْيَات",
@@ -5745,13 +5946,36 @@
           "label": "الفلسطينيون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Goliath",
+          "type": "person",
+          "preferred_label": "جلْيَات",
+          "confidence": 0.7685,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "فِلِشْتِيم",
+          "confidence": 0.7015,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Lahmi",
+          "type": "person",
+          "preferred_label": "لَحْمِيَ",
+          "confidence": 0.5015,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144743,
+    "content_id": "144743",
     "reference_id": 25766,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جليل",
     "media_type": "Text",
     "index_reference": "جليل",
@@ -6227,13 +6451,22 @@
           "label": "بحر الجليل",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "ٱلْجَلِيلِ",
+          "confidence": 0.7703,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 144720,
+    "content_id": "144720",
     "reference_id": 25570,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَمَل",
     "media_type": "Text",
     "index_reference": "جَمَل",
@@ -6480,13 +6713,22 @@
           "label": "طاهر",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Camel",
+          "type": "fauna",
+          "preferred_label": "Camel",
+          "confidence": 0.5,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196310,
+    "content_id": "196310",
     "reference_id": 25918,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جوزيف NT",
     "media_type": "Text",
     "index_reference": "جوزيف NT",
@@ -6671,13 +6913,22 @@
           "label": "عذراء",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 0.5207,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 196187,
+    "content_id": "196187",
     "reference_id": 25772,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جيل",
     "media_type": "Text",
     "index_reference": "جيل",
@@ -7175,13 +7426,14 @@
           "label": "نسل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 196185,
+    "content_id": "196185",
     "reference_id": 25770,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جيل-ذرية",
     "media_type": "Text",
     "index_reference": "جيل-ذرية",
@@ -7198,7 +7450,8 @@
           "label": "نسل",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

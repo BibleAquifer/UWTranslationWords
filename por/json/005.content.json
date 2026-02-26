@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 237774,
+    "content_id": "237774",
     "reference_id": 25641,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dã",
     "media_type": "Text",
     "index_reference": "dã",
@@ -106,13 +106,36 @@
           "label": "Jacó",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "Dã",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "Dã",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "Dã",
+          "confidence": 0.61,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237788,
+    "content_id": "237788",
     "reference_id": 25655,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dalila",
     "media_type": "Text",
     "index_reference": "dalila",
@@ -168,13 +191,22 @@
           "label": "Sansão",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "Dalila",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237773,
+    "content_id": "237773",
     "reference_id": 25640,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Damasco",
     "media_type": "Text",
     "index_reference": "damasco",
@@ -333,13 +365,22 @@
           "label": "Acreditar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "Damasco",
+          "confidence": 0.913,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237775,
+    "content_id": "237775",
     "reference_id": 25642,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daniel",
     "media_type": "Text",
     "index_reference": "daniel",
@@ -394,13 +435,22 @@
           "label": "Nabucodonosor",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237651,
+    "content_id": "237651",
     "reference_id": 25515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dar à luz",
     "media_type": "Text",
     "index_reference": "dar à luz",
@@ -1355,13 +1405,14 @@
           "label": "Fruto",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237776,
+    "content_id": "237776",
     "reference_id": 25643,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dario",
     "media_type": "Text",
     "index_reference": "dario",
@@ -1491,13 +1542,29 @@
           "label": "Pérsia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "Dario",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "Dario",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237778,
+    "content_id": "237778",
     "reference_id": 25645,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Davi",
     "media_type": "Text",
     "index_reference": "davi",
@@ -1955,13 +2022,22 @@
           "label": "Saul",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Davi",
+          "confidence": 0.9833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238429,
+    "content_id": "238429",
     "reference_id": 26300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Debulhar",
     "media_type": "Text",
     "index_reference": "debulhar",
@@ -2089,13 +2165,14 @@
           "label": "Joeirar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238417,
+    "content_id": "238417",
     "reference_id": 26288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Décimo",
     "media_type": "Text",
     "index_reference": "décimo",
@@ -2277,13 +2354,14 @@
           "label": "Templo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237782,
+    "content_id": "237782",
     "reference_id": 25649,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Declarar",
     "media_type": "Text",
     "index_reference": "declarar",
@@ -2572,13 +2650,14 @@
           "label": "Pregar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237783,
+    "content_id": "237783",
     "reference_id": 25650,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Decreto",
     "media_type": "Text",
     "index_reference": "decreto",
@@ -2771,13 +2850,14 @@
           "label": "Lei",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237784,
+    "content_id": "237784",
     "reference_id": 25651,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dedicar",
     "media_type": "Text",
     "index_reference": "dedicar",
@@ -2867,13 +2947,22 @@
           "label": "Cometer",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Dedicate.2",
+          "type": "keyterm",
+          "preferred_label": "dedicate",
+          "confidence": 0.8537,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 237787,
+    "content_id": "237787",
     "reference_id": 25654,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "deleite",
     "media_type": "Text",
     "index_reference": "deleite",
@@ -3147,13 +3236,14 @@
           "end_ref_usfm": "PSA 119:70"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237791,
+    "content_id": "237791",
     "reference_id": 25658,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Demônio",
     "media_type": "Text",
     "index_reference": "demônio",
@@ -3740,13 +3830,22 @@
           "label": "Satanás",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Demons",
+          "type": "deity",
+          "preferred_label": "Demons",
+          "confidence": 0.6897,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237682,
+    "content_id": "237682",
     "reference_id": 25546,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derramamento de sangue",
     "media_type": "Text",
     "index_reference": "derramamento de sangue",
@@ -3812,13 +3911,22 @@
           "label": "Abate",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Blood",
+          "type": "keyterm",
+          "preferred_label": "sangue",
+          "confidence": 0.5033,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237793,
+    "content_id": "237793",
     "reference_id": 25660,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Descendente",
     "media_type": "Text",
     "index_reference": "descendente",
@@ -3977,13 +4085,14 @@
           "label": "Noé",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237803,
+    "content_id": "237803",
     "reference_id": 25670,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Desencorajar",
     "media_type": "Text",
     "index_reference": "desencorajar",
@@ -4007,13 +4116,14 @@
           "label": "Temor",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237795,
+    "content_id": "237795",
     "reference_id": 25662,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deserto",
     "media_type": "Text",
     "index_reference": "deserto",
@@ -4533,13 +4643,29 @@
           "end_ref_usfm": "GEN 37:22"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:SinaiWilderness",
+          "type": "place",
+          "preferred_label": "Deserto do Sinai",
+          "confidence": 0.6092,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Sin",
+          "type": "place",
+          "preferred_label": "Deserto de Sin",
+          "confidence": 0.6046,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 237812,
+    "content_id": "237812",
     "reference_id": 25679,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "desgraça",
     "media_type": "Text",
     "index_reference": "desgraça",
@@ -4573,13 +4699,36 @@
           "end_ref_usfm": "PSA 92:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:DetestedThing",
+          "type": "keyterm",
+          "preferred_label": "abomination",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Mischief",
+          "type": "keyterm",
+          "preferred_label": "mischief",
+          "confidence": 0.8467,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Wickedness",
+          "type": "keyterm",
+          "preferred_label": "wickedness",
+          "confidence": 0.821,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 237796,
+    "content_id": "237796",
     "reference_id": 25663,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Desolado",
     "media_type": "Text",
     "index_reference": "desolado",
@@ -4737,13 +4886,22 @@
           "label": "Desperdício",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalém",
+          "confidence": 0.5049,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237805,
+    "content_id": "237805",
     "reference_id": 25672,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Desonra",
     "media_type": "Text",
     "index_reference": "desonra",
@@ -4863,13 +5021,14 @@
           "label": "Honra",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238467,
+    "content_id": "238467",
     "reference_id": 26341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Desperdício",
     "media_type": "Text",
     "index_reference": "desperdício",
@@ -4939,13 +5098,14 @@
           "end_ref_usfm": "ZEC 7:14"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237745,
+    "content_id": "237745",
     "reference_id": 25611,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Desprezo",
     "media_type": "Text",
     "index_reference": "desprezo",
@@ -5023,13 +5183,14 @@
           "label": "Desonra",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237797,
+    "content_id": "237797",
     "reference_id": 25664,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Destruir",
     "media_type": "Text",
     "index_reference": "destruir",
@@ -5350,13 +5511,14 @@
           "label": "Páscoa",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237798,
+    "content_id": "237798",
     "reference_id": 25665,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Detestar",
     "media_type": "Text",
     "index_reference": "detestar",
@@ -5423,13 +5585,14 @@
           "label": "Adivinhação",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237921,
+    "content_id": "237921",
     "reference_id": 25788,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deus",
     "media_type": "Text",
     "index_reference": "deus",
@@ -14296,13 +14459,29 @@
           "label": "Javé",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.7774,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.5046,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237923,
+    "content_id": "237923",
     "reference_id": 25790,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deus Pai",
     "media_type": "Text",
     "index_reference": "deus pai",
@@ -15722,13 +15901,22 @@
           "label": "Filho de Deus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.6074,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237799,
+    "content_id": "237799",
     "reference_id": 25666,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Devastar",
     "media_type": "Text",
     "index_reference": "devastar",
@@ -15776,13 +15964,14 @@
           "label": "Arruinar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237800,
+    "content_id": "237800",
     "reference_id": 25667,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Devorar",
     "media_type": "Text",
     "index_reference": "devorar",
@@ -16088,13 +16277,14 @@
           "label": "Consumir",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238415,
+    "content_id": "238415",
     "reference_id": 26286,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dez Mandamentos",
     "media_type": "Text",
     "index_reference": "dez mandamentos",
@@ -16171,13 +16361,14 @@
           "label": "Adorar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238064,
+    "content_id": "238064",
     "reference_id": 25931,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dia do Julgamento",
     "media_type": "Text",
     "index_reference": "dia do julgamento",
@@ -16246,13 +16437,22 @@
           "label": "Julgar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "juízo",
+          "confidence": 0.722,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237779,
+    "content_id": "237779",
     "reference_id": 25646,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dia do Senhor",
     "media_type": "Text",
     "index_reference": "dia do senhor",
@@ -16417,13 +16617,22 @@
           "label": "João 11.24 (#4)",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.61,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237670,
+    "content_id": "237670",
     "reference_id": 25534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dia no período bíblico",
     "media_type": "Text",
     "index_reference": "dia no período bíblico",
@@ -20133,13 +20342,22 @@
           "label": "Tempo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noé",
+          "confidence": 0.6059,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237780,
+    "content_id": "237780",
     "reference_id": 25647,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diácono",
     "media_type": "Text",
     "index_reference": "diácono",
@@ -20194,13 +20412,14 @@
           "label": "Servo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237954,
+    "content_id": "237954",
     "reference_id": 25821,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Difícil",
     "media_type": "Text",
     "index_reference": "difícil",
@@ -20402,13 +20621,14 @@
           "end_ref_usfm": "REV 2:2"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237879,
+    "content_id": "237879",
     "reference_id": 25746,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dilúvio",
     "media_type": "Text",
     "index_reference": "dilúvio ",
@@ -20577,13 +20797,14 @@
           "label": "Noé",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237677,
+    "content_id": "237677",
     "reference_id": 25541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Direito de primogenitura",
     "media_type": "Text",
     "index_reference": "direito de primogenitura",
@@ -20669,13 +20890,14 @@
           "label": "Herdar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237801,
+    "content_id": "237801",
     "reference_id": 25668,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Discernimento",
     "media_type": "Text",
     "index_reference": "discernimento",
@@ -20928,13 +21150,29 @@
           "label": "Sábio",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Discern",
+          "type": "keyterm",
+          "preferred_label": "distinguir",
+          "confidence": 0.605,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Perceive",
+          "type": "keyterm",
+          "preferred_label": "perceive",
+          "confidence": 0.5525,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237802,
+    "content_id": "237802",
     "reference_id": 25669,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Discípulo",
     "media_type": "Text",
     "index_reference": "discípulo",
@@ -22504,13 +22742,22 @@
           "label": "Os Doze",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "ser discípulo",
+          "confidence": 0.9922,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237806,
+    "content_id": "237806",
     "reference_id": 25673,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dispersar",
     "media_type": "Text",
     "index_reference": "dispersar",
@@ -22663,13 +22910,14 @@
           "label": "Perseguir",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237808,
+    "content_id": "237808",
     "reference_id": 25675,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Divino",
     "media_type": "Text",
     "index_reference": "divino",
@@ -22757,13 +23005,22 @@
           "label": "Julgar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "divino",
+          "confidence": 0.8286,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237990,
+    "content_id": "237990",
     "reference_id": 25857,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Domésticos",
     "media_type": "Text",
     "index_reference": "domésticos",
@@ -22968,13 +23225,14 @@
           "label": "Casa",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237810,
+    "content_id": "237810",
     "reference_id": 25677,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Domínio",
     "media_type": "Text",
     "index_reference": "domínio",
@@ -23064,13 +23322,14 @@
           "label": "Autoridade",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237809,
+    "content_id": "237809",
     "reference_id": 25676,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Doutrina",
     "media_type": "Text",
     "index_reference": "doutrina",
@@ -23176,13 +23435,14 @@
           "end_ref_usfm": "MAT 15:9"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237953,
+    "content_id": "237953",
     "reference_id": 25820,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Duro-Inflexível",
     "media_type": "Text",
     "index_reference": "duro-inflexível",
@@ -23199,7 +23459,8 @@
           "label": "Mal",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

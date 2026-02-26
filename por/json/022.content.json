@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 237757,
+    "content_id": "237757",
     "reference_id": 25623,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vaca",
     "media_type": "Text",
     "index_reference": "vaca",
@@ -620,13 +620,22 @@
           "label": "Jugo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Bull",
+          "type": "fauna",
+          "preferred_label": "Cattle",
+          "confidence": 0.7259,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238068,
+    "content_id": "238068",
     "reference_id": 25936,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vale do Cedrom",
     "media_type": "Text",
     "index_reference": "vale do cedrom",
@@ -713,13 +722,36 @@
           "label": "Monte das Oliveiras",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Kidron",
+          "type": "place",
+          "preferred_label": "Cedrom",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "ser discípulo",
+          "confidence": 0.5665,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.562,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238458,
+    "content_id": "238458",
     "reference_id": 26332,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vão",
     "media_type": "Text",
     "index_reference": "vão",
@@ -893,13 +925,14 @@
           "label": "Falso deus",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238310,
+    "content_id": "238310",
     "reference_id": 26180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vara",
     "media_type": "Text",
     "index_reference": "vara",
@@ -1039,13 +1072,22 @@
           "label": "Cajado",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Rod",
+          "type": "realia",
+          "preferred_label": "Rod",
+          "confidence": 0.5095,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238403,
+    "content_id": "238403",
     "reference_id": 26274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Varrer",
     "media_type": "Text",
     "index_reference": "varrer",
@@ -1162,13 +1204,14 @@
           "label": "Profeta",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238459,
+    "content_id": "238459",
     "reference_id": 26333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vasti",
     "media_type": "Text",
     "index_reference": "vasti",
@@ -1218,13 +1261,22 @@
           "label": "Pérsia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Vashti",
+          "type": "person",
+          "preferred_label": "Vasti",
+          "confidence": 0.6786,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238480,
+    "content_id": "238480",
     "reference_id": 26354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ventre",
     "media_type": "Text",
     "index_reference": "ventre",
@@ -1450,13 +1502,14 @@
           "end_ref_usfm": "GEN 38:28"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238349,
+    "content_id": "238349",
     "reference_id": 26220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vergonha",
     "media_type": "Text",
     "index_reference": "vergonha",
@@ -2190,13 +2243,14 @@
           "label": "Adorar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238460,
+    "content_id": "238460",
     "reference_id": 26334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Véu",
     "media_type": "Text",
     "index_reference": "véu",
@@ -2286,13 +2340,22 @@
           "label": "Moisés",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Veil",
+          "type": "realia",
+          "preferred_label": "Veil",
+          "confidence": 0.5139,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238461,
+    "content_id": "238461",
     "reference_id": 26335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Videira",
     "media_type": "Text",
     "index_reference": "videira",
@@ -2425,13 +2488,22 @@
           "label": "Vinhedo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.7175,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238468,
+    "content_id": "238468",
     "reference_id": 26342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vigiar",
     "media_type": "Text",
     "index_reference": "vigiar",
@@ -3215,13 +3287,14 @@
           "end_ref_usfm": "MAT 25:13"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 237673,
+    "content_id": "237673",
     "reference_id": 25537,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vigília no período bíblico",
     "media_type": "Text",
     "index_reference": "vigília no período bíblico",
@@ -3275,13 +3348,14 @@
           "label": "Vigiar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237685,
+    "content_id": "237685",
     "reference_id": 25549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "vínculo",
     "media_type": "Text",
     "index_reference": "vínculo",
@@ -3763,13 +3837,14 @@
           "label": "Servo",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237629,
+    "content_id": "237629",
     "reference_id": 25493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vingar",
     "media_type": "Text",
     "index_reference": "vingar",
@@ -3951,13 +4026,22 @@
           "label": "Justo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GrantJustice",
+          "type": "keyterm",
+          "preferred_label": "fazer justiça",
+          "confidence": 0.5405,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238462,
+    "content_id": "238462",
     "reference_id": 26336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vinhedo",
     "media_type": "Text",
     "index_reference": "vinhedo",
@@ -4229,13 +4313,22 @@
           "label": "Videira",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.8785,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238473,
+    "content_id": "238473",
     "reference_id": 26347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vinho",
     "media_type": "Text",
     "index_reference": "vinho",
@@ -4700,13 +4793,29 @@
           "label": "Lagar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.648,
+          "match_method": "scored"
+        },
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.5237,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238463,
+    "content_id": "238463",
     "reference_id": 26337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Virgem",
     "media_type": "Text",
     "index_reference": "virgem",
@@ -4871,13 +4980,14 @@
           "label": "Maria",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238464,
+    "content_id": "238464",
     "reference_id": 26338,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Visão",
     "media_type": "Text",
     "index_reference": "visão",
@@ -5051,13 +5161,22 @@
           "label": "Sonho",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Vision",
+          "type": "keyterm",
+          "preferred_label": "vision",
+          "confidence": 0.8847,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238180,
+    "content_id": "238180",
     "reference_id": 26050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vizinho",
     "media_type": "Text",
     "index_reference": "vizinho",
@@ -5426,13 +5545,14 @@
           "label": "Samaria",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238472,
+    "content_id": "238472",
     "reference_id": 26346,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vontade de Deus",
     "media_type": "Text",
     "index_reference": "vontade de deus",
@@ -5784,7 +5904,8 @@
           "end_ref_usfm": "JHN 5:32"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

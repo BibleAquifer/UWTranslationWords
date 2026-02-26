@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 182434,
+    "content_id": "182434",
     "reference_id": 26219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शद्दाई",
     "media_type": "Text",
     "index_reference": "शद्दाई",
@@ -19,13 +19,22 @@
           "label": "परमेश्‍वर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Addi",
+          "type": "person",
+          "preferred_label": "अद्दी",
+          "confidence": 0.8231,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180121,
+    "content_id": "180121",
     "reference_id": 26058,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शपथ",
     "media_type": "Text",
     "index_reference": "शपथ",
@@ -507,13 +516,14 @@
           "label": "प्रतिज्ञा",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180252,
+    "content_id": "180252",
     "reference_id": 26194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शमूएल",
     "media_type": "Text",
     "index_reference": "शमूएल",
@@ -594,13 +604,22 @@
           "label": "यहोवा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "शमूएल",
+          "confidence": 0.8,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180292,
+    "content_id": "180292",
     "reference_id": 26238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शमौन",
     "media_type": "Text",
     "index_reference": "शमौन",
@@ -734,13 +753,22 @@
           "label": "लिआ:",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simeon.5",
+          "type": "person",
+          "preferred_label": "शिमोन",
+          "confidence": 0.7404,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180293,
+    "content_id": "180293",
     "reference_id": 26239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शमौन कनानी",
     "media_type": "Text",
     "index_reference": "शमौन कनानी",
@@ -814,13 +842,29 @@
           "label": "बारहों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Simon.2",
+          "type": "person",
+          "preferred_label": "शमौन",
+          "confidence": 0.76,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "याकूब",
+          "confidence": 0.535,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180222,
+    "content_id": "180222",
     "reference_id": 26164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शरण",
     "media_type": "Text",
     "index_reference": "शरण",
@@ -896,13 +940,22 @@
           "end_ref_usfm": "DEU 32:38"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Refuge",
+          "type": "keyterm",
+          "preferred_label": "Refuge",
+          "confidence": 0.8124,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 180258,
+    "content_id": "180258",
     "reference_id": 26200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शाऊल (पुराना नियम)",
     "media_type": "Text",
     "index_reference": "शाऊल (पुराना नियम)",
@@ -980,13 +1033,36 @@
           "label": "राजा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 0.7538,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaul.2",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shaul",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179677,
+    "content_id": "179677",
     "reference_id": 25598,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शान्ति",
     "media_type": "Text",
     "index_reference": "शान्ति",
@@ -1300,13 +1376,29 @@
           "label": "पवित्र आत्मा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Nahash.2",
+          "type": "person",
+          "preferred_label": "नाहाश",
+          "confidence": 0.5178,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Simeon.2",
+          "type": "person",
+          "preferred_label": "शिमोन",
+          "confidence": 0.5178,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180142,
+    "content_id": "180142",
     "reference_id": 26080,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शान्ति",
     "media_type": "Text",
     "index_reference": "शान्ति",
@@ -2066,13 +2158,22 @@
           "end_ref_usfm": "COL 1:20"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:IntactState",
+          "type": "keyterm",
+          "preferred_label": "Peace",
+          "confidence": 0.872,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 180276,
+    "content_id": "180276",
     "reference_id": 26221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शारोन",
     "media_type": "Text",
     "index_reference": "शारोन",
@@ -2129,13 +2230,29 @@
           "label": "समुद्र",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Sharon",
+          "type": "place",
+          "preferred_label": "शारोन",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Bashan",
+          "type": "place",
+          "preferred_label": "बाशान",
+          "confidence": 0.56,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180242,
+    "content_id": "180242",
     "reference_id": 26184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शासन",
     "media_type": "Text",
     "index_reference": "शासन",
@@ -2990,13 +3107,14 @@
           "label": "आराधनालय",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179870,
+    "content_id": "179870",
     "reference_id": 25799,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शासन करना",
     "media_type": "Text",
     "index_reference": "शासन करना",
@@ -3342,13 +3460,14 @@
           "label": "शासन",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180262,
+    "content_id": "180262",
     "reference_id": 26204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शास्त्री",
     "media_type": "Text",
     "index_reference": "शास्त्री",
@@ -3859,13 +3978,14 @@
           "label": "फरीसी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 180285,
+    "content_id": "180285",
     "reference_id": 26230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शिनार",
     "media_type": "Text",
     "index_reference": "शिनार",
@@ -3973,13 +4093,29 @@
           "label": "ऊर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Shinar",
+          "type": "place",
+          "preferred_label": "शिनार",
+          "confidence": 0.8182,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Nimrod",
+          "type": "person",
+          "preferred_label": "निम्रोद",
+          "confidence": 0.5602,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180251,
+    "content_id": "180251",
     "reference_id": 26193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शिमशोन",
     "media_type": "Text",
     "index_reference": "शिमशोन",
@@ -4034,13 +4170,29 @@
           "label": "पलिश्तियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "शिमशोन",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Manoah",
+          "type": "person",
+          "preferred_label": "मानोह",
+          "confidence": 0.5452,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180284,
+    "content_id": "180284",
     "reference_id": 26229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शिमी",
     "media_type": "Text",
     "index_reference": "शिमी",
@@ -4103,13 +4255,36 @@
           "label": "याजक",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shimei.4",
+          "type": "person",
+          "preferred_label": "शिमी",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shimei.6",
+          "type": "person",
+          "preferred_label": "शिमी",
+          "confidence": 0.6667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shimei.5",
+          "type": "person",
+          "preferred_label": "शिमी",
+          "confidence": 0.5167,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180277,
+    "content_id": "180277",
     "reference_id": 26222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शीबा",
     "media_type": "Text",
     "index_reference": "शीबा",
@@ -4190,13 +4365,43 @@
           "label": "सुलैमान",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Sheba",
+          "type": "person",
+          "preferred_label": "शेबा",
+          "confidence": 0.6727,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheba.2",
+          "type": "person",
+          "preferred_label": "शेबा",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Sheba.3",
+          "type": "person",
+          "preferred_label": "शेबा",
+          "confidence": 0.6364,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Cush.2",
+          "type": "person",
+          "preferred_label": "कूश",
+          "confidence": 0.597,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180283,
+    "content_id": "180283",
     "reference_id": 26228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शीलो",
     "media_type": "Text",
     "index_reference": "शीलो",
@@ -4300,13 +4505,29 @@
           "label": "मन्दिर",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "शीलो",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "शीलो",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 179675,
+    "content_id": "179675",
     "reference_id": 25596,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुद्ध",
     "media_type": "Text",
     "index_reference": "शुद्ध",
@@ -4969,13 +5190,22 @@
           "label": "बलिदान करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pure",
+          "type": "keyterm",
+          "preferred_label": "Pure",
+          "confidence": 0.8567,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180201,
+    "content_id": "180201",
     "reference_id": 26142,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुद्ध",
     "media_type": "Text",
     "index_reference": "शुद्ध",
@@ -5475,13 +5705,22 @@
           "label": "आत्मा",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pure",
+          "type": "keyterm",
+          "preferred_label": "Pure",
+          "confidence": 0.8567,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 180253,
+    "content_id": "180253",
     "reference_id": 26195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुद्ध करना",
     "media_type": "Text",
     "index_reference": "शुद्ध करना",
@@ -5704,13 +5943,14 @@
           "label": "पवित्र",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 179867,
+    "content_id": "179867",
     "reference_id": 25796,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुभ सन्देश",
     "media_type": "Text",
     "index_reference": "शुभ सन्देश",
@@ -6336,13 +6576,22 @@
           "label": "बचाना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "Good News",
+          "confidence": 0.5842,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180278,
+    "content_id": "180278",
     "reference_id": 26223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शेकेम",
     "media_type": "Text",
     "index_reference": "शेकेम",
@@ -6502,13 +6751,36 @@
           "label": "याकूब",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "शेकेम",
+          "confidence": 0.82,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "शेकेम",
+          "confidence": 0.72,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Hamor",
+          "type": "person",
+          "preferred_label": "हमोर",
+          "confidence": 0.568,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180274,
+    "content_id": "180274",
     "reference_id": 26218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शेत",
     "media_type": "Text",
     "index_reference": "शेत",
@@ -6620,13 +6892,29 @@
           "label": "नूह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Seth",
+          "type": "person",
+          "preferred_label": "शेत",
+          "confidence": 0.9333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Enosh",
+          "type": "person",
+          "preferred_label": "एनोश",
+          "confidence": 0.5732,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180280,
+    "content_id": "180280",
     "reference_id": 26225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शेम",
     "media_type": "Text",
     "index_reference": "शेम",
@@ -6768,13 +7056,22 @@
           "label": "नूह",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "शेम",
+          "confidence": 0.9294,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180257,
+    "content_id": "180257",
     "reference_id": 26199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शैतान",
     "media_type": "Text",
     "index_reference": "शैतान",
@@ -7275,13 +7572,22 @@
           "label": "परीक्षा करना",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "शैतान",
+          "confidence": 0.7722,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 180099,
+    "content_id": "180099",
     "reference_id": 26035,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शोक करना",
     "media_type": "Text",
     "index_reference": "शोक करना",
@@ -7516,7 +7822,8 @@
           "label": "पाप",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

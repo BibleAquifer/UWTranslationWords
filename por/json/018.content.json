@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 238281,
+    "content_id": "238281",
     "reference_id": 26151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raabe",
     "media_type": "Text",
     "index_reference": "raabe",
@@ -70,13 +70,22 @@
           "label": "Prostituta",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Raabe",
+          "confidence": 0.7778,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238277,
+    "content_id": "238277",
     "reference_id": 26147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabá",
     "media_type": "Text",
     "index_reference": "rabá",
@@ -131,13 +140,22 @@
           "label": "Davi",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "Amom",
+          "confidence": 0.6515,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238278,
+    "content_id": "238278",
     "reference_id": 26148,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabino",
     "media_type": "Text",
     "index_reference": "rabino",
@@ -275,13 +293,14 @@
           "label": "Mestre",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238285,
+    "content_id": "238285",
     "reference_id": 26155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rafá",
     "media_type": "Text",
     "index_reference": "rafá",
@@ -290,13 +309,36 @@
     "content": "<h1>Rafá, refains, o Vale dos Refains</h1><h2>Fatos:</h2><p>O termo “Rafá” é o nome de um grupo de habitantes que vivia em um local no lado oriental do rio Jordão. Também é usado para se referir a pessoas mortas ou seus espíritos. Os “rafá” são chamados de “refains” ou “refaim”.</p><ul><li><p>Havia um vale nomeado em homenagem a este grupo de pessoas, “o vale dos Rafains”, que é mencionado seis vezes no Antigo Testamento.</p></li><li><p>“Rafá” é uma transliteração em portuguê de uma palavra hebraica. É difícil determinar com certeza o que a palavra “Rafá” significa e, consequentemente, a que tipo de seres a palavra “Rafá” se refere, seja um grupo de pessoas vivas, espíritos ou seres quase divinos. Por essa razão, muitas traduções em portuguê optaram por transliterar a palavra do idioma original (hebraico) como “refains” ou “refaim”. Você pode desejar fazer o mesmo em sua tradução.</p></li><li><p>Em Jó 26.5, Salmo 88.10, Provérbios 2.18, Provérbios 9.18, Provérbios 21.16, Isaías 14.9, Isaías 26.14 e Isaías 26.19 o termo “refains” se refere a pessoas que estão mortas ou a seus “espíritos”.</p></li><li><p>Em todas as outras ocorrências no Antigo Testamento, o termo “refains” se refere ao grupo de pessoas que eram seres humanos vivos e formavam um grupo específico de pessoas.</p></li><li><p>O grupo de pessoas que os amonitas chamavam de refains pelo nome “zanzumins” (Veja Deuteronômio 2.20).</p></li><li><p>O termo “Rafá” se refere ao grupo de pessoas vivas em todas as ocorrências no Antigo Testamento, exceto em 1 Crônicas 8.2 e 8.37. Em cada um desses dois versículos, refere-se ao nome de um homem (um homem diferente em cada versículo).</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes, Copiar ou Emprestar Palavras)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s:</p></li></ul>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rapha",
+          "type": "person",
+          "preferred_label": "Rafa",
+          "confidence": 0.8204,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raphah",
+          "type": "person",
+          "preferred_label": "Rafa",
+          "confidence": 0.8204,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raphu",
+          "type": "person",
+          "preferred_label": "Rafu",
+          "confidence": 0.8176,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 238181,
+    "content_id": "238181",
     "reference_id": 26051,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rafa, Rafaítas, Refains",
     "media_type": "Text",
     "index_reference": "rafa, rafaítas, refains",
@@ -305,13 +347,14 @@
     "content": "<h1>Rafa, refaim, rafaítas, refains</h1><h2>Fatos:</h2><p>O termo “Rafa” é o nome de um grupo de habitantes que vivia em uma localização no lado leste do rio Jordão. Os “Rafa” são chamados de “refaítas” ou “refains”.</p><ul><li><p>Havia um vale nomeado após este grupo de pessoas, “o vale dos Refains&quot;, que é mencionado seis vezes no Antigo Testamento.</p></li><li><p>“Rafa” é uma transliteração em português de uma palavra hebraica. É difícil determinar com certeza o que a palavra “Rafa” significa e, consequentemente, a que tipo de seres a palavra “Rafa” se refere. O termo “Rafa” pode se referir a um grupo de pessoas vivas, espíritos ou seres quase divinos. Por essa razão, muitas traduções em português optaram por transliterar a palavra do idioma original (hebraico) como “refaim” ou “refains”. Você pode desejar fazer o mesmo em sua tradução.</p></li><li><p>Os refains era o grupo de pessoas que os amonitas chamavam “zanzumins” (Veja Deuteronômio 2.20).</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes, Copiar ou Emprestar Palavras)</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238275,
+    "content_id": "238275",
     "reference_id": 26145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rainha",
     "media_type": "Text",
     "index_reference": "rainha",
@@ -425,13 +468,22 @@
           "label": "Sabá",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:QueenOfSheba",
+          "type": "person",
+          "preferred_label": "Rainha de Sabá",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238280,
+    "content_id": "238280",
     "reference_id": 26150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raiva",
     "media_type": "Text",
     "index_reference": "raiva",
@@ -485,13 +537,14 @@
           "label": "Autocontrole",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238282,
+    "content_id": "238282",
     "reference_id": 26152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ramá",
     "media_type": "Text",
     "index_reference": "ramá",
@@ -576,13 +629,29 @@
           "label": "Benjamim",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ramah",
+          "type": "place",
+          "preferred_label": "Ramá",
+          "confidence": 0.6308,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ramah.2",
+          "type": "place",
+          "preferred_label": "Ramah",
+          "confidence": 0.6024,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238283,
+    "content_id": "238283",
     "reference_id": 26153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ramote",
     "media_type": "Text",
     "index_reference": "ramote",
@@ -694,13 +763,29 @@
           "label": "Refúgio",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Ramoth-gilead",
+          "type": "place",
+          "preferred_label": "Ramote-Gileade",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Remeth",
+          "type": "place",
+          "preferred_label": "Ramote",
+          "confidence": 0.68,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238279,
+    "content_id": "238279",
     "reference_id": 26149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raquel",
     "media_type": "Text",
     "index_reference": "raquel",
@@ -1029,13 +1114,22 @@
           "label": "Lia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Raquel",
+          "confidence": 0.9739,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238312,
+    "content_id": "238312",
     "reference_id": 26182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Real",
     "media_type": "Text",
     "index_reference": "real",
@@ -1136,13 +1230,14 @@
           "label": "Manto",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237878,
+    "content_id": "237878",
     "reference_id": 25745,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebanho",
     "media_type": "Text",
     "index_reference": "rebanho",
@@ -1661,13 +1756,22 @@
           "label": "Ovelha",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "fauna:Flock",
+          "type": "fauna",
+          "preferred_label": "Flock",
+          "confidence": 0.6017,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238101,
+    "content_id": "238101",
     "reference_id": 25970,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebanho",
     "media_type": "Text",
     "index_reference": "rebanho",
@@ -2072,13 +2176,14 @@
           "label": "Ovelha",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238286,
+    "content_id": "238286",
     "reference_id": 26156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebeca",
     "media_type": "Text",
     "index_reference": "rebeca",
@@ -2324,13 +2429,22 @@
           "label": "Neguebe",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebeca",
+          "confidence": 0.9871,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238287,
+    "content_id": "238287",
     "reference_id": 26157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebelar-se",
     "media_type": "Text",
     "index_reference": "rebelar-se",
@@ -2523,13 +2637,14 @@
           "label": "Governador",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238289,
+    "content_id": "238289",
     "reference_id": 26159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Receber",
     "media_type": "Text",
     "index_reference": "receber",
@@ -3906,13 +4021,14 @@
           "label": "Salvar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 237918,
+    "content_id": "237918",
     "reference_id": 25785,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Recolher",
     "media_type": "Text",
     "index_reference": "recolher",
@@ -4035,13 +4151,14 @@
           "label": "Rute",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238306,
+    "content_id": "238306",
     "reference_id": 26176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Recompensa",
     "media_type": "Text",
     "index_reference": "recompensa",
@@ -4281,13 +4398,14 @@
           "label": "Punir",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238290,
+    "content_id": "238290",
     "reference_id": 26160,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reconciliar",
     "media_type": "Text",
     "index_reference": "reconciliar",
@@ -4390,13 +4508,22 @@
           "label": "Sacrifício",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Reconcile",
+          "type": "keyterm",
+          "preferred_label": "reconciliar",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237566,
+    "content_id": "237566",
     "reference_id": 25428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reconhecer",
     "media_type": "Text",
     "index_reference": "reconhecer",
@@ -4469,13 +4596,14 @@
           "label": "Salvar",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238291,
+    "content_id": "238291",
     "reference_id": 26161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Redimir",
     "media_type": "Text",
     "index_reference": "redimir",
@@ -4770,13 +4898,29 @@
           "label": "Resgate",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Liberation",
+          "type": "keyterm",
+          "preferred_label": "libertação",
+          "confidence": 0.5546,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:Redeem",
+          "type": "keyterm",
+          "preferred_label": "comprar",
+          "confidence": 0.5507,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238294,
+    "content_id": "238294",
     "reference_id": 26164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Refúgio",
     "media_type": "Text",
     "index_reference": "refúgio",
@@ -4852,13 +4996,22 @@
           "end_ref_usfm": "DEU 32:38"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:SeekfindRefuge",
+          "type": "keyterm",
+          "preferred_label": "Seek Refugue",
+          "confidence": 0.5179,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 238070,
+    "content_id": "238070",
     "reference_id": 25938,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rei",
     "media_type": "Text",
     "index_reference": "rei",
@@ -6625,13 +6778,22 @@
           "label": "Reino de Deus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rei",
+          "type": "person",
+          "preferred_label": "Rei",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238075,
+    "content_id": "238075",
     "reference_id": 25943,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rei dos Judeus",
     "media_type": "Text",
     "index_reference": "rei dos judeus",
@@ -6805,13 +6967,22 @@
           "label": "Homens Sábios",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.576,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238296,
+    "content_id": "238296",
     "reference_id": 26166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reinar",
     "media_type": "Text",
     "index_reference": "reinar",
@@ -7087,13 +7258,22 @@
           "label": "Reino",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "reino",
+          "confidence": 0.5052,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238071,
+    "content_id": "238071",
     "reference_id": 25939,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino",
     "media_type": "Text",
     "index_reference": "reino",
@@ -7404,13 +7584,22 @@
           "label": "Sacerdote",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "reino",
+          "confidence": 0.8609,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238072,
+    "content_id": "238072",
     "reference_id": 25940,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino de Deus",
     "media_type": "Text",
     "index_reference": "reino de deus",
@@ -8267,13 +8456,22 @@
           "label": "Reinar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Kingdom",
+          "type": "keyterm",
+          "preferred_label": "reino",
+          "confidence": 0.994,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238073,
+    "content_id": "238073",
     "reference_id": 25941,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino de Israel",
     "media_type": "Text",
     "index_reference": "reino de israel",
@@ -8351,13 +8549,36 @@
           "label": "Samaria",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.85,
+          "match_method": "scored"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Judá",
+          "confidence": 0.562,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judá",
+          "confidence": 0.535,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238074,
+    "content_id": "238074",
     "reference_id": 25942,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino de Judá",
     "media_type": "Text",
     "index_reference": "reino de judá",
@@ -8412,13 +8633,29 @@
           "label": "Mar Salgado",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Judá",
+          "confidence": 0.7,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judá",
+          "confidence": 0.7,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238297,
+    "content_id": "238297",
     "reference_id": 26167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rejeitar",
     "media_type": "Text",
     "index_reference": "rejeitar",
@@ -8650,13 +8887,22 @@
           "end_ref_usfm": "JHN 12:50"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Reject",
+          "type": "keyterm",
+          "preferred_label": "rejeitar",
+          "confidence": 0.6878,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 238301,
+    "content_id": "238301",
     "reference_id": 26171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Relatar",
     "media_type": "Text",
     "index_reference": "relatar",
@@ -9206,13 +9452,14 @@
           "end_ref_usfm": "LUK 8:35"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238298,
+    "content_id": "238298",
     "reference_id": 26168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Remanescente",
     "media_type": "Text",
     "index_reference": "remanescente",
@@ -9312,13 +9559,14 @@
           "end_ref_usfm": "EZK 6:10"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238299,
+    "content_id": "238299",
     "reference_id": 26169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Renome",
     "media_type": "Text",
     "index_reference": "renome",
@@ -9348,13 +9596,22 @@
           "label": "Honra",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.525,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238288,
+    "content_id": "238288",
     "reference_id": 26158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Repreensão",
     "media_type": "Text",
     "index_reference": "repreensão",
@@ -9822,13 +10079,22 @@
           "label": "Admoestar",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Punishment",
+          "type": "keyterm",
+          "preferred_label": "Punishment",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238284,
+    "content_id": "238284",
     "reference_id": 26154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Resgate",
     "media_type": "Text",
     "index_reference": "resgate",
@@ -9955,13 +10221,22 @@
           "label": "Redimir",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Ransom",
+          "type": "keyterm",
+          "preferred_label": "resgate",
+          "confidence": 0.5206,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 237834,
+    "content_id": "237834",
     "reference_id": 25701,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Resistir",
     "media_type": "Text",
     "index_reference": "resistir",
@@ -10279,13 +10554,14 @@
           "label": "Perseverança",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 238303,
+    "content_id": "238303",
     "reference_id": 26173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ressurreição",
     "media_type": "Text",
     "index_reference": "ressurreição",
@@ -10547,13 +10823,22 @@
           "end_ref_usfm": "JHN 5:29"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "levantamento",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 238302,
+    "content_id": "238302",
     "reference_id": 26172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Restaurar",
     "media_type": "Text",
     "index_reference": "restaurar",
@@ -10899,13 +11184,14 @@
           "end_ref_usfm": "LEV 6:7"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 238305,
+    "content_id": "238305",
     "reference_id": 26175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reverência",
     "media_type": "Text",
     "index_reference": "reverência",
@@ -10984,13 +11270,43 @@
           "label": "Honra",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rephaiah.2",
+          "type": "person",
+          "preferred_label": "Refaías",
+          "confidence": 0.8309,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rephaiah.3",
+          "type": "person",
+          "preferred_label": "Refaías",
+          "confidence": 0.8309,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rephaiah.4",
+          "type": "person",
+          "preferred_label": "Refaías",
+          "confidence": 0.8309,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rephaiah.5",
+          "type": "person",
+          "preferred_label": "Refaías",
+          "confidence": 0.8309,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 238308,
+    "content_id": "238308",
     "reference_id": 26178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rimom",
     "media_type": "Text",
     "index_reference": "rimom",
@@ -11060,13 +11376,36 @@
           "label": "Zebulom",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rimmon",
+          "type": "person",
+          "preferred_label": "Rimom",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Rimmon",
+          "type": "deity",
+          "preferred_label": "Rimom",
+          "confidence": 0.6444,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Rimmon.3",
+          "type": "place",
+          "preferred_label": "Rock of Rimmon",
+          "confidence": 0.5674,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238050,
+    "content_id": "238050",
     "reference_id": 25917,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rio Jordão",
     "media_type": "Text",
     "index_reference": "rio jordão",
@@ -11260,13 +11599,22 @@
           "label": "Mar da Galileia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jordan",
+          "type": "place",
+          "preferred_label": "Jordan River",
+          "confidence": 0.7315,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238183,
+    "content_id": "238183",
     "reference_id": 26053,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rio Nilo",
     "media_type": "Text",
     "index_reference": "rio nilo",
@@ -11436,13 +11784,22 @@
           "label": "Moisés",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Nile",
+          "type": "place",
+          "preferred_label": "Rio Nilo",
+          "confidence": 1.0,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238295,
+    "content_id": "238295",
     "reference_id": 26165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roboão",
     "media_type": "Text",
     "index_reference": "roboão",
@@ -11505,13 +11862,29 @@
           "label": "Salomão",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Roboão",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Salomão",
+          "confidence": 0.625,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238334,
+    "content_id": "238334",
     "reference_id": 26205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rolo",
     "media_type": "Text",
     "index_reference": "rolo",
@@ -11681,13 +12054,22 @@
           "label": "Palavra de Deus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Scroll",
+          "type": "realia",
+          "preferred_label": "Scroll",
+          "confidence": 0.8375,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238311,
+    "content_id": "238311",
     "reference_id": 26181,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roma",
     "media_type": "Text",
     "index_reference": "roma",
@@ -11852,13 +12234,22 @@
           "label": "Pilatos",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Roma",
+          "confidence": 0.9478,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238242,
+    "content_id": "238242",
     "reference_id": 26112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Romã",
     "media_type": "Text",
     "index_reference": "romã",
@@ -11958,13 +12349,22 @@
           "label": "Templo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Pomegranate",
+          "type": "flora",
+          "preferred_label": "Pomegranate",
+          "confidence": 0.5882,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238273,
+    "content_id": "238273",
     "reference_id": 26143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roxo",
     "media_type": "Text",
     "index_reference": "roxo",
@@ -12262,13 +12662,22 @@
           "label": "Templo",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:PurpleCloth",
+          "type": "realia",
+          "preferred_label": "Purple Cloth",
+          "confidence": 0.5914,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238304,
+    "content_id": "238304",
     "reference_id": 26174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rúben",
     "media_type": "Text",
     "index_reference": "rúben",
@@ -12402,13 +12811,22 @@
           "label": "Lia",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "Rúben",
+          "confidence": 0.9765,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 238314,
+    "content_id": "238314",
     "reference_id": 26185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rute",
     "media_type": "Text",
     "index_reference": "rute",
@@ -12543,6 +12961,15 @@
           "resource_code": "Unknown",
           "label": "Posição de Juiz",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Rute",
+          "confidence": 0.925,
+          "match_method": "scored"
         }
       ]
     }

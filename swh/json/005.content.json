@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 626993,
+    "content_id": "626993",
     "reference_id": 25640,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dameski",
     "media_type": "Text",
     "index_reference": "dameski",
@@ -161,13 +161,22 @@
           "label": "Amini",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "Dameski",
+          "confidence": 0.913,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626994,
+    "content_id": "626994",
     "reference_id": 25641,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dani",
     "media_type": "Text",
     "index_reference": "dani",
@@ -271,13 +280,36 @@
           "label": "Yakobo",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "Dani",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "Dani",
+          "confidence": 0.7333,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "Dani",
+          "confidence": 0.61,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575434,
+    "content_id": "575434",
     "reference_id": 25642,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Danieli",
     "media_type": "Text",
     "index_reference": "danieli",
@@ -332,13 +364,22 @@
           "label": "Nebukadneza",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Danieli",
+          "confidence": 0.9,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626995,
+    "content_id": "626995",
     "reference_id": 25643,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dario",
     "media_type": "Text",
     "index_reference": "dario",
@@ -468,13 +509,29 @@
           "label": "Uajemi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "Dario",
+          "confidence": 0.92,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "Dario",
+          "confidence": 0.6267,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575436,
+    "content_id": "575436",
     "reference_id": 25645,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daudi",
     "media_type": "Text",
     "index_reference": "daudi",
@@ -932,13 +989,22 @@
           "label": "Sauli",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Daudi",
+          "confidence": 0.9833,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 627001,
+    "content_id": "627001",
     "reference_id": 25655,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Delila",
     "media_type": "Text",
     "index_reference": "delila",
@@ -994,13 +1060,22 @@
           "label": "Samsoni",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "Delila",
+          "confidence": 0.8667,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626945,
+    "content_id": "626945",
     "reference_id": 25555,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deraya ya Kifua",
     "media_type": "Text",
     "index_reference": "deraya ya kifua",
@@ -1214,13 +1289,22 @@
           "label": "Shujaa",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Breast-piece",
+          "type": "realia",
+          "preferred_label": "Breast-Piece",
+          "confidence": 0.5609,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 575681,
+    "content_id": "575681",
     "reference_id": 26188,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dhabihu",
     "media_type": "Text",
     "index_reference": "dhabihu",
@@ -1883,13 +1967,14 @@
           "label": "Sadaka ya Dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575504,
+    "content_id": "575504",
     "reference_id": 25791,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dhahabu",
     "media_type": "Text",
     "index_reference": "dhahabu",
@@ -3016,13 +3101,14 @@
           "label": "Hema",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575704,
+    "content_id": "575704",
     "reference_id": 26240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "dhambi",
     "media_type": "Text",
     "index_reference": "dhambi",
@@ -4817,13 +4903,22 @@
           "label": "Kodi",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Sin",
+          "type": "keyterm",
+          "preferred_label": "To Sin",
+          "confidence": 0.6029,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626978,
+    "content_id": "626978",
     "reference_id": 25608,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dhamiri",
     "media_type": "Text",
     "index_reference": "dhamiri",
@@ -5013,13 +5108,22 @@
           "end_ref_usfm": "TIT 1:16"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Conscience",
+          "type": "keyterm",
+          "preferred_label": "Conscience",
+          "confidence": 0.5773,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
-    "content_id": 626981,
+    "content_id": "626981",
     "reference_id": 25611,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dharau",
     "media_type": "Text",
     "index_reference": "dharau",
@@ -5097,13 +5201,14 @@
           "label": "Aibu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575747,
+    "content_id": "575747",
     "reference_id": 26317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dhiki",
     "media_type": "Text",
     "index_reference": "dhiki",
@@ -5356,13 +5461,14 @@
           "label": "Ghadhabu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575769,
+    "content_id": "575769",
     "reference_id": 26347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Divai",
     "media_type": "Text",
     "index_reference": "divai",
@@ -5827,13 +5933,22 @@
           "label": "Mashine ya Kukamua Divai",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:Wine",
+          "type": "realia",
+          "preferred_label": "Wine",
+          "confidence": 0.657,
+          "match_method": "scored"
+        }
       ]
     }
   },
   {
-    "content_id": 626941,
+    "content_id": "626941",
     "reference_id": 25544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dosari",
     "media_type": "Text",
     "index_reference": "dosari",
@@ -5908,13 +6023,14 @@
           "label": "dhambi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 627174,
+    "content_id": "627174",
     "reference_id": 25980,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Duni",
     "media_type": "Text",
     "index_reference": "duni",
@@ -5975,13 +6091,14 @@
           "label": "Mwenye kiburi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 575455,
+    "content_id": "575455",
     "reference_id": 25687,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dunia",
     "media_type": "Text",
     "index_reference": "dunia",
@@ -9624,13 +9741,22 @@
           "label": "Dunia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Worldly",
+          "type": "keyterm",
+          "preferred_label": "Worldly",
+          "confidence": 0.8236,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 575777,
+    "content_id": "575777",
     "reference_id": 26356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dunia",
     "media_type": "Text",
     "index_reference": "dunia",
@@ -10676,6 +10802,15 @@
           "resource_code": "UWTranslationWords",
           "label": "Rumi",
           "language": "swh"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Worldly",
+          "type": "keyterm",
+          "preferred_label": "Worldly",
+          "confidence": 0.8236,
+          "match_method": "embedding"
         }
       ]
     }

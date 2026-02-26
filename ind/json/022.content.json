@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 676222,
+    "content_id": "676222",
     "reference_id": 26303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Waktu",
     "media_type": "Text",
     "index_reference": "waktu",
@@ -909,13 +909,29 @@
           "label": "Kesengsaraan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Massah",
+          "type": "place",
+          "preferred_label": "Masa",
+          "confidence": 0.8878,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Azal",
+          "type": "place",
+          "preferred_label": "zaman",
+          "confidence": 0.863,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 675683,
+    "content_id": "675683",
     "reference_id": 25537,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Waktu jaga (waktu secara alkitabiah)",
     "media_type": "Text",
     "index_reference": "waktu jaga (waktu secara alkitabiah)",
@@ -961,7 +977,8 @@
           "end_ref_usfm": "PSA 90:4"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]
