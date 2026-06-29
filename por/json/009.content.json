@@ -2,7 +2,7 @@
 {
 "content_id": "237941",
 "reference_id": 25808,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Habacuque",
 "media_type": "Text",
 "index_reference": "habacuque",
@@ -40,22 +40,13 @@
 "label": "Jeremias",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Habakkuk",
-"type": "person",
-"preferred_label": "Habacuque",
-"confidence": 1.0,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "237942",
 "reference_id": 25809,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hades",
 "media_type": "Text",
 "index_reference": "hades",
@@ -159,29 +150,13 @@
 "label": "Túmulo",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"preferred_label": "World of the Dead",
-"confidence": 0.9333,
-"match_method": "scored"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"preferred_label": "Hell",
-"confidence": 0.85,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237943",
 "reference_id": 25810,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hagar",
 "media_type": "Text",
 "index_reference": "hagar",
@@ -299,22 +274,13 @@
 "label": "Servo",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Hagar",
-"type": "person",
-"preferred_label": "Hagar",
-"confidence": 0.9667,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237947",
 "reference_id": 25814,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hamate",
 "media_type": "Text",
 "index_reference": "hamate",
@@ -390,22 +356,13 @@
 "label": "Zedequias",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamate",
-"confidence": 0.8222,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237948",
 "reference_id": 25815,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hamor",
 "media_type": "Text",
 "index_reference": "hamor",
@@ -535,22 +492,13 @@
 "label": "Sucote",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Hamor",
-"type": "person",
-"preferred_label": "Hamor",
-"confidence": 0.9059,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237949",
 "reference_id": 25816,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hananias",
 "media_type": "Text",
 "index_reference": "hananias",
@@ -675,85 +623,13 @@
 "label": "Misael",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Hananiah.12",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6889,
-"match_method": "scored"
-},
-{
-"id": "person:Hananiah.15",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6667,
-"match_method": "scored"
-},
-{
-"id": "person:Hananiah.5",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6222,
-"match_method": "scored"
-},
-{
-"id": "person:Hananiah.11",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6222,
-"match_method": "scored"
-},
-{
-"id": "person:Hananiah.7",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6222,
-"match_method": "scored"
-},
-{
-"id": "person:Hananiah.10",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6222,
-"match_method": "scored"
-},
-{
-"id": "person:Hananiah.8",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6222,
-"match_method": "scored"
-},
-{
-"id": "person:Hananiah.6",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6222,
-"match_method": "scored"
-},
-{
-"id": "person:Hananiah.9",
-"type": "person",
-"preferred_label": "Hananias",
-"confidence": 0.6222,
-"match_method": "scored"
-},
-{
-"id": "person:Hanani.4",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.5592,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237952",
 "reference_id": 25819,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Harã",
 "media_type": "Text",
 "index_reference": "harã",
@@ -921,29 +797,13 @@
 "label": "Ur",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "place:Haran",
-"type": "place",
-"preferred_label": "Harã",
-"confidence": 0.7905,
-"match_method": "scored"
-},
-{
-"id": "person:Haran",
-"type": "person",
-"preferred_label": "Harã",
-"confidence": 0.6952,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237955",
 "reference_id": 25822,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Harpa",
 "media_type": "Text",
 "index_reference": "harpa",
@@ -1042,22 +902,13 @@
 "label": "Saul",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "realia:Lyre",
-"type": "realia",
-"preferred_label": "Lyre",
-"confidence": 0.8172,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237959",
 "reference_id": 25826,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hebreu",
 "media_type": "Text",
 "index_reference": "hebreu",
@@ -1305,14 +1156,13 @@
 "label": "Líderes judeus",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "237960",
 "reference_id": 25827,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hebrom",
 "media_type": "Text",
 "index_reference": "hebrom",
@@ -1397,22 +1247,13 @@
 "label": "Anaque",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebrom",
-"confidence": 0.8333,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "238000",
 "reference_id": 25867,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herdar",
 "media_type": "Text",
 "index_reference": "herdar",
@@ -1835,14 +1676,13 @@
 "label": "Terra Prometida",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "237961",
 "reference_id": 25828,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herdeiro",
 "media_type": "Text",
 "index_reference": "herdeiro",
@@ -1981,14 +1821,13 @@
 "label": "Herdar",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "237963",
 "reference_id": 25830,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Antipas",
 "media_type": "Text",
 "index_reference": "herodes antipas",
@@ -2244,25 +2083,16 @@
 "label": "Roma",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Herod.2",
-"type": "person",
-"preferred_label": "Herodes Antipas",
-"confidence": 0.8743,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237965",
 "reference_id": 25832,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes, o Grande",
 "media_type": "Text",
-"index_reference": "herodes, o grande",
+"index_reference": "herodes o grande",
 "language": "por",
 "review_level": "None",
 "content": "<h1>Herodes, Herodes o Grande</h1><h2>Fatos:</h2><p>Herodes o Grande estava governando a Judeia na época em que Jesus nasceu. Ele foi o primeiro de vários governantes edomitas chamados Herodes que governaram partes do Império Romano.</p><ul><li><p>Seus ancestrais se converteram ao judaísmo e ele foi criado como judeu.</p></li><li><p>César Augusto o nomeou “Rei Herodes” embora ele não fosse um verdadeiro rei. Ele governou os judeus na Judeia por 33 anos.</p></li><li><p>Herodes o Grande era conhecido pelos belos edifícios que mandou construir e pela reconstrução do templo judaico em Jerusalém.</p></li><li><p>Este Herodes era muito cruel e mandou matar muitas pessoas. Quando ouviu que um “rei dos judeus” havia nascido em Belém, mandou matar todos os bebês meninos daquela cidade.</p></li><li><p>Seus filhos Herodes Antipas e Herodes Filipe e seu neto Herodes Agripa também se tornaram governantes romanos. Seu bisneto Herodes Agripa II (chamado “Rei Agripa”) governou toda a área da Judeia.</p></li></ul><p>(Veja como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25830\" data-resourceType=\"UWTranslationWords\">Herodes Antipas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25928\" data-resourceType=\"UWTranslationWords\">Judeia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">rei</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">templo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Matt2:3\">Mateus 2.3</a></p></li><li><p><a href=\"https://ref.ly/Matt2:12\">Mateus 2.12</a></p></li><li><p><a href=\"https://ref.ly/Matt2:16\">Mateus 2.16</a></p></li><li><p><a href=\"https://ref.ly/Matt2:20\">Mateus 2.20</a></p></li><li><p><a href=\"https://ref.ly/Matt2:22\">Mateus 2.22</a></p></li></ul><h2>Dados de Palavras:</h2><ul><li><p>Strong’s: G22640</p></li></ul>",
@@ -2364,22 +2194,13 @@
 "label": "Templo",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Herod",
-"type": "person",
-"preferred_label": "Herodes",
-"confidence": 0.7881,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237964",
 "reference_id": 25831,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodias",
 "media_type": "Text",
 "index_reference": "herodias",
@@ -2446,22 +2267,13 @@
 "label": "João Batista",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Herodias",
-"type": "person",
-"preferred_label": "Herodias",
-"confidence": 0.9429,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237966",
 "reference_id": 25833,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hesbom",
 "media_type": "Text",
 "index_reference": "hesbom",
@@ -2485,36 +2297,13 @@
 "label": "Seom",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "place:Heshbon",
-"type": "place",
-"preferred_label": "Hesbom",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Heshmon",
-"type": "place",
-"preferred_label": "Hesmom",
-"confidence": 0.8317,
-"match_method": "embedding"
-},
-{
-"id": "place:Helbon",
-"type": "place",
-"preferred_label": "Helbom",
-"confidence": 0.821,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "237972",
 "reference_id": 25839,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heveu",
 "media_type": "Text",
 "index_reference": "heveu",
@@ -2637,14 +2426,13 @@
 "label": "Siquém",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "237970",
 "reference_id": 25837,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hilquias",
 "media_type": "Text",
 "index_reference": "hilquias",
@@ -2747,43 +2535,13 @@
 "label": "Javé",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Hilkiah.6",
-"type": "person",
-"preferred_label": "Hilquias",
-"confidence": 0.7333,
-"match_method": "scored"
-},
-{
-"id": "person:Hilkiah",
-"type": "person",
-"preferred_label": "Hilquias",
-"confidence": 0.6667,
-"match_method": "scored"
-},
-{
-"id": "person:Hilkiah.5",
-"type": "person",
-"preferred_label": "Hilquias",
-"confidence": 0.6667,
-"match_method": "scored"
-},
-{
-"id": "person:Hilkiah.2",
-"type": "person",
-"preferred_label": "Hilquias",
-"confidence": 0.5833,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "237994",
 "reference_id": 25861,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hipócrita",
 "media_type": "Text",
 "index_reference": "hipócrita",
@@ -2961,14 +2719,13 @@
 "end_ref_usfm": "MAT 6:2"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "237971",
 "reference_id": 25838,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hitita",
 "media_type": "Text",
 "index_reference": "hitita",
@@ -3220,22 +2977,13 @@
 "label": "Urias",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Hatita",
-"type": "person",
-"preferred_label": "Hatita",
-"confidence": 0.8462,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "237695",
 "reference_id": 25560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holocausto",
 "media_type": "Text",
 "index_reference": "holocausto",
@@ -3515,14 +3263,13 @@
 "label": "Sacrifício",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "238125",
 "reference_id": 25995,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Homem de Deus",
 "media_type": "Text",
 "index_reference": "homem de deus",
@@ -3584,14 +3331,13 @@
 "label": "Profeta",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "238093",
 "reference_id": 25962,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Homens Instruídos",
 "media_type": "Text",
 "index_reference": "homens instruídos",
@@ -3653,22 +3399,13 @@
 "label": "Daniel",
 "language": "por"
 }
-],
-"acai": [
-{
-"id": "person:Herod",
-"type": "person",
-"preferred_label": "Herodes",
-"confidence": 0.5835,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "238477",
 "reference_id": 26351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Homens Sábios",
 "media_type": "Text",
 "index_reference": "homens sábios",
@@ -3812,14 +3549,13 @@
 "label": "Sábio",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "237979",
 "reference_id": 25846,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Honra",
 "media_type": "Text",
 "index_reference": "honra",
@@ -4319,14 +4055,13 @@
 "label": "Louvar",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "237987",
 "reference_id": 25854,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hora",
 "media_type": "Text",
 "index_reference": "hora",
@@ -4778,7 +4513,7 @@
 {
 "reference_id": 25535,
 "content_id": 237671,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Hora no período bíblico",
 "language": "por"
 },
@@ -4789,14 +4524,13 @@
 "label": "Hora",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "237671",
 "reference_id": 25535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hora no período bíblico",
 "media_type": "Text",
 "index_reference": "hora no período bíblico",
@@ -4974,14 +4708,13 @@
 "end_ref_usfm": "JHN 4:52"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "237982",
 "reference_id": 25849,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Horror",
 "media_type": "Text",
 "index_reference": "horror",
@@ -5036,14 +4769,13 @@
 "label": "Terror",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "237993",
 "reference_id": 25860,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Humilde",
 "media_type": "Text",
 "index_reference": "humilde",
@@ -5229,14 +4961,13 @@
 "label": "Orgulhoso",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "238111",
 "reference_id": 25980,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Humilde",
 "media_type": "Text",
 "index_reference": "humilde",
@@ -5297,8 +5028,7 @@
 "label": "Orgulhoso",
 "language": "por"
 }
-],
-"acai": []
+]
 }
 }
 ]

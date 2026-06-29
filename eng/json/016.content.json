@@ -2,7 +2,7 @@
 {
 "content_id": "26915",
 "reference_id": 26057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oak",
 "media_type": "Text",
 "index_reference": "oak",
@@ -74,29 +74,13 @@
 "label": "Holy",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Oak",
-"type": "flora",
-"preferred_label": "Oak",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "flora:Terebinth",
-"type": "flora",
-"preferred_label": "Terebinth",
-"confidence": 0.6667,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26916",
 "reference_id": 26058,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oath",
 "media_type": "Text",
 "index_reference": "oath",
@@ -578,22 +562,13 @@
 "label": "Promise",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Oath",
-"type": "keyterm",
-"preferred_label": "Oath",
-"confidence": 0.7037,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26917",
 "reference_id": 26059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Obadiah",
 "media_type": "Text",
 "index_reference": "obadiah",
@@ -743,99 +718,13 @@
 "label": "Zedekiah",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Obadiah.10",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.11",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.12",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.2",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.3",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.4",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.5",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.6",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.7",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.8",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah.9",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Obadiah",
-"type": "person",
-"preferred_label": "Obadiah",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26918",
 "reference_id": 26060,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Og",
 "media_type": "Text",
 "index_reference": "og",
@@ -859,22 +748,13 @@
 "label": "Bashan",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Og",
-"type": "person",
-"preferred_label": "Og",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26919",
 "reference_id": 26061,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oil",
 "media_type": "Text",
 "index_reference": "oil",
@@ -1211,29 +1091,13 @@
 "label": "Sacrifice",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:OliveOil",
-"type": "realia",
-"preferred_label": "Olive Oil",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"preferred_label": "Anointing Oil",
-"confidence": 0.8473,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26920",
 "reference_id": 26062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Olive",
 "media_type": "Text",
 "index_reference": "olive",
@@ -1450,29 +1314,13 @@
 "label": "Mount of Olives",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:OliveTree",
-"type": "flora",
-"preferred_label": "Olive Tree",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:OlivesMount",
-"type": "place",
-"preferred_label": "Mount of Olives",
-"confidence": 0.5938,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26921",
 "reference_id": 26063,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Omri",
 "media_type": "Text",
 "index_reference": "omri",
@@ -1517,43 +1365,13 @@
 "label": "Tirzah",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Omri.2",
-"type": "person",
-"preferred_label": "Omri",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Omri.3",
-"type": "person",
-"preferred_label": "Omri",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Omri.4",
-"type": "person",
-"preferred_label": "Omri",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Omri",
-"type": "person",
-"preferred_label": "Omri",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26922",
 "reference_id": 26064,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "On High",
 "media_type": "Text",
 "index_reference": "on high",
@@ -1638,29 +1456,13 @@
 "label": "Honor",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Height",
-"type": "keyterm",
-"preferred_label": "Height",
-"confidence": 0.749,
-"match_method": "scored"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 0.5775,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26923",
 "reference_id": 26065,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ordain",
 "media_type": "Text",
 "index_reference": "ordain",
@@ -1779,7 +1581,7 @@
 {
 "reference_id": 25959,
 "content_id": 26817,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Law of Moses",
 "language": "eng"
 },
@@ -1790,14 +1592,13 @@
 "label": "Priest",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26924",
 "reference_id": 26066,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ordinance",
 "media_type": "Text",
 "index_reference": "ordinance",
@@ -1963,7 +1764,7 @@
 {
 "reference_id": 25959,
 "content_id": 26817,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Law of Moses",
 "language": "eng"
 },
@@ -1981,14 +1782,13 @@
 "label": "Statute",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26925",
 "reference_id": 26067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Overseer",
 "media_type": "Text",
 "index_reference": "overseer",
@@ -2146,14 +1946,13 @@
 "label": "Shepherd",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26926",
 "reference_id": 26068,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Overtake",
 "media_type": "Text",
 "index_reference": "overtake",
@@ -2234,8 +2033,7 @@
 "label": "Punish",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 }
 ]

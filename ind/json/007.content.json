@@ -2,7 +2,7 @@
 {
 "content_id": "675838",
 "reference_id": 25739,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Festival",
 "media_type": "Text",
 "index_reference": "festival",
@@ -266,14 +266,13 @@
 "label": "Pesta",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "676097",
 "reference_id": 26097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filipi",
 "media_type": "Text",
 "index_reference": "filipi",
@@ -374,22 +373,13 @@
 "label": "Silas",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Philippi",
-"type": "place",
-"preferred_label": "Filipi",
-"confidence": 0.7818,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676252",
 "reference_id": 26355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Firman Allah",
 "media_type": "Text",
 "index_reference": "firman allah",
@@ -1433,22 +1423,13 @@
 "label": "Nabi",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "firman tuhan",
-"confidence": 0.8158,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "676198",
 "reference_id": 26244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fitnah",
 "media_type": "Text",
 "index_reference": "fitnah",
@@ -1616,8 +1597,7 @@
 "label": "Menghujat",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 }
 ]

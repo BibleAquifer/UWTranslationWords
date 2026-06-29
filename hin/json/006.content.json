@@ -2,7 +2,7 @@
 {
 "content_id": "179792",
 "reference_id": 25719,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ऊँचा करना",
 "media_type": "Text",
 "index_reference": "ऊँचा करना",
@@ -178,7 +178,7 @@
 {
 "reference_id": 25786,
 "content_id": 179857,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "महिमा",
 "language": "hin"
 },
@@ -203,14 +203,13 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179904",
 "reference_id": 25835,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ऊँचे स्थान",
 "media_type": "Text",
 "index_reference": "ऊँचे स्थान",
@@ -267,7 +266,7 @@
 {
 "reference_id": 25728,
 "content_id": 179801,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "देवता",
 "language": "hin"
 },
@@ -278,22 +277,13 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "realia:HighPlace",
-"type": "realia",
-"preferred_label": "High Place",
-"confidence": 0.8128,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "180126",
 "reference_id": 26064,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ऊँचे स्थान पर",
 "media_type": "Text",
 "index_reference": "ऊँचे स्थान पर",
@@ -378,14 +368,13 @@
 "label": "आदर",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179649",
 "reference_id": 25570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ऊँट",
 "media_type": "Text",
 "index_reference": "ऊँट",
@@ -628,18 +617,17 @@
 {
 "reference_id": 25596,
 "content_id": 179675,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "शुद्ध",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "180382",
 "reference_id": 26329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ऊर",
 "media_type": "Text",
 "index_reference": "ऊर",
@@ -729,22 +717,13 @@
 "label": "मेसोपोटामिया",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Ur",
-"type": "place",
-"preferred_label": "ऊर",
-"confidence": 0.92,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "180383",
 "reference_id": 26330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ऊरिय्याह",
 "media_type": "Text",
 "index_reference": "ऊरिय्याह",
@@ -830,29 +809,6 @@
 "resource_code": "UWTranslationWords",
 "label": "हित्ती",
 "language": "hin"
-}
-],
-"acai": [
-{
-"id": "person:Uriah",
-"type": "person",
-"preferred_label": "ऊरिय्याह",
-"confidence": 0.7778,
-"match_method": "scored"
-},
-{
-"id": "person:Uriah.4",
-"type": "person",
-"preferred_label": "ऊरिय्याह",
-"confidence": 0.7333,
-"match_method": "scored"
-},
-{
-"id": "person:Uriah.5",
-"type": "person",
-"preferred_label": "ऊरिय्याह",
-"confidence": 0.6444,
-"match_method": "scored"
 }
 ]
 }

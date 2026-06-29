@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Words</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Words</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Words</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "UWTranslationWords",
-"date_created": "2026-03-26",
+"date_created": "2026-06-29",
 "language": "fra",
 "localizations": [
 "eng",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-03-26T12:36:07.619098"
+"dateCreated": "2026-06-29T12:14:26.644213"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationWords": {
-"timestamp": "2026-03-26T12:36:07.619098"
+"timestamp": "2026-06-29T12:14:26.644213"
 }
 }
 },
@@ -97,18 +97,9 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 2269,
+"size": 22587,
 "scope": {
-"&": [
-"&quot;l'offrande de culpabilité"
-]
-}
-},
-"json/002.content.json": {
-"mimeType": "text/json",
-"size": 23408,
-"scope": {
-"#": [
+" ": [
 "# Compagnon",
 "# Confort",
 "# exalt",
@@ -116,18 +107,18 @@
 ]
 }
 },
-"json/003.content.json": {
+"json/002.content.json": {
 "mimeType": "text/json",
-"size": 10656,
+"size": 10208,
 "scope": {
 "<": [
 "<h2>heure"
 ]
 }
 },
-"json/004.content.json": {
+"json/003.content.json": {
 "mimeType": "text/json",
-"size": 516488,
+"size": 497698,
 "scope": {
 "a": [
 "Aaron",
@@ -219,9 +210,9 @@
 ]
 }
 },
-"json/005.content.json": {
+"json/004.content.json": {
 "mimeType": "text/json",
-"size": 238532,
+"size": 230080,
 "scope": {
 "b": [
 "Baal",
@@ -251,10 +242,10 @@
 "Beréé",
 "bétail",
 "Bête",
-"Beth_Sémès",
 "Bethanie",
 "Béthel",
 "Bethléhem",
+"Beth_Sémès",
 "Béthuel",
 "Bien-aimé",
 "Blasphème",
@@ -267,9 +258,9 @@
 ]
 }
 },
-"json/006.content.json": {
+"json/005.content.json": {
 "mimeType": "text/json",
-"size": 665187,
+"size": 638894,
 "scope": {
 "c": [
 "Caïn",
@@ -358,9 +349,9 @@
 ]
 }
 },
-"json/007.content.json": {
+"json/006.content.json": {
 "mimeType": "text/json",
-"size": 444454,
+"size": 425624,
 "scope": {
 "d": [
 "Damas",
@@ -408,9 +399,9 @@
 ]
 }
 },
-"json/008.content.json": {
+"json/007.content.json": {
 "mimeType": "text/json",
-"size": 326297,
+"size": 314407,
 "scope": {
 "e": [
 "Échanson",
@@ -470,9 +461,9 @@
 ]
 }
 },
-"json/009.content.json": {
+"json/008.content.json": {
 "mimeType": "text/json",
-"size": 161137,
+"size": 155024,
 "scope": {
 "f": [
 "Fabricant",
@@ -501,9 +492,9 @@
 ]
 }
 },
-"json/010.content.json": {
+"json/009.content.json": {
 "mimeType": "text/json",
-"size": 240140,
+"size": 231167,
 "scope": {
 "g": [
 "Gabaon",
@@ -544,9 +535,9 @@
 ]
 }
 },
-"json/011.content.json": {
+"json/010.content.json": {
 "mimeType": "text/json",
-"size": 138166,
+"size": 133784,
 "scope": {
 "h": [
 "Habacuc",
@@ -582,9 +573,9 @@
 ]
 }
 },
-"json/012.content.json": {
+"json/011.content.json": {
 "mimeType": "text/json",
-"size": 147120,
+"size": 141705,
 "scope": {
 "i": [
 "Iconium",
@@ -610,9 +601,9 @@
 ]
 }
 },
-"json/013.content.json": {
+"json/012.content.json": {
 "mimeType": "text/json",
-"size": 503468,
+"size": 483790,
 "scope": {
 "j": [
 "Jacob",
@@ -671,9 +662,9 @@
 ]
 }
 },
-"json/014.content.json": {
+"json/013.content.json": {
 "mimeType": "text/json",
-"size": 11459,
+"size": 11333,
 "scope": {
 "k": [
 "Kadesh",
@@ -684,15 +675,11 @@
 ]
 }
 },
-"json/015.content.json": {
+"json/014.content.json": {
 "mimeType": "text/json",
-"size": 481496,
+"size": 463063,
 "scope": {
 "l": [
-"L’adultère",
-"L'arche de l'alliance",
-"L'Éternel, Yahvé",
-"L'Euphrate",
 "La  maison de David",
 "La bonnes nouvelle",
 "La famille",
@@ -706,10 +693,12 @@
 "La ville Sainte",
 "La volonté de Dieu",
 "Laban",
+"L’adultère",
 "Lamech",
 "Lampe",
 "Lance",
 "Langue",
+"L'arche de l'alliance",
 "Lazare",
 "Le banquet",
 "Le berger",
@@ -728,6 +717,8 @@
 "Les Hauts Lieux",
 "Les sages",
 "Les savants",
+"L'Éternel, Yahvé",
+"L'Euphrate",
 "Léviathan",
 "Lévites",
 "Levure",
@@ -750,9 +741,9 @@
 ]
 }
 },
-"json/016.content.json": {
+"json/015.content.json": {
 "mimeType": "text/json",
-"size": 322825,
+"size": 310907,
 "scope": {
 "m": [
 "Macédoine",
@@ -768,8 +759,8 @@
 "Mardochée",
 "Marie",
 "Marie soeur da Marthe",
-"Marie-Madeleine",
 "Mariéé",
+"Marie-Madeleine",
 "Marthe",
 "Matthieu",
 "Maudire",
@@ -810,9 +801,9 @@
 ]
 }
 },
-"json/017.content.json": {
+"json/016.content.json": {
 "mimeType": "text/json",
-"size": 93833,
+"size": 90721,
 "scope": {
 "n": [
 "Naaman",
@@ -838,9 +829,9 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/017.content.json": {
 "mimeType": "text/json",
-"size": 67819,
+"size": 65710,
 "scope": {
 "o": [
 "Offrande de grain",
@@ -860,9 +851,9 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/018.content.json": {
 "mimeType": "text/json",
-"size": 664084,
+"size": 638353,
 "scope": {
 "p": [
 "Pain",
@@ -946,18 +937,19 @@
 ]
 }
 },
-"json/020.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
-"size": 2198,
+"size": 4426,
 "scope": {
 "q": [
-"Qualifier"
+"Qualifier",
+"&quot;l'offrande de culpabilité"
 ]
 }
 },
-"json/021.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
-"size": 294544,
+"size": 283446,
 "scope": {
 "r": [
 "Rabbah",
@@ -999,20 +991,19 @@
 "Roseau",
 "Royal",
 "Royaume",
-"Royaume d'Israël",
 "Royaume de Dieu",
+"Royaume d'Israël",
 "Ruben",
 "Ruine",
 "Ruth"
 ]
 }
 },
-"json/022.content.json": {
+"json/021.content.json": {
 "mimeType": "text/json",
-"size": 717732,
+"size": 688801,
 "scope": {
 "s": [
-"S'incliner",
 "Saba",
 "Sabbat",
 "Sac, toile à sac",
@@ -1070,6 +1061,7 @@
 "Siméon",
 "Simon le Zélote",
 "Sinaï",
+"S'incliner",
 "Sion",
 "Sodome",
 "Songe",
@@ -1091,9 +1083,9 @@
 ]
 }
 },
-"json/023.content.json": {
+"json/022.content.json": {
 "mimeType": "text/json",
-"size": 491001,
+"size": 470781,
 "scope": {
 "t": [
 "Tabernacle",
@@ -1152,9 +1144,9 @@
 ]
 }
 },
-"json/024.content.json": {
+"json/023.content.json": {
 "mimeType": "text/json",
-"size": 13283,
+"size": 12798,
 "scope": {
 "u": [
 "Une verge",
@@ -1163,9 +1155,9 @@
 ]
 }
 },
-"json/025.content.json": {
+"json/024.content.json": {
 "mimeType": "text/json",
-"size": 105910,
+"size": 102043,
 "scope": {
 "v": [
 "Vache",
@@ -1186,27 +1178,27 @@
 ]
 }
 },
-"json/026.content.json": {
+"json/025.content.json": {
 "mimeType": "text/json",
-"size": 7650,
+"size": 7381,
 "scope": {
 "w": [
 "Woe"
 ]
 }
 },
-"json/027.content.json": {
+"json/026.content.json": {
 "mimeType": "text/json",
-"size": 4419,
+"size": 4341,
 "scope": {
 "y": [
 "Yahweh des armées"
 ]
 }
 },
-"json/028.content.json": {
+"json/027.content.json": {
 "mimeType": "text/json",
-"size": 16599,
+"size": 16089,
 "scope": {
 "z": [
 "Zacharie",
@@ -1216,341 +1208,329 @@
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 1740
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 8295
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 3239
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 154470
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 72645
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 179769
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 103134
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 100187
+"size": 48124
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 48810
+"size": 65422
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 66608
+"size": 150416
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 71197
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 48815
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 43561
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 126328
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 6193
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 135177
+"size": 43084
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 92327
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 31859
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 22034
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 182655
+"size": 31033
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 1979
-},
-"md/021.content.md": {
-"mimeType": "text/markdown",
-"size": 84474
-},
-"md/022.content.md": {
-"mimeType": "text/markdown",
-"size": 183781
-},
-"md/023.content.md": {
-"mimeType": "text/markdown",
-"size": 119071
-},
-"md/024.content.md": {
-"mimeType": "text/markdown",
-"size": 4464
-},
-"md/025.content.md": {
-"mimeType": "text/markdown",
-"size": 32861
-},
-"md/026.content.md": {
-"mimeType": "text/markdown",
-"size": 2997
+"size": 83300
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 3203
+"size": 6198
 },
-"md/028.content.md": {
+"md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 6941
+"size": 21849
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 47706
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 177288
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 3225
+},
+"md/026.content.md": {
+"mimeType": "text/markdown",
+"size": 3097
+},
+"md/021.content.md": {
+"mimeType": "text/markdown",
+"size": 181215
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 123879
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 90853
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 97641
+},
+"md/023.content.md": {
+"mimeType": "text/markdown",
+"size": 4339
+},
+"md/024.content.md": {
+"mimeType": "text/markdown",
+"size": 32314
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 102218
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 8211
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 133540
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 6043
+},
+"md/025.content.md": {
+"mimeType": "text/markdown",
+"size": 2947
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 117758
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 3150
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 179999
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42402
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 192686
+"size": 44133
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44130
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 218440
+"size": 42690
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42690
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 192520
+"size": 77468
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 77468
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 583158
+"size": 58811
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 58807
-},
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 380614
+"size": 79946
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 79946
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 614395
+"size": 61606
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 61606
-},
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 406451
+"size": 64479
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 64479
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 458369
+"size": 53350
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53350
-},
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 322395
+"size": 55892
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55892
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 354481
+"size": 53938
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53938
-},
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 333772
+"size": 51985
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51985
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 320032
+"size": 66017
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 66017
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 475850
+"size": 43593
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43593
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 202363
+"size": 72165
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 72179
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 531153
+"size": 62068
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 62081
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 417164
+"size": 49970
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49970
-},
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 285024
+"size": 47421
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47421
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 253237
+"size": 82088
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 82088
-},
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 615186
+"size": 42925
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42579
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 191709
+"size": 59648
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 59667
-},
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 388051
+"size": 79215
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 79239
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 586617
+"size": 64377
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 64377
-},
-"pdf/023.content.pdf": {
-"mimeType": "application/pdf",
-"size": 436255
+"size": 43221
 },
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43221
-},
-"pdf/024.content.pdf": {
-"mimeType": "application/pdf",
-"size": 207597
+"size": 50756
 },
 "docx/025.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50756
-},
-"pdf/025.content.pdf": {
-"mimeType": "application/pdf",
-"size": 294310
+"size": 42841
 },
 "docx/026.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42841
-},
-"pdf/026.content.pdf": {
-"mimeType": "application/pdf",
-"size": 202171
+"size": 42980
 },
 "docx/027.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42980
+"size": 43937
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 54648
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 33938
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 513178
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 239925
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 582830
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 292684
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 328500
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 175798
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 208415
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 183978
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 164600
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 374240
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 43582
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 448301
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 295523
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 130107
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 89805
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 574785
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 36350
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 267704
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 527295
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 330334
+},
+"pdf/023.content.pdf": {
+"mimeType": "application/pdf",
+"size": 43913
+},
+"pdf/024.content.pdf": {
+"mimeType": "application/pdf",
+"size": 153241
+},
+"pdf/025.content.pdf": {
+"mimeType": "application/pdf",
+"size": 38955
+},
+"pdf/026.content.pdf": {
+"mimeType": "application/pdf",
+"size": 36658
 },
 "pdf/027.content.pdf": {
 "mimeType": "application/pdf",
-"size": 204701
-},
-"docx/028.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43937
-},
-"pdf/028.content.pdf": {
-"mimeType": "application/pdf",
-"size": 219011
+"size": 51194
 }
 },
 "copyright": {
@@ -1572,7 +1552,7 @@
 "466598": {
 "content_id": "466598",
 "reference_id": 25416,
-"index_reference": "douze tribus d'israël",
+"index_reference": "douze tribus disraël",
 "localizations": {
 "eng": {
 "content_id": 26274,
@@ -2376,7 +2356,7 @@
 "466615": {
 "content_id": "466615",
 "reference_id": 25433,
-"index_reference": "l’adultère",
+"index_reference": "ladultère",
 "localizations": {
 "eng": {
 "content_id": 26291,
@@ -4167,7 +4147,7 @@
 "466652": {
 "content_id": "466652",
 "reference_id": 25473,
-"index_reference": "tireur d'arc ",
+"index_reference": "tireur darc ",
 "localizations": {
 "eng": {
 "content_id": 26331,
@@ -4261,7 +4241,7 @@
 "466654": {
 "content_id": "466654",
 "reference_id": 25475,
-"index_reference": "l'arche de l'alliance",
+"index_reference": "larche de lalliance",
 "localizations": {
 "eng": {
 "content_id": 26333,
@@ -5953,7 +5933,7 @@
 "466689": {
 "content_id": "466689",
 "reference_id": 25511,
-"index_reference": "bath-shéba",
+"index_reference": "bathshéba",
 "localizations": {
 "eng": {
 "content_id": 26369,
@@ -6329,7 +6309,7 @@
 "466697": {
 "content_id": "466697",
 "reference_id": 25524,
-"index_reference": "bien-aimé",
+"index_reference": "bienaimé",
 "localizations": {
 "eng": {
 "content_id": 26382,
@@ -6658,7 +6638,7 @@
 "466704": {
 "content_id": "466704",
 "reference_id": 25531,
-"index_reference": "beth_sémès",
+"index_reference": "bethsémès",
 "localizations": {
 "eng": {
 "content_id": 26389,
@@ -7081,7 +7061,7 @@
 "466713": {
 "content_id": "466713",
 "reference_id": 25541,
-"index_reference": "droit d'aînesse",
+"index_reference": "droit daînesse",
 "localizations": {
 "eng": {
 "content_id": 26399,
@@ -7598,7 +7578,7 @@
 "466723": {
 "content_id": "466723",
 "reference_id": 25552,
-"index_reference": "s'incliner",
+"index_reference": "sincliner",
 "localizations": {
 "eng": {
 "content_id": 26410,
@@ -9569,7 +9549,7 @@
 "466766": {
 "content_id": "466766",
 "reference_id": 25598,
-"index_reference": "# confort",
+"index_reference": " confort",
 "localizations": {
 "eng": {
 "content_id": 26456,
@@ -9705,7 +9685,7 @@
 "466769": {
 "content_id": "466769",
 "reference_id": 25601,
-"index_reference": "# compagnon",
+"index_reference": " compagnon",
 "localizations": {
 "eng": {
 "content_id": 26459,
@@ -10986,7 +10966,7 @@
 "466794": {
 "content_id": "466794",
 "reference_id": 25630,
-"index_reference": "crier, s'écrier, cri",
+"index_reference": "crier sécrier cri",
 "localizations": {
 "eng": {
 "content_id": 26488,
@@ -11693,7 +11673,7 @@
 "466809": {
 "content_id": "466809",
 "reference_id": 25646,
-"index_reference": "le jour de l'éternel",
+"index_reference": "le jour de léternel",
 "localizations": {
 "eng": {
 "content_id": 26504,
@@ -11834,7 +11814,7 @@
 "466812": {
 "content_id": "466812",
 "reference_id": 25649,
-"index_reference": "déclarer, proclamer, annoncer, publier",
+"index_reference": "déclarer proclamer annoncer publier",
 "localizations": {
 "eng": {
 "content_id": 26507,
@@ -11881,7 +11861,7 @@
 "466813": {
 "content_id": "466813",
 "reference_id": 25650,
-"index_reference": "décret, édit, publier un décret",
+"index_reference": "décret édit publier un décret",
 "localizations": {
 "eng": {
 "content_id": 26508,
@@ -12420,7 +12400,7 @@
 "466825": {
 "content_id": "466825",
 "reference_id": 25663,
-"index_reference": "abandon ;desolation",
+"index_reference": "abandon desolation",
 "localizations": {
 "eng": {
 "content_id": 26521,
@@ -14663,7 +14643,7 @@
 "466874": {
 "content_id": "466874",
 "reference_id": 25715,
-"index_reference": "l'euphrate",
+"index_reference": "leuphrate",
 "localizations": {
 "eng": {
 "content_id": 26573,
@@ -14851,7 +14831,7 @@
 "466878": {
 "content_id": "466878",
 "reference_id": 25719,
-"index_reference": "# exalt",
+"index_reference": " exalt",
 "localizations": {
 "eng": {
 "content_id": 26577,
@@ -15368,7 +15348,7 @@
 "466887": {
 "content_id": "466887",
 "reference_id": 25733,
-"index_reference": "jeûne, jeûner",
+"index_reference": "jeûne jeûner",
 "localizations": {
 "eng": {
 "content_id": 26591,
@@ -15744,7 +15724,7 @@
 "466895": {
 "content_id": "466895",
 "reference_id": 25742,
-"index_reference": "premier-né",
+"index_reference": "premierné",
 "localizations": {
 "eng": {
 "content_id": 26600,
@@ -17013,7 +16993,7 @@
 "466922": {
 "content_id": "466922",
 "reference_id": 25773,
-"index_reference": "gentil (païen)",
+"index_reference": "gentil païen",
 "localizations": {
 "eng": {
 "content_id": 26631,
@@ -17814,11 +17794,6 @@
 "language": "por",
 "title": "Deus Pai"
 },
-"spa": {
-"content_id": 335606,
-"language": "spa",
-"title": ""
-},
 "swh": {
 "content_id": 575503,
 "language": "swh",
@@ -18566,7 +18541,7 @@
 "466956": {
 "content_id": "466956",
 "reference_id": 25807,
-"index_reference": "&quot;l'offrande de culpabilité ",
+"index_reference": "quotloffrande de culpabilité ",
 "localizations": {
 "eng": {
 "content_id": 26665,
@@ -19332,7 +19307,7 @@
 "466974": {
 "content_id": "466974",
 "reference_id": 25826,
-"index_reference": "hébreu(x), hébreu(x), hébraïque",
+"index_reference": "hébreux hébreux hébraïque",
 "localizations": {
 "eng": {
 "content_id": 26684,
@@ -19725,7 +19700,7 @@
 "466983": {
 "content_id": "466983",
 "reference_id": 25836,
-"index_reference": "grand-prêtre",
+"index_reference": "grandprêtre",
 "localizations": {
 "eng": {
 "content_id": 26694,
@@ -19987,7 +19962,7 @@
 "466989": {
 "content_id": "466989",
 "reference_id": 25842,
-"index_reference": "le saint d'israël",
+"index_reference": "le saint disraël",
 "localizations": {
 "eng": {
 "content_id": 26700,
@@ -20081,7 +20056,7 @@
 "466991": {
 "content_id": "466991",
 "reference_id": 25844,
-"index_reference": "saint-esprit",
+"index_reference": "saintesprit",
 "localizations": {
 "eng": {
 "content_id": 26702,
@@ -20939,7 +20914,7 @@
 "467010": {
 "content_id": "467010",
 "reference_id": 25864,
-"index_reference": "image de dieu; image",
+"index_reference": "image de dieu image",
 "localizations": {
 "eng": {
 "content_id": 26722,
@@ -21738,7 +21713,7 @@
 "467027": {
 "content_id": "467027",
 "reference_id": 25882,
-"index_reference": "jacques (frère de jésus)",
+"index_reference": "jacques frère de jésus",
 "localizations": {
 "eng": {
 "content_id": 26740,
@@ -21785,7 +21760,7 @@
 "467028": {
 "content_id": "467028",
 "reference_id": 25883,
-"index_reference": "jacques (fils d'alphée)",
+"index_reference": "jacques fils dalphée",
 "localizations": {
 "eng": {
 "content_id": 26741,
@@ -21832,7 +21807,7 @@
 "467029": {
 "content_id": "467029",
 "reference_id": 25884,
-"index_reference": "jacques (fils de zébédée)",
+"index_reference": "jacques fils de zébédée",
 "localizations": {
 "eng": {
 "content_id": 26742,
@@ -23101,7 +23076,7 @@
 "467056": {
 "content_id": "467056",
 "reference_id": 25911,
-"index_reference": "jean (l'apôtre)",
+"index_reference": "jean lapôtre",
 "localizations": {
 "eng": {
 "content_id": 26769,
@@ -23148,7 +23123,7 @@
 "467057": {
 "content_id": "467057",
 "reference_id": 25912,
-"index_reference": "jean (le baptiste)",
+"index_reference": "jean le baptiste",
 "localizations": {
 "eng": {
 "content_id": 26770,
@@ -23289,7 +23264,7 @@
 "467060": {
 "content_id": "467060",
 "reference_id": 25915,
-"index_reference": "joppé (japho)",
+"index_reference": "joppé japho",
 "localizations": {
 "eng": {
 "content_id": 26773,
@@ -23430,7 +23405,7 @@
 "467063": {
 "content_id": "467063",
 "reference_id": 25918,
-"index_reference": "joseph (nt)",
+"index_reference": "joseph nt",
 "localizations": {
 "eng": {
 "content_id": 26776,
@@ -23477,7 +23452,7 @@
 "467064": {
 "content_id": "467064",
 "reference_id": 25919,
-"index_reference": "joseph (at)",
+"index_reference": "joseph at",
 "localizations": {
 "eng": {
 "content_id": 26777,
@@ -24454,7 +24429,7 @@
 "467084": {
 "content_id": "467084",
 "reference_id": 25941,
-"index_reference": "royaume d'israël",
+"index_reference": "royaume disraël",
 "localizations": {
 "eng": {
 "content_id": 26799,
@@ -25962,7 +25937,7 @@
 "467117": {
 "content_id": "467117",
 "reference_id": 25977,
-"index_reference": "sort(s), tirage au sort, tirer au sort",
+"index_reference": "sorts tirage au sort tirer au sort",
 "localizations": {
 "eng": {
 "content_id": 26835,
@@ -26882,7 +26857,7 @@
 "467136": {
 "content_id": "467136",
 "reference_id": 25999,
-"index_reference": "marie-madeleine",
+"index_reference": "mariemadeleine",
 "localizations": {
 "eng": {
 "content_id": 26857,
@@ -27070,7 +27045,7 @@
 "467140": {
 "content_id": "467140",
 "reference_id": 26003,
-"index_reference": "mèdes, médie",
+"index_reference": "mèdes médie",
 "localizations": {
 "eng": {
 "content_id": 26861,
@@ -29583,7 +29558,7 @@
 "467194": {
 "content_id": "467194",
 "reference_id": 26058,
-"index_reference": "serment, vœu, jurer (par)",
+"index_reference": "serment vœu jurer par",
 "localizations": {
 "eng": {
 "content_id": 26916,
@@ -30201,7 +30176,7 @@
 "467208": {
 "content_id": "467208",
 "reference_id": 26081,
-"index_reference": "sacrifice d’actions de grâces",
+"index_reference": "sacrifice dactions de grâces",
 "localizations": {
 "eng": {
 "content_id": 26939,
@@ -30515,7 +30490,7 @@
 "467215": {
 "content_id": "467215",
 "reference_id": 26090,
-"index_reference": "# persévérer",
+"index_reference": " persévérer",
 "localizations": {
 "eng": {
 "content_id": 26948,
@@ -31039,7 +31014,7 @@
 "467226": {
 "content_id": "467226",
 "reference_id": 26102,
-"index_reference": "phénicie&quot;",
+"index_reference": "phéniciequot",
 "localizations": {
 "eng": {
 "content_id": 26960,
@@ -31914,7 +31889,7 @@
 "467246": {
 "content_id": "467246",
 "reference_id": 26123,
-"index_reference": "priscille&quot;",
+"index_reference": "priscillequot",
 "localizations": {
 "eng": {
 "content_id": 26981,
@@ -34736,7 +34711,7 @@
 "467306": {
 "content_id": "467306",
 "reference_id": 26187,
-"index_reference": "sac, toile à sac",
+"index_reference": "sac toile à sac",
 "localizations": {
 "eng": {
 "content_id": 27045,
@@ -35327,7 +35302,7 @@
 "467319": {
 "content_id": "467319",
 "reference_id": 26200,
-"index_reference": "saül (at)",
+"index_reference": "saül at",
 "localizations": {
 "eng": {
 "content_id": 27058,
@@ -36143,7 +36118,7 @@
 "467337": {
 "content_id": "467337",
 "reference_id": 26221,
-"index_reference": "le saron, la plaine de saron",
+"index_reference": "le saron la plaine de saron",
 "localizations": {
 "eng": {
 "content_id": 27079,
@@ -37466,7 +37441,7 @@
 "467366": {
 "content_id": "467366",
 "reference_id": 26251,
-"index_reference": "fils de l'homme",
+"index_reference": "fils de lhomme",
 "localizations": {
 "eng": {
 "content_id": 27109,
@@ -38865,7 +38840,7 @@
 "467398": {
 "content_id": "467398",
 "reference_id": 26284,
-"index_reference": "temple, maison de dieu",
+"index_reference": "temple maison de dieu",
 "localizations": {
 "eng": {
 "content_id": 27142,
@@ -41152,7 +41127,7 @@
 "467445": {
 "content_id": "467445",
 "reference_id": 26336,
-"index_reference": "vigne (cep)",
+"index_reference": "vigne cep",
 "localizations": {
 "eng": {
 "content_id": 27194,
@@ -42183,7 +42158,7 @@
 "467468": {
 "content_id": "467468",
 "reference_id": 26360,
-"index_reference": "l'éternel, yahvé",
+"index_reference": "léternel yahvé",
 "localizations": {
 "eng": {
 "content_id": 27218,
@@ -42487,7 +42462,7 @@
 "467475": {
 "content_id": "467475",
 "reference_id": 26370,
-"index_reference": "zacharie (at)",
+"index_reference": "zacharie at",
 "localizations": {
 "eng": {
 "content_id": 27228,

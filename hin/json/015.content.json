@@ -2,7 +2,7 @@
 {
 "content_id": "180168",
 "reference_id": 26106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गड्ढा",
 "media_type": "Text",
 "index_reference": "गड्ढा",
@@ -129,14 +129,13 @@
 "label": "नरक",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179841",
 "reference_id": 25768,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गत",
 "media_type": "Text",
 "index_reference": "गत",
@@ -213,22 +212,13 @@
 "label": "पलिश्तियों",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "गत",
-"confidence": 0.8,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "179847",
 "reference_id": 25776,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गतसमनी",
 "media_type": "Text",
 "index_reference": "गतसमनी",
@@ -272,22 +262,13 @@
 "label": "जैतून पर्वत",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Gethsemane",
-"type": "place",
-"preferred_label": "गतसमनी",
-"confidence": 1.0,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "179752",
 "reference_id": 25678,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गदहा",
 "media_type": "Text",
 "index_reference": "गदहा",
@@ -585,36 +566,13 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Gedor",
-"type": "person",
-"preferred_label": "गदोर",
-"confidence": 0.8128,
-"match_method": "embedding"
-},
-{
-"id": "place:Gedor",
-"type": "place",
-"preferred_label": "गदोर",
-"confidence": 0.8128,
-"match_method": "embedding"
-},
-{
-"id": "place:Gedor.2",
-"type": "place",
-"preferred_label": "गदोर",
-"confidence": 0.8128,
-"match_method": "embedding"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "180326",
 "reference_id": 26273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गन्धक",
 "media_type": "Text",
 "index_reference": "गन्धक",
@@ -682,7 +640,7 @@
 {
 "reference_id": 25789,
 "content_id": 179860,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "धर्मी",
 "language": "hin"
 },
@@ -721,14 +679,13 @@
 "label": "सदोम",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "180101",
 "reference_id": 26037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गन्धरस",
 "media_type": "Text",
 "index_reference": "गन्धरस",
@@ -819,14 +776,13 @@
 "label": "ज्योतिषी",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179845",
 "reference_id": 25774,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गरार",
 "media_type": "Text",
 "index_reference": "गरार",
@@ -925,22 +881,13 @@
 "label": "पलिश्तियों",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Gerar",
-"type": "place",
-"preferred_label": "गरार",
-"confidence": 0.9273,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "180406",
 "reference_id": 26354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गर्भ",
 "media_type": "Text",
 "index_reference": "गर्भ",
@@ -1166,14 +1113,13 @@
 "end_ref_usfm": "GEN 38:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "179682",
 "reference_id": 25603,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गर्भवती होना",
 "media_type": "Text",
 "index_reference": "गर्भवती होना",
@@ -1425,17 +1371,16 @@
 "label": "गर्भ",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "182430",
 "reference_id": 26134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गर्व-सकारात्मक भावना",
 "media_type": "Text",
-"index_reference": "गर्व-सकारात्मक भावना",
+"index_reference": "गर्वसकारात्मक भावना",
 "language": "hin",
 "review_level": "None",
 "content": "<h1>गर्व, घमंडी</h1><h2>परिभाषा:</h2><p>इस अर्थ में “गर्व” शब्द का अर्थ किसी व्यक्ति या चीज़ के प्रति अत्यधिक संतुष्टि या प्रसन्नता की भावना से है। शब्द “घमंड” का जब इस अर्थ में प्रयोग किया जाता है, तो इसका अर्थ होता है किसी चीज़ या व्यक्ति की बहुत प्रशंसा करना और उसके बारे में ऐसी बातें कहना जो प्रशंसनीय हों।</p><ul><li><p>शब्द “गर्व” का प्रयोग जब सकारात्मक अर्थ में किया जाता है, तो इसका अर्थ होता है किसी चीज़ से बहुत प्रसन्न होना या किसी की उपलब्धि या उसके सराहनीय गुणों या योग्यताओं से बहुत प्रसन्नता या संतुष्टि की भावना होना।</p></li><li><p>अभिव्यक्ति &quot;अपने काम पर गर्व करें&quot; का मतलब है अपने काम को अच्छी तरह से करने में आनंद पाना।</p></li><li><p>कोई व्यक्ति जो उसने किया है उस पर गर्व कर सकता है बिना इसके बारे में घमंड किए। कुछ भाषाओं में &quot;गर्व&quot; के सकारात्मक अर्थ और &quot;गर्व&quot; के नकारात्मक अर्थ के लिए अलग-अलग शब्द होते हैं।</p></li><li><p>एक विनम्र व्यक्ति अपने बारे में डींग नहीं मारता या अपने आप पर गर्व नहीं करता, बल्कि परमेश्वर के बारे में और जो परमेश्वर ने किया है और कर रहा है उसके बारे में डींग मारता है।</p></li><li><p>परमेश्‍वर ने इस्राएलियों से आग्रह किया कि वे अपनी दौलत, अपनी ताकत, अपने उपजाऊ खेतों या अपने नियमों के बारे में घमंड न करें, बल्कि इस बात पर “घमंड” या गर्व करें कि वे उसे जानते हैं।</p></li></ul><h2>अनुवाद सुझाव:</h2><ul><li><p>“गर्व” का सकारात्मक अर्थ “खुशी” या “संतुष्टि” या “आनंद” के रूप में अनुवादित किया जा सकता है।</p></li><li><p>“गर्व करना” का अनुवाद “खुश होना” या “संतुष्ट होना” या “(उपलब्धियों के बारे में) हर्षित होना” के रूप में भी किया जा सकता है।</p></li><li><p>वाक्यांश “अपने काम पर गर्व करें” का अनुवाद “अपना काम अच्छी तरह से करने में संतुष्टि पाएं” के रूप में किया जा सकता है।</p></li><li><p>अभिव्यक्ति “यहोवा पर गर्व करो” का अनुवाद “यहोवा ने जो अद्भुत काम किए हैं, उनके कारण प्रसन्न हो जाओ” या “यहोवा कितना अद्भुत है, इस बात पर खुश हो जाओ” के तौर पर भी किया जा सकता है।</p></li><li><p>“घमंड करना” का सकारात्मक अर्थ “महिमा करना” या “आनन्दित होना” के रूप में अनुवादित किया जा सकता है।</p></li></ul><p>(यह भी देखें:<span data-bnType=\"resourceReference\" data-resourceId=\"25860\" data-resourceType=\"UWTranslationWords\">विनम्र</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25923\" data-resourceType=\"UWTranslationWords\">आनंद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26135\" data-resourceType=\"UWTranslationWords\">गर्व नकारात्मक अर्थ</span>)</p><h2>बाइबल संदर्भ:</h2><ul><li><p></p></li></ul><h2>बाइबल कहानियों से उदाहरण:</h2><ul><li><p><strong>4:2</strong> वे बहुत <strong>गर्वित</strong> थे, और उन्होंने परमेश्वर की बातों की परवाह नहीं की।</p></li><li><p><strong>34:10</strong> तब यीशु ने कहा, “मैं तुमसे सच कहता हूँ, परमेश्वर ने चुंगी लेनेवाले की प्रार्थना सुनी और उसे धर्मी ठहराया। परन्तु उसने धर्मगुरु की प्रार्थना को पसन्द नहीं किया। परमेश्वर हर उस व्यक्ति को नम्र करेगा जो <strong>घमंडी</strong> है, और जो स्वयं को नम्र करता है, उसे ऊँचा करेगा।”</p></li></ul><h2>शब्द विवरण:</h2><ul><li><p>स्ट्रॉन्ग:</p></li></ul>",
@@ -1463,14 +1408,13 @@
 "label": "घमंडी",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179838",
 "reference_id": 25765,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गलातिया",
 "media_type": "Text",
 "index_reference": "गलातिया",
@@ -1551,7 +1495,7 @@
 {
 "reference_id": 25523,
 "content_id": 179606,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "विश्वास करना",
 "language": "hin"
 },
@@ -1576,22 +1520,13 @@
 "label": "पौलुस",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Galatia",
-"type": "place",
-"preferred_label": "गलातिया",
-"confidence": 0.7818,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "179839",
 "reference_id": 25766,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गलील",
 "media_type": "Text",
 "index_reference": "गलील",
@@ -2067,29 +2002,13 @@
 "label": "गलील सागर",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "गलील",
-"confidence": 0.9413,
-"match_method": "scored"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"preferred_label": "गलीली",
-"confidence": 0.6038,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "180265",
 "reference_id": 26207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गलील सागर",
 "media_type": "Text",
 "index_reference": "गलील सागर",
@@ -2395,18 +2314,17 @@
 {
 "reference_id": 140828,
 "content_id": 396323,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "यूहन्ना 6:1 (#3)",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "180346",
 "reference_id": 26293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गवाही",
 "media_type": "Text",
 "index_reference": "गवाही",
@@ -3852,21 +3770,20 @@
 {
 "reference_id": 26293,
 "content_id": 180346,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "गवाही",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "182404",
 "reference_id": 25514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गवाही देना_साक्षी होना",
 "media_type": "Text",
-"index_reference": "गवाही देना_साक्षी होना",
+"index_reference": "गवाही देनासाक्षी होना",
 "language": "hin",
 "review_level": "None",
 "content": "<h1>सहना, गवाही देना, झूठी गवाही देना, गवाही दी, गवाही दी गई</h1><h2>तथ्य:</h2><p>इस अर्थ में उपयोग, वाक्यांश “गवाही देना” का अर्थ है किसी चीज़ के बारे में साक्षी देना या किसी चीज़ के बारे में बयान देना।</p><ul><li><p>अभिव्यक्ति “गवाही देना” का अर्थ है “साक्षी होना” या “जो देखा या अनुभव किया है उसका बयान करना है।”</p></li><li><p>अभिव्यक्ति “झूठी गवाही देना” का अर्थ है “झूठी साक्षी देना” या “जो देखा या अनुभव किया है, उसका झूठा बयान देना।”</p></li><li><p>संदर्भ के आधार पर, वाक्यांश “गवाही देना” का अनुवाद “साक्षी होना” या “बयान देना” के रूप में किया जा सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26171\" data-resourceType=\"UWTranslationWords\">बयान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26293\" data-resourceType=\"UWTranslationWords\">गवाही</span>)</p><h2>बाइबिल संदर्भ:</h2><h2>शब्द विवरण:</h2><ul><li><p>स्ट्रॉन्ग का:</p></li></ul>",
@@ -3887,14 +3804,13 @@
 "label": "गवाही",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179846",
 "reference_id": 25775,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गशूर",
 "media_type": "Text",
 "index_reference": "गशूर",
@@ -3957,22 +3873,13 @@
 "label": "गलील सागर",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Geshur",
-"type": "place",
-"preferred_label": "गशूर",
-"confidence": 0.6786,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "179842",
 "reference_id": 25769,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गाज़ा",
 "media_type": "Text",
 "index_reference": "गाज़ा",
@@ -4048,14 +3955,13 @@
 "label": "पलिश्तियों",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179837",
 "reference_id": 25764,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गाद",
 "media_type": "Text",
 "index_reference": "गाद",
@@ -4136,25 +4042,16 @@
 {
 "reference_id": 25881,
 "content_id": 179948,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "याकूब",
 "language": "hin"
 },
 {
 "reference_id": 26374,
 "content_id": 182438,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "जिल्पा",
 "language": "hin"
-}
-],
-"acai": [
-{
-"id": "person:Gad",
-"type": "person",
-"preferred_label": "गाद",
-"confidence": 0.8769,
-"match_method": "scored"
 }
 ]
 }
@@ -4162,7 +4059,7 @@
 {
 "content_id": "179700",
 "reference_id": 25623,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गाय",
 "media_type": "Text",
 "index_reference": "गाय",
@@ -4780,14 +4677,13 @@
 "label": "जूआ",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "180170",
 "reference_id": 26108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गिड़गिड़ाना",
 "media_type": "Text",
 "index_reference": "गिड़गिड़ाना",
@@ -4881,14 +4777,13 @@
 "end_ref_usfm": "2CO 8:5"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "179851",
 "reference_id": 25780,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गिदोन",
 "media_type": "Text",
 "index_reference": "गिदोन",
@@ -4964,22 +4859,13 @@
 "label": "यहोवा",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "person:Gideon",
-"type": "person",
-"preferred_label": "गिदोन",
-"confidence": 0.7333,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "179849",
 "reference_id": 25778,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गिबा",
 "media_type": "Text",
 "index_reference": "गिबा",
@@ -5035,36 +4921,13 @@
 "label": "यरूशलेम",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "person:Gibea",
-"type": "person",
-"preferred_label": "गिबा",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Gibeah",
-"type": "place",
-"preferred_label": "गिबा",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Geba",
-"type": "place",
-"preferred_label": "गेबा",
-"confidence": 0.9219,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "179850",
 "reference_id": 25779,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गिबोन",
 "media_type": "Text",
 "index_reference": "गिबोन",
@@ -5126,29 +4989,13 @@
 "label": "यरूशलेम",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Gibeon",
-"type": "place",
-"preferred_label": "गिबोन",
-"confidence": 0.9111,
-"match_method": "scored"
-},
-{
-"id": "group:Gibeon",
-"type": "group",
-"preferred_label": "गिबोनी",
-"confidence": 0.6039,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "179855",
 "reference_id": 25784,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गिर्गाशियों",
 "media_type": "Text",
 "index_reference": "गिर्गाशियों",
@@ -5222,14 +5069,13 @@
 "label": "नूह",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179853",
 "reference_id": 25782,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गिलगाल",
 "media_type": "Text",
 "index_reference": "गिलगाल",
@@ -5298,36 +5144,13 @@
 "label": "यरदन नदी",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.8119,
-"match_method": "embedding"
-},
-{
-"id": "place:Gilgal.3",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.8119,
-"match_method": "embedding"
-},
-{
-"id": "place:Gilgal.4",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.8119,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "179852",
 "reference_id": 25781,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गिलाद",
 "media_type": "Text",
 "index_reference": "गिलाद",
@@ -5445,22 +5268,13 @@
 "label": "रूबेन",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "गिलाद",
-"confidence": 0.9077,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "180395",
 "reference_id": 26343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गुम्मट",
 "media_type": "Text",
 "index_reference": "गुम्मट",
@@ -5545,22 +5359,13 @@
 "label": "चौकस",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Gamad",
-"type": "place",
-"preferred_label": "गम्‍मद",
-"confidence": 0.8039,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "180336",
 "reference_id": 26283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गुरु",
 "media_type": "Text",
 "index_reference": "गुरु",
@@ -5987,14 +5792,13 @@
 "label": "प्रचार करना",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179863",
 "reference_id": 25792,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गुलगुता",
 "media_type": "Text",
 "index_reference": "गुलगुता",
@@ -6037,22 +5841,13 @@
 "label": "जैतून पर्वत",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "place:Golgotha",
-"type": "place",
-"preferred_label": "गुलगुता",
-"confidence": 1.0,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "180397",
 "reference_id": 26345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गेहूँ",
 "media_type": "Text",
 "index_reference": "गेहूँ",
@@ -6249,14 +6044,13 @@
 "label": "ओसाई",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "180369",
 "reference_id": 26316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गोत्र",
 "media_type": "Text",
 "index_reference": "गोत्र",
@@ -6553,14 +6347,13 @@
 "label": "जाति",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179759",
 "reference_id": 25685,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गोबर",
 "media_type": "Text",
 "index_reference": "गोबर",
@@ -6602,14 +6395,13 @@
 "label": "फाटक",
 "language": "hin"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "179864",
 "reference_id": 25793,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गोलियत",
 "media_type": "Text",
 "index_reference": "गोलियत",
@@ -6658,22 +6450,13 @@
 "label": "पलिश्तियों",
 "language": "hin"
 }
-],
-"acai": [
-{
-"id": "person:Goliath",
-"type": "person",
-"preferred_label": "गोलियत",
-"confidence": 0.8,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "179868",
 "reference_id": 25797,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "गोशेन",
 "media_type": "Text",
 "index_reference": "गोशेन",
@@ -6807,15 +6590,6 @@
 "resource_code": "UWTranslationWords",
 "label": "नील नदी",
 "language": "hin"
-}
-],
-"acai": [
-{
-"id": "place:Goshen",
-"type": "place",
-"preferred_label": "गोशेन",
-"confidence": 0.8316,
-"match_method": "scored"
 }
 ]
 }

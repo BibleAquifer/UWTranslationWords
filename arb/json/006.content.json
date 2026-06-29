@@ -2,7 +2,7 @@
 {
 "content_id": "196369",
 "reference_id": 25988,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحاكم",
 "media_type": "Text",
 "index_reference": "الحاكم",
@@ -77,7 +77,7 @@
 {
 "reference_id": 25930,
 "content_id": 196320,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "منصب القاضي",
 "language": "arb"
 },
@@ -91,18 +91,17 @@
 {
 "reference_id": 25959,
 "content_id": 196344,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "شريعة موسى",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196131",
 "reference_id": 25713,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحبشة",
 "media_type": "Text",
 "index_reference": "الحبشة",
@@ -195,14 +194,13 @@
 "label": "فيليبس",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196243",
 "reference_id": 25838,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحثيون",
 "media_type": "Text",
 "index_reference": "الحثيون",
@@ -454,14 +452,13 @@
 "label": "أوريَّا",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196233",
 "reference_id": 25823,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحصاد",
 "media_type": "Text",
 "index_reference": "الحصاد",
@@ -829,14 +826,13 @@
 "label": "بشارة",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196223",
 "reference_id": 25813,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَام",
 "media_type": "Text",
 "index_reference": "حَام",
@@ -929,14 +925,13 @@
 "label": "نوح",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196237",
 "reference_id": 25827,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَبْرُونُ",
 "media_type": "Text",
 "index_reference": "حَبْرُونُ",
@@ -1021,43 +1016,13 @@
 "label": "عَنَاق",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Hebron",
-"type": "person",
-"preferred_label": "حَبْرونَ",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Hebron.2",
-"type": "person",
-"preferred_label": "حَبْرونَ",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "حَبْرونَ",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Ahban",
-"type": "person",
-"preferred_label": "أَحْبَانَ",
-"confidence": 0.805,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "196218",
 "reference_id": 25808,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَبَقُّوق",
 "media_type": "Text",
 "index_reference": "حَبَقُّوق",
@@ -1095,71 +1060,13 @@
 "label": "إرميا",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Habakkuk",
-"type": "person",
-"preferred_label": "حَبَقّوق",
-"confidence": 0.8695,
-"match_method": "embedding"
-},
-{
-"id": "place:Magbish",
-"type": "place",
-"preferred_label": "مَغْبِيشَ",
-"confidence": 0.8516,
-"match_method": "embedding"
-},
-{
-"id": "person:Mibzar",
-"type": "person",
-"preferred_label": "مِبْصَارَ",
-"confidence": 0.8434,
-"match_method": "embedding"
-},
-{
-"id": "place:Mortar",
-"type": "place",
-"preferred_label": "مَكْتِيشَ",
-"confidence": 0.836,
-"match_method": "embedding"
-},
-{
-"id": "person:Bakbakkar",
-"type": "person",
-"preferred_label": "بَقْبَقَّر",
-"confidence": 0.8352,
-"match_method": "embedding"
-},
-{
-"id": "person:Mahazioth",
-"type": "person",
-"preferred_label": "مَحْزِيوث",
-"confidence": 0.824,
-"match_method": "embedding"
-},
-{
-"id": "place:Tigris",
-"type": "place",
-"preferred_label": "حِدَّاقِل",
-"confidence": 0.8178,
-"match_method": "embedding"
-},
-{
-"id": "person:Pekahiah",
-"type": "person",
-"preferred_label": "فَقَحْيَا",
-"confidence": 0.8123,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "144748",
 "reference_id": 25801,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حبوب",
 "media_type": "Text",
 "index_reference": "حبوب",
@@ -1495,14 +1402,13 @@
 "label": "قمح",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "144710",
 "reference_id": 25524,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَبِيب",
 "media_type": "Text",
 "index_reference": "حَبِيب",
@@ -1904,200 +1810,80 @@
 "label": "محبّة",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Heber",
-"type": "person",
-"preferred_label": "حَابِر",
-"confidence": 0.9073,
-"match_method": "embedding"
-},
-{
-"id": "person:Heber.2",
-"type": "person",
-"preferred_label": "حَابِر",
-"confidence": 0.9073,
-"match_method": "embedding"
-},
-{
-"id": "person:Heber.3",
-"type": "person",
-"preferred_label": "حَابِر",
-"confidence": 0.9073,
-"match_method": "embedding"
-},
-{
-"id": "person:Heber.4",
-"type": "person",
-"preferred_label": "حَابِر",
-"confidence": 0.9073,
-"match_method": "embedding"
-},
-{
-"id": "person:Eber",
-"type": "person",
-"preferred_label": "عَابِر",
-"confidence": 0.8784,
-"match_method": "embedding"
-},
-{
-"id": "person:Eber.2",
-"type": "person",
-"preferred_label": "عَابِر",
-"confidence": 0.8784,
-"match_method": "embedding"
-},
-{
-"id": "person:Eber.3",
-"type": "person",
-"preferred_label": "عَابِر",
-"confidence": 0.8784,
-"match_method": "embedding"
-},
-{
-"id": "person:Eber.4",
-"type": "person",
-"preferred_label": "عَابِر",
-"confidence": 0.8784,
-"match_method": "embedding"
-},
-{
-"id": "person:Eber.5",
-"type": "person",
-"preferred_label": "عَابِر",
-"confidence": 0.8784,
-"match_method": "embedding"
-},
-{
-"id": "person:Geber",
-"type": "person",
-"preferred_label": "جَابِر",
-"confidence": 0.868,
-"match_method": "embedding"
-},
-{
-"id": "person:Heleb",
-"type": "person",
-"preferred_label": "خَالَب",
-"confidence": 0.831,
-"match_method": "embedding"
-},
-{
-"id": "person:Caleb",
-"type": "person",
-"preferred_label": "كَالِب",
-"confidence": 0.8279,
-"match_method": "embedding"
-},
-{
-"id": "person:Caleb.2",
-"type": "person",
-"preferred_label": "كَالِب",
-"confidence": 0.8279,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8182,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.2",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8182,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.3",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8182,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.4",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8182,
-"match_method": "embedding"
-},
-{
-"id": "person:Bela",
-"type": "person",
-"preferred_label": "بَالَع",
-"confidence": 0.8155,
-"match_method": "embedding"
-},
-{
-"id": "person:Bela.2",
-"type": "person",
-"preferred_label": "بَالَع",
-"confidence": 0.8155,
-"match_method": "embedding"
-},
-{
-"id": "person:Bela.3",
-"type": "person",
-"preferred_label": "بَالَع",
-"confidence": 0.8155,
-"match_method": "embedding"
-},
-{
-"id": "person:Geshem",
-"type": "person",
-"preferred_label": "جَشَمٌ",
-"confidence": 0.8112,
-"match_method": "embedding"
-},
-{
-"id": "place:Zior",
-"type": "place",
-"preferred_label": "صِيعور",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Ebed",
-"type": "person",
-"preferred_label": "عَابِد",
-"confidence": 0.8092,
-"match_method": "embedding"
-},
-{
-"id": "person:Ebed.2",
-"type": "person",
-"preferred_label": "عَابِد",
-"confidence": 0.8092,
-"match_method": "embedding"
-},
-{
-"id": "person:Shepho",
-"type": "person",
-"preferred_label": "شَفْوٌ",
-"confidence": 0.8022,
-"match_method": "embedding"
-},
-{
-"id": "person:Zelek",
-"type": "person",
-"preferred_label": "صَالَق",
-"confidence": 0.802,
-"match_method": "embedding"
-}
 ]
+}
+},
+{
+"content_id": "196046",
+"reference_id": 25614,
+"version": "1.0.4",
+"title": "حجر الزاوية",
+"media_type": "Text",
+"index_reference": "حجر الزاوية",
+"language": "arb",
+"review_level": "None",
+"content": "<h1>حجر الزاوية</h1><h2>التعريف:</h2><p>إن مصطلح &quot;حجر الزاوية&quot; يشير إلى حجر كبير تم قطعه بشكل خاص ووضعه في زاوية أساس المبنى.</p><ul><li><p>يتم قياس ووضع جميع الأحجار الأخرى في المبنى بالمقارنة بحجر الزاوية.</p></li><li><p>إنه مهم جدًا لقوة واستقرار البناء بأكمله.</p></li><li><p>في العهد الجديد، يتم تشبيه جماعة المؤمنين ببناء ويسوع المسيح هو &quot;حجر الزاوية&quot; لهذا البناء.</p></li><li><p>بنفس الطريقة التي يدعم بها حجر الزاوية البناء ويحدد موقعه بأكمله، فإن يسوع المسيح هو حجر الزاوية الذي تأسست عليه جماعة المؤمنين وهو دعامتها ومصدر ثباتها.</p></li></ul><h2>اقتراحات الترجمة:</h2><ul><li><p>يمكن أيضًا ترجمة مصطلح &quot;حجر الزاوية&quot; كـ &quot;حجر البناء الرئيسي&quot; أو &quot;حجر الأساس&quot;.</p></li><li><p>فكر فيما إذا كانت اللغة المستخدمة تحتوي على مصطلح خاص لجزء من أساس المبنى والذي يكون بمثابة الداعم الرئيسي للبناء. إذا كان الأمر كذلك، فيمكن استخدام هذا المصطلح.</p></li><li><p>طريقة أخرى لترجمة هذا ستكون، &quot;حجر الأساس المستخدم لزاوية المبنى&quot;.</p></li><li><p>من المهم الحفاظ على حقيقة أن هذا حجر كبير، يستخدم كمادة بناء صلبة وآمنة. إذا لم تُستخدم الأحجار في بناء المباني، فقد يكون هناك كلمة أخرى يمكن استخدامها تعني &quot;حجر كبير&quot; (مثل &quot;صخرة&quot;) ولكن يجب أن تحتوي أيضًا على فكرة أنها قُطعت و حددت بشكل جيد لتناسب البناء.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:11\">أعمال الرسل 4: 11</a></p></li><li><p><a href=\"https://ref.ly/Eph2:20\">أفسس 2: 20</a></p></li><li><p><a href=\"https://ref.ly/Matt21:42\">متى 21: 42</a></p></li><li><p><a href=\"https://ref.ly/Ps118:22\">مزامير 118 :22</a></p></li></ul><h2>بيانات الكلمة:</h2><ul><li><p>سترونغ: H0068, H6438, H7218, G02040, G11370, G27760, G30370</p></li></ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "19118022",
+"start_ref_usfm": "PSA 118:22",
+"end_ref": "19118022",
+"end_ref_usfm": "PSA 118:22"
+},
+{
+"start_ref": "40021042",
+"start_ref_usfm": "MAT 21:42",
+"end_ref": "40021042",
+"end_ref_usfm": "MAT 21:42"
+},
+{
+"start_ref": "41012010",
+"start_ref_usfm": "MRK 12:10",
+"end_ref": "41012010",
+"end_ref_usfm": "MRK 12:10"
+},
+{
+"start_ref": "42020017",
+"start_ref_usfm": "LUK 20:17",
+"end_ref": "42020017",
+"end_ref_usfm": "LUK 20:17"
+},
+{
+"start_ref": "44004011",
+"start_ref_usfm": "ACT 4:11",
+"end_ref": "44004011",
+"end_ref_usfm": "ACT 4:11"
+},
+{
+"start_ref": "49002020",
+"start_ref_usfm": "EPH 2:20",
+"end_ref": "49002020",
+"end_ref_usfm": "EPH 2:20"
+},
+{
+"start_ref": "60002006",
+"start_ref_usfm": "1PE 2:6",
+"end_ref": "60002006",
+"end_ref_usfm": "1PE 2:6"
+},
+{
+"start_ref": "60002007",
+"start_ref_usfm": "1PE 2:7",
+"end_ref": "60002007",
+"end_ref_usfm": "1PE 2:7"
+}
+],
+"resource": []
 }
 },
 {
 "content_id": "196595",
 "reference_id": 26262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حجر (يَرجُم)",
 "media_type": "Text",
-"index_reference": "حجر (يَرجُم)",
+"index_reference": "حجر يَرجُم",
 "language": "arb",
 "review_level": "None",
 "content": "<h1>حجر (يَرجُم)، رَجْم</h1><h2>التعريف:</h2><p>الحجر هو صخرة صغيرة. والفعل &quot;يَرجُم&quot; شخص يعني أن يرمي الحجارة والصخور الأكبر على ذلك الشخص بنية قتله. كما ان &quot;الرَجْم&quot; هو الحدث الذي يتم فيه رجم شخص ما.</p><ul><li><p>في العصور القديمة، كان الرَجْم وسيلة شائعة لإعدام الناس كعقاب على الجرائم التي كانوا قد ارتكبوها.</p></li><li><p>وقد أمر الله قادة بني إسرائيل برَجْم الناس كعقوبة على بعض الخطايا، مثل الزنا.</p></li><li><p>في العهد الجديد، غفر يسوع لامرأة كانت قد أُمسكت في ذات الفعل أي وهي تزني ومنع الناس من رجمها.</p></li><li><p>استفانوس، الذي كان أول شخص في الكتاب المقدس يُقتل لشهادته عن يسوع، رُجم حتى الموت.</p></li><li><p>في مدينة لسترة، لقد تمَّ رجم الرسول بولس، لكنه لم يمت بسبب جروحه من عملية الرجم.</p></li></ul><p>(انظر أيضًا: <span data-bnType=\"resourceReference\" data-resourceId=\"25433\" data-resourceType=\"UWTranslationWords\">الزنا</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25600\" data-resourceType=\"UWTranslationWords\">ارتكاب</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_crime\" data-resourceType=\"UWTranslationWords\">جريمة</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_death\" data-resourceType=\"UWTranslationWords\">الموت</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25984\" data-resourceType=\"UWTranslationWords\">لسترة</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26293\" data-resourceType=\"UWTranslationWords\">الشهادة</span>)</p><h2>مراجع الكتاب المقدس:</h2><ul><li><p><a href=\"https://ref.ly/Acts7:57-Acts7:58\">أعمال 7: 57–58</a></p></li><li><p><a href=\"https://ref.ly/Acts7:59-Acts7:60\">أعمال 7: 59–60</a></p></li><li><p><a href=\"https://ref.ly/Acts14:5\">أعمال 14: 5</a></p></li><li><p><a href=\"https://ref.ly/Acts14:19-Acts14:20\">أعمال 14: 19–20</a></p></li><li><p><a href=\"https://ref.ly/John8:4-John8:6\">يوحنا 8: 4–6</a></p></li><li><p><a href=\"https://ref.ly/Luke13:34\">لوقا 13: 34</a></p></li><li><p><a href=\"https://ref.ly/Luke20:6\">لوقا 20: 6</a></p></li><li><p><a href=\"https://ref.ly/Matt23:37-Matt23:39\">متى 23: 37–39</a></p></li></ul><h2>بيانات الكلمة:</h2><ul><li><p>سترونج: H0068, H0069, H0810, H1382, H1496, H1530, H2106, H2672, H2687, H2789, H4676, H4678, H5553, H5601, H5619, H6344, H6443, H6697, H6864, H6872, H7275, H7671, H8068, G26420, G29910, G30340, G30350, G30360, G30370, G40740, G43480, G55860</p></li></ul>",
@@ -2310,83 +2096,17 @@
 {
 "reference_id": 141352,
 "content_id": 326456,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "يوحنا 8: 59 (#1)",
 "language": "arb"
 }
-],
-"acai": []
-}
-},
-{
-"content_id": "196046",
-"reference_id": 25614,
-"version": "1.0.2",
-"title": "حجر الزاوية",
-"media_type": "Text",
-"index_reference": "حجر الزاوية",
-"language": "arb",
-"review_level": "None",
-"content": "<h1>حجر الزاوية</h1><h2>التعريف:</h2><p>إن مصطلح &quot;حجر الزاوية&quot; يشير إلى حجر كبير تم قطعه بشكل خاص ووضعه في زاوية أساس المبنى.</p><ul><li><p>يتم قياس ووضع جميع الأحجار الأخرى في المبنى بالمقارنة بحجر الزاوية.</p></li><li><p>إنه مهم جدًا لقوة واستقرار البناء بأكمله.</p></li><li><p>في العهد الجديد، يتم تشبيه جماعة المؤمنين ببناء ويسوع المسيح هو &quot;حجر الزاوية&quot; لهذا البناء.</p></li><li><p>بنفس الطريقة التي يدعم بها حجر الزاوية البناء ويحدد موقعه بأكمله، فإن يسوع المسيح هو حجر الزاوية الذي تأسست عليه جماعة المؤمنين وهو دعامتها ومصدر ثباتها.</p></li></ul><h2>اقتراحات الترجمة:</h2><ul><li><p>يمكن أيضًا ترجمة مصطلح &quot;حجر الزاوية&quot; كـ &quot;حجر البناء الرئيسي&quot; أو &quot;حجر الأساس&quot;.</p></li><li><p>فكر فيما إذا كانت اللغة المستخدمة تحتوي على مصطلح خاص لجزء من أساس المبنى والذي يكون بمثابة الداعم الرئيسي للبناء. إذا كان الأمر كذلك، فيمكن استخدام هذا المصطلح.</p></li><li><p>طريقة أخرى لترجمة هذا ستكون، &quot;حجر الأساس المستخدم لزاوية المبنى&quot;.</p></li><li><p>من المهم الحفاظ على حقيقة أن هذا حجر كبير، يستخدم كمادة بناء صلبة وآمنة. إذا لم تُستخدم الأحجار في بناء المباني، فقد يكون هناك كلمة أخرى يمكن استخدامها تعني &quot;حجر كبير&quot; (مثل &quot;صخرة&quot;) ولكن يجب أن تحتوي أيضًا على فكرة أنها قُطعت و حددت بشكل جيد لتناسب البناء.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:11\">أعمال الرسل 4: 11</a></p></li><li><p><a href=\"https://ref.ly/Eph2:20\">أفسس 2: 20</a></p></li><li><p><a href=\"https://ref.ly/Matt21:42\">متى 21: 42</a></p></li><li><p><a href=\"https://ref.ly/Ps118:22\">مزامير 118 :22</a></p></li></ul><h2>بيانات الكلمة:</h2><ul><li><p>سترونغ: H0068, H6438, H7218, G02040, G11370, G27760, G30370</p></li></ul>",
-"associations": {
-"passage": [
-{
-"start_ref": "19118022",
-"start_ref_usfm": "PSA 118:22",
-"end_ref": "19118022",
-"end_ref_usfm": "PSA 118:22"
-},
-{
-"start_ref": "40021042",
-"start_ref_usfm": "MAT 21:42",
-"end_ref": "40021042",
-"end_ref_usfm": "MAT 21:42"
-},
-{
-"start_ref": "41012010",
-"start_ref_usfm": "MRK 12:10",
-"end_ref": "41012010",
-"end_ref_usfm": "MRK 12:10"
-},
-{
-"start_ref": "42020017",
-"start_ref_usfm": "LUK 20:17",
-"end_ref": "42020017",
-"end_ref_usfm": "LUK 20:17"
-},
-{
-"start_ref": "44004011",
-"start_ref_usfm": "ACT 4:11",
-"end_ref": "44004011",
-"end_ref_usfm": "ACT 4:11"
-},
-{
-"start_ref": "49002020",
-"start_ref_usfm": "EPH 2:20",
-"end_ref": "49002020",
-"end_ref_usfm": "EPH 2:20"
-},
-{
-"start_ref": "60002006",
-"start_ref_usfm": "1PE 2:6",
-"end_ref": "60002006",
-"end_ref_usfm": "1PE 2:6"
-},
-{
-"start_ref": "60002007",
-"start_ref_usfm": "1PE 2:7",
-"end_ref": "60002007",
-"end_ref_usfm": "1PE 2:7"
-}
-],
-"resource": [],
-"acai": []
+]
 }
 },
 {
 "content_id": "196221",
 "reference_id": 25811,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَجّي",
 "media_type": "Text",
 "index_reference": "حَجّي",
@@ -2510,29 +2230,13 @@
 "label": "زكريا (العهد القديم)",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "place:Hali",
-"type": "place",
-"preferred_label": "حَلِي",
-"confidence": 0.8909,
-"match_method": "embedding"
-},
-{
-"id": "place:Giah",
-"type": "place",
-"preferred_label": "جِيحَ",
-"confidence": 0.8088,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "196275",
 "reference_id": 25875,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حديد",
 "media_type": "Text",
 "index_reference": "حديد",
@@ -2549,14 +2253,13 @@
 "label": "السلاح",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196174",
 "reference_id": 25758,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حُرّ",
 "media_type": "Text",
 "index_reference": "حُرّ",
@@ -2834,7 +2537,7 @@
 {
 "reference_id": 25549,
 "content_id": 195994,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "قيد",
 "language": "arb"
 },
@@ -2852,14 +2555,13 @@
 "label": "عبد",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196240",
 "reference_id": 25834,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حزقيا",
 "media_type": "Text",
 "index_reference": "حزقيا",
@@ -2953,14 +2655,13 @@
 "label": "سِنْحَارِيب",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196141",
 "reference_id": 25723,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حِزْقِيَال",
 "media_type": "Text",
 "index_reference": "حِزْقِيَال",
@@ -3011,22 +2712,13 @@
 "label": "نبي",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Ezekiel",
-"type": "person",
-"preferred_label": "حِزْقِيَالَ",
-"confidence": 0.9775,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "144740",
 "reference_id": 25705,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حسد",
 "media_type": "Text",
 "index_reference": "حسد",
@@ -3260,14 +2952,13 @@
 "label": "غيور",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196239",
 "reference_id": 25833,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حشبون",
 "media_type": "Text",
 "index_reference": "حشبون",
@@ -3291,14 +2982,13 @@
 "label": "سِيحون",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196573",
 "reference_id": 26233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حصار",
 "media_type": "Text",
 "index_reference": "حصار",
@@ -3332,14 +3022,13 @@
 "end_ref_usfm": "1KI 20:3"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "196253",
 "reference_id": 25850,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حصان",
 "media_type": "Text",
 "index_reference": "حصان",
@@ -3587,14 +3276,13 @@
 "label": "سليمان",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196138",
 "reference_id": 25720,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حضّ",
 "media_type": "Text",
 "index_reference": "حضّ",
@@ -3952,14 +3640,13 @@
 "end_ref_usfm": "1TH 2:4"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "196347",
 "reference_id": 25962,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حكماء",
 "media_type": "Text",
 "index_reference": "حكماء",
@@ -4021,14 +3708,13 @@
 "label": "دانيال",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196663",
 "reference_id": 26350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حكيم",
 "media_type": "Text",
 "index_reference": "حكيم",
@@ -5198,14 +4884,13 @@
 "label": "ثمر",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196242",
 "reference_id": 25837,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حِلْقِيَّا",
 "media_type": "Text",
 "index_reference": "حِلْقِيَّا",
@@ -5308,43 +4993,13 @@
 "label": "يهوه",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Hilkiah.6",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.7333,
-"match_method": "scored"
-},
-{
-"id": "person:Hilkiah",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.6667,
-"match_method": "scored"
-},
-{
-"id": "person:Hilkiah.5",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.6667,
-"match_method": "scored"
-},
-{
-"id": "person:Hilkiah.2",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.5833,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "196103",
 "reference_id": 25682,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حلم",
 "media_type": "Text",
 "index_reference": "حلم",
@@ -5620,14 +5275,13 @@
 "label": "رؤيا",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196224",
 "reference_id": 25814,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حماة",
 "media_type": "Text",
 "index_reference": "حماة",
@@ -5703,14 +5357,13 @@
 "label": "صَدَقيا",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196100",
 "reference_id": 25678,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حمار",
 "media_type": "Text",
 "index_reference": "حمار",
@@ -6008,14 +5661,13 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "144737",
 "reference_id": 25681,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حمامة",
 "media_type": "Text",
 "index_reference": "حمامة",
@@ -6148,14 +5800,13 @@
 "label": "زيتون",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196338",
 "reference_id": 25951,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حمل",
 "media_type": "Text",
 "index_reference": "حمل",
@@ -6555,18 +6206,17 @@
 {
 "reference_id": 140262,
 "content_id": 325366,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "يوحنا 1: 29 (#5)",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "195966",
 "reference_id": 25515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَمْل",
 "media_type": "Text",
 "index_reference": "حَمْل",
@@ -7510,7 +7160,7 @@
 {
 "reference_id": 25512,
 "content_id": 195963,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "تحمُّل العبء",
 "language": "arb"
 },
@@ -7521,14 +7171,13 @@
 "label": "ثمر",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196036",
 "reference_id": 25603,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَمْل",
 "media_type": "Text",
 "index_reference": "حَمْل",
@@ -7780,14 +7429,13 @@
 "label": "بَطْن",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196225",
 "reference_id": 25815,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَمُور",
 "media_type": "Text",
 "index_reference": "حَمُور",
@@ -7917,29 +7565,13 @@
 "label": "سُكُّوت",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Hamor",
-"type": "person",
-"preferred_label": "حَمورَ",
-"confidence": 0.8799,
-"match_method": "embedding"
-},
-{
-"id": "place:Horem",
-"type": "place",
-"preferred_label": "حورِيم",
-"confidence": 0.8518,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "195916",
 "reference_id": 25461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حنَّان",
 "media_type": "Text",
 "index_reference": "حنَّان",
@@ -8000,22 +7632,13 @@
 "label": "كاهن",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Annas",
-"type": "person",
-"preferred_label": "حَنَّانَ",
-"confidence": 0.737,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "196228",
 "reference_id": 25818,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَنَّة",
 "media_type": "Text",
 "index_reference": "حَنَّة",
@@ -8052,22 +7675,13 @@
 "label": "صموئيل",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Hannah",
-"type": "person",
-"preferred_label": "حَنَّة",
-"confidence": 0.8667,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "196226",
 "reference_id": 25816,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حننيا",
 "media_type": "Text",
 "index_reference": "حننيا",
@@ -8192,14 +7806,13 @@
 "label": "ميشائيل",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196135",
 "reference_id": 25717,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حواء",
 "media_type": "Text",
 "index_reference": "حواء",
@@ -8254,14 +7867,13 @@
 "label": "شيطان",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "144814",
 "reference_id": 26216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حيَّة",
 "media_type": "Text",
 "index_reference": "حيَّة",
@@ -8526,8 +8138,7 @@
 "label": "تجربة",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 }
 ]
