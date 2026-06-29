@@ -2,7 +2,7 @@
 {
 "content_id": "675565",
 "reference_id": 25418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Habel",
 "media_type": "Text",
 "index_reference": "habel",
@@ -87,22 +87,13 @@
 "label": "Pengorbanan",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Abel",
-"type": "person",
-"preferred_label": "Habel",
-"confidence": 0.9273,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675895",
 "reference_id": 25809,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hades",
 "media_type": "Text",
 "index_reference": "hades",
@@ -199,29 +190,13 @@
 "label": "Neraka",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"preferred_label": "alam maut",
-"confidence": 0.9333,
-"match_method": "scored"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"preferred_label": "Hell",
-"confidence": 0.85,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675687",
 "reference_id": 25541,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hak kesulungan",
 "media_type": "Text",
 "index_reference": "hak kesulungan",
@@ -307,14 +282,13 @@
 "label": "Mewarisi",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675981",
 "reference_id": 25929,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hakim",
 "media_type": "Text",
 "index_reference": "hakim",
@@ -1576,7 +1550,7 @@
 {
 "reference_id": 25929,
 "content_id": 675981,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Hakim",
 "language": "ind"
 },
@@ -1615,22 +1589,13 @@
 "label": "Hukum",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"preferred_label": "hakim",
-"confidence": 0.8729,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "675982",
 "reference_id": 25930,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hakim",
 "media_type": "Text",
 "index_reference": "hakim",
@@ -1807,7 +1772,7 @@
 {
 "reference_id": 25957,
 "content_id": 676000,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Hukum",
 "language": "ind"
 },
@@ -1818,22 +1783,13 @@
 "label": "Hukum",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"preferred_label": "hakim",
-"confidence": 0.8729,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "676015",
 "reference_id": 25988,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hakim",
 "media_type": "Text",
 "index_reference": "hakim",
@@ -1901,7 +1857,7 @@
 {
 "reference_id": 25929,
 "content_id": 675981,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Hakim",
 "language": "ind"
 },
@@ -1915,7 +1871,7 @@
 {
 "reference_id": 25957,
 "content_id": 676000,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Hukum",
 "language": "ind"
 },
@@ -1926,22 +1882,13 @@
 "label": "Hukum",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"preferred_label": "hakim",
-"confidence": 0.8729,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "676001",
 "reference_id": 25958,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Halal",
 "media_type": "Text",
 "index_reference": "halal",
@@ -2292,14 +2239,13 @@
 "label": "Sabat",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675608",
 "reference_id": 25461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hanas",
 "media_type": "Text",
 "index_reference": "hanas",
@@ -2353,22 +2299,13 @@
 "label": "Imam besar",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Annas",
-"type": "person",
-"preferred_label": "Hanas",
-"confidence": 0.8,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675906",
 "reference_id": 25847,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Harapan",
 "media_type": "Text",
 "index_reference": "harapan",
@@ -2989,22 +2926,13 @@
 "label": "Firman Allah",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:Hope",
-"type": "keyterm",
-"preferred_label": "harapan",
-"confidence": 0.9087,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675680",
 "reference_id": 25534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari",
 "media_type": "Text",
 "index_reference": "hari",
@@ -6714,14 +6642,13 @@
 "label": "Waktu",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675983",
 "reference_id": 25931,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari penghakiman",
 "media_type": "Text",
 "index_reference": "hari penghakiman",
@@ -6790,29 +6717,13 @@
 "label": "Hakim",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"preferred_label": "penghakiman",
-"confidence": 0.8345,
-"match_method": "scored"
-},
-{
-"id": "keyterm:CourtCase",
-"type": "keyterm",
-"preferred_label": "pengadilan",
-"confidence": 0.599,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675999",
 "reference_id": 25956,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari terakhir",
 "media_type": "Text",
 "index_reference": "hari terakhir",
@@ -6964,14 +6875,13 @@
 "label": "Dunia",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675764",
 "reference_id": 25646,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Tuhan",
 "media_type": "Text",
 "index_reference": "hari tuhan",
@@ -7094,14 +7004,13 @@
 "label": "Kebangkitan",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675564",
 "reference_id": 25417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Harun",
 "media_type": "Text",
 "index_reference": "harun",
@@ -7852,22 +7761,13 @@
 "label": "Musa",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Aaron",
-"type": "person",
-"preferred_label": "Harun",
-"confidence": 0.9868,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675741",
 "reference_id": 25608,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hati nurani",
 "media_type": "Text",
 "index_reference": "hati nurani",
@@ -8057,22 +7957,13 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Conscience",
-"type": "keyterm",
-"preferred_label": "hati nurani",
-"confidence": 0.9733,
-"match_method": "scored"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "675816",
 "reference_id": 25717,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hawa",
 "media_type": "Text",
 "index_reference": "hawa",
@@ -8127,22 +8018,13 @@
 "label": "Setan",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Eve",
-"type": "person",
-"preferred_label": "Hawa",
-"confidence": 0.92,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675802",
 "reference_id": 25703,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Henokh",
 "media_type": "Text",
 "index_reference": "henokh",
@@ -8269,43 +8151,13 @@
 "label": "Set",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Enoch.2",
-"type": "person",
-"preferred_label": "Henokh",
-"confidence": 0.8222,
-"match_method": "scored"
-},
-{
-"id": "person:Enoch",
-"type": "person",
-"preferred_label": "Henokh",
-"confidence": 0.6444,
-"match_method": "scored"
-},
-{
-"id": "person:Hanoch.2",
-"type": "person",
-"preferred_label": "Henokh",
-"confidence": 0.6444,
-"match_method": "scored"
-},
-{
-"id": "person:Hanoch",
-"type": "person",
-"preferred_label": "Henokh",
-"confidence": 0.6222,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676147",
 "reference_id": 26175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hormat",
 "media_type": "Text",
 "index_reference": "hormat",
@@ -8384,14 +8236,13 @@
 "label": "Kehormatan",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "676000",
 "reference_id": 25957,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukum",
 "media_type": "Text",
 "index_reference": "hukum",
@@ -8638,29 +8489,13 @@
 "label": "Hukum",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.9025,
-"match_method": "embedding"
-},
-{
-"id": "keyterm:Witness.2",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.9025,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "676002",
 "reference_id": 25959,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukum",
 "media_type": "Text",
 "index_reference": "hukum",
@@ -9628,29 +9463,13 @@
 "label": "Musa",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.9025,
-"match_method": "embedding"
-},
-{
-"id": "keyterm:Witness.2",
-"type": "keyterm",
-"preferred_label": "hukum",
-"confidence": 0.9025,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "675738",
 "reference_id": 25605,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukuman",
 "media_type": "Text",
 "index_reference": "hukuman",
@@ -9914,22 +9733,6 @@
 "resource_code": "UWTranslationWords",
 "label": "Menghukum",
 "language": "ind"
-}
-],
-"acai": [
-{
-"id": "keyterm:Punishment",
-"type": "keyterm",
-"preferred_label": "hukuman",
-"confidence": 0.8589,
-"match_method": "embedding"
-},
-{
-"id": "keyterm:Verdict",
-"type": "keyterm",
-"preferred_label": "hukuman",
-"confidence": 0.8589,
-"match_method": "embedding"
 }
 ]
 }

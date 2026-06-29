@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Words</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Words</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Words</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "UWTranslationWords",
-"date_created": "2026-03-26",
+"date_created": "2026-06-29",
 "language": "ind",
 "localizations": [
 "eng",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-03-26T12:36:12.800601"
+"dateCreated": "2026-06-29T12:14:25.930735"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationWords": {
-"timestamp": "2026-03-26T12:36:12.800601"
+"timestamp": "2026-06-29T12:14:25.930735"
 }
 }
 },
@@ -97,7 +97,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 124135,
+"size": 119118,
 "scope": {
 "<": [
 "<h2>baik",
@@ -106,18 +106,18 @@
 "<p>.# tongkat</p>\n<h2>Definisi:</h2>\n<p>Istilah “tongkat” menunjuk pada alat yang kecil",
 "<p>#amoralitas seksual",
 "<p>#jubah",
-"<p>#menegur",
-"<p>#nelayan",
-"<p>#tumpuan kaki</p>\n<h2>Definisi:</h2>\n<p>Istilah “tumpuan kaki” menunjuk pada suatu benda di mana seseorang meletakkan kakinya",
 "<p>laporkan",
 "<p>Lautan alang-alang",
-"<p>mendukung# pilih kasih"
+"<p>mendukung# pilih kasih",
+"<p>#menegur",
+"<p>#nelayan",
+"<p>#tumpuan kaki</p>\n<h2>Definisi:</h2>\n<p>Istilah “tumpuan kaki” menunjuk pada suatu benda di mana seseorang meletakkan kakinya"
 ]
 }
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 546953,
+"size": 525094,
 "scope": {
 "a": [
 "Abdi Allah",
@@ -185,7 +185,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 619635,
+"size": 595675,
 "scope": {
 "b": [
 "Baal",
@@ -234,10 +234,10 @@
 "Bertobat",
 "Beruang",
 "Besi",
-"Bet-Semes",
 "Betania",
 "Betel",
 "Betlehem",
+"Bet-Semes",
 "Betuel",
 "Bijaksana",
 "Bileam",
@@ -259,7 +259,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 13888,
+"size": 13518,
 "scope": {
 "c": [
 "Cacat",
@@ -271,7 +271,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 175696,
+"size": 168800,
 "scope": {
 "d": [
 "Damai",
@@ -294,7 +294,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 109131,
+"size": 105381,
 "scope": {
 "e": [
 "Eden",
@@ -312,8 +312,8 @@
 "Elisabet",
 "Elyakim",
 "Emas",
-"En-Gedi",
 "Enak",
+"En-Gedi",
 "Esau",
 "Ester",
 "Etiopia",
@@ -323,7 +323,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 42342,
+"size": 40740,
 "scope": {
 "f": [
 "Festival",
@@ -335,7 +335,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 121401,
+"size": 117593,
 "scope": {
 "g": [
 "Gabriel",
@@ -369,7 +369,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 241245,
+"size": 231550,
 "scope": {
 "h": [
 "Habel",
@@ -398,7 +398,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 162725,
+"size": 156362,
 "scope": {
 "i": [
 "Ibrani",
@@ -420,7 +420,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 133750,
+"size": 128507,
 "scope": {
 "j": [
 "Jafet",
@@ -441,7 +441,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 566896,
+"size": 546044,
 "scope": {
 "k": [
 "Kabar baik",
@@ -519,7 +519,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 25930,
+"size": 25177,
 "scope": {
 "l": [
 "Laut",
@@ -534,7 +534,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 1054641,
+"size": 1015039,
 "scope": {
 "m": [
 "Ma'akha",
@@ -549,8 +549,8 @@
 "Malu",
 "Manasye",
 "Maria",
-"Maria (saudara perempuan Marta)",
 "Maria Magdalena",
+"Maria (saudara perempuan Marta)",
 "Marta",
 "Masalah",
 "Matius",
@@ -659,7 +659,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 98506,
+"size": 95142,
 "scope": {
 "n": [
 "Naaman",
@@ -682,7 +682,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 67225,
+"size": 64542,
 "scope": {
 "o": [
 "Obaja",
@@ -698,7 +698,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 394850,
+"size": 380838,
 "scope": {
 "p": [
 "Padam",
@@ -757,7 +757,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 281946,
+"size": 270546,
 "scope": {
 "r": [
 "Raba",
@@ -792,7 +792,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 469350,
+"size": 451934,
 "scope": {
 "s": [
 "Sabar",
@@ -858,7 +858,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 421949,
+"size": 404187,
 "scope": {
 "t": [
 "Tabut perjanjian",
@@ -898,7 +898,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 53761,
+"size": 51780,
 "scope": {
 "u": [
 "Uji",
@@ -914,7 +914,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 22514,
+"size": 21546,
 "scope": {
 "w": [
 "Waktu",
@@ -924,7 +924,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 419568,
+"size": 403470,
 "scope": {
 "y": [
 "Yacob",
@@ -950,9 +950,9 @@
 "Yoab",
 "Yoas",
 "Yoel",
+"Yohanes Markus",
 "Yohanes (Pembaptis)",
 "Yohanes (Seorang Rasul)",
-"Yohanes Markus",
 "Yonatan",
 "Yoppe",
 "Yoram",
@@ -976,300 +976,300 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 1379,
+"size": 1363,
 "scope": {
 "z": [
 "Zaman"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 35782
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 152927
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 183281
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 7094
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 50422
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 38724
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 14040
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 48407
+"size": 45967
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 67310
+"size": 65246
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 46948
+"size": 177900
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 6878
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 38812
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 181423
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 11587
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 331020
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 35324
+"size": 37710
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 18975
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 137788
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 76410
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 148614
+"size": 18163
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 106431
+"size": 104236
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 134843
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 45654
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 49505
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 146704
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 18085
+"size": 17482
 },
-"md/022.content.md": {
+"md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 6534
+"size": 176155
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 33667
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 13705
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 123140
+"size": 117552
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 1777
+"size": 1679
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 36187
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 35304
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 323419
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 11036
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 6401
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 143468
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 74119
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51428
-},
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 301908
+"size": 51476
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 76863
 },
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 704087
-},
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 86346
-},
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 804526
+"size": 86328
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44348
 },
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 221123
-},
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 54356
 },
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 372537
-},
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52870
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 365482
+"size": 52874
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45965
 },
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 255884
-},
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 56179
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 395191
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 56671
 },
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 414770
-},
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 53551
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 360723
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 51940
 },
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 331843
-},
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 88391
-},
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 848507
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45685
 },
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 240967
-},
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 123164
-},
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 1284085
+"size": 123162
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 52059
 },
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 341824
-},
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46517
-},
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 258884
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 78202
 },
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 701761
-},
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 59583
-},
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 447815
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 80150
 },
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 723024
-},
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 63401
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 500579
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 47049
 },
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 265488
-},
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43604
 },
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 212121
-},
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 70400
-},
-"pdf/023.content.pdf": {
-"mimeType": "application/pdf",
-"size": 606985
+"size": 70402
 },
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 42528
 },
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 189158
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 736419
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 868805
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 64676
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 250319
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 227236
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 94959
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 288171
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 309635
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 241304
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 201714
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 912263
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 86156
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 1546147
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 213427
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 105051
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 720677
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 366472
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 761239
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 426995
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 111144
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 46436
+},
+"pdf/023.content.pdf": {
+"mimeType": "application/pdf",
+"size": 597442
+},
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 189973
+"size": 32801
 }
 },
 "copyright": {
@@ -1954,7 +1954,7 @@
 "675577": {
 "content_id": "675577",
 "reference_id": 25430,
-"index_reference": "<p>#menegur",
+"index_reference": "<p>menegur",
 "localizations": {
 "eng": {
 "content_id": 26288,
@@ -6629,7 +6629,7 @@
 "675677": {
 "content_id": "675677",
 "reference_id": 25531,
-"index_reference": "bet-semes",
+"index_reference": "betsemes",
 "localizations": {
 "eng": {
 "content_id": 26389,
@@ -6911,7 +6911,7 @@
 "675683": {
 "content_id": "675683",
 "reference_id": 25537,
-"index_reference": "waktu jaga (waktu secara alkitabiah)",
+"index_reference": "waktu jaga waktu secara alkitabiah",
 "localizations": {
 "eng": {
 "content_id": 26395,
@@ -7893,7 +7893,7 @@
 "675704": {
 "content_id": "675704",
 "reference_id": 25558,
-"index_reference": "mempelai laki-laki",
+"index_reference": "mempelai lakilaki",
 "localizations": {
 "eng": {
 "content_id": 26416,
@@ -9053,7 +9053,7 @@
 "675729": {
 "content_id": "675729",
 "reference_id": 25591,
-"index_reference": "kilikia.",
+"index_reference": "kilikia",
 "localizations": {
 "eng": {
 "content_id": 26449,
@@ -10745,7 +10745,7 @@
 "675765": {
 "content_id": "675765",
 "reference_id": 25647,
-"index_reference": "diakon/diaken",
+"index_reference": "diakondiaken",
 "localizations": {
 "eng": {
 "content_id": 26505,
@@ -12432,7 +12432,7 @@
 "675801": {
 "content_id": "675801",
 "reference_id": 25702,
-"index_reference": "en-gedi",
+"index_reference": "engedi",
 "localizations": {
 "eng": {
 "content_id": 26560,
@@ -12620,7 +12620,7 @@
 "675805": {
 "content_id": "675805",
 "reference_id": 25706,
-"index_reference": "efesus. orang efesus",
+"index_reference": "efesus orang efesus",
 "localizations": {
 "eng": {
 "content_id": 26564,
@@ -13367,7 +13367,7 @@
 "675821": {
 "content_id": "675821",
 "reference_id": 25722,
-"index_reference": "bergembira. gembira",
+"index_reference": "bergembira gembira",
 "localizations": {
 "eng": {
 "content_id": 26580,
@@ -13963,7 +13963,7 @@
 "675834": {
 "content_id": "675834",
 "reference_id": 25735,
-"index_reference": "takut/ketakutan",
+"index_reference": "takutketakutan",
 "localizations": {
 "eng": {
 "content_id": 26593,
@@ -14381,7 +14381,7 @@
 "675843": {
 "content_id": "675843",
 "reference_id": 25744,
-"index_reference": "<p>#nelayan",
+"index_reference": "<p>nelayan",
 "localizations": {
 "eng": {
 "content_id": 26602,
@@ -14611,7 +14611,7 @@
 "675848": {
 "content_id": "675848",
 "reference_id": 25749,
-"index_reference": "<p>#tumpuan kaki</p>\n<h2>definisi:</h2>\n<p>istilah “tumpuan kaki” menunjuk pada suatu benda di mana seseorang meletakkan kakinya",
+"index_reference": "<p>tumpuan kaki<p>\n<h2>definisi<h2>\n<p>istilah tumpuan kaki menunjuk pada suatu benda di mana seseorang meletakkan kakinya",
 "localizations": {
 "eng": {
 "content_id": 26607,
@@ -14794,7 +14794,7 @@
 "675852": {
 "content_id": "675852",
 "reference_id": 25753,
-"index_reference": "<p>#amoralitas seksual",
+"index_reference": "<p>amoralitas seksual",
 "localizations": {
 "eng": {
 "content_id": 26611,
@@ -15640,7 +15640,7 @@
 "675870": {
 "content_id": "675870",
 "reference_id": 25773,
-"index_reference": "orang-orang bukan yahudi",
+"index_reference": "orangorang bukan yahudi",
 "localizations": {
 "eng": {
 "content_id": 26631,
@@ -16230,11 +16230,6 @@
 "content_id": 237923,
 "language": "por",
 "title": "Deus Pai"
-},
-"spa": {
-"content_id": 335606,
-"language": "spa",
-"title": ""
 },
 "swh": {
 "content_id": 575503,
@@ -17473,7 +17468,7 @@
 "675909": {
 "content_id": "675909",
 "reference_id": 25857,
-"index_reference": "rumah tangga.",
+"index_reference": "rumah tangga",
 "localizations": {
 "eng": {
 "content_id": 26715,
@@ -18643,7 +18638,7 @@
 "675934": {
 "content_id": "675934",
 "reference_id": 25882,
-"index_reference": "yakobus (saudara yesus)",
+"index_reference": "yakobus saudara yesus",
 "localizations": {
 "eng": {
 "content_id": 26740,
@@ -18690,7 +18685,7 @@
 "675935": {
 "content_id": "675935",
 "reference_id": 25883,
-"index_reference": "yakobus (anak of alfeus)",
+"index_reference": "yakobus anak of alfeus",
 "localizations": {
 "eng": {
 "content_id": 26741,
@@ -18737,7 +18732,7 @@
 "675936": {
 "content_id": "675936",
 "reference_id": 25884,
-"index_reference": "yakobus (anak zebedeus)",
+"index_reference": "yakobus anak zebedeus",
 "localizations": {
 "eng": {
 "content_id": 26742,
@@ -20006,7 +20001,7 @@
 "675963": {
 "content_id": "675963",
 "reference_id": 25911,
-"index_reference": "yohanes (seorang rasul)",
+"index_reference": "yohanes seorang rasul",
 "localizations": {
 "eng": {
 "content_id": 26769,
@@ -20053,7 +20048,7 @@
 "675964": {
 "content_id": "675964",
 "reference_id": 25912,
-"index_reference": "yohanes (pembaptis)",
+"index_reference": "yohanes pembaptis",
 "localizations": {
 "eng": {
 "content_id": 26770,
@@ -20335,7 +20330,7 @@
 "675970": {
 "content_id": "675970",
 "reference_id": 25918,
-"index_reference": "yusuf (pb)",
+"index_reference": "yusuf pb",
 "localizations": {
 "eng": {
 "content_id": 26776,
@@ -20382,7 +20377,7 @@
 "675971": {
 "content_id": "675971",
 "reference_id": 25919,
-"index_reference": "yusuf (pl)",
+"index_reference": "yusuf pl",
 "localizations": {
 "eng": {
 "content_id": 26777,
@@ -21599,7 +21594,7 @@
 "675997": {
 "content_id": "675997",
 "reference_id": 25950,
-"index_reference": "kerja/kerja keras",
+"index_reference": "kerjakerja keras",
 "localizations": {
 "eng": {
 "content_id": 26808,
@@ -22304,7 +22299,7 @@
 "676012": {
 "content_id": "676012",
 "reference_id": 25985,
-"index_reference": "ma'akha",
+"index_reference": "maakha",
 "localizations": {
 "eng": {
 "content_id": 26843,
@@ -22952,7 +22947,7 @@
 "676026": {
 "content_id": "676026",
 "reference_id": 26000,
-"index_reference": "maria (saudara perempuan marta)",
+"index_reference": "maria saudara perempuan marta",
 "localizations": {
 "eng": {
 "content_id": 26858,
@@ -25752,7 +25747,7 @@
 "676086": {
 "content_id": "676086",
 "reference_id": 26075,
-"index_reference": "<p>mendukung# pilih kasih",
+"index_reference": "<p>mendukung pilih kasih",
 "localizations": {
 "eng": {
 "content_id": 26933,
@@ -28082,7 +28077,7 @@
 "676136": {
 "content_id": "676136",
 "reference_id": 26162,
-"index_reference": "<p>lautan alang-alang",
+"index_reference": "<p>lautan alangalang",
 "localizations": {
 "eng": {
 "content_id": 27020,
@@ -28129,7 +28124,7 @@
 "676137": {
 "content_id": "676137",
 "reference_id": 26163,
-"index_reference": "buluh/alang-alang",
+"index_reference": "buluhalangalang",
 "localizations": {
 "eng": {
 "content_id": 27021,
@@ -28787,7 +28782,7 @@
 "676151": {
 "content_id": "676151",
 "reference_id": 26179,
-"index_reference": "<p>#jubah",
+"index_reference": "<p>jubah",
 "localizations": {
 "eng": {
 "content_id": 27037,
@@ -28834,7 +28829,7 @@
 "676152": {
 "content_id": "676152",
 "reference_id": 26180,
-"index_reference": "<p>.# tongkat</p>\n<h2>definisi:</h2>\n<p>istilah “tongkat” menunjuk pada alat yang kecil",
+"index_reference": "<p> tongkat<p>\n<h2>definisi<h2>\n<p>istilah tongkat menunjuk pada alat yang kecil",
 "localizations": {
 "eng": {
 "content_id": 27038,
@@ -29586,7 +29581,7 @@
 "676168": {
 "content_id": "676168",
 "reference_id": 26200,
-"index_reference": "saul (pl)",
+"index_reference": "saul pl",
 "localizations": {
 "eng": {
 "content_id": 27058,
@@ -32020,7 +32015,7 @@
 "676220": {
 "content_id": "676220",
 "reference_id": 26300,
-"index_reference": "menumbuk/mengirik",
+"index_reference": "menumbukmengirik",
 "localizations": {
 "eng": {
 "content_id": 27158,
@@ -33002,7 +32997,7 @@
 "676241": {
 "content_id": "676241",
 "reference_id": 26332,
-"index_reference": "sia-sia",
+"index_reference": "siasia",
 "localizations": {
 "eng": {
 "content_id": 27190,
@@ -33190,7 +33185,7 @@
 "676245": {
 "content_id": "676245",
 "reference_id": 26337,
-"index_reference": "perawan / keperawanan",
+"index_reference": "perawan  keperawanan",
 "localizations": {
 "eng": {
 "content_id": 27195,

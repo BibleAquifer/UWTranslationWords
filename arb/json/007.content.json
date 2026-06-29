@@ -2,7 +2,7 @@
 {
 "content_id": "196578",
 "reference_id": 26240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخطية",
 "media_type": "Text",
 "index_reference": "الخطية",
@@ -1786,7 +1786,7 @@
 {
 "reference_id": 25718,
 "content_id": 196136,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "شرير",
 "language": "arb"
 },
@@ -1797,14 +1797,13 @@
 "label": "جزية",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196602",
 "reference_id": 26269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خاضع",
 "media_type": "Text",
 "index_reference": "خاضع",
@@ -1960,14 +1959,13 @@
 "label": "يخضع",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "144715",
 "reference_id": 25554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خبز",
 "media_type": "Text",
 "index_reference": "خبز",
@@ -3033,14 +3031,13 @@
 "label": "خميرة",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196552",
 "reference_id": 26206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خَتْم",
 "media_type": "Text",
 "index_reference": "خَتْم",
@@ -3266,32 +3263,9 @@
 {
 "reference_id": 140528,
 "content_id": 325632,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "يوحنا 3: 33 (#3)",
 "language": "arb"
-}
-],
-"acai": [
-{
-"id": "person:Hashum",
-"type": "person",
-"preferred_label": "حَشوم",
-"confidence": 0.8085,
-"match_method": "embedding"
-},
-{
-"id": "person:Hashum.2",
-"type": "person",
-"preferred_label": "حَشوم",
-"confidence": 0.8085,
-"match_method": "embedding"
-},
-{
-"id": "person:Hashum.3",
-"type": "person",
-"preferred_label": "حَشوم",
-"confidence": 0.8085,
-"match_method": "embedding"
 }
 ]
 }
@@ -3299,7 +3273,7 @@
 {
 "content_id": "196027",
 "reference_id": 25592,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ختن",
 "media_type": "Text",
 "index_reference": "ختن",
@@ -3696,14 +3670,13 @@
 "label": "Covenant",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "144816",
 "reference_id": 26224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خروف",
 "media_type": "Text",
 "index_reference": "خروف",
@@ -4336,14 +4309,13 @@
 "label": "راعي",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196596",
 "reference_id": 26263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خزائن",
 "media_type": "Text",
 "index_reference": "خزائن",
@@ -4451,14 +4423,13 @@
 "label": "هيكل",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "195891",
 "reference_id": 25434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خَصْم",
 "media_type": "Text",
 "index_reference": "خَصْم",
@@ -4860,22 +4831,13 @@
 "label": "شيطان",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "place:Ziz",
-"type": "place",
-"preferred_label": "صِيصَ",
-"confidence": 0.8064,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "196132",
 "reference_id": 25714,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خَصِيٌّ",
 "media_type": "Text",
 "index_reference": "خَصِيٌّ",
@@ -4941,162 +4903,13 @@
 "label": "فيليبس",
 "language": "arb"
 }
-],
-"acai": [
-{
-"id": "person:Matri",
-"type": "person",
-"preferred_label": "مَطْرِي",
-"confidence": 0.8508,
-"match_method": "embedding"
-},
-{
-"id": "place:Mishal",
-"type": "place",
-"preferred_label": "مِشْآلَ",
-"confidence": 0.8506,
-"match_method": "embedding"
-},
-{
-"id": "person:Mahli",
-"type": "person",
-"preferred_label": "مَحْلِي",
-"confidence": 0.8469,
-"match_method": "embedding"
-},
-{
-"id": "person:Mahli.2",
-"type": "person",
-"preferred_label": "مَحْلِي",
-"confidence": 0.8469,
-"match_method": "embedding"
-},
-{
-"id": "person:Mehir",
-"type": "person",
-"preferred_label": "مَحِيرَ",
-"confidence": 0.8423,
-"match_method": "embedding"
-},
-{
-"id": "person:Bariah",
-"type": "person",
-"preferred_label": "بَارِيح",
-"confidence": 0.8324,
-"match_method": "embedding"
-},
-{
-"id": "person:Mikloth",
-"type": "person",
-"preferred_label": "مَقْلوث",
-"confidence": 0.8165,
-"match_method": "embedding"
-},
-{
-"id": "person:Mikloth.2",
-"type": "person",
-"preferred_label": "مَقْلوث",
-"confidence": 0.8165,
-"match_method": "embedding"
-},
-{
-"id": "person:Melchi",
-"type": "person",
-"preferred_label": "مَلْكِي",
-"confidence": 0.806,
-"match_method": "embedding"
-},
-{
-"id": "person:Melchi.2",
-"type": "person",
-"preferred_label": "مَلْكِي",
-"confidence": 0.806,
-"match_method": "embedding"
-},
-{
-"id": "person:Melchizedek",
-"type": "person",
-"preferred_label": "مَلْكِي",
-"confidence": 0.806,
-"match_method": "embedding"
-},
-{
-"id": "person:Mark",
-"type": "person",
-"preferred_label": "مَرْقسَ",
-"confidence": 0.8056,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah",
-"type": "person",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.2",
-"type": "person",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.3",
-"type": "person",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.4",
-"type": "person",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.5",
-"type": "person",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.6",
-"type": "person",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.7",
-"type": "person",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.8",
-"type": "person",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-},
-{
-"id": "place:Maacah",
-"type": "place",
-"preferred_label": "مَعْكَة",
-"confidence": 0.8003,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "196013",
 "reference_id": 25577,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خطف",
 "media_type": "Text",
 "index_reference": "خطف",
@@ -5183,14 +4996,13 @@
 "label": "صعوبة (مشكلة)",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196054",
 "reference_id": 25624,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خليقة",
 "media_type": "Text",
 "index_reference": "خليقة",
@@ -5522,14 +5334,13 @@
 "label": "العالم",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196661",
 "reference_id": 26347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خمر",
 "media_type": "Text",
 "index_reference": "خمر",
@@ -5994,14 +5805,13 @@
 "label": "كرم",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196675",
 "reference_id": 26362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خميرة",
 "media_type": "Text",
 "index_reference": "خميرة",
@@ -6153,14 +5963,13 @@
 "label": "فطير (خبز غير مختمر)",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "144798",
 "reference_id": 26103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خنزير",
 "media_type": "Text",
 "index_reference": "خنزير",
@@ -6262,17 +6071,16 @@
 "label": "طاهر",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196152",
 "reference_id": 25735,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خوف \"مخافة\"",
 "media_type": "Text",
-"index_reference": "خوف \"مخافة\"",
+"index_reference": "خوف مخافة",
 "language": "arb",
 "review_level": "None",
 "content": "<h1>الخوف &quot;مخافة&quot;، خائف، مُرتعِب</h1><h2>التعريف:</h2><p>غالبًا ما تشير مصطلحات &quot;الخوف&quot; إلى الشعور المزعج الذي يشعر به الشخص في حال مواجهته تهديدًا محتملًا لسلامته أو خيره. ومع ذلك، ففي الكتاب المقدس، يمكن أن تعني كلمة &quot;الخوف&quot; أو &quot;المخافة&quot; أيضًا موقف العبادة، الاحترام، الرهبة، أو الطاعة تجاه شخص آخر، عادةً ما يكون شخصًا قويًا مثل الله أو الملك.</p><h2>اقتراحات الترجمة:</h2><ul><li><p>اعتمادًا على السياق، يمكن ترجمة مصطلح &quot;الخوف&quot; بطرق مختلفة. فإن بعض الاحتمالات الممكنة تشمل كلمات مثل: &quot;يخاف؛&quot; &quot;يحترم بشدة،&quot; أو &quot;احترام عميق؛&quot; &quot;يوقر،&quot; أو &quot;توقير؛&quot; أو ربما &quot;يكون في رهبة من.&quot;</p></li><li><p>قد تُترجم جملة &quot;حلَّ خوف الله علي جميعهم&quot; بطرق مختلفة. بعض الاحتمالات تشمل: &quot;بغتةً شعر الجميع برهبة واحترام عميقين لله؛&quot; أو &quot;على الفور، شعروا جميعًا بالدهشة ووقروا الله بعمق؛&quot; أو &quot;في تلك اللحظة، شعروا جميعًا بالخوف الشديد من الله (بسبب قوته العظيمة).&quot;</p></li><li><p>يمكن ترجمة عبارة &quot;خافوا يهوه&quot; إلى &quot;وقروا يهوه&quot; أو &quot;احترموا يهوه بعمق.&quot;</p></li><li><p>كما يمكن أيضًا ترجمة عبارة &quot;لا تخف&quot; إلى &quot;لا تكن خائفًا&quot; أو &quot;توقف عن الخوف.&quot;</p></li></ul><p>(انظر أيضًا: <span data-bnType=\"resourceReference\" data-resourceId=\"25494\" data-resourceType=\"UWTranslationWords\">الرهبة</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">يهوه</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25973\" data-resourceType=\"UWTranslationWords\">الرب</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_marvel\" data-resourceType=\"UWTranslationWords\">الدهشة</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">القوة</span>)</p><h2>مراجع الكتاب المقدس:</h2><ul><li><p><a href=\"https://ref.ly/1John4:18\">1 يوحنا 4: 18</a></p></li><li><p><a href=\"https://ref.ly/Acts2:43\">أعمال 2: 43</a></p></li><li><p><a href=\"https://ref.ly/Acts19:15-Acts19:17\">أعمال 19: 15–17</a></p></li><li><p><a href=\"https://ref.ly/Gen50:21\">تكوين 50: 21</a></p></li><li><p><a href=\"https://ref.ly/Isa11:3-Isa11:5\">إشعياء 11: 3–5</a></p></li><li><p><a href=\"https://ref.ly/Job6:14\">أيوب 6: 14</a></p></li><li><p><a href=\"https://ref.ly/Jonah1:9\">يونان 1: 9</a></p></li><li><p><a href=\"https://ref.ly/Luke12:5\">لوقا 12: 5</a></p></li><li><p><a href=\"https://ref.ly/Matt10:28\">متى 10: 28</a></p></li><li><p><a href=\"https://ref.ly/Prov10:24-Prov10:25\">أمثال 10: 24–25</a></p></li></ul><h2>بيانات الكلمة:</h2><ul><li><p>سترونج: H0367, H0926, H1204, H1481, H1672, H1674, H1763, H2119, H2296, H2727, H2729, H2730, H2731, H2844, H2849, H2865, H3016, H3025, H3068, H3372, H3373, H3374, H4032, H4034, H4035, H4116, H4172, H6206, H6342, H6343, H6345, H6427, H7264, H7267, H7297, H7374, H7461, H7493, H8175, G08700, G11670, G11680, G11690, G16300, G17190, G21240, G21250, G29620, G53980, G53990, G54000, G54010</p></li></ul>",
@@ -7753,14 +7561,13 @@
 "label": "يهوه",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196619",
 "reference_id": 26287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خيمة",
 "media_type": "Text",
 "index_reference": "خيمة",
@@ -8012,14 +7819,13 @@
 "label": "خيمة الاجتماع",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "196621",
 "reference_id": 26289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خيمة الاجتماع",
 "media_type": "Text",
 "index_reference": "خيمة الاجتماع",
@@ -8173,8 +7979,7 @@
 "label": "خيمة",
 "language": "arb"
 }
-],
-"acai": []
+]
 }
 }
 ]

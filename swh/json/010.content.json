@@ -2,7 +2,7 @@
 {
 "content_id": "627111",
 "reference_id": 25862,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ikonio",
 "media_type": "Text",
 "index_reference": "ikonio",
@@ -88,22 +88,13 @@
 "label": "Jiwe",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Iconium",
-"type": "place",
-"preferred_label": "Ikonio",
-"confidence": 0.8,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575625",
 "reference_id": 26071,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ikulu",
 "media_type": "Text",
 "index_reference": "ikulu",
@@ -230,14 +221,13 @@
 "label": "Mfalme",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627006",
 "reference_id": 25666,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Iliyoharibika",
 "media_type": "Text",
 "index_reference": "iliyoharibika",
@@ -285,14 +275,13 @@
 "label": "Kuharibu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575469",
 "reference_id": 25725,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imani",
 "media_type": "Text",
 "index_reference": "imani",
@@ -1559,14 +1548,13 @@
 "label": "Mwaminifu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575751",
 "reference_id": 26322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imani",
 "media_type": "Text",
 "index_reference": "imani",
@@ -1850,14 +1838,13 @@
 "label": "Mwaminifu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575395",
 "reference_id": 25552,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Inama",
 "media_type": "Text",
 "index_reference": "inama",
@@ -2416,14 +2403,13 @@
 "label": "Kuabudu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575544",
 "reference_id": 25876,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaka",
 "media_type": "Text",
 "index_reference": "isaka",
@@ -3101,22 +3087,13 @@
 "label": "Sara",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Isaac",
-"type": "person",
-"preferred_label": "Isaka",
-"confidence": 0.981,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627120",
 "reference_id": 25880,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isakari",
 "media_type": "Text",
 "index_reference": "isakari",
@@ -3202,29 +3179,13 @@
 "label": "Lea",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Issachar",
-"type": "person",
-"preferred_label": "Isakari",
-"confidence": 0.84,
-"match_method": "scored"
-},
-{
-"id": "group:Issachar",
-"type": "group",
-"preferred_label": "Isakari",
-"confidence": 0.5567,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575545",
 "reference_id": 25877,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaya",
 "media_type": "Text",
 "index_reference": "isaya",
@@ -3468,18 +3429,9 @@
 {
 "reference_id": 25942,
 "content_id": 627152,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
-}
-],
-"acai": [
-{
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Isaya",
-"confidence": 0.9097,
-"match_method": "scored"
 }
 ]
 }
@@ -3487,7 +3439,7 @@
 {
 "content_id": "575701",
 "reference_id": 26234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ishara",
 "media_type": "Text",
 "index_reference": "ishara",
@@ -4121,22 +4073,13 @@
 "label": "Tahiri",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "keyterm:Example",
-"type": "keyterm",
-"preferred_label": "Symbol",
-"confidence": 0.8112,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "627119",
 "reference_id": 25878,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ishmaeli",
 "media_type": "Text",
 "index_reference": "ishmaeli",
@@ -4361,36 +4304,13 @@
 "label": "Sara",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "Ishmaeli",
-"confidence": 0.9143,
-"match_method": "scored"
-},
-{
-"id": "group:Ishmael",
-"type": "group",
-"preferred_label": "Ishmaelites",
-"confidence": 0.6256,
-"match_method": "scored"
-},
-{
-"id": "person:Ishmael.5",
-"type": "person",
-"preferred_label": "Ishmaeli",
-"confidence": 0.6143,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575546",
 "reference_id": 25879,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Israeli",
 "media_type": "Text",
 "index_reference": "israeli",
@@ -6359,25 +6279,9 @@
 {
 "reference_id": 25942,
 "content_id": 627152,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
-}
-],
-"acai": [
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israeli",
-"confidence": 0.9938,
-"match_method": "scored"
-},
-{
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "Israelites",
-"confidence": 0.5827,
-"match_method": "scored"
 }
 ]
 }
@@ -6385,10 +6289,10 @@
 {
 "content_id": "626952",
 "reference_id": 25567,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ita-Sema Kwa Sauti Kubwa",
 "media_type": "Text",
-"index_reference": "ita-sema kwa sauti kubwa",
+"index_reference": "itasema kwa sauti kubwa",
 "language": "swh",
 "review_level": "None",
 "content": "<h1>kuita, aliitwa, kuita kwa sauti kubwa, kuitwa kwa sauti kubwa</h1><h2>Ufafanuzi:</h2><p>Maneno &quot;ita&quot; na &quot;ita kwa sauti kubwa,&quot; katika muktadha huu, yanamaanisha kuzungumza kwa sauti ya juu.</p><ul><li><p>Kumwita mtu kunamaanisha kupiga kelele, kutangaza, au kuzungumza kwa sauti kubwa. Pia inaweza kumaanisha kumwomba mtu msaada, hasa Mungu.</p></li><li><p>Kwenye baadhi ya muktadha, maneno &quot;ita&quot; na &quot;ita nje&quot; yanamaanisha kuomba msaada kwa sauti ya juu.</p></li></ul><h2>Mapendekezo ya Tafsiri:</h2><ul><li><p>Usemi &quot;kukuita&quot; unaweza kutafsiriwa kama &quot;kuomba msaada&quot; au &quot;kuitwa kwa dharura.&quot;</p></li><li><p>Wakati Biblia inasema kwamba Mungu ametuita kuwa watumishi wake, hii inaweza kufasiriwa kama &quot;alituchagua kwa makusudi&quot; au &quot;alituteua&quot; kuwa watumishi wake.</p></li><li><p>“Lazima umwite kwa jina lake” pia inaweza kutafsiriwa kama “lazima umpe jina.”</p></li><li><p>“Jina lake linaitwa” linaweza pia kutafsiriwa kama “jina lake ni” au “anaitwa.”</p></li><li><p>“Kuita” inaweza kumaanisha &quot;sema kwa sauti kubwa&quot; au &quot;piga kelele.&quot; Hakikisha tafsiri hii haisikiki kama mtu mwenye hasira.</p></li><li><p>Usemi &quot;wito wako&quot; unaweza kutafsiriwa kama &quot;kusudi lako&quot; au &quot;kusudi la Mungu kwako&quot; au &quot;kazi maalum ambayo Mungu amekupangia.&quot;</p></li><li><p>Kuita &quot;jina la Bwana&quot; kunaweza kufasiriwa kama &quot;tafuta Bwana na kumtegemea&quot; au &quot;mtumaini Bwana na kumtii.&quot;</p></li><li><p>Kusema &quot;kuitisha&quot; kitu kunaweza kutafsiriwa kama &quot;kudai,&quot; &quot;kuomba,&quot; au &quot;kuamuru.&quot;</p></li><li><p>Usemi &quot;umeitwa kwa jina langu&quot; unaweza kutafsiriwa kama &quot;nimekupa jina langu ili kuonyesha kuwa wewe ni wangu.&quot;</p></li><li><p>Wakati Mungu anasema, “Nimekuita kwa jina,” hii inaweza kufasiriwa kama “Ninakujua na nimekuteua.”</p></li></ul><p>(Tazama pia: <span data-bnType=\"resourceReference\" data-resourceId=\"26117\" data-resourceType=\"UWTranslationWords\">omba</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25630\" data-resourceType=\"UWTranslationWords\">lia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25569\" data-resourceType=\"UWTranslationWords\">kuitwa ili kuwaita</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25568\" data-resourceType=\"UWTranslationWords\">ita jina</span>)</p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p>Strong&apos;s: H0559, H2199, H4744, H6817, H7121, H7123, H7769, H7773, G01540, G03630, G14580, G15280, G19410, G19510, G20280, G20460, G25640, G28210, G28220, G28400, G29190, G30040, G31060, G33330, G33430, G36030, G36860, G36870, G43160, G43410, G43770, G47790, G48670, G54550, G55370, G55810</p></li></ul>",
@@ -6448,8 +6352,7 @@
 "label": "Lia",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 }
 ]

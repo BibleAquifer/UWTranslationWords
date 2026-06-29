@@ -2,7 +2,7 @@
 {
 "content_id": "26791",
 "reference_id": 25933,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kadesh",
 "media_type": "Text",
 "index_reference": "kadesh",
@@ -76,22 +76,13 @@
 "label": "Holy",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Kadesh-barnea",
-"type": "place",
-"preferred_label": "Kadesh-barnea",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26792",
 "reference_id": 25934,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kedar",
 "media_type": "Text",
 "index_reference": "kedar",
@@ -142,22 +133,13 @@
 "label": "Sacrifice",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Kedar",
-"type": "person",
-"preferred_label": "Kedar",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26793",
 "reference_id": 25935,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kedesh",
 "media_type": "Text",
 "index_reference": "kedesh",
@@ -242,36 +224,13 @@
 "label": "Shechem",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Kedesh.3",
-"type": "place",
-"preferred_label": "Kedesh",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Kedesh",
-"type": "place",
-"preferred_label": "Kedesh",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Kishion",
-"type": "place",
-"preferred_label": "Kishion",
-"confidence": 0.5833,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26794",
 "reference_id": 25936,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kidron Valley",
 "media_type": "Text",
 "index_reference": "kidron valley",
@@ -358,22 +317,13 @@
 "label": "Mount of Olives",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Kidron",
-"type": "place",
-"preferred_label": "Kidron",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26795",
 "reference_id": 25937,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kin",
 "media_type": "Text",
 "index_reference": "kin",
@@ -497,14 +447,13 @@
 "end_ref_usfm": "ROM 16:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "26796",
 "reference_id": 25938,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "King",
 "media_type": "Text",
 "index_reference": "king",
@@ -2271,14 +2220,13 @@
 "label": "Kingdom of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26801",
 "reference_id": 25943,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "King of the Jews",
 "media_type": "Text",
 "index_reference": "king of the jews",
@@ -2452,22 +2400,13 @@
 "label": "Wise Men",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "group:Jews",
-"type": "group",
-"preferred_label": "Jews",
-"confidence": 0.576,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26797",
 "reference_id": 25939,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kingdom",
 "media_type": "Text",
 "index_reference": "kingdom",
@@ -2778,22 +2717,13 @@
 "label": "Priest",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.8609,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26798",
 "reference_id": 25940,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kingdom of God",
 "media_type": "Text",
 "index_reference": "kingdom of god",
@@ -3650,22 +3580,13 @@
 "label": "Reign",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.8455,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26799",
 "reference_id": 25941,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kingdom of Israel",
 "media_type": "Text",
 "index_reference": "kingdom of israel",
@@ -3732,7 +3653,7 @@
 {
 "reference_id": 25942,
 "content_id": 26800,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Kingdom of Judah",
 "language": "eng"
 },
@@ -3743,29 +3664,13 @@
 "label": "Samaria",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Israel",
-"type": "place",
-"preferred_label": "Israel",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"preferred_label": "Israel",
-"confidence": 0.643,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26800",
 "reference_id": 25942,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kingdom of Judah",
 "media_type": "Text",
 "index_reference": "kingdom of judah",
@@ -3820,22 +3725,13 @@
 "label": "Saltsea",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:TerritoryOfJudah",
-"type": "place",
-"preferred_label": "Territory of Judah",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26802",
 "reference_id": 25944,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kiss",
 "media_type": "Text",
 "index_reference": "kiss",
@@ -4037,14 +3933,13 @@
 "end_ref_usfm": "GEN 27:27"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "26804",
 "reference_id": 25946,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Know",
 "media_type": "Text",
 "index_reference": "know",
@@ -9250,7 +9145,7 @@
 {
 "reference_id": 25959,
 "content_id": 26817,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Law of Moses",
 "language": "eng"
 },
@@ -9268,30 +9163,28 @@
 "label": "Wise",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26803",
 "reference_id": 25945,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Know-relationship",
 "media_type": "Text",
-"index_reference": "know-relationship",
+"index_reference": "knowrelationship",
 "language": "eng",
 "review_level": "None",
 "content": "<h1>know, knew, knowledge, unknown</h1><h2>Definition:</h2><p>Used in this sense the term “know” and “knowledge” and “knew” mean to be in relationship with a person.</p><ul><li><p>To “know” God means to have a relationship with him. This also applies to knowing people.</p></li><li><p>Jesus said in Matthew 7:23 that on judgement day he will say to some people “I never knew you”. By saying “I never knew you” he means that he was never in personal relationship with them.</p></li><li><p>The “knowledge of God” is sometimes used as a synonym for the “fear of Yahweh.”</p></li><li><p>When used of a man and a woman to “know” is often an euphemism that refers to having sexual intercourse.</p></li></ul><h2>Translation Suggestions</h2><ul><li><p>Depending on the context, ways to translate this meaning of “know” could include “be acquainted with” or “be familiar with” or “be in relationship with.”</p></li><li><p>Some languages have two different words for “know,” one for knowing facts and one for knowing a person and having a relationship with that person. The word for knowing a person and having a relationship with that person should be used when translating this sense of the word “know.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_know-information\" data-resourceType=\"UWTranslationWords\">know-information</span>,<span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_reveal\" data-resourceType=\"UWTranslationWords\">reveal</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "26805",
 "reference_id": 25947,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korah",
 "media_type": "Text",
 "index_reference": "korah",
@@ -9416,43 +9309,6 @@
 "resource_code": "UWTranslationWords",
 "label": "Priest",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Korah.2",
-"type": "person",
-"preferred_label": "Korah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Korah.3",
-"type": "person",
-"preferred_label": "Korah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Korah.4",
-"type": "person",
-"preferred_label": "Korah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Korah",
-"type": "person",
-"preferred_label": "Korah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "group:Korah",
-"type": "group",
-"preferred_label": "Korahites",
-"confidence": 0.6211,
-"match_method": "scored"
 }
 ]
 }

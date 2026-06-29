@@ -2,7 +2,7 @@
 {
 "content_id": "27005",
 "reference_id": 26147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rabbah",
 "media_type": "Text",
 "index_reference": "rabbah",
@@ -57,29 +57,13 @@
 "label": "David",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Rabbah.2",
-"type": "place",
-"preferred_label": "Rabbah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Ammon",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "27006",
 "reference_id": 26148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rabbi",
 "media_type": "Text",
 "index_reference": "rabbi",
@@ -217,14 +201,13 @@
 "label": "Teacher",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27007",
 "reference_id": 26149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rachel",
 "media_type": "Text",
 "index_reference": "rachel",
@@ -553,22 +536,13 @@
 "label": "Leah",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Rachel",
-"type": "person",
-"preferred_label": "Rachel",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "27008",
 "reference_id": 26150,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rage",
 "media_type": "Text",
 "index_reference": "rage",
@@ -622,14 +596,13 @@
 "label": "Self Control",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27009",
 "reference_id": 26151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahab",
 "media_type": "Text",
 "index_reference": "rahab",
@@ -697,29 +670,13 @@
 "label": "Prostitute",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Rahab",
-"type": "person",
-"preferred_label": "Rahab",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Egypt",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "27010",
 "reference_id": 26152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ramah",
 "media_type": "Text",
 "index_reference": "ramah",
@@ -804,64 +761,13 @@
 "label": "Benjamin",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Ramoth-gilead",
-"type": "place",
-"preferred_label": "Ramoth-gilead",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Ramah.6",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Ramah.8",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Ramah",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Ramah.2",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.6654,
-"match_method": "scored"
-},
-{
-"id": "place:Ramah.4",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.6,
-"match_method": "scored"
-},
-{
-"id": "place:Ramah.7",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.6,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27011",
 "reference_id": 26153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ramoth",
 "media_type": "Text",
 "index_reference": "ramoth",
@@ -962,7 +868,7 @@
 {
 "reference_id": 25942,
 "content_id": 26800,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Kingdom of Judah",
 "language": "eng"
 },
@@ -973,36 +879,13 @@
 "label": "Refuge",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Baalath-beer",
-"type": "place",
-"preferred_label": "Baalath-beer",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Remeth",
-"type": "place",
-"preferred_label": "Ramoth",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Ramoth-gilead",
-"type": "place",
-"preferred_label": "Ramoth-gilead",
-"confidence": 0.92,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27012",
 "reference_id": 26154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ransom",
 "media_type": "Text",
 "index_reference": "ransom",
@@ -1129,22 +1012,13 @@
 "label": "Redeem",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Ransom",
-"type": "keyterm",
-"preferred_label": "Ransom",
-"confidence": 1.0,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "27013",
 "reference_id": 26155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rapha",
 "media_type": "Text",
 "index_reference": "rapha",
@@ -1153,60 +1027,28 @@
 "content": "<h1>Rapha, Raphaites, the Valley of the Raphaites</h1><h2>Facts:</h2><p>The term “Rapha” is the name for a group of inhabitants who lived in a location on the eastern side of the Jordan river. It is also used to refer to dead people or their spirits. The “Rapha” are called “Raphaites” or “Rephaim.”</p><ul><li><p>There was a valley named after this people group, “the valley of the Raphaites,” which is mentioned six times in the Old Testament.</p></li><li><p>“Rapha” is an English transliteration of a Hebrew word. It is difficult to determine with certainty what the word “Rapha” means and consequently what type of beings the word “Rapha” refers to, whether a group of living people, spirits, or quasi-divine beings. For this reason many English translations have chosen to transliterate the original language (Hebrew) word as “Rephaites” or “Rephaim.” You may desire to do the same thing in your translation.</p></li><li><p>In Job 26:5, Psalm 88:10, Proverbs 2:18, Proverbs 9:18, Proverbs 21:16, Isaiah 14:9, Isaiah 26:14, and Isaiah 26:19 the term “Raphaites” refers to people who are dead or to their “spirits.”</p></li><li><p>In all other occurrences in the Old Testament the term “Raphaites” refers to the people group who were human beings who were alive and made up a specific people group.</p></li><li><p>The people group the Ammonites called the Raphaites by the name “Zamzummites” (See Deuteronomy 2:20).</p></li><li><p>The term “Rapha” refers to the living people group in every occurrence in the Old Testament except in 1 Chronicles 8:2 and 8:37. In each of these two verses it refers to the name of a man (a different man in each verse).</p></li></ul><p>(Translation suggestions: How to Translate Names, Copy or Borrow Words)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Rosh",
-"type": "person",
-"preferred_label": "Rosh",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Rapha",
-"type": "person",
-"preferred_label": "Rapha",
-"confidence": 1.0,
-"match_method": "content_id"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "26909",
 "reference_id": 26051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rapha, Rephaites, Rephaim",
 "media_type": "Text",
-"index_reference": "rapha, rephaites, rephaim",
+"index_reference": "rapha rephaites rephaim",
 "language": "eng",
 "review_level": "None",
 "content": "<h1>Rapha, Rephaites, Rephaim,</h1><h2>Facts:</h2><p>The term “Rapha” is the name for a group of inhabitants who lived in a location on the Eastern side of the Jordan river. The “Rapha” are called “Rephaites” or “Rephaim”</p><ul><li><p>There was a valley named after this people group, “the valley of the Rephaites,” which is mentioned six times in the Old Testament.</p></li><li><p>“Rapha” is an English transliteration of a Hebrew word. It is difficult to determine with certainty what the word “Rapha” means and consequently what type of beings the word “Rapha” refers to. The term “Rapha” could refer to a group of living people, spirits, or quasi-divine beings. For this reason many English translations have chosen to transliterate the original language (Hebrew) word as “Rephaites” or “Rephaim.” You may desire to do the same thing in your translation.</p></li><li><p>The people group the Ammonites called the Rephaites by the name “Zamzummites” (See Deuteronomy 2:20).</p></li></ul><p>(Translation suggestions: How to Translate Names, Copy or Borrow Words)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Rapha",
-"type": "person",
-"preferred_label": "Rapha",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "group:Rephaim",
-"type": "group",
-"preferred_label": "Rephaim",
-"confidence": 1.0,
-"match_method": "content_id"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "27014",
 "reference_id": 26156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebekah",
 "media_type": "Text",
 "index_reference": "rebekah",
@@ -1452,22 +1294,13 @@
 "label": "Negev",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Rebekah",
-"type": "person",
-"preferred_label": "Rebekah",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "27015",
 "reference_id": 26157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebel",
 "media_type": "Text",
 "index_reference": "rebel",
@@ -1660,22 +1493,13 @@
 "label": "Governor",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"preferred_label": "Rebel",
-"confidence": 0.5625,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27016",
 "reference_id": 26158,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebuke",
 "media_type": "Text",
 "index_reference": "rebuke",
@@ -2143,14 +1967,13 @@
 "label": "Admonish",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27017",
 "reference_id": 26159,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Receive",
 "media_type": "Text",
 "index_reference": "receive",
@@ -3527,14 +3350,13 @@
 "label": "Save",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27018",
 "reference_id": 26160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reconcile",
 "media_type": "Text",
 "index_reference": "reconcile",
@@ -3637,22 +3459,13 @@
 "label": "Sacrifice",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Reconcile",
-"type": "keyterm",
-"preferred_label": "Reconcile",
-"confidence": 0.8667,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27019",
 "reference_id": 26161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Redeem",
 "media_type": "Text",
 "index_reference": "redeem",
@@ -3947,22 +3760,13 @@
 "label": "Ransom",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"preferred_label": "Redeem",
-"confidence": 0.7217,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27020",
 "reference_id": 26162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Redsea",
 "media_type": "Text",
 "index_reference": "redsea",
@@ -4078,22 +3882,13 @@
 "label": "Egypt",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:RedSea",
-"type": "place",
-"preferred_label": "Red Sea",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "27021",
 "reference_id": 26163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reed",
 "media_type": "Text",
 "index_reference": "reed",
@@ -4233,43 +4028,13 @@
 "label": "Nile River",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Reed",
-"type": "flora",
-"preferred_label": "Reed",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "realia:Reed",
-"type": "realia",
-"preferred_label": "Reed",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"preferred_label": "Grass",
-"confidence": 0.5949,
-"match_method": "scored"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"preferred_label": "Papyrus",
-"confidence": 0.5727,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27022",
 "reference_id": 26164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Refuge",
 "media_type": "Text",
 "index_reference": "refuge",
@@ -4345,22 +4110,13 @@
 "end_ref_usfm": "DEU 32:38"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Refuge",
-"type": "keyterm",
-"preferred_label": "Refuge",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "27023",
 "reference_id": 26165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rehoboam",
 "media_type": "Text",
 "index_reference": "rehoboam",
@@ -4412,7 +4168,7 @@
 {
 "reference_id": 25942,
 "content_id": 26800,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Kingdom of Judah",
 "language": "eng"
 },
@@ -4423,22 +4179,13 @@
 "label": "Solomon",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Rehoboam",
-"type": "person",
-"preferred_label": "Rehoboam",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "27024",
 "reference_id": 26166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reign",
 "media_type": "Text",
 "index_reference": "reign",
@@ -4714,22 +4461,13 @@
 "label": "Kingdom",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.6267,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27025",
 "reference_id": 26167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reject",
 "media_type": "Text",
 "index_reference": "reject",
@@ -4961,22 +4699,13 @@
 "end_ref_usfm": "JHN 12:50"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Reject",
-"type": "keyterm",
-"preferred_label": "Reject",
-"confidence": 0.6878,
-"match_method": "scored"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "27026",
 "reference_id": 26168,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Remnant",
 "media_type": "Text",
 "index_reference": "remnant",
@@ -5076,14 +4805,13 @@
 "end_ref_usfm": "EZK 6:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "27027",
 "reference_id": 26169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Renown",
 "media_type": "Text",
 "index_reference": "renown",
@@ -5113,14 +4841,13 @@
 "label": "Honor",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27028",
 "reference_id": 26170,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Repent",
 "media_type": "Text",
 "index_reference": "repent",
@@ -5517,22 +5244,13 @@
 "label": "Sin",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"preferred_label": "Repent",
-"confidence": 0.9613,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27029",
 "reference_id": 26171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Report",
 "media_type": "Text",
 "index_reference": "report",
@@ -6082,14 +5800,13 @@
 "end_ref_usfm": "LUK 8:35"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "27030",
 "reference_id": 26172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Restore",
 "media_type": "Text",
 "index_reference": "restore",
@@ -6435,14 +6152,13 @@
 "end_ref_usfm": "LEV 6:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "27031",
 "reference_id": 26173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Resurrection",
 "media_type": "Text",
 "index_reference": "resurrection",
@@ -6704,22 +6420,13 @@
 "end_ref_usfm": "JHN 5:29"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"preferred_label": "Resurrection",
-"confidence": 0.981,
-"match_method": "scored"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "27032",
 "reference_id": 26174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reuben",
 "media_type": "Text",
 "index_reference": "reuben",
@@ -6853,22 +6560,13 @@
 "label": "Leah",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reuben",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "27033",
 "reference_id": 26175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reverence",
 "media_type": "Text",
 "index_reference": "reverence",
@@ -6947,14 +6645,13 @@
 "label": "Honor",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27034",
 "reference_id": 26176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reward",
 "media_type": "Text",
 "index_reference": "reward",
@@ -7194,14 +6891,13 @@
 "label": "Punish",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27035",
 "reference_id": 26177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Righteous",
 "media_type": "Text",
 "index_reference": "righteous",
@@ -9244,21 +8940,21 @@
 {
 "reference_id": 25958,
 "content_id": 26816,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Lawful",
 "language": "eng"
 },
 {
 "reference_id": 25959,
 "content_id": 26817,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Law of Moses",
 "language": "eng"
 },
 {
 "reference_id": 26142,
 "content_id": 27000,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Purify",
 "language": "eng"
 },
@@ -9276,14 +8972,13 @@
 "label": "Sin",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27036",
 "reference_id": 26178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rimmon",
 "media_type": "Text",
 "index_reference": "rimmon",
@@ -9353,43 +9048,13 @@
 "label": "Zebulun",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Rimmon",
-"type": "person",
-"preferred_label": "Rimmon",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Ain",
-"type": "place",
-"preferred_label": "Ain",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "deity:Rimmon",
-"type": "deity",
-"preferred_label": "Rimmon",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Rimmon.3",
-"type": "place",
-"preferred_label": "Rock of Rimmon",
-"confidence": 0.6889,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27037",
 "reference_id": 26179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Robe",
 "media_type": "Text",
 "index_reference": "robe",
@@ -9654,29 +9319,13 @@
 "label": "Tunic",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Robe",
-"type": "realia",
-"preferred_label": "Robe",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"preferred_label": "Cloak",
-"confidence": 0.5929,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27038",
 "reference_id": 26180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rod",
 "media_type": "Text",
 "index_reference": "rod",
@@ -9816,29 +9465,13 @@
 "label": "Staff",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Rod",
-"type": "realia",
-"preferred_label": "Rod",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"preferred_label": "Staff",
-"confidence": 0.65,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "27039",
 "reference_id": 26181,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rome",
 "media_type": "Text",
 "index_reference": "rome",
@@ -9985,7 +9618,7 @@
 {
 "reference_id": 26006,
 "content_id": 26864,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Mediterranean",
 "language": "eng"
 },
@@ -10003,22 +9636,13 @@
 "label": "Pilate",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Rome",
-"type": "place",
-"preferred_label": "Rome",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "27040",
 "reference_id": 26182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Royal",
 "media_type": "Text",
 "index_reference": "royal",
@@ -10119,14 +9743,13 @@
 "label": "Robe",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27041",
 "reference_id": 26183,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruin",
 "media_type": "Text",
 "index_reference": "ruin",
@@ -10240,14 +9863,13 @@
 "label": "Devastated",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27042",
 "reference_id": 26184,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruler",
 "media_type": "Text",
 "index_reference": "ruler",
@@ -11102,14 +10724,13 @@
 "label": "Synagogue",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "27043",
 "reference_id": 26185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruth",
 "media_type": "Text",
 "index_reference": "ruth",
@@ -11241,18 +10862,9 @@
 {
 "reference_id": 25930,
 "content_id": 26788,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Judge Position",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Ruth",
-"type": "person",
-"preferred_label": "Ruth",
-"confidence": 1.0,
-"match_method": "content_id"
 }
 ]
 }

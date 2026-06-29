@@ -2,7 +2,7 @@
 {
 "content_id": "676032",
 "reference_id": 26006,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laut",
 "media_type": "Text",
 "index_reference": "laut",
@@ -106,14 +106,13 @@
 "label": "Sejahtera",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "676161",
 "reference_id": 26191,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laut Asin",
 "media_type": "Text",
 "index_reference": "laut asin",
@@ -189,22 +188,13 @@
 "label": "Negev",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:SaltSea",
-"type": "place",
-"preferred_label": "Asin",
-"confidence": 0.589,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676033",
 "reference_id": 26007,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lemah lembut",
 "media_type": "Text",
 "index_reference": "lemah lembut",
@@ -276,14 +266,13 @@
 "label": "Rendah hati",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675988",
 "reference_id": 25936,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lembah Kidron",
 "media_type": "Text",
 "index_reference": "lembah kidron",
@@ -356,22 +345,13 @@
 "label": "Bukit Zaitun",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Kidron",
-"type": "place",
-"preferred_label": "Kidron",
-"confidence": 0.7105,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676011",
 "reference_id": 25984,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Listra",
 "media_type": "Text",
 "index_reference": "listra",
@@ -451,22 +431,13 @@
 "label": "Timotius",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Lystra",
-"type": "place",
-"preferred_label": "Listra",
-"confidence": 0.84,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676006",
 "reference_id": 25976,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lot",
 "media_type": "Text",
 "index_reference": "lot",
@@ -709,22 +680,13 @@
 "label": "Sodom",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Lot",
-"type": "person",
-"preferred_label": "Lot",
-"confidence": 0.9758,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676009",
 "reference_id": 25981,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lukas",
 "media_type": "Text",
 "index_reference": "lukas",
@@ -785,15 +747,6 @@
 "resource_code": "UWTranslationWords",
 "label": "Siria",
 "language": "ind"
-}
-],
-"acai": [
-{
-"id": "person:Luke",
-"type": "person",
-"preferred_label": "Lukas",
-"confidence": 0.7714,
-"match_method": "scored"
 }
 ]
 }

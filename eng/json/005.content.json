@@ -2,7 +2,7 @@
 {
 "content_id": "26498",
 "reference_id": 25640,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Damascus",
 "media_type": "Text",
 "index_reference": "damascus",
@@ -161,22 +161,13 @@
 "label": "Believe",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "Damascus",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26499",
 "reference_id": 25641,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dan",
 "media_type": "Text",
 "index_reference": "dan",
@@ -280,36 +271,13 @@
 "label": "Jacob",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Dan",
-"type": "person",
-"preferred_label": "Dan",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Dan",
-"type": "place",
-"preferred_label": "Dan",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Tribe of Dan",
-"confidence": 0.7333,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26500",
 "reference_id": 25642,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daniel",
 "media_type": "Text",
 "index_reference": "daniel",
@@ -364,36 +332,13 @@
 "label": "Nebuchadnezzar",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Daniel.2",
-"type": "person",
-"preferred_label": "Daniel",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Daniel.3",
-"type": "person",
-"preferred_label": "Daniel",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Chileab",
-"type": "person",
-"preferred_label": "Chileab",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26501",
 "reference_id": 25643,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Darius",
 "media_type": "Text",
 "index_reference": "darius",
@@ -523,36 +468,13 @@
 "label": "Persia",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Darius.2",
-"type": "person",
-"preferred_label": "Darius",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Darius.3",
-"type": "person",
-"preferred_label": "Darius",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Darius",
-"type": "person",
-"preferred_label": "Darius",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26502",
 "reference_id": 25644,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daughter of Zion",
 "media_type": "Text",
 "index_reference": "daughter of zion",
@@ -602,22 +524,13 @@
 "label": "Zion",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.7015,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26503",
 "reference_id": 25645,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "David",
 "media_type": "Text",
 "index_reference": "david",
@@ -1075,29 +988,13 @@
 "label": "Saul",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Judah.4",
-"type": "person",
-"preferred_label": "Judah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:David",
-"type": "person",
-"preferred_label": "David",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26789",
 "reference_id": 25931,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Day of Judgment",
 "media_type": "Text",
 "index_reference": "day of judgment",
@@ -1166,22 +1063,13 @@
 "label": "Judge",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"preferred_label": "Judgment",
-"confidence": 0.785,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26504",
 "reference_id": 25646,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Day of the Lord",
 "media_type": "Text",
 "index_reference": "day of the lord",
@@ -1279,7 +1167,7 @@
 {
 "reference_id": 25534,
 "content_id": 26392,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Biblical Time Day",
 "language": "eng"
 },
@@ -1314,60 +1202,59 @@
 {
 "reference_id": 140937,
 "content_id": 211464,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "John 6:39 (#5)",
 "language": "eng"
 },
 {
 "reference_id": 140942,
 "content_id": 211469,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "John 6:40 (#5)",
 "language": "eng"
 },
 {
 "reference_id": 140955,
 "content_id": 211482,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "John 6:44 (#7)",
 "language": "eng"
 },
 {
 "reference_id": 140995,
 "content_id": 211522,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "John 6:54 (#4)",
 "language": "eng"
 },
 {
 "reference_id": 141644,
 "content_id": 212171,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "John 11:24 (#4)",
 "language": "eng"
 },
 {
 "reference_id": 163443,
 "content_id": 257023,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "1 Peter 1:5 (#6)",
 "language": "eng"
 },
 {
 "reference_id": 166871,
 "content_id": 260451,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Jude 1:6 (#8)",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26505",
 "reference_id": 25647,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deacon",
 "media_type": "Text",
 "index_reference": "deacon",
@@ -1422,14 +1309,13 @@
 "label": "Servant",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26506",
 "reference_id": 25648,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deceive",
 "media_type": "Text",
 "index_reference": "deceive",
@@ -2063,14 +1949,13 @@
 "end_ref_usfm": "LEV 19:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "26507",
 "reference_id": 25649,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Declare",
 "media_type": "Text",
 "index_reference": "declare",
@@ -2359,29 +2244,13 @@
 "label": "Preach",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Declare",
-"type": "keyterm",
-"preferred_label": "Declare",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"preferred_label": "Proclaim",
-"confidence": 0.8086,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "26508",
 "reference_id": 25650,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Decree",
 "media_type": "Text",
 "index_reference": "decree",
@@ -2574,22 +2443,13 @@
 "label": "Law",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"preferred_label": "Decree",
-"confidence": 1.0,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "26509",
 "reference_id": 25651,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dedicate",
 "media_type": "Text",
 "index_reference": "dedicate",
@@ -2679,14 +2539,13 @@
 "label": "Commit",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26510",
 "reference_id": 25652,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deer",
 "media_type": "Text",
 "index_reference": "deer",
@@ -2732,22 +2591,13 @@
 "end_ref_usfm": "SNG 2:7"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "fauna:Deer",
-"type": "fauna",
-"preferred_label": "Deer",
-"confidence": 1.0,
-"match_method": "content_id"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "26511",
 "reference_id": 25653,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Defile",
 "media_type": "Text",
 "index_reference": "defile",
@@ -2970,22 +2820,13 @@
 "label": "Profane",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Stain",
-"type": "keyterm",
-"preferred_label": "Defile",
-"confidence": 0.6316,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26512",
 "reference_id": 25654,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Delight",
 "media_type": "Text",
 "index_reference": "delight",
@@ -3259,22 +3100,13 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"preferred_label": "Delight",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "26513",
 "reference_id": 25655,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Delilah",
 "media_type": "Text",
 "index_reference": "delilah",
@@ -3330,38 +3162,13 @@
 "label": "Samson",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Delilah",
-"type": "person",
-"preferred_label": "Delilah",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
-}
-},
-{
-"content_id": "26514",
-"reference_id": 25656,
-"version": "1.0.2",
-"title": "Deliver-to Harm",
-"media_type": "Text",
-"index_reference": "deliver-to harm",
-"language": "eng",
-"review_level": "None",
-"content": "<h1>deliver, hand over, turn over, release</h1><h2>Definition:</h2><ul><li><p>The term &quot;deliver&quot; or “deliver over to” or “deliver up to” can mean to turn someone over to an enemy or adversary, such as when Judas delivered Jesus over to the Jewish leaders or when God delivered Israel over to their enemies because of their repeated sin.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>When &quot;deliver&quot; means for a person or person to deliver someone over to an enemy it can be translated as “betray” or “hand over” or “give over.” When &quot;deliver&quot; refers to God giving people over to an adversary it can be translated as &quot;hand over&quot; or &quot;give over.&quot;</p></li></ul><h2>Bible References:</h2><h2>Examples from Bible stories:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H1350, H2020, H2502, H3205, H3444, H3467, H4042, H4422, H4672, H5337, H5414, H5462, H6299, H6403, H6413, H6475, H6561, H7725, H7804, H8199, G03250, G05250, G06290, G10800, G13250, G15600, G16590, G18070, G19290, G26730, G30860, G38600, G45060, G49910, G50880, G54830</p></li></ul>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
 }
 },
 {
 "content_id": "26515",
 "reference_id": 25657,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deliverer",
 "media_type": "Text",
 "index_reference": "deliverer",
@@ -3740,29 +3547,28 @@
 "label": "Save",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Deliver",
-"type": "keyterm",
-"preferred_label": "Deliver",
-"confidence": 0.6409,
-"match_method": "scored"
+]
+}
 },
 {
-"id": "keyterm:Rescue",
-"type": "keyterm",
-"preferred_label": "Rescue",
-"confidence": 0.5867,
-"match_method": "scored"
-}
-]
+"content_id": "26514",
+"reference_id": 25656,
+"version": "1.0.4",
+"title": "Deliver-to Harm",
+"media_type": "Text",
+"index_reference": "deliverto harm",
+"language": "eng",
+"review_level": "None",
+"content": "<h1>deliver, hand over, turn over, release</h1><h2>Definition:</h2><ul><li><p>The term &quot;deliver&quot; or “deliver over to” or “deliver up to” can mean to turn someone over to an enemy or adversary, such as when Judas delivered Jesus over to the Jewish leaders or when God delivered Israel over to their enemies because of their repeated sin.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>When &quot;deliver&quot; means for a person or person to deliver someone over to an enemy it can be translated as “betray” or “hand over” or “give over.” When &quot;deliver&quot; refers to God giving people over to an adversary it can be translated as &quot;hand over&quot; or &quot;give over.&quot;</p></li></ul><h2>Bible References:</h2><h2>Examples from Bible stories:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H1350, H2020, H2502, H3205, H3444, H3467, H4042, H4422, H4672, H5337, H5414, H5462, H6299, H6403, H6413, H6475, H6561, H7725, H7804, H8199, G03250, G05250, G06290, G10800, G13250, G15600, G16590, G18070, G19290, G26730, G30860, G38600, G45060, G49910, G50880, G54830</p></li></ul>",
+"associations": {
+"passage": [],
+"resource": []
 }
 },
 {
 "content_id": "26516",
 "reference_id": 25658,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Demon",
 "media_type": "Text",
 "index_reference": "demon",
@@ -4349,22 +4155,13 @@
 "label": "Satan",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:Demons",
-"type": "deity",
-"preferred_label": "Demons",
-"confidence": 0.7977,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26517",
 "reference_id": 25659,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Demon Possessed",
 "media_type": "Text",
 "index_reference": "demon possessed",
@@ -4478,22 +4275,13 @@
 "label": "Demon",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"preferred_label": "Be Demon Possessed",
-"confidence": 0.8845,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26518",
 "reference_id": 25660,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Descendant",
 "media_type": "Text",
 "index_reference": "descendant",
@@ -4652,14 +4440,13 @@
 "label": "Noah",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26519",
 "reference_id": 25661,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Desecrate",
 "media_type": "Text",
 "index_reference": "desecrate",
@@ -4736,14 +4523,13 @@
 "label": "Temple",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26520",
 "reference_id": 25662,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Desert",
 "media_type": "Text",
 "index_reference": "desert",
@@ -5263,14 +5049,13 @@
 "end_ref_usfm": "GEN 37:22"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "26521",
 "reference_id": 25663,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Desolate",
 "media_type": "Text",
 "index_reference": "desolate",
@@ -5428,22 +5213,13 @@
 "label": "Waste",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26522",
 "reference_id": 25664,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Destroyer",
 "media_type": "Text",
 "index_reference": "destroyer",
@@ -5764,14 +5540,13 @@
 "label": "Passover",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26523",
 "reference_id": 25665,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Detestable",
 "media_type": "Text",
 "index_reference": "detestable",
@@ -5838,14 +5613,13 @@
 "label": "Divination",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26524",
 "reference_id": 25666,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Devastated",
 "media_type": "Text",
 "index_reference": "devastated",
@@ -5893,14 +5667,13 @@
 "label": "Ruin",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26525",
 "reference_id": 25667,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Devour",
 "media_type": "Text",
 "index_reference": "devour",
@@ -6206,14 +5979,13 @@
 "label": "Consume",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26526",
 "reference_id": 25668,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Discernment",
 "media_type": "Text",
 "index_reference": "discernment",
@@ -6466,14 +6238,13 @@
 "label": "Wise",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26527",
 "reference_id": 25669,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Disciple",
 "media_type": "Text",
 "index_reference": "disciple",
@@ -8043,22 +7814,13 @@
 "label": "The Twelve",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:GenericDisciple",
-"type": "person",
-"preferred_label": "A Disciple",
-"confidence": 0.5521,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26528",
 "reference_id": 25670,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Discourage",
 "media_type": "Text",
 "index_reference": "discourage",
@@ -8082,14 +7844,13 @@
 "label": "Fear",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26530",
 "reference_id": 25672,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dishonor",
 "media_type": "Text",
 "index_reference": "dishonor",
@@ -8209,17 +7970,16 @@
 "label": "Honor",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26529",
 "reference_id": 25671,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dishonor-object",
 "media_type": "Text",
-"index_reference": "dishonor-object",
+"index_reference": "dishonorobject",
 "language": "eng",
 "review_level": "None",
 "content": "<h1>dishonor</h1><h2>Definition:</h2><p>Used in this sense, the term “dishonor” describes something that is used for common or ordinary use instead of for a special or honorable use.</p><ul><li><p>Used in this sense, the term “dishonor” refers to objects that are not useful for anything important.</p></li><li><p>Depending on the context, “dishonor” could also be translated as “common use” or “ordinary use” or “mundane use.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25846\" data-resourceType=\"UWTranslationWords\">honor</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
@@ -8233,14 +7993,13 @@
 "label": "Honor",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26531",
 "reference_id": 25673,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Disperse",
 "media_type": "Text",
 "index_reference": "disperse",
@@ -8393,14 +8152,13 @@
 "label": "Persecute",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26532",
 "reference_id": 25674,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Divination",
 "media_type": "Text",
 "index_reference": "divination",
@@ -8487,14 +8245,13 @@
 "label": "Sorcery",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26533",
 "reference_id": 25675,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Divine",
 "media_type": "Text",
 "index_reference": "divine",
@@ -8582,22 +8339,13 @@
 "label": "Judge",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Divine",
-"type": "keyterm",
-"preferred_label": "Divine",
-"confidence": 0.8286,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26534",
 "reference_id": 25676,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Doctrine",
 "media_type": "Text",
 "index_reference": "doctrine",
@@ -8703,14 +8451,13 @@
 "end_ref_usfm": "MAT 15:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "26535",
 "reference_id": 25677,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dominion",
 "media_type": "Text",
 "index_reference": "dominion",
@@ -8800,14 +8547,13 @@
 "label": "Authority",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26536",
 "reference_id": 25678,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Donkey",
 "media_type": "Text",
 "index_reference": "donkey",
@@ -9105,22 +8851,13 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"preferred_label": "Donkey",
-"confidence": 1.0,
-"match_method": "content_id"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "26537",
 "reference_id": 25679,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Doom",
 "media_type": "Text",
 "index_reference": "doom",
@@ -9154,14 +8891,13 @@
 "end_ref_usfm": "PSA 92:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "26538",
 "reference_id": 25680,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Doorpost",
 "media_type": "Text",
 "index_reference": "doorpost",
@@ -9228,22 +8964,13 @@
 "label": "Passover",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Doorpost",
-"type": "realia",
-"preferred_label": "Doorpost",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26539",
 "reference_id": 25681,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dove",
 "media_type": "Text",
 "index_reference": "dove",
@@ -9376,22 +9103,13 @@
 "label": "Olive",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "fauna:Dove",
-"type": "fauna",
-"preferred_label": "Dove",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26540",
 "reference_id": 25682,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dream",
 "media_type": "Text",
 "index_reference": "dream",
@@ -9667,14 +9385,13 @@
 "label": "Vision",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26541",
 "reference_id": 25683,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Drink Offering",
 "media_type": "Text",
 "index_reference": "drink offering",
@@ -9753,29 +9470,13 @@
 "label": "Grain Offering",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Wine",
-"type": "realia",
-"preferred_label": "Wine",
-"confidence": 0.65,
-"match_method": "scored"
-},
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.5952,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26542",
 "reference_id": 25684,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Drunk",
 "media_type": "Text",
 "index_reference": "drunk",
@@ -9931,14 +9632,13 @@
 "label": "Wine",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26543",
 "reference_id": 25685,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dung",
 "media_type": "Text",
 "index_reference": "dung",
@@ -9980,8 +9680,7 @@
 "label": "Gate",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 }
 ]

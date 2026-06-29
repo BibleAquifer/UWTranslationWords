@@ -2,7 +2,7 @@
 {
 "content_id": "627178",
 "reference_id": 25985,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maaka",
 "media_type": "Text",
 "index_reference": "maaka",
@@ -43,7 +43,7 @@
 {
 "reference_id": 25483,
 "content_id": 626900,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Asherimu",
 "language": "swh"
 },
@@ -54,22 +54,13 @@
 "label": "Nahori",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Maacah",
-"type": "person",
-"preferred_label": "Maaka",
-"confidence": 1.0,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627015",
 "reference_id": 25679,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maangamizi",
 "media_type": "Text",
 "index_reference": "maangamizi",
@@ -103,14 +94,13 @@
 "end_ref_usfm": "PSA 92:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575361",
 "reference_id": 25447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Madhabahu",
 "media_type": "Text",
 "index_reference": "madhabahu",
@@ -665,14 +655,13 @@
 "label": "Sadaka ya Nafaka",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626873",
 "reference_id": 25448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Madhabahu ya Uvumba",
 "media_type": "Text",
 "index_reference": "madhabahu ya uvumba",
@@ -714,14 +703,13 @@
 "label": "Uvumba",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575621",
 "reference_id": 26061,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mafuta",
 "media_type": "Text",
 "index_reference": "mafuta",
@@ -1058,14 +1046,13 @@
 "label": "Dhabihu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575422",
 "reference_id": 25620,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mahakama",
 "media_type": "Text",
 "index_reference": "mahakama",
@@ -1139,25 +1126,16 @@
 "label": "Hekalu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"preferred_label": "Judgment",
-"confidence": 0.8041,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "626984",
 "reference_id": 25619,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mahakama-kisheria",
 "media_type": "Text",
-"index_reference": "mahakama-kisheria",
+"index_reference": "mahakamakisheria",
 "language": "swh",
 "review_level": "None",
 "content": "<h1>mahakama</h1><h2>Ufafanuzi:</h2><p>Neno &quot;mahakama&quot; linamaanisha sehemu ambapo majaji wanaamua masuala ya kisheria na ya jinai.</p><ul><li><p>Mara nyingi, Biblia inapolitumia neno &quot;mahakama&quot; (katika maana hii ya kisheria), inarejelea mahakama za kibinadamu, lakini pia inaweza kutumika kurejelea mahakama ya mbinguni kama ilivyo katika Danieli 7:10 na Danieli 7:26.</p></li></ul><h2>Mapendekezo ya Tafsiri:</h2><ul><li><p>Neno &quot;mahakama&quot; linaweza kutafsiriwa kama &quot;tribunal,&quot; au linapohusu mahakama ya kibinadamu, linaweza kutafsiriwa kama &quot;mahakama ya kisheria.&quot;</p></li></ul><p>(Tazama pia: <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">hakimu</span></p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2>",
@@ -1171,14 +1149,13 @@
 "label": "Hakimu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627098",
 "reference_id": 25835,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mahali pa Juu",
 "media_type": "Text",
 "index_reference": "mahali pa juu",
@@ -1246,14 +1223,13 @@
 "label": "Kuabudu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575527",
 "reference_id": 25843,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mahali Patakatifu",
 "media_type": "Text",
 "index_reference": "mahali patakatifu",
@@ -1458,22 +1434,13 @@
 "label": "Hema",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:HolyPlace",
-"type": "place",
-"preferred_label": "patakatifu",
-"confidence": 0.583,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575351",
 "reference_id": 25416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Makabila 12 ya Israeli",
 "media_type": "Text",
 "index_reference": "makabila 12 ya israeli",
@@ -1645,14 +1612,13 @@
 "label": "Simeoni",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575407",
 "reference_id": 25581,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Makapi",
 "media_type": "Text",
 "index_reference": "makapi",
@@ -1708,14 +1674,13 @@
 "label": "Pepeta",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627179",
 "reference_id": 25986,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Makedonia",
 "media_type": "Text",
 "index_reference": "makedonia",
@@ -1943,22 +1908,13 @@
 "label": "Thesalonike",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Macedonia",
-"type": "place",
-"preferred_label": "Makedonia",
-"confidence": 0.92,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "626964",
 "reference_id": 25585,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Makerubi",
 "media_type": "Text",
 "index_reference": "makerubi",
@@ -2084,14 +2040,13 @@
 "label": "Malaika",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575364",
 "reference_id": 25459,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malaika",
 "media_type": "Text",
 "index_reference": "malaika",
@@ -3265,14 +3220,13 @@
 "label": "Mikaeli",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627184",
 "reference_id": 25991,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malaki",
 "media_type": "Text",
 "index_reference": "malaki",
@@ -3320,7 +3274,7 @@
 {
 "reference_id": 25942,
 "content_id": 627152,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
 },
@@ -3345,22 +3299,13 @@
 "label": "Tubu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Malachi",
-"type": "person",
-"preferred_label": "Malaki",
-"confidence": 1.0,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575653",
 "reference_id": 26132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malaya",
 "media_type": "Text",
 "index_reference": "malaya",
@@ -3517,14 +3462,13 @@
 "label": "Mungu wa Uongo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575656",
 "reference_id": 26145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malkia",
 "media_type": "Text",
 "index_reference": "malkia",
@@ -3638,14 +3582,13 @@
 "label": "Sheba",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626967",
 "reference_id": 25589,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mambo ya Nyakati",
 "media_type": "Text",
 "index_reference": "mambo ya nyakati",
@@ -3716,14 +3659,13 @@
 "label": "Ufalme wa Israeli",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575371",
 "reference_id": 25492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mamlaka",
 "media_type": "Text",
 "index_reference": "mamlaka",
@@ -4379,14 +4321,13 @@
 "label": "Mtawala",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627185",
 "reference_id": 25994,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mana",
 "media_type": "Text",
 "index_reference": "mana",
@@ -4510,14 +4451,13 @@
 "label": "Sabato",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575595",
 "reference_id": 25993,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manase",
 "media_type": "Text",
 "index_reference": "manase",
@@ -4639,22 +4579,13 @@
 "label": "Yosefu Agano la Kale",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manase",
-"confidence": 0.9059,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575612",
 "reference_id": 26037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manemane",
 "media_type": "Text",
 "index_reference": "manemane",
@@ -4745,14 +4676,13 @@
 "label": "Wanaume Waliojifunza",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575762",
 "reference_id": 26338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maono",
 "media_type": "Text",
 "index_reference": "maono",
@@ -4926,14 +4856,13 @@
 "label": "Ndoto",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627235",
 "reference_id": 26078,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mapatriarki",
 "media_type": "Text",
 "index_reference": "mapatriarki",
@@ -5003,14 +4932,13 @@
 "end_ref_usfm": "EZR 3:13"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575768",
 "reference_id": 26346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mapenzi ya Mungu",
 "media_type": "Text",
 "index_reference": "mapenzi ya mungu",
@@ -5362,14 +5290,13 @@
 "end_ref_usfm": "JHN 5:32"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575742",
 "reference_id": 26310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mapokeo",
 "media_type": "Text",
 "index_reference": "mapokeo",
@@ -5509,7 +5436,7 @@
 {
 "reference_id": 25959,
 "content_id": 575584,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Sheria ya Mose",
 "language": "swh"
 },
@@ -5520,14 +5447,13 @@
 "label": "Mose",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575596",
 "reference_id": 25998,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maria",
 "media_type": "Text",
 "index_reference": "maria",
@@ -5731,14 +5657,13 @@
 "label": "Bikira",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627189",
 "reference_id": 26000,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maria Dada yake Martha",
 "media_type": "Text",
 "index_reference": "maria dada yake martha",
@@ -5861,22 +5786,13 @@
 "label": "Martha",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Mary.3",
-"type": "person",
-"preferred_label": "Mariamu",
-"confidence": 0.6488,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575597",
 "reference_id": 25999,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maria Magdalene",
 "media_type": "Text",
 "index_reference": "maria magdalene",
@@ -6003,22 +5919,13 @@
 "label": "Mpagawa na Pepo mchafu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Marymagdalene",
-"type": "person",
-"preferred_label": "Mariamu",
-"confidence": 0.8026,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627188",
 "reference_id": 25997,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Martha",
 "media_type": "Text",
 "index_reference": "martha",
@@ -6133,22 +6040,13 @@
 "label": "Maria Dada yake Martha",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Martha",
-"type": "person",
-"preferred_label": "Martha",
-"confidence": 0.9,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627285",
 "reference_id": 26168,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Masalio",
 "media_type": "Text",
 "index_reference": "masalio",
@@ -6248,14 +6146,13 @@
 "end_ref_usfm": "EZK 6:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "627307",
 "reference_id": 26215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maserafi",
 "media_type": "Text",
 "index_reference": "maserafi",
@@ -6272,14 +6169,13 @@
 "label": "Malaika",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575770",
 "reference_id": 26348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mashine ya Kukamua Divai",
 "media_type": "Text",
 "index_reference": "mashine ya kukamua divai",
@@ -6352,14 +6248,13 @@
 "label": "Ghadhabu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626956",
 "reference_id": 25574,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mateka",
 "media_type": "Text",
 "index_reference": "mateka",
@@ -6547,14 +6442,13 @@
 "label": "Kamata",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575741",
 "reference_id": 26309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mateso",
 "media_type": "Text",
 "index_reference": "mateso",
@@ -6701,7 +6595,7 @@
 {
 "reference_id": 25712,
 "content_id": 575464,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Milele",
 "language": "swh"
 },
@@ -6740,14 +6634,13 @@
 "label": "Kuabudu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575598",
 "reference_id": 26001,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mathayo",
 "media_type": "Text",
 "index_reference": "mathayo",
@@ -6839,22 +6732,13 @@
 "label": "Kodi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Matthew",
-"type": "person",
-"preferred_label": "Mathayo",
-"confidence": 0.8667,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575649",
 "reference_id": 26124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Matusi",
 "media_type": "Text",
 "index_reference": "matusi",
@@ -6958,14 +6842,13 @@
 "label": "Takatifu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575516",
 "reference_id": 25823,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mavuno",
 "media_type": "Text",
 "index_reference": "mavuno",
@@ -7333,14 +7216,13 @@
 "label": "Habari Njema",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627259",
 "reference_id": 26120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mawindo",
 "media_type": "Text",
 "index_reference": "mawindo",
@@ -7374,14 +7256,13 @@
 "end_ref_usfm": "JER 12:9"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575692",
 "reference_id": 26208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mbegu",
 "media_type": "Text",
 "index_reference": "mbegu",
@@ -7897,14 +7778,13 @@
 "label": "Mzawa",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575517",
 "reference_id": 25825,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mbingu",
 "media_type": "Text",
 "index_reference": "mbingu",
@@ -10256,14 +10136,13 @@
 "label": "Ufalme wa Mungu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575501",
 "reference_id": 25787,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mbuzi",
 "media_type": "Text",
 "index_reference": "mbuzi",
@@ -10495,14 +10374,13 @@
 "label": "Divai",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575774",
 "reference_id": 26353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mbwa mwitu",
 "media_type": "Text",
 "index_reference": "mbwa mwitu",
@@ -10588,14 +10466,13 @@
 "label": "Kondoo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575699",
 "reference_id": 26226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mchungaji",
 "media_type": "Text",
 "index_reference": "mchungaji",
@@ -10920,14 +10797,13 @@
 "label": "Kondoo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627194",
 "reference_id": 26006,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mediterania",
 "media_type": "Text",
 "index_reference": "mediterania",
@@ -11031,14 +10907,13 @@
 "label": "Fanikiwa",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627195",
 "reference_id": 26008,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Melkizedeki",
 "media_type": "Text",
 "index_reference": "melkizedeki",
@@ -11119,7 +10994,7 @@
 {
 "reference_id": 25712,
 "content_id": 575464,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Milele",
 "language": "swh"
 },
@@ -11158,22 +11033,13 @@
 "label": "Mwenye Haki",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Melchizedek",
-"type": "person",
-"preferred_label": "Melkizedeki",
-"confidence": 1.0,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575594",
 "reference_id": 25992,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Meneja",
 "media_type": "Text",
 "index_reference": "meneja",
@@ -11365,14 +11231,13 @@
 "label": "Mtumishi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627198",
 "reference_id": 26013,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mesheki",
 "media_type": "Text",
 "index_reference": "mesheki",
@@ -11434,22 +11299,13 @@
 "label": "Shemu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Meshech.2",
-"type": "person",
-"preferred_label": "Mesheki",
-"confidence": 0.6727,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627199",
 "reference_id": 26014,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mesopotamia",
 "media_type": "Text",
 "index_reference": "mesopotamia",
@@ -11512,29 +11368,13 @@
 "label": "Frati",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Mesopotamia",
-"type": "place",
-"preferred_label": "Mesopotamia",
-"confidence": 0.8,
-"match_method": "scored"
-},
-{
-"id": "place:Aram-naharaim",
-"type": "place",
-"preferred_label": "Aram-naharaim",
-"confidence": 0.6,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627269",
 "reference_id": 26136,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Methali",
 "media_type": "Text",
 "index_reference": "methali",
@@ -11627,18 +11467,17 @@
 {
 "reference_id": 26350,
 "content_id": 575772,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Mwerevu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575574",
 "reference_id": 25938,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mfalme",
 "media_type": "Text",
 "index_reference": "mfalme",
@@ -13405,29 +13244,13 @@
 "label": "Ufalme wa Mungu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Hammelech",
-"type": "person",
-"preferred_label": "Mfalme",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:KingsValley",
-"type": "place",
-"preferred_label": "mfalme",
-"confidence": 0.8998,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "575577",
 "reference_id": 25943,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mfalme wa Wayahudi",
 "media_type": "Text",
 "index_reference": "mfalme wa wayahudi",
@@ -13601,14 +13424,13 @@
 "label": "Watu wenye hekima",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575626",
 "reference_id": 26073,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "mfano",
 "media_type": "Text",
 "index_reference": "mfano",
@@ -13914,14 +13736,13 @@
 "label": "Samaria",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627112",
 "reference_id": 25864,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mfano wa Mungu",
 "media_type": "Text",
 "index_reference": "mfano wa mungu",
@@ -14006,14 +13827,13 @@
 "label": "MWANA WA MUNGU",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575485",
 "reference_id": 25750,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mgeni",
 "media_type": "Text",
 "index_reference": "mgeni",
@@ -14329,14 +14149,13 @@
 "end_ref_usfm": "DEU 1:16"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575629",
 "reference_id": 26077,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mgonjwa",
 "media_type": "Text",
 "index_reference": "mgonjwa",
@@ -14532,18 +14351,17 @@
 {
 "reference_id": 26090,
 "content_id": 627241,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Uvumulivu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627092",
 "reference_id": 25820,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mgumu na asiyejaa",
 "media_type": "Text",
 "index_reference": "mgumu na asiyejaa",
@@ -14560,14 +14378,13 @@
 "label": "Uovu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627100",
 "reference_id": 25838,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mhiti",
 "media_type": "Text",
 "index_reference": "mhiti",
@@ -14819,22 +14636,13 @@
 "label": "Uria",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Heth",
-"type": "person",
-"preferred_label": "Mhiti",
-"confidence": 0.9333,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627101",
 "reference_id": 25839,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mhivi",
 "media_type": "Text",
 "index_reference": "mhivi",
@@ -14957,14 +14765,13 @@
 "label": "Shekemu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575605",
 "reference_id": 26021,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mhudumu",
 "media_type": "Text",
 "index_reference": "mhudumu",
@@ -15507,18 +15314,17 @@
 {
 "reference_id": 26217,
 "content_id": 575696,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Mtumishi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627200",
 "reference_id": 26016,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Micah",
 "media_type": "Text",
 "index_reference": "micah",
@@ -15605,7 +15411,7 @@
 {
 "reference_id": 25930,
 "content_id": 575571,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Nafasi ya Hakimu",
 "language": "swh"
 },
@@ -15640,7 +15446,7 @@
 {
 "reference_id": 25942,
 "content_id": 627152,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
 },
@@ -15651,29 +15457,13 @@
 "label": "Lawi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Micah.6",
-"type": "person",
-"preferred_label": "Mika",
-"confidence": 0.76,
-"match_method": "scored"
-},
-{
-"id": "person:Mica",
-"type": "person",
-"preferred_label": "Mika",
-"confidence": 0.68,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627202",
 "reference_id": 26018,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Midiani",
 "media_type": "Text",
 "index_reference": "midiani",
@@ -15816,36 +15606,13 @@
 "label": "Yethro",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Midian",
-"type": "place",
-"preferred_label": "Midiani",
-"confidence": 0.8353,
-"match_method": "scored"
-},
-{
-"id": "person:Midian",
-"type": "person",
-"preferred_label": "Midiani",
-"confidence": 0.6471,
-"match_method": "scored"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"preferred_label": "Midianites",
-"confidence": 0.6111,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627169",
 "reference_id": 25970,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mifugo",
 "media_type": "Text",
 "index_reference": "mifugo",
@@ -16250,14 +16017,13 @@
 "label": "Farasi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627201",
 "reference_id": 26017,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mikaeli",
 "media_type": "Text",
 "index_reference": "mikaeli",
@@ -16332,29 +16098,13 @@
 "label": "Uajemi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Michael.11",
-"type": "person",
-"preferred_label": "Mikaeli",
-"confidence": 0.8286,
-"match_method": "scored"
-},
-{
-"id": "person:Michael.10",
-"type": "person",
-"preferred_label": "Mikaeli",
-"confidence": 0.6571,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575464",
 "reference_id": 25712,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Milele",
 "media_type": "Text",
 "index_reference": "milele",
@@ -17123,14 +16873,13 @@
 "label": "Utawala",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627203",
 "reference_id": 26023,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miriamu",
 "media_type": "Text",
 "index_reference": "miriamu",
@@ -17232,22 +16981,13 @@
 "label": "Kuasi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Miriam",
-"type": "person",
-"preferred_label": "Miriamu",
-"confidence": 0.84,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627204",
 "reference_id": 26024,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mishaeli",
 "media_type": "Text",
 "index_reference": "mishaeli",
@@ -17305,22 +17045,13 @@
 "label": "Hanania",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Mishael.3",
-"type": "person",
-"preferred_label": "Mishaeli",
-"confidence": 0.9,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627205",
 "reference_id": 26025,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mispa",
 "media_type": "Text",
 "index_reference": "mispa",
@@ -17409,7 +17140,7 @@
 {
 "reference_id": 25942,
 "content_id": 627152,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
 },
@@ -17427,22 +17158,13 @@
 "label": "Sauli",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Mizpah",
-"type": "place",
-"preferred_label": "Mispa",
-"confidence": 0.6633,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575456",
 "reference_id": 25690,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Misri",
 "media_type": "Text",
 "index_reference": "misri",
@@ -19125,29 +18847,13 @@
 "label": "Mapatriarki",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Egypt",
-"type": "place",
-"preferred_label": "Misri",
-"confidence": 0.9942,
-"match_method": "scored"
-},
-{
-"id": "person:Egypt",
-"type": "person",
-"preferred_label": "Misri",
-"confidence": 0.6029,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575526",
 "reference_id": 25841,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mji Mtakatifu",
 "media_type": "Text",
 "index_reference": "mji mtakatifu",
@@ -19245,14 +18951,13 @@
 "label": "Yerusalemu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626971",
 "reference_id": 25594,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mji wa Daudi",
 "media_type": "Text",
 "index_reference": "mji wa daudi",
@@ -19320,22 +19025,13 @@
 "label": "Yerusalemu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:CityOfDavid",
-"type": "place",
-"preferred_label": "City of David",
-"confidence": 0.8411,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "575602",
 "reference_id": 26015,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mjumbe",
 "media_type": "Text",
 "index_reference": "mjumbe",
@@ -19511,14 +19207,13 @@
 "label": "Yohana Mbatizaji",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575396",
 "reference_id": 25554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkate",
 "media_type": "Text",
 "index_reference": "mkate",
@@ -20584,14 +20279,13 @@
 "label": "Chachu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575755",
 "reference_id": 26328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkate Usiotiwa Chachu",
 "media_type": "Text",
 "index_reference": "mkate usiotiwa chachu",
@@ -20819,14 +20513,13 @@
 "label": "Chachu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627270",
 "reference_id": 26137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkoa",
 "media_type": "Text",
 "index_reference": "mkoa",
@@ -20998,14 +20691,13 @@
 "label": "Rumi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575441",
 "reference_id": 25657,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkombozi",
 "media_type": "Text",
 "index_reference": "mkombozi",
@@ -21384,14 +21076,13 @@
 "label": "Okoa",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626966",
 "reference_id": 25588,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkristo",
 "media_type": "Text",
 "index_reference": "mkristo",
@@ -21475,14 +21166,13 @@
 "label": "MWANA WA MUNGU",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627329",
 "reference_id": 26256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkuki",
 "media_type": "Text",
 "index_reference": "mkuki",
@@ -21569,14 +21259,13 @@
 "label": "Shujaa",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575370",
 "reference_id": 25486,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mkutano",
 "media_type": "Text",
 "index_reference": "mkutano",
@@ -22338,14 +22027,13 @@
 "label": "Baraza",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627211",
 "reference_id": 26033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mlima Hermoni",
 "media_type": "Text",
 "index_reference": "mlima hermoni",
@@ -22407,22 +22095,13 @@
 "label": "Syria",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:HermonMount",
-"type": "place",
-"preferred_label": "Hermoni",
-"confidence": 0.715,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627191",
 "reference_id": 26003,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mmedi",
 "media_type": "Text",
 "index_reference": "mmedi",
@@ -22524,14 +22203,13 @@
 "label": "Uajemi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575537",
 "reference_id": 25861,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mnafiki",
 "media_type": "Text",
 "index_reference": "mnafiki",
@@ -22709,14 +22387,13 @@
 "end_ref_usfm": "MAT 6:2"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575766",
 "reference_id": 26343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mnara wa Mlinzi",
 "media_type": "Text",
 "index_reference": "mnara wa mlinzi",
@@ -22801,14 +22478,13 @@
 "label": "Tazama",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627216",
 "reference_id": 26046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mnaziri",
 "media_type": "Text",
 "index_reference": "mnaziri",
@@ -22871,14 +22547,13 @@
 "label": "Samsoni",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626926",
 "reference_id": 25517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mnyama",
 "media_type": "Text",
 "index_reference": "mnyama",
@@ -23344,14 +23019,13 @@
 "label": "Mifugo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626925",
 "reference_id": 25516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mnyama Dubu",
 "media_type": "Text",
 "index_reference": "mnyama dubu",
@@ -23394,14 +23068,13 @@
 "label": "Elisha",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575536",
 "reference_id": 25860,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mnyenyekevu",
 "media_type": "Text",
 "index_reference": "mnyenyekevu",
@@ -23587,14 +23260,13 @@
 "label": "Mwenye kiburi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626988",
 "reference_id": 25631,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mnyweshaji",
 "media_type": "Text",
 "index_reference": "mnyweshaji",
@@ -23706,14 +23378,13 @@
 "label": "Farao",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627206",
 "reference_id": 26026,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moabu",
 "media_type": "Text",
 "index_reference": "moabu",
@@ -23885,29 +23556,13 @@
 "label": "Samaki wa chumvi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Moab",
-"type": "place",
-"preferred_label": "Moabu",
-"confidence": 0.9619,
-"match_method": "scored"
-},
-{
-"id": "person:Moab",
-"type": "person",
-"preferred_label": "Moabu",
-"confidence": 0.619,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627208",
 "reference_id": 26029,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moleki",
 "media_type": "Text",
 "index_reference": "moleki",
@@ -23997,22 +23652,13 @@
 "label": "Mungu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "deity:Molech",
-"type": "deity",
-"preferred_label": "Moleki",
-"confidence": 0.8857,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627209",
 "reference_id": 26030,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mordekai",
 "media_type": "Text",
 "index_reference": "mordekai",
@@ -24087,29 +23733,13 @@
 "label": "Uajemi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Mordecai",
-"type": "person",
-"preferred_label": "Mordekai",
-"confidence": 0.7333,
-"match_method": "scored"
-},
-{
-"id": "person:Mordecai.2",
-"type": "person",
-"preferred_label": "Mordekai",
-"confidence": 0.65,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575608",
 "reference_id": 26031,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mose",
 "media_type": "Text",
 "index_reference": "mose",
@@ -26187,22 +25817,13 @@
 "label": "Amri Kumi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Moses",
-"type": "person",
-"preferred_label": "Musa",
-"confidence": 0.9482,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627232",
 "reference_id": 26070,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpagani",
 "media_type": "Text",
 "index_reference": "mpagani",
@@ -26284,14 +25905,13 @@
 "label": "Mungu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575443",
 "reference_id": 25659,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpagawa na Pepo mchafu",
 "media_type": "Text",
 "index_reference": "mpagawa na pepo mchafu",
@@ -26405,14 +26025,13 @@
 "label": "Pepo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627192",
 "reference_id": 26004,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpatanishi",
 "media_type": "Text",
 "index_reference": "mpatanishi",
@@ -26473,14 +26092,13 @@
 "label": "Patana",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575381",
 "reference_id": 25524,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpendwa",
 "media_type": "Text",
 "index_reference": "mpendwa",
@@ -26882,14 +26500,13 @@
 "label": "Upendo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627173",
 "reference_id": 25979,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpenzi",
 "media_type": "Text",
 "index_reference": "mpenzi",
@@ -26945,14 +26562,13 @@
 "label": "Upendo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626884",
 "reference_id": 25463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "mpinga Kristo",
 "media_type": "Text",
 "index_reference": "mpinga kristo",
@@ -27001,14 +26617,13 @@
 "label": "Dhiki",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575357",
 "reference_id": 25434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpinzani",
 "media_type": "Text",
 "index_reference": "mpinzani",
@@ -27410,14 +27025,13 @@
 "label": "Shetani",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575599",
 "reference_id": 26007,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpole",
 "media_type": "Text",
 "index_reference": "mpole",
@@ -27489,14 +27103,13 @@
 "label": "Mnyenyekevu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575483",
 "reference_id": 25748,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mpumbavu",
 "media_type": "Text",
 "index_reference": "mpumbavu",
@@ -28294,14 +27907,13 @@
 "label": "Mwerevu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627279",
 "reference_id": 26155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mrefai",
 "media_type": "Text",
 "index_reference": "mrefai",
@@ -28310,38 +27922,28 @@
 "content": "<h1>Mrefai, Warefai, Bonde la Warefai</h1><h2>Uhalisia:</h2><p>Neno &apos;Mrefai&apos; ni jina la kundi la wakaazi walioishi katika eneo la mashariki mwa Mto Yordani. Pia hutumika kurejelea watu waliokufa au roho zao. &apos;Mrefai&apos; wanaitwa &apos;Warefai&apos; au &apos;Refaimu.&apos;</p><ul><li><p>Kulikuwa na bonde lililopewa jina la kundi hili la watu, &apos;Bonde la Warefai,&apos; ambalo limetajwa mara sita katika Agano la Kale.</p></li><li><p>&apos;Rapha&apos; ni tafsiri ya Kiingereza ya neno la Kiebrania. Ni vigumu kubaini kwa uhakika neno &apos;Mrefai&apos; linamaanisha nini na kwa hivyo aina gani ya viumbe neno &apos;Mrefai&apos; linarejelea, iwe ni kundi la watu wanaoishi, roho, au viumbe wa karibu na miungu. Kwa sababu hii, tafsiri nyingi za Kiingereza zimechagua kutafsiri neno la lugha ya asili (Kiebrania) kama &apos;Rephaites&apos; au &apos;Rephaim.&apos; Unaweza fikiria kufanya jambo hilo hilo katika tafsiri yako.</p></li><li><p>Kwenye Ayubu 26:5, Zaburi 88:10, Mithali 2:18, Mithali 9:18, Mithali 21:16, Isaya 14:9, Isaya 26:14, na Isaya 26:19, neno &apos;Warefai&apos; linarejelea watu waliokufa au &apos;roho&apos; zao.</p></li><li><p>Kwenye matukio mengine yote katika Agano la Kale, neno &apos;Warefai&apos; linarejelea kundi la watu ambao walikuwa wanadamu hai na walikuwa sehemu ya kundi maalum la watu.</p></li><li><p>Kundi la Waamoni liliwaita Warefai kwa jina &apos;Wazamzumi&apos; (Tazama Kumbukumbu la Torati 2:20).</p></li><li><p>Neno &apos;Mrefai&apos; linarejelea kundi la watu wanaotajwa katika matukio mbalimbali katika Agano la Kale, isipokuwa katika 1 Mambo ya Nyakati 8:2 na 8:37. Katika mistari hii miwili, linahusiana na jina la mtu (mtu tofauti katika kila mstari).</p></li></ul><p>(Mapendekezo ya Tafsiri: Jinsi ya Kutafsiri Majina, Nakili au Kopa Maneno)</p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p>Strong&apos;s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Rapha",
-"type": "person",
-"preferred_label": "Mrefai",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "627220",
 "reference_id": 26051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mrefai, Warefai, Refaimu",
 "media_type": "Text",
-"index_reference": "mrefai, warefai, refaimu",
+"index_reference": "mrefai warefai refaimu",
 "language": "swh",
 "review_level": "None",
 "content": "<h1>Mrefai, Warefai, Refaimu,</h1><h2>Uhalisia:</h2><p>Neno &quot;Mrefai&quot; ni jina la kundi la wakaazi waliokuwa wakiishi katika eneo la Mashariki mwa Mto wa Yordani. &quot;Mrefai&quot; wanajulikana pia kama &quot;Warefai&quot; au &quot;Refaimu&quot;.</p><ul><li><p>Kulikuwa na bonde lililopewa jina la kundi hili la watu, &quot;Bonde la Warefai,&quot; ambalo limetajwa mara sita katika Agano la Kale.</p></li><li><p>&quot;Mrefai&quot; ni tafsiri ya neno la Kiebrania kwa Kiingereza. Ni vigumu kubaini kwa uhakika neno &quot;Mrefai&quot; linamaanisha nini na hivyo ni aina gani ya viumbe neno hili linarejelea. Neno &quot;Mrefai&quot; linaweza kumaanisha kundi la watu wanaoishi, roho, au viumbe wa karibu na miungu. Kwa sababu hii, tafsiri nyingi za Kiingereza zimechagua kutumia neno la asili (Kiebrania) kama &quot;Warefai&quot; au &quot;Refaimu.&quot; Unaweza kufikiria kufanya hivyo katika tafsiri yako.</p></li><li><p>Kundi la Waamoni liliwaita Warefai kwa jina &quot;<span>Wazamzumi</span>&quot; (Tazama Kumbukumbu la Torati 2:20).</p></li></ul><p>(Mapendekezo ya Tafsiri: Jinsi ya Kutafsiri Majina, Nakili au Kukopa Maneno)</p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575518",
 "reference_id": 25828,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mrithi",
 "media_type": "Text",
 "index_reference": "mrithi",
@@ -28480,14 +28082,13 @@
 "label": "Kurithi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575682",
 "reference_id": 26189,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Msadukayo",
 "media_type": "Text",
 "index_reference": "msadukayo",
@@ -28636,14 +28237,13 @@
 "label": "Viongozi wa Kiyahudi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575426",
 "reference_id": 25627,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Msalaba",
 "media_type": "Text",
 "index_reference": "msalaba",
@@ -28830,14 +28430,13 @@
 "label": "Rumi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626892",
 "reference_id": 25473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mshale",
 "media_type": "Text",
 "index_reference": "mshale",
@@ -28897,14 +28496,13 @@
 "label": "Ashuru",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575420",
 "reference_id": 25617,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mshauri",
 "media_type": "Text",
 "index_reference": "mshauri",
@@ -29206,22 +28804,13 @@
 "label": "Mwerevu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"preferred_label": "Counsel",
-"confidence": 0.8661,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "627229",
 "reference_id": 26067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Msimamizi",
 "media_type": "Text",
 "index_reference": "msimamizi",
@@ -29379,14 +28968,13 @@
 "label": "Mchungaji",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575489",
 "reference_id": 25755,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Msingi",
 "media_type": "Text",
 "index_reference": "msingi",
@@ -29695,18 +29283,9 @@
 {
 "reference_id": 25624,
 "content_id": 575425,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Uumbaji",
 "language": "swh"
-}
-],
-"acai": [
-{
-"id": "place:FoundationGate",
-"type": "place",
-"preferred_label": "msingi",
-"confidence": 0.852,
-"match_method": "embedding"
 }
 ]
 }
@@ -29714,7 +29293,7 @@
 {
 "content_id": "627102",
 "reference_id": 25842,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtakatifu",
 "media_type": "Text",
 "index_reference": "mtakatifu",
@@ -29805,14 +29384,13 @@
 "label": "Takatifu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575683",
 "reference_id": 26190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtakatifu",
 "media_type": "Text",
 "index_reference": "mtakatifu",
@@ -30214,14 +29792,13 @@
 "label": "Takatifu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575677",
 "reference_id": 26184,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtawala",
 "media_type": "Text",
 "index_reference": "mtawala",
@@ -31076,14 +30653,13 @@
 "label": "Sinagogi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627233",
 "reference_id": 26072,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtende",
 "media_type": "Text",
 "index_reference": "mtende",
@@ -31157,14 +30733,13 @@
 "label": "Amani",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627049",
 "reference_id": 25741,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mti wa Fir",
 "media_type": "Text",
 "index_reference": "mti wa fir",
@@ -31225,14 +30800,13 @@
 "label": "Mvinje",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627222",
 "reference_id": 26053,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mto Naili",
 "media_type": "Text",
 "index_reference": "mto naili",
@@ -31402,22 +30976,13 @@
 "label": "Mose",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Nile",
-"type": "place",
-"preferred_label": "mto",
-"confidence": 0.775,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575562",
 "reference_id": 25917,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mto wa Yordani",
 "media_type": "Text",
 "index_reference": "mto wa yordani",
@@ -31611,22 +31176,13 @@
 "label": "Bahari la Galilaya",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Jordan",
-"type": "place",
-"preferred_label": "Yordani",
-"confidence": 0.7315,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575498",
 "reference_id": 25773,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtu wa Mataifa",
 "media_type": "Text",
 "index_reference": "mtu wa mataifa",
@@ -32174,14 +31730,13 @@
 "label": "Myahudi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627186",
 "reference_id": 25995,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtu wa Mungu",
 "media_type": "Text",
 "index_reference": "mtu wa mungu",
@@ -32243,14 +31798,13 @@
 "label": "nabii",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575366",
 "reference_id": 25466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "mtume",
 "media_type": "Text",
 "index_reference": "mtume",
@@ -32758,14 +32312,13 @@
 "label": "Paulo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575696",
 "reference_id": 26217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mtumishi",
 "media_type": "Text",
 "index_reference": "mtumishi",
@@ -35803,14 +35356,14 @@
 {
 "reference_id": 25600,
 "content_id": 575412,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Kujitolea",
 "language": "swh"
 },
 {
 "reference_id": 25621,
 "content_id": 575423,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Agano",
 "language": "swh"
 },
@@ -35824,7 +35377,7 @@
 {
 "reference_id": 25857,
 "content_id": 575534,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Kaya",
 "language": "swh"
 },
@@ -35838,7 +35391,7 @@
 {
 "reference_id": 25957,
 "content_id": 627161,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Sheria",
 "language": "swh"
 },
@@ -35852,18 +35405,9 @@
 {
 "reference_id": 26177,
 "content_id": 575675,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Mwenye Haki",
 "language": "swh"
-}
-],
-"acai": [
-{
-"id": "group:GenericServants",
-"type": "group",
-"preferred_label": "Servants",
-"confidence": 0.8229,
-"match_method": "embedding"
 }
 ]
 }
@@ -35871,7 +35415,7 @@
 {
 "content_id": "575690",
 "reference_id": 26206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Muhuri",
 "media_type": "Text",
 "index_reference": "muhuri",
@@ -36094,14 +35638,13 @@
 "label": "Kaburi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626858",
 "reference_id": 25427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mumvi",
 "media_type": "Text",
 "index_reference": "mumvi",
@@ -36150,14 +35693,13 @@
 "label": "Hema",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575502",
 "reference_id": 25788,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu",
 "media_type": "Text",
 "index_reference": "mungu",
@@ -44985,7 +44527,7 @@
 {
 "reference_id": 25624,
 "content_id": 575425,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Uumbaji",
 "language": "swh"
 },
@@ -45024,14 +44566,13 @@
 "label": "Mungu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627366",
 "reference_id": 26360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu",
 "media_type": "Text",
 "index_reference": "mungu",
@@ -49388,14 +48929,13 @@
 "label": "Bwana",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575503",
 "reference_id": 25790,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu Baba",
 "media_type": "Text",
 "index_reference": "mungu baba",
@@ -50815,22 +50355,13 @@
 "label": "MWANA WA MUNGU",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "BWANA",
-"confidence": 0.5849,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627044",
 "reference_id": 25728,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mungu wa Uongo",
 "media_type": "Text",
 "index_reference": "mungu wa uongo",
@@ -51126,7 +50657,7 @@
 {
 "reference_id": 25483,
 "content_id": 626900,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Asherimu",
 "language": "swh"
 },
@@ -51179,14 +50710,13 @@
 "label": "Moleki",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575606",
 "reference_id": 26022,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Muujiza",
 "media_type": "Text",
 "index_reference": "muujiza",
@@ -51476,14 +51006,13 @@
 "label": "Ishara",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627183",
 "reference_id": 25990,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Muumbaji",
 "media_type": "Text",
 "index_reference": "muumbaji",
@@ -51503,7 +51032,7 @@
 {
 "reference_id": 25624,
 "content_id": 575425,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Uumbaji",
 "language": "swh"
 },
@@ -51514,14 +51043,13 @@
 "label": "Mungu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626990",
 "reference_id": 25636,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mvinje",
 "media_type": "Text",
 "index_reference": "mvinje",
@@ -51596,14 +51124,13 @@
 "label": "Lebanoni",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575513",
 "reference_id": 25812,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mvua ya mawe",
 "media_type": "Text",
 "index_reference": "mvua ya mawe",
@@ -51733,14 +51260,13 @@
 "end_ref_usfm": "MAT 28:10"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575479",
 "reference_id": 25744,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mvuvi",
 "media_type": "Text",
 "index_reference": "mvuvi",
@@ -51804,14 +51330,13 @@
 "end_ref_usfm": "LUK 5:3"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575388",
 "reference_id": 25539,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwaka wa Wakati wa Kibiblia",
 "media_type": "Text",
 "index_reference": "mwaka wa wakati wa kibiblia",
@@ -52903,14 +52428,13 @@
 "label": "Mwezi wa Wakati wa Kibiblia",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575726",
 "reference_id": 26283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwalimu",
 "media_type": "Text",
 "index_reference": "mwalimu",
@@ -53337,14 +52861,13 @@
 "label": "Hubiri",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627224",
 "reference_id": 26057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwaloni",
 "media_type": "Text",
 "index_reference": "mwaloni",
@@ -53416,14 +52939,13 @@
 "label": "Takatifu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575470",
 "reference_id": 25726,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwaminifu",
 "media_type": "Text",
 "index_reference": "mwaminifu",
@@ -53982,14 +53504,13 @@
 "label": "Imani",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575710",
 "reference_id": 26251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwana wa Adamu",
 "media_type": "Text",
 "index_reference": "mwana wa adamu",
@@ -54531,14 +54052,13 @@
 "label": "Mungu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575709",
 "reference_id": 26250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "MWANA WA MUNGU",
 "media_type": "Text",
 "index_reference": "mwana wa mungu",
@@ -55221,418 +54741,13 @@
 "label": "Wana wa Mungu",
 "language": "swh"
 }
-],
-"acai": []
-}
-},
-{
-"content_id": "627157",
-"reference_id": 25951,
-"version": "1.0.2",
-"title": "Mwana-kondoo",
-"media_type": "Text",
-"index_reference": "mwana-kondoo",
-"language": "swh",
-"review_level": "None",
-"content": "<h1><span>mwana-kondoo</span>, Mwana-Kondoo wa Mungu</h1><h2>Ufafanuzi:</h2><p>Neno &quot;mwana-kondoo&quot; linamaanisha kondoo mdogo. Kondoo ni wanyama wenye miguu minne na manyoya mazito yenye sufu, ambayo hutumika kwa dhabihu kwa Mungu. Yesu anaitwa &quot;Mwana-Kondoo wa Mungu&quot; kwa sababu alitolewa dhabihu kulipia dhambi za watu.</p><ul><li><p>Wanyama hawa huongozwa kwa urahisi na wanahitaji ulinzi. Mungu anawafananisha wanadamu na kondoo.</p></li><li><p>Mungu aliwaagiza watu wake kumtolea dhabihu kondoo na wana-kondoo wasio na dosari.</p></li><li><p>Yesu anaitwa &quot;Mwana-Kondoo wa Mungu&quot; ambaye alitolewa dhabihu ili kulipia dhambi za watu. Alikuwa dhabihu kamilifu, isiyo na dosari kwa sababu hakuwa na dhambi hata kidogo.</p></li></ul><h2>Mapendekezo ya Tafsiri:</h2><ul><li><p>Ikiwa kondoo wanajulikana katika eneo la lugha, jina la watoto wao linapaswa kutumika kutafsiri maneno &quot;mwana-kondoo&quot; na &quot;Mwana-Kondoo wa Mungu.&quot;</p></li><li><p>“Mwana-Kondoo wa Mungu” inaweza kutafsiriwa kama “Mwana-Kondoo wa Mungu (wa dhabihu),” au “Mwana-Kondoo aliyetolewa kama dhabihu kwa Mungu” au “Mwana-Kondoo (wa dhabihu) kutoka kwa Mungu.”</p></li><li><p>Ikiwa kondoo hawajulikani, neno hili linaweza kutafsiriwa kama &quot;kondoo mchanga&quot; na maelezo ya chini yanayoelezea jinsi kondoo walivyo. Kumbuka kwamba pia inaweza kulinganisha kondoo na wana-kondoo na mnyama kutoka eneo hilo anayeishi katika makundi, ambaye ni mwoga, hana ulinzi, na mara nyingi hupotea.</p></li><li><p>Pia fikiria jinsi neno hili linavyotafsiriwa katika tafsiri ya Biblia kwa lugha ya karibu ya eneo hilo au ya kitaifa.</p></li></ul><p>(Tazama: Jinsi ya Kutafsiri Visivyofahamika)</p><p>(Tazama pia: <span data-bnType=\"resourceReference\" data-resourceId=\"26224\" data-resourceType=\"UWTranslationWords\">kondoo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26226\" data-resourceType=\"UWTranslationWords\">mchungaji</span>)</p><h2>Marejeleo ya Biblia:</h2><ul><li><p><a href=\"https://ref.ly/2Sam12:3\">2 Samweli 12:3</a></p></li><li><p><a href=\"https://ref.ly/Ezra8:35-Ezra8:36\">Ezra 8:35–36</a></p></li><li><p><a href=\"https://ref.ly/Isa66:3\">Isaya 66:3</a></p><p><a href=\"https://ref.ly/Jer11:19\">Yeremia 11:19</a></p></li><li><p><a href=\"https://ref.ly/John1:29\">Yohana 1:29</a></p></li><li><p><a href=\"https://ref.ly/John1:36\">Yohana 1:36</a></p></li><li><p><a href=\"https://ref.ly/Lev14:21-Lev14:23\">Walawi 14:21–23</a></p></li><li><p><a href=\"https://ref.ly/Lev17:1-Lev17:4\">Walawi 17:1–4</a></p></li><li><p><a href=\"https://ref.ly/Luke10:3\">Luka 10:3</a></p></li><li><p><a href=\"https://ref.ly/Rev15:3-Rev15:4\">Ufunuo 15:3–4</a></p></li></ul><h2>Mifano kutoka kwenye hadithi za Biblia:</h2><ul><li><p><strong>5:7</strong> Wakati Abrahamu na Isaka walipokuwa wakitembea kuelekea mahali pa dhabihu, Isaka aliuliza, “Baba, tuna kuni za dhabihu, lakini mwana-kondoo yuko wapi?”</p></li><li><p><strong>11:2</strong> Mungu alitoa njia ya kumwokoa mzaliwa wa kwanza wa kila mtu aliyemwamini. Kila familia ilipaswa kuchagua <strong>mwana-kondoo</strong> au mbuzi asiye na dosari na kumchinja.</p></li><li><p><strong>24:6</strong> Siku iliyofuata, Yesu alikuja kubatizwa na Yohana. Yohana alipomwona, alisema, “Tazama! Huyu hapa ni <strong>Mwana-Kondoo wa Mungu</strong> ambaye atachukua dhambi za ulimwengu.”</p></li><li><p><strong>45:8</strong> Alisoma, “Walimuongoza kama <strong>mwana-kondoo</strong> kwenda kuuawa, na kama <strong>mwana-kondoo</strong> aliye kimya, hakusema neno.”</p></li><li><p><strong>48:8</strong> Wakati Mungu alipomwambia Abrahamu amtoe mwanawe Isaka kama dhabihu, Mungu alimpa <strong>mwana-kondoo</strong> kwa ajili ya dhabihu badala ya Isaka. Sote tunastahili kufa kwa sababu ya dhambi zetu! Lakini Mungu alimtoa Yesu, <strong>Mwana-Kondoo</strong> wa Mungu, kama dhabihu ili afe badala yetu.</p></li><li><p><strong>48:9</strong> Wakati Mungu alipotuma pigo la mwisho nchini Misri, aliwaagiza kila familia ya Waisraeli kuchinja <strong>mwana-kondoo</strong> asiye na dosari na kupaka damu yake juu na kando za miimo ya milango yao.</p></li></ul><h2>Data ya Neno:</h2><ul><li><p>Strong&apos;s: H7716, G07210, G23160</p></li></ul>",
-"associations": {
-"passage": [
-{
-"start_ref": "01022007",
-"start_ref_usfm": "GEN 22:7",
-"end_ref": "01022007",
-"end_ref_usfm": "GEN 22:7"
-},
-{
-"start_ref": "01022008",
-"start_ref_usfm": "GEN 22:8",
-"end_ref": "01022008",
-"end_ref_usfm": "GEN 22:8"
-},
-{
-"start_ref": "01030032",
-"start_ref_usfm": "GEN 30:32",
-"end_ref": "01030032",
-"end_ref_usfm": "GEN 30:32"
-},
-{
-"start_ref": "01030033",
-"start_ref_usfm": "GEN 30:33",
-"end_ref": "01030033",
-"end_ref_usfm": "GEN 30:33"
-},
-{
-"start_ref": "01030035",
-"start_ref_usfm": "GEN 30:35",
-"end_ref": "01030035",
-"end_ref_usfm": "GEN 30:35"
-},
-{
-"start_ref": "01030040",
-"start_ref_usfm": "GEN 30:40",
-"end_ref": "01030040",
-"end_ref_usfm": "GEN 30:40"
-},
-{
-"start_ref": "02012003",
-"start_ref_usfm": "EXO 12:3",
-"end_ref": "02012003",
-"end_ref_usfm": "EXO 12:3"
-},
-{
-"start_ref": "02012004",
-"start_ref_usfm": "EXO 12:4",
-"end_ref": "02012004",
-"end_ref_usfm": "EXO 12:4"
-},
-{
-"start_ref": "02012005",
-"start_ref_usfm": "EXO 12:5",
-"end_ref": "02012005",
-"end_ref_usfm": "EXO 12:5"
-},
-{
-"start_ref": "02012021",
-"start_ref_usfm": "EXO 12:21",
-"end_ref": "02012021",
-"end_ref_usfm": "EXO 12:21"
-},
-{
-"start_ref": "02013013",
-"start_ref_usfm": "EXO 13:13",
-"end_ref": "02013013",
-"end_ref_usfm": "EXO 13:13"
-},
-{
-"start_ref": "02029038",
-"start_ref_usfm": "EXO 29:38",
-"end_ref": "02029038",
-"end_ref_usfm": "EXO 29:38"
-},
-{
-"start_ref": "02029039",
-"start_ref_usfm": "EXO 29:39",
-"end_ref": "02029039",
-"end_ref_usfm": "EXO 29:39"
-},
-{
-"start_ref": "02029040",
-"start_ref_usfm": "EXO 29:40",
-"end_ref": "02029040",
-"end_ref_usfm": "EXO 29:40"
-},
-{
-"start_ref": "02029041",
-"start_ref_usfm": "EXO 29:41",
-"end_ref": "02029041",
-"end_ref_usfm": "EXO 29:41"
-},
-{
-"start_ref": "02034020",
-"start_ref_usfm": "EXO 34:20",
-"end_ref": "02034020",
-"end_ref_usfm": "EXO 34:20"
-},
-{
-"start_ref": "10012003",
-"start_ref_usfm": "2SA 12:3",
-"end_ref": "10012003",
-"end_ref_usfm": "2SA 12:3"
-},
-{
-"start_ref": "15006009",
-"start_ref_usfm": "EZR 6:9",
-"end_ref": "15006009",
-"end_ref_usfm": "EZR 6:9"
-},
-{
-"start_ref": "15006017",
-"start_ref_usfm": "EZR 6:17",
-"end_ref": "15006017",
-"end_ref_usfm": "EZR 6:17"
-},
-{
-"start_ref": "15007017",
-"start_ref_usfm": "EZR 7:17",
-"end_ref": "15007017",
-"end_ref_usfm": "EZR 7:17"
-},
-{
-"start_ref": "15008035",
-"start_ref_usfm": "EZR 8:35",
-"end_ref": "15008035",
-"end_ref_usfm": "EZR 8:35"
-},
-{
-"start_ref": "18031020",
-"start_ref_usfm": "JOB 31:20",
-"end_ref": "18031020",
-"end_ref_usfm": "JOB 31:20"
-},
-{
-"start_ref": "20027026",
-"start_ref_usfm": "PRO 27:26",
-"end_ref": "20027026",
-"end_ref_usfm": "PRO 27:26"
-},
-{
-"start_ref": "23066003",
-"start_ref_usfm": "ISA 66:3",
-"end_ref": "23066003",
-"end_ref_usfm": "ISA 66:3"
-},
-{
-"start_ref": "24011019",
-"start_ref_usfm": "JER 11:19",
-"end_ref": "24011019",
-"end_ref_usfm": "JER 11:19"
-},
-{
-"start_ref": "42010003",
-"start_ref_usfm": "LUK 10:3",
-"end_ref": "42010003",
-"end_ref_usfm": "LUK 10:3"
-},
-{
-"start_ref": "43001029",
-"start_ref_usfm": "JHN 1:29",
-"end_ref": "43001029",
-"end_ref_usfm": "JHN 1:29"
-},
-{
-"start_ref": "43001036",
-"start_ref_usfm": "JHN 1:36",
-"end_ref": "43001036",
-"end_ref_usfm": "JHN 1:36"
-},
-{
-"start_ref": "43021015",
-"start_ref_usfm": "JHN 21:15",
-"end_ref": "43021015",
-"end_ref_usfm": "JHN 21:15"
-},
-{
-"start_ref": "44008032",
-"start_ref_usfm": "ACT 8:32",
-"end_ref": "44008032",
-"end_ref_usfm": "ACT 8:32"
-},
-{
-"start_ref": "60001019",
-"start_ref_usfm": "1PE 1:19",
-"end_ref": "60001019",
-"end_ref_usfm": "1PE 1:19"
-},
-{
-"start_ref": "66005006",
-"start_ref_usfm": "REV 5:6",
-"end_ref": "66005006",
-"end_ref_usfm": "REV 5:6"
-},
-{
-"start_ref": "66005008",
-"start_ref_usfm": "REV 5:8",
-"end_ref": "66005008",
-"end_ref_usfm": "REV 5:8"
-},
-{
-"start_ref": "66005012",
-"start_ref_usfm": "REV 5:12",
-"end_ref": "66005012",
-"end_ref_usfm": "REV 5:12"
-},
-{
-"start_ref": "66005013",
-"start_ref_usfm": "REV 5:13",
-"end_ref": "66005013",
-"end_ref_usfm": "REV 5:13"
-},
-{
-"start_ref": "66006001",
-"start_ref_usfm": "REV 6:1",
-"end_ref": "66006001",
-"end_ref_usfm": "REV 6:1"
-},
-{
-"start_ref": "66006016",
-"start_ref_usfm": "REV 6:16",
-"end_ref": "66006016",
-"end_ref_usfm": "REV 6:16"
-},
-{
-"start_ref": "66007009",
-"start_ref_usfm": "REV 7:9",
-"end_ref": "66007009",
-"end_ref_usfm": "REV 7:9"
-},
-{
-"start_ref": "66007010",
-"start_ref_usfm": "REV 7:10",
-"end_ref": "66007010",
-"end_ref_usfm": "REV 7:10"
-},
-{
-"start_ref": "66007014",
-"start_ref_usfm": "REV 7:14",
-"end_ref": "66007014",
-"end_ref_usfm": "REV 7:14"
-},
-{
-"start_ref": "66007017",
-"start_ref_usfm": "REV 7:17",
-"end_ref": "66007017",
-"end_ref_usfm": "REV 7:17"
-},
-{
-"start_ref": "66012011",
-"start_ref_usfm": "REV 12:11",
-"end_ref": "66012011",
-"end_ref_usfm": "REV 12:11"
-},
-{
-"start_ref": "66013008",
-"start_ref_usfm": "REV 13:8",
-"end_ref": "66013008",
-"end_ref_usfm": "REV 13:8"
-},
-{
-"start_ref": "66013011",
-"start_ref_usfm": "REV 13:11",
-"end_ref": "66013011",
-"end_ref_usfm": "REV 13:11"
-},
-{
-"start_ref": "66014001",
-"start_ref_usfm": "REV 14:1",
-"end_ref": "66014001",
-"end_ref_usfm": "REV 14:1"
-},
-{
-"start_ref": "66014004",
-"start_ref_usfm": "REV 14:4",
-"end_ref": "66014004",
-"end_ref_usfm": "REV 14:4"
-},
-{
-"start_ref": "66014010",
-"start_ref_usfm": "REV 14:10",
-"end_ref": "66014010",
-"end_ref_usfm": "REV 14:10"
-},
-{
-"start_ref": "66015003",
-"start_ref_usfm": "REV 15:3",
-"end_ref": "66015003",
-"end_ref_usfm": "REV 15:3"
-},
-{
-"start_ref": "66017014",
-"start_ref_usfm": "REV 17:14",
-"end_ref": "66017014",
-"end_ref_usfm": "REV 17:14"
-},
-{
-"start_ref": "66019007",
-"start_ref_usfm": "REV 19:7",
-"end_ref": "66019007",
-"end_ref_usfm": "REV 19:7"
-},
-{
-"start_ref": "66019009",
-"start_ref_usfm": "REV 19:9",
-"end_ref": "66019009",
-"end_ref_usfm": "REV 19:9"
-},
-{
-"start_ref": "66021009",
-"start_ref_usfm": "REV 21:9",
-"end_ref": "66021009",
-"end_ref_usfm": "REV 21:9"
-},
-{
-"start_ref": "66021014",
-"start_ref_usfm": "REV 21:14",
-"end_ref": "66021014",
-"end_ref_usfm": "REV 21:14"
-},
-{
-"start_ref": "66021022",
-"start_ref_usfm": "REV 21:22",
-"end_ref": "66021022",
-"end_ref_usfm": "REV 21:22"
-},
-{
-"start_ref": "66021023",
-"start_ref_usfm": "REV 21:23",
-"end_ref": "66021023",
-"end_ref_usfm": "REV 21:23"
-},
-{
-"start_ref": "66021027",
-"start_ref_usfm": "REV 21:27",
-"end_ref": "66021027",
-"end_ref_usfm": "REV 21:27"
-},
-{
-"start_ref": "66022001",
-"start_ref_usfm": "REV 22:1",
-"end_ref": "66022001",
-"end_ref_usfm": "REV 22:1"
-},
-{
-"start_ref": "66022003",
-"start_ref_usfm": "REV 22:3",
-"end_ref": "66022003",
-"end_ref_usfm": "REV 22:3"
-},
-{
-"start_ref": "03017001",
-"start_ref_usfm": "LEV 17:1",
-"end_ref": "03017004",
-"end_ref_usfm": "LEV 17:4"
-},
-{
-"start_ref": "66015003",
-"start_ref_usfm": "REV 15:3",
-"end_ref": "66015004",
-"end_ref_usfm": "REV 15:4"
-},
-{
-"start_ref": "15008035",
-"start_ref_usfm": "EZR 8:35",
-"end_ref": "15008036",
-"end_ref_usfm": "EZR 8:36"
-},
-{
-"start_ref": "03014021",
-"start_ref_usfm": "LEV 14:21",
-"end_ref": "03014023",
-"end_ref_usfm": "LEV 14:23"
-}
-],
-"resource": [
-{
-"reference_id": 26224,
-"content_id": 575698,
-"resource_code": "UWTranslationWords",
-"label": "Kondoo",
-"language": "swh"
-},
-{
-"reference_id": 26226,
-"content_id": 575699,
-"resource_code": "UWTranslationWords",
-"label": "Mchungaji",
-"language": "swh"
-}
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575600",
 "reference_id": 26009,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwanachama",
 "media_type": "Text",
 "index_reference": "mwanachama",
@@ -55813,14 +54928,13 @@
 "label": "Farisayo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575448",
 "reference_id": 25669,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwanafunzi",
 "media_type": "Text",
 "index_reference": "mwanafunzi",
@@ -57390,14 +56504,416 @@
 "label": "Kumi na wawili",
 "language": "swh"
 }
+]
+}
+},
+{
+"content_id": "627157",
+"reference_id": 25951,
+"version": "1.0.4",
+"title": "Mwana-kondoo",
+"media_type": "Text",
+"index_reference": "mwanakondoo",
+"language": "swh",
+"review_level": "None",
+"content": "<h1><span>mwana-kondoo</span>, Mwana-Kondoo wa Mungu</h1><h2>Ufafanuzi:</h2><p>Neno &quot;mwana-kondoo&quot; linamaanisha kondoo mdogo. Kondoo ni wanyama wenye miguu minne na manyoya mazito yenye sufu, ambayo hutumika kwa dhabihu kwa Mungu. Yesu anaitwa &quot;Mwana-Kondoo wa Mungu&quot; kwa sababu alitolewa dhabihu kulipia dhambi za watu.</p><ul><li><p>Wanyama hawa huongozwa kwa urahisi na wanahitaji ulinzi. Mungu anawafananisha wanadamu na kondoo.</p></li><li><p>Mungu aliwaagiza watu wake kumtolea dhabihu kondoo na wana-kondoo wasio na dosari.</p></li><li><p>Yesu anaitwa &quot;Mwana-Kondoo wa Mungu&quot; ambaye alitolewa dhabihu ili kulipia dhambi za watu. Alikuwa dhabihu kamilifu, isiyo na dosari kwa sababu hakuwa na dhambi hata kidogo.</p></li></ul><h2>Mapendekezo ya Tafsiri:</h2><ul><li><p>Ikiwa kondoo wanajulikana katika eneo la lugha, jina la watoto wao linapaswa kutumika kutafsiri maneno &quot;mwana-kondoo&quot; na &quot;Mwana-Kondoo wa Mungu.&quot;</p></li><li><p>“Mwana-Kondoo wa Mungu” inaweza kutafsiriwa kama “Mwana-Kondoo wa Mungu (wa dhabihu),” au “Mwana-Kondoo aliyetolewa kama dhabihu kwa Mungu” au “Mwana-Kondoo (wa dhabihu) kutoka kwa Mungu.”</p></li><li><p>Ikiwa kondoo hawajulikani, neno hili linaweza kutafsiriwa kama &quot;kondoo mchanga&quot; na maelezo ya chini yanayoelezea jinsi kondoo walivyo. Kumbuka kwamba pia inaweza kulinganisha kondoo na wana-kondoo na mnyama kutoka eneo hilo anayeishi katika makundi, ambaye ni mwoga, hana ulinzi, na mara nyingi hupotea.</p></li><li><p>Pia fikiria jinsi neno hili linavyotafsiriwa katika tafsiri ya Biblia kwa lugha ya karibu ya eneo hilo au ya kitaifa.</p></li></ul><p>(Tazama: Jinsi ya Kutafsiri Visivyofahamika)</p><p>(Tazama pia: <span data-bnType=\"resourceReference\" data-resourceId=\"26224\" data-resourceType=\"UWTranslationWords\">kondoo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26226\" data-resourceType=\"UWTranslationWords\">mchungaji</span>)</p><h2>Marejeleo ya Biblia:</h2><ul><li><p><a href=\"https://ref.ly/2Sam12:3\">2 Samweli 12:3</a></p></li><li><p><a href=\"https://ref.ly/Ezra8:35-Ezra8:36\">Ezra 8:35–36</a></p></li><li><p><a href=\"https://ref.ly/Isa66:3\">Isaya 66:3</a></p><p><a href=\"https://ref.ly/Jer11:19\">Yeremia 11:19</a></p></li><li><p><a href=\"https://ref.ly/John1:29\">Yohana 1:29</a></p></li><li><p><a href=\"https://ref.ly/John1:36\">Yohana 1:36</a></p></li><li><p><a href=\"https://ref.ly/Lev14:21-Lev14:23\">Walawi 14:21–23</a></p></li><li><p><a href=\"https://ref.ly/Lev17:1-Lev17:4\">Walawi 17:1–4</a></p></li><li><p><a href=\"https://ref.ly/Luke10:3\">Luka 10:3</a></p></li><li><p><a href=\"https://ref.ly/Rev15:3-Rev15:4\">Ufunuo 15:3–4</a></p></li></ul><h2>Mifano kutoka kwenye hadithi za Biblia:</h2><ul><li><p><strong>5:7</strong> Wakati Abrahamu na Isaka walipokuwa wakitembea kuelekea mahali pa dhabihu, Isaka aliuliza, “Baba, tuna kuni za dhabihu, lakini mwana-kondoo yuko wapi?”</p></li><li><p><strong>11:2</strong> Mungu alitoa njia ya kumwokoa mzaliwa wa kwanza wa kila mtu aliyemwamini. Kila familia ilipaswa kuchagua <strong>mwana-kondoo</strong> au mbuzi asiye na dosari na kumchinja.</p></li><li><p><strong>24:6</strong> Siku iliyofuata, Yesu alikuja kubatizwa na Yohana. Yohana alipomwona, alisema, “Tazama! Huyu hapa ni <strong>Mwana-Kondoo wa Mungu</strong> ambaye atachukua dhambi za ulimwengu.”</p></li><li><p><strong>45:8</strong> Alisoma, “Walimuongoza kama <strong>mwana-kondoo</strong> kwenda kuuawa, na kama <strong>mwana-kondoo</strong> aliye kimya, hakusema neno.”</p></li><li><p><strong>48:8</strong> Wakati Mungu alipomwambia Abrahamu amtoe mwanawe Isaka kama dhabihu, Mungu alimpa <strong>mwana-kondoo</strong> kwa ajili ya dhabihu badala ya Isaka. Sote tunastahili kufa kwa sababu ya dhambi zetu! Lakini Mungu alimtoa Yesu, <strong>Mwana-Kondoo</strong> wa Mungu, kama dhabihu ili afe badala yetu.</p></li><li><p><strong>48:9</strong> Wakati Mungu alipotuma pigo la mwisho nchini Misri, aliwaagiza kila familia ya Waisraeli kuchinja <strong>mwana-kondoo</strong> asiye na dosari na kupaka damu yake juu na kando za miimo ya milango yao.</p></li></ul><h2>Data ya Neno:</h2><ul><li><p>Strong&apos;s: H7716, G07210, G23160</p></li></ul>",
+"associations": {
+"passage": [
+{
+"start_ref": "01022007",
+"start_ref_usfm": "GEN 22:7",
+"end_ref": "01022007",
+"end_ref_usfm": "GEN 22:7"
+},
+{
+"start_ref": "01022008",
+"start_ref_usfm": "GEN 22:8",
+"end_ref": "01022008",
+"end_ref_usfm": "GEN 22:8"
+},
+{
+"start_ref": "01030032",
+"start_ref_usfm": "GEN 30:32",
+"end_ref": "01030032",
+"end_ref_usfm": "GEN 30:32"
+},
+{
+"start_ref": "01030033",
+"start_ref_usfm": "GEN 30:33",
+"end_ref": "01030033",
+"end_ref_usfm": "GEN 30:33"
+},
+{
+"start_ref": "01030035",
+"start_ref_usfm": "GEN 30:35",
+"end_ref": "01030035",
+"end_ref_usfm": "GEN 30:35"
+},
+{
+"start_ref": "01030040",
+"start_ref_usfm": "GEN 30:40",
+"end_ref": "01030040",
+"end_ref_usfm": "GEN 30:40"
+},
+{
+"start_ref": "02012003",
+"start_ref_usfm": "EXO 12:3",
+"end_ref": "02012003",
+"end_ref_usfm": "EXO 12:3"
+},
+{
+"start_ref": "02012004",
+"start_ref_usfm": "EXO 12:4",
+"end_ref": "02012004",
+"end_ref_usfm": "EXO 12:4"
+},
+{
+"start_ref": "02012005",
+"start_ref_usfm": "EXO 12:5",
+"end_ref": "02012005",
+"end_ref_usfm": "EXO 12:5"
+},
+{
+"start_ref": "02012021",
+"start_ref_usfm": "EXO 12:21",
+"end_ref": "02012021",
+"end_ref_usfm": "EXO 12:21"
+},
+{
+"start_ref": "02013013",
+"start_ref_usfm": "EXO 13:13",
+"end_ref": "02013013",
+"end_ref_usfm": "EXO 13:13"
+},
+{
+"start_ref": "02029038",
+"start_ref_usfm": "EXO 29:38",
+"end_ref": "02029038",
+"end_ref_usfm": "EXO 29:38"
+},
+{
+"start_ref": "02029039",
+"start_ref_usfm": "EXO 29:39",
+"end_ref": "02029039",
+"end_ref_usfm": "EXO 29:39"
+},
+{
+"start_ref": "02029040",
+"start_ref_usfm": "EXO 29:40",
+"end_ref": "02029040",
+"end_ref_usfm": "EXO 29:40"
+},
+{
+"start_ref": "02029041",
+"start_ref_usfm": "EXO 29:41",
+"end_ref": "02029041",
+"end_ref_usfm": "EXO 29:41"
+},
+{
+"start_ref": "02034020",
+"start_ref_usfm": "EXO 34:20",
+"end_ref": "02034020",
+"end_ref_usfm": "EXO 34:20"
+},
+{
+"start_ref": "10012003",
+"start_ref_usfm": "2SA 12:3",
+"end_ref": "10012003",
+"end_ref_usfm": "2SA 12:3"
+},
+{
+"start_ref": "15006009",
+"start_ref_usfm": "EZR 6:9",
+"end_ref": "15006009",
+"end_ref_usfm": "EZR 6:9"
+},
+{
+"start_ref": "15006017",
+"start_ref_usfm": "EZR 6:17",
+"end_ref": "15006017",
+"end_ref_usfm": "EZR 6:17"
+},
+{
+"start_ref": "15007017",
+"start_ref_usfm": "EZR 7:17",
+"end_ref": "15007017",
+"end_ref_usfm": "EZR 7:17"
+},
+{
+"start_ref": "15008035",
+"start_ref_usfm": "EZR 8:35",
+"end_ref": "15008035",
+"end_ref_usfm": "EZR 8:35"
+},
+{
+"start_ref": "18031020",
+"start_ref_usfm": "JOB 31:20",
+"end_ref": "18031020",
+"end_ref_usfm": "JOB 31:20"
+},
+{
+"start_ref": "20027026",
+"start_ref_usfm": "PRO 27:26",
+"end_ref": "20027026",
+"end_ref_usfm": "PRO 27:26"
+},
+{
+"start_ref": "23066003",
+"start_ref_usfm": "ISA 66:3",
+"end_ref": "23066003",
+"end_ref_usfm": "ISA 66:3"
+},
+{
+"start_ref": "24011019",
+"start_ref_usfm": "JER 11:19",
+"end_ref": "24011019",
+"end_ref_usfm": "JER 11:19"
+},
+{
+"start_ref": "42010003",
+"start_ref_usfm": "LUK 10:3",
+"end_ref": "42010003",
+"end_ref_usfm": "LUK 10:3"
+},
+{
+"start_ref": "43001029",
+"start_ref_usfm": "JHN 1:29",
+"end_ref": "43001029",
+"end_ref_usfm": "JHN 1:29"
+},
+{
+"start_ref": "43001036",
+"start_ref_usfm": "JHN 1:36",
+"end_ref": "43001036",
+"end_ref_usfm": "JHN 1:36"
+},
+{
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021015",
+"end_ref_usfm": "JHN 21:15"
+},
+{
+"start_ref": "44008032",
+"start_ref_usfm": "ACT 8:32",
+"end_ref": "44008032",
+"end_ref_usfm": "ACT 8:32"
+},
+{
+"start_ref": "60001019",
+"start_ref_usfm": "1PE 1:19",
+"end_ref": "60001019",
+"end_ref_usfm": "1PE 1:19"
+},
+{
+"start_ref": "66005006",
+"start_ref_usfm": "REV 5:6",
+"end_ref": "66005006",
+"end_ref_usfm": "REV 5:6"
+},
+{
+"start_ref": "66005008",
+"start_ref_usfm": "REV 5:8",
+"end_ref": "66005008",
+"end_ref_usfm": "REV 5:8"
+},
+{
+"start_ref": "66005012",
+"start_ref_usfm": "REV 5:12",
+"end_ref": "66005012",
+"end_ref_usfm": "REV 5:12"
+},
+{
+"start_ref": "66005013",
+"start_ref_usfm": "REV 5:13",
+"end_ref": "66005013",
+"end_ref_usfm": "REV 5:13"
+},
+{
+"start_ref": "66006001",
+"start_ref_usfm": "REV 6:1",
+"end_ref": "66006001",
+"end_ref_usfm": "REV 6:1"
+},
+{
+"start_ref": "66006016",
+"start_ref_usfm": "REV 6:16",
+"end_ref": "66006016",
+"end_ref_usfm": "REV 6:16"
+},
+{
+"start_ref": "66007009",
+"start_ref_usfm": "REV 7:9",
+"end_ref": "66007009",
+"end_ref_usfm": "REV 7:9"
+},
+{
+"start_ref": "66007010",
+"start_ref_usfm": "REV 7:10",
+"end_ref": "66007010",
+"end_ref_usfm": "REV 7:10"
+},
+{
+"start_ref": "66007014",
+"start_ref_usfm": "REV 7:14",
+"end_ref": "66007014",
+"end_ref_usfm": "REV 7:14"
+},
+{
+"start_ref": "66007017",
+"start_ref_usfm": "REV 7:17",
+"end_ref": "66007017",
+"end_ref_usfm": "REV 7:17"
+},
+{
+"start_ref": "66012011",
+"start_ref_usfm": "REV 12:11",
+"end_ref": "66012011",
+"end_ref_usfm": "REV 12:11"
+},
+{
+"start_ref": "66013008",
+"start_ref_usfm": "REV 13:8",
+"end_ref": "66013008",
+"end_ref_usfm": "REV 13:8"
+},
+{
+"start_ref": "66013011",
+"start_ref_usfm": "REV 13:11",
+"end_ref": "66013011",
+"end_ref_usfm": "REV 13:11"
+},
+{
+"start_ref": "66014001",
+"start_ref_usfm": "REV 14:1",
+"end_ref": "66014001",
+"end_ref_usfm": "REV 14:1"
+},
+{
+"start_ref": "66014004",
+"start_ref_usfm": "REV 14:4",
+"end_ref": "66014004",
+"end_ref_usfm": "REV 14:4"
+},
+{
+"start_ref": "66014010",
+"start_ref_usfm": "REV 14:10",
+"end_ref": "66014010",
+"end_ref_usfm": "REV 14:10"
+},
+{
+"start_ref": "66015003",
+"start_ref_usfm": "REV 15:3",
+"end_ref": "66015003",
+"end_ref_usfm": "REV 15:3"
+},
+{
+"start_ref": "66017014",
+"start_ref_usfm": "REV 17:14",
+"end_ref": "66017014",
+"end_ref_usfm": "REV 17:14"
+},
+{
+"start_ref": "66019007",
+"start_ref_usfm": "REV 19:7",
+"end_ref": "66019007",
+"end_ref_usfm": "REV 19:7"
+},
+{
+"start_ref": "66019009",
+"start_ref_usfm": "REV 19:9",
+"end_ref": "66019009",
+"end_ref_usfm": "REV 19:9"
+},
+{
+"start_ref": "66021009",
+"start_ref_usfm": "REV 21:9",
+"end_ref": "66021009",
+"end_ref_usfm": "REV 21:9"
+},
+{
+"start_ref": "66021014",
+"start_ref_usfm": "REV 21:14",
+"end_ref": "66021014",
+"end_ref_usfm": "REV 21:14"
+},
+{
+"start_ref": "66021022",
+"start_ref_usfm": "REV 21:22",
+"end_ref": "66021022",
+"end_ref_usfm": "REV 21:22"
+},
+{
+"start_ref": "66021023",
+"start_ref_usfm": "REV 21:23",
+"end_ref": "66021023",
+"end_ref_usfm": "REV 21:23"
+},
+{
+"start_ref": "66021027",
+"start_ref_usfm": "REV 21:27",
+"end_ref": "66021027",
+"end_ref_usfm": "REV 21:27"
+},
+{
+"start_ref": "66022001",
+"start_ref_usfm": "REV 22:1",
+"end_ref": "66022001",
+"end_ref_usfm": "REV 22:1"
+},
+{
+"start_ref": "66022003",
+"start_ref_usfm": "REV 22:3",
+"end_ref": "66022003",
+"end_ref_usfm": "REV 22:3"
+},
+{
+"start_ref": "03017001",
+"start_ref_usfm": "LEV 17:1",
+"end_ref": "03017004",
+"end_ref_usfm": "LEV 17:4"
+},
+{
+"start_ref": "66015003",
+"start_ref_usfm": "REV 15:3",
+"end_ref": "66015004",
+"end_ref_usfm": "REV 15:4"
+},
+{
+"start_ref": "15008035",
+"start_ref_usfm": "EZR 8:35",
+"end_ref": "15008036",
+"end_ref_usfm": "EZR 8:36"
+},
+{
+"start_ref": "03014021",
+"start_ref_usfm": "LEV 14:21",
+"end_ref": "03014023",
+"end_ref_usfm": "LEV 14:23"
+}
 ],
-"acai": []
+"resource": [
+{
+"reference_id": 26224,
+"content_id": 575698,
+"resource_code": "UWTranslationWords",
+"label": "Kondoo",
+"language": "swh"
+},
+{
+"reference_id": 26226,
+"content_id": 575699,
+"resource_code": "UWTranslationWords",
+"label": "Mchungaji",
+"language": "swh"
+}
+]
 }
 },
 {
 "content_id": "627260",
 "reference_id": 26122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwanamfalme",
 "media_type": "Text",
 "index_reference": "mwanamfalme",
@@ -57549,14 +57065,13 @@
 "label": "Mwokozi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575689",
 "reference_id": 26204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwandishi",
 "media_type": "Text",
 "index_reference": "mwandishi",
@@ -58067,14 +57582,13 @@
 "label": "Farisayo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575446",
 "reference_id": 25664,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwangamizi",
 "media_type": "Text",
 "index_reference": "mwangamizi",
@@ -58395,14 +57909,13 @@
 "label": "Mzaliwa wa Kwanza",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627272",
 "reference_id": 26139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwenye busara",
 "media_type": "Text",
 "index_reference": "mwenye busara",
@@ -58590,14 +58103,13 @@
 "label": "Mwerevu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575675",
 "reference_id": 26177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwenye Haki",
 "media_type": "Text",
 "index_reference": "mwenye haki",
@@ -60633,21 +60145,21 @@
 {
 "reference_id": 25958,
 "content_id": 575583,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Halali",
 "language": "swh"
 },
 {
 "reference_id": 25959,
 "content_id": 575584,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Sheria ya Mose",
 "language": "swh"
 },
 {
 "reference_id": 26142,
 "content_id": 575655,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Safisha",
 "language": "swh"
 },
@@ -60672,14 +60184,13 @@
 "label": "Sheria",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626895",
 "reference_id": 25477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwenye kiburi",
 "media_type": "Text",
 "index_reference": "mwenye kiburi",
@@ -60746,14 +60257,13 @@
 "label": "Mwenye kiburi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627094",
 "reference_id": 25824,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwenye kiburi",
 "media_type": "Text",
 "index_reference": "mwenye kiburi",
@@ -60801,14 +60311,13 @@
 "label": "Mwenye kiburi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627268",
 "reference_id": 26135,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwenye kiburi",
 "media_type": "Text",
 "index_reference": "mwenye kiburi",
@@ -61014,14 +60523,13 @@
 "label": "Kiburi-Hisia za chanya",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626872",
 "reference_id": 25445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwenyezi",
 "media_type": "Text",
 "index_reference": "mwenyezi",
@@ -61328,14 +60836,13 @@
 "label": "Bwana",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626975",
 "reference_id": 25601,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwenzi",
 "media_type": "Text",
 "index_reference": "mwenzi",
@@ -61567,14 +61074,13 @@
 "end_ref_usfm": "PSA 38:12"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "627318",
 "reference_id": 26231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwerevu",
 "media_type": "Text",
 "index_reference": "mwerevu",
@@ -61596,14 +61102,13 @@
 "end_ref_usfm": "EXO 21:14"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575772",
 "reference_id": 26350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwerevu",
 "media_type": "Text",
 "index_reference": "mwerevu",
@@ -62773,14 +62278,13 @@
 "label": "Tunda",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626959",
 "reference_id": 25578,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwerezi",
 "media_type": "Text",
 "index_reference": "mwerezi",
@@ -62860,14 +62364,13 @@
 "label": "Hekalu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627221",
 "reference_id": 26052,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwezi Mpya",
 "media_type": "Text",
 "index_reference": "mwezi mpya",
@@ -62955,14 +62458,13 @@
 "label": "Pembe",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626936",
 "reference_id": 25536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwezi wa Wakati wa Kibiblia",
 "media_type": "Text",
 "index_reference": "mwezi wa wakati wa kibiblia",
@@ -63248,14 +62750,13 @@
 "end_ref_usfm": "ACT 18:11"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575736",
 "reference_id": 26299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwiba",
 "media_type": "Text",
 "index_reference": "mwiba",
@@ -63413,14 +62914,13 @@
 "label": "Roho",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627016",
 "reference_id": 25680,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwimo wa mlango",
 "media_type": "Text",
 "index_reference": "mwimo wa mlango",
@@ -63487,14 +62987,13 @@
 "label": "Pasaka",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627037",
 "reference_id": 25716,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwinjilisti",
 "media_type": "Text",
 "index_reference": "mwinjilisti",
@@ -63543,14 +63042,13 @@
 "label": "Roho",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575734",
 "reference_id": 26297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwizi",
 "media_type": "Text",
 "index_reference": "mwizi",
@@ -63830,14 +63328,13 @@
 "label": "Mwangamizi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627300",
 "reference_id": 26202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mwokozi",
 "media_type": "Text",
 "index_reference": "mwokozi",
@@ -64019,7 +63516,7 @@
 {
 "reference_id": 25657,
 "content_id": 575441,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Mkombozi",
 "language": "swh"
 },
@@ -64037,14 +63534,13 @@
 "label": "Okoa",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575558",
 "reference_id": 25902,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Myahudi",
 "media_type": "Text",
 "index_reference": "myahudi",
@@ -65284,22 +64780,13 @@
 "label": "Viongozi wa Kiyahudi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Jehudijah",
-"type": "person",
-"preferred_label": "Myahudi",
-"confidence": 1.0,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "575759",
 "reference_id": 26335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mzabibu",
 "media_type": "Text",
 "index_reference": "mzabibu",
@@ -65432,14 +64919,13 @@
 "label": "Shamba la mizabibu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627050",
 "reference_id": 25742,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mzaliwa wa Kwanza",
 "media_type": "Text",
 "index_reference": "mzaliwa wa kwanza",
@@ -65710,14 +65196,13 @@
 "label": "Dhabihu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "627003",
 "reference_id": 25660,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mzawa",
 "media_type": "Text",
 "index_reference": "mzawa",
@@ -65876,14 +65361,13 @@
 "label": "Nuhu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575457",
 "reference_id": 25693,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "mzee",
 "media_type": "Text",
 "index_reference": "mzee",
@@ -66499,14 +65983,13 @@
 "end_ref_usfm": "MAT 21:24"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575622",
 "reference_id": 26062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mzeituni",
 "media_type": "Text",
 "index_reference": "mzeituni",
@@ -66722,15 +66205,6 @@
 "resource_code": "UWTranslationWords",
 "label": " Mlima wa Mizeituni",
 "language": "swh"
-}
-],
-"acai": [
-{
-"id": "place:OlivesMount",
-"type": "place",
-"preferred_label": "Mizeituni",
-"confidence": 0.6073,
-"match_method": "scored"
 }
 ]
 }

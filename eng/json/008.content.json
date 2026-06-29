@@ -2,7 +2,7 @@
 {
 "content_id": "26621",
 "reference_id": 25763,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gabriel",
 "media_type": "Text",
 "index_reference": "gabriel",
@@ -93,22 +93,13 @@
 "label": "Zechariah NT",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:Gabriel",
-"type": "deity",
-"preferred_label": "Gabriel",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26622",
 "reference_id": 25764,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gad",
 "media_type": "Text",
 "index_reference": "gad",
@@ -200,29 +191,13 @@
 "label": "Zilpah",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Gad.2",
-"type": "person",
-"preferred_label": "Gad",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Gad",
-"type": "person",
-"preferred_label": "Gad",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26623",
 "reference_id": 25765,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galatia",
 "media_type": "Text",
 "index_reference": "galatia",
@@ -328,22 +303,13 @@
 "label": "Paul",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Galatia",
-"type": "place",
-"preferred_label": "Galatia",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26624",
 "reference_id": 25766,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galilee",
 "media_type": "Text",
 "index_reference": "galilee",
@@ -819,36 +785,13 @@
 "label": "Sea of Galilee",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Judea",
-"confidence": 0.6747,
-"match_method": "scored"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"preferred_label": "Galileans",
-"confidence": 0.6533,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26625",
 "reference_id": 25767,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gate",
 "media_type": "Text",
 "index_reference": "gate",
@@ -1542,92 +1485,13 @@
 "end_ref_usfm": "DEU 21:19"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:WaterGate",
-"type": "place",
-"preferred_label": "Water Gate",
-"confidence": 0.6174,
-"match_method": "scored"
-},
-{
-"id": "realia:Door",
-"type": "realia",
-"preferred_label": "Door",
-"confidence": 0.6104,
-"match_method": "scored"
-},
-{
-"id": "place:DungGate",
-"type": "place",
-"preferred_label": "Dung Gate",
-"confidence": 0.6104,
-"match_method": "scored"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"preferred_label": "Sheep Gate",
-"confidence": 0.6104,
-"match_method": "scored"
-},
-{
-"id": "place:ValleyGate",
-"type": "place",
-"preferred_label": "Valley Gate",
-"confidence": 0.6104,
-"match_method": "scored"
-},
-{
-"id": "place:FountainGate",
-"type": "place",
-"preferred_label": "Fountain Gate",
-"confidence": 0.6104,
-"match_method": "scored"
-},
-{
-"id": "place:FishGate",
-"type": "place",
-"preferred_label": "Fish Gate",
-"confidence": 0.607,
-"match_method": "scored"
-},
-{
-"id": "place:BeautifulGate",
-"type": "place",
-"preferred_label": "Beautiful Gate",
-"confidence": 0.607,
-"match_method": "scored"
-},
-{
-"id": "place:EphraimGate",
-"type": "place",
-"preferred_label": "Ephraim Gate",
-"confidence": 0.607,
-"match_method": "scored"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"preferred_label": "Horse Gate",
-"confidence": 0.6035,
-"match_method": "scored"
-},
-{
-"id": "place:EastGate",
-"type": "place",
-"preferred_label": "East Gate",
-"confidence": 0.6035,
-"match_method": "scored"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "26626",
 "reference_id": 25768,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gath",
 "media_type": "Text",
 "index_reference": "gath",
@@ -1704,22 +1568,13 @@
 "label": "Philistines",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gath",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26627",
 "reference_id": 25769,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gaza",
 "media_type": "Text",
 "index_reference": "gaza",
@@ -1795,22 +1650,13 @@
 "label": "Philistines",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26630",
 "reference_id": 25772,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Generation",
 "media_type": "Text",
 "index_reference": "generation",
@@ -2308,17 +2154,16 @@
 "label": "Descendant",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26628",
 "reference_id": 25770,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Generation-Group of Descendants",
 "media_type": "Text",
-"index_reference": "generation-group of descendants",
+"index_reference": "generationgroup of descendants",
 "language": "eng",
 "review_level": "None",
 "content": "<h1>generation</h1><h2>Definition:</h2><p>The term “generation” in this sense refers to a group of descendants who are born to a set of parents. For example, if a certain couple is counted as the first generation, then their children are the second generation, their grandchildren are the third generation, etc. in their family line.</p><h2>Translation Suggestions</h2><ul><li><p>“Generations” could be translated as “descendants” or “descendant groups” or “children and their children.”</p></li><li><p>The phrase “throughout your generations” could be translated as “for every one of your descendants” or “to your children and to every one after them”</p></li><li><p>“A generation to come will serve him; they will tell the next generation about Yahweh” could be translated as “Many people in the future will serve Yahweh and will tell their children and grandchildren about him.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_ancestor\" data-resourceType=\"UWTranslationWords\">ancestor</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
@@ -2332,30 +2177,28 @@
 "label": "Descendant",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26629",
 "reference_id": 25771,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Generation-People Who Live in Same Time Period",
 "media_type": "Text",
-"index_reference": "generation-people who live in same time period",
+"index_reference": "generationpeople who live in same time period",
 "language": "eng",
 "review_level": "None",
 "content": "<h1>generation</h1><h2>Definition:</h2><p>The term “generation” in this sense refers to people who are alive at the same time. These people generally share the same culture, experiences, and way of life.</p><h2>Translation Suggestions</h2><ul><li><p>The phrase “the generation of his fathers” could be translated as “his ancestors” or “those who have lived before him.”</p></li><li><p>The phrase “this generation” or “people of this generation” could be translated as “the people living now” or “you people.”</p></li><li><p>The phrase “future generations” could be translated as “those living after us” or “people living at a later time.”</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "26631",
 "reference_id": 25773,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gentile",
 "media_type": "Text",
 "index_reference": "gentile",
@@ -2903,22 +2746,13 @@
 "label": "Jew",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "group:Gentile",
-"type": "group",
-"preferred_label": "Gentiles",
-"confidence": 0.7385,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26632",
 "reference_id": 25774,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gerar",
 "media_type": "Text",
 "index_reference": "gerar",
@@ -3017,22 +2851,13 @@
 "label": "Philistines",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Gerar",
-"type": "place",
-"preferred_label": "Gerar",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26633",
 "reference_id": 25775,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Geshur",
 "media_type": "Text",
 "index_reference": "geshur",
@@ -3095,29 +2920,13 @@
 "label": "Sea of Galilee",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Geshur",
-"type": "place",
-"preferred_label": "Geshur",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "group:Geshur",
-"type": "group",
-"preferred_label": "Geshurites",
-"confidence": 0.7143,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26634",
 "reference_id": 25776,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gethsemane",
 "media_type": "Text",
 "index_reference": "gethsemane",
@@ -3161,22 +2970,13 @@
 "label": "Mount of Olives",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Gethsemane",
-"type": "place",
-"preferred_label": "Gethsemane",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26635",
 "reference_id": 25777,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Giant",
 "media_type": "Text",
 "index_reference": "giant",
@@ -3220,14 +3020,13 @@
 "label": "Philistines",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26636",
 "reference_id": 25778,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gibeah",
 "media_type": "Text",
 "index_reference": "gibeah",
@@ -3283,36 +3082,13 @@
 "label": "Jerusalem",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Gibeah.1",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Gibeah",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Gibeah.2",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 0.7833,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26637",
 "reference_id": 25779,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gibeon",
 "media_type": "Text",
 "index_reference": "gibeon",
@@ -3374,29 +3150,13 @@
 "label": "Jerusalem",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Gibeon",
-"type": "place",
-"preferred_label": "Gibeon",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "group:Gibeon",
-"type": "group",
-"preferred_label": "Gibeonites",
-"confidence": 0.6444,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26638",
 "reference_id": 25780,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gideon",
 "media_type": "Text",
 "index_reference": "gideon",
@@ -3440,7 +3200,7 @@
 {
 "reference_id": 25483,
 "content_id": 26341,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Asherim",
 "language": "eng"
 },
@@ -3454,7 +3214,7 @@
 {
 "reference_id": 25657,
 "content_id": 26515,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Deliverer",
 "language": "eng"
 },
@@ -3472,22 +3232,13 @@
 "label": "Yahweh",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Gideon",
-"type": "person",
-"preferred_label": "Gideon",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26639",
 "reference_id": 25781,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilead",
 "media_type": "Text",
 "index_reference": "gilead",
@@ -3605,43 +3356,13 @@
 "label": "Reuben",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Gilead.2",
-"type": "person",
-"preferred_label": "Gilead",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Gilead.3",
-"type": "person",
-"preferred_label": "Gilead",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Gilead",
-"type": "person",
-"preferred_label": "Gilead",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Gilead",
-"type": "place",
-"preferred_label": "Gilead",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26640",
 "reference_id": 25782,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilgal",
 "media_type": "Text",
 "index_reference": "gilgal",
@@ -3710,43 +3431,13 @@
 "label": "Jordan River",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Gilgal.4",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilee",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Gilgal.3",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.65,
-"match_method": "scored"
-},
-{
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.65,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26641",
 "reference_id": 25783,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gird",
 "media_type": "Text",
 "index_reference": "gird",
@@ -3860,14 +3551,13 @@
 "label": "Loins",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26642",
 "reference_id": 25784,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Girgashites",
 "media_type": "Text",
 "index_reference": "girgashites",
@@ -3941,22 +3631,13 @@
 "label": "Noah",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "group:Girgashites",
-"type": "group",
-"preferred_label": "Girgashites",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26643",
 "reference_id": 25785,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Glean",
 "media_type": "Text",
 "index_reference": "glean",
@@ -4079,14 +3760,13 @@
 "label": "Ruth",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26644",
 "reference_id": 25786,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Glory",
 "media_type": "Text",
 "index_reference": "glory",
@@ -5511,22 +5191,13 @@
 "label": "Praise",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.9464,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26645",
 "reference_id": 25787,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goat",
 "media_type": "Text",
 "index_reference": "goat",
@@ -5758,22 +5429,13 @@
 "label": "Wine",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"preferred_label": "Goat",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26646",
 "reference_id": 25788,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God",
 "media_type": "Text",
 "index_reference": "god",
@@ -14601,7 +14263,7 @@
 {
 "reference_id": 25624,
 "content_id": 26482,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Creation",
 "language": "eng"
 },
@@ -14640,22 +14302,13 @@
 "label": "Yahweh",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26648",
 "reference_id": 25790,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God the Father",
 "media_type": "Text",
 "index_reference": "god the father",
@@ -16075,22 +15728,13 @@
 "label": "Son of God",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"preferred_label": "LORD",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26647",
 "reference_id": 25789,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Godly",
 "media_type": "Text",
 "index_reference": "godly",
@@ -16356,14 +16000,13 @@
 "label": "Righteous",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26649",
 "reference_id": 25791,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gold",
 "media_type": "Text",
 "index_reference": "gold",
@@ -17490,14 +17133,13 @@
 "label": "Temple",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26650",
 "reference_id": 25792,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Golgotha",
 "media_type": "Text",
 "index_reference": "golgotha",
@@ -17540,22 +17182,13 @@
 "label": "Mount of Olives",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Golgotha",
-"type": "place",
-"preferred_label": "Golgotha",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26651",
 "reference_id": 25793,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goliath",
 "media_type": "Text",
 "index_reference": "goliath",
@@ -17604,22 +17237,13 @@
 "label": "Philistines",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Goliath",
-"type": "person",
-"preferred_label": "Goliath",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26652",
 "reference_id": 25794,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gomorrah",
 "media_type": "Text",
 "index_reference": "gomorrah",
@@ -17767,22 +17391,13 @@
 "label": "Sodom",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Gomorrah",
-"type": "place",
-"preferred_label": "Gomorrah",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26653",
 "reference_id": 25795,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Good",
 "media_type": "Text",
 "index_reference": "good",
@@ -20028,29 +19643,13 @@
 "label": "Righteous",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"preferred_label": "Good",
-"confidence": 0.6895,
-"match_method": "scored"
-},
-{
-"id": "keyterm:Honest",
-"type": "keyterm",
-"preferred_label": "Honest",
-"confidence": 0.6097,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26654",
 "reference_id": 25796,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Good News",
 "media_type": "Text",
 "index_reference": "good news",
@@ -20676,22 +20275,13 @@
 "label": "Save",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:GoodNews",
-"type": "keyterm",
-"preferred_label": "Good News",
-"confidence": 0.9802,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26655",
 "reference_id": 25797,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goshen",
 "media_type": "Text",
 "index_reference": "goshen",
@@ -20826,29 +20416,13 @@
 "label": "Nile River",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Goshen.2",
-"type": "place",
-"preferred_label": "Goshen",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "place:Goshen",
-"type": "place",
-"preferred_label": "Goshen",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26656",
 "reference_id": 25798,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gossip",
 "media_type": "Text",
 "index_reference": "gossip",
@@ -20902,14 +20476,13 @@
 "label": "Slander",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26657",
 "reference_id": 25799,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Governor",
 "media_type": "Text",
 "index_reference": "governor",
@@ -21255,14 +20828,13 @@
 "label": "Ruler",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26658",
 "reference_id": 25800,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grace",
 "media_type": "Text",
 "index_reference": "grace",
@@ -22058,29 +21630,13 @@
 "end_ref_usfm": "GEN 43:29"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "Favor",
-"confidence": 0.9515,
-"match_method": "scored"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"preferred_label": "Kindness",
-"confidence": 0.6121,
-"match_method": "scored"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "26659",
 "reference_id": 25801,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grain",
 "media_type": "Text",
 "index_reference": "grain",
@@ -22416,29 +21972,13 @@
 "label": "Wheat",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Grain",
-"type": "flora",
-"preferred_label": "Grain",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "flora:Wheat",
-"type": "flora",
-"preferred_label": "Wheat",
-"confidence": 0.6571,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26660",
 "reference_id": 25802,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grain Offering",
 "media_type": "Text",
 "index_reference": "grain offering",
@@ -22531,22 +22071,13 @@
 "label": "Sin Offering",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.6194,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "26661",
 "reference_id": 25803,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grape",
 "media_type": "Text",
 "index_reference": "grape",
@@ -22656,22 +22187,13 @@
 "label": "Wine",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Vine",
-"type": "flora",
-"preferred_label": "Vine",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26662",
 "reference_id": 25804,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Greece",
 "media_type": "Text",
 "index_reference": "greece",
@@ -22766,22 +22288,13 @@
 "label": "Thessalonica",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Greece",
-"type": "place",
-"preferred_label": "Greece",
-"confidence": 1.0,
-"match_method": "content_id"
-}
 ]
 }
 },
 {
 "content_id": "26663",
 "reference_id": 25805,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Greek",
 "media_type": "Text",
 "index_reference": "greek",
@@ -23022,25 +22535,9 @@
 {
 "reference_id": 141791,
 "content_id": 212318,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "John 12:20 (#2)",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "group:Greek",
-"type": "group",
-"preferred_label": "Greeks",
-"confidence": 1.0,
-"match_method": "content_id"
-},
-{
-"id": "person:Javan",
-"type": "person",
-"preferred_label": "Javan",
-"confidence": 0.7441,
-"match_method": "scored"
 }
 ]
 }
@@ -23048,7 +22545,7 @@
 {
 "content_id": "26664",
 "reference_id": 25806,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Guilt",
 "media_type": "Text",
 "index_reference": "guilt",
@@ -23225,14 +22722,13 @@
 "label": "Sin",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "26665",
 "reference_id": 25807,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Guilt Offering",
 "media_type": "Text",
 "index_reference": "guilt offering",
@@ -23300,15 +22796,6 @@
 "resource_code": "UWTranslationWords",
 "label": "Sin Offering",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"preferred_label": "Offering",
-"confidence": 0.5952,
-"match_method": "scored"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "627276",
 "reference_id": 26147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raba",
 "media_type": "Text",
 "index_reference": "raba",
@@ -57,14 +57,13 @@
 "label": "Daudi",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575658",
 "reference_id": 26148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rabi",
 "media_type": "Text",
 "index_reference": "rabi",
@@ -202,14 +201,13 @@
 "label": "Mwalimu",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "575660",
 "reference_id": 26151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahabu",
 "media_type": "Text",
 "index_reference": "rahabu",
@@ -277,22 +275,13 @@
 "label": "Malaya",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Rahab",
-"type": "person",
-"preferred_label": "Rahabu",
-"confidence": 0.7778,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575659",
 "reference_id": 26149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raheli",
 "media_type": "Text",
 "index_reference": "raheli",
@@ -621,22 +610,13 @@
 "label": "Lea",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Rachel",
-"type": "person",
-"preferred_label": "Raheli",
-"confidence": 0.9739,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "626970",
 "reference_id": 25593,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raiya",
 "media_type": "Text",
 "index_reference": "raiya",
@@ -741,29 +721,13 @@
 "label": "Rumi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Reaiah.2",
-"type": "person",
-"preferred_label": "Reaya",
-"confidence": 0.8886,
-"match_method": "embedding"
-},
-{
-"id": "person:Reaiah.3",
-"type": "person",
-"preferred_label": "Reaya",
-"confidence": 0.8886,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "575661",
 "reference_id": 26152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rama",
 "media_type": "Text",
 "index_reference": "rama",
@@ -848,29 +812,13 @@
 "label": "Benyamini",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Ramah.2",
-"type": "place",
-"preferred_label": "Ramah",
-"confidence": 0.6654,
-"match_method": "scored"
-},
-{
-"id": "place:Ramah",
-"type": "place",
-"preferred_label": "Rama",
-"confidence": 0.6308,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627278",
 "reference_id": 26153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ramothi",
 "media_type": "Text",
 "index_reference": "ramothi",
@@ -971,7 +919,7 @@
 {
 "reference_id": 25942,
 "content_id": 627152,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
 },
@@ -982,29 +930,13 @@
 "label": "Kimbilio",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "place:Ramoth-gilead",
-"type": "place",
-"preferred_label": "Ramoth-gileadi",
-"confidence": 0.884,
-"match_method": "scored"
-},
-{
-"id": "place:Remeth",
-"type": "place",
-"preferred_label": "Remethi",
-"confidence": 0.644,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627280",
 "reference_id": 26156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebeka",
 "media_type": "Text",
 "index_reference": "rebeka",
@@ -1250,22 +1182,13 @@
 "label": "Negebu",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Rebekah",
-"type": "person",
-"preferred_label": "Rebeka",
-"confidence": 0.9871,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575666",
 "reference_id": 26163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reed",
 "media_type": "Text",
 "index_reference": "reed",
@@ -1405,36 +1328,13 @@
 "label": "Mto Naili",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "flora:Reed",
-"type": "flora",
-"preferred_label": "Reed",
-"confidence": 0.8222,
-"match_method": "scored"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"preferred_label": "Grass",
-"confidence": 0.5949,
-"match_method": "scored"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"preferred_label": "Papyrus",
-"confidence": 0.5727,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575667",
 "reference_id": 26165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rehoboamu",
 "media_type": "Text",
 "index_reference": "rehoboamu",
@@ -1493,18 +1393,9 @@
 {
 "reference_id": 25942,
 "content_id": 627152,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
-}
-],
-"acai": [
-{
-"id": "person:Rehoboam",
-"type": "person",
-"preferred_label": "Rehoboamu",
-"confidence": 0.8667,
-"match_method": "scored"
 }
 ]
 }
@@ -1512,7 +1403,7 @@
 {
 "content_id": "575672",
 "reference_id": 26172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rejesha",
 "media_type": "Text",
 "index_reference": "rejesha",
@@ -1858,14 +1749,13 @@
 "end_ref_usfm": "LEV 6:7"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "627287",
 "reference_id": 26174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reubeni",
 "media_type": "Text",
 "index_reference": "reubeni",
@@ -1999,22 +1889,13 @@
 "label": "Lea",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "person:Reuben",
-"type": "person",
-"preferred_label": "Reubeni",
-"confidence": 0.9765,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627289",
 "reference_id": 26178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rimoni",
 "media_type": "Text",
 "index_reference": "rimoni",
@@ -2084,29 +1965,13 @@
 "label": "Naamani",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "deity:Rimmon",
-"type": "deity",
-"preferred_label": "Rimoni",
-"confidence": 0.6444,
-"match_method": "scored"
-},
-{
-"id": "person:Rimmon",
-"type": "person",
-"preferred_label": "Rimoni",
-"confidence": 0.6444,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575671",
 "reference_id": 26171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ripoti",
 "media_type": "Text",
 "index_reference": "ripoti",
@@ -2656,14 +2521,13 @@
 "end_ref_usfm": "LUK 8:35"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575714",
 "reference_id": 26257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roho",
 "media_type": "Text",
 "index_reference": "roho",
@@ -3787,22 +3651,13 @@
 "label": "Nafsi",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roho",
-"confidence": 0.6368,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "575528",
 "reference_id": 25844,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roho Mtakatifu",
 "media_type": "Text",
 "index_reference": "roho mtakatifu",
@@ -5163,22 +5018,13 @@
 "label": "Roho",
 "language": "swh"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"preferred_label": "Roho",
-"confidence": 0.7244,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "627291",
 "reference_id": 26181,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rumi",
 "media_type": "Text",
 "index_reference": "rumi",
@@ -5325,7 +5171,7 @@
 {
 "reference_id": 26006,
 "content_id": 627194,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Mediterania",
 "language": "swh"
 },
@@ -5343,14 +5189,13 @@
 "label": "Paulo",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "626946",
 "reference_id": 25556,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rushwa",
 "media_type": "Text",
 "index_reference": "rushwa",
@@ -5426,14 +5271,13 @@
 "end_ref_usfm": "PRO 15:28"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
 "content_id": "575678",
 "reference_id": 26185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruthu",
 "media_type": "Text",
 "index_reference": "ruthu",
@@ -5565,18 +5409,9 @@
 {
 "reference_id": 25930,
 "content_id": 575571,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Nafasi ya Hakimu",
 "language": "swh"
-}
-],
-"acai": [
-{
-"id": "person:Ruth",
-"type": "person",
-"preferred_label": "Ruthu",
-"confidence": 0.925,
-"match_method": "scored"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "675862",
 "reference_id": 25763,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gabriel",
 "media_type": "Text",
 "index_reference": "gabriel",
@@ -54,7 +54,7 @@
 {
 "reference_id": 25912,
 "content_id": 675964,
-"resource_code": "Unknown",
+"resource_code": "UWTranslationWords",
 "label": "Yohanes (Pembaptis)",
 "language": "ind"
 },
@@ -79,22 +79,13 @@
 "label": "Anak Allah",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "deity:Gabriel",
-"type": "deity",
-"preferred_label": "Gabriel",
-"confidence": 0.8667,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675863",
 "reference_id": 25764,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gad",
 "media_type": "Text",
 "index_reference": "gad",
@@ -179,22 +170,13 @@
 "label": "Yacob",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Gad",
-"type": "person",
-"preferred_label": "Gad",
-"confidence": 0.8769,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675864",
 "reference_id": 25765,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galatia",
 "media_type": "Text",
 "index_reference": "galatia",
@@ -300,22 +282,13 @@
 "label": "Paulus",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Galatia",
-"type": "place",
-"preferred_label": "Galatia",
-"confidence": 0.7818,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675865",
 "reference_id": 25766,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galilea",
 "media_type": "Text",
 "index_reference": "galilea",
@@ -791,36 +764,13 @@
 "label": "Danau Galilea",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Galilee",
-"type": "place",
-"preferred_label": "Galilea",
-"confidence": 0.9413,
-"match_method": "scored"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Yehuda",
-"confidence": 0.6117,
-"match_method": "scored"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"preferred_label": "Galileans",
-"confidence": 0.5993,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675915",
 "reference_id": 25863,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gambar",
 "media_type": "Text",
 "index_reference": "gambar",
@@ -1002,22 +952,13 @@
 "label": "Gambar Allah",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Piltai",
-"type": "person",
-"preferred_label": "Piltai",
-"confidence": 0.894,
-"match_method": "embedding"
-}
 ]
 }
 },
 {
 "content_id": "675916",
 "reference_id": 25864,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gambar Allah",
 "media_type": "Text",
 "index_reference": "gambar allah",
@@ -1102,14 +1043,13 @@
 "label": "Anak Allah",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675867",
 "reference_id": 25768,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gat",
 "media_type": "Text",
 "index_reference": "gat",
@@ -1179,22 +1119,13 @@
 "label": "Goliat",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Gath",
-"type": "place",
-"preferred_label": "Gat",
-"confidence": 0.8,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675868",
 "reference_id": 25769,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gaza",
 "media_type": "Text",
 "index_reference": "gaza",
@@ -1256,22 +1187,13 @@
 "label": "Gat",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 0.85,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676228",
 "reference_id": 26313,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gemetar",
 "media_type": "Text",
 "index_reference": "gemetar",
@@ -1507,14 +1429,13 @@
 "label": "Tuan",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675871",
 "reference_id": 25774,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gerar",
 "media_type": "Text",
 "index_reference": "gerar",
@@ -1599,22 +1520,13 @@
 "label": "Bersyeba",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Gerar",
-"type": "place",
-"preferred_label": "Gerar",
-"confidence": 0.9273,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675866",
 "reference_id": 25767,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gerbang",
 "media_type": "Text",
 "index_reference": "gerbang",
@@ -2308,22 +2220,13 @@
 "end_ref_usfm": "DEU 21:19"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "place:CornerGate",
-"type": "place",
-"preferred_label": "Gerbang",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"resource": []
 }
 },
 {
 "content_id": "675872",
 "reference_id": 25775,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gesur",
 "media_type": "Text",
 "index_reference": "gesur",
@@ -2386,29 +2289,13 @@
 "label": "Danau Galilea",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Geshur",
-"type": "place",
-"preferred_label": "Gesur",
-"confidence": 0.6786,
-"match_method": "scored"
-},
-{
-"id": "group:Geshur",
-"type": "group",
-"preferred_label": "Geshurites",
-"confidence": 0.6738,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675873",
 "reference_id": 25776,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Getsemani",
 "media_type": "Text",
 "index_reference": "getsemani",
@@ -2452,22 +2339,13 @@
 "label": "Bukit Zaitun",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Gethsemane",
-"type": "place",
-"preferred_label": "Getsemani",
-"confidence": 1.0,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675874",
 "reference_id": 25778,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gibea",
 "media_type": "Text",
 "index_reference": "gibea",
@@ -2523,22 +2401,13 @@
 "label": "Yerusalem",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Gibeah.2",
-"type": "place",
-"preferred_label": "Gibeah",
-"confidence": 0.7428,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675875",
 "reference_id": 25779,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gibeon",
 "media_type": "Text",
 "index_reference": "gibeon",
@@ -2600,29 +2469,13 @@
 "label": "Yerusalem",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Gibeon",
-"type": "place",
-"preferred_label": "Gibeon",
-"confidence": 0.9111,
-"match_method": "scored"
-},
-{
-"id": "group:Gibeon",
-"type": "group",
-"preferred_label": "Gibeonites",
-"confidence": 0.6444,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675876",
 "reference_id": 25780,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gideon",
 "media_type": "Text",
 "index_reference": "gideon",
@@ -2691,22 +2544,13 @@
 "label": "Midian",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Gideon",
-"type": "person",
-"preferred_label": "Gideon",
-"confidence": 0.7333,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675877",
 "reference_id": 25782,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilgal",
 "media_type": "Text",
 "index_reference": "gilgal",
@@ -2775,29 +2619,13 @@
 "label": "Sungai Yordan",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Gilgal.3",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.65,
-"match_method": "scored"
-},
-{
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.65,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675878",
 "reference_id": 25784,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Girgasi",
 "media_type": "Text",
 "index_reference": "girgasi",
@@ -2864,22 +2692,13 @@
 "label": "Nuh",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "group:Girgashites",
-"type": "group",
-"preferred_label": "Girgashites",
-"confidence": 0.826,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675884",
 "reference_id": 25792,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Golgota",
 "media_type": "Text",
 "index_reference": "golgota",
@@ -2922,22 +2741,13 @@
 "label": "Bukit Zaitun",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Golgotha",
-"type": "place",
-"preferred_label": "Golgotha",
-"confidence": 0.9685,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675885",
 "reference_id": 25793,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goliat",
 "media_type": "Text",
 "index_reference": "goliat",
@@ -2979,22 +2789,13 @@
 "label": "Daud",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "person:Goliath",
-"type": "person",
-"preferred_label": "Goliat",
-"confidence": 0.8,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675886",
 "reference_id": 25794,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gomora",
 "media_type": "Text",
 "index_reference": "gomora",
@@ -3142,22 +2943,13 @@
 "label": "Sodom",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Gomorrah",
-"type": "place",
-"preferred_label": "Gomora",
-"confidence": 0.9529,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "675890",
 "reference_id": 25798,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gosip",
 "media_type": "Text",
 "index_reference": "gosip",
@@ -3211,14 +3003,13 @@
 "label": "Fitnah",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "675889",
 "reference_id": 25797,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gosyen",
 "media_type": "Text",
 "index_reference": "gosyen",
@@ -3353,22 +3144,13 @@
 "label": "Sungai Nil",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:Goshen",
-"type": "place",
-"preferred_label": "Gosyen",
-"confidence": 0.8316,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676171",
 "reference_id": 26205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gulungan",
 "media_type": "Text",
 "index_reference": "gulungan",
@@ -3531,14 +3313,13 @@
 "label": "Firman Allah",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 },
 {
 "content_id": "676057",
 "reference_id": 26033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gunung Hermon",
 "media_type": "Text",
 "index_reference": "gunung hermon",
@@ -3600,22 +3381,13 @@
 "label": "Siria",
 "language": "ind"
 }
-],
-"acai": [
-{
-"id": "place:HermonMount",
-"type": "place",
-"preferred_label": "gunung",
-"confidence": 0.6835,
-"match_method": "scored"
-}
 ]
 }
 },
 {
 "content_id": "676213",
 "reference_id": 26283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Guru",
 "media_type": "Text",
 "index_reference": "guru",
@@ -4042,8 +3814,7 @@
 "label": "<h2>berkhotbah",
 "language": "ind"
 }
-],
-"acai": []
+]
 }
 }
 ]
