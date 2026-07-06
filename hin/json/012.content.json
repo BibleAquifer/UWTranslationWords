@@ -464,6 +464,15 @@
 "label": "दोष",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.9429,
+"match_method": "scored",
+"preferred_label": "Forgive"
+}
 ]
 }
 },
@@ -539,6 +548,15 @@
 "resource_code": "UWTranslationWords",
 "label": "फारस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Ahasuerus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "क्षयर्ष"
 }
 ]
 }

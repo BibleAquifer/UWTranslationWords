@@ -104,6 +104,15 @@
 "label": "見證",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "group:FalseWitnesses",
+"type": "group",
+"confidence": 0.5685,
+"match_method": "scored",
+"preferred_label": "False Witnesses"
+}
 ]
 }
 },
@@ -220,7 +229,8 @@
 "label": "僕人",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

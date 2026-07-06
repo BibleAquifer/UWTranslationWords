@@ -250,6 +250,15 @@
 "label": "Penguasa Yahudi",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hebrews"
+}
 ]
 }
 },
@@ -334,6 +343,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Listra",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ikonium"
 }
 ]
 }
@@ -683,7 +701,8 @@
 "label": "Bersujud",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -776,6 +795,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hakim",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Divine",
+"type": "keyterm",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "ilahi"
 }
 ]
 }
@@ -1583,7 +1611,8 @@
 "label": "Bait Suci",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2856,6 +2885,15 @@
 "label": "Setia",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "bersandar pada"
+}
 ]
 }
 },
@@ -2964,7 +3002,8 @@
 "label": "Yusuf (PL)",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3204,7 +3243,8 @@
 "label": "Cemburu",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3343,6 +3383,15 @@
 "label": "Rut",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Jesse",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isai"
+}
 ]
 }
 },
@@ -3427,6 +3476,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Yacob",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Issachar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isakhar"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isakhar"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.5567,
+"match_method": "scored",
+"preferred_label": "Isakhar"
 }
 ]
 }
@@ -4112,6 +4184,15 @@
 "label": "Sara",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishak"
+}
 ]
 }
 },
@@ -4321,6 +4402,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Sara",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Ishmael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Ishmaelites"
 }
 ]
 }
@@ -6301,6 +6433,29 @@
 "label": "Bangsa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.6187,
+"match_method": "scored",
+"preferred_label": "Israelites"
+}
 ]
 }
 },
@@ -6368,6 +6523,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ilah",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Jezebel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Izebel"
 }
 ]
 }

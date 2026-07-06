@@ -225,6 +225,15 @@
 "label": "褻瀆",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Stain",
+"type": "keyterm",
+"confidence": 0.6316,
+"match_method": "scored",
+"preferred_label": "Defile"
+}
 ]
 }
 },
@@ -309,6 +318,22 @@
 "resource_code": "UWTranslationWords",
 "label": "素祭",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Wine"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }

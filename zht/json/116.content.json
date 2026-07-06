@@ -635,6 +635,22 @@
 "label": "牧羊人",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheep"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"confidence": 0.6162,
+"match_method": "scored",
+"preferred_label": "Sheep Gate"
+}
 ]
 }
 }

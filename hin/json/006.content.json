@@ -203,7 +203,8 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -276,6 +277,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दंडवत करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "High Place"
 }
 ]
 }
@@ -367,6 +377,22 @@
 "resource_code": "UWTranslationWords",
 "label": "आदर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Height",
+"type": "keyterm",
+"confidence": 0.749,
+"match_method": "scored",
+"preferred_label": "Height"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5775,
+"match_method": "scored",
+"preferred_label": "यहोवा"
 }
 ]
 }
@@ -621,6 +647,15 @@
 "label": "शुद्ध",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Camel"
+}
 ]
 }
 },
@@ -717,6 +752,22 @@
 "label": "मेसोपोटामिया",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Ur",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ऊर"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ऊर"
+}
 ]
 }
 },
@@ -809,6 +860,43 @@
 "resource_code": "UWTranslationWords",
 "label": "हित्ती",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Uriah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ऊरिय्याह"
+},
+{
+"id": "person:Uriah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ऊरिय्याह"
+},
+{
+"id": "person:Uriah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ऊरिय्याह"
+},
+{
+"id": "person:Uriah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ऊरिय्याह"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ऊरिय्याह"
 }
 ]
 }

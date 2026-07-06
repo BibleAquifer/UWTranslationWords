@@ -230,6 +230,15 @@
 "label": "थिस्सलुनिके",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मकिदुनिया"
+}
 ]
 }
 },
@@ -300,7 +309,8 @@
 "end_ref_usfm": "LUK 5:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1068,7 +1078,8 @@
 "label": "महासभा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1230,7 +1241,8 @@
 "label": "दाखरस",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1327,6 +1339,15 @@
 "resource_code": "UWTranslationWords",
 "label": "कर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मत्ती"
 }
 ]
 }
@@ -1493,7 +1514,8 @@
 "label": "शिमशोन",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1560,7 +1582,8 @@
 "label": "मेल करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1950,6 +1973,22 @@
 "resource_code": "UWTranslationWords",
 "label": "प्राण",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Mind.2",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "Mind"
 }
 ]
 }
@@ -2354,6 +2393,15 @@
 "label": "पाप",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.9613,
+"match_method": "scored",
+"preferred_label": "Repent"
+}
 ]
 }
 },
@@ -2481,6 +2529,36 @@
 "resource_code": "UWTranslationWords",
 "label": "यूसुफ (पुराना नियम)",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मनश्शे"
+},
+{
+"id": "person:Manasseh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मनश्शे"
+},
+{
+"id": "person:Manasseh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मनश्शे"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मनश्शे"
 }
 ]
 }
@@ -3030,7 +3108,8 @@
 "label": "यहोवा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4032,6 +4111,22 @@
 "label": "सिय्योन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.5625,
+"match_method": "scored",
+"preferred_label": "House"
+}
 ]
 }
 },
@@ -4169,7 +4264,8 @@
 "label": "यूहन्ना 6:31 (#1)",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4379,6 +4475,50 @@
 "label": "कुँवारी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+}
 ]
 }
 },
@@ -4512,6 +4652,15 @@
 "label": "दुष्टात्माएँ थीं",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary Magdalene"
+}
 ]
 }
 },
@@ -4640,6 +4789,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मार्था",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
 }
 ]
 }
@@ -4824,6 +4982,15 @@
 "label": "फ़िरौन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Plague"
+}
 ]
 }
 },
@@ -4902,6 +5069,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मन फिराना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Malachi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मलाकी"
 }
 ]
 }
@@ -5927,6 +6103,22 @@
 "label": "प्रभु",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.7753,
+"match_method": "scored",
+"preferred_label": "In Christ"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.7289,
+"match_method": "scored",
+"preferred_label": "यीशु"
+}
 ]
 }
 },
@@ -5982,7 +6174,8 @@
 "label": "विपत्ति",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6071,6 +6264,22 @@
 "resource_code": "UWTranslationWords",
 "label": "परमेश्वर का पुत्र",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "group:Christ",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मसीही"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.69,
+"match_method": "scored",
+"preferred_label": "यीशु"
 }
 ]
 }
@@ -6205,6 +6414,15 @@
 "label": "राजा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Palace"
+}
 ]
 }
 },
@@ -6318,6 +6536,15 @@
 "resource_code": "UWTranslationWords",
 "label": "राजा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Majesty"
 }
 ]
 }
@@ -7132,7 +7359,8 @@
 "label": "मन्दिर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7400,7 +7628,8 @@
 "label": "यूहन्ना 12:42 (#1)",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8831,6 +9060,15 @@
 "label": "स्तुति",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.9464,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
 ]
 }
 },
@@ -9123,7 +9361,8 @@
 "end_ref_usfm": "ACT 18:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9180,6 +9419,78 @@
 "resource_code": "UWTranslationWords",
 "label": "नप्ताली",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Maacah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
+},
+{
+"id": "person:Maacah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
+},
+{
+"id": "person:Maacah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
+},
+{
+"id": "person:Maacah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
+},
+{
+"id": "person:Maacah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
+},
+{
+"id": "person:Maacah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माओक"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "माका"
 }
 ]
 }
@@ -9288,6 +9599,29 @@
 "resource_code": "UWTranslationWords",
 "label": "फारस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "group:Mede",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मादी"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "मादियों"
+},
+{
+"id": "place:Media",
+"type": "place",
+"confidence": 0.6505,
+"match_method": "scored",
+"preferred_label": "मादियों"
 }
 ]
 }
@@ -9566,7 +9900,8 @@
 "label": "गवाही",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9645,7 +9980,8 @@
 "label": "बचाना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9766,6 +10102,15 @@
 "label": "मरियम (मार्था की बहन)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मार्था"
+}
 ]
 }
 },
@@ -9860,7 +10205,8 @@
 "end_ref_usfm": "EXO 32:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10179,7 +10525,8 @@
 "label": "कब्र",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10328,6 +10675,29 @@
 "label": "गिदोन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Midian",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिद्यान"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिद्यान"
+},
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "मिद्यानी"
+}
 ]
 }
 },
@@ -10435,6 +10805,22 @@
 "resource_code": "UWTranslationWords",
 "label": "बलवा ",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Miriam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिर्याम"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिर्याम"
 }
 ]
 }
@@ -10596,6 +10982,15 @@
 "label": "तम्बू",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
 ]
 }
 },
@@ -10708,6 +11103,15 @@
 "resource_code": "UWTranslationWords",
 "label": "शाऊल (पुराना नियम)",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Mizpah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिस्पा"
 }
 ]
 }
@@ -12398,6 +12802,22 @@
 "label": "कुलपति",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Egypt",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिस्र"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिस्र"
+}
 ]
 }
 },
@@ -12537,6 +12957,57 @@
 "label": "चाँदी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीका"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीका"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीका"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीका"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीका"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaiah"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीका"
+}
 ]
 }
 },
@@ -12618,6 +13089,85 @@
 "label": "फारस",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Michael.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
+}
 ]
 }
 },
@@ -12681,6 +13231,29 @@
 "resource_code": "UWTranslationWords",
 "label": "हनन्याह",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Mishael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीशाएल"
+},
+{
+"id": "person:Mishael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीशाएल"
+},
+{
+"id": "person:Mishael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीशाएल"
 }
 ]
 }
@@ -12924,6 +13497,22 @@
 "label": "जैतून",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+}
 ]
 }
 },
@@ -13160,6 +13749,15 @@
 "label": "यूहन्ना 3:33 (#3)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
+}
 ]
 }
 },
@@ -13347,6 +13945,15 @@
 "resource_code": "UWTranslationWords",
 "label": "परमेश्‍वर का प्रतिरूप",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Image"
 }
 ]
 }
@@ -14151,6 +14758,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बुद्धिमान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.6677,
+"match_method": "scored",
+"preferred_label": "Foolish"
 }
 ]
 }
@@ -16236,6 +16852,15 @@
 "label": "दस आज्ञाएँ",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मूसा"
+}
 ]
 }
 },
@@ -16646,6 +17271,15 @@
 "label": "यूहन्ना 1:29 (#5)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheep"
+}
 ]
 }
 },
@@ -16755,6 +17389,15 @@
 "label": "बलिदान करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Reconcile",
+"type": "keyterm",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Reconcile"
+}
 ]
 }
 },
@@ -16858,7 +17501,8 @@
 "label": "अख़मीरी रोटी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16983,6 +17627,15 @@
 "resource_code": "UWTranslationWords",
 "label": "अख़मीरी रोटी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -17110,6 +17763,15 @@
 "label": "धर्मी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मलिकिसिदक"
+}
 ]
 }
 },
@@ -17177,6 +17839,29 @@
 "resource_code": "UWTranslationWords",
 "label": "शेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Meshech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मेशेक"
+},
+{
+"id": "person:Mash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मश"
+},
+{
+"id": "place:Meshech",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मेशेक"
 }
 ]
 }
@@ -17246,6 +17931,22 @@
 "resource_code": "UWTranslationWords",
 "label": "फरात महानद",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मेसोपोटामिया"
+},
+{
+"id": "place:Aram-naharaim",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Aram-naharaim"
 }
 ]
 }
@@ -17326,6 +18027,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मन्दिर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 0.8042,
+"match_method": "embedding",
+"preferred_label": "Judge"
 }
 ]
 }
@@ -17505,6 +18215,22 @@
 "label": "खारा ताल",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मोआब"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मोआब"
+}
 ]
 }
 },
@@ -17585,6 +18311,22 @@
 "resource_code": "UWTranslationWords",
 "label": "फारस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मोर्दकै"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मोर्दकै"
 }
 ]
 }
@@ -17681,6 +18423,15 @@
 "resource_code": "UWTranslationWords",
 "label": "यहोवा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "deity:Molech",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मोलेक"
 }
 ]
 }

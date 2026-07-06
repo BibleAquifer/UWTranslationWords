@@ -132,7 +132,8 @@
 "end_ref_usfm": "MAT 28:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1203,6 +1204,22 @@
 "resource_code": "UWTranslationWords",
 "label": "酵母",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
 }
 ]
 }

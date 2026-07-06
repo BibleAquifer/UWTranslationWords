@@ -204,6 +204,22 @@
 "label": "Kesaksian",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.9385,
+"match_method": "scored",
+"preferred_label": "tabut"
+}
 ]
 }
 },
@@ -5427,7 +5443,8 @@
 "label": "Bijaksana",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6525,7 +6542,8 @@
 "label": "Bulan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6715,7 +6733,37 @@
 "end_ref_usfm": "GEN 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Unblemished",
+"type": "keyterm",
+"confidence": 0.6774,
+"match_method": "scored",
+"preferred_label": "tak bernoda"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "lengkap"
+},
+{
+"id": "keyterm:WithoutReproach",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "tak bercacat"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.6402,
+"match_method": "scored",
+"preferred_label": "lepas atau bebas dari sumpah"
+}
+]
 }
 },
 {
@@ -7160,6 +7208,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Memerintah",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Throne"
 }
 ]
 }
@@ -8644,6 +8701,15 @@
 "label": "Tuan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.9577,
+"match_method": "scored",
+"preferred_label": "takut"
+}
 ]
 }
 },
@@ -8687,7 +8753,8 @@
 "label": "Janji",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9320,7 +9387,8 @@
 "label": "Perjanjian",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9420,7 +9488,8 @@
 "end_ref_usfm": "GAL 4:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9607,7 +9676,8 @@
 "label": "Pengasingan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9667,7 +9737,8 @@
 "label": "Tahu",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9864,6 +9935,36 @@
 "label": "Bait Suci",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "kudus"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "khusus"
+},
+{
+"id": "realia:TheHolyPlace",
+"type": "realia",
+"confidence": 0.6125,
+"match_method": "scored",
+"preferred_label": "The Holy Place"
+}
 ]
 }
 },
@@ -9950,7 +10051,8 @@
 "label": "Masalah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10358,6 +10460,15 @@
 "label": "Kasih",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.975,
+"match_method": "scored",
+"preferred_label": "kekasih"
+}
 ]
 }
 },
@@ -10394,7 +10505,8 @@
 "label": "Kehormatan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10624,6 +10736,15 @@
 "label": "Dosa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"confidence": 0.6941,
+"match_method": "scored",
+"preferred_label": "tersandung"
+}
 ]
 }
 },
@@ -10727,6 +10848,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Roma",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tesalonika"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.7231,
+"match_method": "scored",
+"preferred_label": "Thessalonians"
 }
 ]
 }
@@ -11096,7 +11233,8 @@
 "label": "Samaria",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11440,6 +11578,15 @@
 "label": "Gambar",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sacred Pillar"
+}
 ]
 }
 },
@@ -11580,7 +11727,8 @@
 "label": "Setia",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11736,7 +11884,8 @@
 "label": "Bersalah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11862,7 +12011,8 @@
 "label": "Kehormatan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11969,6 +12119,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Untuk melayani",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Tychicus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tikhikus"
 }
 ]
 }
@@ -12172,6 +12331,15 @@
 "label": "Untuk melayani",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Timotius"
+}
 ]
 }
 },
@@ -12331,6 +12499,15 @@
 "label": "Untuk melayani",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Titus"
+}
 ]
 }
 },
@@ -12430,6 +12607,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Timotius",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Troas"
 }
 ]
 }
@@ -17101,6 +17287,22 @@
 "label": "Memerintah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
 ]
 }
 },
@@ -17263,7 +17465,8 @@
 "label": "Tunduk",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17345,7 +17548,8 @@
 "end_ref_usfm": "1PE 5:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -17447,6 +17651,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Gambar",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.9667,
+"match_method": "scored",
+"preferred_label": "Kiln"
 }
 ]
 }
@@ -17613,7 +17826,8 @@
 "label": "Nuh",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17777,6 +17991,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Menebus",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:CoverLid",
+"type": "realia",
+"confidence": 0.7105,
+"match_method": "scored",
+"preferred_label": "Cover Lid"
 }
 ]
 }

@@ -214,7 +214,8 @@
 "label": "यहूदा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -451,6 +452,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दाखरस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goat"
 }
 ]
 }
@@ -1470,7 +1480,8 @@
 "label": "पाप",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1576,7 +1587,8 @@
 "end_ref_usfm": "EZK 6:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2036,7 +2048,8 @@
 "end_ref_usfm": "HOS 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2097,6 +2110,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ऊरिय्याह",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बतशेबा"
 }
 ]
 }
@@ -2202,6 +2224,22 @@
 "resource_code": "UWTranslationWords",
 "label": "रिबका",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बतूएल"
+},
+{
+"id": "place:Bethuel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बतूएल"
 }
 ]
 }
@@ -2377,7 +2415,8 @@
 "label": "निंदा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2565,6 +2604,15 @@
 "label": "धर्मी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.7655,
+"match_method": "scored",
+"preferred_label": "Avenge"
+}
 ]
 }
 },
@@ -2651,6 +2699,92 @@
 "resource_code": "UWTranslationWords",
 "label": "सुलैमान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Benaiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बनायाह"
 }
 ]
 }
@@ -2846,7 +2980,8 @@
 "label": "बन्दी बनाना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3288,7 +3423,8 @@
 "end_ref_usfm": "ACT 16:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3776,7 +3912,8 @@
 "label": "मन फिराना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3830,6 +3967,15 @@
 "resource_code": "UWTranslationWords",
 "label": "निवासस्थान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Acacia"
 }
 ]
 }
@@ -3934,6 +4080,15 @@
 "label": "रोम",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बरअब्बा"
+}
 ]
 }
 },
@@ -4034,6 +4189,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बारहों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बरतुल्मै"
 }
 ]
 }
@@ -4267,6 +4431,22 @@
 "label": "पौलुस",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बरनबास"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5589,
+"match_method": "scored",
+"preferred_label": "यहूदा"
+}
 ]
 }
 },
@@ -4465,6 +4645,15 @@
 "resource_code": "UWTranslationWords",
 "label": "शासन करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.5625,
+"match_method": "scored",
+"preferred_label": "Rebel"
 }
 ]
 }
@@ -5135,7 +5324,8 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5629,7 +5819,8 @@
 "label": "चिट्ठियाँ",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5706,6 +5897,22 @@
 "resource_code": "UWTranslationWords",
 "label": "पवित्र",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Oak"
+},
+{
+"id": "flora:Terebinth",
+"type": "flora",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Terebinth"
 }
 ]
 }
@@ -6195,6 +6402,15 @@
 "label": "सेवा करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.6092,
+"match_method": "scored",
+"preferred_label": "Chain"
+}
 ]
 }
 },
@@ -6273,6 +6489,15 @@
 "resource_code": "UWTranslationWords",
 "label": "चरवाहा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
 }
 ]
 }
@@ -6545,6 +6770,22 @@
 "label": "कुर्ता",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Robe"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.5929,
+"match_method": "scored",
+"preferred_label": "Cloak"
+}
 ]
 }
 },
@@ -6594,6 +6835,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मेसोपोटामिया",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "बेबीलोन"
 }
 ]
 }
@@ -6872,7 +7122,8 @@
 "label": "चेला",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6959,6 +7210,36 @@
 "resource_code": "UWTranslationWords",
 "label": "भविष्यद्वक्ता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Baruch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बारूक"
+},
+{
+"id": "person:Baruch.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बारूक"
+},
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बारूक"
+},
+{
+"id": "person:Baruch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बारूक"
 }
 ]
 }
@@ -7055,6 +7336,43 @@
 "label": "यहोवा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाल"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाल"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाल"
+}
 ]
 }
 },
@@ -7141,6 +7459,15 @@
 "label": "शैतान",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "शैतान"
+}
 ]
 }
 },
@@ -7189,6 +7516,15 @@
 "resource_code": "UWTranslationWords",
 "label": "देवता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Baasha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाशा"
 }
 ]
 }
@@ -7264,6 +7600,15 @@
 "resource_code": "UWTranslationWords",
 "label": "सीरिया",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाशान"
 }
 ]
 }
@@ -7525,6 +7870,50 @@
 "label": "राहेल",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Benjamin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
+},
+{
+"id": "person:Benjamin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
+},
+{
+"id": "person:Benjamin.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
+},
+{
+"id": "person:Benjamin.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.5974,
+"match_method": "scored",
+"preferred_label": "बिन्यामीन"
+}
 ]
 }
 },
@@ -7599,6 +7988,15 @@
 "resource_code": "UWTranslationWords",
 "label": "थिस्सलुनिके",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिरीया"
 }
 ]
 }
@@ -7728,6 +8126,15 @@
 "label": "पोर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिलाम"
+}
 ]
 }
 },
@@ -7826,6 +8233,22 @@
 "resource_code": "UWTranslationWords",
 "label": "राहेल",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिल्हा"
+},
+{
+"id": "place:Bilhah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिल्हा"
 }
 ]
 }
@@ -8349,7 +8772,8 @@
 "label": "अवतरण",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8478,7 +8902,8 @@
 "label": "रूत",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8557,7 +8982,8 @@
 "label": "पवित्र आत्मा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9733,7 +10159,8 @@
 "label": "फल",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9927,6 +10354,15 @@
 "label": "बुद्धिमान",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.7778,
+"match_method": "scored",
+"preferred_label": "Crafty"
+}
 ]
 }
 },
@@ -10077,7 +10513,8 @@
 "label": "बुद्धिमान",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10255,7 +10692,16 @@
 "end_ref_usfm": "MAT 20:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Wrong",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wrong"
+}
+]
 }
 },
 {
@@ -12436,7 +12882,8 @@
 "label": "पाप",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12490,7 +12937,8 @@
 "label": "आह्वान के लिए कॉल",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12559,7 +13007,8 @@
 "label": "पुकार",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12641,6 +13090,29 @@
 "resource_code": "UWTranslationWords",
 "label": "पलिश्तियों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बेतशेमेश"
+},
+{
+"id": "place:Beth-shemesh.2",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "बेतशेमेश"
+},
+{
+"id": "place:Beth-shemesh.3",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "बेतशेमेश"
 }
 ]
 }
@@ -12788,6 +13260,22 @@
 "resource_code": "UWTranslationWords",
 "label": "यरूशलेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बेतेल"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बेतेल"
 }
 ]
 }
@@ -13033,6 +13521,36 @@
 "label": "नबूकदनेस्सर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बेबीलोन"
+},
+{
+"id": "group:Babylon",
+"type": "group",
+"confidence": 0.6118,
+"match_method": "scored",
+"preferred_label": "बाबेली"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+}
 ]
 }
 },
@@ -13175,6 +13693,15 @@
 "resource_code": "UWTranslationWords",
 "label": "शपथ",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बेर्शेबा"
 }
 ]
 }
@@ -13480,7 +14007,8 @@
 "label": "मन्दिर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13629,6 +14157,29 @@
 "label": "जैतून पर्वत",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बैतनिय्याह"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बैतनिय्याह"
+},
+{
+"id": "place:Bethabara",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Bethany Beyond the Jordan"
+}
 ]
 }
 },
@@ -13774,6 +14325,22 @@
 "resource_code": "UWTranslationWords",
 "label": "मीका",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Bethlehem.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बैतलहम"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बैतलहम"
 }
 ]
 }
@@ -13951,6 +14518,15 @@
 "label": "रूत",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बोअज"
+}
 ]
 }
 },
@@ -13974,7 +14550,8 @@
 "label": "धीरज धरना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 }
 ]

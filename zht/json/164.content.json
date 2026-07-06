@@ -102,7 +102,8 @@
 "end_ref_usfm": "ACT 3:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -590,7 +591,8 @@
 "label": "悔改",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1249,6 +1251,15 @@
 "label": "約翰福音 10:40 (#2)",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+}
 ]
 }
 },
@@ -1426,6 +1437,15 @@
 "label": "綿羊",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lion"
+}
 ]
 }
 },
@@ -1513,6 +1533,15 @@
 "resource_code": "UWTranslationWords",
 "label": "摩西",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Psalm",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Psalm"
 }
 ]
 }
@@ -1791,7 +1820,8 @@
 "label": "門徒",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1979,7 +2009,8 @@
 "label": "聖殿",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2062,7 +2093,8 @@
 "label": "敬拜",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2255,6 +2287,15 @@
 "label": "羅馬城",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
 ]
 }
 },
@@ -2360,6 +2401,15 @@
 "resource_code": "UWTranslationWords",
 "label": "聖殿",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pomegranate"
 }
 ]
 }
@@ -2587,7 +2637,8 @@
 "label": "約翰福音 8:59 (#1)",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2716,7 +2767,8 @@
 "label": "路得",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3185,7 +3237,8 @@
 "label": "時候",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4098,7 +4151,8 @@
 "label": "患難",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4113,7 +4167,8 @@
 "content": "<h1>時期、年代、時間</h1><h2>定義：</h2><p>在這個意義上，「時期（age）」一詞指的是一個時間段。</p><ul><li><p>其他用來表示較長時間的詞語包括「時代（era）」和「季節（season）」。</p></li><li><p>耶穌提到「這世代（this age）」是指當前邪惡、罪惡和對神的不順服充滿全地的時期。</p></li><li><p>將來會有一個時代，公義將在新天新地中掌權。</p></li></ul><h2>翻譯相關建議：</h2><ul><li><p>根據上下文，「時期（age）」一詞可以翻譯為「年代（ear）」或「時代（time period）」或「時間（time）」。</p></li><li><p>「這現今邪惡的世代」的意思是「在這個人們非常邪惡的當下時期」。</p></li><li><p>「世代的終結」（在馬太福音二十八章20節耶穌所說的話中提到）意指「這段歷史的結束」或「現今世代的終結」，並指耶穌第二次降臨時現今世代的終結。</p></li></ul><h2>原文參照：</h2><ul><li><p>史特朗號：</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4143,7 +4198,8 @@
 "label": "害怕",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4657,7 +4713,8 @@
 "label": "十二門徒",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4788,6 +4845,22 @@
 "resource_code": "UWTranslationWords",
 "label": "腓利",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "John"
 }
 ]
 }
@@ -5062,6 +5135,15 @@
 "label": "西庇太",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+}
 ]
 }
 },
@@ -5244,7 +5326,8 @@
 "label": "施洗約翰",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5473,7 +5556,8 @@
 "label": "聖潔",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5977,7 +6061,8 @@
 "label": "後裔",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6000,7 +6085,8 @@
 "label": "後裔",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6015,7 +6101,8 @@
 "content": "<h1>世代</h1><h2>定義：</h2><p>此處的「世代」一詞是指同一時期活著的人。這些人通常共享相同的文化、經歷和生活方式。</p><h2>翻譯相關建議</h2><ul><li><p>「他歷代的祖宗」這個詞語可以翻譯為「他的祖先」或「那些在他之前生活的人」。</p></li><li><p>「這世代」或「這世代的人」這個短語可以翻譯為「現在生活的人」或「你們這些人」。</p></li><li><p>「將來的世代」這個詞可以翻譯為「在我們之後生活的人」或「在以後世代生活的人」。</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7068,7 +7155,8 @@
 "label": "羅馬城",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7154,6 +7242,71 @@
 "resource_code": "UWTranslationWords",
 "label": "所羅門",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Sheba.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheba"
+},
+{
+"id": "person:Sheba.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheba"
+},
+{
+"id": "person:Sheba.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheba"
+},
+{
+"id": "person:Sheba.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheba"
+},
+{
+"id": "person:Sheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheba"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
+},
+{
+"id": "place:Sheba.2",
+"type": "place",
+"confidence": 0.6727,
+"match_method": "scored",
+"preferred_label": "Sheba"
+},
+{
+"id": "person:Seba",
+"type": "person",
+"confidence": 0.6232,
+"match_method": "scored",
+"preferred_label": "Seba"
+},
+{
+"id": "place:Seba",
+"type": "place",
+"confidence": 0.5869,
+"match_method": "scored",
+"preferred_label": "Seba"
 }
 ]
 }
@@ -7321,6 +7474,43 @@
 "label": "雅各",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Shechem.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Shechem.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shechem"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shechem"
+},
+{
+"id": "place:Moreh",
+"type": "place",
+"confidence": 0.62,
+"match_method": "scored",
+"preferred_label": "Oak of Moreh"
+}
 ]
 }
 },
@@ -7431,6 +7621,22 @@
 "label": "聖殿",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Shiloh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shiloh"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shiloh"
+}
 ]
 }
 },
@@ -7499,6 +7705,141 @@
 "resource_code": "UWTranslationWords",
 "label": "祭司",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Shimei.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.16",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.18",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimeah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimeah"
+},
+{
+"id": "person:Shimei.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Obed-edom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obed-edom"
+},
+{
+"id": "group:Shimei",
+"type": "group",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Shimeites"
 }
 ]
 }
@@ -7614,6 +7955,22 @@
 "label": "吾珥",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shinar"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+}
 ]
 }
 },
@@ -7725,7 +8082,8 @@
 "label": "試驗",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7889,7 +8247,8 @@
 "label": "試驗",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8206,6 +8565,15 @@
 "resource_code": "UWTranslationWords",
 "label": "試探",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Interpret"
 }
 ]
 }
@@ -8695,6 +9063,15 @@
 "label": "應許",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.7037,
+"match_method": "scored",
+"preferred_label": "Oath"
+}
 ]
 }
 },
@@ -8997,7 +9374,8 @@
 "label": "僕人",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -92,6 +92,15 @@
 "label": "كاتب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
+}
 ]
 }
 },
@@ -302,6 +311,36 @@
 "resource_code": "UWTranslationWords",
 "label": "هيكل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْقدْسِ"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "Holy"
+},
+{
+"id": "realia:TheHolyPlace",
+"type": "realia",
+"confidence": 0.6125,
+"match_method": "scored",
+"preferred_label": "The Holy Place"
 }
 ]
 }
@@ -616,6 +655,15 @@
 "label": "السيد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
 ]
 }
 },
@@ -803,7 +851,8 @@
 "label": "رئيس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -983,6 +1032,15 @@
 "label": "روما",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Centurion",
+"type": "person",
+"confidence": 0.555,
+"match_method": "scored",
+"preferred_label": "A Centurion"
+}
 ]
 }
 },
@@ -1055,6 +1113,15 @@
 "resource_code": "UWTranslationWords",
 "label": "عيد الفصح",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Doorpost",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Doorpost"
 }
 ]
 }
@@ -1135,6 +1202,15 @@
 "resource_code": "UWTranslationWords",
 "label": "قدوس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَادَشَ"
 }
 ]
 }
@@ -1226,6 +1302,29 @@
 "resource_code": "UWTranslationWords",
 "label": "شَكِيم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Kedesh.3",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kedesh"
+},
+{
+"id": "place:Kedesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَادَشَ"
+},
+{
+"id": "place:Kishion",
+"type": "place",
+"confidence": 0.5833,
+"match_method": "scored",
+"preferred_label": "قِشْيونَ"
 }
 ]
 }
@@ -2541,6 +2640,15 @@
 "label": "شريعة موسى",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
 ]
 }
 },
@@ -2578,7 +2686,8 @@
 "label": "فضة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2651,6 +2760,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الإثني عشر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَانَا"
 }
 ]
 }
@@ -2889,6 +3007,15 @@
 "label": "يهوه",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.8054,
+"match_method": "scored",
+"preferred_label": "Decree"
+}
 ]
 }
 },
@@ -3015,6 +3142,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ذبيحة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Cain",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَايِينَ"
 }
 ]
 }
@@ -3448,6 +3584,15 @@
 "label": "يدفن",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grave"
+}
 ]
 }
 },
@@ -3563,6 +3708,15 @@
 "resource_code": "UWTranslationWords",
 "label": "البحر المتوسط",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كِتِّيمَ"
 }
 ]
 }
@@ -3772,7 +3926,8 @@
 "end_ref_usfm": "GEN 27:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4758,6 +4913,15 @@
 "label": "يُقَدِّس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.9111,
+"match_method": "scored",
+"preferred_label": "Holy"
+}
 ]
 }
 },
@@ -4854,6 +5018,22 @@
 "resource_code": "UWTranslationWords",
 "label": "قدوس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرّوحِ"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.5682,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -5263,7 +5443,8 @@
 "label": "قدوس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5403,6 +5584,22 @@
 "resource_code": "UWTranslationWords",
 "label": "زكريا (العهد القديم)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.697,
+"match_method": "scored",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.637,
+"match_method": "scored",
+"preferred_label": "Lot"
 }
 ]
 }
@@ -5643,6 +5840,22 @@
 "resource_code": "UWTranslationWords",
 "label": "بُوق",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.7067,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
+},
+{
+"id": "keyterm:Horn",
+"type": "keyterm",
+"confidence": 0.6133,
+"match_method": "scored",
+"preferred_label": "Horn"
 }
 ]
 }
@@ -6132,6 +6345,15 @@
 "label": "وعد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.7037,
+"match_method": "scored",
+"preferred_label": "Oath"
+}
 ]
 }
 },
@@ -6265,6 +6487,15 @@
 "label": "ملك",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Palace"
+}
 ]
 }
 },
@@ -6345,6 +6576,22 @@
 "resource_code": "UWTranslationWords",
 "label": "بار",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.7167,
+"match_method": "scored",
+"preferred_label": "Staff"
 }
 ]
 }
@@ -6871,6 +7118,15 @@
 "label": "خروف",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flock"
+}
 ]
 }
 },
@@ -7073,6 +7329,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يُغَرْبِل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wheat"
 }
 ]
 }
@@ -7501,6 +7766,22 @@
 "label": "معجزة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Mighty",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Mighty"
+},
+{
+"id": "keyterm:Mighty.2",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Mighty"
+}
 ]
 }
 },
@@ -7633,6 +7914,43 @@
 "label": "كاهن",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قورَحَ"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قورَحَ"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قورَحَ"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قورَحَ"
+},
+{
+"id": "group:Korah",
+"type": "group",
+"confidence": 0.6211,
+"match_method": "scored",
+"preferred_label": "Korahites"
+}
 ]
 }
 },
@@ -7741,6 +8059,15 @@
 "resource_code": "UWTranslationWords",
 "label": "High Priest",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Caiaphas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَيَافَا"
 }
 ]
 }
@@ -8010,7 +8337,16 @@
 "end_ref_usfm": "JHN 5:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.981,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
@@ -8114,6 +8450,15 @@
 "resource_code": "UWTranslationWords",
 "label": "شاول",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lyre"
 }
 ]
 }
@@ -8603,6 +8948,15 @@
 "label": "عبد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.6092,
+"match_method": "scored",
+"preferred_label": "Chain"
+}
 ]
 }
 },
@@ -8659,6 +9013,15 @@
 "resource_code": "UWTranslationWords",
 "label": "إسماعيل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Kedar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قِيدَارَ"
 }
 ]
 }
@@ -8737,6 +9100,15 @@
 "resource_code": "UWTranslationWords",
 "label": "كريت",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَيْرَوَانِيًّا"
 }
 ]
 }
@@ -8932,6 +9304,36 @@
 "label": "روما",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كلودِيوس"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "طِيبَارِيوسَ"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أوغسْطسَ"
+}
 ]
 }
 },
@@ -9117,6 +9519,22 @@
 "resource_code": "UWTranslationWords",
 "label": "طَرسوس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Caesarea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَيْصَرِيَّةَ"
 }
 ]
 }

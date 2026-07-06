@@ -88,6 +88,15 @@
 "label": "Stone",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Iconium"
+}
 ]
 }
 },
@@ -276,6 +285,15 @@
 "label": "Image of God",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Image"
+}
 ]
 }
 },
@@ -367,7 +385,8 @@
 "label": "Son of God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1391,6 +1410,22 @@
 "label": "Lord",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.7753,
+"match_method": "scored",
+"preferred_label": "In Christ"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.7289,
+"match_method": "scored",
+"preferred_label": "Jesus"
+}
 ]
 }
 },
@@ -1602,6 +1637,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Frankincense",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
 }
 ]
 }
@@ -2032,7 +2076,8 @@
 "label": "Promised Land",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2322,7 +2367,8 @@
 "label": "Trespass",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2478,7 +2524,8 @@
 "label": "Guilt",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2530,7 +2577,16 @@
 "end_ref_usfm": "EZK 20:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.8565,
+"match_method": "embedding",
+"preferred_label": "Ask for"
+}
+]
 }
 },
 {
@@ -2866,7 +2922,8 @@
 "label": "Decree",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2981,7 +3038,8 @@
 "label": "Joseph OT",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3053,7 +3111,8 @@
 "label": "Pray",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3285,6 +3344,15 @@
 "label": "Vision",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Interpret"
+}
 ]
 }
 },
@@ -3307,6 +3375,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Armor",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Yiron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Iron"
 }
 ]
 }
@@ -3992,6 +4069,15 @@
 "label": "Sarah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaac"
+}
 ]
 }
 },
@@ -4246,6 +4332,15 @@
 "label": "Uzziah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaiah"
+}
 ]
 }
 },
@@ -4476,6 +4571,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Sarah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ishmael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Ishmaelites"
 }
 ]
 }
@@ -6456,6 +6602,29 @@
 "label": "Nation",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.6187,
+"match_method": "scored",
+"preferred_label": "Israelites"
+}
 ]
 }
 },
@@ -6547,6 +6716,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Leah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Issachar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Issachar"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Issachar"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.5567,
+"match_method": "scored",
+"preferred_label": "Tribe of Issachar"
 }
 ]
 }

@@ -606,6 +606,15 @@
 "label": "Temple, maison de Dieu",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
 ]
 }
 },
@@ -730,6 +739,43 @@
 "label": "Mer Salée",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Tamar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "place:Tamar.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thadmor"
+}
 ]
 }
 },
@@ -797,6 +843,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Province",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarse"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "Tarse"
 }
 ]
 }
@@ -891,6 +953,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Ninive",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Tarshish.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsis"
+},
+{
+"id": "person:Tarshish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsis"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsis"
 }
 ]
 }
@@ -2348,6 +2433,15 @@
 "label": "Témoignage",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.6153,
+"match_method": "scored",
+"preferred_label": "témoin"
+}
 ]
 }
 },
@@ -3350,6 +3444,22 @@
 "label": "Sion",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.5625,
+"match_method": "scored",
+"preferred_label": "House"
+}
 ]
 }
 },
@@ -4263,7 +4373,8 @@
 "label": "Tribulation",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7979,7 +8090,8 @@
 "label": "Temps",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8271,7 +8383,8 @@
 "end_ref_usfm": "ACT 18:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9369,7 +9482,8 @@
 "label": "Temps biblique",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9553,7 +9667,8 @@
 "end_ref_usfm": "JHN 4:52"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9613,7 +9728,8 @@
 "label": "Veiller",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9667,7 +9783,8 @@
 "label": "Pentecôte",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9925,6 +10042,15 @@
 "label": "Tente de la Rencontre",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent"
+}
 ]
 }
 },
@@ -10084,6 +10210,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tente",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
 }
 ]
 }
@@ -10249,7 +10384,8 @@
 "label": "Tester",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10387,6 +10523,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Sem",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Terah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Térach"
+},
+{
+"id": "place:Terah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Térach"
 }
 ]
 }
@@ -14037,7 +14189,8 @@
 "label": "Monde",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14080,7 +14233,8 @@
 "label": "Promesse",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14311,6 +14465,15 @@
 "resource_code": "UWTranslationWords",
 "label": "L'Éternel, Yahvé",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "terreur"
 }
 ]
 }
@@ -14630,6 +14793,15 @@
 "label": "Tenter",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "tester"
+}
 ]
 }
 },
@@ -14724,7 +14896,8 @@
 "label": "Rome",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14828,6 +15001,22 @@
 "label": "Rome",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thessalonique"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.7231,
+"match_method": "scored",
+"preferred_label": "une Thessalonicien"
+}
 ]
 }
 },
@@ -14897,6 +15086,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Sichem",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thirtsa"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thirtsa"
 }
 ]
 }
@@ -15038,6 +15243,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Douze",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thomas"
 }
 ]
 }
@@ -15241,6 +15455,15 @@
 "label": "Ministre",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Timothée"
+}
 ]
 }
 },
@@ -15306,6 +15529,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Assyrie",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.7091,
+"match_method": "scored",
+"preferred_label": "Bow"
 }
 ]
 }
@@ -15465,6 +15697,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ministre",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tite"
 }
 ]
 }
@@ -15898,6 +16139,15 @@
 "label": "Enterrer ",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grave"
+}
 ]
 }
 },
@@ -15988,6 +16238,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Veiller",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Tower"
 }
 ]
 }
@@ -16181,7 +16447,8 @@
 "label": "Adorer",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16494,6 +16761,15 @@
 "label": "Seigneur",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+}
 ]
 }
 },
@@ -16650,6 +16926,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Moïse",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.8824,
+"match_method": "scored",
+"preferred_label": "se rendre"
 }
 ]
 }
@@ -16905,7 +17190,8 @@
 "label": "Judas Iscariote",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17153,7 +17439,8 @@
 "label": "Transgression",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17299,7 +17586,8 @@
 "label": "Transgresser",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17869,7 +18157,8 @@
 "label": "Dur",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18098,6 +18387,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Péché",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"confidence": 0.6941,
+"match_method": "scored",
+"preferred_label": "intrans. trébucher"
 }
 ]
 }
@@ -18341,7 +18639,8 @@
 "label": "Seigneur",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18490,6 +18789,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Dieu",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
 }
 ]
 }
@@ -18794,7 +19102,8 @@
 "label": "Groupe de personnes",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19053,7 +19362,8 @@
 "label": "Colère",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19132,6 +19442,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Temple, maison de Dieu",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 0.8042,
+"match_method": "embedding",
+"preferred_label": "juge"
 }
 ]
 }
@@ -19239,6 +19558,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Timothée",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Troas"
 }
 ]
 }
@@ -19880,7 +20208,8 @@
 "end_ref_usfm": "LEV 19:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -20118,6 +20447,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Colère",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.6625,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
 }
 ]
 }
@@ -20565,6 +20910,15 @@
 "label": "Règne",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Throne"
+}
 ]
 }
 },
@@ -20992,7 +21346,8 @@
 "label": "Persécuter",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21094,6 +21449,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Prophète",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Tubal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubal"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubal"
 }
 ]
 }
@@ -21305,7 +21676,8 @@
 "label": "Abattage",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21521,6 +21893,22 @@
 "label": "Robe",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:Tunic",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tunic"
+}
 ]
 }
 },
@@ -21628,6 +22016,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ministre",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Tychicus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tychique"
 }
 ]
 }
@@ -21763,6 +22160,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Sidon",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tyr"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Tyrien"
 }
 ]
 }

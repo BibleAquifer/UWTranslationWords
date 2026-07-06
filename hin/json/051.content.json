@@ -340,6 +340,15 @@
 "label": "मूरत/मूरतों",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sacred Pillar"
+}
 ]
 }
 },
@@ -445,6 +454,15 @@
 "resource_code": "UWTranslationWords",
 "label": "पत्थर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Stephen",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "स्तिफनुस"
 }
 ]
 }
@@ -835,6 +853,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दंडवत करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Praise",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Praise"
 }
 ]
 }

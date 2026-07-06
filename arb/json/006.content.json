@@ -95,7 +95,8 @@
 "label": "شريعة موسى",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -193,6 +194,22 @@
 "resource_code": "UWTranslationWords",
 "label": "فيليبس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Ethiopia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كوشِيِّينَ"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"confidence": 0.6286,
+"match_method": "scored",
+"preferred_label": "Ethiopians"
 }
 ]
 }
@@ -451,6 +468,22 @@
 "resource_code": "UWTranslationWords",
 "label": "أوريَّا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hittites"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "حِثًّا"
 }
 ]
 }
@@ -826,7 +859,8 @@
 "label": "بشارة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -925,6 +959,29 @@
 "label": "نوح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَامًا"
+},
+{
+"id": "place:Ham.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَامًا"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْعَمّونِيِّينَ"
+}
 ]
 }
 },
@@ -1016,6 +1073,36 @@
 "label": "عَنَاق",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Hebron.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَبْرونَ"
+},
+{
+"id": "person:Hebron",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَبْرونَ"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَبْرونَ"
+},
+{
+"id": "place:HebronValley",
+"type": "place",
+"confidence": 0.6333,
+"match_method": "scored",
+"preferred_label": "مِنْ"
+}
 ]
 }
 },
@@ -1059,6 +1146,15 @@
 "resource_code": "UWTranslationWords",
 "label": "إرميا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Habakkuk",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَبَقّوق"
 }
 ]
 }
@@ -1401,6 +1497,22 @@
 "resource_code": "UWTranslationWords",
 "label": "قمح",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grain"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Wheat"
 }
 ]
 }
@@ -1810,6 +1922,15 @@
 "label": "محبّة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.975,
+"match_method": "scored",
+"preferred_label": "Beloved"
+}
 ]
 }
 },
@@ -1874,7 +1995,23 @@
 "end_ref_usfm": "1PE 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cornerstone",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cornerstone"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Foundation"
+}
+]
 }
 },
 {
@@ -2100,7 +2237,8 @@
 "label": "يوحنا 8: 59 (#1)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2230,6 +2368,15 @@
 "label": "زكريا (العهد القديم)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Haggai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَجَّيِ"
+}
 ]
 }
 },
@@ -2252,6 +2399,15 @@
 "resource_code": "UWTranslationWords",
 "label": "السلاح",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Yiron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يِرْأون"
 }
 ]
 }
@@ -2555,7 +2711,8 @@
 "label": "عبد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2655,6 +2812,36 @@
 "label": "سِنْحَارِيب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Hezekiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَزَقِيَّا"
+},
+{
+"id": "person:Hezekiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَزَقِيَّا"
+},
+{
+"id": "person:Hezekiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَزَقِيَّا"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَزَقِيَّا"
+}
 ]
 }
 },
@@ -2711,6 +2898,15 @@
 "resource_code": "UWTranslationWords",
 "label": "نبي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِزْقِيَالَ"
 }
 ]
 }
@@ -2952,7 +3148,8 @@
 "label": "غيور",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2981,6 +3178,15 @@
 "resource_code": "UWTranslationWords",
 "label": "سِيحون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Heshbon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَشْبونَ"
 }
 ]
 }
@@ -3022,7 +3228,8 @@
 "end_ref_usfm": "1KI 20:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3275,6 +3482,22 @@
 "resource_code": "UWTranslationWords",
 "label": "سليمان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Horse"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6103,
+"match_method": "scored",
+"preferred_label": "ٱلْخَيْلِ"
 }
 ]
 }
@@ -3640,7 +3863,8 @@
 "end_ref_usfm": "1TH 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3708,7 +3932,8 @@
 "label": "دانيال",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4884,7 +5109,8 @@
 "label": "ثمر",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4992,6 +5218,57 @@
 "resource_code": "UWTranslationWords",
 "label": "يهوه",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Hilkiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِلْقِيَّا"
+},
+{
+"id": "person:Hilkiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِلْقِيَّا"
+},
+{
+"id": "person:Hilkiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِلْقِيَّا"
+},
+{
+"id": "person:Hilkiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِلْقِيَّا"
+},
+{
+"id": "person:Hilkiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِلْقِيَّا"
+},
+{
+"id": "person:Hilkiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِلْقِيَّا"
+},
+{
+"id": "person:Hilkiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِلْقِيَّا"
 }
 ]
 }
@@ -5275,7 +5552,8 @@
 "label": "رؤيا",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5356,6 +5634,15 @@
 "resource_code": "UWTranslationWords",
 "label": "صَدَقيا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَمَاةَ"
 }
 ]
 }
@@ -5661,7 +5948,16 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Donkey"
+}
+]
 }
 },
 {
@@ -5799,6 +6095,15 @@
 "resource_code": "UWTranslationWords",
 "label": "زيتون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dove"
 }
 ]
 }
@@ -6209,6 +6514,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يوحنا 1: 29 (#5)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheep"
 }
 ]
 }
@@ -7171,6 +7485,15 @@
 "label": "ثمر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
+}
 ]
 }
 },
@@ -7429,6 +7752,15 @@
 "label": "بَطْن",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.9514,
+"match_method": "embedding",
+"preferred_label": "Perceive"
+}
 ]
 }
 },
@@ -7565,6 +7897,15 @@
 "label": "سُكُّوت",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Hamor",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَمورَ"
+}
 ]
 }
 },
@@ -7632,6 +7973,15 @@
 "label": "كاهن",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Annas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَّانَ"
+}
 ]
 }
 },
@@ -7674,6 +8024,15 @@
 "resource_code": "UWTranslationWords",
 "label": "صموئيل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Hannah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَّة"
 }
 ]
 }
@@ -7806,6 +8165,120 @@
 "label": "ميشائيل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Hananiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hananiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَنَنِيَّا"
+},
+{
+"id": "person:Hanani.4",
+"type": "person",
+"confidence": 0.5592,
+"match_method": "scored",
+"preferred_label": "حَنَانِي"
+}
 ]
 }
 },
@@ -7866,6 +8339,15 @@
 "resource_code": "UWTranslationWords",
 "label": "شيطان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Eve",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَوَّاءَ"
 }
 ]
 }
@@ -8137,6 +8619,15 @@
 "resource_code": "UWTranslationWords",
 "label": "تجربة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Snake"
 }
 ]
 }

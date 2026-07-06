@@ -176,7 +176,8 @@
 "label": "False God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -231,6 +232,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Persia",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Vashti",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vashti"
 }
 ]
 }
@@ -327,6 +337,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Moses",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Veil"
 }
 ]
 }
@@ -466,6 +485,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Vineyard",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -745,6 +773,15 @@
 "label": "Vine",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Vine"
+}
 ]
 }
 },
@@ -916,7 +953,8 @@
 "label": "Mary",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1095,6 +1133,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Dream",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
 }
 ]
 }

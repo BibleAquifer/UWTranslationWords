@@ -155,7 +155,8 @@
 "label": "सताना/सताव",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -287,6 +288,15 @@
 "resource_code": "UWTranslationWords",
 "label": "छुड़ा ले",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Ransom"
 }
 ]
 }
@@ -588,6 +598,15 @@
 "resource_code": "UWTranslationWords",
 "label": "छुटकारे  का मूल्य",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.7217,
+"match_method": "scored",
+"preferred_label": "Redeem"
 }
 ]
 }
@@ -973,6 +992,22 @@
 "resource_code": "UWTranslationWords",
 "label": "बचाना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Deliver",
+"type": "keyterm",
+"confidence": 0.6409,
+"match_method": "scored",
+"preferred_label": "Deliver"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.5867,
+"match_method": "scored",
+"preferred_label": "Rescue"
 }
 ]
 }

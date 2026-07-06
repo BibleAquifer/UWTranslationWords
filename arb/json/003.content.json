@@ -118,6 +118,15 @@
 "label": "مِصْر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سوفَ"
+}
 ]
 }
 },
@@ -228,6 +237,15 @@
 "label": "يزدهر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْكَبِير"
+}
 ]
 }
 },
@@ -320,7 +338,8 @@
 "label": "يرث",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -397,6 +416,22 @@
 "resource_code": "UWTranslationWords",
 "label": "قدوس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Oak"
+},
+{
+"id": "flora:Terebinth",
+"type": "flora",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Terebinth"
 }
 ]
 }
@@ -1098,7 +1133,86 @@
 "end_ref_usfm": "DEU 21:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:WaterGate",
+"type": "place",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "ٱلْمَاءِ"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "ٱلضَّأْنِ"
+},
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "ٱلدِّمْنِ"
+},
+{
+"id": "place:ValleyGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "ٱلْوَادِي"
+},
+{
+"id": "place:FountainGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "ٱلْعَيْنِ"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Door"
+},
+{
+"id": "place:FishGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "باب ٱلسَّمَكِ"
+},
+{
+"id": "place:BeautifulGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "الباب ٱلْجَمِيل"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "أَفْرَايِمَ"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "ٱلْخَيْلِ"
+},
+{
+"id": "place:EastGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "ٱلشَّرْقِ"
+}
+]
 }
 },
 {
@@ -1147,6 +1261,15 @@
 "resource_code": "UWTranslationWords",
 "label": "بلاد مَا بَيْنَ ٱلنَّهْرَيْنِ",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "بَابِلَ"
 }
 ]
 }
@@ -1392,6 +1515,36 @@
 "label": "نبوخذنصر/نبوخذناصر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَابِلَ"
+},
+{
+"id": "group:Babylon",
+"type": "group",
+"confidence": 0.6118,
+"match_method": "scored",
+"preferred_label": "Babylonians"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+}
 ]
 }
 },
@@ -1524,6 +1677,22 @@
 "resource_code": "UWTranslationWords",
 "label": "جحيم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pit"
 }
 ]
 }
@@ -1747,6 +1916,15 @@
 "resource_code": "UWTranslationWords",
 "label": "صِراع",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.8399,
+"match_method": "embedding",
+"preferred_label": "Good"
 }
 ]
 }
@@ -3829,7 +4007,8 @@
 "label": "الخطية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3972,6 +4151,15 @@
 "label": "إسماعيل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
+}
 ]
 }
 },
@@ -4074,6 +4262,15 @@
 "resource_code": "UWTranslationWords",
 "label": "روما",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَارَابَاسَ"
 }
 ]
 }
@@ -5449,6 +5646,15 @@
 "label": "تسبيح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.8791,
+"match_method": "scored",
+"preferred_label": "Bless"
+}
 ]
 }
 },
@@ -5537,6 +5743,36 @@
 "label": "نبي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Baruch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَاروخَ"
+},
+{
+"id": "person:Baruch.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَاروخَ"
+},
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَاروخَ"
+},
+{
+"id": "person:Baruch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَاروخَ"
+}
 ]
 }
 },
@@ -5611,6 +5847,15 @@
 "resource_code": "UWTranslationWords",
 "label": "سوريا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَاشَانَ"
 }
 ]
 }
@@ -5792,7 +6037,8 @@
 "label": "إله زائف",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5954,7 +6200,8 @@
 "label": "بِكْر",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6059,6 +6306,22 @@
 "label": "رِفقَة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَتوئِيلَ"
+},
+{
+"id": "place:Bethuel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَتوئِيلَ"
+}
 ]
 }
 },
@@ -6120,6 +6383,15 @@
 "resource_code": "UWTranslationWords",
 "label": "أوريَّا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
 }
 ]
 }
@@ -6437,6 +6709,22 @@
 "label": "يوحنا 6: 1 (#2)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.6157,
+"match_method": "scored",
+"preferred_label": "ٱلْجَلِيلِ"
+}
 ]
 }
 },
@@ -6518,6 +6806,15 @@
 "resource_code": "UWTranslationWords",
 "label": "النقْب",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:SaltSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْمِلْحِ"
 }
 ]
 }
@@ -6730,6 +7027,15 @@
 "resource_code": "UWTranslationWords",
 "label": "لُبان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
 }
 ]
 }
@@ -7253,7 +7559,8 @@
 "label": "نسل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7354,6 +7661,15 @@
 "label": "عيد الأسابيع",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَرْثولَمَاوس"
+}
 ]
 }
 },
@@ -7444,6 +7760,22 @@
 "resource_code": "UWTranslationWords",
 "label": "يحرس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Tower"
 }
 ]
 }
@@ -7581,7 +7913,8 @@
 "end_ref_usfm": "MAT 28:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7703,7 +8036,8 @@
 "label": "نعمان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7935,6 +8269,22 @@
 "label": "بولس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَرْنَابَا"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5589,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+}
 ]
 }
 },
@@ -8091,7 +8441,8 @@
 "label": "ذنب",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8216,6 +8567,15 @@
 "resource_code": "UWTranslationWords",
 "label": "سوريا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بِرِيسْكِلَّا"
 }
 ]
 }
@@ -8848,6 +9208,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يُخلِّص",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9802,
+"match_method": "scored",
+"preferred_label": "Good News"
 }
 ]
 }
@@ -9924,6 +10293,15 @@
 "label": "تلميذ",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بطْرس"
+}
 ]
 }
 },
@@ -10156,7 +10534,8 @@
 "end_ref_usfm": "GEN 38:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10204,6 +10583,15 @@
 "resource_code": "UWTranslationWords",
 "label": "إله زائف",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Baasha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَعْشَا"
 }
 ]
 }
@@ -10300,6 +10688,43 @@
 "label": "يهوه",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْبَعْلِ"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْبَعْلِ"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْبَعْلِ"
+}
 ]
 }
 },
@@ -10385,6 +10810,15 @@
 "resource_code": "UWTranslationWords",
 "label": "شيطان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلشَّيْطَان"
 }
 ]
 }
@@ -11010,6 +11444,15 @@
 "label": "نير",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cattle"
+}
 ]
 }
 },
@@ -11116,7 +11559,8 @@
 "end_ref_usfm": "EZK 6:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -11393,7 +11837,8 @@
 "label": "ذبيحة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11583,7 +12028,37 @@
 "end_ref_usfm": "GEN 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Unblemished",
+"type": "keyterm",
+"confidence": 0.6774,
+"match_method": "scored",
+"preferred_label": "Unblemished"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:WithoutReproach",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Without Reproach"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.6402,
+"match_method": "scored",
+"preferred_label": "Be Blameless"
+}
+]
 }
 },
 {
@@ -11758,6 +12233,22 @@
 "label": "نحميا",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فَارِسَ"
+},
+{
+"id": "group:Persia",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Persians"
+}
 ]
 }
 },
@@ -11826,6 +12317,22 @@
 "resource_code": "UWTranslationWords",
 "label": "الفرات",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أَرَامَ"
+},
+{
+"id": "place:Aram-naharaim",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Aram-naharaim"
 }
 ]
 }
@@ -11906,6 +12413,15 @@
 "resource_code": "UWTranslationWords",
 "label": "هيكل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 0.8042,
+"match_method": "embedding",
+"preferred_label": "Judge"
 }
 ]
 }
@@ -12035,6 +12551,15 @@
 "label": "فَغُور",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَلْعَامَ"
+}
 ]
 }
 },
@@ -12134,6 +12659,22 @@
 "label": "رَاحِيل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بِلْهَةَ"
+},
+{
+"id": "place:Bilhah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بِلْهَةَ"
+}
 ]
 }
 },
@@ -12221,6 +12762,92 @@
 "label": "سليمان",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Benaiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنَايَا"
+}
 ]
 }
 },
@@ -12275,6 +12902,22 @@
 "resource_code": "UWTranslationWords",
 "label": "عيد الأسابيع",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بنْتسَ"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بنْتسَ"
 }
 ]
 }
@@ -12536,6 +13179,50 @@
 "label": "رَاحِيل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Benjamin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنْيَامِينَ"
+},
+{
+"id": "person:Benjamin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنْيَامِينَ"
+},
+{
+"id": "person:Benjamin.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنْيَامِينَ"
+},
+{
+"id": "person:Benjamin.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنْيَامِينَ"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَنْيَامِينَ"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.5974,
+"match_method": "scored",
+"preferred_label": "بَنْيَامِينَ"
+}
 ]
 }
 },
@@ -12681,6 +13368,15 @@
 "resource_code": "UWTranslationWords",
 "label": "عَظَمَة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Majesty"
 }
 ]
 }
@@ -12962,7 +13658,16 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Delight"
+}
+]
 }
 },
 {
@@ -13017,6 +13722,15 @@
 "resource_code": "UWTranslationWords",
 "label": "بلاد فارس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Vashti",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "وَشْتِي"
 }
 ]
 }
@@ -13193,6 +13907,15 @@
 "resource_code": "UWTranslationWords",
 "label": "راعوث",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بوعَز"
 }
 ]
 }
@@ -13432,6 +14155,22 @@
 "resource_code": "UWTranslationWords",
 "label": "قرن",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.6625,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
 }
 ]
 }
@@ -14520,6 +15259,15 @@
 "resource_code": "UWTranslationWords",
 "label": "روما",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بولسَ"
 }
 ]
 }
@@ -16967,7 +17715,16 @@
 "end_ref_usfm": "2JN 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "House"
+}
+]
 }
 },
 {
@@ -17299,6 +18056,22 @@
 "label": "هيكل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7847,
+"match_method": "scored",
+"preferred_label": "House"
+}
 ]
 }
 },
@@ -17446,6 +18219,22 @@
 "label": "يعقوب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+}
 ]
 }
 },
@@ -17534,7 +18323,8 @@
 "label": "ملك",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17616,6 +18406,29 @@
 "resource_code": "UWTranslationWords",
 "label": "الفلسطينيون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-shemesh"
+},
+{
+"id": "place:Beth-shemesh.2",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-shemesh"
+},
+{
+"id": "place:Beth-shemesh.3",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-shemesh"
 }
 ]
 }
@@ -17766,6 +18579,29 @@
 "label": "مريم أخت مَرثا",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَنْيَا"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَنْيَا"
+},
+{
+"id": "place:Bethabara",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Bethany Beyond the Jordan"
+}
 ]
 }
 },
@@ -17912,6 +18748,22 @@
 "label": "ميخا",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Bethlehem.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "لَحْمٍ"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "لَحْمٍ"
+}
 ]
 }
 },
@@ -17949,7 +18801,8 @@
 "label": "مملكة إسرائيل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18023,6 +18876,15 @@
 "resource_code": "UWTranslationWords",
 "label": "تسالونيكي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بِيرِيَّةَ"
 }
 ]
 }
@@ -18405,6 +19267,15 @@
 "resource_code": "UWTranslationWords",
 "label": "روما",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بِيلَاطسَ"
 }
 ]
 }

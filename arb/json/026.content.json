@@ -665,6 +665,15 @@
 "label": "قدوس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"confidence": 0.6495,
+"match_method": "scored",
+"preferred_label": "Clean"
+}
 ]
 }
 },
@@ -732,6 +741,22 @@
 "resource_code": "UWTranslationWords",
 "label": "كورة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "طَرْسوسِيًّا"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "طَرْسوسِيًّا"
 }
 ]
 }
@@ -908,7 +933,8 @@
 "label": "نوح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 }
 ]

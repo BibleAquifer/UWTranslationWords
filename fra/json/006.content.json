@@ -161,6 +161,15 @@
 "label": "Croire",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Damas"
+}
 ]
 }
 },
@@ -264,6 +273,29 @@
 "label": "Jacob",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Dan"
+}
 ]
 }
 },
@@ -324,6 +356,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Nébucadnetsar",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kileab"
 }
 ]
 }
@@ -453,6 +508,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Perse",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
 }
 ]
 }
@@ -918,6 +996,22 @@
 "label": "Saül (AT)",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Juda"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "David"
+}
 ]
 }
 },
@@ -994,7 +1088,8 @@
 "end_ref_usfm": "ZEC 7:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1289,6 +1384,22 @@
 "label": "Prêcher",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "declarer solennellement et catégoriquement"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.8086,
+"match_method": "embedding",
+"preferred_label": "proclamer"
+}
 ]
 }
 },
@@ -1488,6 +1599,15 @@
 "label": "loi",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "limite"
+}
 ]
 }
 },
@@ -1584,7 +1704,8 @@
 "label": "Commettre ",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1665,7 +1786,8 @@
 "label": "Péché",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1945,7 +2067,16 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "délice"
+}
+]
 }
 },
 {
@@ -2006,6 +2137,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Samson",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delila"
 }
 ]
 }
@@ -2600,6 +2740,15 @@
 "label": "Satan",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.7977,
+"match_method": "scored",
+"preferred_label": "Demons"
+}
 ]
 }
 },
@@ -2719,6 +2868,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Démon",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.8845,
+"match_method": "scored",
+"preferred_label": "être possédé par un démon"
 }
 ]
 }
@@ -2878,7 +3036,8 @@
 "label": "Monde",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3043,7 +3202,8 @@
 "label": "Noé",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3569,7 +3729,8 @@
 "end_ref_usfm": "GEN 37:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3695,7 +3856,8 @@
 "label": "Honneur",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3768,7 +3930,8 @@
 "label": "Devination ",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4095,7 +4258,8 @@
 "label": "La Pâques",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4336,7 +4500,8 @@
 "label": "Péché",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4390,7 +4555,8 @@
 "label": "Ruine",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4483,7 +4649,8 @@
 "label": "Sorcellerie",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4795,7 +4962,8 @@
 "label": "Consumer ",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4856,7 +5024,8 @@
 "label": "Serviteur",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5211,7 +5380,8 @@
 "label": "Adorer",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14084,6 +14254,15 @@
 "label": "L'Éternel, Yahvé",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+}
 ]
 }
 },
@@ -15510,6 +15689,15 @@
 "label": "Fils de Dieu",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+}
 ]
 }
 },
@@ -16371,7 +16559,8 @@
 "label": "Synagogue",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16630,7 +16819,8 @@
 "label": "Sage",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18206,6 +18396,15 @@
 "label": "Douze",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"confidence": 0.5521,
+"match_method": "scored",
+"preferred_label": "A Disciple"
+}
 ]
 }
 },
@@ -18365,7 +18564,8 @@
 "label": "Exil",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18459,6 +18659,15 @@
 "label": "Juger",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Divine",
+"type": "keyterm",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "divin"
+}
 ]
 }
 },
@@ -18542,7 +18751,8 @@
 "label": "loi",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18730,7 +18940,8 @@
 "label": "Temple, maison de Dieu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18842,7 +19053,8 @@
 "end_ref_usfm": "MAT 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -18938,7 +19150,8 @@
 "label": "autorité",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19016,7 +19229,8 @@
 "label": "Humble",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19293,7 +19507,8 @@
 "label": "Disciple",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19464,7 +19679,8 @@
 "label": "Tribu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19556,7 +19772,8 @@
 "label": "Hériter",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19764,7 +19981,8 @@
 "end_ref_usfm": "REV 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

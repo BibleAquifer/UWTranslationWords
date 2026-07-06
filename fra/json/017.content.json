@@ -95,6 +95,15 @@
 "label": "Sacrifice de péché",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6194,
+"match_method": "scored",
+"preferred_label": "offrande"
+}
 ]
 }
 },
@@ -144,6 +153,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sacrificer",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6087,
+"match_method": "scored",
+"preferred_label": "offrande"
 }
 ]
 }
@@ -301,7 +319,8 @@
 "label": "Sacrifice de péché",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -404,7 +423,8 @@
 "label": "Pain azyme",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -691,6 +711,15 @@
 "label": "Prophète",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.6894,
+"match_method": "scored",
+"preferred_label": "oint"
+}
 ]
 }
 },
@@ -914,6 +943,22 @@
 "label": "Mont des Oliviers",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.5938,
+"match_method": "scored",
+"preferred_label": "montagne des oliviers"
+}
 ]
 }
 },
@@ -964,6 +1009,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Thirtsa",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Omri.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
 }
 ]
 }
@@ -2098,7 +2173,8 @@
 "label": "Temple, maison de Dieu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2234,7 +2310,8 @@
 "label": "loi",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2363,6 +2440,15 @@
 "label": "Blé",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barley"
+}
 ]
 }
 },
@@ -2452,6 +2538,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Zacharie (AT)",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Hosea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Osée"
 }
 ]
 }
@@ -2548,6 +2643,36 @@
 "label": "Moïse",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Hoshea.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hosée"
+},
+{
+"id": "person:Hoshea.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hosée"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josué"
+},
+{
+"id": "person:Hoshea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Osée"
+}
 ]
 }
 },
@@ -2596,6 +2721,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Elisée",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
 }
 ]
 }
@@ -2697,6 +2831,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Tour de garde",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Uzziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ozias"
+},
+{
+"id": "person:Uzziah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ozias"
+},
+{
+"id": "person:Uzziah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ozias"
+},
+{
+"id": "person:Uzziah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ozias"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ozias"
 }
 ]
 }

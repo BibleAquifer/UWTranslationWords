@@ -57,6 +57,15 @@
 "label": "羅馬城",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Census",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Census"
+}
 ]
 }
 },
@@ -605,7 +614,8 @@
 "label": "雅巍",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -929,7 +939,8 @@
 "label": "忍耐",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1135,7 +1146,8 @@
 "label": "忍耐",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1226,7 +1238,8 @@
 "label": "試煉",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1860,7 +1873,16 @@
 "end_ref_usfm": "NUM 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Appoint"
+}
+]
 }
 }
 ]

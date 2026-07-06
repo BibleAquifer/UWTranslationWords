@@ -160,7 +160,8 @@
 "label": "راعي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -275,7 +276,8 @@
 "label": "يوسف (العهد القديم)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -773,7 +775,8 @@
 "label": "روح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -911,6 +914,15 @@
 "label": "شمعون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْجَنوبِ"
+}
 ]
 }
 },
@@ -971,7 +983,8 @@
 "label": "إفتراء",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1057,6 +1070,50 @@
 "resource_code": "UWTranslationWords",
 "label": "أوريَّا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Nathan.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
+},
+{
+"id": "person:Nathan.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
+},
+{
+"id": "person:Nathan.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
+},
+{
+"id": "person:Nathan.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
+},
+{
+"id": "person:Nathan.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
+},
+{
+"id": "person:Nathan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
 }
 ]
 }
@@ -1197,6 +1254,29 @@
 "label": "رِفقَة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Nahor.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاحورَ"
+},
+{
+"id": "person:Nahor",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاحورَ"
+},
+{
+"id": "place:Nahor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nahor"
+}
 ]
 }
 },
@@ -1247,6 +1327,22 @@
 "resource_code": "UWTranslationWords",
 "label": "نبي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Nahum.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاحومَ"
+},
+{
+"id": "person:Nahum",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاحومَ"
 }
 ]
 }
@@ -1509,6 +1605,15 @@
 "label": "جوزيف NT",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاصِرَة"
+}
 ]
 }
 },
@@ -1769,6 +1874,15 @@
 "label": "شريعة موسى",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.63,
+"match_method": "scored",
+"preferred_label": "Law"
+}
 ]
 }
 },
@@ -1847,6 +1961,15 @@
 "resource_code": "UWTranslationWords",
 "label": "راعي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
 }
 ]
 }
@@ -1965,6 +2088,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ميشائيل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَبوخَذْنَاصَّر"
 }
 ]
 }
@@ -3299,7 +3431,8 @@
 "label": "رؤيا",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3420,7 +3553,8 @@
 "label": "نبي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3722,7 +3856,8 @@
 "label": "هيكل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3832,6 +3967,29 @@
 "label": "أورشليم",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Nehemiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَحَمْيَا"
+},
+{
+"id": "person:Nehemiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَحَمْيَا"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَحَمْيَا"
+}
 ]
 }
 },
@@ -3912,6 +4070,15 @@
 "label": "سلام",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "صورَ"
+}
 ]
 }
 },
@@ -3980,6 +4147,15 @@
 "resource_code": "UWTranslationWords",
 "label": "زكريا (العهد القديم)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
 }
 ]
 }
@@ -4090,6 +4266,15 @@
 "resource_code": "UWTranslationWords",
 "label": "نبوخذنصر/نبوخذناصر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vulture"
 }
 ]
 }
@@ -4256,7 +4441,8 @@
 "label": "نوح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4392,7 +4578,16 @@
 "end_ref_usfm": "MRK 6:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sandal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sandal"
+}
+]
 }
 },
 {
@@ -4460,6 +4655,36 @@
 "resource_code": "UWTranslationWords",
 "label": "نبي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Naaman.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نعْمَان"
+},
+{
+"id": "person:Naaman.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نعْمَان"
+},
+{
+"id": "person:Naaman.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نعْمَان"
+},
+{
+"id": "person:Naaman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نعْمَان"
 }
 ]
 }
@@ -5263,7 +5488,23 @@
 "end_ref_usfm": "GEN 43:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.9515,
+"match_method": "scored",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.6121,
+"match_method": "scored",
+"preferred_label": "Kindness"
+}
+]
 }
 },
 {
@@ -5373,6 +5614,22 @@
 "label": "يعقوب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَفْتَالِي"
+},
+{
+"id": "group:Naphtali",
+"type": "group",
+"confidence": 0.7067,
+"match_method": "scored",
+"preferred_label": "نَفْتَالِي"
+}
 ]
 }
 },
@@ -5469,6 +5726,15 @@
 "label": "موسى",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Veil"
+}
 ]
 }
 },
@@ -5544,6 +5810,15 @@
 "label": "رؤيا",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leopard"
+}
 ]
 }
 },
@@ -5559,7 +5834,8 @@
 "content": "<h1>نَهْب، منهوب، غنيمة، غنائم</h1><h2>حقائق:</h2><p>تشير مصطلحات &quot;غنيمة&quot; و&quot;نَهْب&quot;، عند استخدامها كأسماء، إلى الأشياء التي تؤخذ بالقوة من شخص أو مكان، عادةً في وقت الحرب. والفعل &quot;ينهب&quot; يعني أخذ الأشياء من شخص أو مكان، عادةً بالقوة وخلال وقت الحرب.</p><ul><li><p>عند تَرْجَمَة الفعل &quot;ينهب&quot; في سياق الحرب، يجب استخدام كلمة مختلفة عن الفعل &quot;يسرق&quot; لأن &quot;يسرق&quot; عادةً ما تعني ارتكاب فعل خطأ ولكن أن &quot;ينهب&quot; شيئًا في الحرب ليس بالضرورة خطية.</p></li><li><p>يمكنك تَرْجَمَة الفعل &quot;ينهب&quot; بكلمة مثل &quot;يسلب&quot; أو بعبارة وصفية &quot;يأخذ البضائع من&quot;.</p></li><li><p>كذلك يمكنك تَرْجَمَة مصطلح &quot;غنيمة&quot; بعبارة وصفية مثل &quot;البضائع المنهوبة&quot; أو &quot;الأشياء المنهوبة&quot;.</p></li><li><p>واعتمادًا على السياق، يمكنك تَرْجَمَة مصطلح &quot;نهب&quot; بعبارة وصفية مثل &quot;البضائع المستولي عليها&quot; أو بعبارة وصفية أخرى أو بمصطلح مثل &quot;غنيمة&quot; أو &quot;غنائم&quot;.</p></li><li><p>قد تحتوي لغتك على كلمة للأشياء التي يتم أخذها بالقوة و/أو في وقت الحرب.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونج:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5759,6 +6035,15 @@
 "label": "بحر الجليل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْأرْدنِّ"
+}
 ]
 }
 },
@@ -5934,6 +6219,15 @@
 "resource_code": "UWTranslationWords",
 "label": "موسى",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِي"
 }
 ]
 }
@@ -6230,6 +6524,22 @@
 "label": "نسل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نوحٌ"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نوحٌ"
+}
 ]
 }
 },
@@ -6334,6 +6644,15 @@
 "resource_code": "UWTranslationWords",
 "label": "عبد",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoke"
 }
 ]
 }
@@ -6462,6 +6781,22 @@
 "resource_code": "UWTranslationWords",
 "label": "يتوب",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نِينَوَى"
+},
+{
+"id": "group:Nineveh",
+"type": "group",
+"confidence": 0.675,
+"match_method": "scored",
+"preferred_label": "نِينَوَى"
 }
 ]
 }

@@ -160,6 +160,15 @@
 "label": "浪費",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
+}
 ]
 }
 },
@@ -1293,7 +1302,8 @@
 "label": "聖殿",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1428,6 +1438,15 @@
 "resource_code": "UWTranslationWords",
 "label": "瘟疫",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Locust"
 }
 ]
 }

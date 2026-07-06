@@ -75,6 +75,29 @@
 "label": "忿怒",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.56,
+"match_method": "scored",
+"preferred_label": "Must"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.5515,
+"match_method": "scored",
+"preferred_label": "Vine"
+}
 ]
 }
 },
@@ -193,7 +216,8 @@
 "label": "法老",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1211,7 +1235,8 @@
 "label": "罪",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1512,6 +1537,15 @@
 "label": "贖金",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.7217,
+"match_method": "scored",
+"preferred_label": "Redeem"
+}
 ]
 }
 },
@@ -1717,6 +1751,15 @@
 "resource_code": "UWTranslationWords",
 "label": "救",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8909,
+"match_method": "scored",
+"preferred_label": "Savior"
 }
 ]
 }

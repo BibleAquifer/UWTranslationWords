@@ -48,7 +48,16 @@
 "end_ref_usfm": "SNG 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deer"
+}
+]
 }
 },
 {
@@ -129,6 +138,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الفلسطينيون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "غَزَّةَ"
 }
 ]
 }
@@ -527,7 +545,8 @@
 "label": "الخطية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -698,6 +717,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يفدي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:CoverLid",
+"type": "realia",
+"confidence": 0.7105,
+"match_method": "scored",
+"preferred_label": "Cover Lid"
 }
 ]
 }
@@ -1139,6 +1167,22 @@
 "label": "هيكل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Curtain",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Curtain"
+},
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.6776,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
 ]
 }
 },
@@ -1250,6 +1294,15 @@
 "resource_code": "UWTranslationWords",
 "label": "بولس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "غَلَاطِيَّةَ"
 }
 ]
 }
@@ -1393,7 +1446,23 @@
 "end_ref_usfm": "ROM 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Zealous.3",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Zealous"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.8454,
+"match_method": "embedding",
+"preferred_label": "Jealous"
+}
+]
 }
 },
 {
@@ -1518,6 +1587,36 @@
 "resource_code": "UWTranslationWords",
 "label": "حسد",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+},
+{
+"id": "keyterm:Resentment",
+"type": "keyterm",
+"confidence": 0.7332,
+"match_method": "scored",
+"preferred_label": "Resentment"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "Jealous"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.6391,
+"match_method": "scored",
+"preferred_label": "Passion"
 }
 ]
 }

@@ -130,7 +130,8 @@
 "label": "篩選",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -943,7 +944,8 @@
 "label": "聖殿",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1004,6 +1006,15 @@
 "resource_code": "UWTranslationWords",
 "label": "參孫",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delilah"
 }
 ]
 }
@@ -1140,6 +1151,29 @@
 "resource_code": "UWTranslationWords",
 "label": "波斯",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
 }
 ]
 }
@@ -1306,6 +1340,15 @@
 "label": "敘利亞",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Damascus"
+}
 ]
 }
 },
@@ -1434,6 +1477,15 @@
 "resource_code": "UWTranslationWords",
 "label": "約翰福音 6:9 (#1)",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barley"
 }
 ]
 }
@@ -1706,6 +1758,15 @@
 "label": "試探",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Snake"
+}
 ]
 }
 },
@@ -1773,6 +1834,22 @@
 "resource_code": "UWTranslationWords",
 "label": "省份",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsus"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "Tarsians"
 }
 ]
 }
@@ -2238,6 +2315,22 @@
 "label": "掃羅",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "David"
+}
 ]
 }
 },
@@ -2311,6 +2404,22 @@
 "resource_code": "UWTranslationWords",
 "label": "耶路撒冷",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "City of David"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6075,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -2400,7 +2509,8 @@
 "label": "王",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2510,6 +2620,15 @@
 "resource_code": "UWTranslationWords",
 "label": "聖殿",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod"
 }
 ]
 }

@@ -2177,7 +2177,8 @@
 "label": "罪",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2299,6 +2300,15 @@
 "resource_code": "UWTranslationWords",
 "label": "巫術",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Magic"
 }
 ]
 }
@@ -2589,6 +2599,15 @@
 "label": "誹謗",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.8375,
+"match_method": "scored",
+"preferred_label": "Blaspheme"
+}
 ]
 }
 },
@@ -2672,7 +2691,8 @@
 "label": "聖殿",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2781,6 +2801,15 @@
 "resource_code": "UWTranslationWords",
 "label": "聖潔",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"confidence": 0.6706,
+"match_method": "scored",
+"preferred_label": "Profane"
 }
 ]
 }

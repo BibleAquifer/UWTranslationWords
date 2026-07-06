@@ -237,7 +237,8 @@
 "label": "罪",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -361,7 +362,8 @@
 "end_ref_usfm": "JOB 27:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2050,6 +2052,22 @@
 "label": "族長",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Egypt",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+}
 ]
 }
 },
@@ -2140,6 +2158,22 @@
 "resource_code": "UWTranslationWords",
 "label": "耶利哥",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ai"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ai"
 }
 ]
 }
@@ -3842,6 +3876,15 @@
 "label": "罪",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.9583,
+"match_method": "scored",
+"preferred_label": "Love"
+}
 ]
 }
 },
@@ -3903,6 +3946,15 @@
 "resource_code": "UWTranslationWords",
 "label": "愛",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.6005,
+"match_method": "scored",
+"preferred_label": "Love"
 }
 ]
 }

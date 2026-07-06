@@ -58,6 +58,15 @@
 "label": "非利士人",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philistia"
+}
 ]
 }
 },
@@ -233,6 +242,29 @@
 "label": "死海",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.6935,
+"match_method": "scored",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Philistine",
+"type": "person",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "Philistine"
+}
 ]
 }
 },
@@ -326,6 +358,29 @@
 "resource_code": "UWTranslationWords",
 "label": "撒母耳",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
 }
 ]
 }
@@ -433,6 +488,22 @@
 "resource_code": "UWTranslationWords",
 "label": "西拉",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philippi"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6364,
+"match_method": "scored",
+"preferred_label": "Philippians"
 }
 ]
 }
@@ -560,6 +631,36 @@
 "label": "腓利",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+}
 ]
 }
 },
@@ -640,6 +741,15 @@
 "resource_code": "UWTranslationWords",
 "label": "泰爾",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phoenicia"
 }
 ]
 }
@@ -815,7 +925,8 @@
 "label": "褻瀆",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

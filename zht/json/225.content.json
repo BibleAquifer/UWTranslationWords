@@ -618,7 +618,8 @@
 "end_ref_usfm": "MAT 21:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -895,7 +896,8 @@
 "label": "獻祭",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -987,7 +989,8 @@
 "label": "繼承",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1132,6 +1135,22 @@
 "resource_code": "UWTranslationWords",
 "label": "竿（杖）",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Staff"
 }
 ]
 }
@@ -1292,6 +1311,15 @@
 "resource_code": "UWTranslationWords",
 "label": "帳棚",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
 }
 ]
 }
@@ -1550,6 +1578,15 @@
 "resource_code": "UWTranslationWords",
 "label": "帳幕",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent"
 }
 ]
 }

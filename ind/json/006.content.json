@@ -94,6 +94,36 @@
 "label": "Hawa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Eden.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "person:Eden",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "place:Eden",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Garden of Eden"
+}
 ]
 }
 },
@@ -260,6 +290,29 @@
 "label": "Nabi",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Edom"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Edomites"
+}
 ]
 }
 },
@@ -423,6 +476,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Timotius",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Efesus"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.6727,
+"match_method": "scored",
+"preferred_label": "Ephesians"
 }
 ]
 }
@@ -602,7 +671,23 @@
 "end_ref_usfm": "EXO 28:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Ephod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Efod"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephod"
+}
+]
 }
 },
 {
@@ -749,6 +834,36 @@
 "label": "Manasye",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Efraim"
+},
+{
+"id": "place:Ephraim.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Efraim"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Efraim"
+}
 ]
 }
 },
@@ -830,6 +945,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Israel",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Ephrathah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Efrata"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betlehem"
+},
+{
+"id": "group:Ephrathah",
+"type": "group",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Ephrathites"
 }
 ]
 }
@@ -914,6 +1052,15 @@
 "label": "Gat",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Ekron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ekron"
+}
 ]
 }
 },
@@ -986,6 +1133,64 @@
 "resource_code": "UWTranslationWords",
 "label": "Sem",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Elam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "group:Elam",
+"type": "group",
+"confidence": 0.6333,
+"match_method": "scored",
+"preferred_label": "Elamites"
 }
 ]
 }
@@ -1089,6 +1294,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nebukadnezar",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vulture"
 }
 ]
 }
@@ -1206,6 +1420,64 @@
 "resource_code": "UWTranslationWords",
 "label": "Keperkasaan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
 }
 ]
 }
@@ -1447,6 +1719,36 @@
 "label": "Nabi",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Elijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elia"
+},
+{
+"id": "person:Elijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elia"
+},
+{
+"id": "person:Elijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elia"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elia"
+}
 ]
 }
 },
@@ -1514,6 +1816,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nabi",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elisa"
 }
 ]
 }
@@ -1593,6 +1904,15 @@
 "label": "Yohanes (Pembaptis)",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Elizabeth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elisabet"
+}
 ]
 }
 },
@@ -1665,6 +1985,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Yosia",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Eliakim.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elyakim"
+},
+{
+"id": "person:Eliakim.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elyakim"
+},
+{
+"id": "person:Eliakim.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elyakim"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoyakim"
+},
+{
+"id": "person:Eliakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elyakim"
 }
 ]
 }
@@ -2792,7 +3149,8 @@
 "label": "Bait Suci",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2807,7 +3165,16 @@
 "content": "<h1>Enak, Orang Enak</h1><h2>Fakta:</h2><p>Enak adalah nama seorang laki-laki yang ayahnya adalah Arba dan keturunannya disebut “Anakit” atau “Anakim” atau “Enak”.</p><ul><li><p>Orang-orang Enak adalah bangsa yang sangat tinggi.</p></li><li><p>Orang-orang Enak adalah kelompok suku yang mendiami tanah yang dijanjikan Yahweh untuk diberikan kepada bangsa Israel. Bangsa Israel akhirnya menaklukkan dan merampas wilayah mereka.</p></li><li><p>Anak mempunyai tiga orang putra atau keturunan yang diberi nama Ahiman, Sesai, dan Talmai.</p></li><li><p>Nama “Enak” adalah transliterasi dari kata Ibrani untuk Anak.</p></li></ul><p>(Lihat juga: <span data-bnType=\"resourceReference\" data-resourceId=\"25827\" data-resourceType=\"UWTranslationWords\">Hebron</span>)</p><p>(Saran terjemahan: Bagaimana Menerjemahkan Nama)</p><h2>Referensi Alkitab:</h2><h2>Data Kata:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Anak",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enak"
+}
+]
 }
 },
 {
@@ -2883,6 +3250,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kebun anggur",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Engedi",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "En-Gedi"
 }
 ]
 }
@@ -3385,6 +3761,22 @@
 "label": "Ribka",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.6427,
+"match_method": "scored",
+"preferred_label": "Edom"
+}
 ]
 }
 },
@@ -3439,6 +3831,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mordekhai",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ester"
 }
 ]
 }
@@ -3531,6 +3932,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Kasim",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Ethiopia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Etiopia"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"confidence": 0.6286,
+"match_method": "scored",
+"preferred_label": "Ethiopians"
 }
 ]
 }
@@ -3753,6 +4170,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Bait Suci",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Ezra.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezra"
+},
+{
+"id": "person:Ezra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezra"
 }
 ]
 }

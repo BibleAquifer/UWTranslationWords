@@ -94,6 +94,36 @@
 "label": "夏娃",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Eden.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "person:Eden",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "place:Eden",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Garden of Eden"
+}
 ]
 }
 },
@@ -178,6 +208,15 @@
 "resource_code": "UWTranslationWords",
 "label": "撒迦利亞 NT",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Elizabeth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elizabeth"
 }
 ]
 }
@@ -277,6 +316,22 @@
 "resource_code": "UWTranslationWords",
 "label": "腓利",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Ethiopia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ethiopia"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"confidence": 0.6286,
+"match_method": "scored",
+"preferred_label": "Ethiopians"
 }
 ]
 }
@@ -444,6 +499,29 @@
 "label": "先知",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Edom"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Edomites"
+}
 ]
 }
 },
@@ -591,6 +669,36 @@
 "label": "瑪拿西",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Ephraim Gate"
+}
 ]
 }
 },
@@ -672,6 +780,29 @@
 "resource_code": "UWTranslationWords",
 "label": "以色列",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Ephrathah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephrathah"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "group:Ephrathah",
+"type": "group",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Ephrathites"
 }
 ]
 }
@@ -859,6 +990,22 @@
 "label": "祭司",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Ephod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephod"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephod"
+}
 ]
 }
 },
@@ -1023,6 +1170,22 @@
 "label": "提摩太",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephesus"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.6727,
+"match_method": "scored",
+"preferred_label": "Ephesians"
+}
 ]
 }
 },
@@ -1115,6 +1278,15 @@
 "label": "石頭",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Iconium"
+}
 ]
 }
 },
@@ -1205,6 +1377,15 @@
 "label": "非利士人",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Ekron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ekron"
+}
 ]
 }
 },
@@ -1278,6 +1459,64 @@
 "label": "閃",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Elam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "group:Elam",
+"type": "group",
+"confidence": 0.6333,
+"match_method": "scored",
+"preferred_label": "Elamites"
+}
 ]
 }
 },
@@ -1345,6 +1584,15 @@
 "resource_code": "UWTranslationWords",
 "label": "先知",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elisha"
 }
 ]
 }
@@ -1600,6 +1848,36 @@
 "label": "雅巍",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Elijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+}
 ]
 }
 },
@@ -1686,6 +1964,43 @@
 "resource_code": "UWTranslationWords",
 "label": "法老",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Eliakim.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliakim"
+},
+{
+"id": "person:Eliakim.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliakim"
+},
+{
+"id": "person:Eliakim.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliakim"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiakim"
+},
+{
+"id": "person:Eliakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliakim"
 }
 ]
 }
@@ -1803,6 +2118,64 @@
 "resource_code": "UWTranslationWords",
 "label": "偉大",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
 }
 ]
 }
@@ -1936,6 +2309,22 @@
 "resource_code": "UWTranslationWords",
 "label": "塞特",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Enoch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enoch"
+},
+{
+"id": "person:Enoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enoch"
 }
 ]
 }
@@ -2621,6 +3010,15 @@
 "label": "撒拉",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaac"
+}
 ]
 }
 },
@@ -2712,6 +3110,29 @@
 "resource_code": "UWTranslationWords",
 "label": "利亞",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Issachar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Issachar"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Issachar"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.5567,
+"match_method": "scored",
+"preferred_label": "Tribe of Issachar"
 }
 ]
 }
@@ -2966,6 +3387,15 @@
 "resource_code": "UWTranslationWords",
 "label": "烏西雅",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaiah"
 }
 ]
 }
@@ -3467,6 +3897,22 @@
 "resource_code": "UWTranslationWords",
 "label": "利百加",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.6427,
+"match_method": "scored",
+"preferred_label": "Edom"
 }
 ]
 }
@@ -5447,6 +5893,29 @@
 "label": "國家",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.6187,
+"match_method": "scored",
+"preferred_label": "Israelites"
+}
 ]
 }
 },
@@ -5625,7 +6094,8 @@
 "label": "西布倫",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5708,6 +6178,22 @@
 "resource_code": "UWTranslationWords",
 "label": "撒馬利亞",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Israel"
 }
 ]
 }
@@ -5940,6 +6426,57 @@
 "label": "撒拉",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Ishmael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Ishmaelites"
+}
 ]
 }
 },
@@ -6162,6 +6699,22 @@
 "label": "聖殿",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Ezra.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezra"
+},
+{
+"id": "person:Ezra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezra"
+}
 ]
 }
 },
@@ -6224,6 +6777,15 @@
 "label": "波斯",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esther"
+}
 ]
 }
 },
@@ -6280,6 +6842,15 @@
 "resource_code": "UWTranslationWords",
 "label": "先知",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezekiel"
 }
 ]
 }
@@ -6460,6 +7031,15 @@
 "resource_code": "UWTranslationWords",
 "label": "夢",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
 }
 ]
 }
@@ -6729,7 +7309,8 @@
 "label": "約翰福音 12:42 (#1)",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

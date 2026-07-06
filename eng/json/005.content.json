@@ -161,6 +161,15 @@
 "label": "Believe",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Damascus"
+}
 ]
 }
 },
@@ -271,6 +280,29 @@
 "label": "Jacob",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Tribe of Dan"
+}
 ]
 }
 },
@@ -331,6 +363,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Nebuchadnezzar",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chileab"
 }
 ]
 }
@@ -468,6 +523,29 @@
 "label": "Persia",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+}
 ]
 }
 },
@@ -523,6 +601,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Zion",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.7015,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -988,6 +1075,22 @@
 "label": "Saul",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "David"
+}
 ]
 }
 },
@@ -1062,6 +1165,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Judge",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.785,
+"match_method": "scored",
+"preferred_label": "Judgment"
 }
 ]
 }
@@ -1248,7 +1360,8 @@
 "label": "Jude 1:6 (#8)",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1309,7 +1422,8 @@
 "label": "Servant",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1949,7 +2063,8 @@
 "end_ref_usfm": "LEV 19:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2244,6 +2359,22 @@
 "label": "Preach",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.8086,
+"match_method": "embedding",
+"preferred_label": "Proclaim"
+}
 ]
 }
 },
@@ -2443,6 +2574,15 @@
 "label": "Law",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Decree"
+}
 ]
 }
 },
@@ -2539,7 +2679,8 @@
 "label": "Commit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2591,7 +2732,16 @@
 "end_ref_usfm": "SNG 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deer"
+}
+]
 }
 },
 {
@@ -2819,6 +2969,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Profane",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Stain",
+"type": "keyterm",
+"confidence": 0.6316,
+"match_method": "scored",
+"preferred_label": "Defile"
 }
 ]
 }
@@ -3100,7 +3259,16 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Delight"
+}
+]
 }
 },
 {
@@ -3161,6 +3329,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Samson",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delilah"
 }
 ]
 }
@@ -3547,6 +3724,22 @@
 "label": "Save",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Deliver",
+"type": "keyterm",
+"confidence": 0.6409,
+"match_method": "scored",
+"preferred_label": "Deliver"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.5867,
+"match_method": "scored",
+"preferred_label": "Rescue"
+}
 ]
 }
 },
@@ -3562,7 +3755,8 @@
 "content": "<h1>deliver, hand over, turn over, release</h1><h2>Definition:</h2><ul><li><p>The term &quot;deliver&quot; or “deliver over to” or “deliver up to” can mean to turn someone over to an enemy or adversary, such as when Judas delivered Jesus over to the Jewish leaders or when God delivered Israel over to their enemies because of their repeated sin.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>When &quot;deliver&quot; means for a person or person to deliver someone over to an enemy it can be translated as “betray” or “hand over” or “give over.” When &quot;deliver&quot; refers to God giving people over to an adversary it can be translated as &quot;hand over&quot; or &quot;give over.&quot;</p></li></ul><h2>Bible References:</h2><h2>Examples from Bible stories:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H1350, H2020, H2502, H3205, H3444, H3467, H4042, H4422, H4672, H5337, H5414, H5462, H6299, H6403, H6413, H6475, H6561, H7725, H7804, H8199, G03250, G05250, G06290, G10800, G13250, G15600, G16590, G18070, G19290, G26730, G30860, G38600, G45060, G49910, G50880, G54830</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4155,6 +4349,15 @@
 "label": "Satan",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.7977,
+"match_method": "scored",
+"preferred_label": "Demons"
+}
 ]
 }
 },
@@ -4274,6 +4477,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Demon",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.8845,
+"match_method": "scored",
+"preferred_label": "Be Demon Possessed"
 }
 ]
 }
@@ -4440,7 +4652,8 @@
 "label": "Noah",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4523,7 +4736,8 @@
 "label": "Temple",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5049,7 +5263,8 @@
 "end_ref_usfm": "GEN 37:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5212,6 +5427,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Waste",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -5540,7 +5764,8 @@
 "label": "Passover",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5613,7 +5838,8 @@
 "label": "Divination",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5667,7 +5893,8 @@
 "label": "Ruin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5979,7 +6206,8 @@
 "label": "Consume",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6238,7 +6466,8 @@
 "label": "Wise",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7814,6 +8043,15 @@
 "label": "The Twelve",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"confidence": 0.5521,
+"match_method": "scored",
+"preferred_label": "A Disciple"
+}
 ]
 }
 },
@@ -7844,7 +8082,8 @@
 "label": "Fear",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7970,7 +8209,8 @@
 "label": "Honor",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7993,7 +8233,8 @@
 "label": "Honor",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8152,7 +8393,8 @@
 "label": "Persecute",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8245,7 +8487,8 @@
 "label": "Sorcery",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8338,6 +8581,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Judge",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Divine",
+"type": "keyterm",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Divine"
 }
 ]
 }
@@ -8451,7 +8703,8 @@
 "end_ref_usfm": "MAT 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8547,7 +8800,8 @@
 "label": "Authority",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8851,7 +9105,16 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Donkey"
+}
+]
 }
 },
 {
@@ -8891,7 +9154,8 @@
 "end_ref_usfm": "PSA 92:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8963,6 +9227,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Passover",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Doorpost",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Doorpost"
 }
 ]
 }
@@ -9102,6 +9375,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Olive",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dove"
 }
 ]
 }
@@ -9385,7 +9667,8 @@
 "label": "Vision",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9469,6 +9752,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Grain Offering",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Wine"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -9632,7 +9931,8 @@
 "label": "Wine",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9680,7 +9980,8 @@
 "label": "Gate",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

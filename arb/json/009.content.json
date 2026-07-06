@@ -159,7 +159,8 @@
 "label": "ذبيحة الخطيئة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -250,6 +251,15 @@
 "resource_code": "UWTranslationWords",
 "label": "خروف",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wolf"
 }
 ]
 }
@@ -376,6 +386,15 @@
 "resource_code": "UWTranslationWords",
 "label": "فطير (خبز غير مختمر)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -548,7 +567,8 @@
 "label": "عبد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1217,7 +1237,8 @@
 "label": "عبادة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1291,6 +1312,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ذبيحة الخطيئة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -1391,6 +1421,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الخطية",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -1495,7 +1534,8 @@
 "label": "فطير (خبز غير مختمر)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1523,7 +1563,8 @@
 "end_ref_usfm": "EXO 21:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1717,6 +1758,15 @@
 "label": "حكيم",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.7778,
+"match_method": "scored",
+"preferred_label": "Crafty"
+}
 ]
 }
 },
@@ -1900,7 +1950,8 @@
 "label": "الخطية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3033,7 +3084,8 @@
 "label": "هيكل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 }
 ]

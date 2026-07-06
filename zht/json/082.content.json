@@ -160,6 +160,29 @@
 "label": "靈",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.8857,
+"match_method": "scored",
+"preferred_label": "Brier"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"confidence": 0.6976,
+"match_method": "scored",
+"preferred_label": "Boxthorn"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.6595,
+"match_method": "scored",
+"preferred_label": "Thistle"
+}
 ]
 }
 },
@@ -358,7 +381,8 @@
 "label": "僕人",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -386,7 +410,8 @@
 "end_ref_usfm": "EXO 21:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -447,6 +472,15 @@
 "label": "恐怖",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.8114,
+"match_method": "embedding",
+"preferred_label": "Terror"
+}
 ]
 }
 },
@@ -502,7 +536,8 @@
 "label": "摩押",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1010,6 +1045,22 @@
 "label": "獻祭",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.8545,
+"match_method": "scored",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Worship"
+}
 ]
 }
 },
@@ -1282,7 +1333,8 @@
 "label": "公義",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1343,7 +1395,8 @@
 "label": "榮耀",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1428,7 +1481,8 @@
 "label": "尊貴",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

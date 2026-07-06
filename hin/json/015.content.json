@@ -129,6 +129,22 @@
 "label": "नरक",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नरक"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pit"
+}
 ]
 }
 },
@@ -212,6 +228,15 @@
 "label": "पलिश्तियों",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गत"
+}
 ]
 }
 },
@@ -261,6 +286,15 @@
 "resource_code": "UWTranslationWords",
 "label": "जैतून पर्वत",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गतसमनी"
 }
 ]
 }
@@ -566,7 +600,16 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Donkey"
+}
+]
 }
 },
 {
@@ -679,7 +722,8 @@
 "label": "सदोम",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -775,6 +819,22 @@
 "resource_code": "UWTranslationWords",
 "label": "ज्योतिषी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
+},
+{
+"id": "realia:Myrrh",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
 }
 ]
 }
@@ -880,6 +940,15 @@
 "resource_code": "UWTranslationWords",
 "label": "पलिश्तियों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गरार"
 }
 ]
 }
@@ -1113,7 +1182,8 @@
 "end_ref_usfm": "GEN 38:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1371,6 +1441,15 @@
 "label": "गर्भ",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.9514,
+"match_method": "embedding",
+"preferred_label": "Perceive"
+}
 ]
 }
 },
@@ -1408,7 +1487,8 @@
 "label": "घमंडी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1519,6 +1599,15 @@
 "resource_code": "UWTranslationWords",
 "label": "पौलुस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गलातिया"
 }
 ]
 }
@@ -2002,6 +2091,29 @@
 "label": "गलील सागर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गलील"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6747,
+"match_method": "scored",
+"preferred_label": "यहूदिया"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "गलीली"
+}
 ]
 }
 },
@@ -2317,6 +2429,22 @@
 "resource_code": "UWTranslationWords",
 "label": "यूहन्ना 6:1 (#3)",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.6157,
+"match_method": "scored",
+"preferred_label": "गलील"
 }
 ]
 }
@@ -3774,6 +3902,15 @@
 "label": "गवाही",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.6153,
+"match_method": "scored",
+"preferred_label": "Testimony"
+}
 ]
 }
 },
@@ -3804,7 +3941,8 @@
 "label": "गवाही",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3872,6 +4010,22 @@
 "resource_code": "UWTranslationWords",
 "label": "गलील सागर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गशूर"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Geshurites"
 }
 ]
 }
@@ -3954,6 +4108,15 @@
 "resource_code": "UWTranslationWords",
 "label": "पलिश्तियों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गाज़ा"
 }
 ]
 }
@@ -4052,6 +4215,22 @@
 "resource_code": "UWTranslationWords",
 "label": "जिल्पा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गाद"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गाद"
 }
 ]
 }
@@ -4677,6 +4856,15 @@
 "label": "जूआ",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cattle"
+}
 ]
 }
 },
@@ -4777,7 +4965,8 @@
 "end_ref_usfm": "2CO 8:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4859,6 +5048,15 @@
 "label": "यहोवा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गिदोन"
+}
 ]
 }
 },
@@ -4920,6 +5118,29 @@
 "resource_code": "UWTranslationWords",
 "label": "यरूशलेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Gibeah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गिबा"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.7833,
+"match_method": "scored",
+"preferred_label": "Gibeah"
 }
 ]
 }
@@ -4988,6 +5209,22 @@
 "resource_code": "UWTranslationWords",
 "label": "यरूशलेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गिबोन"
+},
+{
+"id": "group:Gibeon",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "गिबोनी"
 }
 ]
 }
@@ -5069,6 +5306,15 @@
 "label": "नूह",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Girgashites"
+}
 ]
 }
 },
@@ -5143,6 +5389,36 @@
 "resource_code": "UWTranslationWords",
 "label": "यरदन नदी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गलील"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
 }
 ]
 }
@@ -5268,6 +5544,36 @@
 "label": "रूबेन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गिलाद"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गिलाद"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गिलाद"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गिलाद"
+}
 ]
 }
 },
@@ -5358,6 +5664,22 @@
 "resource_code": "UWTranslationWords",
 "label": "चौकस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Tower"
 }
 ]
 }
@@ -5792,7 +6114,8 @@
 "label": "प्रचार करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5840,6 +6163,15 @@
 "resource_code": "UWTranslationWords",
 "label": "जैतून पर्वत",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गुलगुता"
 }
 ]
 }
@@ -6043,6 +6375,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ओसाई",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wheat"
 }
 ]
 }
@@ -6347,7 +6688,8 @@
 "label": "जाति",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6395,7 +6737,8 @@
 "label": "फाटक",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6449,6 +6792,15 @@
 "resource_code": "UWTranslationWords",
 "label": "पलिश्तियों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Goliath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गोलियत"
 }
 ]
 }
@@ -6590,6 +6942,22 @@
 "resource_code": "UWTranslationWords",
 "label": "नील नदी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गोशेन"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गोशेन"
 }
 ]
 }

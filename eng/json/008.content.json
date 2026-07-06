@@ -93,6 +93,15 @@
 "label": "Zechariah NT",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabriel"
+}
 ]
 }
 },
@@ -190,6 +199,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Zilpah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
 }
 ]
 }
@@ -302,6 +327,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Paul",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatia"
 }
 ]
 }
@@ -784,6 +818,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Sea of Galilee",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6747,
+"match_method": "scored",
+"preferred_label": "Judea"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Galileans"
 }
 ]
 }
@@ -1485,7 +1542,86 @@
 "end_ref_usfm": "DEU 21:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:WaterGate",
+"type": "place",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Water Gate"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Sheep Gate"
+},
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Dung Gate"
+},
+{
+"id": "place:ValleyGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Valley Gate"
+},
+{
+"id": "place:FountainGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Fountain Gate"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Door"
+},
+{
+"id": "place:FishGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Fish Gate"
+},
+{
+"id": "place:BeautifulGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Beautiful Gate"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Ephraim Gate"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "Horse Gate"
+},
+{
+"id": "place:EastGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "East Gate"
+}
+]
 }
 },
 {
@@ -1568,6 +1704,15 @@
 "label": "Philistines",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gath"
+}
 ]
 }
 },
@@ -1649,6 +1794,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistines",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaza"
 }
 ]
 }
@@ -2154,7 +2308,8 @@
 "label": "Descendant",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2177,7 +2332,8 @@
 "label": "Descendant",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2192,7 +2348,8 @@
 "content": "<h1>generation</h1><h2>Definition:</h2><p>The term “generation” in this sense refers to people who are alive at the same time. These people generally share the same culture, experiences, and way of life.</p><h2>Translation Suggestions</h2><ul><li><p>The phrase “the generation of his fathers” could be translated as “his ancestors” or “those who have lived before him.”</p></li><li><p>The phrase “this generation” or “people of this generation” could be translated as “the people living now” or “you people.”</p></li><li><p>The phrase “future generations” could be translated as “those living after us” or “people living at a later time.”</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2746,6 +2903,15 @@
 "label": "Jew",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
 ]
 }
 },
@@ -2851,6 +3017,15 @@
 "label": "Philistines",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gerar"
+}
 ]
 }
 },
@@ -2920,6 +3095,22 @@
 "label": "Sea of Galilee",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Geshur"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Geshurites"
+}
 ]
 }
 },
@@ -2969,6 +3160,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mount of Olives",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gethsemane"
 }
 ]
 }
@@ -3020,7 +3220,8 @@
 "label": "Philistines",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3081,6 +3282,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Jerusalem",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gibeah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.7833,
+"match_method": "scored",
+"preferred_label": "Gibeah"
 }
 ]
 }
@@ -3149,6 +3373,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Jerusalem",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeon"
+},
+{
+"id": "group:Gibeon",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Gibeonites"
 }
 ]
 }
@@ -3231,6 +3471,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Yahweh",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gideon"
 }
 ]
 }
@@ -3356,6 +3605,36 @@
 "label": "Reuben",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+}
 ]
 }
 },
@@ -3430,6 +3709,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Jordan River",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
 }
 ]
 }
@@ -3551,7 +3860,8 @@
 "label": "Loins",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3630,6 +3940,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Noah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Girgashites"
 }
 ]
 }
@@ -3760,7 +4079,8 @@
 "label": "Ruth",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5191,6 +5511,15 @@
 "label": "Praise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.9464,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
 ]
 }
 },
@@ -5428,6 +5757,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Wine",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goat"
 }
 ]
 }
@@ -14302,6 +14640,15 @@
 "label": "Yahweh",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
 ]
 }
 },
@@ -15728,6 +16075,15 @@
 "label": "Son of God",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
 ]
 }
 },
@@ -16000,7 +16356,8 @@
 "label": "Righteous",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17133,7 +17490,8 @@
 "label": "Temple",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17181,6 +17539,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mount of Olives",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Golgotha"
 }
 ]
 }
@@ -17236,6 +17603,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistines",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Goliath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goliath"
 }
 ]
 }
@@ -17390,6 +17766,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sodom",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomorrah"
 }
 ]
 }
@@ -19643,6 +20028,22 @@
 "label": "Righteous",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.6895,
+"match_method": "scored",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.6097,
+"match_method": "scored",
+"preferred_label": "Honest"
+}
 ]
 }
 },
@@ -20275,6 +20676,15 @@
 "label": "Save",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9802,
+"match_method": "scored",
+"preferred_label": "Good News"
+}
 ]
 }
 },
@@ -20416,6 +20826,22 @@
 "label": "Nile River",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
+}
 ]
 }
 },
@@ -20476,7 +20902,8 @@
 "label": "Slander",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20828,7 +21255,8 @@
 "label": "Ruler",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21630,7 +22058,23 @@
 "end_ref_usfm": "GEN 43:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.9515,
+"match_method": "scored",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.6121,
+"match_method": "scored",
+"preferred_label": "Kindness"
+}
+]
 }
 },
 {
@@ -21972,6 +22416,22 @@
 "label": "Wheat",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grain"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Wheat"
+}
 ]
 }
 },
@@ -22070,6 +22530,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sin Offering",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6194,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -22187,6 +22656,15 @@
 "label": "Wine",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
+}
 ]
 }
 },
@@ -22287,6 +22765,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Thessalonica",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greece"
 }
 ]
 }
@@ -22539,6 +23026,22 @@
 "label": "John 12:20 (#2)",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greeks"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.7441,
+"match_method": "scored",
+"preferred_label": "Javan"
+}
 ]
 }
 },
@@ -22722,7 +23225,8 @@
 "label": "Sin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -22796,6 +23300,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sin Offering",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }

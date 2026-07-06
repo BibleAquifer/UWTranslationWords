@@ -119,7 +119,8 @@
 "label": "भविष्यद्वक्ता",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -593,7 +594,8 @@
 "label": "चिताना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -813,6 +815,22 @@
 "label": "सैनिक",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Breastplate",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Breastplate"
+},
+{
+"id": "realia:Breast-piece",
+"type": "realia",
+"confidence": 0.7634,
+"match_method": "scored",
+"preferred_label": "Breast-Piece"
+}
 ]
 }
 },
@@ -934,7 +952,8 @@
 "label": "भविष्यद्वक्ता",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 }
 ]

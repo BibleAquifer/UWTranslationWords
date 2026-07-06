@@ -1769,7 +1769,8 @@
 "label": "神的國",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1901,6 +1902,15 @@
 "resource_code": "UWTranslationWords",
 "label": "王",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Palace"
 }
 ]
 }
@@ -2219,6 +2229,15 @@
 "label": "祭司",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8609,
+"match_method": "scored",
+"preferred_label": "Kingdom"
+}
 ]
 }
 },
@@ -2326,7 +2345,8 @@
 "label": "袍子",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2484,7 +2504,8 @@
 "label": "靈",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2702,6 +2723,22 @@
 "resource_code": "UWTranslationWords",
 "label": "試探",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Trap",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trap"
+},
+{
+"id": "realia:Net",
+"type": "realia",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "Net"
 }
 ]
 }

@@ -93,6 +93,15 @@
 "label": "Zacarias NT",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabriel"
+}
 ]
 }
 },
@@ -190,6 +199,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Zilpa",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gade"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gade"
 }
 ]
 }
@@ -327,6 +352,15 @@
 "label": "Praga",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Locust"
+}
 ]
 }
 },
@@ -438,6 +472,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Paulo",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galácia"
 }
 ]
 }
@@ -921,6 +964,29 @@
 "label": "Mar da Galileia",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galileia"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6747,
+"match_method": "scored",
+"preferred_label": "Judeia"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Galileans"
+}
 ]
 }
 },
@@ -1004,6 +1070,15 @@
 "label": "Filisteus",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gate"
+}
 ]
 }
 },
@@ -1085,6 +1160,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Filisteus",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaza"
 }
 ]
 }
@@ -1640,6 +1724,15 @@
 "label": "Judeu",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
 ]
 }
 },
@@ -2144,7 +2237,8 @@
 "label": "Descendente",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2167,7 +2261,8 @@
 "label": "Descendente",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2182,7 +2277,8 @@
 "content": "<h1>geração</h1><h2>Definição:</h2><p>O termo “geração” neste sentido refere-se às pessoas que estão vivas ao mesmo tempo. Essas pessoas geralmente compartilham a mesma cultura, experiências e modo de vida.</p><h2>Sugestões de Tradução</h2><ul><li><p>A frase “a geração de seus pais” poderia ser traduzida como “seus antepassados” ou “aqueles que viveram antes dele”.</p></li><li><p>A frase “esta geração” ou “pessoas desta geração” poderia ser traduzida como “as pessoas que vivem agora” ou “vocês”.</p></li><li><p>A frase “gerações futuras” poderia ser traduzida como “aqueles que viverão depois de nós” ou “pessoas que viverão posteriormente”.</p></li></ul><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2197,7 +2293,8 @@
 "content": "<h1>gerar, gerou, concebeu, gerado</h1><h2>Definição:</h2><p>O termo “gerar” significa tornar-se pai de alguém.</p><h2>Sugestões de Tradução:</h2><ul><li><p>Você poderia traduzir a frase “gerar” como “trazer à existência” e o termo “concebeu” como “tornou-se pai de” e o termo “procriou” como “deu vida”.</p></li><li><p>O termo “gerado” é a forma passiva de “gerar” e significa “nascer”.</p></li></ul><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p></p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2301,6 +2398,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Filisteus",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gerar"
 }
 ]
 }
@@ -2500,7 +2606,8 @@
 "label": "Servo",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2569,6 +2676,22 @@
 "label": "Mar da Galileia",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gesur"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Geshurites"
+}
 ]
 }
 },
@@ -2618,6 +2741,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Monte das Oliveiras",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Getsêmani"
 }
 ]
 }
@@ -2680,6 +2812,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Jerusalém",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Gibeah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeá"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.7833,
+"match_method": "scored",
+"preferred_label": "Gibeah"
 }
 ]
 }
@@ -2748,6 +2903,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Jerusalém",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeão"
+},
+{
+"id": "group:Gibeon",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Gibeonites"
 }
 ]
 }
@@ -2831,6 +3002,15 @@
 "label": "Javé",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gideão"
+}
 ]
 }
 },
@@ -2881,7 +3061,8 @@
 "label": "Filisteus",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3005,6 +3186,36 @@
 "label": "Rúben",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileade"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileade"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileade"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileade"
+}
 ]
 }
 },
@@ -3079,6 +3290,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Rio Jordão",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galileia"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
 }
 ]
 }
@@ -3159,6 +3400,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Noé",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Girgashites"
 }
 ]
 }
@@ -4591,6 +4841,15 @@
 "label": "Louvar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.9464,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
 ]
 }
 },
@@ -4639,6 +4898,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Monte das Oliveiras",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Golgotha"
 }
 ]
 }
@@ -4694,6 +4962,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Filisteus",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Goliath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Golias"
 }
 ]
 }
@@ -4849,6 +5126,15 @@
 "label": "Sodoma",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomorra"
+}
 ]
 }
 },
@@ -4989,6 +5275,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Rio Nilo",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gósen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gósen"
 }
 ]
 }
@@ -5342,7 +5644,8 @@
 "label": "Roma",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6203,7 +6506,8 @@
 "label": "Sinagoga",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7005,7 +7309,23 @@
 "end_ref_usfm": "GEN 43:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.9515,
+"match_method": "scored",
+"preferred_label": "favor"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.6121,
+"match_method": "scored",
+"preferred_label": "kindness"
+}
+]
 }
 },
 {
@@ -7141,7 +7461,8 @@
 "end_ref_usfm": "MAT 28:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7483,6 +7804,22 @@
 "label": "Trigo",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grain"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Wheat"
+}
 ]
 }
 },
@@ -7583,6 +7920,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tessalônica",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grécia"
 }
 ]
 }
@@ -7834,6 +8180,22 @@
 "resource_code": "UWTranslationWords",
 "label": "João 12.20 (#2)",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greeks"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.7441,
+"match_method": "scored",
+"preferred_label": "Javã"
 }
 ]
 }
@@ -10106,7 +10468,8 @@
 "label": "Mundo",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10385,7 +10748,8 @@
 "label": "Túmulo",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 }
 ]

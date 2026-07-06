@@ -399,6 +399,15 @@
 "label": "罪",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.9613,
+"match_method": "scored",
+"preferred_label": "Repent"
+}
 ]
 }
 },
@@ -453,7 +462,8 @@
 "label": "毀滅",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -573,7 +583,8 @@
 "label": "毀壞",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -900,7 +911,8 @@
 "label": "逾越節",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1510,6 +1522,15 @@
 "label": "帳幕",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
 ]
 }
 },
@@ -1929,6 +1950,15 @@
 "label": "敬拜",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
 ]
 }
 },
@@ -2011,7 +2041,8 @@
 "end_ref_usfm": "PRO 15:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

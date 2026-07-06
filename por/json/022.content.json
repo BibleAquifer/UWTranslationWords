@@ -620,6 +620,15 @@
 "label": "Jugo",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cattle"
+}
 ]
 }
 },
@@ -712,6 +721,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Monte das Oliveiras",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cedrom"
 }
 ]
 }
@@ -893,7 +911,8 @@
 "label": "Falso deus",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1039,6 +1058,22 @@
 "label": "Cajado",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Staff"
+}
 ]
 }
 },
@@ -1162,7 +1197,8 @@
 "label": "Profeta",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1217,6 +1253,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pérsia",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Vashti",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vasti"
 }
 ]
 }
@@ -1450,7 +1495,8 @@
 "end_ref_usfm": "GEN 38:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2190,7 +2236,8 @@
 "label": "Adorar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2285,6 +2332,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Moisés",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Veil"
 }
 ]
 }
@@ -2424,6 +2480,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Vinhedo",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -3215,7 +3280,8 @@
 "end_ref_usfm": "MAT 25:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3275,7 +3341,8 @@
 "label": "Vigiar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3763,6 +3830,15 @@
 "label": "Servo",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.6092,
+"match_method": "scored",
+"preferred_label": "Chain"
+}
 ]
 }
 },
@@ -3950,6 +4026,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Justo",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.7655,
+"match_method": "scored",
+"preferred_label": "fazer justiça"
 }
 ]
 }
@@ -4228,6 +4313,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Videira",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -4700,6 +4794,29 @@
 "label": "Lagar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Must"
+}
 ]
 }
 },
@@ -4871,7 +4988,8 @@
 "label": "Maria",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5050,6 +5168,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sonho",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "vision"
 }
 ]
 }
@@ -5426,7 +5553,8 @@
 "label": "Samaria",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5784,7 +5912,8 @@
 "end_ref_usfm": "JHN 5:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

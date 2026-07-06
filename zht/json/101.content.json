@@ -371,7 +371,8 @@
 "label": "撒馬利亞",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -446,6 +447,36 @@
 "resource_code": "UWTranslationWords",
 "label": "西布倫",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Rimmon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rimmon"
+},
+{
+"id": "place:Ain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ain"
+},
+{
+"id": "deity:Rimmon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rimmon"
+},
+{
+"id": "place:Rimmon.3",
+"type": "place",
+"confidence": 0.6889,
+"match_method": "scored",
+"preferred_label": "Rock of Rimmon"
 }
 ]
 }

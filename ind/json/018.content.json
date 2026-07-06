@@ -57,6 +57,22 @@
 "label": "Daud",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Rabbah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rabbah"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amon"
+}
 ]
 }
 },
@@ -72,7 +88,23 @@
 "content": "<h1>Rafa, Orang Refaim, Refaim,</h1><h2>Fakta-fakta:</h2><p>Istilah “Rafa” adalah sebutan untuk sekelompok penduduk yang tinggal di suatu lokasi di sisi timur sungai Yordan. Kaum “Rafa” disebut “orang Refaim” atau “Refaim”</p><ul><li><p>Ada sebuah lembah yang dinamai menurut kelompok suku ini, “lembah orang Refaim,” yang disebutkan enam kali dalam Perjanjian Lama.</p></li><li><p>“Rafa” adalah transliterasi bahasa Inggris dari kata Ibrani. Sulit untuk menentukan dengan pasti apa arti kata “Rafa” dan akibatnya jenis makhluk apa yang dimaksud dengan kata “Rafa”. Istilah “Rafa” bisa merujuk pada sekelompok orang yang hidup, roh, atau makhluk kuasi-ilahi. Karena alasan inilah banyak terjemahan bahasa Inggris memilih untuk mentransliterasikan kata dalam bahasa aslinya (Ibrani) menjadi “orang Rafa” atau “Refaim.” Anda mungkin ingin melakukan hal yang sama dalam terjemahan saudara.</p></li><li><p>Kelompok bangsa Amon disebut orang Refaim dengan nama “orang Zamzumim” (Lihat Ulangan 2:20).</p></li></ul><p>(Saran Penerjemahan: How to Translate Names, Copy or Borrow Words)</p><h2>Referensi Alkitab</h2><h2>Data Kata:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rapha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rafa"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rephaim"
+}
+]
 }
 },
 {
@@ -87,7 +119,23 @@
 "content": "<h1>Rafa, Orang Rafa, Lembah Rafa</h1><h2>Fakta-fakta:</h2><p>Istilah “Rafa” adalah sebutan untuk sekelompok penduduk yang tinggal di suatu lokasi di sisi timur sungai Yordan. Kata ini juga digunakan untuk merujuk pada orang mati atau roh mereka. “Rafa” disebut “Orang Rafa” atau “Refaim.”</p><ul><li><p>Ada sebuah lembah yang dinamai menurut kelompok suku ini, “lembah Rafa,” yang disebutkan enam kali dalam Perjanjian Lama.</p></li><li><p>“Rafa” adalah transliterasi bahasa Inggris dari kata Ibrani. Sulit untuk menentukan dengan pasti apa arti kata “Rapha” dan akibatnya jenis makhluk apa yang dimaksud dengan kata “Rapha”, apakah sekelompok manusia hidup, roh, atau makhluk kuasi-ilahi. Karena alasan inilah banyak terjemahan bahasa Inggris memilih untuk mentransliterasikan kata dalam bahasa aslinya (Ibrani) menjadi “Rephaites” atau “Rephaim.” Anda mungkin ingin melakukan hal yang sama dalam terjemahan Anda.</p></li><li><p>Dalam Ayub 26:5, Mazmur 88:10, Amsal 2:18, Amsal 9:18, Amsal 21:16, Yesaya 14:9, Yesaya 26:14, dan Yesaya 26:19 istilah “Raphaites” mengacu pada manusia yang sudah mati atau kepada “roh” mereka.</p></li><li><p>Dalam semua kejadian lain dalam Perjanjian Lama, istilah “Raphaites” mengacu pada kelompok masyarakat yang merupakan manusia yang hidup dan membentuk kelompok masyarakat tertentu.</p></li><li><p>Kelompok bangsa Amon menyebut bangsa Rafaim dengan nama “orang Zamzumim” (Lihat Ulangan 2:20).</p></li><li><p>Istilah “Rafa” menunjuk pada kelompok orang yang hidup dalam setiap kejadian dalam Perjanjian Lama kecuali dalam 1 Tawarikh 8:2 dan 8:37. Dalam dua ayat ini, istilah Rafa menunjuk pada nama seorang laki-laki (laki-laki yang berbeda di setiap ayat).</p></li></ul><p>(Saran Penerjemahan: How to Translate Names, Copy or Borrow Words)</p><h2>References:</h2><h2>Data Kata:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rosh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rosh"
+},
+{
+"id": "person:Rapha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rafa"
+}
+]
 }
 },
 {
@@ -153,6 +201,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Yerikho",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rahab"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesir"
 }
 ]
 }
@@ -391,7 +455,8 @@
 "label": "Yahudi",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -712,6 +777,15 @@
 "label": "Yusuf (PL)",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rahel"
+}
 ]
 }
 },
@@ -944,7 +1018,8 @@
 "end_ref_usfm": "GEN 38:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2703,7 +2778,8 @@
 "label": "Kerajaan Allah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2869,6 +2945,15 @@
 "label": "Kerajaan Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.576,
+"match_method": "scored",
+"preferred_label": "Jews"
+}
 ]
 }
 },
@@ -2959,6 +3044,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Benyamin",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramot-Gilead"
+},
+{
+"id": "place:Ramah.6",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.8",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rama"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"confidence": 0.6654,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Ramah"
 }
 ]
 }
@@ -3077,6 +3213,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Perlindungan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "place:Remeth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramot"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Ramot-Gilead"
 }
 ]
 }
@@ -3585,7 +3744,8 @@
 "label": "Paulus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3698,7 +3858,8 @@
 "label": "Sheba",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3766,6 +3927,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Salomo",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rehabeam"
 }
 ]
 }
@@ -3958,6 +4128,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bangga",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Poor",
+"type": "keyterm",
+"confidence": 0.6143,
+"match_method": "scored",
+"preferred_label": "miskin"
 }
 ]
 }
@@ -4211,6 +4390,15 @@
 "label": "Negev",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ribka"
+}
 ]
 }
 },
@@ -4279,6 +4467,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Siria",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Rimmon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rimon"
+},
+{
+"id": "place:Ain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ain"
+},
+{
+"id": "deity:Rimmon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rimon"
+},
+{
+"id": "place:Rimmon.3",
+"type": "place",
+"confidence": 0.6889,
+"match_method": "scored",
+"preferred_label": "Rock of Rimmon"
 }
 ]
 }
@@ -5409,6 +5627,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Jiwa",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.7622,
+"match_method": "scored",
+"preferred_label": "roh"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.6368,
+"match_method": "scored",
+"preferred_label": "Roh"
 }
 ]
 }
@@ -6777,6 +7011,15 @@
 "label": "Roh",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Roh"
+}
 ]
 }
 },
@@ -6947,6 +7190,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pilatus",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Roma"
 }
 ]
 }
@@ -7992,6 +8244,22 @@
 "label": "Bait Suci",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -8124,6 +8392,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Yacob",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ruben"
 }
 ]
 }
@@ -10571,7 +10848,16 @@
 "end_ref_usfm": "2JN 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "House"
+}
+]
 }
 },
 {
@@ -10889,6 +11175,22 @@
 "label": "Bait Suci",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7847,
+"match_method": "scored",
+"preferred_label": "House"
+}
 ]
 }
 },
@@ -11093,7 +11395,8 @@
 "label": "Rumah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11285,7 +11588,8 @@
 "label": "Jahat",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11426,6 +11730,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hakim",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rut"
 }
 ]
 }

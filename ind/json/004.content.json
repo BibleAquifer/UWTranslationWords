@@ -77,7 +77,8 @@
 "label": "Dosa",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -187,6 +188,15 @@
 "label": "Kudus",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"confidence": 0.6706,
+"match_method": "scored",
+"preferred_label": "biasa"
+}
 ]
 }
 },
@@ -239,7 +249,30 @@
 "end_ref_usfm": "PSA 104:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.7667,
+"match_method": "scored",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.7667,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
+}
+]
 }
 },
 {
@@ -364,6 +397,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Iri hati",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+},
+{
+"id": "keyterm:Resentment",
+"type": "keyterm",
+"confidence": 0.7332,
+"match_method": "scored",
+"preferred_label": "iri hati"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "cemburu"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.6391,
+"match_method": "scored",
+"preferred_label": "mencurigai"
 }
 ]
 }

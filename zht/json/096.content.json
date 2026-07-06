@@ -87,6 +87,15 @@
 "label": "牛",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Plough",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Plough"
+}
 ]
 }
 },
@@ -196,6 +205,22 @@
 "resource_code": "UWTranslationWords",
 "label": "松樹",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lebanon"
+},
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "Mount Hermon"
 }
 ]
 }
@@ -483,7 +508,16 @@
 "end_ref_usfm": "PRO 27:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
+}
+]
 }
 },
 {
@@ -1553,6 +1587,22 @@
 "label": "智慧",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.6948,
+"match_method": "scored",
+"preferred_label": "Perceive"
+},
+{
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"confidence": 0.6294,
+"match_method": "scored",
+"preferred_label": "Understanding"
+}
 ]
 }
 },
@@ -1805,6 +1855,15 @@
 "label": "南地",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rebekah"
+}
 ]
 }
 },
@@ -1860,6 +1919,15 @@
 "resource_code": "UWTranslationWords",
 "label": "大蛇",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "fauna:GiantCroccodile",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leviathan"
 }
 ]
 }
@@ -2431,6 +2499,22 @@
 "label": "聖殿",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.8227,
+"match_method": "scored",
+"preferred_label": "Levi"
+}
 ]
 }
 },
@@ -2721,6 +2805,15 @@
 "resource_code": "UWTranslationWords",
 "label": "西布倫",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leah"
 }
 ]
 }
@@ -3106,7 +3199,8 @@
 "label": "利益-精神",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3129,7 +3223,8 @@
 "label": "利益",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3206,7 +3301,8 @@
 "label": "所羅門",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

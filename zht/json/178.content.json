@@ -1176,6 +1176,15 @@
 "label": "僕人",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.5616,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
 ]
 }
 },
@@ -3533,6 +3542,22 @@
 "resource_code": "UWTranslationWords",
 "label": "神的國",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.8545,
+"match_method": "scored",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Heavenly",
+"type": "keyterm",
+"confidence": 0.5614,
+"match_method": "scored",
+"preferred_label": "Heavenly"
 }
 ]
 }

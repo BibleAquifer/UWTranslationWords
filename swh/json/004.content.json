@@ -154,7 +154,8 @@
 "label": "Mkate Usiotiwa Chachu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -533,7 +534,8 @@
 "label": "Kristo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -737,7 +739,8 @@
 "label": "Gharika",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -801,7 +804,8 @@
 "end_ref_usfm": "EZK 20:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -875,6 +879,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mawindo",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leopard"
 }
 ]
 }
@@ -1138,6 +1151,15 @@
 "label": "Mungu wa Uongo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Abomination",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Abomination"
+}
 ]
 }
 },
@@ -1160,6 +1182,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Silaha",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Yiron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ironi"
 }
 ]
 }

@@ -139,6 +139,15 @@
 "label": "誓約",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
+}
 ]
 }
 },
@@ -224,6 +233,15 @@
 "resource_code": "UWTranslationWords",
 "label": "撒但",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satan"
 }
 ]
 }

@@ -176,7 +176,8 @@
 "label": "假神",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -347,7 +348,8 @@
 "label": "僕人",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -449,6 +451,22 @@
 "resource_code": "UWTranslationWords",
 "label": "先知",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Tubal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubal"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubal"
 }
 ]
 }

@@ -19,7 +19,8 @@
 "label": "神",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -81,6 +82,22 @@
 "resource_code": "UWTranslationWords",
 "label": "地中海",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Sharon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sharon"
+},
+{
+"id": "place:Sharon.2",
+"type": "place",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Sharon Plain"
 }
 ]
 }

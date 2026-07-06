@@ -91,6 +91,43 @@
 "label": "Mungu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baali"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baali"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baali"
+}
 ]
 }
 },
@@ -161,6 +198,22 @@
 "label": "Samaki wa chumvi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baali"
+},
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 0.5643,
+"match_method": "scored",
+"preferred_label": "Peori"
+}
 ]
 }
 },
@@ -209,6 +262,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mungu wa Uongo",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Baasha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baasha"
 }
 ]
 }
@@ -259,6 +321,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mesopotamia",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Babeli"
 }
 ]
 }
@@ -503,6 +574,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Nebukadneza",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babeli"
+},
+{
+"id": "group:Babylon",
+"type": "group",
+"confidence": 0.6118,
+"match_method": "scored",
+"preferred_label": "Babylonians"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
 }
 ]
 }
@@ -813,6 +914,22 @@
 "label": "Samaki wa chumvi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.6157,
+"match_method": "scored",
+"preferred_label": "Galilaya"
+}
 ]
 }
 },
@@ -934,6 +1051,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Misri",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shamu"
 }
 ]
 }
@@ -1063,6 +1189,15 @@
 "label": "Baal-peori",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Balaamu"
+}
 ]
 }
 },
@@ -1165,6 +1300,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rumi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baraba"
 }
 ]
 }
@@ -1406,7 +1550,8 @@
 "label": "Mwandishi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2780,6 +2925,15 @@
 "label": "Sifa",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.8791,
+"match_method": "scored",
+"preferred_label": "Bless"
+}
 ]
 }
 },
@@ -3012,6 +3166,22 @@
 "label": "Paulo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barnaba"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5589,
+"match_method": "scored",
+"preferred_label": "Yuda"
+}
 ]
 }
 },
@@ -3113,6 +3283,15 @@
 "label": "Pentekoste",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bartholomayo"
+}
 ]
 }
 },
@@ -3201,6 +3380,36 @@
 "label": "Nehemia",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Baruch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruku"
+},
+{
+"id": "person:Baruch.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruku"
+},
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruku"
+},
+{
+"id": "person:Baruch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruku"
+}
 ]
 }
 },
@@ -3276,6 +3485,15 @@
 "label": "Syria",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bashani"
+}
 ]
 }
 },
@@ -3337,6 +3555,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Uria",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
 }
 ]
 }
@@ -3826,7 +4053,8 @@
 "label": "Tubu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3849,7 +4077,8 @@
 "label": "Uovu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3872,7 +4101,8 @@
 "label": "Vumilia",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3957,6 +4187,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Shetani",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shetani"
 }
 ]
 }
@@ -4101,6 +4340,15 @@
 "label": "Ishmaeli",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beer-sheba"
+}
 ]
 }
 },
@@ -4187,6 +4435,92 @@
 "resource_code": "UWTranslationWords",
 "label": "Lawi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Benaiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaya"
 }
 ]
 }
@@ -4448,6 +4782,50 @@
 "label": "Raheli",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Benjamin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benyamini"
+},
+{
+"id": "person:Benjamin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benyamini"
+},
+{
+"id": "person:Benjamin.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benyamini"
+},
+{
+"id": "person:Benjamin.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benyamini"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benyamini"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.5974,
+"match_method": "scored",
+"preferred_label": "Benyamini"
+}
 ]
 }
 },
@@ -4522,6 +4900,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Thesalonike",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beroya"
 }
 ]
 }
@@ -4605,6 +4992,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Wafilisti",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-shemeshi"
+},
+{
+"id": "place:Beth-shemesh.2",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-shemeshi"
+},
+{
+"id": "place:Beth-shemesh.3",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-shemeshi"
 }
 ]
 }
@@ -4755,6 +5165,29 @@
 "label": "Maria Dada yake Martha",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethania"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethania"
+},
+{
+"id": "place:Bethabara",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Bethany Beyond the Jordan"
+}
 ]
 }
 },
@@ -4902,6 +5335,22 @@
 "label": "Yerusalemu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betheli"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betheli"
+}
 ]
 }
 },
@@ -5048,6 +5497,22 @@
 "label": "Micah",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Bethlehem.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehemu"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehemu"
+}
 ]
 }
 },
@@ -5153,6 +5618,22 @@
 "label": "Rebeka",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethueli"
+},
+{
+"id": "place:Bethuel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethueli"
+}
 ]
 }
 },
@@ -5238,7 +5719,8 @@
 "label": "Ndoa",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5409,7 +5891,8 @@
 "label": "Maria",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5599,7 +6082,37 @@
 "end_ref_usfm": "GEN 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Unblemished",
+"type": "keyterm",
+"confidence": 0.6774,
+"match_method": "scored",
+"preferred_label": "Unblemished"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:WithoutReproach",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Without Reproach"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.6402,
+"match_method": "scored",
+"preferred_label": "Be Blameless"
+}
+]
 }
 },
 {
@@ -5698,6 +6211,22 @@
 "label": "Raheli",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilha"
+},
+{
+"id": "place:Bilhah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilha"
+}
 ]
 }
 },
@@ -5753,6 +6282,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sayuni",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.7015,
+"match_method": "scored",
+"preferred_label": "Yerusalemu"
 }
 ]
 }
@@ -5930,6 +6468,15 @@
 "label": "Ruthu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Boazi"
+}
 ]
 }
 },
@@ -5945,7 +6492,8 @@
 "content": "<h1>bonde</h1><h2>Ufafanuzi:</h2><p>Neno &quot;bonde&quot; linamaanisha kijito cha msimu, mto wa msimu, au bonde ambalo ni mkondo cha kijito kwa kipindi fulani cha mwaka.</p><ul><li><p>&quot;bonde&quot; huwa na maji kwa sehemu ya mwaka na hukauka kwa sehemu nyingine ya mwaka.</p></li><li><p>Wakati &quot;bonde&quot; lina maji ndani yake, kiasi cha maji kilichopo kinategemea wakati wa mwaka, kiasi cha mvua kilichopokelewa katika eneo hilo, pamoja na ukubwa wa bonde lenyewe.</p></li></ul><h2>Mapendekezo ya Tafsiri:</h2><ul><li><p>Njia za kutafsiri &quot;bonde&quot; zinaweza kujumuisha &quot;mkondo wa msimu,&quot; &quot; mkondo wa mto wa msimu,&quot; &quot;bonde la mto,&quot; au &quot;korongo la mto.&quot;</p></li></ul><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p>Strong&apos;s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6037,6 +6585,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mahali pa Juu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kidroni"
 }
 ]
 }
@@ -6340,7 +6897,8 @@
 "label": "Mtumishi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6520,7 +7078,8 @@
 "label": "Mungu wa Uongo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6728,7 +7287,8 @@
 "end_ref_usfm": "GEN 27:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -11405,6 +11965,22 @@
 "label": "Mungu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesu"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+}
 ]
 }
 },
@@ -11481,6 +12057,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mungu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
 }
 ]
 }
@@ -11615,7 +12200,8 @@
 "label": "Ndoa",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11700,6 +12286,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mungu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
 }
 ]
 }

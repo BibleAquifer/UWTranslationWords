@@ -87,6 +87,22 @@
 "label": "Pengorbanan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Abel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Habel"
+},
+{
+"id": "place:Abel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Habel"
+}
 ]
 }
 },
@@ -190,6 +206,22 @@
 "label": "Neraka",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "alam maut"
+}
 ]
 }
 },
@@ -282,7 +314,8 @@
 "label": "Mewarisi",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1589,6 +1622,15 @@
 "label": "Hukum",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "hakim"
+}
 ]
 }
 },
@@ -1783,7 +1825,8 @@
 "label": "Hukum",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1882,7 +1925,8 @@
 "label": "Hukum",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2239,7 +2283,8 @@
 "label": "Sabat",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2298,6 +2343,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Imam besar",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Annas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hanas"
 }
 ]
 }
@@ -2925,6 +2979,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Firman Allah",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.9717,
+"match_method": "scored",
+"preferred_label": "harapan"
 }
 ]
 }
@@ -6642,7 +6705,8 @@
 "label": "Waktu",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6716,6 +6780,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hakim",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.785,
+"match_method": "scored",
+"preferred_label": "penghakiman"
 }
 ]
 }
@@ -6875,7 +6948,8 @@
 "label": "Dunia",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7004,7 +7078,8 @@
 "label": "Kebangkitan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7761,6 +7836,15 @@
 "label": "Musa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harun"
+}
 ]
 }
 },
@@ -7957,7 +8041,16 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.9733,
+"match_method": "scored",
+"preferred_label": "hati nurani"
+}
+]
 }
 },
 {
@@ -8017,6 +8110,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Setan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Eve",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hawa"
 }
 ]
 }
@@ -8151,6 +8253,22 @@
 "label": "Set",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Enoch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Henokh"
+},
+{
+"id": "person:Enoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Henokh"
+}
 ]
 }
 },
@@ -8236,7 +8354,8 @@
 "label": "Kehormatan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8488,6 +8607,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hukum",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.63,
+"match_method": "scored",
+"preferred_label": "hukum"
 }
 ]
 }
@@ -9463,6 +9591,15 @@
 "label": "Musa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.6197,
+"match_method": "scored",
+"preferred_label": "hukum"
+}
 ]
 }
 },
@@ -9733,6 +9870,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Menghukum",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.8146,
+"match_method": "scored",
+"preferred_label": "menentang"
 }
 ]
 }

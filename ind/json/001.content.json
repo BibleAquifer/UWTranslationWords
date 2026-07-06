@@ -2248,6 +2248,22 @@
 "label": "Benar",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.6895,
+"match_method": "scored",
+"preferred_label": "yang baik"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.6097,
+"match_method": "scored",
+"preferred_label": "baik"
+}
 ]
 }
 },
@@ -2905,7 +2921,8 @@
 "label": "Kerajaan Allah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3281,7 +3298,8 @@
 "end_ref_usfm": "JUD 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3405,7 +3423,23 @@
 "end_ref_usfm": "EXO 27:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Staff"
+}
+]
 }
 },
 {
@@ -3713,6 +3747,15 @@
 "label": "Ilah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.8118,
+"match_method": "scored",
+"preferred_label": "persundalan"
+}
 ]
 }
 },
@@ -3976,6 +4019,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Kerajaan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Robe"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.5929,
+"match_method": "scored",
+"preferred_label": "Cloak"
 }
 ]
 }
@@ -4533,7 +4592,8 @@
 "end_ref_usfm": "LUK 8:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4655,6 +4715,15 @@
 "label": "Mesir",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Teberau"
+}
 ]
 }
 },
@@ -4745,7 +4814,8 @@
 "label": "Perkenanan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4839,7 +4909,8 @@
 "end_ref_usfm": "NEH 9:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4909,7 +4980,8 @@
 "end_ref_usfm": "LUK 5:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4985,7 +5057,16 @@
 "end_ref_usfm": "JAS 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Footstool"
+}
+]
 }
 }
 ]

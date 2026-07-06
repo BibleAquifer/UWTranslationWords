@@ -60,7 +60,8 @@
 "end_ref_usfm": "JDG 19:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -235,6 +236,15 @@
 "label": "रोम",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chariot"
+}
 ]
 }
 },
@@ -285,7 +295,8 @@
 "label": "पलिश्तियों",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -345,6 +356,22 @@
 "resource_code": "UWTranslationWords",
 "label": "दाऊद",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Rabbah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rabbah"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अम्मोन"
 }
 ]
 }
@@ -490,7 +517,8 @@
 "label": "गुरु",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -558,6 +586,15 @@
 "resource_code": "UWTranslationWords",
 "label": "सुलैमान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रहबाम"
 }
 ]
 }
@@ -841,6 +878,15 @@
 "label": "राज्य",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Kingdom"
+}
 ]
 }
 },
@@ -948,7 +994,8 @@
 "label": "बागा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1106,7 +1153,8 @@
 "label": "आत्मा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1186,6 +1234,22 @@
 "resource_code": "UWTranslationWords",
 "label": "धर्मी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.7167,
+"match_method": "scored",
+"preferred_label": "Staff"
 }
 ]
 }
@@ -2960,7 +3024,8 @@
 "label": "परमेश्‍वर का राज्य",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3277,6 +3342,15 @@
 "label": "याजक",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8609,
+"match_method": "scored",
+"preferred_label": "Kingdom"
+}
 ]
 }
 },
@@ -3397,7 +3471,8 @@
 "label": "शीबा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3412,7 +3487,23 @@
 "content": "<h1><span><strong>रापा, रफाई, रफाईयों की घाटी</strong></span></h1><h2>तथ्य:</h2><p><span>“रापा” शब्द उन निवासियों के समूह का नाम है जो यर्दन नदी के पूर्वी किनारे पर रहते थे। इसका उपयोग मृत लोगों या उनकी आत्माओं के संदर्भ में भी किया जाता है। “रापा” को “रफाई” या “रापाईम” कहा जाता है।</span></p><ul><li><p><span>इस लोगों के समूह के नाम पर एक घाटी थी, &quot; रफाईयों की घाटी,&quot; जिसका उल्लेख पुरानी वाचा में छह बार किया गया है।</span></p></li><li><p><span>“रापा” एक इब्रानी शब्द का अंग्रेजी लिप्यंतरण है। यह निश्चित रूप से निर्धारित करना कठिन है कि “रापा” शब्द का क्या अर्थ है और परिणामस्वरूप “रापा” शब्द किस प्रकार के प्राणियों को संदर्भित करता है, चाहे वह जीवित लोगों का समूह हो, आत्माएं हों, या अर्ध-दैवीय प्राणी हों। इस कारण से कई अंग्रेजी अनुवादों ने मूल भाषा (इब्रानी) शब्द को “रफाई” या “रापा” के रूप में लिप्यंतरण करना चुना है। हो सकता है कि आप अपने अनुवाद में भी ऐसा ही करना चाहें।</span></p></li><li><p><span>अय्यूब 26:5, भजन संहिता 88:10, नीतिवचन 2:18, नीतिवचन 9:18, नीतिवचन 21:16, यशायाह 14:9, यशायाह 26:14, और यशायाह 26:19 में &quot; रफाई &quot; शब्द उन लोगों को संदर्भित करता है जिनकी मृत्यु हो चुकी हैं या उनकी &quot;आत्माओं&quot; को।</span></p></li><li><p><span>पुराने नियम में सभी अन्य घटनाओं में &quot; रफाई &quot; शब्द उन लोगों के समूह को संदर्भित करता है जो जीवित मानव थे और एक विशिष्ट लोगों के समूह का निर्माण करते थे।</span></p></li><li><p><span> अम्मोनियों </span>के जन समूह <span>ने रफाइयों को &quot; जमजुम्मीयों &quot; के नाम से पुकारा (देखें व्यवस्थाविवरण 2:20)।</span></p></li><li><p><span>शब्द &quot; रापा &quot; पुराने नियम में हर घटना में जीवित लोगों के समूह को संदर्भित करता है, सिवाय 1 इतिहास 8:2 और 8:37 में। इन दोनों पदों में यह एक व्यक्ति के नाम को संदर्भित करता है (प्रत्येक पद में एक अलग व्यक्ति)।</span></p><p><span>(अनुवाद सुझाव: नामों का अनुवाद कैसे करें, शब्दों की प्रतिलिपि कैसे बनाएं या उधार कैसे लें)</span></p><h2><span><strong>बाइबल संदर्भ:</strong></span></h2><h2><span><strong>शब्द सूची:</strong></span></h2><ul><li><p>स्ट्रॉन्ग <span>:</span></p></li></ul></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rosh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रोश"
+},
+{
+"id": "person:Rapha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रापा"
+}
+]
 }
 },
 {
@@ -3502,6 +3593,57 @@
 "resource_code": "UWTranslationWords",
 "label": "बिन्यामीन",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramoth-gilead"
+},
+{
+"id": "place:Ramah.6",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.8",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रामाह"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"confidence": 0.6654,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Ramah"
 }
 ]
 }
@@ -3621,6 +3763,29 @@
 "label": "शरण",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "place:Remeth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रामोत"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Ramoth-gilead"
+}
 ]
 }
 },
@@ -3694,6 +3859,22 @@
 "resource_code": "UWTranslationWords",
 "label": "वैश्या",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "राहाब"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिस्र"
 }
 ]
 }
@@ -4030,6 +4211,15 @@
 "label": "लिआ:",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "राहेल"
+}
 ]
 }
 },
@@ -4282,6 +4472,15 @@
 "label": "दक्षिण देश",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रिबका"
+}
 ]
 }
 },
@@ -4358,6 +4557,36 @@
 "label": "जबूलून",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Rimmon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रिम्मोन"
+},
+{
+"id": "place:Ain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ऐन"
+},
+{
+"id": "deity:Rimmon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रिम्मोन"
+},
+{
+"id": "place:Rimmon.3",
+"type": "place",
+"confidence": 0.6889,
+"match_method": "scored",
+"preferred_label": "Rock of Rimmon"
+}
 ]
 }
 },
@@ -4406,6 +4635,15 @@
 "resource_code": "UWTranslationWords",
 "label": "एलीशा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
 }
 ]
 }
@@ -4549,6 +4787,15 @@
 "label": "न्यायी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रूत"
+}
 ]
 }
 },
@@ -4688,6 +4935,15 @@
 "resource_code": "UWTranslationWords",
 "label": "लिआ:",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रूबेन"
 }
 ]
 }
@@ -4834,7 +5090,8 @@
 "label": "प्रतिज्ञा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5906,6 +6163,22 @@
 "label": "ख़मीर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -6077,6 +6350,15 @@
 "label": "पिलातुस",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रोम"
+}
 ]
 }
 },
@@ -6173,7 +6455,8 @@
 "label": "दाखरस",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 }
 ]

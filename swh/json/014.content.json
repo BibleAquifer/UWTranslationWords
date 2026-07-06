@@ -54,6 +54,78 @@
 "label": "Nahori",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Maacah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+},
+{
+"id": "person:Maacah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+},
+{
+"id": "person:Maacah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+},
+{
+"id": "person:Maacah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+},
+{
+"id": "person:Maacah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+},
+{
+"id": "person:Maacah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maoki"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaka"
+}
 ]
 }
 },
@@ -94,7 +166,8 @@
 "end_ref_usfm": "PSA 92:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -655,6 +728,36 @@
 "label": "Sadaka ya Nafaka",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.8943,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.8897,
+"match_method": "scored",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.8897,
+"match_method": "scored",
+"preferred_label": "Tabernacle Altar"
+}
 ]
 }
 },
@@ -702,6 +805,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Uvumba",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.565,
+"match_method": "scored",
+"preferred_label": "Altar"
 }
 ]
 }
@@ -1046,6 +1158,22 @@
 "label": "Dhabihu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.8473,
+"match_method": "scored",
+"preferred_label": "Anointing Oil"
+}
 ]
 }
 },
@@ -1126,6 +1254,15 @@
 "label": "Hekalu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 0.8042,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
 ]
 }
 },
@@ -1149,7 +1286,8 @@
 "label": "Hakimu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1222,6 +1360,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kuabudu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "High Place"
 }
 ]
 }
@@ -1434,6 +1581,36 @@
 "label": "Hema",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "patakatifu"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "Holy"
+},
+{
+"id": "realia:TheHolyPlace",
+"type": "realia",
+"confidence": 0.6125,
+"match_method": "scored",
+"preferred_label": "The Holy Place"
+}
 ]
 }
 },
@@ -1612,7 +1789,8 @@
 "label": "Simeoni",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1674,7 +1852,8 @@
 "label": "Pepeta",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1908,6 +2087,15 @@
 "label": "Thesalonike",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Makedonia"
+}
 ]
 }
 },
@@ -2039,6 +2227,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Malaika",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:WingedCreature",
+"type": "realia",
+"confidence": 0.9167,
+"match_method": "scored",
+"preferred_label": "Winged Creature"
 }
 ]
 }
@@ -3220,6 +3417,15 @@
 "label": "Mikaeli",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.5616,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
 ]
 }
 },
@@ -3298,6 +3504,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tubu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Malachi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Malaki"
 }
 ]
 }
@@ -3462,6 +3677,22 @@
 "label": "Mungu wa Uongo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+}
 ]
 }
 },
@@ -3582,7 +3813,8 @@
 "label": "Sheba",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3659,7 +3891,8 @@
 "label": "Ufalme wa Israeli",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4321,6 +4554,15 @@
 "label": "Mtawala",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.9581,
+"match_method": "scored",
+"preferred_label": "Authority"
+}
 ]
 }
 },
@@ -4451,7 +4693,8 @@
 "label": "Sabato",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4579,6 +4822,36 @@
 "label": "Yosefu Agano la Kale",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manase"
+},
+{
+"id": "person:Manasseh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manase"
+},
+{
+"id": "person:Manasseh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manase"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manase"
+}
 ]
 }
 },
@@ -4675,6 +4948,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Wanaume Waliojifunza",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
+},
+{
+"id": "realia:Myrrh",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
 }
 ]
 }
@@ -4856,6 +5145,15 @@
 "label": "Ndoto",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
+}
 ]
 }
 },
@@ -4932,7 +5230,8 @@
 "end_ref_usfm": "EZR 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5290,7 +5589,8 @@
 "end_ref_usfm": "JHN 5:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5446,6 +5746,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mose",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.8824,
+"match_method": "scored",
+"preferred_label": "Teaching"
 }
 ]
 }
@@ -5657,6 +5966,50 @@
 "label": "Bikira",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mariamu"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mariamu"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mariamu"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mariamu"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mariamu"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mariamu"
+}
 ]
 }
 },
@@ -5785,6 +6138,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Martha",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mariamu"
 }
 ]
 }
@@ -5919,6 +6281,15 @@
 "label": "Mpagawa na Pepo mchafu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mariamu"
+}
 ]
 }
 },
@@ -6040,6 +6411,15 @@
 "label": "Maria Dada yake Martha",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Martha"
+}
 ]
 }
 },
@@ -6146,7 +6526,8 @@
 "end_ref_usfm": "EZK 6:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6169,7 +6550,8 @@
 "label": "Malaika",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6247,6 +6629,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Ghadhabu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.56,
+"match_method": "scored",
+"preferred_label": "Must"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.5515,
+"match_method": "scored",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -6442,7 +6847,8 @@
 "label": "Kamata",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6634,7 +7040,8 @@
 "label": "Kuabudu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6731,6 +7138,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kodi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mathayo"
 }
 ]
 }
@@ -6841,6 +7257,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Takatifu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"confidence": 0.6706,
+"match_method": "scored",
+"preferred_label": "Profane"
 }
 ]
 }
@@ -7216,7 +7641,8 @@
 "label": "Habari Njema",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7256,7 +7682,8 @@
 "end_ref_usfm": "JER 12:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7778,7 +8205,8 @@
 "label": "Mzawa",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10136,6 +10564,22 @@
 "label": "Ufalme wa Mungu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.8545,
+"match_method": "scored",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Heavenly",
+"type": "keyterm",
+"confidence": 0.5614,
+"match_method": "scored",
+"preferred_label": "Heavenly"
+}
 ]
 }
 },
@@ -10374,6 +10818,15 @@
 "label": "Divai",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goat"
+}
 ]
 }
 },
@@ -10465,6 +10918,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kondoo",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wolf"
 }
 ]
 }
@@ -10797,7 +11259,8 @@
 "label": "Kondoo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10906,6 +11369,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Fanikiwa",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "kubwa"
 }
 ]
 }
@@ -11032,6 +11504,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mwenye Haki",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Melkizedeki"
 }
 ]
 }
@@ -11231,7 +11712,8 @@
 "label": "Mtumishi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11298,6 +11780,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Shemu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Meshech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesheki"
+},
+{
+"id": "person:Mash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mashi"
+},
+{
+"id": "place:Meshech",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesheki"
 }
 ]
 }
@@ -11367,6 +11872,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Frati",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesopotamia"
+},
+{
+"id": "place:Aram-naharaim",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Aram-naharaim"
 }
 ]
 }
@@ -11470,6 +11991,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mwerevu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -13244,7 +13774,8 @@
 "label": "Ufalme wa Mungu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13423,6 +13954,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Watu wenye hekima",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.576,
+"match_method": "scored",
+"preferred_label": "Jews"
 }
 ]
 }
@@ -13736,6 +14276,15 @@
 "label": "Samaria",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.983,
+"match_method": "scored",
+"preferred_label": "Parable"
+}
 ]
 }
 },
@@ -13827,7 +14376,8 @@
 "label": "MWANA WA MUNGU",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14149,7 +14699,8 @@
 "end_ref_usfm": "DEU 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -14355,7 +14906,8 @@
 "label": "Uvumulivu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14378,7 +14930,8 @@
 "label": "Uovu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14636,6 +15189,22 @@
 "label": "Uria",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hittites"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "Mhiti"
+}
 ]
 }
 },
@@ -14764,6 +15333,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Shekemu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
 }
 ]
 }
@@ -15318,6 +15896,22 @@
 "label": "Mtumishi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.8418,
+"match_method": "scored",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Servant",
+"type": "keyterm",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Minister"
+}
 ]
 }
 },
@@ -15456,6 +16050,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Lawi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mika"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mika"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mika"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mika"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mika"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaya"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mika"
 }
 ]
 }
@@ -15605,6 +16250,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Yethro",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Midian",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midiani"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midiani"
+},
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "Midianites"
 }
 ]
 }
@@ -16017,7 +16685,8 @@
 "label": "Farasi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16097,6 +16766,85 @@
 "resource_code": "UWTranslationWords",
 "label": "Uajemi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Michael.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikaeli"
 }
 ]
 }
@@ -16873,7 +17621,8 @@
 "label": "Utawala",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16981,6 +17730,22 @@
 "label": "Kuasi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Miriam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriamu"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriamu"
+}
 ]
 }
 },
@@ -17044,6 +17809,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Hanania",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Mishael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mishaeli"
+},
+{
+"id": "person:Mishael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mishaeli"
+},
+{
+"id": "person:Mishael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mishaeli"
 }
 ]
 }
@@ -17157,6 +17945,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sauli",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Mizpah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mispa"
 }
 ]
 }
@@ -18847,6 +19644,22 @@
 "label": "Mapatriarki",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Egypt",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misri"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misri"
+}
 ]
 }
 },
@@ -18951,6 +19764,15 @@
 "label": "Yerusalemu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yerusalemu"
+}
 ]
 }
 },
@@ -19024,6 +19846,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Yerusalemu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "City of David"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6075,
+"match_method": "scored",
+"preferred_label": "Yerusalemu"
 }
 ]
 }
@@ -19207,7 +20045,8 @@
 "label": "Yohana Mbatizaji",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20279,6 +21118,22 @@
 "label": "Chachu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -20513,6 +21368,15 @@
 "label": "Chachu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -20691,7 +21555,8 @@
 "label": "Rumi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21076,6 +21941,22 @@
 "label": "Okoa",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Deliver",
+"type": "keyterm",
+"confidence": 0.6409,
+"match_method": "scored",
+"preferred_label": "Deliver"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.5867,
+"match_method": "scored",
+"preferred_label": "Rescue"
+}
 ]
 }
 },
@@ -21165,6 +22046,22 @@
 "resource_code": "UWTranslationWords",
 "label": "MWANA WA MUNGU",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Christ",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Christians"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.69,
+"match_method": "scored",
+"preferred_label": "Yesu"
 }
 ]
 }
@@ -21258,6 +22155,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Shujaa",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Spear"
 }
 ]
 }
@@ -22027,7 +22933,8 @@
 "label": "Baraza",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -22094,6 +23001,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Syria",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hermoni"
 }
 ]
 }
@@ -22202,6 +23118,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Uajemi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Mede",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Medes"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Wamedi"
+},
+{
+"id": "place:Media",
+"type": "place",
+"confidence": 0.6505,
+"match_method": "scored",
+"preferred_label": "Umedi"
 }
 ]
 }
@@ -22387,7 +23326,16 @@
 "end_ref_usfm": "MAT 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Hypocrisy",
+"type": "keyterm",
+"confidence": 0.8083,
+"match_method": "embedding",
+"preferred_label": "Hypocrisy"
+}
+]
 }
 },
 {
@@ -22478,6 +23426,22 @@
 "label": "Tazama",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Tower"
+}
 ]
 }
 },
@@ -22546,6 +23510,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Samsoni",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
 }
 ]
 }
@@ -23019,7 +23992,8 @@
 "label": "Mifugo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23067,6 +24041,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Elisha",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
 }
 ]
 }
@@ -23260,6 +24243,15 @@
 "label": "Mwenye kiburi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Poor",
+"type": "keyterm",
+"confidence": 0.6143,
+"match_method": "scored",
+"preferred_label": "Poor"
+}
 ]
 }
 },
@@ -23378,7 +24370,8 @@
 "label": "Farao",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23556,6 +24549,22 @@
 "label": "Samaki wa chumvi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moabu"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moabu"
+}
 ]
 }
 },
@@ -23652,6 +24661,15 @@
 "label": "Mungu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:Molech",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moleki"
+}
 ]
 }
 },
@@ -23732,6 +24750,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Uajemi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordekai"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordekai"
 }
 ]
 }
@@ -25817,6 +26851,15 @@
 "label": "Amri Kumi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Musa"
+}
 ]
 }
 },
@@ -25905,7 +26948,8 @@
 "label": "Mungu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -26025,6 +27069,15 @@
 "label": "Pepo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.8845,
+"match_method": "scored",
+"preferred_label": "Be Demon Possessed"
+}
 ]
 }
 },
@@ -26092,7 +27145,8 @@
 "label": "Patana",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -26500,6 +27554,15 @@
 "label": "Upendo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.975,
+"match_method": "scored",
+"preferred_label": "Beloved"
+}
 ]
 }
 },
@@ -26562,6 +27625,15 @@
 "label": "Upendo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.6005,
+"match_method": "scored",
+"preferred_label": "Love"
+}
 ]
 }
 },
@@ -26617,7 +27689,8 @@
 "label": "Dhiki",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -27025,7 +28098,8 @@
 "label": "Shetani",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -27103,7 +28177,8 @@
 "label": "Mnyenyekevu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -27907,6 +28982,15 @@
 "label": "Mwerevu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.6677,
+"match_method": "scored",
+"preferred_label": "Foolish"
+}
 ]
 }
 },
@@ -27922,7 +29006,23 @@
 "content": "<h1>Mrefai, Warefai, Bonde la Warefai</h1><h2>Uhalisia:</h2><p>Neno &apos;Mrefai&apos; ni jina la kundi la wakaazi walioishi katika eneo la mashariki mwa Mto Yordani. Pia hutumika kurejelea watu waliokufa au roho zao. &apos;Mrefai&apos; wanaitwa &apos;Warefai&apos; au &apos;Refaimu.&apos;</p><ul><li><p>Kulikuwa na bonde lililopewa jina la kundi hili la watu, &apos;Bonde la Warefai,&apos; ambalo limetajwa mara sita katika Agano la Kale.</p></li><li><p>&apos;Rapha&apos; ni tafsiri ya Kiingereza ya neno la Kiebrania. Ni vigumu kubaini kwa uhakika neno &apos;Mrefai&apos; linamaanisha nini na kwa hivyo aina gani ya viumbe neno &apos;Mrefai&apos; linarejelea, iwe ni kundi la watu wanaoishi, roho, au viumbe wa karibu na miungu. Kwa sababu hii, tafsiri nyingi za Kiingereza zimechagua kutafsiri neno la lugha ya asili (Kiebrania) kama &apos;Rephaites&apos; au &apos;Rephaim.&apos; Unaweza fikiria kufanya jambo hilo hilo katika tafsiri yako.</p></li><li><p>Kwenye Ayubu 26:5, Zaburi 88:10, Mithali 2:18, Mithali 9:18, Mithali 21:16, Isaya 14:9, Isaya 26:14, na Isaya 26:19, neno &apos;Warefai&apos; linarejelea watu waliokufa au &apos;roho&apos; zao.</p></li><li><p>Kwenye matukio mengine yote katika Agano la Kale, neno &apos;Warefai&apos; linarejelea kundi la watu ambao walikuwa wanadamu hai na walikuwa sehemu ya kundi maalum la watu.</p></li><li><p>Kundi la Waamoni liliwaita Warefai kwa jina &apos;Wazamzumi&apos; (Tazama Kumbukumbu la Torati 2:20).</p></li><li><p>Neno &apos;Mrefai&apos; linarejelea kundi la watu wanaotajwa katika matukio mbalimbali katika Agano la Kale, isipokuwa katika 1 Mambo ya Nyakati 8:2 na 8:37. Katika mistari hii miwili, linahusiana na jina la mtu (mtu tofauti katika kila mstari).</p></li></ul><p>(Mapendekezo ya Tafsiri: Jinsi ya Kutafsiri Majina, Nakili au Kopa Maneno)</p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p>Strong&apos;s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rosh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Roshi"
+},
+{
+"id": "person:Rapha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mrefai"
+}
+]
 }
 },
 {
@@ -27937,7 +29037,23 @@
 "content": "<h1>Mrefai, Warefai, Refaimu,</h1><h2>Uhalisia:</h2><p>Neno &quot;Mrefai&quot; ni jina la kundi la wakaazi waliokuwa wakiishi katika eneo la Mashariki mwa Mto wa Yordani. &quot;Mrefai&quot; wanajulikana pia kama &quot;Warefai&quot; au &quot;Refaimu&quot;.</p><ul><li><p>Kulikuwa na bonde lililopewa jina la kundi hili la watu, &quot;Bonde la Warefai,&quot; ambalo limetajwa mara sita katika Agano la Kale.</p></li><li><p>&quot;Mrefai&quot; ni tafsiri ya neno la Kiebrania kwa Kiingereza. Ni vigumu kubaini kwa uhakika neno &quot;Mrefai&quot; linamaanisha nini na hivyo ni aina gani ya viumbe neno hili linarejelea. Neno &quot;Mrefai&quot; linaweza kumaanisha kundi la watu wanaoishi, roho, au viumbe wa karibu na miungu. Kwa sababu hii, tafsiri nyingi za Kiingereza zimechagua kutumia neno la asili (Kiebrania) kama &quot;Warefai&quot; au &quot;Refaimu.&quot; Unaweza kufikiria kufanya hivyo katika tafsiri yako.</p></li><li><p>Kundi la Waamoni liliwaita Warefai kwa jina &quot;<span>Wazamzumi</span>&quot; (Tazama Kumbukumbu la Torati 2:20).</p></li></ul><p>(Mapendekezo ya Tafsiri: Jinsi ya Kutafsiri Majina, Nakili au Kukopa Maneno)</p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rapha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mrefai"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rephaim"
+}
+]
 }
 },
 {
@@ -28082,7 +29198,8 @@
 "label": "Kurithi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -28236,6 +29353,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Viongozi wa Kiyahudi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sadducees"
 }
 ]
 }
@@ -28430,6 +29556,15 @@
 "label": "Rumi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
 ]
 }
 },
@@ -28495,6 +29630,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ashuru",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.7091,
+"match_method": "scored",
+"preferred_label": "Bow"
 }
 ]
 }
@@ -28804,6 +29948,15 @@
 "label": "Mwerevu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.6616,
+"match_method": "scored",
+"preferred_label": "Counsel"
+}
 ]
 }
 },
@@ -28968,7 +30121,8 @@
 "label": "Mchungaji",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -29287,6 +30441,15 @@
 "label": "Uumbaji",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Foundation"
+}
 ]
 }
 },
@@ -29383,6 +30546,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Takatifu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Roho"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.5682,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -29792,7 +30971,8 @@
 "label": "Takatifu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -30653,7 +31833,8 @@
 "label": "Sinagogi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -30733,6 +31914,15 @@
 "label": "Amani",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiro"
+}
 ]
 }
 },
@@ -30799,6 +31989,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Mvinje",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.7667,
+"match_method": "scored",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.7667,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -30975,6 +32188,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mose",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "mto"
 }
 ]
 }
@@ -31175,6 +32397,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bahari la Galilaya",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yordani"
 }
 ]
 }
@@ -31730,6 +32961,15 @@
 "label": "Myahudi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
 ]
 }
 },
@@ -31798,7 +33038,8 @@
 "label": "nabii",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -32312,7 +33553,8 @@
 "label": "Paulo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -35409,7 +36651,8 @@
 "label": "Mwenye Haki",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -35638,6 +36881,15 @@
 "label": "Kaburi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
+}
 ]
 }
 },
@@ -35692,6 +36944,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hema",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Acacia"
 }
 ]
 }
@@ -44566,6 +45827,15 @@
 "label": "Mungu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+}
 ]
 }
 },
@@ -48929,6 +50199,15 @@
 "label": "Bwana",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+}
 ]
 }
 },
@@ -50355,6 +51634,15 @@
 "label": "MWANA WA MUNGU",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+}
 ]
 }
 },
@@ -50710,7 +51998,8 @@
 "label": "Moleki",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -51006,6 +52295,15 @@
 "label": "Ishara",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.6163,
+"match_method": "scored",
+"preferred_label": "Miraculous Sign"
+}
 ]
 }
 },
@@ -51043,7 +52341,8 @@
 "label": "Mungu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -51123,6 +52422,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Lebanoni",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -51260,7 +52582,8 @@
 "end_ref_usfm": "MAT 28:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -51330,7 +52653,8 @@
 "end_ref_usfm": "LUK 5:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -52428,7 +53752,8 @@
 "label": "Mwezi wa Wakati wa Kibiblia",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -52861,7 +54186,8 @@
 "label": "Hubiri",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -52938,6 +54264,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Takatifu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Oak"
+},
+{
+"id": "flora:Terebinth",
+"type": "flora",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Terebinth"
 }
 ]
 }
@@ -53504,7 +54846,8 @@
 "label": "Imani",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -54052,7 +55395,8 @@
 "label": "Mungu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -54741,7 +56085,8 @@
 "label": "Wana wa Mungu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -54928,7 +56273,8 @@
 "label": "Farisayo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -56504,6 +57850,15 @@
 "label": "Kumi na wawili",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"confidence": 0.5521,
+"match_method": "scored",
+"preferred_label": "A Disciple"
+}
 ]
 }
 },
@@ -56907,6 +58262,15 @@
 "label": "Mchungaji",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheep"
+}
 ]
 }
 },
@@ -57065,7 +58429,8 @@
 "label": "Mwokozi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -57582,7 +58947,8 @@
 "label": "Farisayo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -57909,7 +59275,8 @@
 "label": "Mzaliwa wa Kwanza",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -58102,6 +59469,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mwerevu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.7778,
+"match_method": "scored",
+"preferred_label": "Crafty"
 }
 ]
 }
@@ -60184,7 +61560,8 @@
 "label": "Sheria",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -60257,7 +61634,8 @@
 "label": "Mwenye kiburi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -60311,7 +61689,8 @@
 "label": "Mwenye kiburi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -60523,7 +61902,8 @@
 "label": "Kiburi-Hisia za chanya",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -60836,6 +62216,15 @@
 "label": "Bwana",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+}
 ]
 }
 },
@@ -61074,7 +62463,8 @@
 "end_ref_usfm": "PSA 38:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -61102,7 +62492,8 @@
 "end_ref_usfm": "EXO 21:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -62278,7 +63669,8 @@
 "label": "Tunda",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -62363,6 +63755,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hekalu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cedar"
 }
 ]
 }
@@ -62457,6 +63858,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pembe",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"confidence": 0.678,
+"match_method": "scored",
+"preferred_label": "New Moon Festival"
 }
 ]
 }
@@ -62750,7 +64160,8 @@
 "end_ref_usfm": "ACT 18:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -62914,6 +64325,29 @@
 "label": "Roho",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.8857,
+"match_method": "scored",
+"preferred_label": "Brier"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"confidence": 0.6976,
+"match_method": "scored",
+"preferred_label": "Boxthorn"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.6595,
+"match_method": "scored",
+"preferred_label": "Thistle"
+}
 ]
 }
 },
@@ -62987,6 +64421,15 @@
 "label": "Pasaka",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Doorpost",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Doorpost"
+}
 ]
 }
 },
@@ -63042,7 +64485,8 @@
 "label": "Roho",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -63328,7 +64772,8 @@
 "label": "Mwangamizi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -63533,6 +64978,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Okoa",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8909,
+"match_method": "scored",
+"preferred_label": "Savior"
 }
 ]
 }
@@ -64780,6 +66234,22 @@
 "label": "Viongozi wa Kiyahudi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.571,
+"match_method": "scored",
+"preferred_label": "Yerusalemu"
+}
 ]
 }
 },
@@ -64918,6 +66388,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Shamba la mizabibu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -65196,7 +66675,8 @@
 "label": "Dhabihu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -65361,7 +66841,8 @@
 "label": "Nuhu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -65983,7 +67464,8 @@
 "end_ref_usfm": "MAT 21:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -66205,6 +67687,22 @@
 "resource_code": "UWTranslationWords",
 "label": " Mlima wa Mizeituni",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.5938,
+"match_method": "scored",
+"preferred_label": "Mizeituni"
 }
 ]
 }

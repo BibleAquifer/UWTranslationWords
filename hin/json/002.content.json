@@ -83,7 +83,8 @@
 "label": "दण्ड देना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -173,7 +174,8 @@
 "label": "अनुग्रह",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -537,7 +539,8 @@
 "end_ref_usfm": "1TH 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -735,6 +738,15 @@
 "resource_code": "UWTranslationWords",
 "label": "व्यवस्था",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Decree"
 }
 ]
 }
@@ -1866,6 +1878,22 @@
 "label": "प्राण",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.7622,
+"match_method": "scored",
+"preferred_label": "Spirit"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.6368,
+"match_method": "scored",
+"preferred_label": "पवित्र आत्मा"
+}
 ]
 }
 },
@@ -2750,6 +2778,22 @@
 "label": "परमेश्‍वर का प्रतिरूप",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Adam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आदम"
+},
+{
+"id": "place:Adam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आदम"
+}
 ]
 }
 },
@@ -3256,6 +3300,15 @@
 "label": "स्तुति",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.8725,
+"match_method": "embedding",
+"preferred_label": "Glory"
+}
 ]
 }
 },
@@ -3536,7 +3589,16 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Delight"
+}
+]
 }
 },
 {
@@ -4644,7 +4706,8 @@
 "end_ref_usfm": "1TH 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5334,6 +5397,15 @@
 "label": "पूरा करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.9076,
+"match_method": "scored",
+"preferred_label": "Surely!"
+}
 ]
 }
 },
@@ -5392,6 +5464,29 @@
 "label": "उज्जियाह",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Amos.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आमोस"
+},
+{
+"id": "person:Amos.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आमोस"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आमोन"
+}
 ]
 }
 },
@@ -5440,6 +5535,15 @@
 "resource_code": "UWTranslationWords",
 "label": "यशायाह",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Amoz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आमोस"
 }
 ]
 }
@@ -5871,7 +5975,8 @@
 "end_ref_usfm": "REV 22:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6289,6 +6394,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दंडवत करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
 }
 ]
 }
@@ -6916,6 +7030,15 @@
 "resource_code": "UWTranslationWords",
 "label": "परमेश्‍वर का वचन",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.9717,
+"match_method": "scored",
+"preferred_label": "Hope"
 }
 ]
 }
@@ -8291,6 +8414,15 @@
 "label": "स्तुति",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.8791,
+"match_method": "scored",
+"preferred_label": "Bless"
+}
 ]
 }
 },
@@ -8395,6 +8527,22 @@
 "label": "जिल्पा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Asher",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आशेर"
+},
+{
+"id": "group:Asher",
+"type": "group",
+"confidence": 0.61,
+"match_method": "scored",
+"preferred_label": "आशेर"
+}
 ]
 }
 },
@@ -8447,7 +8595,23 @@
 "end_ref_usfm": "1KI 15:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Asa.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसा"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसा"
+}
+]
 }
 },
 {
@@ -8571,6 +8735,43 @@
 "resource_code": "UWTranslationWords",
 "label": "तुरही",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Asaph.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसाप"
+},
+{
+"id": "person:Asaph.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसाप"
+},
+{
+"id": "person:Asaph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसाप"
+},
+{
+"id": "person:Ebiasaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "एब्यासाप"
+},
+{
+"id": "person:Asaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसाप"
 }
 ]
 }
@@ -8760,6 +8961,15 @@
 "label": "रोम",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसिया"
+}
 ]
 }
 },
@@ -8836,6 +9046,22 @@
 "label": "यहोवा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Ahab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहाब"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहाब"
+}
 ]
 }
 },
@@ -8876,7 +9102,8 @@
 "end_ref_usfm": "JER 12:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9075,7 +9302,8 @@
 "label": "बुलाना- नाम के लिए",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 }
 ]

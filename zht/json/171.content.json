@@ -63,6 +63,29 @@
 "label": "柏樹",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.7667,
+"match_method": "scored",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.7667,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
+}
 ]
 }
 }

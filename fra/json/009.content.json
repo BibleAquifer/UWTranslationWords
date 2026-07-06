@@ -64,6 +64,22 @@
 "label": "Jérusalem",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabaon"
+},
+{
+"id": "group:Gibeon",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Gabaonite"
+}
 ]
 }
 },
@@ -161,6 +177,15 @@
 "label": "Zacharie",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabriel"
+}
 ]
 }
 },
@@ -251,6 +276,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Jacob",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
 }
 ]
 }
@@ -397,7 +438,8 @@
 "label": "Promesse",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -521,6 +563,36 @@
 "label": "Ruben",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
+}
 ]
 }
 },
@@ -632,6 +704,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Paul",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatie"
 }
 ]
 }
@@ -1115,6 +1196,29 @@
 "label": "Mer de Galilée",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilée"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6747,
+"match_method": "scored",
+"preferred_label": "Judée"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Galiléen"
+}
 ]
 }
 },
@@ -1198,6 +1302,15 @@
 "label": "Philistins",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gath"
+}
 ]
 }
 },
@@ -1280,6 +1393,15 @@
 "label": "Philistins",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaza"
+}
 ]
 }
 },
@@ -1330,7 +1452,8 @@
 "label": "Philistins",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1411,6 +1534,15 @@
 "resource_code": "UWTranslationWords",
 "label": "L'Éternel, Yahvé",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gédéon"
 }
 ]
 }
@@ -1916,7 +2048,8 @@
 "label": "Descendant",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2470,6 +2603,15 @@
 "label": "Juif",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "nation; peuple"
+}
 ]
 }
 },
@@ -2512,6 +2654,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mont des Oliviers",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gethsémané"
 }
 ]
 }
@@ -2642,7 +2793,8 @@
 "label": "Ruth",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4073,6 +4225,15 @@
 "label": "Louer",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.9464,
+"match_method": "scored",
+"preferred_label": "gloire"
+}
 ]
 }
 },
@@ -4121,6 +4282,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mont des Oliviers",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Golgotha"
 }
 ]
 }
@@ -4176,6 +4346,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistins",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Goliath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goliath"
 }
 ]
 }
@@ -4331,6 +4510,15 @@
 "label": "Sodome",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomorrhe"
+}
 ]
 }
 },
@@ -4471,6 +4659,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Nil",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosen"
 }
 ]
 }
@@ -4824,7 +5028,8 @@
 "label": "Rome",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5626,7 +5831,23 @@
 "end_ref_usfm": "GEN 43:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.9515,
+"match_method": "scored",
+"preferred_label": "grâce"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.6121,
+"match_method": "scored",
+"preferred_label": "bonté"
+}
+]
 }
 },
 {
@@ -5967,6 +6188,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Blé",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grain"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Wheat"
 }
 ]
 }
@@ -6781,7 +7018,8 @@
 "label": "Temple, maison de Dieu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6897,6 +7135,15 @@
 "label": "Vin",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
+}
 ]
 }
 },
@@ -6997,6 +7244,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hébreu(x), hébreu(x), hébraïque",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Javan"
 }
 ]
 }
@@ -7249,6 +7505,22 @@
 "label": "Hébreu(x), hébreu(x), hébraïque",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yavanite"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.7441,
+"match_method": "scored",
+"preferred_label": "Javan"
+}
 ]
 }
 },
@@ -7354,6 +7626,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Temple, maison de Dieu",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pomegranate"
 }
 ]
 }
@@ -9626,7 +9907,8 @@
 "label": "Monde",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9730,6 +10012,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistins",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Guérar"
 }
 ]
 }
@@ -10010,7 +10301,8 @@
 "label": "Tombe",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10079,6 +10371,22 @@
 "label": "Mer de Galilée",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gueschur"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Gueshourite"
+}
 ]
 }
 },
@@ -10140,6 +10448,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Jérusalem",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Gibeah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Guivéa"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.7833,
+"match_method": "scored",
+"preferred_label": "Gibeah"
 }
 ]
 }
@@ -10215,6 +10546,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Le Jourdain",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilée"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
 }
 ]
 }
@@ -10295,6 +10656,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Noé",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Girgashites"
 }
 ]
 }

@@ -65,6 +65,15 @@
 "label": "所羅門",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rehoboam"
+}
 ]
 }
 },
@@ -321,6 +330,22 @@
 "label": "所多瑪",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
 ]
 }
 },
@@ -491,6 +516,15 @@
 "resource_code": "UWTranslationWords",
 "label": "彼拉多",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rome"
 }
 ]
 }
@@ -744,6 +778,15 @@
 "resource_code": "UWTranslationWords",
 "label": "潔淨",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Camel"
 }
 ]
 }

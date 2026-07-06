@@ -270,7 +270,16 @@
 "end_ref_usfm": "LEV 23:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.928,
+"match_method": "scored",
+"preferred_label": "Passover"
+}
+]
 }
 },
 {
@@ -1074,6 +1083,15 @@
 "label": "智慧",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.6677,
+"match_method": "scored",
+"preferred_label": "Foolish"
+}
 ]
 }
 },
@@ -1144,7 +1162,8 @@
 "end_ref_usfm": "LUK 5:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1250,7 +1269,8 @@
 "end_ref_usfm": "EZK 6:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1308,7 +1328,8 @@
 "end_ref_usfm": "1CO 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1375,7 +1396,8 @@
 "label": "預定",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

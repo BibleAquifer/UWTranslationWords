@@ -522,7 +522,8 @@
 "end_ref_usfm": "GEN 37:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -637,6 +638,15 @@
 "resource_code": "UWTranslationWords",
 "label": "भविष्यद्वक्ता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जकर्याह"
 }
 ]
 }
@@ -793,6 +803,99 @@
 "label": "जरुब्बाबेल",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Zechariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.25",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.27",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.19",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.26",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+}
 ]
 }
 },
@@ -868,6 +971,15 @@
 "resource_code": "UWTranslationWords",
 "label": "कर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Zacchaeus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जक्कई"
 }
 ]
 }
@@ -978,6 +1090,22 @@
 "resource_code": "UWTranslationWords",
 "label": "लिआ:",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जबूलून"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.5833,
+"match_method": "scored",
+"preferred_label": "जबूलून"
 }
 ]
 }
@@ -1119,6 +1247,15 @@
 "resource_code": "UWTranslationWords",
 "label": "यूहन्ना (प्रेरित)",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जब्दी"
 }
 ]
 }
@@ -1352,6 +1489,22 @@
 "label": "सिदकिय्याह",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जरूब्बाबेल"
+},
+{
+"id": "person:Zerubbabel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जरूब्बाबेल"
+}
 ]
 }
 },
@@ -1527,7 +1680,8 @@
 "label": "नूह",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1748,6 +1902,22 @@
 "resource_code": "UWTranslationWords",
 "label": "वाचा का सन्दूक",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ship"
+},
+{
+"id": "realia:Boat",
+"type": "realia",
+"confidence": 0.6432,
+"match_method": "scored",
+"preferred_label": "Boat"
 }
 ]
 }
@@ -2578,7 +2748,8 @@
 "label": "रोम",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4849,7 +5020,8 @@
 "label": "संसार",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4971,6 +5143,15 @@
 "resource_code": "UWTranslationWords",
 "label": "जादूगर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Magic"
 }
 ]
 }
@@ -5116,7 +5297,8 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10346,7 +10528,8 @@
 "label": "बुद्धिमान",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10443,6 +10626,15 @@
 "label": "जकर्याह (नया नियम)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गब्रिएल"
+}
 ]
 }
 },
@@ -10535,6 +10727,15 @@
 "resource_code": "UWTranslationWords",
 "label": "लिआ:",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Zilpah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जिल्पा"
 }
 ]
 }
@@ -11055,7 +11256,8 @@
 "label": "आत्मा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11166,7 +11368,8 @@
 "label": "कुंडली ग्रन्थ",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11270,6 +11473,15 @@
 "resource_code": "UWTranslationWords",
 "label": "सेवा करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoke"
 }
 ]
 }
@@ -11407,7 +11619,16 @@
 "end_ref_usfm": "MRK 6:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Sandal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sandal"
+}
+]
 }
 },
 {
@@ -11630,6 +11851,22 @@
 "label": "जैतून पर्वत",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.5938,
+"match_method": "scored",
+"preferred_label": "जैतून पर्वत"
+}
 ]
 }
 },
@@ -11738,6 +11975,15 @@
 "resource_code": "UWTranslationWords",
 "label": "जैतून",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "जैतून पर्वत"
 }
 ]
 }
@@ -11867,6 +12113,15 @@
 "resource_code": "UWTranslationWords",
 "label": "यूहन्ना 6:9 (#1)",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barley"
 }
 ]
 }

@@ -218,6 +218,22 @@
 "label": "約櫃",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ship"
+},
+{
+"id": "realia:Boat",
+"type": "realia",
+"confidence": 0.6432,
+"match_method": "scored",
+"preferred_label": "Boat"
+}
 ]
 }
 },
@@ -282,7 +298,23 @@
 "end_ref_usfm": "1PE 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cornerstone",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cornerstone"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Foundation"
+}
+]
 }
 },
 {
@@ -2728,7 +2760,16 @@
 "end_ref_usfm": "2JN 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "House"
+}
+]
 }
 }
 ]

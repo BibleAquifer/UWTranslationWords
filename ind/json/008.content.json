@@ -79,6 +79,15 @@
 "label": "Anak Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabriel"
+}
 ]
 }
 },
@@ -169,6 +178,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Yacob",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
 }
 ]
 }
@@ -281,6 +306,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Paulus",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatia"
 }
 ]
 }
@@ -764,6 +798,29 @@
 "label": "Danau Galilea",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilea"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6747,
+"match_method": "scored",
+"preferred_label": "Yehuda"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Galileans"
+}
 ]
 }
 },
@@ -952,6 +1009,15 @@
 "label": "Gambar Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Image"
+}
 ]
 }
 },
@@ -1043,7 +1109,8 @@
 "label": "Anak Allah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1119,6 +1186,15 @@
 "label": "Goliat",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gat"
+}
 ]
 }
 },
@@ -1186,6 +1262,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Gat",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaza"
 }
 ]
 }
@@ -1429,7 +1514,8 @@
 "label": "Tuan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1519,6 +1605,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bersyeba",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gerar"
 }
 ]
 }
@@ -2220,7 +2315,86 @@
 "end_ref_usfm": "DEU 21:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:WaterGate",
+"type": "place",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Air"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "gerbang"
+},
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "gerbang"
+},
+{
+"id": "place:ValleyGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Lebak"
+},
+{
+"id": "place:FountainGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Mata"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Door"
+},
+{
+"id": "place:FishGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Ikan"
+},
+{
+"id": "place:BeautifulGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Bait"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Efraim"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "Kuda"
+},
+{
+"id": "place:EastGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "East Gate"
+}
+]
 }
 },
 {
@@ -2289,6 +2463,22 @@
 "label": "Danau Galilea",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gesur"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Geshurites"
+}
 ]
 }
 },
@@ -2338,6 +2528,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bukit Zaitun",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Getsemani"
 }
 ]
 }
@@ -2400,6 +2599,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Yerusalem",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Gibeah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibea"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.7833,
+"match_method": "scored",
+"preferred_label": "Gibeah"
 }
 ]
 }
@@ -2468,6 +2690,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Yerusalem",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeon"
+},
+{
+"id": "group:Gibeon",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Gibeonites"
 }
 ]
 }
@@ -2544,6 +2782,15 @@
 "label": "Midian",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gideon"
+}
 ]
 }
 },
@@ -2619,6 +2866,36 @@
 "label": "Sungai Yordan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilea"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+}
 ]
 }
 },
@@ -2692,6 +2969,15 @@
 "label": "Nuh",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Girgashites"
+}
 ]
 }
 },
@@ -2741,6 +3027,15 @@
 "label": "Bukit Zaitun",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Golgotha"
+}
 ]
 }
 },
@@ -2788,6 +3083,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Daud",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Goliath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goliat"
 }
 ]
 }
@@ -2943,6 +3247,15 @@
 "label": "Sodom",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomora"
+}
 ]
 }
 },
@@ -3003,7 +3316,8 @@
 "label": "Fitnah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3143,6 +3457,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Sungai Nil",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosyen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosyen"
 }
 ]
 }
@@ -3313,6 +3643,15 @@
 "label": "Firman Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Scroll"
+}
 ]
 }
 },
@@ -3380,6 +3719,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Siria",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "gunung"
 }
 ]
 }
@@ -3814,7 +4162,8 @@
 "label": "<h2>berkhotbah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 }
 ]

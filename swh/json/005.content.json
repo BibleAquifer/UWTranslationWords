@@ -161,6 +161,15 @@
 "label": "Amini",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dameski"
+}
 ]
 }
 },
@@ -271,6 +280,29 @@
 "label": "Yakobo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dani"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dani"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Dani"
+}
 ]
 }
 },
@@ -331,6 +363,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Nebukadneza",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Danieli"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Danieli"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Danieli"
 }
 ]
 }
@@ -467,6 +522,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Uajemi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
 }
 ]
 }
@@ -932,6 +1010,22 @@
 "label": "Sauli",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yuda"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daudi"
+}
 ]
 }
 },
@@ -993,6 +1087,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Samsoni",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delila"
 }
 ]
 }
@@ -1213,6 +1316,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Shujaa",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Breastplate",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Breastplate"
+},
+{
+"id": "realia:Breast-piece",
+"type": "realia",
+"confidence": 0.7634,
+"match_method": "scored",
+"preferred_label": "Breast-Piece"
 }
 ]
 }
@@ -1883,7 +2002,8 @@
 "label": "Sadaka ya Dhambi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3016,7 +3136,8 @@
 "label": "Hema",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4817,7 +4938,8 @@
 "label": "Kodi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5013,7 +5135,16 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.9733,
+"match_method": "scored",
+"preferred_label": "Conscience"
+}
+]
 }
 },
 {
@@ -5097,7 +5228,8 @@
 "label": "Aibu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5356,7 +5488,8 @@
 "label": "Ghadhabu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5827,6 +5960,29 @@
 "label": "Mashine ya Kukamua Divai",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Must"
+}
 ]
 }
 },
@@ -5908,7 +6064,8 @@
 "label": "dhambi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5975,7 +6132,8 @@
 "label": "Mwenye kiburi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9624,7 +9782,8 @@
 "label": "Dunia",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10677,7 +10836,8 @@
 "label": "Rumi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 }
 ]

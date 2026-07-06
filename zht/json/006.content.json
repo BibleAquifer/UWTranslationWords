@@ -176,6 +176,15 @@
 "label": "羅馬城",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Centurion",
+"type": "person",
+"confidence": 0.555,
+"match_method": "scored",
+"preferred_label": "A Centurion"
+}
 ]
 }
 },
@@ -302,6 +311,15 @@
 "label": "敘利亞",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Priscilla"
+}
 ]
 }
 },
@@ -382,6 +400,29 @@
 "resource_code": "UWTranslationWords",
 "label": "黎巴嫩",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
 }
 ]
 }

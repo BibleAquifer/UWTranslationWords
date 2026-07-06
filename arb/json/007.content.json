@@ -1797,7 +1797,8 @@
 "label": "جزية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1959,7 +1960,8 @@
 "label": "يخضع",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3031,6 +3033,22 @@
 "label": "خميرة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -3266,6 +3284,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يوحنا 3: 33 (#3)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
 }
 ]
 }
@@ -3670,7 +3697,8 @@
 "label": "Covenant",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4309,6 +4337,22 @@
 "label": "راعي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheep"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"confidence": 0.6162,
+"match_method": "scored",
+"preferred_label": "ٱلضَّأْنِ"
+}
 ]
 }
 },
@@ -4422,6 +4466,15 @@
 "resource_code": "UWTranslationWords",
 "label": "هيكل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Barn",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barn"
 }
 ]
 }
@@ -4831,7 +4884,8 @@
 "label": "شيطان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4903,7 +4957,8 @@
 "label": "فيليبس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4996,7 +5051,8 @@
 "label": "صعوبة (مشكلة)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5334,7 +5390,8 @@
 "label": "العالم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5805,6 +5862,29 @@
 "label": "كرم",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Must"
+}
 ]
 }
 },
@@ -5963,7 +6043,8 @@
 "label": "فطير (خبز غير مختمر)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6070,6 +6151,15 @@
 "resource_code": "UWTranslationWords",
 "label": "طاهر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pig"
 }
 ]
 }
@@ -7561,6 +7651,15 @@
 "label": "يهوه",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.9577,
+"match_method": "scored",
+"preferred_label": "Fear"
+}
 ]
 }
 },
@@ -7819,6 +7918,15 @@
 "label": "خيمة الاجتماع",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent"
+}
 ]
 }
 },
@@ -7978,6 +8086,15 @@
 "resource_code": "UWTranslationWords",
 "label": "خيمة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
 }
 ]
 }

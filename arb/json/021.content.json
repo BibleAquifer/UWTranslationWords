@@ -90,6 +90,15 @@
 "label": "قرن",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"confidence": 0.678,
+"match_method": "scored",
+"preferred_label": "New Moon Festival"
+}
 ]
 }
 },
@@ -187,6 +196,22 @@
 "resource_code": "UWTranslationWords",
 "label": "راعي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Abel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَابِيلَ"
+},
+{
+"id": "place:Abel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَابِيلَ"
 }
 ]
 }
@@ -312,6 +337,15 @@
 "label": "عبد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَاجَر"
+}
 ]
 }
 },
@@ -421,6 +455,22 @@
 "resource_code": "UWTranslationWords",
 "label": "قبر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "World of the Dead"
 }
 ]
 }
@@ -1186,6 +1236,15 @@
 "label": "كاهن",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَارون"
+}
 ]
 }
 },
@@ -1284,6 +1343,15 @@
 "label": "يعاقب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.96,
+"match_method": "scored",
+"preferred_label": "Abyss"
+}
 ]
 }
 },
@@ -1360,7 +1428,8 @@
 "end_ref_usfm": "ZEC 7:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1420,7 +1489,8 @@
 "label": "يحرس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1460,7 +1530,8 @@
 "end_ref_usfm": "PSA 92:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1549,6 +1620,15 @@
 "resource_code": "UWTranslationWords",
 "label": "زكريا (العهد القديم)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Hosea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هوشَعَ"
 }
 ]
 }
@@ -1644,6 +1724,36 @@
 "resource_code": "UWTranslationWords",
 "label": "موسى",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Hoshea.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هوشَعَ"
+},
+{
+"id": "person:Hoshea.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هوشَعَ"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَشوع"
+},
+{
+"id": "person:Hoshea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هوشَعَ"
 }
 ]
 }
@@ -1755,6 +1865,15 @@
 "resource_code": "UWTranslationWords",
 "label": "هيكل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هِيرودس"
 }
 ]
 }
@@ -2018,6 +2137,15 @@
 "label": "روما",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هِيرودسَ"
+}
 ]
 }
 },
@@ -2090,6 +2218,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يوحنا المعمدان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Herodias",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هِيرودِيَّا"
 }
 ]
 }
@@ -3092,6 +3229,22 @@
 "resource_code": "UWTranslationWords",
 "label": "صهيون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.5625,
+"match_method": "scored",
+"preferred_label": "House"
 }
 ]
 }

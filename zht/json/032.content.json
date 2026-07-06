@@ -230,6 +230,15 @@
 "label": "燈臺",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Lamp",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamp"
+}
 ]
 }
 },
@@ -467,6 +476,22 @@
 "resource_code": "UWTranslationWords",
 "label": "聖殿",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+},
+{
+"id": "realia:Lampstand",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
 }
 ]
 }

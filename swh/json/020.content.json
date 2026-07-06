@@ -230,6 +230,15 @@
 "label": "Kinara",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Lamp",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamp"
+}
 ]
 }
 },
@@ -270,7 +279,8 @@
 "end_ref_usfm": "JOS 1:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -501,6 +511,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Maono",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Interpret"
 }
 ]
 }
@@ -1666,7 +1685,8 @@
 "label": "Haki",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2069,7 +2089,8 @@
 "label": "Agano",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2178,6 +2199,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nebukadneza",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vulture"
 }
 ]
 }
@@ -3008,7 +3038,8 @@
 "label": "Rumi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3250,6 +3281,22 @@
 "label": "Mzeituni",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+}
 ]
 }
 },
@@ -3372,7 +3419,8 @@
 "label": "Takasa",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3601,7 +3649,8 @@
 "label": "Takatifu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4587,6 +4636,15 @@
 "label": "Takasa",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.9111,
+"match_method": "scored",
+"preferred_label": "Holy"
+}
 ]
 }
 },
@@ -4882,7 +4940,8 @@
 "label": "Mungu wa Uongo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5005,6 +5064,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Samaki wa chumvi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Tamar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamari"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamari"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamari"
+},
+{
+"id": "place:Tamar.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamari"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tadmori"
 }
 ]
 }
@@ -5276,7 +5372,8 @@
 "label": "Karamu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5571,6 +5668,22 @@
 "label": "Hubiri",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.8086,
+"match_method": "embedding",
+"preferred_label": "Proclaim"
+}
 ]
 }
 },
@@ -5674,6 +5787,15 @@
 "label": "Picha",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.9667,
+"match_method": "scored",
+"preferred_label": "Kiln"
+}
 ]
 }
 },
@@ -5768,6 +5890,29 @@
 "label": "Watu wenye hekima",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Tarshish.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarshishi"
+},
+{
+"id": "person:Tarshish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarshishi"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarshishi"
+}
 ]
 }
 },
@@ -5836,6 +5981,22 @@
 "label": "Mkoa",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarso"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "Tarso"
+}
 ]
 }
 },
@@ -5891,7 +6052,8 @@
 "label": "Moabu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6130,6 +6292,22 @@
 "label": "Pembe",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.6625,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
+}
 ]
 }
 },
@@ -6289,7 +6467,8 @@
 "label": "Uhamisho",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7079,7 +7258,8 @@
 "end_ref_usfm": "MAT 25:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7317,7 +7497,8 @@
 "end_ref_usfm": "2CO 11:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7462,6 +7643,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Uru",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Terah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tera"
+},
+{
+"id": "place:Terah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tera"
 }
 ]
 }
@@ -7911,7 +8108,8 @@
 "end_ref_usfm": "JER 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8153,7 +8351,8 @@
 "label": "Bwana",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8247,7 +8446,8 @@
 "label": "Rumi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8393,7 +8593,8 @@
 "label": "Uvunjaji wa sheria",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8465,7 +8666,8 @@
 "label": "Lebanoni",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8568,6 +8770,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Rumi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thesalonike"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.7231,
+"match_method": "scored",
+"preferred_label": "Thessalonians"
 }
 ]
 }
@@ -8685,7 +8903,8 @@
 "label": "Imani",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8792,6 +9011,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mhudumu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Tychicus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tikiko"
 }
 ]
 }
@@ -9239,7 +9467,8 @@
 "label": "nabii",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9441,6 +9670,15 @@
 "label": "Kigiriki",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Timotheo"
+}
 ]
 }
 },
@@ -9607,7 +9845,16 @@
 "end_ref_usfm": "REV 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fig"
+}
+]
 }
 },
 {
@@ -9742,6 +9989,22 @@
 "label": "Sidoni",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiro"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Tyrians"
+}
 ]
 }
 },
@@ -9811,6 +10074,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Shekemu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
 }
 ]
 }
@@ -9971,6 +10250,15 @@
 "label": "Himiza",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tito"
+}
 ]
 }
 },
@@ -10112,6 +10400,15 @@
 "label": "Kumi na wawili",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tomaso"
+}
 ]
 }
 },
@@ -10184,7 +10481,8 @@
 "label": "Filipo",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10291,6 +10589,15 @@
 "label": "Timotheo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Troa"
+}
 ]
 }
 },
@@ -10393,6 +10700,22 @@
 "resource_code": "UWTranslationWords",
 "label": "nabii",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Tubal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubali"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubali"
 }
 ]
 }
@@ -10796,6 +11119,15 @@
 "resource_code": "UWTranslationWords",
 "label": "dhambi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.9613,
+"match_method": "scored",
+"preferred_label": "Repent"
 }
 ]
 }
@@ -11424,6 +11756,15 @@
 "label": "Neno la Mungu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.9717,
+"match_method": "scored",
+"preferred_label": "Hope"
+}
 ]
 }
 },
@@ -11656,7 +11997,8 @@
 "end_ref_usfm": "GEN 38:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -12417,7 +12759,8 @@
 "label": "Tumbo la uzazi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12579,7 +12922,8 @@
 "label": "Mzaliwa wa Kwanza",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12825,7 +13169,8 @@
 "label": "Adhibu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -291,6 +291,22 @@
 "label": "講道",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.8086,
+"match_method": "embedding",
+"preferred_label": "Proclaim"
+}
 ]
 }
 },
@@ -373,7 +389,8 @@
 "end_ref_usfm": "MAT 27:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -752,7 +769,8 @@
 "label": "基督",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -250,7 +250,8 @@
 "label": "यहूदा इस्करियोती",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -625,7 +626,8 @@
 "label": "सामरिया",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -763,6 +765,15 @@
 "resource_code": "UWTranslationWords",
 "label": "जैतून",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dove"
 }
 ]
 }
@@ -1839,6 +1850,15 @@
 "label": "चेला",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पतरस"
+}
 ]
 }
 },
@@ -2065,7 +2085,8 @@
 "label": "यूहन्ना 8:59 (#1)",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2216,6 +2237,15 @@
 "resource_code": "UWTranslationWords",
 "label": "सीरिया",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पद्दनराम"
 }
 ]
 }
@@ -2534,6 +2564,15 @@
 "resource_code": "UWTranslationWords",
 "label": "परीक्षा करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Interpret"
 }
 ]
 }
@@ -2975,6 +3014,22 @@
 "label": "मन्दिर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Curtain",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Curtain"
+},
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.6776,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
 ]
 }
 },
@@ -3070,6 +3125,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मूसा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Veil"
 }
 ]
 }
@@ -3393,7 +3457,8 @@
 "end_ref_usfm": "DEU 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3542,6 +3607,15 @@
 "resource_code": "UWTranslationWords",
 "label": "परमेश्‍वर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
 }
 ]
 }
@@ -12416,6 +12490,15 @@
 "label": "यहोवा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+}
 ]
 }
 },
@@ -12484,7 +12567,8 @@
 "label": "भविष्यद्वक्ता",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13173,7 +13257,8 @@
 "label": "परमेश्वर के पुत्र",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13264,7 +13349,8 @@
 "label": "परमेश्वर का पुत्र",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13595,6 +13681,22 @@
 "resource_code": "UWTranslationWords",
 "label": "मन्दिर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7847,
+"match_method": "scored",
+"preferred_label": "House"
 }
 ]
 }
@@ -14458,6 +14560,15 @@
 "resource_code": "UWTranslationWords",
 "label": "राज करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8455,
+"match_method": "scored",
+"preferred_label": "Kingdom"
 }
 ]
 }
@@ -15516,7 +15627,8 @@
 "label": "यहोवा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15874,7 +15986,8 @@
 "end_ref_usfm": "JHN 5:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -16085,6 +16198,15 @@
 "label": "जाति",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इस्राएली"
+}
 ]
 }
 },
@@ -16202,6 +16324,15 @@
 "resource_code": "UWTranslationWords",
 "label": "आत्मा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.661,
+"match_method": "scored",
+"preferred_label": "यहोवा"
 }
 ]
 }
@@ -17629,6 +17760,15 @@
 "label": "परमेश्वर का पुत्र",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+}
 ]
 }
 },
@@ -17786,6 +17926,15 @@
 "label": "मूसा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.8824,
+"match_method": "scored",
+"preferred_label": "Teaching"
+}
 ]
 }
 },
@@ -17900,6 +18049,15 @@
 "resource_code": "UWTranslationWords",
 "label": "देवता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Perizzites"
 }
 ]
 }
@@ -18046,7 +18204,8 @@
 "label": "घर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18616,7 +18775,8 @@
 "label": "कठोर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18727,7 +18887,8 @@
 "label": "परखना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18891,7 +19052,8 @@
 "label": "परखना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19150,7 +19312,8 @@
 "label": "पर्व",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19420,7 +19583,8 @@
 "label": "पर्व",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19595,6 +19759,29 @@
 "label": "खारा ताल",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पलिश्ती"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.6935,
+"match_method": "scored",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Philistine",
+"type": "person",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "पलिश्ती"
+}
 ]
 }
 },
@@ -19656,6 +19843,15 @@
 "resource_code": "UWTranslationWords",
 "label": "पलिश्तियों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philistia"
 }
 ]
 }
@@ -20642,6 +20838,15 @@
 "resource_code": "UWTranslationWords",
 "label": "शुद्ध करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.9111,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -22010,6 +22215,15 @@
 "label": "आत्मा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पवित्र आत्मा"
+}
 ]
 }
 },
@@ -22132,7 +22346,8 @@
 "label": "शुद्ध करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -22235,6 +22450,15 @@
 "resource_code": "UWTranslationWords",
 "label": "यरूशलेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यरूशलेम"
 }
 ]
 }
@@ -22447,6 +22671,36 @@
 "label": "मन्दिर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पवित्रस्थान"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "Holy"
+},
+{
+"id": "realia:TheHolyPlace",
+"type": "realia",
+"confidence": 0.6125,
+"match_method": "scored",
+"preferred_label": "The Holy Place"
+}
 ]
 }
 },
@@ -22589,7 +22843,8 @@
 "label": "मन्दिर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23061,7 +23316,8 @@
 "label": "जाति",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23472,7 +23728,8 @@
 "label": "भेड़",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23656,7 +23913,8 @@
 "end_ref_usfm": "JHN 4:52"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -23716,7 +23974,8 @@
 "label": "चौकस",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23878,7 +24137,8 @@
 "label": "पहलौठे",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23945,7 +24205,8 @@
 "label": "पहले से ठहराना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -24003,7 +24264,8 @@
 "end_ref_usfm": "1CO 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -24280,7 +24542,8 @@
 "label": "बलिदान करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -24372,7 +24635,8 @@
 "label": "अधिकारी होना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -24448,7 +24712,16 @@
 "end_ref_usfm": "JAS 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Footstool"
+}
+]
 }
 },
 {
@@ -26249,7 +26522,8 @@
 "label": "कर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -26349,6 +26623,15 @@
 "label": "पाप",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Offering"
+}
 ]
 }
 },
@@ -26443,6 +26726,15 @@
 "label": "सीनै",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Paran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पारान"
+}
 ]
 }
 },
@@ -26536,7 +26828,8 @@
 "label": "पवित्र आत्मा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -26918,6 +27211,15 @@
 "label": "रोम",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पिलातुस"
+}
 ]
 }
 },
@@ -27036,7 +27338,8 @@
 "label": "फ़िरौन",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -27106,7 +27409,8 @@
 "end_ref_usfm": "PSA 116:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -27298,7 +27602,8 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -27802,7 +28107,8 @@
 "label": "अवतरण",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -27817,7 +28123,8 @@
 "content": "<h1>पीढ़ी</h1><h2>परिभाषा:</h2><p>इस संदर्भ में &quot;पीढ़ी&quot; शब्द उन लोगों को संदर्भित करता है जो एक ही समय में जीवित हैं। ये लोग आमतौर पर एक ही संस्कृति, अनुभव और जीवन शैली साझा करते हैं।</p><h2>अनुवाद सुझाव</h2><ul><li><p>वाक्यांश “उसके पित्रों की पीढ़ी” का अनुवाद “उसके पूर्वज” या “जो उससे पहले रह चुके हैं” के रूप में किया जा सकता है।</p></li><li><p>वाक्यांश “यह पीढ़ी” या “इस पीढ़ी के लोग” का अनुवाद “अभी रहने वाले लोग” या “तुम लोग” के रूप में किया जा सकता है।</p></li><li><p>वाक्यांश “भविष्य की पीढ़ियाँ” का अनुवाद “हमारे बाद रहने वाले लोग” या “बाद के समय में रहने वाले लोग” के रूप में किया जा सकता है।</p></li></ul><h2>बाइबल संदर्भ:</h2><h2>शब्द विवरण:</h2><ul><li><p>स्ट्रॉन्ग:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -27840,7 +28147,8 @@
 "label": "अवतरण",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -28142,7 +28450,8 @@
 "label": "मन्दिर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -28235,6 +28544,29 @@
 "resource_code": "UWTranslationWords",
 "label": "शमूएल",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पीनहास"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पीनहास"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पीनहास"
 }
 ]
 }
@@ -29084,7 +29416,8 @@
 "label": "प्रार्थना कर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -29352,7 +29685,16 @@
 "end_ref_usfm": "JHN 5:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.981,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
@@ -29407,6 +29749,22 @@
 "label": "पिन्तेकुस्त",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पुन्तुस"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पुन्तुस"
+}
 ]
 }
 },
@@ -29459,7 +29817,16 @@
 "end_ref_usfm": "EZK 20:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.8565,
+"match_method": "embedding",
+"preferred_label": "Ask for"
+}
+]
 }
 },
 {
@@ -29905,7 +30272,8 @@
 "label": "भविष्यद्वक्ता",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -33554,7 +33922,8 @@
 "label": "संसार",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -33584,7 +33953,8 @@
 "label": "गिड़गिड़ाना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -33651,6 +34021,15 @@
 "resource_code": "UWTranslationWords",
 "label": "फ़िरौन",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Potiphar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पोतीपर"
 }
 ]
 }
@@ -33721,6 +34100,22 @@
 "resource_code": "UWTranslationWords",
 "label": "दंडवत करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाल"
+},
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 0.5643,
+"match_method": "scored",
+"preferred_label": "Baal-peor"
 }
 ]
 }
@@ -34058,7 +34453,8 @@
 "label": "फसल",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -35145,6 +35541,15 @@
 "resource_code": "UWTranslationWords",
 "label": "रोम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पौलुस"
 }
 ]
 }

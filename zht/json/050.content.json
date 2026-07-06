@@ -406,6 +406,15 @@
 "label": "約翰福音 1:29 (#5)",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheep"
+}
 ]
 }
 },
@@ -460,7 +469,8 @@
 "label": "驕傲",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -667,7 +677,8 @@
 "label": "敬拜",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -954,6 +965,15 @@
 "label": "先知",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.6894,
+"match_method": "scored",
+"preferred_label": "Anointed"
+}
 ]
 }
 },
@@ -1048,7 +1068,8 @@
 "end_ref_usfm": "NEH 9:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

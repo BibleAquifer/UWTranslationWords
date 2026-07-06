@@ -653,7 +653,8 @@
 "label": "परमेश्‍वर का राज्य",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1038,6 +1039,15 @@
 "label": "शपथ",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.9556,
+"match_method": "scored",
+"preferred_label": "Promise"
+}
 ]
 }
 },
@@ -1081,7 +1091,8 @@
 "label": "प्रतिज्ञा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1327,7 +1338,8 @@
 "label": "दण्ड देना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1463,7 +1475,8 @@
 "end_ref_usfm": "PSA 16:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1621,6 +1634,22 @@
 "label": "कर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Tartan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तर्त्तान"
+},
+{
+"id": "keyterm:Leader",
+"type": "keyterm",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Leader"
+}
 ]
 }
 },
@@ -1761,7 +1790,8 @@
 "label": "स्तुति",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1959,7 +1989,8 @@
 "label": "सेवा करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6699,6 +6730,22 @@
 "label": "यूहन्ना 12:21 (#5)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यीशु"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+}
 ]
 }
 },
@@ -6884,7 +6931,8 @@
 "label": "1 पतरस 1:5 (#6)",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6920,7 +6968,8 @@
 "label": "फसह",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7005,6 +7054,15 @@
 "resource_code": "UWTranslationWords",
 "label": "यहोवा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
 }
 ]
 }
@@ -7102,7 +7160,8 @@
 "label": "अधिकारी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7361,7 +7420,8 @@
 "label": "बुद्धिमान",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7376,7 +7436,8 @@
 "content": "<h1>प्रसव, प्रसव पीड़ा</h1><h2>परिभाषा:</h2><p>इस अर्थ में उपयोग शब्द “प्रसव” का तात्पर्य महिला द्वारा बच्चे को जन्म देने की प्रक्रिया से है।</p><ul><li><p>वाक्यांश &quot;प्रसव पीड़ा में&quot; का प्रयोग अक्सर उस महिला का वर्णन करने के लिए किया जाता है जो बच्चे को जन्म देने की प्रक्रिया में होती है।</p></li><li><p>वाक्यांश &quot;प्रसव पीड़ा&quot; उस दर्द को संदर्भित करता है जो एक महिला जन्म देने की प्रक्रिया में अनुभव करती है।</p></li><li><p>अंग्रेजी में, “प्रसव” शब्द का प्रयोग बच्चे को जन्म देने की प्रक्रिया को दर्शाने के लिए किया जाता है। अन्य भाषाओं में इसके लिए बिल्कुल अलग शब्द हो सकता है।</p></li><li><p>“प्रसव पीड़ा में” वाक्यांश का अनुवाद करने का एक और तरीका है “जन्म देना”</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_laborpains\" data-resourceType=\"UWTranslationWords\">प्रसव पीड़ा</span>)</p><h2>बाइबल संदर्भ:</h2><h2>शब्द विवरण:</h2>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7554,7 +7615,8 @@
 "label": "सीरिया",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8176,7 +8238,8 @@
 "end_ref_usfm": "MAT 21:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8674,7 +8737,8 @@
 "label": "आत्मा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8836,7 +8900,8 @@
 "label": "सृजन करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8948,6 +9013,15 @@
 "label": "छुड़ा ले",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Atonement"
+}
 ]
 }
 },
@@ -9023,7 +9097,8 @@
 "label": "बलिदान करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9194,6 +9269,15 @@
 "resource_code": "UWTranslationWords",
 "label": "छुड़ा ले",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:CoverLid",
+"type": "realia",
+"confidence": 0.7105,
+"match_method": "scored",
+"preferred_label": "Cover Lid"
 }
 ]
 }
@@ -10289,6 +10373,15 @@
 "label": "स्तुति",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.8899,
+"match_method": "scored",
+"preferred_label": "Pray"
+}
 ]
 }
 },
@@ -10361,7 +10454,8 @@
 "label": "प्रार्थना कर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10769,6 +10863,15 @@
 "label": "प्रेम",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.975,
+"match_method": "scored",
+"preferred_label": "Beloved"
+}
 ]
 }
 },
@@ -10894,6 +10997,15 @@
 "resource_code": "UWTranslationWords",
 "label": "सीरिया",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "प्रिस्किल्ला"
 }
 ]
 }
@@ -12596,6 +12708,15 @@
 "label": "पाप",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.9583,
+"match_method": "scored",
+"preferred_label": "Love"
+}
 ]
 }
 },
@@ -12657,6 +12778,15 @@
 "resource_code": "UWTranslationWords",
 "label": "प्रेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.6005,
+"match_method": "scored",
+"preferred_label": "Love"
 }
 ]
 }
@@ -13172,7 +13302,8 @@
 "label": "बारहों",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13201,6 +13332,15 @@
 "resource_code": "UWTranslationWords",
 "label": "आग्रह करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Encourage"
 }
 ]
 }

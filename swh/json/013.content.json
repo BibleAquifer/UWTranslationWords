@@ -320,7 +320,8 @@
 "label": "Bariki",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -665,6 +666,22 @@
 "label": "Nahori",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Labani"
+},
+{
+"id": "place:Laban",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Labani"
+}
 ]
 }
 },
@@ -774,6 +791,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Sethi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Lamech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lameki"
+},
+{
+"id": "person:Lamech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lameki"
 }
 ]
 }
@@ -1475,7 +1508,86 @@
 "end_ref_usfm": "DEU 21:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:WaterGate",
+"type": "place",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "maji"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "kondoo"
+},
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "jaa"
+},
+{
+"id": "place:ValleyGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "bondeni"
+},
+{
+"id": "place:FountainGate",
+"type": "place",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "chemchemi"
+},
+{
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Door"
+},
+{
+"id": "place:FishGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "samaki"
+},
+{
+"id": "place:BeautifulGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Mzuri"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Efraimu"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "farasi"
+},
+{
+"id": "place:EastGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "mashariki"
+}
+]
 }
 },
 {
@@ -2045,6 +2157,22 @@
 "label": "Hekalu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Walawi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.8227,
+"match_method": "scored",
+"preferred_label": "Walawi"
+}
 ]
 }
 },
@@ -2167,6 +2295,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Martha",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazaro"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazaro"
 }
 ]
 }
@@ -2459,6 +2603,15 @@
 "label": "Simeoni",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lea"
+}
 ]
 }
 },
@@ -2569,6 +2722,22 @@
 "label": "Mti wa Fir",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lebanoni"
+},
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "Hermoni"
+}
 ]
 }
 },
@@ -2624,6 +2793,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nyoka",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "fauna:GiantCroccodile",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leviathan"
 }
 ]
 }
@@ -3473,7 +3651,8 @@
 "label": "Omba",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3558,6 +3737,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Timotheo",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Lystra",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Listra"
 }
 ]
 }
@@ -3815,6 +4003,22 @@
 "label": "Moabu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lutu"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
 ]
 }
 },
@@ -3883,6 +4087,15 @@
 "label": "Syria",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Luke",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Luka"
+}
 ]
 }
 },
@@ -3936,6 +4149,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kinubi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lute"
 }
 ]
 }

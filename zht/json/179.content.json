@@ -100,6 +100,22 @@
 "label": "羅馬城",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thessalonica"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.7231,
+"match_method": "scored",
+"preferred_label": "Thessalonians"
+}
 ]
 }
 },
@@ -122,6 +138,15 @@
 "resource_code": "UWTranslationWords",
 "label": "軍裝",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Yiron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Iron"
 }
 ]
 }

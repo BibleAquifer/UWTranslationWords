@@ -93,6 +93,15 @@
 "label": "撒迦利亞 NT",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabriel"
+}
 ]
 }
 },
@@ -172,6 +181,15 @@
 "resource_code": "UWTranslationWords",
 "label": "聖潔",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadesh-barnea"
 }
 ]
 }
@@ -284,6 +302,15 @@
 "resource_code": "UWTranslationWords",
 "label": "保羅",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatia"
 }
 ]
 }
@@ -767,6 +794,29 @@
 "label": "加利利海",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6747,
+"match_method": "scored",
+"preferred_label": "Judea"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Galileans"
+}
 ]
 }
 },
@@ -1083,6 +1133,22 @@
 "label": "約翰福音 6:1 (#2)",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.6157,
+"match_method": "scored",
+"preferred_label": "Galilee"
+}
 ]
 }
 },
@@ -1290,6 +1356,15 @@
 "label": "雅各的兒子猶大",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
+}
 ]
 }
 },
@@ -1371,6 +1446,15 @@
 "resource_code": "UWTranslationWords",
 "label": "非利士人",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaza"
 }
 ]
 }
@@ -1832,7 +1916,8 @@
 "end_ref_usfm": "HOS 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1977,6 +2062,15 @@
 "label": "加利利海",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Capernaum"
+}
 ]
 }
 },
@@ -2075,6 +2169,22 @@
 "label": "悉帕",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+}
 ]
 }
 },
@@ -2129,6 +2239,22 @@
 "resource_code": "UWTranslationWords",
 "label": "約書亞",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Caleb.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
 }
 ]
 }
@@ -2253,6 +2379,29 @@
 "label": "吾珥",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Chaldea"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.573,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+}
 ]
 }
 },
@@ -2321,6 +2470,22 @@
 "resource_code": "UWTranslationWords",
 "label": "死海",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Carmel"
+},
+{
+"id": "place:CarmelMount",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Mount Carmel"
 }
 ]
 }
@@ -2395,6 +2560,15 @@
 "resource_code": "UWTranslationWords",
 "label": "十二門徒",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cana"
 }
 ]
 }
@@ -2913,6 +3087,29 @@
 "label": "應許之地",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Canaan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Canaan"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.7235,
+"match_method": "scored",
+"preferred_label": "Canaanites"
+}
 ]
 }
 },
@@ -2995,6 +3192,15 @@
 "resource_code": "UWTranslationWords",
 "label": "非利士人",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gath"
 }
 ]
 }
@@ -3207,7 +3413,8 @@
 "label": "房子",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3244,7 +3451,8 @@
 "label": "以色列國",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3389,7 +3597,8 @@
 "label": "房子",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3573,7 +3782,16 @@
 "end_ref_usfm": "MAT 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Hypocrisy",
+"type": "keyterm",
+"confidence": 0.8083,
+"match_method": "embedding",
+"preferred_label": "Hypocrisy"
+}
+]
 }
 },
 {
@@ -3928,7 +4146,8 @@
 "label": "敬拜",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4049,7 +4268,8 @@
 "label": "先知",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

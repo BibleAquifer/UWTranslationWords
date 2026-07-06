@@ -606,6 +606,15 @@
 "label": "Tenda do Encontro",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
 ]
 }
 },
@@ -730,6 +739,43 @@
 "label": "Mar Salgado",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Tamar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "place:Tamar.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tadmor"
+}
 ]
 }
 },
@@ -824,6 +870,29 @@
 "label": "Homens Sábios",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Tarshish.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Társis"
+},
+{
+"id": "person:Tarshish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Társis"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Társis"
+}
 ]
 }
 },
@@ -891,6 +960,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Província",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarso"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "Tarso"
 }
 ]
 }
@@ -2382,6 +2467,15 @@
 "label": "Javé",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.9577,
+"match_method": "scored",
+"preferred_label": "fear"
+}
 ]
 }
 },
@@ -3384,6 +3478,22 @@
 "label": "Sião",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.5625,
+"match_method": "scored",
+"preferred_label": "House"
+}
 ]
 }
 },
@@ -4297,7 +4407,8 @@
 "label": "Tribulação",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4555,6 +4666,15 @@
 "label": "Tenda do Encontro",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent"
+}
 ]
 }
 },
@@ -4714,6 +4834,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tenda",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
 }
 ]
 }
@@ -4879,7 +5008,8 @@
 "label": "Teste",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4902,7 +5032,8 @@
 "label": "Iniquidade",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5047,6 +5178,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Ur",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Terah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tera"
+},
+{
+"id": "place:Terah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tera"
 }
 ]
 }
@@ -8697,7 +8844,8 @@
 "label": "Mundo",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8740,7 +8888,8 @@
 "label": "Promessa",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8972,6 +9121,15 @@
 "label": "Javé",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "terror"
+}
 ]
 }
 },
@@ -9075,6 +9233,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Roma",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tessalônica"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.7231,
+"match_method": "scored",
+"preferred_label": "Thessalonians"
 }
 ]
 }
@@ -9393,6 +9567,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tentar",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "discernir"
 }
 ]
 }
@@ -10850,6 +11033,15 @@
 "label": "Testemunho",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.6153,
+"match_method": "scored",
+"preferred_label": "witness"
+}
 ]
 }
 },
@@ -10880,7 +11072,8 @@
 "label": "Testemunho",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10974,7 +11167,8 @@
 "label": "Roma",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11079,6 +11273,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Os Doze",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiago"
 }
 ]
 }
@@ -11276,6 +11479,15 @@
 "label": "Moisés",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiago"
+}
 ]
 }
 },
@@ -11405,6 +11617,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Perseguir",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiago"
 }
 ]
 }
@@ -11608,6 +11829,15 @@
 "label": "Ministrar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Timóteo"
+}
 ]
 }
 },
@@ -11715,6 +11945,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ministrar",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Tychicus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tíquico"
 }
 ]
 }
@@ -11851,6 +12090,22 @@
 "label": "Sidom",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiro"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Tyrians"
+}
 ]
 }
 },
@@ -11920,6 +12175,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Siquém",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
 }
 ]
 }
@@ -12079,6 +12350,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ministrar",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tito"
 }
 ]
 }
@@ -12392,6 +12672,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Senhor",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "SENHOR"
 }
 ]
 }
@@ -13197,6 +13486,15 @@
 "label": "Sábio",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.6677,
+"match_method": "scored",
+"preferred_label": "Foolish"
+}
 ]
 }
 },
@@ -13337,6 +13635,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Os Doze",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tomé"
 }
 ]
 }
@@ -13530,7 +13837,8 @@
 "label": "Adorar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13620,6 +13928,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Vigiar",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Tower"
 }
 ]
 }
@@ -14191,7 +14515,8 @@
 "label": "Difícil",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14347,6 +14672,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Moisés",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.8824,
+"match_method": "scored",
+"preferred_label": "tradição"
 }
 ]
 }
@@ -14602,7 +14936,8 @@
 "label": "Judas Iscariotes",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14850,7 +15185,8 @@
 "label": "Transpassar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14996,7 +15332,8 @@
 "label": "Transgressão",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15238,7 +15575,8 @@
 "label": "Senhor",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15541,7 +15879,8 @@
 "label": "Grupo de Pessoas",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15800,7 +16139,8 @@
 "label": "Ira",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15823,7 +16163,8 @@
 "label": "Julgar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15934,7 +16275,8 @@
 "label": "Imposto",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16137,6 +16479,15 @@
 "label": "Joeirar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wheat"
+}
 ]
 }
 },
@@ -16243,6 +16594,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Timóteo",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Troas"
 }
 ]
 }
@@ -16482,6 +16842,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Ira",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.6625,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
 }
 ]
 }
@@ -16929,6 +17305,15 @@
 "label": "Reinar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Throne"
+}
 ]
 }
 },
@@ -17159,6 +17544,15 @@
 "label": "Pecado",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"confidence": 0.6941,
+"match_method": "scored",
+"preferred_label": "tropeçar"
+}
 ]
 }
 },
@@ -17261,6 +17655,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Profeta",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Tubal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubal"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubal"
 }
 ]
 }
@@ -17694,6 +18104,15 @@
 "label": "Enterrar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grave"
+}
 ]
 }
 },
@@ -17909,6 +18328,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Manto",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:Tunic",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tunic"
 }
 ]
 }

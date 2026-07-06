@@ -94,6 +94,15 @@
 "label": "刑罰",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.96,
+"match_method": "scored",
+"preferred_label": "Abyss"
+}
 ]
 }
 },
@@ -8967,6 +8976,15 @@
 "label": "雅巍",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
 ]
 }
 },
@@ -9060,6 +9078,15 @@
 "resource_code": "UWTranslationWords",
 "label": "審判",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Divine",
+"type": "keyterm",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Divine"
 }
 ]
 }
@@ -9392,6 +9419,22 @@
 "resource_code": "UWTranslationWords",
 "label": "聖殿",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7847,
+"match_method": "scored",
+"preferred_label": "House"
 }
 ]
 }
@@ -10082,7 +10125,8 @@
 "label": "神的兒子們",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10199,6 +10243,15 @@
 "resource_code": "UWTranslationWords",
 "label": "靈",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.661,
+"match_method": "scored",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -11062,6 +11115,15 @@
 "resource_code": "UWTranslationWords",
 "label": "治理",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8455,
+"match_method": "scored",
+"preferred_label": "Kingdom"
 }
 ]
 }
@@ -12120,7 +12182,8 @@
 "label": "雅巍",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12211,7 +12274,8 @@
 "label": "神的兒子",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12569,7 +12633,8 @@
 "end_ref_usfm": "JHN 5:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -12779,6 +12844,15 @@
 "resource_code": "UWTranslationWords",
 "label": "族群",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
 }
 ]
 }
@@ -13076,6 +13150,15 @@
 "label": "跡象",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.6163,
+"match_method": "scored",
+"preferred_label": "Miraculous Sign"
+}
 ]
 }
 },
@@ -13144,7 +13227,8 @@
 "label": "先知",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14458,6 +14542,15 @@
 "label": "摩西律法",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
 ]
 }
 },
@@ -14659,7 +14752,8 @@
 "label": "摩西律法",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14733,6 +14827,15 @@
 "resource_code": "UWTranslationWords",
 "label": "審判",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.785,
+"match_method": "scored",
+"preferred_label": "Judgment"
 }
 ]
 }

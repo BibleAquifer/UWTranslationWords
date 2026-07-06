@@ -172,6 +172,15 @@
 "label": "كلمة الله",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Scroll"
+}
 ]
 }
 },
@@ -308,6 +317,29 @@
 "label": "بلاد فارس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَارِيوسَ"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَارِيوسَ"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَارِيوسَ"
+}
 ]
 }
 },
@@ -418,6 +450,29 @@
 "label": "يعقوب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَانَ"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَانَ"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "دَانَ"
+}
 ]
 }
 },
@@ -478,6 +533,29 @@
 "resource_code": "UWTranslationWords",
 "label": "نبوخذنصر/نبوخذناصر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَانِيآل"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَانِيآل"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كِيلآبَ"
 }
 ]
 }
@@ -943,6 +1021,22 @@
 "label": "شاول",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَاودَ"
+}
 ]
 }
 },
@@ -991,6 +1085,15 @@
 "resource_code": "UWTranslationWords",
 "label": "أَلِيشَع",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
 }
 ]
 }
@@ -1126,7 +1229,8 @@
 "label": "يُغَرْبِل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1346,6 +1450,22 @@
 "label": "محارب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Breastplate",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Breastplate"
+},
+{
+"id": "realia:Breast-piece",
+"type": "realia",
+"confidence": 0.7634,
+"match_method": "scored",
+"preferred_label": "Breast-Piece"
+}
 ]
 }
 },
@@ -1445,6 +1565,15 @@
 "label": "ذبيحة الخطيئة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6194,
+"match_method": "scored",
+"preferred_label": "Offering"
+}
 ]
 }
 },
@@ -1506,6 +1635,15 @@
 "resource_code": "UWTranslationWords",
 "label": "شمشون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَلِيلَة"
 }
 ]
 }
@@ -1671,6 +1809,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يؤمن",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دِمَشْقَ"
 }
 ]
 }
@@ -1900,6 +2047,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يُدنِّس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Stain",
+"type": "keyterm",
+"confidence": 0.6316,
+"match_method": "scored",
+"preferred_label": "Defile"
 }
 ]
 }
@@ -2171,6 +2327,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يعاقب",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.8146,
+"match_method": "scored",
+"preferred_label": "Condemn"
 }
 ]
 }

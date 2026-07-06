@@ -76,6 +76,15 @@
 "label": "Saint",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadès-Barnéa"
+}
 ]
 }
 },
@@ -132,6 +141,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sacrificer",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Kedar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kédar"
 }
 ]
 }
@@ -224,6 +242,29 @@
 "label": "Sichem",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Kedesh.3",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kedesh"
+},
+{
+"id": "place:Kedesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kédesch"
+},
+{
+"id": "place:Kishion",
+"type": "place",
+"confidence": 0.5833,
+"match_method": "scored",
+"preferred_label": "Kischjon"
+}
 ]
 }
 },
@@ -274,6 +315,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistins",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cherethites"
 }
 ]
 }
@@ -406,6 +456,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Prêtre",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koré"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koré"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koré"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koré"
+},
+{
+"id": "group:Korah",
+"type": "group",
+"confidence": 0.6211,
+"match_method": "scored",
+"preferred_label": "Korahites"
 }
 ]
 }

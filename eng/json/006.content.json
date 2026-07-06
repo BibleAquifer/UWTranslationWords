@@ -106,6 +106,15 @@
 "label": "Nebuchadnezzar",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vulture"
+}
 ]
 }
 },
@@ -3755,7 +3764,8 @@
 "label": "World",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3852,6 +3862,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Eve",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eden.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "person:Eden",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "place:Eden",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eden"
+},
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Garden of Eden"
 }
 ]
 }
@@ -4018,6 +4058,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Esau",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Edom"
+},
+{
+"id": "group:Edom",
+"type": "group",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Edomites"
 }
 ]
 }
@@ -5708,6 +5771,22 @@
 "label": "Patriarchs",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Egypt",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+}
 ]
 }
 },
@@ -5798,6 +5877,15 @@
 "label": "Philistines",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Ekron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ekron"
+}
 ]
 }
 },
@@ -5870,6 +5958,64 @@
 "resource_code": "UWTranslationWords",
 "label": "Shem",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "person:Elam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "place:Elam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elam"
+},
+{
+"id": "group:Elam",
+"type": "group",
+"confidence": 0.6333,
+"match_method": "scored",
+"preferred_label": "Elamites"
 }
 ]
 }
@@ -6493,7 +6639,8 @@
 "end_ref_usfm": "MAT 21:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6609,6 +6756,64 @@
 "resource_code": "UWTranslationWords",
 "label": "Mighty",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
 }
 ]
 }
@@ -6989,7 +7194,8 @@
 "label": "Christ",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7075,6 +7281,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Pharaoh",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eliakim.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliakim"
+},
+{
+"id": "person:Eliakim.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliakim"
+},
+{
+"id": "person:Eliakim.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliakim"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiakim"
+},
+{
+"id": "person:Eliakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliakim"
 }
 ]
 }
@@ -7330,6 +7573,36 @@
 "label": "Yahweh",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Elijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+}
 ]
 }
 },
@@ -7397,6 +7670,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Prophet",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elisha"
 }
 ]
 }
@@ -7483,6 +7765,15 @@
 "label": "Zechariah NT",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Elizabeth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elizabeth"
+}
 ]
 }
 },
@@ -7512,6 +7803,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Exhort",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Encourage"
 }
 ]
 }
@@ -7837,7 +8137,8 @@
 "label": "Perseverance",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7927,6 +8228,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Vineyard",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Engedi",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "En-gedi"
 }
 ]
 }
@@ -8061,6 +8371,22 @@
 "label": "Seth",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Enoch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enoch"
+},
+{
+"id": "person:Enoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enoch"
+}
 ]
 }
 },
@@ -8177,7 +8503,8 @@
 "label": "Servant",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8417,7 +8744,8 @@
 "label": "Jealous",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8580,6 +8908,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Timothy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephesus"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.6727,
+"match_method": "scored",
+"preferred_label": "Ephesians"
 }
 ]
 }
@@ -8767,6 +9111,22 @@
 "label": "Priest",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Ephod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephod"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephod"
+}
 ]
 }
 },
@@ -8914,6 +9274,36 @@
 "label": "Manasseh",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:EphraimGate",
+"type": "place",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Ephraim Gate"
+}
 ]
 }
 },
@@ -8995,6 +9385,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Israel",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ephrathah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephrathah"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "group:Ephrathah",
+"type": "group",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Ephrathites"
 }
 ]
 }
@@ -9497,6 +9910,22 @@
 "label": "Rebekah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 0.6427,
+"match_method": "scored",
+"preferred_label": "Edom"
+}
 ]
 }
 },
@@ -9558,6 +9987,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Persia",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esther"
 }
 ]
 }
@@ -10334,7 +10772,8 @@
 "label": "Reign",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10433,6 +10872,22 @@
 "label": "Philip",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Ethiopia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ethiopia"
+},
+{
+"id": "group:Ethiopia",
+"type": "group",
+"confidence": 0.6286,
+"match_method": "scored",
+"preferred_label": "Ethiopians"
+}
 ]
 }
 },
@@ -10505,7 +10960,8 @@
 "label": "Philip",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10581,7 +11037,16 @@
 "end_ref_usfm": "GEN 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Euphrates River"
+}
+]
 }
 },
 {
@@ -10636,7 +11101,8 @@
 "label": "Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10696,6 +11162,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Satan",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eve",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eve"
 }
 ]
 }
@@ -12878,7 +13353,8 @@
 "label": "Sin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13085,7 +13561,8 @@
 "label": "Worship",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13449,7 +13926,8 @@
 "end_ref_usfm": "1TH 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -13667,7 +14145,8 @@
 "label": "Kingdom of Judah",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13807,7 +14286,8 @@
 "label": "Praise",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13863,6 +14343,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Prophet",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezekiel"
 }
 ]
 }
@@ -14085,6 +14574,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Temple",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ezra.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezra"
+},
+{
+"id": "person:Ezra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezra"
 }
 ]
 }

@@ -258,7 +258,8 @@
 "end_ref_usfm": "PSA 55:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -643,6 +644,22 @@
 "label": "救",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Deliver",
+"type": "keyterm",
+"confidence": 0.6409,
+"match_method": "scored",
+"preferred_label": "Deliver"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.5867,
+"match_method": "scored",
+"preferred_label": "Rescue"
+}
 ]
 }
 },
@@ -758,7 +775,8 @@
 "label": "約瑟（舊約）",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -874,7 +892,8 @@
 "label": "信任",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

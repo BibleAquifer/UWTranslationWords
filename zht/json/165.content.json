@@ -370,7 +370,8 @@
 "label": "好消息",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -444,7 +445,8 @@
 "label": "靈",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -601,6 +603,22 @@
 "resource_code": "UWTranslationWords",
 "label": "稅",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Tartan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tartan"
+},
+{
+"id": "keyterm:Leader",
+"type": "keyterm",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Leader"
 }
 ]
 }
@@ -1050,7 +1068,8 @@
 "end_ref_usfm": "JER 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1212,7 +1231,8 @@
 "label": "創造",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1684,7 +1704,8 @@
 "label": "國家",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -57,6 +57,22 @@
 "label": "Daudi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Rabbah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rabbah"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Waamoni"
+}
 ]
 }
 },
@@ -201,7 +217,8 @@
 "label": "Mwalimu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -274,6 +291,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Malaya",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rahabu"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misri"
 }
 ]
 }
@@ -610,6 +643,15 @@
 "label": "Lea",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Raheli"
+}
 ]
 }
 },
@@ -721,7 +763,8 @@
 "label": "Rumi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -811,6 +854,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Benyamini",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramoth-gileadi"
+},
+{
+"id": "place:Ramah.6",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.8",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rama"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"confidence": 0.6654,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Ramah"
 }
 ]
 }
@@ -929,6 +1023,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Kimbilio",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "place:Remeth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Remethi"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Ramoth-gileadi"
 }
 ]
 }
@@ -1182,6 +1299,15 @@
 "label": "Negebu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rebeka"
+}
 ]
 }
 },
@@ -1328,6 +1454,36 @@
 "label": "Mto Naili",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "flora:Reed",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reed"
+},
+{
+"id": "realia:Reed",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reed"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "Grass"
+},
+{
+"id": "flora:Papyrus",
+"type": "flora",
+"confidence": 0.5727,
+"match_method": "scored",
+"preferred_label": "Papyrus"
+}
 ]
 }
 },
@@ -1396,6 +1552,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rehoboamu"
 }
 ]
 }
@@ -1749,7 +1914,8 @@
 "end_ref_usfm": "LEV 6:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1889,6 +2055,15 @@
 "label": "Lea",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reubeni"
+}
 ]
 }
 },
@@ -1964,6 +2139,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Naamani",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Rimmon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rimoni"
+},
+{
+"id": "place:Ain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aini"
+},
+{
+"id": "deity:Rimmon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rimoni"
+},
+{
+"id": "place:Rimmon.3",
+"type": "place",
+"confidence": 0.6889,
+"match_method": "scored",
+"preferred_label": "Rock of Rimmon"
 }
 ]
 }
@@ -2521,7 +2726,8 @@
 "end_ref_usfm": "LUK 8:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3650,6 +3856,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Nafsi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.7622,
+"match_method": "scored",
+"preferred_label": "Spirit"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.6368,
+"match_method": "scored",
+"preferred_label": "Roho"
 }
 ]
 }
@@ -5018,6 +5240,15 @@
 "label": "Roho",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Roho"
+}
 ]
 }
 },
@@ -5189,6 +5420,15 @@
 "label": "Paulo",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Warumi"
+}
 ]
 }
 },
@@ -5271,7 +5511,8 @@
 "end_ref_usfm": "PRO 15:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5412,6 +5653,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nafasi ya Hakimu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ruthu"
 }
 ]
 }

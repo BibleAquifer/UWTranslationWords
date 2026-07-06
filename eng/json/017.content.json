@@ -148,6 +148,15 @@
 "label": "Syria",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paddan-aram"
+}
 ]
 }
 },
@@ -236,7 +245,8 @@
 "label": "Yahweh",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -369,6 +379,15 @@
 "label": "King",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Palace"
+}
 ]
 }
 },
@@ -448,6 +467,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Peace",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tyre"
 }
 ]
 }
@@ -761,6 +789,15 @@
 "label": "Samaria",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.983,
+"match_method": "scored",
+"preferred_label": "Parable"
+}
 ]
 }
 },
@@ -855,6 +892,15 @@
 "label": "Sinai",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Paran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paran"
+}
 ]
 }
 },
@@ -945,7 +991,8 @@
 "label": "Favor",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1219,7 +1266,16 @@
 "end_ref_usfm": "LEV 23:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.928,
+"match_method": "scored",
+"preferred_label": "Passover"
+}
+]
 }
 },
 {
@@ -1425,7 +1481,8 @@
 "label": "Perseverance",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1501,7 +1558,8 @@
 "end_ref_usfm": "EZR 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2589,6 +2647,15 @@
 "label": "Rome",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paul"
+}
 ]
 }
 },
@@ -3355,7 +3422,16 @@
 "end_ref_usfm": "COL 1:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -3481,6 +3557,15 @@
 "label": "Unleavened Bread",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
+}
 ]
 }
 },
@@ -3574,7 +3659,8 @@
 "label": "Holy Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5845,7 +5931,8 @@
 "label": "World",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6056,6 +6143,15 @@
 "label": "People Group",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
 ]
 }
 },
@@ -6125,6 +6221,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Worship",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 0.5643,
+"match_method": "scored",
+"preferred_label": "Baal-peor"
 }
 ]
 }
@@ -6444,7 +6556,8 @@
 "label": "Blemish",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7050,7 +7163,8 @@
 "label": "Eternity",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7164,6 +7278,15 @@
 "resource_code": "UWTranslationWords",
 "label": "False God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Perizzites"
 }
 ]
 }
@@ -7491,7 +7614,8 @@
 "label": "Rome",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7582,7 +7706,8 @@
 "label": "Trial",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7756,6 +7881,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Nehemiah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Persia"
+},
+{
+"id": "group:Persia",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Persians"
 }
 ]
 }
@@ -8005,7 +8146,8 @@
 "label": "Evil",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9079,6 +9221,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Disciple",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Peter"
 }
 ]
 }
@@ -10215,6 +10366,78 @@
 "label": "King",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Pharaoh.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neco"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hophra"
+}
 ]
 }
 },
@@ -10830,6 +11053,15 @@
 "label": "Sadducee",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
+}
 ]
 }
 },
@@ -10955,6 +11187,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Philip",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
 }
 ]
 }
@@ -11088,6 +11350,22 @@
 "label": "Philip",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "John"
+}
 ]
 }
 },
@@ -11195,6 +11473,22 @@
 "label": "Silas",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philippi"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6364,
+"match_method": "scored",
+"preferred_label": "Philippians"
+}
 ]
 }
 },
@@ -11256,6 +11550,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistines",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philistia"
 }
 ]
 }
@@ -11432,6 +11735,29 @@
 "label": "Saltsea",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.6935,
+"match_method": "scored",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Philistine",
+"type": "person",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "Philistine"
+}
 ]
 }
 },
@@ -11526,6 +11852,29 @@
 "label": "Samuel",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
+}
 ]
 }
 },
@@ -11606,6 +11955,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tyre",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phoenicia"
 }
 ]
 }
@@ -11714,6 +12072,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Clean",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pig"
 }
 ]
 }
@@ -12097,6 +12464,15 @@
 "label": "Rome",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pilate"
+}
 ]
 }
 },
@@ -12441,6 +12817,15 @@
 "label": "Image",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sacred Pillar"
+}
 ]
 }
 },
@@ -12573,6 +12958,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Hell",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pit"
 }
 ]
 }
@@ -12757,6 +13158,15 @@
 "label": "Pharaoh",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Plague"
+}
 ]
 }
 },
@@ -12857,7 +13267,8 @@
 "end_ref_usfm": "2CO 8:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -13002,7 +13413,8 @@
 "label": "Promise",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13093,6 +13505,15 @@
 "label": "Cow",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Plough",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Plough"
+}
 ]
 }
 },
@@ -13108,7 +13529,8 @@
 "content": "<h1>plunder, plundered, spoil, spoils</h1><h2>Facts:</h2><p>The terms “spoil” and “plunder,” when used as a noun, refer to things that are taken by force from a person or place, normally during a time of war. The verb “plunder” means to take things from a person or place, normally by force and during a time of war.</p><ul><li><p>When translating the verb “plunder” in the context of war you should use a different word than “steal” as “to steal” normally implies wrong doing and to “plunder”” something in war is not necessarily sinful.</p></li><li><p>You could translate the verb “plunder” with a word such as “pillage” or with a descriptive phrase “take the goods of.”</p></li><li><p>You could translate the term “spoil” with a descriptive phrase such as “plundered goods” or “plundered things.”</p></li><li><p>Depending on context, you could translate the term “plunder” with a descriptive phrase such as “captured goods” or with some other descriptive phrase or with a term such as “spoil” or “spoils.”</p></li><li><p>Your language may have a word for things that are taken by force and/or in a time of war.</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -13214,6 +13636,15 @@
 "label": "Temple",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pomegranate"
+}
 ]
 }
 },
@@ -13268,6 +13699,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Pentecost",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pontus"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pontus"
 }
 ]
 }
@@ -13643,7 +14090,8 @@
 "label": "Worship",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13710,6 +14158,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pharaoh",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Potiphar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Potiphar"
 }
 ]
 }
@@ -14100,6 +14557,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Worship",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Praise",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Praise"
 }
 ]
 }
@@ -15195,6 +15661,15 @@
 "label": "Praise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.8899,
+"match_method": "scored",
+"preferred_label": "Pray"
+}
 ]
 }
 },
@@ -15852,7 +16327,8 @@
 "label": "Kingdom of God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15910,7 +16386,8 @@
 "end_ref_usfm": "1CO 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -15950,7 +16427,8 @@
 "end_ref_usfm": "JER 12:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -16949,7 +17427,8 @@
 "label": "Sacrifice",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17107,7 +17586,8 @@
 "label": "Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17233,6 +17713,15 @@
 "label": "Syria",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Priscilla"
+}
 ]
 }
 },
@@ -17342,6 +17831,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Holy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"confidence": 0.6706,
+"match_method": "scored",
+"preferred_label": "Profane"
 }
 ]
 }
@@ -17727,7 +18225,8 @@
 "label": "Profit-Spiritual",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17750,7 +18249,8 @@
 "label": "Profit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18135,6 +18635,15 @@
 "label": "Oath",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.9556,
+"match_method": "scored",
+"preferred_label": "Promise"
+}
 ]
 }
 },
@@ -18178,7 +18687,8 @@
 "label": "Promise",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19511,7 +20021,8 @@
 "label": "Vision",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19586,7 +20097,8 @@
 "label": "Forgive",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19781,7 +20293,8 @@
 "label": "Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19944,6 +20457,22 @@
 "label": "False God",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+}
 ]
 }
 },
@@ -19999,7 +20528,8 @@
 "label": "Bow",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20211,7 +20741,8 @@
 "label": "Proud-Positivesense",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20248,7 +20779,8 @@
 "label": "Proud",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20350,6 +20882,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Wise",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -20529,7 +21070,8 @@
 "label": "Syria",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20593,7 +21135,8 @@
 "end_ref_usfm": "EZK 20:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -20787,6 +21330,15 @@
 "label": "Wise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.7778,
+"match_method": "scored",
+"preferred_label": "Crafty"
+}
 ]
 }
 },
@@ -20874,6 +21426,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Holy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Psalm",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Psalm"
 }
 ]
 }
@@ -21046,7 +21607,8 @@
 "label": "Sin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21552,7 +22114,8 @@
 "label": "Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21856,7 +22419,8 @@
 "label": "Temple",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

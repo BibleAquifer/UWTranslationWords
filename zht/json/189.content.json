@@ -110,6 +110,15 @@
 "label": "王",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Majesty"
+}
 ]
 }
 },
@@ -150,7 +159,8 @@
 "end_ref_usfm": "1KI 20:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -398,7 +408,8 @@
 "label": "侵害",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -825,6 +836,22 @@
 "label": "神蹟",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Mighty",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Mighty"
+},
+{
+"id": "keyterm:Mighty.2",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Mighty"
+}
 ]
 }
 },
@@ -875,7 +902,8 @@
 "label": "非利士人",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

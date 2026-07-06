@@ -219,6 +219,15 @@
 "label": "爭鬥",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.8399,
+"match_method": "embedding",
+"preferred_label": "Good"
+}
 ]
 }
 },
@@ -851,6 +860,15 @@
 "label": "救",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9802,
+"match_method": "scored",
+"preferred_label": "Good News"
+}
 ]
 }
 },
@@ -1089,6 +1107,22 @@
 "resource_code": "UWTranslationWords",
 "label": "忿怒",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.6625,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
 }
 ]
 }

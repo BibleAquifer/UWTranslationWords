@@ -66,6 +66,22 @@
 "label": "敬拜",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 0.5643,
+"match_method": "scored",
+"preferred_label": "Baal-peor"
+}
 ]
 }
 },
@@ -164,6 +180,22 @@
 "resource_code": "UWTranslationWords",
 "label": "拉結",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilhah"
+},
+{
+"id": "place:Bilhah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilhah"
 }
 ]
 }

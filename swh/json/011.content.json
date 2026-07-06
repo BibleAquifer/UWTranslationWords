@@ -126,7 +126,8 @@
 "end_ref_usfm": "ROM 16:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -652,7 +653,8 @@
 "end_ref_usfm": "GEN 37:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -970,6 +972,15 @@
 "label": "Jaribu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Interpret"
+}
 ]
 }
 },
@@ -1081,7 +1092,8 @@
 "label": "Jaribio",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1245,7 +1257,8 @@
 "label": "Jaribio",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1384,6 +1397,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Mbingu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:Gehenna",
+"type": "keyterm",
+"confidence": 0.8182,
+"match_method": "scored",
+"preferred_label": "Gehenna"
 }
 ]
 }
@@ -1543,6 +1572,22 @@
 "label": "Kodi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Tartan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "jemadari"
+},
+{
+"id": "keyterm:Leader",
+"type": "keyterm",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Leader"
+}
 ]
 }
 },
@@ -1633,6 +1678,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ng'ombe",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Plough",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Plough"
 }
 ]
 }
@@ -1863,6 +1917,15 @@
 "resource_code": "UWTranslationWords",
 "label": "dhambi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"confidence": 0.6941,
+"match_method": "scored",
+"preferred_label": "Stumble"
 }
 ]
 }
@@ -2239,7 +2302,8 @@
 "label": "Samaria",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2321,7 +2385,8 @@
 "end_ref_usfm": "1PE 5:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2371,7 +2436,8 @@
 "label": "Wafilisti",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2590,7 +2656,8 @@
 "label": "Listra",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2654,7 +2721,23 @@
 "end_ref_usfm": "1PE 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cornerstone",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cornerstone"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Foundation"
+}
+]
 }
 },
 {
@@ -2924,6 +3007,22 @@
 "resource_code": "UWTranslationWords",
 "label": "kanzu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Robe"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.5929,
+"match_method": "scored",
+"preferred_label": "Cloak"
 }
 ]
 }
@@ -8155,7 +8254,8 @@
 "label": "Mwerevu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8170,7 +8270,8 @@
 "content": "<h1>jua, alijua, maarifa, haijulikani</h1><h2>Ufafanuzi:</h2><p>Inapotumika kwa maana hii, maneno &quot;kujua,&quot; &quot;maarifa,&quot; na &quot;alijua&quot; yanamaanisha kuwa na uhusiano na mtu.</p><ul><li><p>Kumjua Mungu kunamaanisha kuwa na uhusiano naye. Hii pia inatumika kwa kuwajua watu.</p></li><li><p>Yesu alisema katika Mathayo 7:23 kwamba siku ya hukumu atawaambia baadhi ya watu &quot;Sikuwajua kamwe.&quot; Kwa kusema &quot;Sikuwajua kamwe,&quot; anamaanisha kwamba hakuwa na uhusiano wa kibinafsi nao.</p></li><li><p>&quot;Maarifa ya Mungu&quot; wakati mwingine hutumiwa kama kisawe cha &quot;hofu ya Mungu.&quot;</p></li><li><p>Inapotumiwa kwa mwanamume na mwanamke, &quot;kujua&quot; mara nyingi ni sitiari inayorejelea tendo la ngono.</p></li></ul><h2>Mapendekezo ya Tafsiri</h2><ul><li><p>Kulingana na muktadha, njia za kutafsiri maana ya &quot;kujua&quot; zinaweza kujumuisha &quot;kuwa na ufahamu wa,&quot; &quot;kuwa na mazoea na,&quot; au &quot;kuwa na uhusiano na.&quot;</p></li><li><p>Lugha zingine zina maneno mawili tofauti kwa &quot;kujua,&quot; moja kwa kuelewa ukweli na moja kwa kumfahamu mtu na kuwa na uhusiano naye. Neno la kumfahamu mtu na kuwa na uhusiano naye linapaswa kutumika wakati wa kutafsiri maana hii ya neno &quot;kujua.&quot;</p></li></ul><p>(Tazama pia: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_know-information\" data-resourceType=\"UWTranslationWords\">kujua-habari</span>,<span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_reveal\" data-resourceType=\"UWTranslationWords\">fichua</span>)</p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8224,7 +8325,8 @@
 "label": "Pentekoste",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8314,6 +8416,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Heshima",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Height",
+"type": "keyterm",
+"confidence": 0.749,
+"match_method": "scored",
+"preferred_label": "Height"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5775,
+"match_method": "scored",
+"preferred_label": "BWANA"
 }
 ]
 }

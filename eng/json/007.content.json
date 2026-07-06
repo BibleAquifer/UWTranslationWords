@@ -1269,6 +1269,15 @@
 "label": "Faithful",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
+}
 ]
 }
 },
@@ -1834,7 +1843,8 @@
 "label": "Faith",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1974,7 +1984,8 @@
 "label": "Faithful",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2329,7 +2340,8 @@
 "label": "Worship",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2450,7 +2462,8 @@
 "label": "Prophet",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2557,6 +2570,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Testimony",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:FalseWitnesses",
+"type": "group",
+"confidence": 0.5685,
+"match_method": "scored",
+"preferred_label": "False Witnesses"
 }
 ]
 }
@@ -2703,7 +2725,8 @@
 "label": "House",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2935,7 +2958,8 @@
 "end_ref_usfm": "1CH 21:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3138,6 +3162,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Jewish Leaders",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Abstain from Food"
 }
 ]
 }
@@ -3587,7 +3620,23 @@
 "end_ref_usfm": "1SA 2:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 0.6033,
+"match_method": "scored",
+"preferred_label": "Delight"
+}
+]
 }
 },
 {
@@ -5077,6 +5126,15 @@
 "label": "Yahweh",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fear",
+"type": "keyterm",
+"confidence": 0.9577,
+"match_method": "scored",
+"preferred_label": "Fear"
+}
 ]
 }
 },
@@ -5336,7 +5394,8 @@
 "label": "Festival",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5472,7 +5531,16 @@
 "end_ref_usfm": "PSA 55:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Fellowship",
+"type": "keyterm",
+"confidence": 0.84,
+"match_method": "scored",
+"preferred_label": "Fellowship"
+}
+]
 }
 },
 {
@@ -5575,7 +5643,8 @@
 "label": "Unleavened Bread",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5845,7 +5914,8 @@
 "label": "Feast",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6011,7 +6081,16 @@
 "end_ref_usfm": "REV 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fig"
+}
+]
 }
 },
 {
@@ -6077,6 +6156,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Cypress",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 0.7667,
+"match_method": "scored",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.7667,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -6355,7 +6457,8 @@
 "label": "Sacrifice",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6517,7 +6620,8 @@
 "label": "First Born",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6587,7 +6691,8 @@
 "end_ref_usfm": "LUK 5:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7112,6 +7217,15 @@
 "label": "Sheep",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flock"
+}
 ]
 }
 },
@@ -7287,7 +7401,8 @@
 "label": "Noah",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7365,6 +7480,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Shepherd",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
 }
 ]
 }
@@ -8170,6 +8294,15 @@
 "label": "Wise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.6677,
+"match_method": "scored",
+"preferred_label": "Foolish"
+}
 ]
 }
 },
@@ -8246,7 +8379,16 @@
 "end_ref_usfm": "JAS 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Footstool"
+}
+]
 }
 },
 {
@@ -8568,7 +8710,8 @@
 "end_ref_usfm": "DEU 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8635,7 +8778,8 @@
 "label": "Predestine",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9103,6 +9247,15 @@
 "label": "Guilt",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.9429,
+"match_method": "scored",
+"preferred_label": "Forgive"
+}
 ]
 }
 },
@@ -9418,6 +9571,15 @@
 "label": "Prostitute",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.8118,
+"match_method": "scored",
+"preferred_label": "Fornication"
+}
 ]
 }
 },
@@ -9704,7 +9866,16 @@
 "end_ref_usfm": "PRO 27:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
+}
+]
 }
 },
 {
@@ -10023,6 +10194,15 @@
 "label": "Creation",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Foundation"
+}
 ]
 }
 },
@@ -10227,7 +10407,8 @@
 "label": "Flood",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10311,6 +10492,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Learned Men",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Frankincense"
 }
 ]
 }
@@ -10614,7 +10804,8 @@
 "label": "Servant",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10777,7 +10968,8 @@
 "label": "Sin Offering",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11538,7 +11730,8 @@
 "label": "Womb",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11984,7 +12177,8 @@
 "label": "Prophet",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12086,6 +12280,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Image",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.9667,
+"match_method": "scored",
+"preferred_label": "Kiln"
 }
 ]
 }

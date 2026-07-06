@@ -127,6 +127,15 @@
 "label": "跡象",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sackcloth"
+}
 ]
 }
 },
@@ -554,7 +563,8 @@
 "label": "迫害",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -676,7 +686,8 @@
 "label": "乃縵",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -930,6 +941,22 @@
 "label": "所羅門",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Horse"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6103,
+"match_method": "scored",
+"preferred_label": "Horse Gate"
+}
 ]
 }
 },
@@ -1057,6 +1084,15 @@
 "label": "馬",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Chariot"
+}
 ]
 }
 },
@@ -1177,6 +1213,15 @@
 "resource_code": "UWTranslationWords",
 "label": "馬大的妹妹馬利亞",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Martha"
 }
 ]
 }
@@ -1306,6 +1351,15 @@
 "resource_code": "UWTranslationWords",
 "label": "馬大",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
 }
 ]
 }
@@ -1516,6 +1570,50 @@
 "resource_code": "UWTranslationWords",
 "label": "童貞女",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
 }
 ]
 }
@@ -1751,6 +1849,15 @@
 "label": "帖撒羅尼迦",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Macedonia"
+}
 ]
 }
 },
@@ -1849,6 +1956,15 @@
 "label": "稅",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Matthew"
+}
 ]
 }
 },
@@ -1906,6 +2022,78 @@
 "resource_code": "UWTranslationWords",
 "label": "拿弗他利",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Maacah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maoch"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
 }
 ]
 }
@@ -1985,6 +2173,15 @@
 "resource_code": "UWTranslationWords",
 "label": "悔改",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Malachi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Malachi"
 }
 ]
 }
@@ -2113,6 +2310,36 @@
 "resource_code": "UWTranslationWords",
 "label": "約瑟（舊約）",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
 }
 ]
 }
@@ -2251,7 +2478,8 @@
 "label": "約翰福音 6:31 (#1)",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

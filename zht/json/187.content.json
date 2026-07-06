@@ -314,7 +314,8 @@
 "label": "瑕疵",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -389,7 +390,8 @@
 "label": "獻祭",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -465,6 +467,15 @@
 "resource_code": "UWTranslationWords",
 "label": "雅巍",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }

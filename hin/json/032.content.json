@@ -62,6 +62,15 @@
 "label": "अश्शूर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.7091,
+"match_method": "scored",
+"preferred_label": "Bow"
+}
 ]
 }
 },
@@ -192,7 +201,16 @@
 "end_ref_usfm": "PSA 58:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
+}
+]
 }
 },
 {
@@ -464,7 +482,8 @@
 "label": "धर्मी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2545,7 +2564,8 @@
 "label": "पाप",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2657,7 +2677,8 @@
 "end_ref_usfm": "MAT 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2981,7 +3002,8 @@
 "label": "धीरज धरना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3072,7 +3094,8 @@
 "label": "परीक्षा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3278,7 +3301,8 @@
 "label": "धीरज धरना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3420,7 +3444,23 @@
 "end_ref_usfm": "ROM 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Zealous.3",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Zealous"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.8454,
+"match_method": "embedding",
+"preferred_label": "Jealous"
+}
+]
 }
 },
 {
@@ -3632,6 +3672,15 @@
 "label": "लोबान",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
 ]
 }
 },
@@ -3680,6 +3729,15 @@
 "label": "धूप",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.565,
+"match_method": "scored",
+"preferred_label": "Altar"
+}
 ]
 }
 },
@@ -3708,7 +3766,8 @@
 "end_ref_usfm": "EXO 21:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4348,7 +4407,8 @@
 "end_ref_usfm": "LEV 19:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

@@ -91,6 +91,43 @@
 "label": "L'Éternel, Yahvé",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+}
 ]
 }
 },
@@ -140,6 +177,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mésopotamie",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Babylone"
 }
 ]
 }
@@ -385,6 +431,36 @@
 "label": "Nébucadnetsar",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylone"
+},
+{
+"id": "group:Babylon",
+"type": "group",
+"confidence": 0.6118,
+"match_method": "scored",
+"preferred_label": "Babylonien"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+}
 ]
 }
 },
@@ -433,6 +509,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Dieu",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Baasha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baescha"
 }
 ]
 }
@@ -530,7 +615,8 @@
 "label": "Vin",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -738,7 +824,8 @@
 "end_ref_usfm": "GEN 27:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -858,6 +945,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Moab",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Balaam"
 }
 ]
 }
@@ -982,7 +1078,8 @@
 "label": "Prophète",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1044,7 +1141,8 @@
 "label": "Vanner",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1108,7 +1206,8 @@
 "end_ref_usfm": "SNG 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1596,7 +1695,8 @@
 "label": "Repentir",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1698,6 +1798,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rome",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barabbas"
 }
 ]
 }
@@ -1931,6 +2040,22 @@
 "label": "Paul",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barnabas"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5589,
+"match_method": "scored",
+"preferred_label": "Judas"
+}
 ]
 }
 },
@@ -2077,6 +2202,22 @@
 "label": "Une verge",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Staff"
+}
 ]
 }
 },
@@ -2178,6 +2319,15 @@
 "label": "Douze",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barthélemy"
+}
 ]
 }
 },
@@ -2266,6 +2416,36 @@
 "label": "Prophète",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Baruch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruc"
+},
+{
+"id": "person:Baruch.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruc"
+},
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruc"
+},
+{
+"id": "person:Baruch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruc"
+}
 ]
 }
 },
@@ -2341,6 +2521,15 @@
 "label": "Syrie",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Basan"
+}
 ]
 }
 },
@@ -2402,6 +2591,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Urie",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
 }
 ]
 }
@@ -2537,7 +2735,8 @@
 "label": "Vanner",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2622,6 +2821,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Satan",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satan"
 }
 ]
 }
@@ -2766,6 +2974,15 @@
 "label": "serment, vœu, jurer (par)",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
+}
 ]
 }
 },
@@ -2852,6 +3069,92 @@
 "resource_code": "UWTranslationWords",
 "label": "Salomon",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Benaiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaja"
 }
 ]
 }
@@ -4227,6 +4530,15 @@
 "label": "Louer",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.8791,
+"match_method": "scored",
+"preferred_label": "benir"
+}
 ]
 }
 },
@@ -4487,6 +4799,50 @@
 "label": "Rachel",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Benjamin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.5974,
+"match_method": "scored",
+"preferred_label": "Benjamin"
+}
 ]
 }
 },
@@ -4561,6 +4917,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Thessalonique",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bérée"
 }
 ]
 }
@@ -4973,7 +5338,8 @@
 "label": "Moutons",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5445,7 +5811,8 @@
 "label": "bétail",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5594,6 +5961,29 @@
 "label": "Mont des Oliviers",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Béthanie"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Béthanie"
+},
+{
+"id": "place:Bethabara",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Bethany Beyond the Jordan"
+}
 ]
 }
 },
@@ -5741,6 +6131,22 @@
 "label": "Jérusalem",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Béthel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+}
 ]
 }
 },
@@ -5887,6 +6293,22 @@
 "label": "Miché",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Bethlehem.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethléhem"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethléhem"
+}
 ]
 }
 },
@@ -5969,6 +6391,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistins",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-Schémesch"
+},
+{
+"id": "place:Beth-shemesh.2",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-Schémesch"
+},
+{
+"id": "place:Beth-shemesh.3",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-Schémesch"
 }
 ]
 }
@@ -6074,6 +6519,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Rebecca",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethuel"
+},
+{
+"id": "place:Bethuel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethuel"
 }
 ]
 }
@@ -6483,6 +6944,15 @@
 "label": "Amour",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.975,
+"match_method": "scored",
+"preferred_label": "bien, aimé"
+}
 ]
 }
 },
@@ -6772,6 +7242,15 @@
 "label": "Calomnie",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.8375,
+"match_method": "scored",
+"preferred_label": "parler contre dieu"
+}
 ]
 }
 },
@@ -6975,6 +7454,15 @@
 "label": "Vanner",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wheat"
+}
 ]
 }
 },
@@ -7151,6 +7639,15 @@
 "label": "Ruth",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Boaz"
+}
 ]
 }
 },
@@ -7236,6 +7733,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Vin",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:StrongDrink",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Strong Drink"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.8161,
+"match_method": "scored",
+"preferred_label": "Wine"
 }
 ]
 }
@@ -9489,6 +10002,22 @@
 "label": "Juste",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.6895,
+"match_method": "scored",
+"preferred_label": "le bien"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.6097,
+"match_method": "scored",
+"preferred_label": "bien"
+}
 ]
 }
 },
@@ -9604,6 +10133,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Esprit",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.7929,
+"match_method": "scored",
+"preferred_label": "Small Shield"
+},
+{
+"id": "keyterm:Shield",
+"type": "keyterm",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "bouclier"
+},
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"confidence": 0.6286,
+"match_method": "scored",
+"preferred_label": "Large Shield"
 }
 ]
 }
@@ -9907,7 +10459,8 @@
 "label": "Temple, maison de Dieu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 }
 ]

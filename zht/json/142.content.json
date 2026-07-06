@@ -188,6 +188,15 @@
 "label": "驕傲",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Poor",
+"type": "keyterm",
+"confidence": 0.6143,
+"match_method": "scored",
+"preferred_label": "Poor"
+}
 ]
 }
 },
@@ -328,6 +337,22 @@
 "resource_code": "UWTranslationWords",
 "label": "撒迦利亞 （舊約）",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.697,
+"match_method": "scored",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.637,
+"match_method": "scored",
+"preferred_label": "Lot"
 }
 ]
 }
