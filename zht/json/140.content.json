@@ -602,18 +602,18 @@
 "preferred_label": "Wine"
 },
 {
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Vine"
-},
-{
 "id": "realia:Must",
 "type": "realia",
 "confidence": 0.6722,
 "match_method": "scored",
 "preferred_label": "Must"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Vine"
 }
 ]
 }
