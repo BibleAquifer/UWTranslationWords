@@ -174,7 +174,16 @@
 "end_ref_usfm": "MAT 20:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Wrong",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wrong"
+}
+]
 }
 },
 {
@@ -253,6 +262,15 @@
 "resource_code": "UWTranslationWords",
 "label": "聖殿",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 0.8042,
+"match_method": "embedding",
+"preferred_label": "Judge"
 }
 ]
 }

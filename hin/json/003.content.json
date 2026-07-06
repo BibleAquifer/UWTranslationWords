@@ -88,6 +88,15 @@
 "label": "पत्थर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इकुनियुम"
+}
 ]
 }
 },
@@ -165,7 +174,8 @@
 "label": "सुलैमान",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -328,6 +338,22 @@
 "resource_code": "UWTranslationWords",
 "label": "तीमुथियुस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इफिसुस"
+},
+{
+"id": "group:Ephesus",
+"type": "group",
+"confidence": 0.6727,
+"match_method": "scored",
+"preferred_label": "इफिसी"
 }
 ]
 }
@@ -583,6 +609,15 @@
 "label": "यहूदी अधिकारी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hebrews"
+}
 ]
 }
 },
@@ -813,6 +848,57 @@
 "resource_code": "UWTranslationWords",
 "label": "सारा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Ishmael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
+},
+{
+"id": "person:Ishmael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
+},
+{
+"id": "person:Ishmael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
+},
+{
+"id": "person:Ishmael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
+},
+{
+"id": "person:Ishmael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "इश्माएली"
 }
 ]
 }
@@ -1497,6 +1583,15 @@
 "resource_code": "UWTranslationWords",
 "label": "सारा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इसहाक"
 }
 ]
 }
@@ -3477,6 +3572,29 @@
 "label": "जाति",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इस्राएल"
+},
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.6187,
+"match_method": "scored",
+"preferred_label": "इस्राएली"
+}
 ]
 }
 },
@@ -3655,7 +3773,8 @@
 "label": "जबूलून",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3738,6 +3857,22 @@
 "resource_code": "UWTranslationWords",
 "label": "सामरिया",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "इस्राएल"
 }
 ]
 }
@@ -3830,6 +3965,29 @@
 "resource_code": "UWTranslationWords",
 "label": "लिआ:",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Issachar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इस्साकार"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इस्साकार"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.5567,
+"match_method": "scored",
+"preferred_label": "इस्साकार"
 }
 ]
 }

@@ -141,7 +141,8 @@
 "label": "忿怒",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -343,6 +344,15 @@
 "resource_code": "UWTranslationWords",
 "label": "篩選",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wheat"
 }
 ]
 }

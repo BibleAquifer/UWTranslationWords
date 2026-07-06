@@ -3645,7 +3645,8 @@
 "label": "世界",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3744,7 +3745,8 @@
 "label": "摩西律法",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3884,6 +3886,22 @@
 "label": "天堂",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:Gehenna",
+"type": "keyterm",
+"confidence": 0.8182,
+"match_method": "scored",
+"preferred_label": "Gehenna"
+}
 ]
 }
 },
@@ -3994,6 +4012,15 @@
 "label": "亨通",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mediterranean Sea"
+}
 ]
 }
 },
@@ -4073,6 +4100,15 @@
 "label": "牧羊人",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
+}
 ]
 }
 },
@@ -4128,7 +4164,8 @@
 "label": "患難",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

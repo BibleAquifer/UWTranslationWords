@@ -40,6 +40,15 @@
 "label": "Jeremiah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Habakkuk",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Habakkuk"
+}
 ]
 }
 },
@@ -149,6 +158,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Tomb",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "World of the Dead"
 }
 ]
 }
@@ -273,6 +298,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Servant",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hagar"
 }
 ]
 }
@@ -403,6 +437,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Zechariah OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Haggai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haggai"
 }
 ]
 }
@@ -540,7 +583,8 @@
 "end_ref_usfm": "MAT 28:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -639,6 +683,29 @@
 "label": "Noah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ham"
+},
+{
+"id": "place:Ham.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ham"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ammon"
+}
 ]
 }
 },
@@ -720,6 +787,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Zedekiah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hamath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hamath"
 }
 ]
 }
@@ -857,6 +933,15 @@
 "label": "Succoth",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Hamor",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hamor"
+}
 ]
 }
 },
@@ -988,6 +1073,120 @@
 "label": "Mishael",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Hananiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hananiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hananiah"
+},
+{
+"id": "person:Hanani.4",
+"type": "person",
+"confidence": 0.5592,
+"match_method": "scored",
+"preferred_label": "Hanani"
+}
 ]
 }
 },
@@ -1070,7 +1269,8 @@
 "end_ref_usfm": "MAT 27:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1112,6 +1312,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Samuel",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hannah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hannah"
 }
 ]
 }
@@ -1286,6 +1495,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Ur",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Haran.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haran"
+},
+{
+"id": "person:Haran.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haran"
+},
+{
+"id": "person:Haran",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haran"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haran"
 }
 ]
 }
@@ -1495,7 +1734,8 @@
 "end_ref_usfm": "REV 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1518,7 +1758,8 @@
 "label": "Evil",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1622,6 +1863,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Saul",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lyre"
 }
 ]
 }
@@ -1997,7 +2247,8 @@
 "label": "Good News",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2051,7 +2302,8 @@
 "label": "Proud",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4409,6 +4661,22 @@
 "label": "Kingdom of God",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.8545,
+"match_method": "scored",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Heavenly",
+"type": "keyterm",
+"confidence": 0.5614,
+"match_method": "scored",
+"preferred_label": "Heavenly"
+}
 ]
 }
 },
@@ -4663,6 +4931,15 @@
 "label": "Jewish Leaders",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hebrews"
+}
 ]
 }
 },
@@ -4753,6 +5030,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Anak",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hebron.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hebron"
+},
+{
+"id": "person:Hebron",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hebron"
+},
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hebron"
+},
+{
+"id": "place:HebronValley",
+"type": "place",
+"confidence": 0.6333,
+"match_method": "scored",
+"preferred_label": "Valley of Hebron"
 }
 ]
 }
@@ -4899,7 +5206,8 @@
 "label": "Inherit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5039,6 +5347,22 @@
 "label": "Heaven",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:Gehenna",
+"type": "keyterm",
+"confidence": 0.8182,
+"match_method": "scored",
+"preferred_label": "Gehenna"
+}
 ]
 }
 },
@@ -5149,6 +5473,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Temple",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod"
 }
 ]
 }
@@ -5412,6 +5745,15 @@
 "label": "Rome",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod Antipas"
+}
 ]
 }
 },
@@ -5485,6 +5827,15 @@
 "label": "John the Baptist",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Herodias",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodias"
+}
 ]
 }
 },
@@ -5514,6 +5865,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sihon",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Heshbon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Heshbon"
 }
 ]
 }
@@ -5615,6 +5975,36 @@
 "label": "Sennacherib",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Hezekiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+}
 ]
 }
 },
@@ -5688,6 +6078,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Worship",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "High Place"
 }
 ]
 }
@@ -6502,7 +6901,8 @@
 "label": "Temple",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6610,6 +7010,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Yahweh",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hilkiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
 }
 ]
 }
@@ -6869,6 +7320,22 @@
 "label": "Uriah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "group:Hittite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hittites"
+},
+{
+"id": "person:Heth",
+"type": "person",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "Heth"
+}
 ]
 }
 },
@@ -6997,6 +7464,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Shechem",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
 }
 ]
 }
@@ -7984,6 +8460,15 @@
 "label": "Sanctify",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.9111,
+"match_method": "scored",
+"preferred_label": "Holy"
+}
 ]
 }
 },
@@ -8088,6 +8573,15 @@
 "label": "Jerusalem",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
+}
 ]
 }
 },
@@ -8184,6 +8678,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Holy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.5682,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -8395,6 +8905,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Temple",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "Holy"
+},
+{
+"id": "realia:TheHolyPlace",
+"type": "realia",
+"confidence": 0.6125,
+"match_method": "scored",
+"preferred_label": "The Holy Place"
 }
 ]
 }
@@ -9763,6 +10303,15 @@
 "label": "Holy",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Spirit"
+}
 ]
 }
 },
@@ -9928,7 +10477,8 @@
 "label": "Samson",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10433,6 +10983,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Praise",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.8725,
+"match_method": "embedding",
+"preferred_label": "Glory"
 }
 ]
 }
@@ -11061,6 +11620,15 @@
 "label": "Word of God",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.9717,
+"match_method": "scored",
+"preferred_label": "Hope"
+}
 ]
 }
 },
@@ -11301,6 +11869,22 @@
 "label": "Trumpet",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.7067,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
+},
+{
+"id": "keyterm:Horn",
+"type": "keyterm",
+"confidence": 0.6133,
+"match_method": "scored",
+"preferred_label": "Horn"
+}
 ]
 }
 },
@@ -11361,6 +11945,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Terror",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.8114,
+"match_method": "embedding",
+"preferred_label": "Terror"
 }
 ]
 }
@@ -11616,6 +12209,22 @@
 "label": "Solomon",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Horse"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6103,
+"match_method": "scored",
+"preferred_label": "Horse Gate"
+}
 ]
 }
 },
@@ -11743,6 +12352,15 @@
 "label": "Horse",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Chariot"
+}
 ]
 }
 },
@@ -11832,6 +12450,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Zechariah OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hosea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hosea"
 }
 ]
 }
@@ -11927,6 +12554,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Moses",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hoshea.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hoshea"
+},
+{
+"id": "person:Hoshea.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hoshea"
+},
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Hoshea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hoshea"
 }
 ]
 }
@@ -12397,7 +13054,8 @@
 "label": "Hour",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14843,7 +15501,16 @@
 "end_ref_usfm": "2JN 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "House"
+}
+]
 }
 },
 {
@@ -14931,7 +15598,8 @@
 "label": "King",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15263,6 +15931,22 @@
 "label": "Temple",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7847,
+"match_method": "scored",
+"preferred_label": "House"
+}
 ]
 }
 },
@@ -15300,7 +15984,8 @@
 "label": "Kingdom of Israel",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15511,7 +16196,8 @@
 "label": "House",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15703,6 +16389,15 @@
 "label": "Proud",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Poor",
+"type": "keyterm",
+"confidence": 0.6143,
+"match_method": "scored",
+"preferred_label": "Poor"
+}
 ]
 }
 },
@@ -15887,7 +16582,16 @@
 "end_ref_usfm": "MAT 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Hypocrisy",
+"type": "keyterm",
+"confidence": 0.8083,
+"match_method": "embedding",
+"preferred_label": "Hypocrisy"
+}
+]
 }
 }
 ]

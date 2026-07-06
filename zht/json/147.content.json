@@ -309,6 +309,15 @@
 "label": "主",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
 ]
 }
 },
@@ -513,7 +522,8 @@
 "label": "洪水",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1175,6 +1185,15 @@
 "label": "統治者",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.9581,
+"match_method": "scored",
+"preferred_label": "Authority"
+}
 ]
 }
 },
@@ -1255,6 +1274,22 @@
 "resource_code": "UWTranslationWords",
 "label": "公義",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.7167,
+"match_method": "scored",
+"preferred_label": "Staff"
 }
 ]
 }
@@ -1620,7 +1655,8 @@
 "end_ref_usfm": "1TH 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1649,6 +1685,15 @@
 "resource_code": "UWTranslationWords",
 "label": "勸勉",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Encourage"
 }
 ]
 }

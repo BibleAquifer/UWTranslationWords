@@ -87,6 +87,22 @@
 "label": "關注",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Tower"
+}
 ]
 }
 }

@@ -74,6 +74,22 @@
 "label": "Holy",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Oak"
+},
+{
+"id": "flora:Terebinth",
+"type": "flora",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Terebinth"
+}
 ]
 }
 },
@@ -562,6 +578,15 @@
 "label": "Promise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Oath",
+"type": "keyterm",
+"confidence": 0.7037,
+"match_method": "scored",
+"preferred_label": "Oath"
+}
 ]
 }
 },
@@ -718,6 +743,92 @@
 "label": "Zedekiah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Obadiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Obadiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+}
 ]
 }
 },
@@ -747,6 +858,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bashan",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Og"
 }
 ]
 }
@@ -1091,6 +1211,22 @@
 "label": "Sacrifice",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.8473,
+"match_method": "scored",
+"preferred_label": "Anointing Oil"
+}
 ]
 }
 },
@@ -1314,6 +1450,22 @@
 "label": "Mount of Olives",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.5938,
+"match_method": "scored",
+"preferred_label": "Mount of Olives"
+}
 ]
 }
 },
@@ -1364,6 +1516,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Tirzah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Omri.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
 }
 ]
 }
@@ -1455,6 +1637,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Honor",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Height",
+"type": "keyterm",
+"confidence": 0.749,
+"match_method": "scored",
+"preferred_label": "Height"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5775,
+"match_method": "scored",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -1592,7 +1790,8 @@
 "label": "Priest",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1782,7 +1981,8 @@
 "label": "Statute",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1946,7 +2146,8 @@
 "label": "Shepherd",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2033,7 +2234,8 @@
 "label": "Punish",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

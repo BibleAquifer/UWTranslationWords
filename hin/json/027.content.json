@@ -254,6 +254,15 @@
 "label": "मिलापवाला तम्बू",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent"
+}
 ]
 }
 },
@@ -462,7 +471,16 @@
 "end_ref_usfm": "JAS 5:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Compassionate",
+"type": "keyterm",
+"confidence": 0.5847,
+"match_method": "scored",
+"preferred_label": "Compassionate"
+}
+]
 }
 },
 {
@@ -529,6 +547,22 @@
 "resource_code": "UWTranslationWords",
 "label": "प्रांत",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तरसुस"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "तरसुस"
 }
 ]
 }
@@ -623,6 +657,29 @@
 "resource_code": "UWTranslationWords",
 "label": "बुद्धिमानों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Tarshish.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तर्शीश"
+},
+{
+"id": "person:Tarshish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तर्शीश"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तर्शीश"
 }
 ]
 }
@@ -1065,6 +1122,15 @@
 "label": "परमेश्‍वर का वचन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
 ]
 }
 },
@@ -1189,6 +1255,43 @@
 "label": "खारा ताल",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Tamar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तामार"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तामार"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तामार"
+},
+{
+"id": "place:Tamar.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तामार"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तदमोर"
+}
 ]
 }
 },
@@ -1258,6 +1361,22 @@
 "resource_code": "UWTranslationWords",
 "label": "शेकेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तिर्सा"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तिर्सा"
 }
 ]
 }
@@ -1417,6 +1536,15 @@
 "resource_code": "UWTranslationWords",
 "label": "प्रोत्साहित करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तीतुस"
 }
 ]
 }
@@ -1620,6 +1748,15 @@
 "label": "सेवा करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तीमुथियुस"
+}
 ]
 }
 },
@@ -1728,6 +1865,15 @@
 "label": "सेवा करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Tychicus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तुखिकुस"
+}
 ]
 }
 },
@@ -1812,7 +1958,8 @@
 "label": "निरादर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2051,6 +2198,22 @@
 "label": "क्रोध",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+},
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.6625,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
+}
 ]
 }
 },
@@ -2153,6 +2316,22 @@
 "resource_code": "UWTranslationWords",
 "label": "भविष्यद्वक्ता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Tubal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तूबल"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तूबल"
 }
 ]
 }
@@ -2299,6 +2478,22 @@
 "resource_code": "UWTranslationWords",
 "label": "ऊर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Terah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तेरह"
+},
+{
+"id": "place:Terah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तेरह"
 }
 ]
 }
@@ -2642,6 +2837,22 @@
 "resource_code": "UWTranslationWords",
 "label": "बलिदान करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.8473,
+"match_method": "scored",
+"preferred_label": "Anointing Oil"
 }
 ]
 }

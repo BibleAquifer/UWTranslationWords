@@ -1066,6 +1066,22 @@
 "label": "Wise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.6948,
+"match_method": "scored",
+"preferred_label": "Perceive"
+},
+{
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"confidence": 0.6294,
+"match_method": "scored",
+"preferred_label": "Understanding"
+}
 ]
 }
 },
@@ -1300,6 +1316,15 @@
 "label": "Yeast",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -1396,6 +1421,22 @@
 "label": "Mesopotamia",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Ur",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ur"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ur"
+}
 ]
 }
 },
@@ -1488,6 +1529,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Hittite",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Uriah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Uriah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Uriah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Uriah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
 }
 ]
 }
@@ -1589,6 +1667,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Watchtower",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Uzziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Uzziah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Uzziah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Uzziah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
 }
 ]
 }

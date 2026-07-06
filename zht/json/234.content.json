@@ -104,6 +104,15 @@
 "label": "潔淨",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pig"
+}
 ]
 }
 },
@@ -4844,6 +4853,22 @@
 "label": "約翰福音 12:21 (#3)",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
 ]
 }
 },
@@ -5015,7 +5040,8 @@
 "label": "約翰福音 11:24 (#4)",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5051,7 +5077,8 @@
 "label": "逾越節",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5066,7 +5093,8 @@
 "content": "<h1>主題</h1><h2>定義：</h2><p>在這個意義上，「主題」一詞指的是成為某事的焦點，例如「你將成為嘲笑的主題」。</p><ul><li><p>根據上下文，這個意義的「主題」一詞可以翻譯為「話題」、「對話的主題」、「對話的焦點」或「主旨」。</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5151,6 +5179,15 @@
 "resource_code": "UWTranslationWords",
 "label": "雅巍",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -5495,6 +5532,15 @@
 "resource_code": "UWTranslationWords",
 "label": "形像",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sacred Pillar"
 }
 ]
 }
@@ -6869,6 +6915,15 @@
 "resource_code": "UWTranslationWords",
 "label": "讚美",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.8791,
+"match_method": "scored",
+"preferred_label": "Bless"
 }
 ]
 }

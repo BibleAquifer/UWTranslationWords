@@ -623,6 +623,15 @@
 "label": "كلمة الله",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Hope",
+"type": "keyterm",
+"confidence": 0.9717,
+"match_method": "scored",
+"preferred_label": "Hope"
+}
 ]
 }
 },
@@ -1098,6 +1107,15 @@
 "label": "يغفر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.8923,
+"match_method": "scored",
+"preferred_label": "Mercy"
+}
 ]
 }
 },
@@ -1113,7 +1131,23 @@
 "content": "<h1>الرفائيين</h1><h2>حقائق:</h2><p>مصطلح &quot;الرفائيين&quot; هو اسم يُطلق على مجموعة السكان الذين كانوا يعيشون على الجانب الشرقي لنهر الأردن.</p><ul><li><p>كان هناك وادٍ سُمّي على اسم هذه الجماعة، وهو &quot;<span>وَادِي ٱلرَّفَائِيِّينَ</span>&quot;، والذي تم ذكره ست مرات في العهد القديم.</p></li><li><p>إن مصطلح &quot;رفا&quot; هو نقل صوتي إنجليزي لكلمة عبرية. من الصعب تحديد ما تعنيه كلمة &quot;رفا&quot; بالضبط وبالتالي نوع الكائنات التي تشير إليها كلمة &quot;رفا&quot;. يمكن أن يشير مصطلح &quot;رفا&quot; إلى مجموعة من البشر الأحياء أو الأرواح أو الكائنات شبه الإلهية. لهذا السبب اختارت العديد من الترجمات الإنجليزية نقل الكلمة الأصلية (العبرية) كما في &quot;الرفائيين&quot;. قد ترغب في فعل الشيء نفسه في الترجمة الخاصة بك.</p></li><li><p>أطلق العمونيون على مجموعة الرفائيين اسم &quot;<span>زَمْزُمِيِّينَ</span>&quot; (انظر تثنية 2:20).</p></li></ul><p>(اقتراحات الترجمة: كيفية ترجمة الأسماء، نسخ أو استعارة الكلمات)</p><h2>نصوص كتابية:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونج:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rapha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَافَا"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rephaim"
+}
+]
 }
 },
 {
@@ -2480,6 +2514,15 @@
 "label": "قدوس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرّوحِ"
+}
 ]
 }
 },
@@ -2553,6 +2596,22 @@
 "resource_code": "UWTranslationWords",
 "label": "عاهرة (زانية)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَاحَاب"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِصْرَ"
 }
 ]
 }
@@ -2889,6 +2948,15 @@
 "label": "لَيْئَة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَاحِيل"
+}
 ]
 }
 },
@@ -3030,6 +3098,15 @@
 "resource_code": "UWTranslationWords",
 "label": "منصب القاضي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَاعوث"
 }
 ]
 }
@@ -3362,7 +3439,8 @@
 "label": "خروف",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3377,7 +3455,23 @@
 "content": "<h1>رفا، الرفائيون، وادي الرفائيين</h1><h2>حقائق:</h2><p>مصطلح &quot;رفا&quot; هو اسم لمجموعة من السكان الذين عاشوا في موقع على الجانب الشرقي من نهر الأردن. كما أنه يُستخدم للإشارة إلى الموتى أو أرواحهم. يُطلق على &quot;رفا&quot; اسم &quot;الرفائيون&quot; أو في الأصل العبري &quot;ريفائييم&quot;.</p><ul><li><p>كان هناك وادٍ سُمّي على اسم هذه المجموعة من الناس، &quot;وادي الرفائيين&quot;، والذي يُذكر ست مرات في العهد القديم.</p></li><li><p>&quot;رفا&quot; هو ترجمة لكلمة عبرية. ومن الصعب تحديد معنى كلمة &quot;رفا&quot; بدقة وبالتالي نوع الكائنات التي كانت تشير إليها، سواء كانت مجموعة من الناس الأحياء، الأرواح، أو كائنات شبه إلهية. لهذا السبب فقد اختارت العديد من الترجمات ترجمة الكلمة الأصلية (العبرية) حرفيًا إلى &quot;الرفائيون&quot; أو &quot;ريفائييم&quot;. وقد ترغب في فعل الشيء نفسه في ترجمتك.</p></li><li><p>في أيوب 26: 5، مزمور 88: 10، أمثال 2: 18، أمثال 9: 18، أمثال 21: 16، إشعياء 14: 9، إشعياء 26: 14، وإشعياء 26: 19 يشير مصطلح &quot;الرفائيون&quot; إلى الأشخاص الذين ماتوا أو إلى &quot;أرواحهم&quot;.</p></li><li><p>في جميع الحالات الأخرى في العهد القديم فإن مصطلح &quot;الرفائيون&quot; يشير إلى مجموعة من الناس الذين كانوا أحياء وقد شكلوا مجموعة معينة من الناس.</p></li><li><p>أطلق العمونيون على مجموعة الناس الذين يُطلق عليهم الرفائيون اسم &quot;الزمزميين&quot; (انظر تثنية 2: 20).</p></li><li><p>يشير مصطلح &quot;رفا&quot; إلى مجموعة من الناس الأحياء في كل الحالات في العهد القديم باستثناء 1 أخبار الأيام 8: 2 و 8: 37. ففي كل من هاتين الآيتين يشير إلى اسم رجل (رجل مختلف في كل آية).</p></li></ul><p>(اقتراحات الترجمة: كيفية ترجمة الأسماء، نسخ أو استعارة الكلمات)</p><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونج:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rosh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "روش"
+},
+{
+"id": "person:Rapha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَافَا"
+}
+]
 }
 },
 {
@@ -3495,6 +3589,29 @@
 "label": "ملجأ",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "place:Remeth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَمَةَ"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "رَاموتَ"
+}
 ]
 }
 },
@@ -3560,6 +3677,15 @@
 "resource_code": "UWTranslationWords",
 "label": "آشور",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.7091,
+"match_method": "scored",
+"preferred_label": "Bow"
 }
 ]
 }
@@ -3700,6 +3826,15 @@
 "resource_code": "UWTranslationWords",
 "label": "لَيْئَة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَأوبَيْنَ"
 }
 ]
 }
@@ -3880,6 +4015,15 @@
 "resource_code": "UWTranslationWords",
 "label": "حلم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
 }
 ]
 }
@@ -4742,7 +4886,8 @@
 "label": "مَجمَع",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4836,7 +4981,8 @@
 "label": "روما",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4912,7 +5058,8 @@
 "end_ref_usfm": "EZR 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4972,6 +5119,22 @@
 "resource_code": "UWTranslationWords",
 "label": "داود",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Rabbah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rabbah"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْعَمّونِيِّينَ"
 }
 ]
 }
@@ -5357,7 +5520,8 @@
 "label": "رِبح-روحيًا",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5380,7 +5544,8 @@
 "label": "رِبح (مَكسب)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5524,7 +5689,8 @@
 "label": "مُعَلِّم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5648,7 +5814,8 @@
 "end_ref_usfm": "JOB 27:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5910,6 +6077,15 @@
 "label": "إله زائف",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Abomination",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Abomination"
+}
 ]
 }
 },
@@ -5978,7 +6154,8 @@
 "label": "نبي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6046,6 +6223,15 @@
 "resource_code": "UWTranslationWords",
 "label": "سليمان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَحبْعَامَ"
 }
 ]
 }
@@ -6255,7 +6441,16 @@
 "end_ref_usfm": "JAS 5:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Compassionate",
+"type": "keyterm",
+"confidence": 0.5847,
+"match_method": "scored",
+"preferred_label": "Compassionate"
+}
+]
 }
 },
 {
@@ -6525,6 +6720,22 @@
 "resource_code": "UWTranslationWords",
 "label": "ثَوب",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Robe"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.5929,
+"match_method": "scored",
+"preferred_label": "Cloak"
 }
 ]
 }
@@ -7040,7 +7251,8 @@
 "label": "بولس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7222,7 +7434,8 @@
 "label": "يوحنا المعمدان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7304,7 +7517,8 @@
 "end_ref_usfm": "PRO 15:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7364,6 +7578,15 @@
 "resource_code": "UWTranslationWords",
 "label": "رهبة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.8114,
+"match_method": "embedding",
+"preferred_label": "Terror"
 }
 ]
 }
@@ -7617,6 +7840,15 @@
 "label": "النقْب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رِفْقَة"
+}
 ]
 }
 },
@@ -7855,7 +8087,8 @@
 "end_ref_usfm": "PSA 38:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7961,6 +8194,15 @@
 "label": "هيكل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pomegranate"
+}
 ]
 }
 },
@@ -8054,6 +8296,15 @@
 "label": "محارب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Spear"
+}
 ]
 }
 },
@@ -8130,6 +8381,36 @@
 "label": "زَبُولُون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Rimmon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رِمّونَ"
+},
+{
+"id": "place:Ain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَيْنَ"
+},
+{
+"id": "deity:Rimmon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رِمّونَ"
+},
+{
+"id": "place:Rimmon.3",
+"type": "place",
+"confidence": 0.6889,
+"match_method": "scored",
+"preferred_label": "Rock of Rimmon"
+}
 ]
 }
 },
@@ -8191,7 +8472,8 @@
 "label": "مجد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8423,6 +8705,15 @@
 "label": "يهوه",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Terror"
+}
 ]
 }
 },
@@ -8471,7 +8762,8 @@
 "label": "باب (بوابة)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9601,6 +9893,22 @@
 "label": "النَّفْس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.7622,
+"match_method": "scored",
+"preferred_label": "Spirit"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.6368,
+"match_method": "scored",
+"preferred_label": "ٱلرّوحِ"
+}
 ]
 }
 },
@@ -9771,6 +10079,15 @@
 "resource_code": "UWTranslationWords",
 "label": "بولس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرّومَانِيّونَ"
 }
 ]
 }
@@ -9956,7 +10273,16 @@
 "end_ref_usfm": "MAT 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Hypocrisy",
+"type": "keyterm",
+"confidence": 0.8083,
+"match_method": "embedding",
+"preferred_label": "Hypocrisy"
+}
+]
 }
 }
 ]

@@ -11,7 +11,8 @@
 "content": "<h1>wadi</h1><h2>Definition:</h2><p>The term “wadi” refers to a seasonal stream, seasonal river, or a valley that is a stream bed during part of the year.</p><ul><li><p>A “wadi” has water in it part of the year and is dry for part of the year.</p></li><li><p>When a “wadi” has water in it, the amount of water that it has in it depends on what time of year it is and how much rain the area has received as well as how big the wadi is.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Ways to translate “wadi” could include “seasonal stream” or “seasonal stream bed” or “river basin” or “river bed”</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -290,7 +291,8 @@
 "label": "Tomb",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -366,7 +368,8 @@
 "end_ref_usfm": "ZEC 7:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1156,7 +1159,8 @@
 "end_ref_usfm": "MAT 25:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1246,6 +1250,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Watch",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Tower"
 }
 ]
 }
@@ -1470,6 +1490,15 @@
 "label": "Strife",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.8399,
+"match_method": "embedding",
+"preferred_label": "Good"
+}
 ]
 }
 },
@@ -1672,6 +1701,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Winnow",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wheat"
 }
 ]
 }
@@ -2031,7 +2069,8 @@
 "end_ref_usfm": "JHN 5:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2502,6 +2541,29 @@
 "label": "Wine Press",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Must"
+}
 ]
 }
 },
@@ -2581,6 +2643,29 @@
 "label": "Wrath",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.56,
+"match_method": "scored",
+"preferred_label": "Must"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.5515,
+"match_method": "scored",
+"preferred_label": "Vine"
+}
 ]
 }
 },
@@ -2648,7 +2733,8 @@
 "label": "Grain",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3824,7 +3910,8 @@
 "label": "Fruit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3974,7 +4061,8 @@
 "label": "Wise",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4242,7 +4330,8 @@
 "end_ref_usfm": "LUK 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4333,6 +4422,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sheep",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wolf"
 }
 ]
 }
@@ -4566,7 +4664,8 @@
 "end_ref_usfm": "GEN 38:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5623,7 +5722,8 @@
 "label": "Yahweh",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6676,7 +6776,8 @@
 "label": "Rome",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7184,6 +7285,22 @@
 "label": "Honor",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.8545,
+"match_method": "scored",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Worship"
+}
 ]
 }
 },
@@ -7581,7 +7698,8 @@
 "label": "Sin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7759,7 +7877,16 @@
 "end_ref_usfm": "MAT 20:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Wrong",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wrong"
+}
+]
 }
 }
 ]

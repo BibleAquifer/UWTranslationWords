@@ -142,6 +142,15 @@
 "label": "十二門徒",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Andrew"
+}
 ]
 }
 },
@@ -327,6 +336,29 @@
 "resource_code": "UWTranslationWords",
 "label": "敘利亞",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antioch"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antioch"
+},
+{
+"id": "group:Antioch",
+"type": "group",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Antiochians"
 }
 ]
 }
@@ -648,7 +680,8 @@
 "label": "聖靈",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1189,6 +1222,15 @@
 "label": "約翰福音 9:14 (#2)",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.9724,
+"match_method": "scored",
+"preferred_label": "Sabbath"
+}
 ]
 }
 },
@@ -1325,7 +1367,8 @@
 "label": "祭司",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1376,6 +1419,36 @@
 "label": "得撒",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Omri.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+}
 ]
 }
 },
@@ -1424,6 +1497,22 @@
 "resource_code": "UWTranslationWords",
 "label": "大衛",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Amnon.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amnon"
+},
+{
+"id": "person:Amnon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amnon"
 }
 ]
 }

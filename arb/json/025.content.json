@@ -137,6 +137,15 @@
 "label": "يوحنا الرسول",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بْنَ"
+}
 ]
 }
 },
@@ -246,6 +255,22 @@
 "resource_code": "UWTranslationWords",
 "label": "لَيْئَة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَبولونَ"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.5833,
+"match_method": "scored",
+"preferred_label": "زَبولونَ"
 }
 ]
 }
@@ -479,6 +504,22 @@
 "label": "صَدَقيا",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَربَّابِل"
+},
+{
+"id": "person:Zerubbabel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَربَّابِل"
+}
 ]
 }
 },
@@ -554,6 +595,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الخطية",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Zacchaeus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَكَّا"
 }
 ]
 }
@@ -670,6 +720,15 @@
 "resource_code": "UWTranslationWords",
 "label": "نبي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 }
 ]
 }
@@ -826,6 +885,99 @@
 "label": "زَرُبَّابِل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Zechariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.25",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.27",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.19",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah.26",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "زَكَرِيَّا"
+}
 ]
 }
 },
@@ -918,6 +1070,15 @@
 "resource_code": "UWTranslationWords",
 "label": "لَيْئَة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Zilpah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زِلْفَةَ"
 }
 ]
 }
@@ -1138,7 +1299,8 @@
 "label": "زِنَا",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1453,6 +1615,15 @@
 "label": "عاهرة (زانية)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.8118,
+"match_method": "scored",
+"preferred_label": "Fornication"
+}
 ]
 }
 },
@@ -1504,7 +1675,8 @@
 "label": "حواء",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1847,6 +2019,22 @@
 "label": "ذبيحة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Oil"
+},
+{
+"id": "realia:AnointingOil",
+"type": "realia",
+"confidence": 0.8473,
+"match_method": "scored",
+"preferred_label": "Anointing Oil"
+}
 ]
 }
 },
@@ -2069,6 +2257,22 @@
 "resource_code": "UWTranslationWords",
 "label": "جبل الزيتون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.5938,
+"match_method": "scored",
+"preferred_label": "ٱلزَّيْتونِ"
 }
 ]
 }

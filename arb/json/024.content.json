@@ -120,6 +120,43 @@
 "label": "بحر الملح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Tamar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
+},
+{
+"id": "place:Tamar.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَدْمرَ"
+}
 ]
 }
 },
@@ -410,6 +447,15 @@
 "label": "أمين",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.6783,
+"match_method": "scored",
+"preferred_label": "Trust"
+}
 ]
 }
 },
@@ -482,7 +528,8 @@
 "label": "لبنان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1243,7 +1290,8 @@
 "label": "بَطْن",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1458,6 +1506,22 @@
 "resource_code": "UWTranslationWords",
 "label": "رِدَاء",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Tunic.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tunic"
+},
+{
+"id": "realia:Tunic",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tunic"
 }
 ]
 }

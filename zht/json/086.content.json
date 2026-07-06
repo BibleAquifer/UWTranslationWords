@@ -190,6 +190,36 @@
 "label": "羅馬城",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Claudius"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberius"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Augustus"
+}
 ]
 }
 },
@@ -375,6 +405,22 @@
 "resource_code": "UWTranslationWords",
 "label": "大數",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Caesarea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
 }
 ]
 }

@@ -82,6 +82,22 @@
 "label": "葡萄酒",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:StrongDrink",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Strong Drink"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.8161,
+"match_method": "scored",
+"preferred_label": "Wine"
+}
 ]
 }
 }

@@ -621,6 +621,15 @@
 "label": "Menyelamatkan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9802,
+"match_method": "scored",
+"preferred_label": "injil"
+}
 ]
 }
 },
@@ -694,6 +703,15 @@
 "label": "Kudus",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadesh"
+}
 ]
 }
 },
@@ -755,7 +773,8 @@
 "label": "Kemuliaan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -881,6 +900,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pengorbanan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Cain",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kain"
 }
 ]
 }
@@ -1076,6 +1104,36 @@
 "label": "Roma",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Klaudius"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberius"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agustus"
+}
 ]
 }
 },
@@ -1255,6 +1313,22 @@
 "label": "Roma",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Caesarea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kaisarea"
+}
 ]
 }
 },
@@ -1302,6 +1376,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Yosua",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Caleb.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kaleb"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kaleb"
 }
 ]
 }
@@ -1369,6 +1459,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Galilea",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kana"
 }
 ]
 }
@@ -1880,6 +1979,29 @@
 "label": "Tanah Perjanjian",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Canaan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kanaan"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kanaan"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.7235,
+"match_method": "scored",
+"preferred_label": "Canaanites"
+}
 ]
 }
 },
@@ -1932,7 +2054,23 @@
 "end_ref_usfm": "1KI 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Axe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Axe"
+},
+{
+"id": "realia:Battle-axe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Battle-Axe"
+}
+]
 }
 },
 {
@@ -2077,6 +2215,15 @@
 "label": "Danau Galilea",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kapernaum"
+}
 ]
 }
 },
@@ -2145,6 +2292,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Laut Asin",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Karmel"
+},
+{
+"id": "place:CarmelMount",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Karmel"
 }
 ]
 }
@@ -2268,6 +2431,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Ur",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Kasdim"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.573,
+"match_method": "scored",
+"preferred_label": "Babylonia"
 }
 ]
 }
@@ -3970,6 +4156,15 @@
 "label": "Dosa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.9583,
+"match_method": "scored",
+"preferred_label": "kasihi"
+}
 ]
 }
 },
@@ -4034,7 +4229,8 @@
 "end_ref_usfm": "JER 34:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4545,6 +4741,15 @@
 "label": "Babi",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flock"
+}
 ]
 }
 },
@@ -4653,6 +4858,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Imam besar",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Caiaphas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kayafas"
 }
 ]
 }
@@ -5429,7 +5643,8 @@
 "label": "Memerintah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5542,6 +5757,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Raja",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "keagungan"
 }
 ]
 }
@@ -5811,7 +6035,16 @@
 "end_ref_usfm": "JHN 5:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.981,
+"match_method": "scored",
+"preferred_label": "kebangkitan"
+}
+]
 }
 },
 {
@@ -6082,6 +6315,15 @@
 "label": "Pokok anggur",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Vine"
+}
 ]
 }
 },
@@ -6131,6 +6373,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pengorbanan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Kedar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kedar"
 }
 ]
 }
@@ -6201,6 +6452,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Sikhem",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Kedesh.3",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kedesh"
+},
+{
+"id": "place:Kedesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kedesh"
+},
+{
+"id": "place:Kishion",
+"type": "place",
+"confidence": 0.5833,
+"match_method": "scored",
+"preferred_label": "Kisyon"
 }
 ]
 }
@@ -6492,7 +6766,8 @@
 "label": "Pelanggaran",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6604,7 +6879,8 @@
 "end_ref_usfm": "ISA 23:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6962,7 +7238,8 @@
 "end_ref_usfm": "JHN 5:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7461,6 +7738,15 @@
 "label": "Kemuliaan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.8725,
+"match_method": "embedding",
+"preferred_label": "kemuliaan"
+}
 ]
 }
 },
@@ -7522,6 +7808,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kasih",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.6005,
+"match_method": "scored",
+"preferred_label": "kasihi"
 }
 ]
 }
@@ -7771,6 +8066,15 @@
 "label": "Pengorbanan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Abomination",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "kekejian"
+}
 ]
 }
 },
@@ -7867,7 +8171,8 @@
 "label": "Otoritas",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8171,7 +8476,16 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Donkey"
+}
+]
 }
 },
 {
@@ -8309,7 +8623,8 @@
 "label": "Rumah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8397,7 +8712,8 @@
 "label": "Raja",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8474,6 +8790,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Betlehem",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Frankincense"
 }
 ]
 }
@@ -9899,6 +10224,15 @@
 "label": "Keagungan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.9464,
+"match_method": "scored",
+"preferred_label": "kemuliaan"
+}
 ]
 }
 },
@@ -10188,6 +10522,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Setia",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.6783,
+"match_method": "scored",
+"preferred_label": "bersandar pada"
 }
 ]
 }
@@ -10609,6 +10952,22 @@
 "label": "Mahakuasa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Mighty",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "mulia"
+},
+{
+"id": "keyterm:Mighty.2",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "orang lalim"
+}
 ]
 }
 },
@@ -10649,7 +11008,8 @@
 "end_ref_usfm": "1KI 20:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10735,7 +11095,8 @@
 "label": "<p>#jubah",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11591,6 +11952,15 @@
 "label": "Memerintah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8455,
+"match_method": "scored",
+"preferred_label": "kerajaan"
+}
 ]
 }
 },
@@ -11667,6 +12037,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Samaria",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Israel"
 }
 ]
 }
@@ -11787,6 +12173,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Setan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.8845,
+"match_method": "scored",
+"preferred_label": "kerasukan setan"
 }
 ]
 }
@@ -12350,7 +12745,8 @@
 "end_ref_usfm": "REV 18:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -12445,6 +12841,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Musa",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Veil"
 }
 ]
 }
@@ -13902,6 +14307,15 @@
 "label": "Kesaksian",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.6153,
+"match_method": "scored",
+"preferred_label": "hukum"
+}
 ]
 }
 },
@@ -14182,7 +14596,16 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "berkenan"
+}
+]
 }
 },
 {
@@ -14441,7 +14864,8 @@
 "label": "Murka",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14702,6 +15126,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Janji",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.757,
+"match_method": "scored",
+"preferred_label": "kebaikan"
 }
 ]
 }
@@ -15027,7 +15460,8 @@
 "label": "Bertekun",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15203,7 +15637,8 @@
 "label": "Menahbiskan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15288,6 +15723,15 @@
 "label": "Stefanus",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kilikia"
+}
 ]
 }
 },
@@ -15365,6 +15809,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kreta",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kirene"
 }
 ]
 }
@@ -15470,7 +15923,8 @@
 "label": "Gulungan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15512,6 +15966,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Paulus",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Colossae",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kolose"
 }
 ]
 }
@@ -15622,7 +16085,8 @@
 "label": "Kepercayaan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15746,6 +16210,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Yehuda",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "group:Korah",
+"type": "group",
+"confidence": 0.6211,
+"match_method": "scored",
+"preferred_label": "Korahites"
 }
 ]
 }
@@ -16026,6 +16527,15 @@
 "label": "Pengorbanan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.8385,
+"match_method": "scored",
+"preferred_label": "persembahan"
+}
 ]
 }
 },
@@ -16094,7 +16604,8 @@
 "label": "Pengorbanan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16236,7 +16747,8 @@
 "label": "Hukum",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16357,6 +16869,15 @@
 "label": "Nehemia",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Cyrus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koresh"
+}
 ]
 }
 },
@@ -16460,6 +16981,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Titus",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korintus"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"confidence": 0.6615,
+"match_method": "scored",
+"preferred_label": "Corinthians"
 }
 ]
 }
@@ -16586,6 +17123,15 @@
 "label": "Yunani",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Cornelius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kornelius"
+}
 ]
 }
 },
@@ -16660,6 +17206,22 @@
 "label": "Yerusalem",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "City of David"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6075,
+"match_method": "scored",
+"preferred_label": "Yerusalem"
+}
 ]
 }
 },
@@ -16730,7 +17292,23 @@
 "end_ref_usfm": "AMO 9:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kreta"
+},
+{
+"id": "group:Cretan",
+"type": "group",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Cretans"
+}
+]
 }
 },
 {
@@ -16819,6 +17397,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Anak Allah",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "group:Christ",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Christians"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.69,
+"match_method": "scored",
+"preferred_label": "Yesus"
 }
 ]
 }
@@ -19691,6 +20285,15 @@
 "label": "Anak Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesus"
+}
 ]
 }
 },
@@ -20677,6 +21280,15 @@
 "label": "Menyucikan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.9111,
+"match_method": "scored",
+"preferred_label": "khusus"
+}
 ]
 }
 },
@@ -20775,6 +21387,15 @@
 "label": "Memperbudak",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Yoke",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoke"
+}
 ]
 }
 },
@@ -20817,6 +21438,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pengorbanan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6087,
+"match_method": "scored",
+"preferred_label": "persembahan"
 }
 ]
 }
@@ -20910,6 +21540,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Etiopia",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Cush.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Etiopia"
+},
+{
+"id": "person:Cush",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Etiopia"
+},
+{
+"id": "place:Cush",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Etiopia"
 }
 ]
 }

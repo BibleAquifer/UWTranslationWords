@@ -204,7 +204,16 @@
 "end_ref_usfm": "JAS 5:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Compassionate",
+"type": "keyterm",
+"confidence": 0.5847,
+"match_method": "scored",
+"preferred_label": "Compassionate"
+}
+]
 }
 },
 {
@@ -678,6 +687,15 @@
 "resource_code": "UWTranslationWords",
 "label": "饒恕",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.8923,
+"match_method": "scored",
+"preferred_label": "Mercy"
 }
 ]
 }

@@ -72,6 +72,15 @@
 "label": "Tax",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Zacchaeus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zacchaeus"
+}
 ]
 }
 },
@@ -196,6 +205,64 @@
 "resource_code": "UWTranslationWords",
 "label": "Solomon",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zadok.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Zadok.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Zadok.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Zadok.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Zadok.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Zadok.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Zadok.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zadok"
+},
+{
+"id": "person:Zadok",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zadok"
 }
 ]
 }
@@ -339,7 +406,23 @@
 "end_ref_usfm": "ROM 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Zealous.3",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Zealous"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.8454,
+"match_method": "embedding",
+"preferred_label": "Jealous"
+}
+]
 }
 },
 {
@@ -480,6 +563,15 @@
 "label": "John the Apostle",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zebedee"
+}
 ]
 }
 },
@@ -589,6 +681,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Leah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zebulun"
+},
+{
+"id": "group:Zebulun",
+"type": "group",
+"confidence": 0.5833,
+"match_method": "scored",
+"preferred_label": "Tribe of Zebulun"
 }
 ]
 }
@@ -705,6 +813,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Prophet",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
 }
 ]
 }
@@ -861,6 +978,99 @@
 "label": "Zerubbabel",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Zechariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.25",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.27",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.19",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.26",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+}
 ]
 }
 },
@@ -972,6 +1182,57 @@
 "label": "Nehemiah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Zedekiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiakim"
+}
 ]
 }
 },
@@ -1039,6 +1300,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Priest",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zephaniah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zephaniah"
+},
+{
+"id": "person:Zephaniah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zephaniah"
+},
+{
+"id": "person:Zephaniah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zephaniah"
+},
+{
+"id": "person:Uriel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriel"
 }
 ]
 }
@@ -1272,6 +1563,22 @@
 "label": "Zedekiah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zerubbabel"
+},
+{
+"id": "person:Zerubbabel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zerubbabel"
+}
 ]
 }
 },
@@ -1364,6 +1671,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Leah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zilpah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zilpah"
 }
 ]
 }
@@ -1513,6 +1829,15 @@
 "label": "Jerusalem",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
+}
 ]
 }
 },
@@ -1604,6 +1929,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sodom",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Zoar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zoar"
 }
 ]
 }

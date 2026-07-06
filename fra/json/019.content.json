@@ -54,7 +54,8 @@
 "label": "Racheter",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -128,6 +129,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sacrifice de péché",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "offrande"
 }
 ]
 }

@@ -33,7 +33,8 @@
 "label": "كبرياء",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -109,7 +110,16 @@
 "end_ref_usfm": "GEN 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْفرَاتِ"
+}
+]
 }
 },
 {
@@ -223,6 +233,15 @@
 "resource_code": "UWTranslationWords",
 "label": "إله زائف",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Perizzites"
 }
 ]
 }
@@ -399,6 +418,29 @@
 "label": "بحر الملح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِلِشْتِيم"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.6935,
+"match_method": "scored",
+"preferred_label": "ٱلْفِلِسْطِينِيِّينَ"
+},
+{
+"id": "person:Philistine",
+"type": "person",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "فِلِشْتِيم"
+}
 ]
 }
 },
@@ -493,6 +535,15 @@
 "label": "سيناء",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Paran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فَارَانَ"
+}
 ]
 }
 },
@@ -545,7 +596,23 @@
 "end_ref_usfm": "1KI 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Axe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Axe"
+},
+{
+"id": "realia:Battle-axe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Battle-Axe"
+}
+]
 }
 },
 {
@@ -737,7 +804,8 @@
 "label": "شرير",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -956,6 +1024,22 @@
 "label": "تجربة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Trap",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trap"
+},
+{
+"id": "realia:Net",
+"type": "realia",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "Net"
+}
 ]
 }
 },
@@ -1108,6 +1192,15 @@
 "label": "سوريا",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْأَرَامِيِّ"
+}
 ]
 }
 },
@@ -1240,6 +1333,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يفدي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Ransom"
 }
 ]
 }
@@ -2349,7 +2451,8 @@
 "end_ref_usfm": "1TH 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2475,6 +2578,15 @@
 "resource_code": "UWTranslationWords",
 "label": "حصان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Chariot"
 }
 ]
 }
@@ -3611,6 +3723,78 @@
 "label": "ملك",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Pharaoh.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَخْو"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَفْرَعَ"
+}
 ]
 }
 },
@@ -3651,7 +3835,8 @@
 "end_ref_usfm": "JER 12:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4265,6 +4450,15 @@
 "resource_code": "UWTranslationWords",
 "label": "صَّدُّوقِيِّ",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
 }
 ]
 }
@@ -5197,6 +5391,15 @@
 "label": "هيكل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.9221,
+"match_method": "scored",
+"preferred_label": "Money"
+}
 ]
 }
 },
@@ -5645,7 +5848,23 @@
 "end_ref_usfm": "1SA 2:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 0.6033,
+"match_method": "scored",
+"preferred_label": "Delight"
+}
+]
 }
 },
 {
@@ -5879,6 +6098,15 @@
 "label": "خميرة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -5948,6 +6176,22 @@
 "resource_code": "UWTranslationWords",
 "label": "عبادة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْبَعْلِ"
+},
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 0.5643,
+"match_method": "scored",
+"preferred_label": "فَغورَ"
 }
 ]
 }
@@ -6340,6 +6584,22 @@
 "label": "النَّفْس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Mind.2",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "Mind"
+}
 ]
 }
 },
@@ -6401,6 +6661,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الفلسطينيون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْفِلِسْطِينِيِّينَ"
 }
 ]
 }
@@ -6624,6 +6893,22 @@
 "label": "تابوت العهد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ship"
+},
+{
+"id": "realia:Boat",
+"type": "realia",
+"confidence": 0.6432,
+"match_method": "scored",
+"preferred_label": "Boat"
+}
 ]
 }
 },
@@ -6691,6 +6976,15 @@
 "resource_code": "UWTranslationWords",
 "label": "فرعون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Potiphar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "لِفوطِيفَارَ"
 }
 ]
 }
@@ -7716,6 +8010,22 @@
 "label": "السيد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.7753,
+"match_method": "scored",
+"preferred_label": "In Christ"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.7289,
+"match_method": "scored",
+"preferred_label": "يَسوع"
+}
 ]
 }
 },
@@ -7848,6 +8158,22 @@
 "label": "فيليبس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "يوحَنَّا"
+}
 ]
 }
 },
@@ -7954,6 +8280,22 @@
 "resource_code": "UWTranslationWords",
 "label": "سيلا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلِبِّي"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6364,
+"match_method": "scored",
+"preferred_label": "Philippians"
 }
 ]
 }
@@ -8081,6 +8423,36 @@
 "label": "فيليبس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+},
+{
+"id": "person:Philip.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+}
 ]
 }
 },
@@ -8175,6 +8547,29 @@
 "label": "صموئيل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِينَحَاس"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِينَحَاس"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِينَحَاس"
+}
 ]
 }
 },
@@ -8255,6 +8650,15 @@
 "resource_code": "UWTranslationWords",
 "label": "صور",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِينِيقِيَّةً"
 }
 ]
 }

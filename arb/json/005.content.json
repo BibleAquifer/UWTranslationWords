@@ -2354,6 +2354,22 @@
 "label": "ملكوت الله",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Heaven",
+"type": "keyterm",
+"confidence": 0.8545,
+"match_method": "scored",
+"preferred_label": "Sky"
+},
+{
+"id": "keyterm:Heavenly",
+"type": "keyterm",
+"confidence": 0.5614,
+"match_method": "scored",
+"preferred_label": "Heavenly"
+}
 ]
 }
 },
@@ -2369,7 +2385,8 @@
 "content": "<h1>جيل</h1><h2>التعريف:</h2><p>يشير مصطلح &quot;جيل&quot; في هذا السياق إلى الأشخاص الذين يعيشون في نفس الحِقْبَة الزمنية. هؤلاء  يشتركون معًا بوجه عام في نفس الثقافة والخبرات وأسلوب الحياة.</p><h2>اقتراحات التَّرْجَمَة</h2><ul><li><p>يمكن تَرْجَمَة عبارة &quot;جيل آبائه&quot; إلى &quot;أسلافه&quot; أو &quot;الذين عاشوا قبله&quot;.</p></li><li><p>يمكن تَرْجَمَة عبارة &quot;هذا الجيل&quot; أو &quot;أبناء هذا الجيل&quot; إلى &quot;الناس الذين يعيشون الآن&quot; أو &quot;أيها الناس- أو يا قوم&quot;.</p></li><li><p>يمكن تَرْجَمَة عبارة &quot;أجيال المستقبل&quot; إلى &quot;الذين يعيشون من بعدنا&quot; أو &quot;الأشخاص الذين يعيشون في وقت لاحق&quot;.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونغ:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2466,6 +2483,22 @@
 "resource_code": "UWTranslationWords",
 "label": "زِلْفَة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَاد"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَاد"
 }
 ]
 }
@@ -2842,7 +2875,8 @@
 "label": "السامرة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2982,6 +3016,22 @@
 "resource_code": "UWTranslationWords",
 "label": "نهر النيل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَاسَانَ"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَاسَانَ"
 }
 ]
 }
@@ -3787,6 +3837,15 @@
 "label": "حكيم",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.6677,
+"match_method": "scored",
+"preferred_label": "Foolish"
+}
 ]
 }
 },
@@ -3837,7 +3896,8 @@
 "label": "الفلسطينيون",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3934,6 +3994,15 @@
 "label": "زكريا (العهد الجديد)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِبْرَائِيل"
+}
 ]
 }
 },
@@ -3995,6 +4064,29 @@
 "resource_code": "UWTranslationWords",
 "label": "أورشليم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Gibeah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِبْعَةَ"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.7833,
+"match_method": "scored",
+"preferred_label": "Gibeah"
 }
 ]
 }
@@ -4063,6 +4155,22 @@
 "resource_code": "UWTranslationWords",
 "label": "أورشليم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِبْعونَ"
+},
+{
+"id": "group:Gibeon",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Gibeonites"
 }
 ]
 }
@@ -4173,6 +4281,15 @@
 "label": "زيتون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلزَّيْتونِ"
+}
 ]
 }
 },
@@ -4240,6 +4357,15 @@
 "resource_code": "UWTranslationWords",
 "label": "سوريا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَرْمونَ"
 }
 ]
 }
@@ -4324,6 +4450,15 @@
 "label": "الفلسطينيون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "إِلَى"
+}
 ]
 }
 },
@@ -4373,6 +4508,15 @@
 "resource_code": "UWTranslationWords",
 "label": "جبل الزيتون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَثْسَيْمَانِي"
 }
 ]
 }
@@ -4514,6 +4658,22 @@
 "label": "الجنّة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:Gehenna",
+"type": "keyterm",
+"confidence": 0.8182,
+"match_method": "scored",
+"preferred_label": "Gehenna"
+}
 ]
 }
 },
@@ -4595,6 +4755,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يهوه",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِدْعونَ"
 }
 ]
 }
@@ -4732,6 +4901,15 @@
 "label": "الوبأ",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Locust"
+}
 ]
 }
 },
@@ -4836,6 +5014,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الفلسطينيون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَرَارَ"
 }
 ]
 }
@@ -4960,7 +5147,8 @@
 "label": "نبي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5262,7 +5450,8 @@
 "label": "الخطية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5373,7 +5562,8 @@
 "label": "جزية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5441,6 +5631,22 @@
 "resource_code": "UWTranslationWords",
 "label": "آرام",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَشورَ"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Geshurites"
 }
 ]
 }
@@ -5517,6 +5723,36 @@
 "label": "نهر الأردن",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْجَلِيلِ"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+}
 ]
 }
 },
@@ -5565,6 +5801,15 @@
 "resource_code": "UWTranslationWords",
 "label": "جبل الزيتون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Golgotha"
 }
 ]
 }
@@ -5690,6 +5935,36 @@
 "label": "رَأُوبَيْن",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِلْعَادَ"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِلْعَادَ"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِلْعَادَ"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِلْعَادَ"
+}
 ]
 }
 },
@@ -5744,6 +6019,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الفلسطينيون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Goliath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جلْيَات"
 }
 ]
 }
@@ -6227,6 +6511,29 @@
 "label": "بحر الجليل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْجَلِيلِ"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6747,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Galileans"
+}
 ]
 }
 },
@@ -6480,6 +6787,15 @@
 "label": "طاهر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Camel"
+}
 ]
 }
 },
@@ -6670,6 +6986,15 @@
 "resource_code": "UWTranslationWords",
 "label": "عذراء",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوسف"
 }
 ]
 }
@@ -7175,7 +7500,8 @@
 "label": "نسل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7198,7 +7524,8 @@
 "label": "نسل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 }
 ]

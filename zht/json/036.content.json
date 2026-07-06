@@ -112,6 +112,29 @@
 "label": "靈",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.7929,
+"match_method": "scored",
+"preferred_label": "Small Shield"
+},
+{
+"id": "keyterm:Shield",
+"type": "keyterm",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Shield"
+},
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"confidence": 0.6286,
+"match_method": "scored",
+"preferred_label": "Large Shield"
+}
 ]
 }
 }

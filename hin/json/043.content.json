@@ -131,6 +131,15 @@
 "label": "मेलिकिसिदक",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jebusites"
+}
 ]
 }
 },
@@ -331,6 +340,15 @@
 "label": "गलील सागर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यरदन"
+}
 ]
 }
 },
@@ -472,6 +490,22 @@
 "resource_code": "UWTranslationWords",
 "label": "खारा ताल",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Jericho.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jericho"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यरीहो"
 }
 ]
 }
@@ -1932,6 +1966,15 @@
 "label": "सिय्योन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यरूशलेम"
+}
 ]
 }
 },
@@ -2185,6 +2228,15 @@
 "resource_code": "UWTranslationWords",
 "label": "उज्जियाह",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यशायाह"
 }
 ]
 }
@@ -2563,6 +2615,78 @@
 "label": "लिआ:",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Hodiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "होदिय्याह"
+},
+{
+"id": "person:Judah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:Judah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:Judah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:Judah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:Judah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:Hodaviah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "होदव्याह"
+},
+{
+"id": "place:Judea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.6056,
+"match_method": "scored",
+"preferred_label": "यहूदा"
+}
 ]
 }
 },
@@ -2623,6 +2747,15 @@
 "resource_code": "UWTranslationWords",
 "label": "खारा ताल",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:TerritoryOfJudah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Territory of Judah"
 }
 ]
 }
@@ -2830,6 +2963,15 @@
 "resource_code": "UWTranslationWords",
 "label": "याकूब का पुत्र यहूदा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
 }
 ]
 }
@@ -3417,6 +3559,29 @@
 "label": "सामरिया",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदिया"
+},
+{
+"id": "group:Judea",
+"type": "group",
+"confidence": 0.5681,
+"match_method": "scored",
+"preferred_label": "Judeans"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5596,
+"match_method": "scored",
+"preferred_label": "यहूदा"
+}
 ]
 }
 },
@@ -3596,6 +3761,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बुद्धिमानों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.576,
+"match_method": "scored",
+"preferred_label": "Jews"
 }
 ]
 }
@@ -4843,6 +5017,22 @@
 "label": "यहूदी अधिकारी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.571,
+"match_method": "scored",
+"preferred_label": "यरूशलेम"
+}
 ]
 }
 },
@@ -4939,6 +5129,15 @@
 "label": "शास्त्री",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फरीसी"
+}
 ]
 }
 },
@@ -4983,7 +5182,8 @@
 "label": "व्यवस्था",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5039,6 +5239,15 @@
 "resource_code": "UWTranslationWords",
 "label": "भविष्यद्वक्ता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहेजकेल"
 }
 ]
 }
@@ -5127,6 +5336,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मनश्शे",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोयाकीन"
 }
 ]
 }
@@ -5217,6 +5435,15 @@
 "label": "नबूकदनेस्सर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोयाकीम"
+}
 ]
 }
 },
@@ -5273,6 +5500,36 @@
 "resource_code": "UWTranslationWords",
 "label": "योआश",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jehoiada.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोयादा"
+},
+{
+"id": "person:Jehoiada.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोयादा"
+},
+{
+"id": "person:Jehoiada.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोयादा"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोयादा"
 }
 ]
 }
@@ -5362,6 +5619,36 @@
 "resource_code": "UWTranslationWords",
 "label": "ओबद्याह",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jehoram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोराम"
+},
+{
+"id": "person:Joram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योराम"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोराम"
+},
+{
+"id": "person:Jehozabad.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोराम"
 }
 ]
 }
@@ -9726,6 +10013,15 @@
 "label": "प्रभु",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+}
 ]
 }
 },
@@ -9833,6 +10129,36 @@
 "resource_code": "UWTranslationWords",
 "label": "सुलैमान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jehoshaphat.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशाफात"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशाफात"
+},
+{
+"id": "person:Jehoshaphat.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशाफात"
+},
+{
+"id": "person:Jehoshaphat",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशाफात"
 }
 ]
 }
@@ -10006,6 +10332,43 @@
 "resource_code": "UWTranslationWords",
 "label": "ज़कर्याह (पुराना नियम)",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशू"
+},
+{
+"id": "person:Joshua.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशू"
+},
+{
+"id": "person:Joshua.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशू"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशू"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोशू"
 }
 ]
 }
@@ -11439,6 +11802,22 @@
 "label": "जिल्पा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jacob.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "याकूब"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इस्राएल"
+}
 ]
 }
 },
@@ -11506,6 +11885,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बारहों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
 }
 ]
 }
@@ -11703,6 +12091,15 @@
 "label": "मूसा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "याकूब"
+}
 ]
 }
 },
@@ -11833,6 +12230,15 @@
 "label": "सताना/सताव",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "याकूब"
+}
 ]
 }
 },
@@ -11938,6 +12344,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बारहों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "याकूब"
 }
 ]
 }
@@ -12938,7 +13353,8 @@
 "label": "बलिदान करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13073,6 +13489,15 @@
 "label": "तर्शीश",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "याफा"
+}
 ]
 }
 },
@@ -13154,6 +13579,22 @@
 "resource_code": "UWTranslationWords",
 "label": "सुलैमान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jeroboam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यारोबाम"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यारोबाम"
 }
 ]
 }
@@ -13243,6 +13684,50 @@
 "resource_code": "UWTranslationWords",
 "label": "खारा ताल",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jezreel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिज्रेल"
+},
+{
+"id": "person:Jezreel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिज्रेल"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिज्रेल"
+},
+{
+"id": "place:Jezreel.3",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिज्रेल"
+},
+{
+"id": "place:Jezreel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिज्रेल"
+},
+{
+"id": "group:Jezreel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिज्रेल"
 }
 ]
 }
@@ -13400,6 +13885,15 @@
 "label": "मूसा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यित्रो"
+}
 ]
 }
 },
@@ -13481,6 +13975,15 @@
 "resource_code": "UWTranslationWords",
 "label": "न्यायी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jephthah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिप्तह"
 }
 ]
 }
@@ -13632,6 +14135,64 @@
 "label": "कुण्ड",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jeremiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिर्मयाह"
+},
+{
+"id": "person:Jeremiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिर्मयाह"
+},
+{
+"id": "person:Jeremiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिर्मयाह"
+},
+{
+"id": "person:Jeremiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिर्मयाह"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिर्मयाह"
+},
+{
+"id": "person:Jeremiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिर्मयाह"
+},
+{
+"id": "person:Jeremiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिर्मयाह"
+},
+{
+"id": "person:Jeremiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिर्मयाह"
+}
 ]
 }
 },
@@ -13770,6 +14331,15 @@
 "resource_code": "UWTranslationWords",
 "label": "रूत",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jesse",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यिशै"
 }
 ]
 }
@@ -18998,6 +19568,29 @@
 "label": "परमेश्वर का पुत्र",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यीशु"
+},
+{
+"id": "person:Justus.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूस्तुस"
+},
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बरअब्बा"
+}
 ]
 }
 },
@@ -19098,6 +19691,15 @@
 "resource_code": "UWTranslationWords",
 "label": "थिस्सलुनिके",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूनान"
 }
 ]
 }
@@ -19350,6 +19952,22 @@
 "label": "यूहन्ना 12:20 (#2)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूनानी"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.7441,
+"match_method": "scored",
+"preferred_label": "यावान"
+}
 ]
 }
 },
@@ -19540,6 +20158,15 @@
 "resource_code": "UWTranslationWords",
 "label": "कुँवारी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूसुफ"
 }
 ]
 }
@@ -20529,6 +21156,15 @@
 "label": "राहेल",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूसुफ"
+}
 ]
 }
 },
@@ -20801,6 +21437,15 @@
 "resource_code": "UWTranslationWords",
 "label": "जब्दी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूहन्ना"
 }
 ]
 }
@@ -21461,6 +22106,15 @@
 "label": "यूहन्ना 10:40 (#2)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूहन्ना"
+}
 ]
 }
 },
@@ -21582,6 +22236,15 @@
 "label": "पौलुस",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरकुस"
+}
 ]
 }
 },
@@ -21699,6 +22362,15 @@
 "resource_code": "UWTranslationWords",
 "label": "शेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Japheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "येपेत"
 }
 ]
 }
@@ -21824,6 +22496,43 @@
 "label": "सामरिया",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jehu.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "येहू"
+},
+{
+"id": "person:Jehu.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "येहू"
+},
+{
+"id": "person:Jehu.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "येहू"
+},
+{
+"id": "person:Jehu.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "येहू"
+},
+{
+"id": "person:Jehu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "येहू"
+}
 ]
 }
 },
@@ -21896,6 +22605,36 @@
 "resource_code": "UWTranslationWords",
 "label": "दाऊद",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Joab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआब"
+},
+{
+"id": "person:Joab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआब"
+},
+{
+"id": "person:Joab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआब"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआब"
 }
 ]
 }
@@ -21986,6 +22725,64 @@
 "label": "गिदोन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Joash.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआश"
+},
+{
+"id": "person:Joash.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआश"
+},
+{
+"id": "person:Joash.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआश"
+},
+{
+"id": "person:Joash.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआश"
+},
+{
+"id": "person:Joash.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआश"
+},
+{
+"id": "person:Joash.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआश"
+},
+{
+"id": "person:Joash.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआश"
+},
+{
+"id": "person:Joash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योआश"
+}
 ]
 }
 },
@@ -22067,6 +22864,113 @@
 "label": "पिन्तेकुस्त",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Joel.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Shaul.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "शाऊल"
+},
+{
+"id": "person:Joel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+},
+{
+"id": "person:Joel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योएल"
+}
 ]
 }
 },
@@ -22125,7 +23029,8 @@
 "label": "छुड़ा ले",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -22199,6 +23104,29 @@
 "resource_code": "UWTranslationWords",
 "label": "गिदोन",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jotham.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योताम"
+},
+{
+"id": "person:Jotham.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योताम"
+},
+{
+"id": "person:Jotham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योताम"
 }
 ]
 }
@@ -22362,6 +23290,22 @@
 "label": "नीनवे",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jonah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योना"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूहन्ना"
+}
 ]
 }
 },
@@ -22451,6 +23395,99 @@
 "resource_code": "UWTranslationWords",
 "label": "शास्त्री",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Jonathan.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonathan.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनातान"
+},
+{
+"id": "person:Jonadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योनादाब"
 }
 ]
 }
@@ -22563,6 +23600,36 @@
 "label": "भविष्यद्वक्ता",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Joram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योराम"
+},
+{
+"id": "person:Joram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योराम"
+},
+{
+"id": "person:Joram.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योराम"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोराम"
+}
 ]
 }
 },
@@ -22656,6 +23723,22 @@
 "resource_code": "UWTranslationWords",
 "label": "मन्दिर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Josiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योशियाह"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "योशियाह"
 }
 ]
 }

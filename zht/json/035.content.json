@@ -327,7 +327,8 @@
 "label": "羅馬城",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -597,6 +598,15 @@
 "resource_code": "UWTranslationWords",
 "label": "刑罰",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.8146,
+"match_method": "scored",
+"preferred_label": "Condemn"
 }
 ]
 }

@@ -62,6 +62,15 @@
 "label": "亞述",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.7091,
+"match_method": "scored",
+"preferred_label": "Bow"
+}
 ]
 }
 },
@@ -192,7 +201,16 @@
 "end_ref_usfm": "PSA 58:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
+}
+]
 }
 },
 {
@@ -303,7 +321,8 @@
 "label": "羅馬城",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -906,7 +925,8 @@
 "label": "公義",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2987,7 +3007,8 @@
 "label": "罪",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3098,7 +3119,8 @@
 "label": "稅",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

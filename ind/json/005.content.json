@@ -762,7 +762,16 @@
 "end_ref_usfm": "COL 1:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -1070,6 +1079,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Laut Asin",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.6157,
+"match_method": "scored",
+"preferred_label": "Galilea"
 }
 ]
 }
@@ -1389,6 +1414,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Menciptakan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Foundation"
 }
 ]
 }
@@ -1847,6 +1881,22 @@
 "label": "Saul (PL)",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yehuda"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daud"
+}
 ]
 }
 },
@@ -1901,6 +1951,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Simson",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delila"
 }
 ]
 }
@@ -1972,7 +2031,8 @@
 "end_ref_usfm": "PSA 116:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2996,6 +3056,22 @@
 "label": "Tuan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:InChrist",
+"type": "keyterm",
+"confidence": 0.7753,
+"match_method": "scored",
+"preferred_label": "dalam kristus"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.7289,
+"match_method": "scored",
+"preferred_label": "Yesus"
+}
 ]
 }
 },
@@ -3057,7 +3133,8 @@
 "label": "Memperbudak",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3190,7 +3267,8 @@
 "label": "Menyelamatkan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3569,7 +3647,8 @@
 "label": "Kristus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3681,7 +3760,8 @@
 "end_ref_usfm": "MAT 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5475,7 +5555,8 @@
 "label": "Jahat",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5625,7 +5706,8 @@
 "label": "Simeon",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6678,7 +6760,8 @@
 "label": "Roma",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6889,6 +6972,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kemenyan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
 }
 ]
 }

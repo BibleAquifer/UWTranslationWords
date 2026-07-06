@@ -104,6 +104,15 @@
 "label": "Testemunho",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "group:FalseWitnesses",
+"type": "group",
+"confidence": 0.5685,
+"match_method": "scored",
+"preferred_label": "False Witnesses"
+}
 ]
 }
 },
@@ -459,7 +468,8 @@
 "label": "Adorar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -580,7 +590,8 @@
 "label": "Profeta",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -725,7 +736,8 @@
 "label": "Casa",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1860,6 +1872,78 @@
 "label": "Rei",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Pharaoh.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Faraó"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neco"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Faraó"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Faraó"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Faraó"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Faraó"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Faraó"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Faraó"
+},
+{
+"id": "person:Pharaoh.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Faraó"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hofra"
+}
 ]
 }
 },
@@ -2475,6 +2559,15 @@
 "label": "Saduceu",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
+}
 ]
 }
 },
@@ -2923,7 +3016,23 @@
 "end_ref_usfm": "1SA 2:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "favor"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 0.6033,
+"match_method": "scored",
+"preferred_label": "delight"
+}
+]
 }
 },
 {
@@ -4196,6 +4305,15 @@
 "label": "Fiel",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "lean on"
+}
 ]
 }
 },
@@ -4340,7 +4458,8 @@
 "label": "Adorar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4421,6 +4540,15 @@
 "label": "Tiro",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fenícia"
+}
 ]
 }
 },
@@ -4443,6 +4571,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Armadura",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Yiron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Irom"
 }
 ]
 }
@@ -4703,7 +4840,8 @@
 "label": "Festival",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4973,7 +5111,8 @@
 "label": "Festa",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5241,6 +5380,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Promessa",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.757,
+"match_method": "scored",
+"preferred_label": "kindness"
 }
 ]
 }
@@ -5807,7 +5955,8 @@
 "label": "Fé",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5973,7 +6122,16 @@
 "end_ref_usfm": "REV 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fig"
+}
+]
 }
 },
 {
@@ -6028,6 +6186,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sião",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.7015,
+"match_method": "scored",
+"preferred_label": "Jerusalém"
 }
 ]
 }
@@ -6718,7 +6885,8 @@
 "label": "Filhos de Deus",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7266,7 +7434,8 @@
 "label": "Javé",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7383,6 +7552,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Espírito",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.661,
+"match_method": "scored",
+"preferred_label": "SENHOR"
 }
 ]
 }
@@ -7509,6 +7687,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Filipe",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipe"
+},
+{
+"id": "person:Philip.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipe"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipe"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipe"
 }
 ]
 }
@@ -7642,6 +7850,22 @@
 "label": "Filipe",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipe"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "João"
+}
 ]
 }
 },
@@ -7748,6 +7972,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Silas",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipos"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6364,
+"match_method": "scored",
+"preferred_label": "Philippians"
 }
 ]
 }
@@ -7924,6 +8164,29 @@
 "label": "Mar Salgado",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filisteu"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.6935,
+"match_method": "scored",
+"preferred_label": "Filístia"
+},
+{
+"id": "person:Philistine",
+"type": "person",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "Filisteu"
+}
 ]
 }
 },
@@ -7985,6 +8248,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Filisteus",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filístia"
 }
 ]
 }
@@ -8080,6 +8352,29 @@
 "label": "Samuel",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fineias"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fineias"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fineias"
+}
 ]
 }
 },
@@ -8159,6 +8454,15 @@
 "label": "Pastor",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
+}
 ]
 }
 },
@@ -8219,7 +8523,8 @@
 "label": "Calúnia",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8451,7 +8756,8 @@
 "end_ref_usfm": "1CH 21:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8655,7 +8961,8 @@
 "label": "Dilúvio ",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8757,6 +9064,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Imagem",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.9667,
+"match_method": "scored",
+"preferred_label": "Kiln"
 }
 ]
 }
@@ -9073,6 +9389,15 @@
 "label": "Prostituta",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.8118,
+"match_method": "scored",
+"preferred_label": "fornication"
+}
 ]
 }
 },
@@ -9212,6 +9537,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Javé",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.6545,
+"match_method": "scored",
+"preferred_label": "Fortress"
 }
 ]
 }
@@ -9974,7 +10308,8 @@
 "label": "Ventre",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10292,6 +10627,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Criação",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Foundation"
 }
 ]
 }

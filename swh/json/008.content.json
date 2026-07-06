@@ -93,6 +93,15 @@
 "label": "Zakaria AJ",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabrieli"
+}
 ]
 }
 },
@@ -190,6 +199,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Zilpa",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gadi"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gadi"
 }
 ]
 }
@@ -302,6 +327,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Paulo",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatia"
 }
 ]
 }
@@ -785,6 +819,29 @@
 "label": "Bahari la Galilaya",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilaya"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6747,
+"match_method": "scored",
+"preferred_label": "Yudea"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Galileans"
+}
 ]
 }
 },
@@ -960,6 +1017,15 @@
 "label": "Rumi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chariot"
+}
 ]
 }
 },
@@ -1042,6 +1108,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Wafilisti",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gathi"
 }
 ]
 }
@@ -1395,7 +1470,8 @@
 "label": "Rumi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1476,6 +1552,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Wafilisti",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaza"
 }
 ]
 }
@@ -1582,6 +1667,15 @@
 "label": "Wafilisti",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gerari"
+}
 ]
 }
 },
@@ -1651,6 +1745,22 @@
 "label": "Aramu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wageshuri"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Geshurites"
+}
 ]
 }
 },
@@ -1700,6 +1810,15 @@
 "resource_code": "UWTranslationWords",
 "label": " Mlima wa Mizeituni",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gethsemane"
 }
 ]
 }
@@ -2098,7 +2217,8 @@
 "label": "dhambi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2211,6 +2331,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hekalu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Barn",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barn"
 }
 ]
 }
@@ -2387,7 +2516,8 @@
 "label": "Nuhu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2448,6 +2578,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Yerusalemu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Gibeah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibea"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.7833,
+"match_method": "scored",
+"preferred_label": "Gibeah"
 }
 ]
 }
@@ -2516,6 +2669,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Yerusalemu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeoni"
+},
+{
+"id": "group:Gibeon",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Gibeonites"
 }
 ]
 }
@@ -2598,6 +2767,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mungu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gideoni"
 }
 ]
 }
@@ -2723,6 +2901,36 @@
 "label": "Reubeni",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileadi"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileadi"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileadi"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileadi"
+}
 ]
 }
 },
@@ -2797,6 +3005,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Mto wa Yordani",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilaya"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Gilgal"
 }
 ]
 }
@@ -2918,7 +3156,8 @@
 "label": "Viuno",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2966,6 +3205,15 @@
 "resource_code": "UWTranslationWords",
 "label": " Mlima wa Mizeituni",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Golgotha"
 }
 ]
 }
@@ -3021,6 +3269,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Wafilisti",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Goliath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goliathi"
 }
 ]
 }
@@ -3198,6 +3455,15 @@
 "label": "Neno la Mungu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Scroll"
+}
 ]
 }
 },
@@ -3352,6 +3618,15 @@
 "label": "Samaki wa chumvi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomora"
+}
 ]
 }
 },
@@ -3492,6 +3767,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Mto Naili",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosheni"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosheni"
 }
 ]
 }
@@ -3701,7 +3992,8 @@
 "end_ref_usfm": "REV 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

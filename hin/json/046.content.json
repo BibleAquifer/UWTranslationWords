@@ -167,7 +167,8 @@
 "label": "सेवा करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1265,7 +1266,8 @@
 "label": "महीने",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1320,6 +1322,15 @@
 "resource_code": "UWTranslationWords",
 "label": "फारस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Vashti",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "वशती"
 }
 ]
 }
@@ -1417,6 +1428,22 @@
 "resource_code": "UWTranslationWords",
 "label": "पवित्र",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पवित्र आत्मा"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.5682,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -1941,6 +1968,15 @@
 "label": "प्रतिज्ञा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.9628,
+"match_method": "scored",
+"preferred_label": "Covenant"
+}
 ]
 }
 },
@@ -2148,6 +2184,22 @@
 "resource_code": "UWTranslationWords",
 "label": "गवाही",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.9385,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
 }
 ]
 }
@@ -2418,6 +2470,15 @@
 "label": "प्रतिज्ञा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.757,
+"match_method": "scored",
+"preferred_label": "Kindness"
+}
 ]
 }
 },
@@ -2433,7 +2494,8 @@
 "content": "<h1>वादी</h1><h2>परिभाषा:</h2><p><span>शब्द &quot;वादी&quot; एक मौसमी धारा, मौसमी नदी, या एक घाटी को संदर्भित करता है जो वर्ष के कुछ हिस्से के दौरान एक धारा का तल होता है।</span></p><ul><li><p>एक &quot;वादी&quot; में साल के कुछ हिस्से में पानी होता है और साल के कुछ हिस्से में सूखा रहता है।</p></li><li><p><span>जब एक &quot;वादी&quot; में पानी होता है, तो इसमें कितना पानी होता है यह इस बात पर निर्भर करता है कि साल का कौन सा समय है और उस क्षेत्र में कितनी बारिश हुई है और वादी कितनी बड़ी है।</span></p></li></ul><h2>अनुवाद सुझाव:</h2><ul><li><p><span>“वादी” का अनुवाद करने के तरीके में “मौसमी धारा” या “मौसमी धारा तल” या “नदी का सागर” या “नदी तल” शामिल हो सकते हैं</span></p></li></ul><h2><span>बाइबल संदर्भ</span>:</h2><h2><span>शब्द सूची</span>:</h2><ul><li><p><span>स्ट्रॉन्ग का:</span></p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2623,7 +2685,8 @@
 "label": "विधि",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2859,6 +2922,15 @@
 "resource_code": "UWTranslationWords",
 "label": "यहोवा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.8054,
+"match_method": "scored",
+"preferred_label": "Decree"
 }
 ]
 }
@@ -3112,7 +3184,8 @@
 "label": "गिड़गिड़ाना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3371,7 +3444,8 @@
 "label": "क्रोध",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3779,7 +3853,8 @@
 "label": "शैतान",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3903,7 +3978,8 @@
 "end_ref_usfm": "JOB 27:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3954,7 +4030,8 @@
 "label": "हव्वा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4150,7 +4227,16 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.9733,
+"match_method": "scored",
+"preferred_label": "Conscience"
+}
+]
 }
 },
 {
@@ -5423,6 +5509,15 @@
 "label": "विश्वासयोग्य",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
+}
 ]
 }
 },
@@ -5712,6 +5807,15 @@
 "resource_code": "UWTranslationWords",
 "label": "विश्वासयोग्य",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.6783,
+"match_method": "scored",
+"preferred_label": "Trust"
 }
 ]
 }
@@ -7260,6 +7364,15 @@
 "label": "विश्वास",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.9228,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
 ]
 }
 },
@@ -7825,7 +7938,8 @@
 "label": "विश्वास",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7840,7 +7954,8 @@
 "content": "<h1>विषय</h1><h2>तथ्य:</h2><p><span>इस अर्थ में प्रयुक्त, &quot;विषय&quot; शब्द किसी चीज़ का विषय या केंद्र होने का संकेत देता है, जैसे कि, &quot;आप उपहास का विषय होंगे।&quot;</span></p><ul><li><p><span>संदर्भ के आधार पर, शब्द &quot;विषय&quot; का अनुवाद &quot;विषय&quot; या &quot;बातचीत का विषय&quot; या &quot;बातचीत का केंद्र&quot; या &quot;विषयवस्तु&quot; के रूप में किया जा सकता है।</span></p></li></ul><h2><span><strong>बाइबल संदर्भ:</strong></span></h2><h2><span><strong>शब्द सूची:</strong></span></h2>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7945,6 +8060,15 @@
 "label": "शाऊल (पुराना नियम)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lyre"
+}
 ]
 }
 },
@@ -7998,6 +8122,15 @@
 "resource_code": "UWTranslationWords",
 "label": "वीणा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -8560,6 +8693,36 @@
 "label": "बलिदान करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.8943,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.8897,
+"match_method": "scored",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.8897,
+"match_method": "scored",
+"preferred_label": "Tabernacle Altar"
+}
 ]
 }
 },
@@ -8705,6 +8868,15 @@
 "resource_code": "UWTranslationWords",
 "label": "महामहिमन्",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Majesty"
 }
 ]
 }
@@ -8868,6 +9040,22 @@
 "resource_code": "UWTranslationWords",
 "label": "देवता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
 }
 ]
 }

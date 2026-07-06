@@ -1084,6 +1084,15 @@
 "label": "羅馬城",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paul"
+}
 ]
 }
 },
@@ -1229,7 +1238,8 @@
 "label": "應許",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1368,6 +1378,15 @@
 "resource_code": "UWTranslationWords",
 "label": "雅巍",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.6545,
+"match_method": "scored",
+"preferred_label": "Fortress"
 }
 ]
 }
@@ -1815,6 +1834,15 @@
 "label": "治理",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Throne"
+}
 ]
 }
 },
@@ -1889,6 +1917,15 @@
 "resource_code": "UWTranslationWords",
 "label": "異象",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leopard"
 }
 ]
 }
@@ -2077,6 +2114,15 @@
 "resource_code": "UWTranslationWords",
 "label": "公義",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.7655,
+"match_method": "scored",
+"preferred_label": "Avenge"
 }
 ]
 }
@@ -2634,7 +2680,8 @@
 "end_ref_usfm": "LUK 8:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

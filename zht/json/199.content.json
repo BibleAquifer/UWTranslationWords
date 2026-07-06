@@ -167,7 +167,8 @@
 "label": "罪",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -354,6 +355,15 @@
 "resource_code": "UWTranslationWords",
 "label": "神的形象",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Image"
 }
 ]
 }

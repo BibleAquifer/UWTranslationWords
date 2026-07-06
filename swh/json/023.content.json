@@ -114,6 +114,22 @@
 "label": "Sauli",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amalekites"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.7577,
+"match_method": "scored",
+"preferred_label": "Amaleki"
+}
 ]
 }
 },
@@ -238,7 +254,16 @@
 "end_ref_usfm": "GEN 15:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amorites"
+}
+]
 }
 },
 {
@@ -325,6 +350,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Sinai",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Arabia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Waarabu"
+},
+{
+"id": "group:Arabia",
+"type": "group",
+"confidence": 0.6255,
+"match_method": "scored",
+"preferred_label": "Arabians"
+},
+{
+"id": "place:Arabia.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Arabia Petraea"
 }
 ]
 }
@@ -580,6 +628,15 @@
 "label": "Viongozi wa Kiyahudi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Hebrews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hebrews"
+}
 ]
 }
 },
@@ -755,6 +812,29 @@
 "label": "Samaki wa chumvi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wafilisti"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.6935,
+"match_method": "scored",
+"preferred_label": "Wafilisti"
+},
+{
+"id": "person:Philistine",
+"type": "person",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "Wafilisti"
+}
 ]
 }
 },
@@ -834,6 +914,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nuhu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Girgashites"
 }
 ]
 }
@@ -957,6 +1046,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Uru",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Wakaldayo"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.573,
+"match_method": "scored",
+"preferred_label": "Babylonia"
 }
 ]
 }
@@ -1871,7 +1983,8 @@
 "label": "Dhiki",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1921,6 +2034,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Wafilisti",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cherethites"
 }
 ]
 }
@@ -2040,6 +2162,15 @@
 "label": "Roho",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.661,
+"match_method": "scored",
+"preferred_label": "BWANA"
+}
 ]
 }
 },
@@ -2108,7 +2239,8 @@
 "label": "Danieli",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2235,6 +2367,15 @@
 "label": "Farasi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Chariot"
+}
 ]
 }
 },
@@ -2250,7 +2391,8 @@
 "content": "<h1>toa, kabidhi, badilisha, achilia</h1><h2>Ufafanuzi:</h2><ul><li><p>Neno &quot;kuwasilisha&quot; au &quot;kuwasilisha kwa&quot; au &quot;kuwasilisha hadi&quot; linaweza kumaanisha kumtoa mtu kwa adui au mpinzani, kama vile Yuda alivyomtoa Yesu kwa viongozi wa Kiyahudi au Mungu alivyowatoa Waisraeli kwa maadui zao kutokana na dhambi zao za mara kwa mara.</p></li></ul><h2>Mapendekezo ya Tafsiri:</h2><ul><li><p>Wakati &quot;kukabidhi&quot; inamaanisha kumtoa mtu kwa adui, inaweza kutafsiriwa kama &quot;kusaliti&quot; au &quot;kupeana.&quot; Wakati &quot;kukabidhi&quot; inahusu Mungu kuwatoa watu kwa adui, inaweza pia kutafsiriwa kama &quot;kukabidhi&quot; au &quot;kupeana.&quot;</p></li></ul><h2>Marejeleo ya Biblia:</h2><h2>Mifano kutoka katika hadithi za Biblia:</h2><h2>Data ya Neno:</h2><ul><li><p>Strong&apos;s: H1350, H2020, H2502, H3205, H3444, H3467, H4042, H4422, H4672, H5337, H5414, H5462, H6299, H6403, H6413, H6475, H6561, H7725, H7804, H8199, G03250, G05250, G06290, G10800, G13250, G15600, G16590, G18070, G19290, G26730, G30860, G38600, G45060, G49910, G50880, G54830</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2461,6 +2603,15 @@
 "label": "Kikundi cha Watu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
 ]
 }
 },
@@ -2611,7 +2762,8 @@
 "label": "Mwerevu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2746,6 +2898,15 @@
 "label": "Melkizedeki",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jebusites"
+}
 ]
 }
 },
@@ -2871,6 +3032,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Husuda",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+},
+{
+"id": "keyterm:Resentment",
+"type": "keyterm",
+"confidence": 0.7332,
+"match_method": "scored",
+"preferred_label": "Resentment"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "Jealous"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.6391,
+"match_method": "scored",
+"preferred_label": "Passion"
 }
 ]
 }
@@ -3014,7 +3205,23 @@
 "end_ref_usfm": "ROM 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Zealous.3",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Zealous"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.8454,
+"match_method": "embedding",
+"preferred_label": "Jealous"
+}
+]
 }
 }
 ]

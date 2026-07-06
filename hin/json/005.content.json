@@ -106,6 +106,15 @@
 "label": "नबूकदनेस्सर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vulture"
+}
 ]
 }
 },
@@ -270,6 +279,15 @@
 "label": "करकट",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यरूशलेम"
+}
 ]
 }
 },
@@ -370,7 +388,8 @@
 "end_ref_usfm": "GAL 4:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -471,6 +490,43 @@
 "label": "गुम्मट",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Uzziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "उज्जियाह"
+},
+{
+"id": "person:Uzziah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "उज्जियाह"
+},
+{
+"id": "person:Uzziah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "उज्जियाह"
+},
+{
+"id": "person:Uzziah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "उज्जियाह"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "उज्जियाह"
+}
 ]
 }
 },
@@ -564,7 +620,8 @@
 "label": "दुःख",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -709,7 +766,8 @@
 "label": "अधिकारी होना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -724,7 +782,8 @@
 "content": "<h1>उत्पन्न करना, उत्पन्न किया, उत्पन्न किया, उत्पन्न किया गया</h1><h2>परिभाषा:</h2><p>शब्द &quot;उत्पन्न करना&quot; का अर्थ है किसी का पिता बनना।</p><h2>अनुवाद सुझाव:</h2><ul><li><p>आप वाक्यांश “उत्पन्न करना” का अनुवाद “जन्म देना” के रूप में कर सकते हैं और शब्द “उत्पन्न किया” का अनुवाद “जीवन देना” के रूप में कर सकते हैं।</p></li><li><p>शब्द “उत्पन्न किया गया” “उत्पन्न करना” का निष्क्रिय रूप है और इसका अर्थ है “जन्म लेना।”</p></li></ul><h2>बाइबल संदर्भ:</h2><h2>शब्द विवरण:</h2><ul><li><p></p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -930,6 +989,15 @@
 "label": "बचाना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8909,
+"match_method": "scored",
+"preferred_label": "Savior"
+}
 ]
 }
 },
@@ -1134,6 +1202,15 @@
 "label": "यहूदी अधिकारी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "Abstain from Food"
+}
 ]
 }
 },
@@ -1149,7 +1226,8 @@
 "content": "<h1>युग, काल, समय</h1><h2>परिभाषा:</h2><p>इस अर्थ में उपयोग &quot;युग&quot; शब्द एक समय अवधि को संदर्भित करता है।</p><ul><li><p>अन्य शब्द जो एक विस्तारित अवधि को व्यक्त करने के लिए उपयोग किए जाते हैं उनमें &quot;युग&quot; और &quot;ऋतु&quot; शामिल हैं।</p></li><li><p>यीशु &quot;इस युग&quot; को वर्तमान समय के रूप में संदर्भित करते हैं जब बुराई, पाप और परमेश्‍वर के प्रति अनाज्ञाकारिता पृथ्वी पर भरी हुई थी।</p></li><li><p>भविष्य में एक ऐसा युग आएगा जब नये स्वर्ग और नयी पृथ्वी पर धार्मिकता का राज होगा।</p></li></ul><h2>अनुवाद सुझाव:</h2><ul><li><p>संदर्भ के आधार पर, “युग” शब्द का अनुवाद “काल” या “समय अवधि” या “समय” के रूप में किया जा सकता है।</p></li><li><p>वाक्यांश “इस वर्तमान बुरे युग” का अर्थ है “इस समय के दौरान जब लोग बहुत बुरे हैं।”</p></li><li><p>वाक्यांश &quot;युग के अंत&quot; (मत्ती 28:20 में यीशु के शब्दों में उपयोग किया गया) का अर्थ है &quot;जगत के अंत तक&quot; या &quot;इस वर्तमान युग का अंत&quot; और यह यीशु के दूसरे आगमन पर इस वर्तमान युग के अंत को संदर्भित करता है।</p></li></ul><h2>बाइबल संदर्भ:</h2><h2>शब्द <span>विवरण</span>:</h2><ul><li><p>स्ट्रॉन्ग का:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1397,7 +1475,8 @@
 "label": "अपराध",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 }
 ]

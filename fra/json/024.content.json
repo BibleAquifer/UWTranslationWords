@@ -620,6 +620,15 @@
 "label": "Joug",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cattle"
+}
 ]
 }
 },
@@ -800,7 +809,8 @@
 "label": "Dieu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -867,7 +877,8 @@
 "label": "Grain",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -922,6 +933,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Perse",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Vashti",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vasthi"
 }
 ]
 }
@@ -1713,7 +1733,8 @@
 "end_ref_usfm": "MAT 25:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1901,6 +1922,15 @@
 "label": "Juste",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.7655,
+"match_method": "scored",
+"preferred_label": "aider (quelqu'un) à obtenir justice"
+}
 ]
 }
 },
@@ -2072,7 +2102,8 @@
 "label": "Marie",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2210,6 +2241,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Vigne (cep)",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -2488,6 +2528,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Vigne",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -2960,6 +3009,29 @@
 "label": "Pressoir",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Must"
+}
 ]
 }
 },
@@ -3264,7 +3336,8 @@
 "label": "Temple, maison de Dieu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3444,6 +3517,15 @@
 "label": "Songe",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "vision"
+}
 ]
 }
 },
@@ -3539,6 +3621,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Moïse",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Veil"
 }
 ]
 }
@@ -3915,7 +4006,8 @@
 "label": "Samarie",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4201,7 +4293,8 @@
 "label": "Satan",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 }
 ]

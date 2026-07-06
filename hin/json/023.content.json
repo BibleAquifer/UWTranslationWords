@@ -127,6 +127,15 @@
 "label": "चिन्ह",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sackcloth"
+}
 ]
 }
 },
@@ -262,6 +271,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मरी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Locust"
 }
 ]
 }

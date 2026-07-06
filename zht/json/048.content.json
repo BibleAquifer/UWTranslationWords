@@ -159,7 +159,8 @@
 "label": "贖罪祭",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -394,6 +395,22 @@
 "resource_code": "UWTranslationWords",
 "label": "牧羊人",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Rod"
 }
 ]
 }
@@ -889,7 +906,8 @@
 "label": "籤",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1112,6 +1130,22 @@
 "label": "橄欖山",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+},
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 0.5938,
+"match_method": "scored",
+"preferred_label": "Mount of Olives"
+}
 ]
 }
 },
@@ -1220,6 +1254,15 @@
 "resource_code": "UWTranslationWords",
 "label": "橄欖",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount of Olives"
 }
 ]
 }

@@ -407,7 +407,8 @@
 "label": "حصان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -557,7 +558,8 @@
 "label": "حكيم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -661,6 +663,15 @@
 "label": "أورشليم",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أورشَلِيمَ"
+}
 ]
 }
 },
@@ -734,6 +745,15 @@
 "resource_code": "UWTranslationWords",
 "label": "عبادة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "High Place"
 }
 ]
 }
@@ -1344,6 +1364,15 @@
 "resource_code": "UWTranslationWords",
 "label": "خيمة الاجتماع",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
 }
 ]
 }
@@ -4216,6 +4245,15 @@
 "label": "ابن الله",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسوع"
+}
 ]
 }
 },
@@ -4543,7 +4581,8 @@
 "label": "عيد الفصح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4558,7 +4597,8 @@
 "content": "<h1>موضوع</h1><h2>حقائق:</h2><p>يُستخدم مصطلح ”موضوع“ بهذا المعنى، ويشير مصطلح ”موضوع“ إلى كونه موضوعًا أو محورًا لشيء ما، كما في: ”ستكون موضوعًا للسخرية“.</p><ul><li><p>اعتمادًا على السياق، يمكن ترجمة هذا المعنى لكلمة &quot;موضوع&quot; إلى &quot;محور&quot; أو &quot;محور الحديث&quot; أو &quot;محور الحديث&quot; أو &quot;السمة&quot;.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4665,6 +4705,29 @@
 "resource_code": "UWTranslationWords",
 "label": "بلاد فارس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Mede",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Medes"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "مَدَانَ"
+},
+{
+"id": "place:Media",
+"type": "place",
+"confidence": 0.6505,
+"match_method": "scored",
+"preferred_label": "مَادِي"
 }
 ]
 }
@@ -4952,7 +5015,16 @@
 "end_ref_usfm": "PRO 27:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أورشَلِيمَ"
+}
+]
 }
 },
 {
@@ -5019,7 +5091,8 @@
 "label": "كبرياء",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5092,7 +5165,8 @@
 "label": "كبرياء",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5146,7 +5220,8 @@
 "label": "كبرياء",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5345,6 +5420,15 @@
 "label": "والي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.5625,
+"match_method": "scored",
+"preferred_label": "Rebel"
+}
 ]
 }
 },
@@ -5537,6 +5621,15 @@
 "label": "كبرياء",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Poor",
+"type": "keyterm",
+"confidence": 0.6143,
+"match_method": "scored",
+"preferred_label": "Poor"
+}
 ]
 }
 },
@@ -5635,6 +5728,15 @@
 "label": "جزية",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَتَّى"
+}
 ]
 }
 },
@@ -5726,7 +5828,8 @@
 "label": "محاكمة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6038,6 +6141,15 @@
 "label": "السامرة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.983,
+"match_method": "scored",
+"preferred_label": "Parable"
+}
 ]
 }
 },
@@ -6140,6 +6252,15 @@
 "resource_code": "UWTranslationWords",
 "label": "حكيم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -6373,7 +6494,8 @@
 "end_ref_usfm": "1CH 21:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7804,6 +7926,15 @@
 "label": "تسبيح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.9464,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
 ]
 }
 },
@@ -8223,6 +8354,15 @@
 "label": "عبادة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
 ]
 }
 },
@@ -8491,7 +8631,8 @@
 "label": "يوحنا 12: 42 (#1)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8585,7 +8726,8 @@
 "end_ref_usfm": "EXO 32:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8675,7 +8817,8 @@
 "label": "فضل (نعمة، قبول)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8954,7 +9097,8 @@
 "label": "روما",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9065,7 +9209,8 @@
 "label": "امتحان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9126,6 +9271,15 @@
 "resource_code": "UWTranslationWords",
 "label": "محبّة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.6005,
+"match_method": "scored",
+"preferred_label": "Love"
 }
 ]
 }
@@ -10828,6 +10982,15 @@
 "label": "الخطية",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.9583,
+"match_method": "scored",
+"preferred_label": "Love"
+}
 ]
 }
 },
@@ -10918,6 +11081,15 @@
 "resource_code": "UWTranslationWords",
 "label": "بقرة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Plough",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Plough"
 }
 ]
 }
@@ -11687,7 +11859,8 @@
 "label": "مَجْمَع",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11710,7 +11883,8 @@
 "label": "قاضي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11725,7 +11899,8 @@
 "content": "<h1>وِلَادة، مَخَاض </h1><h2>التعريف:</h2><p>يُستخدم مصطلح &quot;مخاض&quot; في هذا السياق للإشارة إلى امرأة تلد.</p><ul><li><p>غالبًا ما تُستخدم عبارة &quot;في المخاض&quot; لوصف المرأة التي تجتاز في عملية الوِلَادة.</p></li><li><p>تشير عبارة &quot;آلام الوِلَادة&quot; إلى الألم الذي تشعر به المرأة في أثناء عملية الوِلَادة.</p></li><li><p>في اللغة الإنجليزية، عادة ما تُستخدم كلمة &quot;المخاض&quot; لوصف عملية الولادة. وربما تكون كلمة مختلفة تمامًا في لغات أخرى.</p></li><li><p>طريقة أخرى لترجمة عبارة &quot;في المخاض&quot; هي &quot;ولادة طفلٍ&quot;</p></li></ul><p>(انظر أيضًا: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_laborpains\" data-resourceType=\"UWTranslationWords\">آلام الوِلَادة</span>)</p><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -12104,7 +12279,8 @@
 "label": "المسيح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12309,6 +12485,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يُخلِّص",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8909,
+"match_method": "scored",
+"preferred_label": "Savior"
 }
 ]
 }
@@ -12695,6 +12880,22 @@
 "label": "يُخلِّص",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Deliver",
+"type": "keyterm",
+"confidence": 0.6409,
+"match_method": "scored",
+"preferred_label": "Deliver"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.5867,
+"match_method": "scored",
+"preferred_label": "Rescue"
+}
 ]
 }
 },
@@ -12857,7 +13058,8 @@
 "label": "خليقة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12911,7 +13113,8 @@
 "label": "يُخرِّب (خراب)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13060,6 +13263,29 @@
 "label": "جدعون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Midian",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِدْيَانَ"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِدْيَانَ"
+},
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "Midianites"
+}
 ]
 }
 },
@@ -13133,6 +13359,22 @@
 "resource_code": "UWTranslationWords",
 "label": "أورشليم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "City of David"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6075,
+"match_method": "scored",
+"preferred_label": "أورشَلِيمَ"
 }
 ]
 }
@@ -13695,6 +13937,36 @@
 "label": "دَقِيق ٱلتَّقْدِمَة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.8943,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.8897,
+"match_method": "scored",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.8897,
+"match_method": "scored",
+"preferred_label": "Tabernacle Altar"
+}
 ]
 }
 },
@@ -13742,6 +14014,15 @@
 "resource_code": "UWTranslationWords",
 "label": "بخور",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.565,
+"match_method": "scored",
+"preferred_label": "Altar"
 }
 ]
 }
@@ -13953,7 +14234,8 @@
 "label": "ذبح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14049,6 +14331,22 @@
 "resource_code": "UWTranslationWords",
 "label": "حكماء",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
+},
+{
+"id": "realia:Myrrh",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
 }
 ]
 }
@@ -14171,6 +14469,15 @@
 "label": "مريم أخت مَرثا",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْثَا"
+}
 ]
 }
 },
@@ -14251,6 +14558,22 @@
 "resource_code": "UWTranslationWords",
 "label": "بلاد فارس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مرْدَخَاي"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مرْدَخَاي"
 }
 ]
 }
@@ -14451,6 +14774,15 @@
 "label": "ناموس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Decree"
+}
 ]
 }
 },
@@ -14641,7 +14973,8 @@
 "label": "قانون",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14851,6 +15184,50 @@
 "label": "عذراء",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْيَم"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْيَم"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْيَم"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْيَم"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْيَم"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْيَم"
+}
 ]
 }
 },
@@ -14958,6 +15335,22 @@
 "resource_code": "UWTranslationWords",
 "label": "متمرد",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Miriam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بِمَرْيَمَ"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بِمَرْيَمَ"
 }
 ]
 }
@@ -15087,6 +15480,15 @@
 "resource_code": "UWTranslationWords",
 "label": "مَرْثَا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْيَم"
 }
 ]
 }
@@ -15221,6 +15623,15 @@
 "label": "مس شيطاني",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْيَم"
+}
 ]
 }
 },
@@ -15308,6 +15719,15 @@
 "resource_code": "UWTranslationWords",
 "label": "قدوس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Psalm",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Psalm"
 }
 ]
 }
@@ -15428,6 +15848,15 @@
 "resource_code": "UWTranslationWords",
 "label": "شيطان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.8845,
+"match_method": "scored",
+"preferred_label": "Be Demon Possessed"
 }
 ]
 }
@@ -15565,7 +15994,8 @@
 "label": "شريعة موسى",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15696,6 +16126,15 @@
 "label": "يَنوح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sackcloth"
+}
 ]
 }
 },
@@ -15785,6 +16224,22 @@
 "resource_code": "UWTranslationWords",
 "label": "ابن الله",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Christ",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Christians"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.69,
+"match_method": "scored",
+"preferred_label": "يَسوع"
 }
 ]
 }
@@ -16144,7 +16599,8 @@
 "end_ref_usfm": "JHN 5:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -16452,6 +16908,15 @@
 "label": "حكيم",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.6616,
+"match_method": "scored",
+"preferred_label": "Counsel"
+}
 ]
 }
 },
@@ -16560,6 +17025,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ذبيحة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Reconcile",
+"type": "keyterm",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Reconcile"
 }
 ]
 }
@@ -16794,6 +17268,15 @@
 "resource_code": "UWTranslationWords",
 "label": "منارة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Lamp",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamp"
 }
 ]
 }
@@ -18484,6 +18967,22 @@
 "label": "رَئِيسِ ٱلْآبَاءِ",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Egypt",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِصْرَ"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِصْرَ"
+}
 ]
 }
 },
@@ -18780,6 +19279,15 @@
 "label": "آية، علامة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.6163,
+"match_method": "scored",
+"preferred_label": "Miraculous Sign"
+}
 ]
 }
 },
@@ -19018,6 +19526,15 @@
 "label": "خمر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goat"
+}
 ]
 }
 },
@@ -19096,6 +19613,29 @@
 "resource_code": "UWTranslationWords",
 "label": "غضب",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.56,
+"match_method": "scored",
+"preferred_label": "Must"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.5515,
+"match_method": "scored",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -19237,6 +19777,15 @@
 "label": "يهوه",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.6545,
+"match_method": "scored",
+"preferred_label": "Fortress"
+}
 ]
 }
 },
@@ -19294,6 +19843,78 @@
 "resource_code": "UWTranslationWords",
 "label": "نفتالي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Maacah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
+},
+{
+"id": "person:Maacah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
+},
+{
+"id": "person:Maacah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
+},
+{
+"id": "person:Maacah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
+},
+{
+"id": "person:Maacah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
+},
+{
+"id": "person:Maacah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعوكَ"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَعْكَة"
 }
 ]
 }
@@ -19728,7 +20349,8 @@
 "label": "يعظ",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19795,7 +20417,8 @@
 "label": "التعيين المسبق",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19937,7 +20560,8 @@
 "label": "هيكل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20100,6 +20724,15 @@
 "resource_code": "UWTranslationWords",
 "label": "هدر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أورشَلِيمَ"
 }
 ]
 }
@@ -20335,6 +20968,15 @@
 "label": "تسالونيكي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَكِدونِيٌّ"
+}
 ]
 }
 },
@@ -20408,7 +21050,8 @@
 "label": "العِرَافة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20486,6 +21129,15 @@
 "resource_code": "UWTranslationWords",
 "label": "نبي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Malachi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَلَاخِي"
 }
 ]
 }
@@ -21667,6 +22319,15 @@
 "label": "عبد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.5616,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
 ]
 }
 },
@@ -21749,7 +22410,16 @@
 "end_ref_usfm": "DEU 32:38"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Refuge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Refuge"
+}
+]
 }
 },
 {
@@ -23522,7 +24192,8 @@
 "label": "ملكوت الله",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23804,6 +24475,15 @@
 "label": "ملكوت",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Kingdom"
+}
 ]
 }
 },
@@ -23984,6 +24664,15 @@
 "label": "المجوس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.576,
+"match_method": "scored",
+"preferred_label": "Jews"
+}
 ]
 }
 },
@@ -24104,7 +24793,8 @@
 "label": "سبأ",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -24420,6 +25110,15 @@
 "resource_code": "UWTranslationWords",
 "label": "مملكة إسرائيل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8609,
+"match_method": "scored",
+"preferred_label": "Kingdom"
 }
 ]
 }
@@ -25284,6 +25983,15 @@
 "label": "مُلك",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8455,
+"match_method": "scored",
+"preferred_label": "Kingdom"
+}
 ]
 }
 },
@@ -25391,7 +26099,8 @@
 "label": "رِدَاء",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -25517,6 +26226,15 @@
 "label": "بار",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَلْكِي"
+}
 ]
 }
 },
@@ -25553,6 +26271,15 @@
 "resource_code": "UWTranslationWords",
 "label": "نهر النيل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Memphis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نوفَ"
 }
 ]
 }
@@ -25638,6 +26365,22 @@
 "label": "السامرة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "إِسْرَائِيلَ"
+}
 ]
 }
 },
@@ -25698,6 +26441,15 @@
 "resource_code": "UWTranslationWords",
 "label": "بحر الملح",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:TerritoryOfJudah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Territory of Judah"
 }
 ]
 }
@@ -25836,7 +26588,8 @@
 "label": "يوحنا 6: 31 (#1)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -26074,6 +26827,22 @@
 "label": "هيكل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+},
+{
+"id": "realia:Lampstand",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+}
 ]
 }
 },
@@ -26201,6 +26970,36 @@
 "resource_code": "UWTranslationWords",
 "label": "يوسف (العهد القديم)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَنَسَّى"
+},
+{
+"id": "person:Manasseh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَنَسَّى"
+},
+{
+"id": "person:Manasseh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَنَسَّى"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَنَسَّى"
 }
 ]
 }
@@ -26403,7 +27202,8 @@
 "label": "شريعة موسى",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -26580,6 +27380,22 @@
 "resource_code": "UWTranslationWords",
 "label": "بحر الملح",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "موآبَ"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "موآبَ"
 }
 ]
 }
@@ -28665,6 +29481,15 @@
 "label": "الوصايا العشر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "موسَى"
+}
 ]
 }
 },
@@ -28741,7 +29566,16 @@
 "end_ref_usfm": "JAS 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Footstool"
+}
+]
 }
 },
 {
@@ -28836,6 +29670,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يهوه",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "deity:Molech",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "لِمولَكَ"
 }
 ]
 }
@@ -28984,7 +29827,8 @@
 "label": "يوحنا 3: 6 (#4)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -29123,6 +29967,57 @@
 "label": "فضة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَا"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَا"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَا"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَا"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَا"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَا"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَا"
+}
 ]
 }
 },
@@ -29204,6 +30099,85 @@
 "label": "بلاد فارس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Michael.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيخَائِيلَ"
+}
 ]
 }
 },
@@ -29267,6 +30241,29 @@
 "resource_code": "UWTranslationWords",
 "label": "حننيا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Mishael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيشَائِيل"
+},
+{
+"id": "person:Mishael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيشَائِيل"
+},
+{
+"id": "person:Mishael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِيشَائِيل"
 }
 ]
 }
@@ -29335,6 +30332,29 @@
 "resource_code": "UWTranslationWords",
 "label": "سَام",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Meshech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَاشِكَ"
+},
+{
+"id": "person:Mash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَاش"
+},
+{
+"id": "place:Meshech",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَاشِكَ"
 }
 ]
 }

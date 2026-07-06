@@ -65,6 +65,22 @@
 "label": "بحر الملح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِي"
+},
+{
+"id": "place:CarmelMount",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "ٱلْكَرْمَلِ"
+}
 ]
 }
 },
@@ -582,7 +598,8 @@
 "label": "فريسي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -637,7 +654,8 @@
 "label": "روح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -691,6 +709,22 @@
 "resource_code": "UWTranslationWords",
 "label": "يشوع",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Caleb.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَالِب"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَالِب"
 }
 ]
 }
@@ -1010,7 +1044,8 @@
 "label": "عَيب",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2009,7 +2044,8 @@
 "label": "وسيط",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2221,7 +2257,8 @@
 "label": "الفخر-إحساس إيجابي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2334,7 +2371,8 @@
 "label": "سَدُوم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2430,7 +2468,8 @@
 "label": "ارتكب",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2707,6 +2746,15 @@
 "resource_code": "UWTranslationWords",
 "label": "كرمة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -3214,6 +3262,15 @@
 "label": "تسبيح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.8725,
+"match_method": "embedding",
+"preferred_label": "Glory"
+}
 ]
 }
 },
@@ -3353,6 +3410,15 @@
 "label": "كرم",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
+}
 ]
 }
 },
@@ -3477,6 +3543,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يونانيّ",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Cornelius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَرْنِيلِيوس"
 }
 ]
 }
@@ -3610,6 +3685,15 @@
 "label": "ملاك",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:WingedCreature",
+"type": "realia",
+"confidence": 0.9167,
+"match_method": "scored",
+"preferred_label": "Winged Creature"
+}
 ]
 }
 },
@@ -3680,7 +3764,23 @@
 "end_ref_usfm": "AMO 9:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كِرِيتَ"
+},
+{
+"id": "group:Cretan",
+"type": "group",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Cretans"
+}
+]
 }
 },
 {
@@ -3730,6 +3830,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الفلسطينيون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cherethites"
 }
 ]
 }
@@ -3842,6 +3951,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يفدي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Atonement"
 }
 ]
 }
@@ -3988,6 +4106,15 @@
 "label": "بحر الجليل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَفْرَنَاحومَ"
+}
 ]
 }
 },
@@ -4110,6 +4237,29 @@
 "resource_code": "UWTranslationWords",
 "label": "أُور",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "ٱلْكَلْدَانِيِّينَ"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.573,
+"match_method": "scored",
+"preferred_label": "Babylonia"
 }
 ]
 }
@@ -5168,7 +5318,8 @@
 "label": "يهوه",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5684,6 +5835,29 @@
 "resource_code": "UWTranslationWords",
 "label": "أرض الموعد",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Canaan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَنْعَان"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَنْعَان"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.7235,
+"match_method": "scored",
+"preferred_label": "Canaanites"
 }
 ]
 }
@@ -6347,6 +6521,15 @@
 "label": "مسيحي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.9962,
+"match_method": "scored",
+"preferred_label": "Church"
+}
 ]
 }
 },
@@ -6525,7 +6708,8 @@
 "label": "سوريا",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6667,6 +6851,15 @@
 "label": "بلاد فارس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Cyrus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كورَشَ"
+}
 ]
 }
 },
@@ -6771,6 +6964,22 @@
 "label": "تيطس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كورِنْثوسَ"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"confidence": 0.6615,
+"match_method": "scored",
+"preferred_label": "Corinthians"
+}
 ]
 }
 },
@@ -6864,6 +7073,29 @@
 "label": "الحبشة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Cush.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كوشَ"
+},
+{
+"id": "person:Cush",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كوشَ"
+},
+{
+"id": "place:Cush",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كوشَ"
+}
 ]
 }
 },
@@ -6906,6 +7138,15 @@
 "resource_code": "UWTranslationWords",
 "label": "بولس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Colossae",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كولوسِّي"
 }
 ]
 }
@@ -6998,6 +7239,15 @@
 "resource_code": "UWTranslationWords",
 "label": "طَرسوس",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كِيلِيكِيَّةَ"
 }
 ]
 }

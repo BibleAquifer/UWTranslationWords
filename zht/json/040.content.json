@@ -1131,6 +1131,78 @@
 "label": "王",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Pharaoh.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neco"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Pharaoh.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hophra"
+}
 ]
 }
 },
@@ -1746,6 +1818,15 @@
 "label": "撒都該人",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
+}
 ]
 }
 },
@@ -1944,6 +2025,15 @@
 "resource_code": "UWTranslationWords",
 "label": "法律",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Decree"
 }
 ]
 }
@@ -2205,6 +2295,15 @@
 "label": "摩西律法",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.63,
+"match_method": "scored",
+"preferred_label": "Law"
+}
 ]
 }
 },
@@ -2228,7 +2327,8 @@
 "label": "審判",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

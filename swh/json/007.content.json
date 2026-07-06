@@ -444,7 +444,23 @@
 "end_ref_usfm": "1SA 2:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 0.6033,
+"match_method": "scored",
+"preferred_label": "Delight"
+}
+]
 }
 },
 {
@@ -567,7 +583,8 @@
 "label": "nabii",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -951,7 +968,8 @@
 "label": "Faida-Kiroho",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -974,7 +992,8 @@
 "label": "Faida",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1119,7 +1138,8 @@
 "label": "Nyumba",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1314,7 +1334,8 @@
 "label": "Roho",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1634,7 +1655,8 @@
 "label": "Roho Mtakatifu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2769,6 +2791,78 @@
 "label": "Mfalme",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Pharaoh.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neko"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Pharaoh.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hofra"
+}
 ]
 }
 },
@@ -3022,6 +3116,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Solomoni",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Horse"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6103,
+"match_method": "scored",
+"preferred_label": "farasi"
 }
 ]
 }
@@ -3637,6 +3747,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sheria",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
 }
 ]
 }
@@ -4569,6 +4688,15 @@
 "label": "Hekalu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.9221,
+"match_method": "scored",
+"preferred_label": "Money"
+}
 ]
 }
 },
@@ -4702,6 +4830,15 @@
 "label": "Komboa",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Ransom"
+}
 ]
 }
 },
@@ -4780,6 +4917,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mchungaji",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
 }
 ]
 }
@@ -4887,6 +5033,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Sila",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipi"
+},
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.6364,
+"match_method": "scored",
+"preferred_label": "Philippians"
 }
 ]
 }
@@ -5013,6 +5175,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Filipo",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipo"
+},
+{
+"id": "person:Philip.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipo"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipo"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipo"
 }
 ]
 }
@@ -5159,6 +5351,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Fimbo",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Staff"
 }
 ]
 }
@@ -5396,6 +5604,22 @@
 "label": "Mchungaji",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.6944,
+"match_method": "scored",
+"preferred_label": "Rod"
+}
 ]
 }
 },
@@ -5476,6 +5700,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Mwenye Haki",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+},
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 0.7167,
+"match_method": "scored",
+"preferred_label": "Staff"
 }
 ]
 }
@@ -5570,6 +5810,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Samweli",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Finehasi"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Finehasi"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Finehasi"
 }
 ]
 }
@@ -5763,7 +6026,8 @@
 "label": "Uovu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5844,6 +6108,15 @@
 "label": "Tiro",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Msirofoinike"
+}
 ]
 }
 },
@@ -5920,7 +6193,16 @@
 "end_ref_usfm": "GEN 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mto"
+}
+]
 }
 },
 {
@@ -6157,7 +6439,8 @@
 "label": "Myahudi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6269,7 +6552,8 @@
 "end_ref_usfm": "MAT 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6457,7 +6741,8 @@
 "label": "Hema",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6737,7 +7022,16 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Delight"
+}
+]
 }
 },
 {
@@ -7845,7 +8139,8 @@
 "end_ref_usfm": "1TH 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7985,7 +8280,8 @@
 "label": "Sifa",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8079,7 +8375,8 @@
 "end_ref_usfm": "EXO 32:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

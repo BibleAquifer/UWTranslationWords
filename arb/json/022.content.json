@@ -179,6 +179,15 @@
 "label": "فرعون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Plague"
+}
 ]
 }
 },
@@ -262,7 +271,8 @@
 "label": "عبادة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -277,7 +287,8 @@
 "content": "<h1>وادي</h1><h2>التعريف:</h2><p>يشير مصطلح &quot;وادي&quot; إلى مجرى موسمي، أو نهر موسمي، أو وادٍ بمعنى قاع مجري مائي في وقت معين من السنة.</p><ul><li><p>يكون &quot;الوادي&quot; مليئًا بالماء في جزء من السنة ويكون جافًا في جزء آخر من السنة.</p></li><li><p>عندما يكون &quot;الوادي&quot; ممتلئًا بالماء، فإن كَمّيَّة الماء الذي يحتويها تعتمد على أيّ توقيت في العام، وكمية الأمطار التي استقبلتها المنطقة، وكذلك حجم الوادي.</p></li></ul><h2>اقتراحات التَّرْجَمَة:</h2><ul><li><p> يمكن أن تشمل تَرْجَمَة &quot;وادي&quot;، بعض هذه المعاني: &quot;مجرى موسمي&quot; أو &quot;قاع مجرى مائي موسمي&quot; أو &quot;حوض نهر&quot; أو &quot;قاع نهر.&quot;</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونغ:</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -369,6 +380,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يهوذا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَدْرونَ"
 }
 ]
 }
@@ -515,7 +535,8 @@
 "label": "يرث",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -867,7 +888,8 @@
 "label": "روما",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -955,7 +977,8 @@
 "label": "يهوه",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1128,6 +1151,36 @@
 "resource_code": "UWTranslationWords",
 "label": "أُور",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Haran.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَارَانَ"
+},
+{
+"id": "person:Haran.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَارَانَ"
+},
+{
+"id": "person:Haran",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَارَانَ"
+},
+{
+"id": "place:Haran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَارَانَ"
 }
 ]
 }
@@ -1601,7 +1654,8 @@
 "label": "الماشية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1679,7 +1733,8 @@
 "label": "متواضع",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1746,7 +1801,8 @@
 "label": "مصالحة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2130,6 +2186,15 @@
 "resource_code": "UWTranslationWords",
 "label": "قَسَم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.9556,
+"match_method": "scored",
+"preferred_label": "Promise"
 }
 ]
 }
@@ -3044,7 +3109,8 @@
 "label": "ضيقة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3242,7 +3308,8 @@
 "label": "عبد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3257,7 +3324,8 @@
 "content": "<h1> يولَد، وَلَد، تولد، المولود</h1><h2>التعريف:</h2><p>يعني مصطلح ”وَلَد“ أن تصبح أباً لشخص ما.</p><h2>اقتراحات الترجمة:</h2><ul><li><p>يمكنك أن تترجم عبارة &quot;يوَلَد&quot; كـ &quot;أنجب&quot; ومصطلح &quot;توَلد&quot; كـ &quot;أب&quot; ومصطلح &quot;وَلَد&quot; كـ &quot;أعطى الحياة&quot;.</p></li><li><p>مصطلح &quot;مولود&quot; هو الشكل المبني للمجهول من &quot;وَلَد&quot; ويعني &quot;أن يولد&quot;. ولكن إن كان غرض الترجمة هو الإشارة إلى المسيح، فمن الأفضل ترجمتها إلى ابن وليس ولد، خاصة في ظل السياق الإسلامي.</p></li></ul><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p></p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3321,7 +3389,8 @@
 "end_ref_usfm": "SNG 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3580,7 +3649,8 @@
 "label": "احتفال",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3848,7 +3918,8 @@
 "end_ref_usfm": "LUK 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

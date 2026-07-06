@@ -91,6 +91,43 @@
 "label": "Yahweh",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+}
 ]
 }
 },
@@ -139,6 +176,15 @@
 "resource_code": "UWTranslationWords",
 "label": "False God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Baasha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baasha"
 }
 ]
 }
@@ -189,6 +235,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mesopotamia",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Babylon"
 }
 ]
 }
@@ -434,6 +489,36 @@
 "label": "Nebuchadnezzar",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "group:Babylon",
+"type": "group",
+"confidence": 0.6118,
+"match_method": "scored",
+"preferred_label": "Babylonians"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+}
 ]
 }
 },
@@ -562,6 +647,15 @@
 "label": "Peor",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Balaam"
+}
 ]
 }
 },
@@ -626,7 +720,8 @@
 "end_ref_usfm": "SNG 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1114,7 +1209,8 @@
 "label": "Repent",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1216,6 +1312,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rome",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barabbas"
 }
 ]
 }
@@ -1345,6 +1450,15 @@
 "resource_code": "UWTranslationWords",
 "label": "John 6:9 (#1)",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barley"
 }
 ]
 }
@@ -1578,6 +1692,22 @@
 "label": "Paul",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barnabas"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5589,
+"match_method": "scored",
+"preferred_label": "Judas"
+}
 ]
 }
 },
@@ -1678,7 +1808,8 @@
 "end_ref_usfm": "GAL 4:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1779,6 +1910,15 @@
 "label": "The Twelve",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bartholomew"
+}
 ]
 }
 },
@@ -1867,6 +2007,36 @@
 "label": "Prophet",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Baruch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruch"
+},
+{
+"id": "person:Baruch.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruch"
+},
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruch"
+},
+{
+"id": "person:Baruch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruch"
+}
 ]
 }
 },
@@ -1942,6 +2112,15 @@
 "label": "Syria",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bashan"
+}
 ]
 }
 },
@@ -2003,6 +2182,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Uriah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
 }
 ]
 }
@@ -2965,6 +3153,15 @@
 "label": "Fruit",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
+}
 ]
 }
 },
@@ -3014,6 +3211,15 @@
 "label": "Elisha",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
+}
 ]
 }
 },
@@ -3037,7 +3243,8 @@
 "label": "Endure",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3060,7 +3267,8 @@
 "label": "Iniquity",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3090,7 +3298,8 @@
 "label": "Testimony",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3562,7 +3771,8 @@
 "label": "Nation",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3647,6 +3857,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Satan",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satan"
 }
 ]
 }
@@ -3790,6 +4009,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Oath",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
 }
 ]
 }
@@ -4043,7 +4271,8 @@
 "label": "Plead",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4058,7 +4287,8 @@
 "content": "<h1>beget, begot, begat, begotten</h1><h2>Definition:</h2><p>The term “beget” means to become the father of someone.</p><h2>Translation Suggestions:</h2><ul><li><p>You could translate the phrase “beget” as “bring forth” and the term “begat” as “fathered” and the term “begot” as “gave life.”</p></li><li><p>The term “begotten” is the passive form of “beget” and means to “be born.”</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p></p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4088,7 +4318,8 @@
 "label": "Plead",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5635,6 +5866,15 @@
 "label": "Trust",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.9228,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
 ]
 }
 },
@@ -6043,6 +6283,15 @@
 "label": "Love",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.975,
+"match_method": "scored",
+"preferred_label": "Beloved"
+}
 ]
 }
 },
@@ -6129,6 +6378,92 @@
 "resource_code": "UWTranslationWords",
 "label": "Solomon",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Benaiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaiah"
 }
 ]
 }
@@ -6390,6 +6725,50 @@
 "label": "Rachel",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Benjamin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.5974,
+"match_method": "scored",
+"preferred_label": "Tribe of Benjamin"
+}
 ]
 }
 },
@@ -6464,6 +6843,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Thessalonica",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Berea"
 }
 ]
 }
@@ -6614,6 +7002,29 @@
 "label": "Mount of Olives",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethany"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethany"
+},
+{
+"id": "place:Bethabara",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Bethany Beyond the Jordan"
+}
 ]
 }
 },
@@ -6761,6 +7172,22 @@
 "label": "Jerusalem",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+}
 ]
 }
 },
@@ -6907,6 +7334,22 @@
 "label": "Micah",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Bethlehem.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
+}
 ]
 }
 },
@@ -6989,6 +7432,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistines",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-shemesh"
+},
+{
+"id": "place:Beth-shemesh.2",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-shemesh"
+},
+{
+"id": "place:Beth-shemesh.3",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-shemesh"
 }
 ]
 }
@@ -7094,6 +7560,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Rebekah",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethuel"
+},
+{
+"id": "place:Bethuel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethuel"
 }
 ]
 }
@@ -7349,7 +7831,8 @@
 "label": "Judas Iscariot",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11065,7 +11548,8 @@
 "label": "Time",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11249,7 +11733,8 @@
 "end_ref_usfm": "JHN 4:52"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -11541,7 +12026,8 @@
 "end_ref_usfm": "ACT 18:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -11601,7 +12087,8 @@
 "label": "Watch",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11655,7 +12142,8 @@
 "label": "Pentecost",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12753,7 +13241,8 @@
 "label": "Biblical Time Month",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12852,6 +13341,22 @@
 "label": "Rachel",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilhah"
+},
+{
+"id": "place:Bilhah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilhah"
+}
 ]
 }
 },
@@ -12944,7 +13449,8 @@
 "label": "Inherit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13134,7 +13640,37 @@
 "end_ref_usfm": "GEN 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Unblemished",
+"type": "keyterm",
+"confidence": 0.6774,
+"match_method": "scored",
+"preferred_label": "Unblemished"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:WithoutReproach",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Without Reproach"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.6402,
+"match_method": "scored",
+"preferred_label": "Be Blameless"
+}
+]
 }
 },
 {
@@ -13423,6 +13959,15 @@
 "label": "Slander",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.8375,
+"match_method": "scored",
+"preferred_label": "Blaspheme"
+}
 ]
 }
 },
@@ -13504,7 +14049,8 @@
 "label": "Sin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14878,6 +15424,15 @@
 "label": "Praise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Bless",
+"type": "keyterm",
+"confidence": 0.8791,
+"match_method": "scored",
+"preferred_label": "Bless"
+}
 ]
 }
 },
@@ -14950,7 +15505,8 @@
 "label": "Slaughter",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15044,7 +15600,8 @@
 "end_ref_usfm": "EXO 32:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -15219,6 +15776,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ruth",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Boaz"
 }
 ]
 }
@@ -15708,6 +16274,15 @@
 "label": "Servant",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.6092,
+"match_method": "scored",
+"preferred_label": "Chain"
+}
 ]
 }
 },
@@ -15819,7 +16394,8 @@
 "label": "Scroll",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15966,7 +16542,8 @@
 "label": "John 3:6 (#4)",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16531,6 +17108,15 @@
 "label": "Worship",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
+}
 ]
 }
 },
@@ -16661,7 +17247,16 @@
 "end_ref_usfm": "PSA 58:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
+}
+]
 }
 },
 {
@@ -17733,6 +18328,22 @@
 "label": "Temple",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:BreadOfDisplay",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bread of Display"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -17953,6 +18564,22 @@
 "label": "Temple",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Breastplate",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Breastplate"
+},
+{
+"id": "realia:Breast-piece",
+"type": "realia",
+"confidence": 0.7634,
+"match_method": "scored",
+"preferred_label": "Breast-Piece"
+}
 ]
 }
 },
@@ -18035,7 +18662,8 @@
 "end_ref_usfm": "PRO 15:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -18120,7 +18748,8 @@
 "label": "Marriage",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18253,7 +18882,8 @@
 "label": "Marriage",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18555,7 +19185,8 @@
 "label": "Temple",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18840,6 +19471,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sacrifice",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.8385,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -19160,7 +19800,8 @@
 "label": "Tomb",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

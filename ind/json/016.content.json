@@ -131,6 +131,92 @@
 "label": "Saul (PL)",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Obadiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+},
+{
+"id": "person:Obadiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obaja"
+}
 ]
 }
 },
@@ -160,6 +246,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Basan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Og"
 }
 ]
 }
@@ -204,6 +299,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Yerobeam",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Omri.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
+},
+{
+"id": "person:Omri",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Omri"
 }
 ]
 }
@@ -1009,6 +1134,15 @@
 "label": "Bijaksana",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.6677,
+"match_method": "scored",
+"preferred_label": "bodoh"
+}
 ]
 }
 },
@@ -1052,6 +1186,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Daud",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cherethites"
 }
 ]
 }
@@ -1461,7 +1604,8 @@
 "label": "Kudus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2014,6 +2158,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Yahudi",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "Gentiles"
 }
 ]
 }
@@ -2676,6 +2829,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Memerintah",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.9581,
+"match_method": "scored",
+"preferred_label": "kekuasaan"
 }
 ]
 }

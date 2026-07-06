@@ -341,6 +341,22 @@
 "label": "Rachel",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Laban"
+},
+{
+"id": "place:Laban",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Laban"
+}
 ]
 }
 },
@@ -911,7 +927,8 @@
 "label": "Hard",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -926,7 +943,8 @@
 "content": "<h1>labor, labors</h1><h2>Definition:</h2><p>Used in this sense, the term “labor” refers to the process of a woman giving birth.</p><ul><li><p>The phrase “in labor” is often used to describe a woman who is in the process of giving birth.</p></li><li><p>The phrase “labor pains” refer to the pain which a woman experiences in the process of giving birth.</p></li><li><p>In English, the word “labor” is used to describe the process of giving birth. Other languages may have a completely different word for this.</p></li><li><p>Another way to translate the phrase “in labor” is “giving birth”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_laborpains\" data-resourceType=\"UWTranslationWords\">labor pains</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1336,6 +1354,15 @@
 "label": "John 1:29 (#5)",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheep"
+}
 ]
 }
 },
@@ -1445,6 +1472,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Seth",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Lamech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamech"
+},
+{
+"id": "person:Lamech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamech"
 }
 ]
 }
@@ -1570,7 +1613,8 @@
 "end_ref_usfm": "JOB 27:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1803,6 +1847,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Lampstand",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Lamp",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamp"
 }
 ]
 }
@@ -2042,6 +2095,22 @@
 "label": "Temple",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+},
+{
+"id": "realia:Lampstand",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+}
 ]
 }
 },
@@ -2200,7 +2269,8 @@
 "label": "World",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2459,6 +2529,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Law of Moses",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.63,
+"match_method": "scored",
+"preferred_label": "Law"
 }
 ]
 }
@@ -3462,6 +3541,15 @@
 "label": "John 9:14 (#2)",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.6197,
+"match_method": "scored",
+"preferred_label": "Law"
+}
 ]
 }
 },
@@ -3819,7 +3907,8 @@
 "label": "Sabbath",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3941,6 +4030,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Mary",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazarus"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazarus"
 }
 ]
 }
@@ -4233,6 +4338,15 @@
 "label": "Zebulun",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leah"
+}
 ]
 }
 },
@@ -4301,7 +4415,8 @@
 "label": "Daniel",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4411,6 +4526,22 @@
 "label": "Fir",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Lebanon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lebanon"
+},
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 0.619,
+"match_method": "scored",
+"preferred_label": "Mount Hermon"
+}
 ]
 }
 },
@@ -4485,6 +4616,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Vision",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leopard"
 }
 ]
 }
@@ -4608,7 +4748,8 @@
 "label": "Naaman",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4663,6 +4804,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Serpent",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:GiantCroccodile",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leviathan"
 }
 ]
 }
@@ -5233,6 +5383,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Temple",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tribe of Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 0.8227,
+"match_method": "scored",
+"preferred_label": "Levi"
 }
 ]
 }
@@ -9089,7 +9255,8 @@
 "label": "Perish",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9265,6 +9432,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sheep",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lion"
 }
 ]
 }
@@ -9677,7 +9853,8 @@
 "label": "Sheep",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9812,6 +9989,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Plague",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Locust"
 }
 ]
 }
@@ -9964,7 +10150,8 @@
 "label": "Gird",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14704,6 +14891,22 @@
 "label": "John 12:21 (#3)",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
 ]
 }
 },
@@ -14790,6 +14993,15 @@
 "label": "Yahweh",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
 ]
 }
 },
@@ -14826,7 +15038,8 @@
 "label": "Passover",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15082,6 +15295,22 @@
 "label": "Sodom",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
 ]
 }
 },
@@ -15222,6 +15451,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Zechariah OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.697,
+"match_method": "scored",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.637,
+"match_method": "scored",
+"preferred_label": "Lot"
 }
 ]
 }
@@ -16924,6 +17169,15 @@
 "label": "Sin",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.9583,
+"match_method": "scored",
+"preferred_label": "Love"
+}
 ]
 }
 },
@@ -16985,6 +17239,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Love",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.6005,
+"match_method": "scored",
+"preferred_label": "Love"
 }
 ]
 }
@@ -17053,7 +17316,8 @@
 "label": "Proud",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17120,6 +17384,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Syria",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Luke",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Luke"
 }
 ]
 }
@@ -17416,7 +17689,8 @@
 "label": "False God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17469,6 +17743,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Harp",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -17555,6 +17838,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Timothy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Lystra",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lystra"
 }
 ]
 }

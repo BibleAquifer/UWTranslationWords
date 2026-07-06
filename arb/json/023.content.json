@@ -131,6 +131,15 @@
 "label": "ملكي صادق",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jebusites"
+}
 ]
 }
 },
@@ -175,7 +184,8 @@
 "label": "شريعة موسى",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -333,7 +343,8 @@
 "label": "العالم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -433,6 +444,15 @@
 "resource_code": "UWTranslationWords",
 "label": "تسالونيكي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْيونَانِ"
 }
 ]
 }
@@ -569,6 +589,15 @@
 "label": "ترشيش",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Joppa",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَافَا"
+}
 ]
 }
 },
@@ -686,6 +715,15 @@
 "resource_code": "UWTranslationWords",
 "label": "سَام",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Japheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَافَثَ"
 }
 ]
 }
@@ -2234,6 +2272,15 @@
 "label": "إيمان",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.9228,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
 ]
 }
 },
@@ -2357,6 +2404,43 @@
 "resource_code": "UWTranslationWords",
 "label": "السامرة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jehu.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَاهو"
+},
+{
+"id": "person:Jehu.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَاهو"
+},
+{
+"id": "person:Jehu.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَاهو"
+},
+{
+"id": "person:Jehu.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَاهو"
+},
+{
+"id": "person:Jehu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَاهو"
 }
 ]
 }
@@ -2498,7 +2582,8 @@
 "label": "تسبيح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2946,7 +3031,8 @@
 "end_ref_usfm": "JER 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3392,7 +3478,8 @@
 "label": "نبي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3795,6 +3882,15 @@
 "label": "الخطية",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.9613,
+"match_method": "scored",
+"preferred_label": "Repent"
+}
 ]
 }
 },
@@ -3825,7 +3921,8 @@
 "label": "خوف \"مخافة\"",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3980,6 +4077,15 @@
 "resource_code": "UWTranslationWords",
 "label": "موسى",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَثْرونَ"
 }
 ]
 }
@@ -4771,7 +4877,8 @@
 "end_ref_usfm": "MAT 25:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5411,7 +5518,8 @@
 "end_ref_usfm": "LEV 19:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5964,6 +6072,22 @@
 "label": "عبد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.8418,
+"match_method": "scored",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Servant",
+"type": "keyterm",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Minister"
+}
 ]
 }
 },
@@ -6084,7 +6208,8 @@
 "label": "مُدمَّر",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6166,7 +6291,8 @@
 "end_ref_usfm": "1PE 5:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6344,7 +6470,16 @@
 "end_ref_usfm": "MAT 20:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Wrong",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wrong"
+}
+]
 }
 },
 {
@@ -7362,7 +7497,8 @@
 "label": "الخطية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7561,7 +7697,8 @@
 "label": "يدعو-يُسمِّي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7615,7 +7752,8 @@
 "label": "يدعو-يستدعي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7934,7 +8072,8 @@
 "label": "قبر",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8044,6 +8183,15 @@
 "label": "قدوس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"confidence": 0.6706,
+"match_method": "scored",
+"preferred_label": "Profane"
+}
 ]
 }
 },
@@ -8140,7 +8288,8 @@
 "label": "خمر",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8484,7 +8633,8 @@
 "label": "يتألم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8565,6 +8715,22 @@
 "resource_code": "UWTranslationWords",
 "label": "سليمان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jeroboam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَربْعَام"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَربْعَام"
 }
 ]
 }
@@ -8995,7 +9161,8 @@
 "label": "أرض الموعد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9347,7 +9514,8 @@
 "end_ref_usfm": "LEV 6:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9585,7 +9753,16 @@
 "end_ref_usfm": "JHN 12:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.6878,
+"match_method": "scored",
+"preferred_label": "Reject"
+}
+]
 }
 },
 {
@@ -9792,7 +9969,8 @@
 "label": "عبادة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9987,7 +10165,8 @@
 "label": "صالح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10323,7 +10502,8 @@
 "label": "الحصاد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10411,6 +10591,50 @@
 "resource_code": "UWTranslationWords",
 "label": "بحر الملح",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jezreel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَزْرَعِيلَ"
+},
+{
+"id": "person:Jezreel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَزْرَعِيلَ"
+},
+{
+"id": "place:Jezreel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَزْرَعِيلَ"
+},
+{
+"id": "place:Jezreel.3",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَزْرَعِيلَ"
+},
+{
+"id": "place:Jezreel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَزْرَعِيلَ"
+},
+{
+"id": "group:Jezreel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَزْرَعِيلَ"
 }
 ]
 }
@@ -10503,6 +10727,29 @@
 "resource_code": "UWTranslationWords",
 "label": "لَيْئَة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Issachar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسَّاكَرَ"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسَّاكَرَ"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.5567,
+"match_method": "scored",
+"preferred_label": "يَسَّاكَرَ"
 }
 ]
 }
@@ -10620,7 +10867,8 @@
 "label": "عبد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10684,7 +10932,8 @@
 "end_ref_usfm": "EZK 20:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -11018,7 +11267,8 @@
 "end_ref_usfm": "MAT 9:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -11163,7 +11413,8 @@
 "label": "غضب",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11728,6 +11979,15 @@
 "label": "عبادة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
+}
 ]
 }
 },
@@ -11982,7 +12242,8 @@
 "label": "يهوذا الإسخريوطي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17209,6 +17470,29 @@
 "label": "ابن الله",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسوع"
+},
+{
+"id": "person:Justus.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوسْتسَ"
+},
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بَارَابَاسَ"
+}
 ]
 }
 },
@@ -17347,6 +17631,15 @@
 "resource_code": "UWTranslationWords",
 "label": "راعوث",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jesse",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسَّى"
 }
 ]
 }
@@ -17507,7 +17800,8 @@
 "label": "السبي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17579,7 +17873,8 @@
 "label": "صلّى",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17752,6 +18047,43 @@
 "label": "زكريا (العهد القديم)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَشوع"
+},
+{
+"id": "person:Joshua.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَشوع"
+},
+{
+"id": "person:Joshua.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَشوع"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَشوع"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَشوع"
+}
 ]
 }
 },
@@ -17831,7 +18163,8 @@
 "label": "الروح القدس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18995,7 +19328,8 @@
 "label": "Justice",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19166,7 +19500,8 @@
 "label": "الخطية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -24396,7 +24731,8 @@
 "label": "حكيم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -24411,7 +24747,8 @@
 "content": "<h1>يعرف، عَرَف، معرفة، مجهول</h1><h2>تعريف:</h2><p>تستخدم مصطلحات &quot;يعرف&quot; و&quot;معرفة&quot; و&quot;عَرَف&quot; في هذا السياق لكي تشير إلى كون الشخص في عَلاقة مع شخص.</p><ul><li><p>أن &quot;تعرف&quot; الله يعني أن تكون في عَلاقة معه. كما ينطبق هذا أيضًا على معرفة الناس.</p></li><li><p>قال يسوع في متى 7:23 أنه في يوم الدينونة سيقول لبعض الناس &quot;لم أعرفكم قط&quot;. فهنا يقصد بقوله &quot;لم أعرفكم قط&quot; أنه لم يكن في عَلاقة شخصية معهم.</p></li><li><p>يُستخدم تعبير &quot;معرفة الله&quot; أحيانًا كمرادف إلى &quot;خوف يهوه&quot;.</p></li><li><p>وعند استخدامها لرجل وامرأة، فإن الفعل &quot;يعرف&quot; غالبًا ما يكون كناية تشير إلى ممارسة الجنس.</p></li></ul><h2>اقتراحات التَّرْجَمَةً</h2><ul><li><p>اعتمادًا على السياق، يمكن تَرْجَمَة هذا المعنى لكلمة &quot;يعرف&quot; بعبارات مثل &quot;يكون على دراية بـ&quot; أو &quot;يكون مألوفًا لدي&quot; أو &quot;يكون في عَلاقة مع&quot;.</p></li><li><p>بعض اللغات لديها كلمتان مختلفتان لـ&quot;يعرف&quot;، واحدة لمعرفة الحقائق وواحدة لمعرفة شخص ما مع وجود عَلاقة مع ذلك الشخص. لذا يجب استخدام الكلمة التي تعني معرفة شخص مع وجود عَلاقة معه عند تَرْجَمَة هذا المعنى لكلمة &quot;يعرف&quot;.</p></li></ul><p>(انظر أيضًا: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_know-information\" data-resourceType=\"UWTranslationWords\">يعرف-معلومات</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_reveal\" data-resourceType=\"UWTranslationWords\">يكشف</span>)</p><h2>مراجع الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -24731,7 +25068,8 @@
 "label": "الروح القدس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -25388,7 +25726,8 @@
 "label": "ملكوت الله",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -26820,6 +27159,22 @@
 "label": "زِلْفَة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Jacob.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَعْقوبَ"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "إِسْرَائِيلَ"
+}
 ]
 }
 },
@@ -26925,6 +27280,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الإثني عشر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَعْقوبَ"
 }
 ]
 }
@@ -27122,6 +27486,15 @@
 "label": "موسى",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَعْقوبَ"
+}
 ]
 }
 },
@@ -27252,6 +27625,15 @@
 "label": "يهوذا بن يعقوب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَعْقوبَ"
+}
 ]
 }
 },
@@ -27334,7 +27716,8 @@
 "end_ref_usfm": "MAT 27:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -27628,6 +28011,22 @@
 "resource_code": "UWTranslationWords",
 "label": "يعظ",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.8086,
+"match_method": "embedding",
+"preferred_label": "Proclaim"
 }
 ]
 }
@@ -28263,7 +28662,16 @@
 "end_ref_usfm": "NUM 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Appoint"
+}
+]
 }
 },
 {
@@ -28330,7 +28738,8 @@
 "label": "حبوب",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -28798,6 +29207,15 @@
 "label": "ذنب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.9429,
+"match_method": "scored",
+"preferred_label": "Forgive"
+}
 ]
 }
 },
@@ -28879,6 +29297,15 @@
 "resource_code": "UWTranslationWords",
 "label": "منصب القاضي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jephthah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَفْتَاح"
 }
 ]
 }
@@ -29181,6 +29608,15 @@
 "label": "فدية",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.7217,
+"match_method": "scored",
+"preferred_label": "Redeem"
+}
 ]
 }
 },
@@ -29412,6 +29848,15 @@
 "resource_code": "UWTranslationWords",
 "label": "رؤيا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Interpret"
 }
 ]
 }
@@ -30796,7 +31241,8 @@
 "label": "يُخلِّص",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -31025,7 +31471,8 @@
 "label": "قدوس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -31104,7 +31551,8 @@
 "label": "يُخلِّص",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -31342,7 +31790,8 @@
 "end_ref_usfm": "2CO 11:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -31802,7 +32251,8 @@
 "end_ref_usfm": "HOS 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -31924,7 +32374,8 @@
 "label": "يُقَدِّس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -32236,7 +32687,8 @@
 "label": "يستهلك (يأكل)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -32610,7 +33062,8 @@
 "label": "عبادة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -32897,6 +33350,15 @@
 "label": "نبي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.6894,
+"match_method": "scored",
+"preferred_label": "Anointed"
+}
 ]
 }
 },
@@ -32966,7 +33428,8 @@
 "label": "صراخ",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -33170,7 +33633,8 @@
 "label": "طوفان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -33358,6 +33822,15 @@
 "label": "بار",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.7655,
+"match_method": "scored",
+"preferred_label": "Avenge"
+}
 ]
 }
 },
@@ -33441,7 +33914,8 @@
 "label": "قدوس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -33947,7 +34421,8 @@
 "label": "روح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -34188,7 +34663,8 @@
 "label": "الخطية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -34794,7 +35270,8 @@
 "label": "الأبدية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -36040,6 +36517,22 @@
 "label": "القادة اليهود",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jews"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.571,
+"match_method": "scored",
+"preferred_label": "أورشَلِيمَ"
+}
 ]
 }
 },
@@ -36626,6 +37119,29 @@
 "label": "السامرة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "group:Judea",
+"type": "group",
+"confidence": 0.5681,
+"match_method": "scored",
+"preferred_label": "Judeans"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5596,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+}
 ]
 }
 },
@@ -37003,6 +37519,78 @@
 "label": "لَيْئَة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Hodiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هودِيَّا"
+},
+{
+"id": "person:Judah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Judah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Judah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Judah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Judah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Hodaviah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هودَوْيَا"
+},
+{
+"id": "place:Judea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.6056,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+}
 ]
 }
 },
@@ -37210,6 +37798,15 @@
 "label": "يهوذا بن يعقوب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+}
 ]
 }
 },
@@ -37277,6 +37874,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الإثني عشر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
 }
 ]
 }
@@ -37366,6 +37972,36 @@
 "resource_code": "UWTranslationWords",
 "label": "عوبديا",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jehoram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهورَام"
+},
+{
+"id": "person:Joram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يورَامَ"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهورَام"
+},
+{
+"id": "person:Jehozabad.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهورَام"
 }
 ]
 }
@@ -37474,6 +38110,36 @@
 "resource_code": "UWTranslationWords",
 "label": "سليمان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jehoshaphat.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوشَافَاط"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوشَافَاط"
+},
+{
+"id": "person:Jehoshaphat.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوشَافَاط"
+},
+{
+"id": "person:Jehoshaphat",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوشَافَاط"
 }
 ]
 }
@@ -41838,6 +42504,15 @@
 "label": "السيد",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
 ]
 }
 },
@@ -41915,6 +42590,15 @@
 "label": "يهوه",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
 ]
 }
 },
@@ -41971,6 +42655,36 @@
 "resource_code": "UWTranslationWords",
 "label": "يوآش",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jehoiada.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهويَادَاع"
+},
+{
+"id": "person:Jehoiada.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهويَادَاع"
+},
+{
+"id": "person:Jehoiada.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهويَادَاع"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهويَادَاع"
 }
 ]
 }
@@ -42061,6 +42775,15 @@
 "label": "نبوخذنصر/نبوخذناصر",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهويَاقِيمَ"
+}
 ]
 }
 },
@@ -42149,6 +42872,15 @@
 "label": "مَنَسَّى",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهويَاكِين"
+}
 ]
 }
 },
@@ -42221,6 +42953,36 @@
 "resource_code": "UWTranslationWords",
 "label": "داود",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Joab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآب"
+},
+{
+"id": "person:Joab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآب"
+},
+{
+"id": "person:Joab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآب"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآب"
 }
 ]
 }
@@ -42311,6 +43073,64 @@
 "label": "جدعون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Joash.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآش"
+},
+{
+"id": "person:Joash.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآش"
+},
+{
+"id": "person:Joash.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآش"
+},
+{
+"id": "person:Joash.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآش"
+},
+{
+"id": "person:Joash.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآش"
+},
+{
+"id": "person:Joash.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآش"
+},
+{
+"id": "person:Joash.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآش"
+},
+{
+"id": "person:Joash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوآش"
+}
 ]
 }
 },
@@ -42391,6 +43211,113 @@
 "resource_code": "UWTranslationWords",
 "label": "عيد الأسابيع",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Joel.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Shaul.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَأول"
+},
+{
+"id": "person:Joel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
+},
+{
+"id": "person:Joel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوئِيل"
 }
 ]
 }
@@ -42866,7 +43793,8 @@
 "label": "أنذر",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -42940,6 +43868,29 @@
 "resource_code": "UWTranslationWords",
 "label": "جدعون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jotham.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوثَام"
+},
+{
+"id": "person:Jotham.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوثَام"
+},
+{
+"id": "person:Jotham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوثَام"
 }
 ]
 }
@@ -43213,6 +44164,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يوحنا المعمدان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوحَنَّا"
 }
 ]
 }
@@ -43873,6 +44833,15 @@
 "label": "يوحنا 10: 40 (#2)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوحَنَّا"
+}
 ]
 }
 },
@@ -43994,6 +44963,15 @@
 "label": "بولس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مَرْقسَ"
+}
 ]
 }
 },
@@ -44104,6 +45082,36 @@
 "resource_code": "UWTranslationWords",
 "label": "نبي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Joram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يورَامَ"
+},
+{
+"id": "person:Joram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يورَامَ"
+},
+{
+"id": "person:Joram.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يورَامَ"
+},
+{
+"id": "person:Jehoram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهورَام"
 }
 ]
 }
@@ -45093,6 +46101,15 @@
 "label": "رَاحِيل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوسف"
+}
 ]
 }
 },
@@ -45187,6 +46204,22 @@
 "label": "هيكل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Josiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوشِيَّا"
+},
+{
+"id": "person:Josiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوشِيَّا"
+}
 ]
 }
 },
@@ -45261,6 +46294,15 @@
 "resource_code": "UWTranslationWords",
 "label": "قاضي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.785,
+"match_method": "scored",
+"preferred_label": "Judgment"
 }
 ]
 }
@@ -45447,7 +46489,8 @@
 "label": "يهوذا 1: 6 (#8)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -49163,7 +50206,8 @@
 "label": "وقت",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -49252,6 +50296,99 @@
 "resource_code": "UWTranslationWords",
 "label": "كاتب",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jonathan.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonathan.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَاثَانَ"
+},
+{
+"id": "person:Jonadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَادَاب"
 }
 ]
 }
@@ -49414,6 +50551,22 @@
 "resource_code": "UWTranslationWords",
 "label": "نِينَوَى",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Jonah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يونَانَ"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يوحَنَّا"
 }
 ]
 }
@@ -49665,6 +50818,22 @@
 "resource_code": "UWTranslationWords",
 "label": "يوحنا 12: 20 (#2)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greeks"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.7441,
+"match_method": "scored",
+"preferred_label": "يَاان"
 }
 ]
 }

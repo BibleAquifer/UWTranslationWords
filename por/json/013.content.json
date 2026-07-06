@@ -54,6 +54,78 @@
 "label": "Naftali",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Maacah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+},
+{
+"id": "person:Maacah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+},
+{
+"id": "person:Maacah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+},
+{
+"id": "person:Maacah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+},
+{
+"id": "person:Maacah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+},
+{
+"id": "person:Maacah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maoque"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maaca"
+}
 ]
 }
 },
@@ -288,6 +360,15 @@
 "label": "Tessalônica",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Macedônia"
+}
 ]
 }
 },
@@ -340,7 +421,23 @@
 "end_ref_usfm": "1KI 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Axe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Axe"
+},
+{
+"id": "realia:Battle-axe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Battle-Axe"
+}
+]
 }
 },
 {
@@ -463,6 +560,15 @@
 "label": "Feitiçaria",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "as artes mágicas"
+}
 ]
 }
 },
@@ -562,7 +668,8 @@
 "label": "Lei de Moisés",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -675,6 +782,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rei",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "majesty"
 }
 ]
 }
@@ -2857,7 +2973,8 @@
 "label": "Pecado",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2935,6 +3052,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Arrepender",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Malachi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Malaquias"
 }
 ]
 }
@@ -3260,7 +3386,8 @@
 "label": "Abençoar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3397,7 +3524,8 @@
 "label": "João 6.31 (#1)",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3525,6 +3653,36 @@
 "label": "José AT",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manassés"
+},
+{
+"id": "person:Manasseh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manassés"
+},
+{
+"id": "person:Manasseh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manassés"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manassés"
+}
 ]
 }
 },
@@ -3606,7 +3764,8 @@
 "label": "Pecado",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3684,7 +3843,8 @@
 "label": "Humilde",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3954,6 +4114,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Túnica",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Robe"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.5929,
+"match_method": "scored",
+"preferred_label": "Cloak"
 }
 ]
 }
@@ -4271,6 +4447,22 @@
 "label": "João 6.1 (#2)",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sea of Galilee"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.6157,
+"match_method": "scored",
+"preferred_label": "Galileia"
+}
 ]
 }
 },
@@ -4352,6 +4544,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Neguebe",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:SaltSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mar Morto"
 }
 ]
 }
@@ -4474,6 +4675,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Egito",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mar Vermelho"
 }
 ]
 }
@@ -4685,6 +4895,50 @@
 "label": "Virgem",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+}
 ]
 }
 },
@@ -4813,6 +5067,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Marta",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
 }
 ]
 }
@@ -4947,6 +5210,15 @@
 "label": "Possuído por demônios",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria Madalena"
+}
 ]
 }
 },
@@ -5068,6 +5340,15 @@
 "label": "Maria irmã de Marta",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marta"
+}
 ]
 }
 },
@@ -5166,6 +5447,15 @@
 "label": "Imposto",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mateus"
+}
 ]
 }
 },
@@ -5233,7 +5523,8 @@
 "label": "Reconciliar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5273,7 +5564,8 @@
 "end_ref_usfm": "JOS 1:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5383,6 +5675,15 @@
 "label": "Prosperar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mar Mediterrâneo"
+}
 ]
 }
 },
@@ -5490,6 +5791,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Pérsia",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "group:Mede",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Medes"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Medã"
+},
+{
+"id": "place:Media",
+"type": "place",
+"confidence": 0.6505,
+"match_method": "scored",
+"preferred_label": "Media"
 }
 ]
 }
@@ -5656,7 +5980,8 @@
 "label": "Sansão",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5781,6 +6106,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Justo",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Melquisedeque"
 }
 ]
 }
@@ -5969,7 +6303,8 @@
 "label": "Fariseu",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6005,6 +6340,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rio Nilo",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Memphis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mênfis"
 }
 ]
 }
@@ -6188,7 +6532,8 @@
 "label": "João Batista",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6579,6 +6924,22 @@
 "label": "Alma",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "coração"
+},
+{
+"id": "keyterm:Mind.2",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "mente"
+}
 ]
 }
 },
@@ -6871,7 +7232,8 @@
 "end_ref_usfm": "ACT 18:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -6938,6 +7300,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Sem",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Meshech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesaque"
+},
+{
+"id": "person:Mash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Más"
+},
+{
+"id": "place:Meshech",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesaque"
 }
 ]
 }
@@ -7007,6 +7392,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Eufrates",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesopotâmia"
+},
+{
+"id": "place:Aram-naharaim",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Aram-naharaim"
 }
 ]
 }
@@ -7441,7 +7842,8 @@
 "label": "Pregar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7590,6 +7992,29 @@
 "label": "Gideão",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Midian",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midiã"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midiã"
+},
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "Midianites"
+}
 ]
 }
 },
@@ -7670,6 +8095,85 @@
 "resource_code": "UWTranslationWords",
 "label": "Pérsia",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Michael.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miguel"
 }
 ]
 }
@@ -7966,6 +8470,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sinal",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.6163,
+"match_method": "scored",
+"preferred_label": "Miraculous Sign"
 }
 ]
 }
@@ -8520,6 +9033,22 @@
 "label": "Servo",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.8418,
+"match_method": "scored",
+"preferred_label": "servir"
+},
+{
+"id": "keyterm:Servant",
+"type": "keyterm",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "servidor público"
+}
 ]
 }
 },
@@ -8659,6 +9188,57 @@
 "label": "Prata",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miquéias"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miquéias"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miquéias"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miquéias"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miquéias"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaías"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mica"
+}
 ]
 }
 },
@@ -8767,6 +9347,22 @@
 "label": "Rebelar-se",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Miriam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriã"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriã"
+}
 ]
 }
 },
@@ -8864,6 +9460,22 @@
 "label": "Homens Instruídos",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
+},
+{
+"id": "realia:Myrrh",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
+}
 ]
 }
 },
@@ -8927,6 +9539,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Hananias",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Mishael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misael"
+},
+{
+"id": "person:Mishael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misael"
+},
+{
+"id": "person:Mishael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misael"
 }
 ]
 }
@@ -9403,6 +10038,15 @@
 "label": "Perdoar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.8923,
+"match_method": "scored",
+"preferred_label": "misericórdia"
+}
 ]
 }
 },
@@ -9515,6 +10159,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Saul",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Mizpah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mispa"
 }
 ]
 }
@@ -9753,7 +10406,8 @@
 "label": "Judeu",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9930,6 +10584,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Mar Salgado",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moabe"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moabe"
 }
 ]
 }
@@ -12015,6 +12685,15 @@
 "label": "Dez Mandamentos",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moisés"
+}
 ]
 }
 },
@@ -12052,7 +12731,8 @@
 "label": "Prata",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12147,6 +12827,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Javé",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "deity:Molech",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moleque"
 }
 ]
 }
@@ -12257,6 +12946,15 @@
 "label": "Azeitona",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Monte das Oliveiras"
+}
 ]
 }
 },
@@ -12324,6 +13022,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Síria",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Monte Hermom"
 }
 ]
 }
@@ -12405,6 +13112,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Pérsia",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordecai"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordecai"
 }
 ]
 }
@@ -12866,7 +13589,8 @@
 "end_ref_usfm": "HOS 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -13919,7 +14643,8 @@
 "label": "Roma",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 }
 ]

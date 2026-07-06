@@ -381,6 +381,15 @@
 "label": "誓約",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.9556,
+"match_method": "scored",
+"preferred_label": "Promise"
+}
 ]
 }
 },
@@ -424,7 +433,8 @@
 "label": "應許",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -870,7 +880,8 @@
 "label": "先知",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -979,6 +990,15 @@
 "resource_code": "UWTranslationWords",
 "label": "尼布甲尼撒",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vulture"
 }
 ]
 }

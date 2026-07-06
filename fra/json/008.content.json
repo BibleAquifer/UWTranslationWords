@@ -33,7 +33,8 @@
 "label": "L'Éternel, Yahvé",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -208,6 +209,15 @@
 "resource_code": "UWTranslationWords",
 "label": "parole de Dieu",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Scroll"
 }
 ]
 }
@@ -441,7 +451,8 @@
 "end_ref_usfm": "1CH 21:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -619,7 +630,16 @@
 "end_ref_usfm": "MAT 20:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Wrong",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "dette"
+}
+]
 }
 },
 {
@@ -740,7 +760,8 @@
 "label": "Prophète",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1188,7 +1209,23 @@
 "end_ref_usfm": "1SA 2:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "grâce"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 0.6033,
+"match_method": "scored",
+"preferred_label": "délice"
+}
+]
 }
 },
 {
@@ -1458,7 +1495,8 @@
 "label": "Le banquet",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2023,7 +2061,8 @@
 "label": "La foi",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2292,6 +2331,15 @@
 "label": "Promesse",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.757,
+"match_method": "scored",
+"preferred_label": "bonté"
+}
 ]
 }
 },
@@ -2497,7 +2545,8 @@
 "label": "Humble",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2552,6 +2601,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sion",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.7015,
+"match_method": "scored",
+"preferred_label": "Jérusalem"
 }
 ]
 }
@@ -3242,7 +3300,8 @@
 "label": "Fils de Dieu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3359,6 +3418,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Esprit",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.661,
+"match_method": "scored",
+"preferred_label": "Éternel"
 }
 ]
 }
@@ -3908,7 +3976,8 @@
 "label": "L'Éternel, Yahvé",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3979,6 +4048,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Le berger",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
 }
 ]
 }
@@ -4299,6 +4377,15 @@
 "label": "Creer ",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Foundation"
+}
 ]
 }
 },
@@ -4503,7 +4590,8 @@
 "label": "Inondation",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4643,6 +4731,15 @@
 "label": "L'Éternel, Yahvé",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.6545,
+"match_method": "scored",
+"preferred_label": "Fortress"
+}
 ]
 }
 },
@@ -4775,6 +4872,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Enfer",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pit"
 }
 ]
 }
@@ -5580,6 +5693,15 @@
 "label": "Sage",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Foolish",
+"type": "keyterm",
+"confidence": 0.6677,
+"match_method": "scored",
+"preferred_label": "insensé"
+}
 ]
 }
 },
@@ -5682,6 +5804,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Image",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.9667,
+"match_method": "scored",
+"preferred_label": "Kiln"
 }
 ]
 }
@@ -6444,7 +6575,8 @@
 "label": "Uterus",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6492,7 +6624,8 @@
 "label": "Porte",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 }
 ]

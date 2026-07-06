@@ -84,6 +84,15 @@
 "label": "मूसा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Psalm",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Psalm"
+}
 ]
 }
 },
@@ -187,6 +196,15 @@
 "label": "मूरत/मूरतों",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.9667,
+"match_method": "scored",
+"preferred_label": "Kiln"
+}
 ]
 }
 },
@@ -251,7 +269,8 @@
 "end_ref_usfm": "EZK 20:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -365,6 +384,15 @@
 "label": "मन्दिर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Barn",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barn"
+}
 ]
 }
 },
@@ -426,7 +454,8 @@
 "label": "महिमा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -486,6 +515,15 @@
 "resource_code": "UWTranslationWords",
 "label": "डर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Terror",
+"type": "keyterm",
+"confidence": 0.8114,
+"match_method": "embedding",
+"preferred_label": "Terror"
 }
 ]
 }
@@ -1820,7 +1858,8 @@
 "label": "दर्शन",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1965,7 +2004,8 @@
 "label": "क्रोध",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2277,7 +2317,8 @@
 "label": "भस्म कर देगा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2369,6 +2410,15 @@
 "resource_code": "UWTranslationWords",
 "label": "सैनिक",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Spear"
 }
 ]
 }
@@ -2463,7 +2513,8 @@
 "label": "जादूगर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2525,7 +2576,8 @@
 "label": "ओसाई",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3164,6 +3216,22 @@
 "label": "चरवाहा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheep"
+},
+{
+"id": "place:SheepGate",
+"type": "place",
+"confidence": 0.6162,
+"match_method": "scored",
+"preferred_label": "भेड़ फाटक"
+}
 ]
 }
 },
@@ -3689,6 +3757,15 @@
 "label": "भेड़",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flock"
+}
 ]
 }
 },
@@ -3780,6 +3857,15 @@
 "resource_code": "UWTranslationWords",
 "label": "भेड़",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wolf"
 }
 ]
 }
@@ -4018,7 +4104,8 @@
 "label": "यहूदी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4082,7 +4169,8 @@
 "end_ref_usfm": "SNG 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

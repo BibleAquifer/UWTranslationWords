@@ -207,6 +207,15 @@
 "label": "蛾摩拉",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sodom"
+}
 ]
 }
 },
@@ -438,6 +447,22 @@
 "resource_code": "UWTranslationWords",
 "label": "西底家",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zerubbabel"
+},
+{
+"id": "person:Zerubbabel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zerubbabel"
 }
 ]
 }
@@ -672,6 +697,15 @@
 "label": "聖殿",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Solomon"
+}
 ]
 }
 },
@@ -763,6 +797,15 @@
 "resource_code": "UWTranslationWords",
 "label": "所多瑪",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Zoar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zoar"
 }
 ]
 }

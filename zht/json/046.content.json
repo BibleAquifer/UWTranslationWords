@@ -158,7 +158,8 @@
 "label": "順服",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -711,6 +712,22 @@
 "label": "僕人",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.8418,
+"match_method": "scored",
+"preferred_label": "Serve"
+},
+{
+"id": "keyterm:Servant",
+"type": "keyterm",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "Minister"
+}
 ]
 }
 },
@@ -769,7 +786,8 @@
 "label": "救贖",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -821,7 +839,23 @@
 "end_ref_usfm": "1KI 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Axe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Axe"
+},
+{
+"id": "realia:Battle-axe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Battle-Axe"
+}
+]
 }
 },
 {
@@ -876,7 +910,8 @@
 "label": "鞠躬",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1068,7 +1103,8 @@
 "label": "邪惡",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1336,7 +1372,16 @@
 "end_ref_usfm": "JHN 5:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.981,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
@@ -1688,7 +1733,8 @@
 "end_ref_usfm": "LEV 6:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

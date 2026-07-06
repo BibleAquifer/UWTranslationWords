@@ -300,7 +300,16 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Donkey"
+}
+]
 }
 },
 {
@@ -439,6 +448,15 @@
 "resource_code": "UWTranslationWords",
 "label": "利亞",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reuben"
 }
 ]
 }
@@ -630,7 +648,8 @@
 "label": "律例",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -866,6 +885,15 @@
 "resource_code": "UWTranslationWords",
 "label": "雅巍",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.8054,
+"match_method": "scored",
+"preferred_label": "Decree"
 }
 ]
 }

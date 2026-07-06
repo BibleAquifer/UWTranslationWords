@@ -71,6 +71,15 @@
 "label": "न्यायी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.785,
+"match_method": "scored",
+"preferred_label": "Judgment"
+}
 ]
 }
 },
@@ -170,7 +179,8 @@
 "label": "व्यवस्था",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -193,7 +203,8 @@
 "label": "न्यायी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1507,6 +1518,15 @@
 "label": "व्यवस्था",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
 ]
 }
 },
@@ -1708,7 +1728,8 @@
 "label": "व्यवस्था",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2311,7 +2332,8 @@
 "label": "धर्मी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 }
 ]

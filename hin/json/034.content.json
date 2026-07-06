@@ -143,7 +143,8 @@
 "label": "यूहन्ना 3:6 (#4)",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -252,6 +253,22 @@
 "resource_code": "UWTranslationWords",
 "label": "याकूब",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Naphtali",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नप्ताली"
+},
+{
+"id": "group:Naphtali",
+"type": "group",
+"confidence": 0.7067,
+"match_method": "scored",
+"preferred_label": "नप्ताली"
 }
 ]
 }
@@ -371,6 +388,15 @@
 "label": "मीशाएल",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नबूकदनेस्सर"
+}
 ]
 }
 },
@@ -449,7 +475,8 @@
 "label": "दीन",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -542,6 +569,15 @@
 "resource_code": "UWTranslationWords",
 "label": "भेड़",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"confidence": 0.678,
+"match_method": "scored",
+"preferred_label": "New Moon Festival"
 }
 ]
 }
@@ -682,6 +718,22 @@
 "resource_code": "UWTranslationWords",
 "label": "स्वर्ग",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नरक"
+},
+{
+"id": "keyterm:Gehenna",
+"type": "keyterm",
+"confidence": 0.8182,
+"match_method": "scored",
+"preferred_label": "Gehenna"
 }
 ]
 }
@@ -829,6 +881,36 @@
 "label": "नील नदी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "flora:Reed",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reed"
+},
+{
+"id": "realia:Reed",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reed"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "Grass"
+},
+{
+"id": "flora:Papyrus",
+"type": "flora",
+"confidence": 0.5727,
+"match_method": "scored",
+"preferred_label": "Papyrus"
+}
 ]
 }
 },
@@ -949,7 +1031,8 @@
 "label": "नाश होगा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -999,6 +1082,22 @@
 "resource_code": "UWTranslationWords",
 "label": "भविष्यद्वक्ता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Nahum.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नहूम"
+},
+{
+"id": "person:Nahum",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नहूम"
 }
 ]
 }
@@ -1109,6 +1208,29 @@
 "resource_code": "UWTranslationWords",
 "label": "यरूशलेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Nehemiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नहेम्याह"
+},
+{
+"id": "person:Nehemiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नहेम्याह"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नहेम्याह"
 }
 ]
 }
@@ -1221,7 +1343,8 @@
 "label": "रोम",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1289,6 +1412,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ज़कर्याह (पुराना नियम)",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
 }
 ]
 }
@@ -1377,6 +1509,50 @@
 "label": "ऊरिय्याह",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Nathan.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नातान"
+},
+{
+"id": "person:Nathan.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नातान"
+},
+{
+"id": "person:Nathan.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नातान"
+},
+{
+"id": "person:Nathan.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नातान"
+},
+{
+"id": "person:Nathan.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नातान"
+},
+{
+"id": "person:Nathan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नातान"
+}
 ]
 }
 },
@@ -1437,6 +1613,15 @@
 "resource_code": "UWTranslationWords",
 "label": "रोम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Census",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Census"
 }
 ]
 }
@@ -2178,7 +2363,8 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2246,6 +2432,36 @@
 "resource_code": "UWTranslationWords",
 "label": "भविष्यद्वक्ता",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Naaman.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नामान"
+},
+{
+"id": "person:Naaman.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नामान"
+},
+{
+"id": "person:Naaman.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नामान"
+},
+{
+"id": "person:Naaman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नामान"
 }
 ]
 }
@@ -2574,7 +2790,8 @@
 "label": "फसह",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2812,7 +3029,8 @@
 "end_ref_usfm": "2CO 11:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2866,7 +3084,8 @@
 "label": "नष्ट करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3472,7 +3691,8 @@
 "label": "सनातन",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3733,6 +3953,15 @@
 "label": "मरियम",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नासरत"
+}
 ]
 }
 },
@@ -3871,6 +4100,29 @@
 "resource_code": "UWTranslationWords",
 "label": "रिबका",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Nahor.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नाहोर"
+},
+{
+"id": "person:Nahor",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नाहोर"
+},
+{
+"id": "place:Nahor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nahor"
 }
 ]
 }
@@ -4160,6 +4412,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बदनामी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.8375,
+"match_method": "scored",
+"preferred_label": "Blaspheme"
 }
 ]
 }
@@ -4495,7 +4756,8 @@
 "end_ref_usfm": "MAT 9:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4631,7 +4893,8 @@
 "label": "याजक",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5265,7 +5528,16 @@
 "end_ref_usfm": "NUM 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Appoint"
+}
+]
 }
 },
 {
@@ -5351,7 +5623,8 @@
 "label": "शाऊल (पुराना नियम)",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5477,7 +5750,8 @@
 "label": "आदर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5813,7 +6087,8 @@
 "label": "आज्ञा/आदेश",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6003,7 +6278,37 @@
 "end_ref_usfm": "GEN 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Unblemished",
+"type": "keyterm",
+"confidence": 0.6774,
+"match_method": "scored",
+"preferred_label": "Unblemished"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:WithoutReproach",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Without Reproach"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.6402,
+"match_method": "scored",
+"preferred_label": "Be Blameless"
+}
+]
 }
 },
 {
@@ -6159,7 +6464,8 @@
 "label": "दोष",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6769,6 +7075,15 @@
 "label": "मिलापवाला तम्बू",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
 ]
 }
 },
@@ -7088,6 +7403,15 @@
 "label": "सृजन करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Foundation"
+}
 ]
 }
 },
@@ -7190,6 +7514,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बुद्धिमान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -7318,6 +7651,22 @@
 "resource_code": "UWTranslationWords",
 "label": "मन फिराना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नीनवे"
+},
+{
+"id": "group:Nineveh",
+"type": "group",
+"confidence": 0.675,
+"match_method": "scored",
+"preferred_label": "नीनवे"
 }
 ]
 }
@@ -7494,6 +7843,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मूसा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nile River"
 }
 ]
 }
@@ -7790,6 +8148,22 @@
 "label": "अवतरण",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नूह"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नूह"
+}
 ]
 }
 },
@@ -7826,6 +8200,15 @@
 "resource_code": "UWTranslationWords",
 "label": "नील नदी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Memphis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नोप"
 }
 ]
 }

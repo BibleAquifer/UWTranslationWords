@@ -106,6 +106,29 @@
 "label": "Jacó",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dã"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dã"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Dã"
+}
 ]
 }
 },
@@ -167,6 +190,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sansão",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dalila"
 }
 ]
 }
@@ -333,6 +365,15 @@
 "label": "Acreditar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Damasco"
+}
 ]
 }
 },
@@ -393,6 +434,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Nabucodonosor",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Quileabe"
 }
 ]
 }
@@ -1355,6 +1419,15 @@
 "label": "Fruto",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
+}
 ]
 }
 },
@@ -1490,6 +1563,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Pérsia",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
 }
 ]
 }
@@ -1955,6 +2051,22 @@
 "label": "Saul",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judá"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Davi"
+}
 ]
 }
 },
@@ -2089,7 +2201,8 @@
 "label": "Joeirar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2277,7 +2390,8 @@
 "label": "Templo",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2572,6 +2686,22 @@
 "label": "Pregar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "testemunhar solenemente"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.8086,
+"match_method": "embedding",
+"preferred_label": "proclamar"
+}
 ]
 }
 },
@@ -2771,6 +2901,15 @@
 "label": "Lei",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "decree"
+}
 ]
 }
 },
@@ -2867,7 +3006,8 @@
 "label": "Cometer",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3147,7 +3287,16 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "delight"
+}
+]
 }
 },
 {
@@ -3740,6 +3889,15 @@
 "label": "Satanás",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.7977,
+"match_method": "scored",
+"preferred_label": "Demons"
+}
 ]
 }
 },
@@ -3812,7 +3970,8 @@
 "label": "Abate",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3977,7 +4136,8 @@
 "label": "Noé",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4007,7 +4167,8 @@
 "label": "Temor",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4533,7 +4694,8 @@
 "end_ref_usfm": "GEN 37:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4573,7 +4735,8 @@
 "end_ref_usfm": "PSA 92:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4737,6 +4900,15 @@
 "label": "Desperdício",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalém"
+}
 ]
 }
 },
@@ -4863,7 +5035,8 @@
 "label": "Honra",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4939,7 +5112,8 @@
 "end_ref_usfm": "ZEC 7:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5023,7 +5197,8 @@
 "label": "Desonra",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5350,7 +5525,8 @@
 "label": "Páscoa",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5423,7 +5599,8 @@
 "label": "Adivinhação",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14296,6 +14473,15 @@
 "label": "Javé",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "SENHOR"
+}
 ]
 }
 },
@@ -15722,6 +15908,15 @@
 "label": "Filho de Deus",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "SENHOR"
+}
 ]
 }
 },
@@ -15776,7 +15971,8 @@
 "label": "Arruinar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16088,7 +16284,8 @@
 "label": "Consumir",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16171,7 +16368,8 @@
 "label": "Adorar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16245,6 +16443,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Julgar",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.785,
+"match_method": "scored",
+"preferred_label": "juízo"
 }
 ]
 }
@@ -16417,7 +16624,8 @@
 "label": "João 11.24 (#4)",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20133,7 +20341,8 @@
 "label": "Tempo",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20194,7 +20403,8 @@
 "label": "Servo",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20402,7 +20612,8 @@
 "end_ref_usfm": "REV 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -20577,7 +20788,8 @@
 "label": "Noé",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20669,7 +20881,8 @@
 "label": "Herdar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -20928,7 +21141,8 @@
 "label": "Sábio",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -22504,6 +22718,15 @@
 "label": "Os Doze",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"confidence": 0.5521,
+"match_method": "scored",
+"preferred_label": "A Disciple"
+}
 ]
 }
 },
@@ -22663,7 +22886,8 @@
 "label": "Perseguir",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -22756,6 +22980,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Julgar",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Divine",
+"type": "keyterm",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "divino"
 }
 ]
 }
@@ -22968,7 +23201,8 @@
 "label": "Casa",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23064,7 +23298,8 @@
 "label": "Autoridade",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23176,7 +23411,8 @@
 "end_ref_usfm": "MAT 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -23199,7 +23435,8 @@
 "label": "Mal",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 }
 ]

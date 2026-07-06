@@ -314,6 +314,15 @@
 "label": "Mencobai",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "menilai"
+}
 ]
 }
 },
@@ -744,7 +753,8 @@
 "end_ref_usfm": "REV 22:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1297,6 +1307,22 @@
 "label": "Memperbudak",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Serve",
+"type": "keyterm",
+"confidence": 0.8418,
+"match_method": "scored",
+"preferred_label": "melayani"
+},
+{
+"id": "keyterm:Servant",
+"type": "keyterm",
+"confidence": 0.6176,
+"match_method": "scored",
+"preferred_label": "pelayan"
+}
 ]
 }
 },
@@ -1543,7 +1569,8 @@
 "label": "Menghukum",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1632,6 +1659,22 @@
 "label": "Mesopotamia",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Ur",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ur-Kasdim"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ur-Kasdim"
+}
 ]
 }
 },
@@ -1717,6 +1760,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Daud",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Uriah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
 }
 ]
 }
@@ -1900,7 +1980,8 @@
 "label": "Yohanes (Pembaptis)",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1986,6 +2067,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Memerintah",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Uzziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
 }
 ]
 }

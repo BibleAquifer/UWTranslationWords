@@ -33,6 +33,15 @@
 "label": "尼羅河",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Memphis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Memphis"
+}
 ]
 }
 },
@@ -128,6 +137,15 @@
 "resource_code": "UWTranslationWords",
 "label": "雅巍",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "deity:Molech",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Molech"
 }
 ]
 }
@@ -2213,6 +2231,15 @@
 "label": "十誡",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moses"
+}
 ]
 }
 },
@@ -3215,6 +3242,15 @@
 "label": "約翰福音 9:14 (#2)",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.6197,
+"match_method": "scored",
+"preferred_label": "Law"
+}
 ]
 }
 },
@@ -3393,6 +3429,22 @@
 "label": "死海",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moab"
+}
 ]
 }
 },
@@ -3526,6 +3578,15 @@
 "label": "被鬼附",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary Magdalene"
+}
 ]
 }
 },
@@ -3620,7 +3681,8 @@
 "end_ref_usfm": "EXO 32:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3700,6 +3762,22 @@
 "resource_code": "UWTranslationWords",
 "label": "波斯",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordecai"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordecai"
 }
 ]
 }
@@ -3859,7 +3937,8 @@
 "label": "世界",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3899,7 +3978,8 @@
 "end_ref_usfm": "JOS 1:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

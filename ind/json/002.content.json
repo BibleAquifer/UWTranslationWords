@@ -64,7 +64,8 @@
 "label": "Nabi",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -134,7 +135,58 @@
 "end_ref_usfm": "1SA 8:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abia"
+},
+{
+"id": "person:Abijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abia"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abia"
+},
+{
+"id": "person:Abijah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abia"
+},
+{
+"id": "person:Abijah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abia"
+},
+{
+"id": "person:Abijah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abia"
+},
+{
+"id": "person:Abi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abi"
+}
+]
 }
 },
 {
@@ -335,6 +387,29 @@
 "label": "Jotam",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Abimelech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abimelekh"
+},
+{
+"id": "person:Achish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Akhis"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abimelekh"
+}
 ]
 }
 },
@@ -381,7 +456,16 @@
 "end_ref_usfm": "1SA 17:56"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abner",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abner"
+}
+]
 }
 },
 {
@@ -1842,6 +1926,15 @@
 "label": "Sara",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abraham"
+}
 ]
 }
 },
@@ -1908,6 +2001,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Gesur",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Absalom"
 }
 ]
 }
@@ -1989,6 +2091,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Salomo",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abyatar"
 }
 ]
 }
@@ -2874,6 +2985,22 @@
 "label": "Gambar Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Adam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manusia"
+},
+{
+"id": "place:Adam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manusia"
+}
 ]
 }
 },
@@ -3030,6 +3157,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Musa",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.8824,
+"match_method": "scored",
+"preferred_label": "adat istiadat"
 }
 ]
 }
@@ -3634,7 +3770,8 @@
 "label": "Benar",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3670,6 +3807,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Salomo",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Adonijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adonia"
+},
+{
+"id": "person:Adonijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adonia"
+},
+{
+"id": "person:Adonijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adonia"
 }
 ]
 }
@@ -3745,7 +3905,8 @@
 "label": "Roh",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3813,6 +3974,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Kerajaan Israel",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Ahab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahab"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahab"
 }
 ]
 }
@@ -3886,6 +4063,22 @@
 "label": "Babilon",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Ahaz.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahas"
+},
+{
+"id": "person:Ahaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahas"
+}
 ]
 }
 },
@@ -3954,6 +4147,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pengasingan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Ahasuerus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahasyweros"
 }
 ]
 }
@@ -4024,6 +4226,22 @@
 "label": "Yoas",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahazia"
+},
+{
+"id": "person:Ahaziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahazia"
+}
 ]
 }
 },
@@ -4084,6 +4302,71 @@
 "resource_code": "UWTranslationWords",
 "label": "Silo",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Ahijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahia"
+},
+{
+"id": "person:Ahijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahia"
+},
+{
+"id": "person:Ahijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahia"
+},
+{
+"id": "person:Ahijah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahia"
+},
+{
+"id": "person:Ahijah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahia"
+},
+{
+"id": "person:Ahijah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahia"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahimelekh"
+},
+{
+"id": "person:Ahijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahia"
+},
+{
+"id": "person:Ahiah",
+"type": "person",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Ahia"
 }
 ]
 }
@@ -4230,7 +4513,8 @@
 "label": "Mewarisi",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4320,6 +4604,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Yerikho",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "hai"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "hai"
 }
 ]
 }
@@ -4525,7 +4825,8 @@
 "label": "Banjir",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4572,6 +4873,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tabut perjanjian",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Acacia"
 }
 ]
 }
@@ -4664,6 +4974,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Roma",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Akwila"
 }
 ]
 }
@@ -4987,7 +5306,8 @@
 "end_ref_usfm": "DEU 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -13853,6 +14173,15 @@
 "label": "Anak Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
 ]
 }
 },
@@ -15279,6 +15608,15 @@
 "label": "Anak Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
 ]
 }
 },
@@ -15397,6 +15735,22 @@
 "label": "Saul (PL)",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amalekites"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.7577,
+"match_method": "scored",
+"preferred_label": "Amalek"
+}
 ]
 }
 },
@@ -15457,7 +15811,8 @@
 "label": "Penguasaan diri",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15511,6 +15866,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Yoas",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Amaziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amazia"
+},
+{
+"id": "person:Amaziah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amazia"
+},
+{
+"id": "person:Amaziah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amazia"
+},
+{
+"id": "person:Amaziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amazia"
 }
 ]
 }
@@ -16202,6 +16587,15 @@
 "label": "Menggenapi",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Surely",
+"type": "keyterm",
+"confidence": 0.9076,
+"match_method": "scored",
+"preferred_label": "amin!"
+}
 ]
 }
 },
@@ -16250,6 +16644,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Daud",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Amnon.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amnon"
+},
+{
+"id": "person:Amnon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amnon"
 }
 ]
 }
@@ -16366,6 +16776,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Lot",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amon"
 }
 ]
 }
@@ -16491,7 +16910,16 @@
 "end_ref_usfm": "GEN 15:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amorites"
+}
+]
 }
 },
 {
@@ -16542,6 +16970,29 @@
 "label": "Uzia",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Amos.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amos"
+},
+{
+"id": "person:Amos.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amos"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amon"
+}
 ]
 }
 },
@@ -16590,6 +17041,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Yesaya",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Amoz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amos"
 }
 ]
 }
@@ -17273,7 +17733,8 @@
 "label": "Yesus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17550,7 +18011,8 @@
 "label": "Pengorbanan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17688,6 +18150,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Murid",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Andreas"
 }
 ]
 }
@@ -17861,7 +18332,8 @@
 "end_ref_usfm": "1CO 12:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -18317,6 +18789,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Kebun anggur",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Must"
 }
 ]
 }
@@ -18822,7 +19317,8 @@
 "label": "Turun",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18877,7 +19373,8 @@
 "label": "Kesengsaraan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -19055,6 +19552,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Siria",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antiokhia"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antiokhia"
+},
+{
+"id": "group:Antioch",
+"type": "group",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Antiochians"
 }
 ]
 }
@@ -19858,7 +20378,23 @@
 "end_ref_usfm": "GEN 43:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.9515,
+"match_method": "scored",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.6121,
+"match_method": "scored",
+"preferred_label": "kebaikan"
+}
+]
 }
 },
 {
@@ -19975,6 +20511,15 @@
 "label": "Firman Allah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Apolos"
+}
 ]
 }
 },
@@ -20063,6 +20608,15 @@
 "label": "Laut Asin",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Arabah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Araba-Yordan"
+}
 ]
 }
 },
@@ -20150,6 +20704,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Sinai",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Arabia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Arab"
+},
+{
+"id": "group:Arabia",
+"type": "group",
+"confidence": 0.6255,
+"match_method": "scored",
+"preferred_label": "Arabians"
+},
+{
+"id": "place:Arabia.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Arabia Petraea"
 }
 ]
 }
@@ -20286,6 +20863,36 @@
 "label": "Siria",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Aram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "person:Aram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "person:Aram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+}
 ]
 }
 },
@@ -20346,6 +20953,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nuh",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Ararat",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ararat"
 }
 ]
 }
@@ -20494,6 +21110,22 @@
 "label": "Nehemia",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Artaxerxes.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Artahsasta"
+},
+{
+"id": "person:Artaxerxes",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Artahsasta"
+}
 ]
 }
 },
@@ -20546,7 +21178,23 @@
 "end_ref_usfm": "1KI 15:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Asa.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asa"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asa"
+}
+]
 }
 },
 {
@@ -20657,6 +21305,43 @@
 "label": "Sangkakala",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Asaph.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaf"
+},
+{
+"id": "person:Asaph.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaf"
+},
+{
+"id": "person:Asaph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaf"
+},
+{
+"id": "person:Ebiasaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ebyasaf"
+},
+{
+"id": "person:Asaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaf"
+}
 ]
 }
 },
@@ -20755,6 +21440,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Yoppe",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Ashdod",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asdod"
 }
 ]
 }
@@ -20944,6 +21638,15 @@
 "label": "Roma",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Asia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asia"
+}
 ]
 }
 },
@@ -21051,6 +21754,15 @@
 "label": "Laut",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Ashkelon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Askelon"
+}
 ]
 }
 },
@@ -21148,6 +21860,22 @@
 "label": "Yacob",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Asher",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asyer"
+},
+{
+"id": "group:Asher",
+"type": "group",
+"confidence": 0.61,
+"match_method": "scored",
+"preferred_label": "Asyer"
+}
 ]
 }
 },
@@ -21235,6 +21963,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Salomo",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "berhala"
 }
 ]
 }
@@ -21338,6 +22075,15 @@
 "label": "Samaria",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Assyria"
+}
 ]
 }
 },
@@ -21406,6 +22152,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Omri",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Athaliah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Atalya"
+},
+{
+"id": "person:Athaliah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Atalya"
+},
+{
+"id": "person:Athaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Atalya"
 }
 ]
 }
@@ -21790,6 +22559,15 @@
 "label": "Bangsa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Job",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ayub"
+}
 ]
 }
 },
@@ -21864,6 +22642,176 @@
 "resource_code": "UWTranslationWords",
 "label": "Uzia",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Azariah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.16",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.18",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.19",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.20",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Jezaniah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kareah"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Azariah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Azariah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Azarya"
+},
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahazia"
+},
+{
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Hananya"
 }
 ]
 }

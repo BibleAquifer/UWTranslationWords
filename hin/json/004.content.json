@@ -64,6 +64,15 @@
 "label": "देवता",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Jezebel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ईजेबेल"
+}
 ]
 }
 },
@@ -190,6 +199,36 @@
 "label": "डाह",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+},
+{
+"id": "keyterm:Resentment",
+"type": "keyterm",
+"confidence": 0.7332,
+"match_method": "scored",
+"preferred_label": "Resentment"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "Jealous"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.6391,
+"match_method": "scored",
+"preferred_label": "Passion"
+}
 ]
 }
 },
@@ -283,6 +322,15 @@
 "resource_code": "UWTranslationWords",
 "label": "न्यायी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Divine",
+"type": "keyterm",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Divine"
 }
 ]
 }

@@ -88,6 +88,15 @@
 "label": "Pedra",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Icônio"
+}
 ]
 }
 },
@@ -518,7 +527,8 @@
 "end_ref_usfm": "REV 22:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1180,6 +1190,15 @@
 "label": "Cristão",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.9962,
+"match_method": "scored",
+"preferred_label": "igreja"
+}
 ]
 }
 },
@@ -1368,6 +1387,15 @@
 "label": "Imagem de Deus",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Image"
+}
 ]
 }
 },
@@ -1459,7 +1487,8 @@
 "label": "Filho de Deus",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1559,7 +1588,8 @@
 "end_ref_usfm": "2CO 8:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1861,7 +1891,8 @@
 "label": "Pecado",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1945,6 +1976,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Homens Instruídos",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Frankincense"
 }
 ]
 }
@@ -2158,6 +2198,15 @@
 "label": "Incenso",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
 ]
 }
 },
@@ -2298,7 +2347,8 @@
 "label": "Fiel",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2437,6 +2487,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Paraíso",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+},
+{
+"id": "keyterm:Gehenna",
+"type": "keyterm",
+"confidence": 0.8182,
+"match_method": "scored",
+"preferred_label": "geena"
 }
 ]
 }
@@ -2728,7 +2794,8 @@
 "label": "Transpassar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2884,7 +2951,8 @@
 "label": "Culpa",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2936,7 +3004,16 @@
 "end_ref_usfm": "EZK 20:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.8565,
+"match_method": "embedding",
+"preferred_label": "rogar"
+}
+]
 }
 },
 {
@@ -3272,7 +3349,8 @@
 "label": "Decreto",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3387,7 +3465,8 @@
 "label": "José AT",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3459,7 +3538,8 @@
 "label": "Orar",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3690,6 +3770,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Visão",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "discernir"
 }
 ]
 }
@@ -3931,7 +4020,8 @@
 "label": "Zeloso",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4328,7 +4418,8 @@
 "label": "Pecado",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4518,7 +4609,37 @@
 "end_ref_usfm": "GEN 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Unblemished",
+"type": "keyterm",
+"confidence": 0.6774,
+"match_method": "scored",
+"preferred_label": "irrepreensível"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:WithoutReproach",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "irrepreensível"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.6402,
+"match_method": "scored",
+"preferred_label": "be blameless"
+}
+]
 }
 },
 {
@@ -4602,6 +4723,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Zacarias NT",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Elizabeth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elisabete"
 }
 ]
 }
@@ -4856,6 +4986,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Uzias",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaías"
 }
 ]
 }
@@ -5541,6 +5680,15 @@
 "label": "Sara",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaque"
+}
 ]
 }
 },
@@ -5771,6 +5919,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Sara",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Ishmael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Ishmaelites"
 }
 ]
 }
@@ -7751,6 +7950,29 @@
 "label": "Nação",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.6187,
+"match_method": "scored",
+"preferred_label": "Israelites"
+}
 ]
 }
 },
@@ -7842,6 +8064,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Lia",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Issachar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Issacar"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Issacar"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.5567,
+"match_method": "scored",
+"preferred_label": "Issacar"
 }
 ]
 }

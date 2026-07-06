@@ -190,6 +190,36 @@
 "label": "Rome",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Claudius"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberius"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Augustus"
+}
 ]
 }
 },
@@ -376,6 +406,22 @@
 "label": "Tarsus",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Caesarea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+}
 ]
 }
 },
@@ -484,6 +530,15 @@
 "resource_code": "UWTranslationWords",
 "label": "High Priest",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Caiaphas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caiaphas"
 }
 ]
 }
@@ -612,6 +667,15 @@
 "label": "Sacrifice",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Cain",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cain"
+}
 ]
 }
 },
@@ -666,6 +730,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Joshua",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Caleb.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
 }
 ]
 }
@@ -736,7 +816,8 @@
 "label": "Cry",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -790,7 +871,8 @@
 "label": "Call-To Summon",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -989,7 +1071,8 @@
 "label": "Call-To Name",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1242,6 +1325,15 @@
 "label": "Clean",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Camel"
+}
 ]
 }
 },
@@ -1315,6 +1407,15 @@
 "resource_code": "UWTranslationWords",
 "label": "The Twelve",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cana"
 }
 ]
 }
@@ -1833,6 +1934,29 @@
 "label": "Promised Land",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Canaan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Canaan"
+},
+{
+"id": "group:Canaan",
+"type": "group",
+"confidence": 0.7235,
+"match_method": "scored",
+"preferred_label": "Canaanites"
+}
 ]
 }
 },
@@ -1977,6 +2101,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sea of Galilee",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Capernaum"
 }
 ]
 }
@@ -2172,7 +2305,8 @@
 "label": "Seize",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2240,6 +2374,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Saltsea",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Carmel"
+},
+{
+"id": "place:CarmelMount",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Mount Carmel"
 }
 ]
 }
@@ -2735,7 +2885,8 @@
 "label": "Lots",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2828,7 +2979,8 @@
 "label": "Trouble",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2914,6 +3066,15 @@
 "label": "Temple",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cedar"
+}
 ]
 }
 },
@@ -2974,6 +3135,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rome",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Census",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Census"
 }
 ]
 }
@@ -3155,6 +3325,15 @@
 "label": "Rome",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Centurion",
+"type": "person",
+"confidence": 0.555,
+"match_method": "scored",
+"preferred_label": "A Centurion"
+}
 ]
 }
 },
@@ -3217,7 +3396,8 @@
 "label": "Winnow",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3339,6 +3519,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Ur",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Chaldea",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chaldeans"
+},
+{
+"id": "place:Chaldea",
+"type": "place",
+"confidence": 0.8286,
+"match_method": "scored",
+"preferred_label": "Chaldea"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.573,
+"match_method": "scored",
+"preferred_label": "Babylonia"
 }
 ]
 }
@@ -3515,6 +3718,15 @@
 "label": "Rome",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chariot"
+}
 ]
 }
 },
@@ -3565,6 +3777,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Philistines",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cherethites"
 }
 ]
 }
@@ -3697,6 +3918,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Angel",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:WingedCreature",
+"type": "realia",
+"confidence": 0.9167,
+"match_method": "scored",
+"preferred_label": "Winged Creature"
 }
 ]
 }
@@ -3855,6 +4085,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Tax",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tartan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tartan"
+},
+{
+"id": "keyterm:Leader",
+"type": "keyterm",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Leader"
 }
 ]
 }
@@ -6727,6 +6973,15 @@
 "label": "Son of God",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+}
 ]
 }
 },
@@ -6817,6 +7072,22 @@
 "label": "Son of God",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "group:Christ",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Christians"
+},
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.69,
+"match_method": "scored",
+"preferred_label": "Jesus"
+}
 ]
 }
 },
@@ -6894,7 +7165,8 @@
 "label": "Solomon",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7556,6 +7828,15 @@
 "label": "Christian",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.9962,
+"match_method": "scored",
+"preferred_label": "Church"
+}
 ]
 }
 },
@@ -7647,6 +7928,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tarsus",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Cilicia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cilicia"
 }
 ]
 }
@@ -8051,7 +8341,8 @@
 "label": "Covenant",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8162,7 +8453,8 @@
 "label": "Rome",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8235,6 +8527,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Jerusalem",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "City of David"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6075,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -8412,7 +8720,8 @@
 "label": "Tribe",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9081,6 +9390,15 @@
 "label": "Holy",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Clean",
+"type": "keyterm",
+"confidence": 0.6495,
+"match_method": "scored",
+"preferred_label": "Clean"
+}
 ]
 }
 },
@@ -9123,6 +9441,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Paul",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Colossae",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Colossae"
 }
 ]
 }
@@ -9444,7 +9771,8 @@
 "label": "Holy Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9631,7 +9959,8 @@
 "label": "Ruler",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9752,7 +10081,8 @@
 "label": "Sin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9990,7 +10320,8 @@
 "end_ref_usfm": "PSA 38:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10198,7 +10529,16 @@
 "end_ref_usfm": "JAS 5:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Compassionate",
+"type": "keyterm",
+"confidence": 0.5847,
+"match_method": "scored",
+"preferred_label": "Compassionate"
+}
+]
 }
 },
 {
@@ -10456,6 +10796,15 @@
 "label": "Womb",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.9514,
+"match_method": "embedding",
+"preferred_label": "Perceive"
+}
 ]
 }
 },
@@ -10520,7 +10869,8 @@
 "end_ref_usfm": "JDG 19:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10790,6 +11140,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Punish",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.8146,
+"match_method": "scored",
+"preferred_label": "Condemn"
 }
 ]
 }
@@ -11068,7 +11427,8 @@
 "label": "Testimony",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11184,7 +11544,8 @@
 "label": "Trust",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11380,7 +11741,16 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.9733,
+"match_method": "scored",
+"preferred_label": "Conscience"
+}
+]
 }
 },
 {
@@ -11502,7 +11872,8 @@
 "label": "Sanctify",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11647,7 +12018,8 @@
 "label": "Wrath",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11731,7 +12103,8 @@
 "label": "Dishonor",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11834,6 +12207,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Titus",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Corinth"
+},
+{
+"id": "group:Corinth",
+"type": "group",
+"confidence": 0.6615,
+"match_method": "scored",
+"preferred_label": "Corinthians"
 }
 ]
 }
@@ -11960,6 +12349,15 @@
 "label": "Greek",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "person:Cornelius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cornelius"
+}
 ]
 }
 },
@@ -12024,7 +12422,23 @@
 "end_ref_usfm": "1PE 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Cornerstone",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cornerstone"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Foundation"
+}
+]
 }
 },
 {
@@ -12216,7 +12630,8 @@
 "label": "Evil",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12484,7 +12899,8 @@
 "label": "John 12:42 (#1)",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12792,6 +13208,15 @@
 "label": "Wise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Counsel",
+"type": "keyterm",
+"confidence": 0.6616,
+"match_method": "scored",
+"preferred_label": "Counsel"
+}
 ]
 }
 },
@@ -13040,7 +13465,8 @@
 "label": "Fear",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13120,6 +13546,15 @@
 "label": "Temple",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 0.8042,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
 ]
 }
 },
@@ -13143,7 +13578,8 @@
 "label": "Judge",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13666,6 +14102,15 @@
 "label": "Promise",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.9628,
+"match_method": "scored",
+"preferred_label": "Covenant"
+}
 ]
 }
 },
@@ -13934,6 +14379,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Promise",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.757,
+"match_method": "scored",
+"preferred_label": "Kindness"
 }
 ]
 }
@@ -14559,6 +15013,15 @@
 "label": "Yoke",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cattle"
+}
 ]
 }
 },
@@ -14897,7 +15360,8 @@
 "label": "World",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15059,7 +15523,8 @@
 "label": "Creation",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15129,7 +15594,23 @@
 "end_ref_usfm": "AMO 9:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crete"
+},
+{
+"id": "group:Cretan",
+"type": "group",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Cretans"
+}
+]
 }
 },
 {
@@ -15321,6 +15802,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rome",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
 }
 ]
 }
@@ -15563,6 +16053,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Olive",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
 }
 ]
 }
@@ -15895,7 +16401,8 @@
 "label": "Rome",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16743,7 +17250,8 @@
 "label": "Pray",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16861,7 +17369,8 @@
 "label": "Pharaoh",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17185,7 +17694,8 @@
 "label": "Bless",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17625,6 +18135,22 @@
 "label": "Temple",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "realia:Curtain",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Curtain"
+},
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.6776,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
 ]
 }
 },
@@ -17717,6 +18243,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Ethiopia",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Cush.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cush"
+},
+{
+"id": "person:Cush",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cush"
+},
+{
+"id": "place:Cush",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cush"
 }
 ]
 }
@@ -17956,7 +18505,8 @@
 "end_ref_usfm": "2CO 11:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -18036,6 +18586,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Lebanon",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -18153,6 +18726,15 @@
 "label": "Mediterranean",
 "language": "eng"
 }
+],
+"acai": [
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cyprus"
+}
 ]
 }
 },
@@ -18230,6 +18812,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Crete",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Cyrene",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cyrene"
 }
 ]
 }
@@ -18372,6 +18963,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Persia",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Cyrus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cyrus"
 }
 ]
 }

@@ -119,7 +119,8 @@
 "label": "先知",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -202,6 +203,36 @@
 "resource_code": "UWTranslationWords",
 "label": "王",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Saul"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paul"
+},
+{
+"id": "person:Shaul",
+"type": "person",
+"confidence": 0.6615,
+"match_method": "scored",
+"preferred_label": "Shaul"
+},
+{
+"id": "person:Shaul.2",
+"type": "person",
+"confidence": 0.612,
+"match_method": "scored",
+"preferred_label": "Shaul"
 }
 ]
 }

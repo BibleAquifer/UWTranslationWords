@@ -436,6 +436,22 @@
 "label": "聖殿",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Curtain",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Curtain"
+},
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.6776,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
 ]
 }
 }

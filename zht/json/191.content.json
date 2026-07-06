@@ -140,7 +140,8 @@
 "label": "敬拜",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -232,6 +233,43 @@
 "resource_code": "UWTranslationWords",
 "label": "赫人",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Uriah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Uriah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Uriah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Uriah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uriah"
 }
 ]
 }
@@ -334,6 +372,43 @@
 "label": "瞭望塔",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Uzziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Uzziah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Uzziah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Uzziah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzziah"
+}
 ]
 }
 },
@@ -429,6 +504,22 @@
 "resource_code": "UWTranslationWords",
 "label": "美索不達米亞",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Ur",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ur"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ur"
 }
 ]
 }
@@ -586,7 +677,8 @@
 "label": "罪責",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -752,7 +844,16 @@
 "end_ref_usfm": "REV 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fig"
+}
+]
 }
 },
 {
@@ -986,6 +1087,15 @@
 "label": "酵母",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
 ]
 }
 },
@@ -1176,7 +1286,37 @@
 "end_ref_usfm": "GEN 17:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Unblemished",
+"type": "keyterm",
+"confidence": 0.6774,
+"match_method": "scored",
+"preferred_label": "Unblemished"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
+"id": "keyterm:WithoutReproach",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Without Reproach"
+},
+{
+"id": "keyterm:Blameless",
+"type": "keyterm",
+"confidence": 0.6402,
+"match_method": "scored",
+"preferred_label": "Be Blameless"
+}
+]
 }
 },
 {
@@ -1269,7 +1409,8 @@
 "label": "聖靈",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -106,6 +106,15 @@
 "label": "Sejahtera",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "besar"
+}
 ]
 }
 },
@@ -188,6 +197,15 @@
 "label": "Negev",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:SaltSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asin"
+}
 ]
 }
 },
@@ -266,7 +284,8 @@
 "label": "Rendah hati",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -344,6 +363,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bukit Zaitun",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Kidron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kidron"
 }
 ]
 }
@@ -430,6 +458,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Timotius",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Lystra",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Listra"
 }
 ]
 }
@@ -680,6 +717,22 @@
 "label": "Sodom",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
 ]
 }
 },
@@ -747,6 +800,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Siria",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Luke",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lukas"
 }
 ]
 }

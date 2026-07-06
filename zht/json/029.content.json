@@ -106,6 +106,29 @@
 "label": "雅各",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "Tribe of Dan"
+}
 ]
 }
 },
@@ -166,6 +189,29 @@
 "resource_code": "UWTranslationWords",
 "label": "尼布甲尼撒",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chileab"
 }
 ]
 }

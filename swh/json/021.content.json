@@ -111,7 +111,8 @@
 "label": "Yosefu Agano la Kale",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -204,7 +205,8 @@
 "label": "Uchawi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -378,6 +380,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Nehemia",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uajemi"
+},
+{
+"id": "group:Persia",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Persians"
 }
 ]
 }
@@ -648,6 +666,15 @@
 "label": "Neema",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.757,
+"match_method": "scored",
+"preferred_label": "Kindness"
+}
 ]
 }
 },
@@ -732,6 +759,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Wanaume Waliojifunza",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Frankincense"
 }
 ]
 }
@@ -855,6 +891,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Uchawi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Magic"
 }
 ]
 }
@@ -1000,7 +1045,8 @@
 "label": "Kuabudu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1171,7 +1217,8 @@
 "label": "Ezekieli",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1345,7 +1392,8 @@
 "label": "Kufuru",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1415,7 +1463,8 @@
 "end_ref_usfm": "PSA 116:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1732,6 +1781,15 @@
 "label": "Ufalme wa Israeli",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8609,
+"match_method": "scored",
+"preferred_label": "Kingdom"
+}
 ]
 }
 },
@@ -1815,6 +1873,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Samaria",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Israeli"
 }
 ]
 }
@@ -2679,6 +2753,15 @@
 "label": "Utawala",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8455,
+"match_method": "scored",
+"preferred_label": "Kingdom"
+}
 ]
 }
 },
@@ -2739,6 +2822,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Samaki wa chumvi",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:TerritoryOfJudah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Territory of Judah"
 }
 ]
 }
@@ -2801,6 +2893,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Wafilisti",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wafilisti"
 }
 ]
 }
@@ -3070,7 +3171,16 @@
 "end_ref_usfm": "JHN 5:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.981,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
@@ -3170,6 +3280,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Thesalonike",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kigiriki"
 }
 ]
 }
@@ -3433,7 +3552,8 @@
 "end_ref_usfm": "PSA 55:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3651,7 +3771,8 @@
 "label": "Ufalme wa Yuda",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3899,7 +4020,8 @@
 "label": "Hofu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4063,6 +4185,15 @@
 "label": "Potea",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yerusalemu"
+}
 ]
 }
 },
@@ -4185,7 +4316,8 @@
 "label": "Naamani",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4361,7 +4493,8 @@
 "label": "Kabila",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4398,7 +4531,8 @@
 "label": "Fedha",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4917,7 +5051,8 @@
 "label": "Roho",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4969,7 +5104,16 @@
 "end_ref_usfm": "EZK 20:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.8565,
+"match_method": "embedding",
+"preferred_label": "Ask for"
+}
+]
 }
 },
 {
@@ -5005,7 +5149,8 @@
 "label": "Heshima",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5065,7 +5210,8 @@
 "label": "Uchongezi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5495,7 +5641,8 @@
 "end_ref_usfm": "REV 22:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5567,7 +5714,8 @@
 "label": "Uchinjaji",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7748,7 +7896,8 @@
 "label": "dhambi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8038,7 +8187,8 @@
 "label": "Thambi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8479,6 +8629,15 @@
 "label": "Ulimi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
 ]
 }
 },
@@ -8591,6 +8750,15 @@
 "label": "Komboa",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Atonement"
+}
 ]
 }
 },
@@ -8666,7 +8834,8 @@
 "label": "Dhabihu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10367,6 +10536,15 @@
 "label": "dhambi",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.9583,
+"match_method": "scored",
+"preferred_label": "Love"
+}
 ]
 }
 },
@@ -10441,7 +10619,8 @@
 "label": "Roho",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10533,6 +10712,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Mhiti",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Uriah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
 }
 ]
 }
@@ -10629,6 +10845,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Mesopotamia",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Ur",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uru"
+},
+{
+"id": "place:Ur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uru"
 }
 ]
 }
@@ -10766,7 +10998,16 @@
 "end_ref_usfm": "PSA 55:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Fellowship",
+"type": "keyterm",
+"confidence": 0.84,
+"match_method": "scored",
+"preferred_label": "Fellowship"
+}
+]
 }
 },
 {
@@ -12222,6 +12463,15 @@
 "label": "Ushuhuda",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.6153,
+"match_method": "scored",
+"preferred_label": "Testimony"
+}
 ]
 }
 },
@@ -12317,6 +12567,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mose",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Veil"
 }
 ]
 }
@@ -12577,7 +12836,8 @@
 "label": "Mwerevu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12673,7 +12933,8 @@
 "label": "Mamlaka",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12954,6 +13215,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ufalme",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Kingdom"
 }
 ]
 }
@@ -14386,6 +14656,15 @@
 "label": "Utukufu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 0.9464,
+"match_method": "scored",
+"preferred_label": "Glory"
+}
 ]
 }
 },
@@ -14499,6 +14778,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mfalme",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Majesty"
 }
 ]
 }
@@ -14636,7 +14924,8 @@
 "end_ref_usfm": "PSA 16:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -14781,6 +15070,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Utukufu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 0.6381,
+"match_method": "scored",
+"preferred_label": "Majesty"
 }
 ]
 }
@@ -15120,7 +15418,8 @@
 "label": "Dunia",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15392,7 +15691,8 @@
 "label": "Mwenye Haki",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15604,6 +15904,15 @@
 "label": "Ubani",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
 ]
 }
 },
@@ -15695,7 +16004,8 @@
 "label": "Jaribio",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15943,7 +16253,8 @@
 "label": "Thambi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15987,7 +16298,8 @@
 "label": "Sheria ya Mose",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16002,7 +16314,8 @@
 "content": "<h1>uzazi, uzazi</h1><h2>Ufafanuzi:</h2><p>Likitumika kwa muktadha huu, neno &quot;uzazi&quot; linamaanisha mchakato wa mwanamke kujifungua.</p><ul><li><p>Kirai &quot;katika uchungu&quot; mara nyingi hutumiwa kumwelezea mwanamke ambaye yuko katika mchakato wa kujifungua.</p></li><li><p>Kirai &quot;maumivu ya uchungu wa uzazi&quot; kinamaanisha maumivu ambayo mwanamke hupata wakati wa mchakato wa kujifungua.</p></li><li><p>Kwa Kiingereza, neno &quot;labor&quot; linatumika kuelezea mchakato wa kujifungua. Lugha nyingine zinaweza kuwa na maneno tofauti kabisa kwa hili.</p></li><li><p>Njia nyingine ya kutafsiri kirai &quot;katika uchungu&quot; ni &quot;kujifungua&quot;</p></li></ul><p>(Tazama pia: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_laborpains\" data-resourceType=\"UWTranslationWords\">maumivu ya uchungu wa uzazi</span>)</p><h2>Marejeleo ya Biblia:</h2><h2>Data ya Neno:</h2>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -16102,6 +16415,43 @@
 "resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Uzziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uzia"
 }
 ]
 }
@@ -16322,7 +16672,8 @@
 "label": "Uzinzi",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16636,6 +16987,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mungu wa Uongo",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:Fornication",
+"type": "keyterm",
+"confidence": 0.8118,
+"match_method": "scored",
+"preferred_label": "Fornication"
 }
 ]
 }

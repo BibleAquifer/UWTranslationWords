@@ -1543,6 +1543,15 @@
 "label": "信任",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.9228,
+"match_method": "scored",
+"preferred_label": "Believe"
+}
 ]
 }
 },
@@ -1755,6 +1764,15 @@
 "label": "乳香",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
 ]
 }
 },
@@ -1841,6 +1859,15 @@
 "label": "聖殿",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cedar"
+}
 ]
 }
 },
@@ -1888,6 +1915,15 @@
 "resource_code": "UWTranslationWords",
 "label": "香",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.565,
+"match_method": "scored",
+"preferred_label": "Altar"
 }
 ]
 }
@@ -5744,7 +5780,8 @@
 "label": "滅亡",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5821,6 +5858,22 @@
 "resource_code": "UWTranslationWords",
 "label": "聖潔",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Oak"
+},
+{
+"id": "flora:Terebinth",
+"type": "flora",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Terebinth"
 }
 ]
 }

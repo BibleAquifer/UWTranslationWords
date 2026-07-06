@@ -142,6 +142,36 @@
 "label": "尼羅河",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "flora:Reed",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reed"
+},
+{
+"id": "realia:Reed",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reed"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "Grass"
+},
+{
+"id": "flora:Papyrus",
+"type": "flora",
+"confidence": 0.5727,
+"match_method": "scored",
+"preferred_label": "Papyrus"
+}
 ]
 }
 },
@@ -196,6 +226,15 @@
 "label": "豎琴",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lute"
+}
 ]
 }
 },
@@ -248,7 +287,16 @@
 "end_ref_usfm": "SNG 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deer"
+}
+]
 }
 },
 {
@@ -390,6 +438,15 @@
 "label": "審判官",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ruth"
+}
 ]
 }
 },
@@ -457,6 +514,15 @@
 "resource_code": "UWTranslationWords",
 "label": "敘利亞",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Luke",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Luke"
 }
 ]
 }
@@ -543,6 +609,15 @@
 "resource_code": "UWTranslationWords",
 "label": "提摩太",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Lystra",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lystra"
 }
 ]
 }

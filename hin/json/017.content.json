@@ -465,7 +465,8 @@
 "label": "घड़ी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -677,7 +678,8 @@
 "label": "गर्व-सकारात्मक भावना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -731,7 +733,8 @@
 "label": "घमंडी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3177,7 +3180,16 @@
 "end_ref_usfm": "2JN 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "House"
+}
+]
 }
 },
 {
@@ -3214,7 +3226,8 @@
 "label": "इस्राएल के राज्य",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3424,7 +3437,8 @@
 "label": "वध करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3551,6 +3565,15 @@
 "label": "घोड़ा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Chariot"
+}
 ]
 }
 },
@@ -3633,7 +3656,8 @@
 "end_ref_usfm": "PRO 15:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3895,6 +3919,15 @@
 "label": "बलिदान करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Abomination",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Abomination"
+}
 ]
 }
 },
@@ -3968,7 +4001,8 @@
 "label": "भावी कहने",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4008,7 +4042,8 @@
 "end_ref_usfm": "1KI 20:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4261,6 +4296,22 @@
 "resource_code": "UWTranslationWords",
 "label": "सुलैमान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Horse"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6103,
+"match_method": "scored",
+"preferred_label": "Horse Gate"
 }
 ]
 }
@@ -4556,6 +4607,22 @@
 "resource_code": "UWTranslationWords",
 "label": "प्रचार करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Declare"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.8086,
+"match_method": "embedding",
+"preferred_label": "Proclaim"
 }
 ]
 }

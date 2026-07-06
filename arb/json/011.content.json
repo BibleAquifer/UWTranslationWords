@@ -244,7 +244,8 @@
 "label": "خوف \"مخافة\"",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -380,7 +381,16 @@
 "end_ref_usfm": "PSA 55:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Fellowship",
+"type": "keyterm",
+"confidence": 0.84,
+"match_method": "scored",
+"preferred_label": "Fellowship"
+}
+]
 }
 },
 {
@@ -442,6 +452,22 @@
 "resource_code": "UWTranslationWords",
 "label": "البحر المتوسط",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Sharon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَارونَ"
+},
+{
+"id": "place:Sharon.2",
+"type": "place",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "Sharon Plain"
 }
 ]
 }
@@ -551,6 +577,15 @@
 "label": "شهادة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "group:FalseWitnesses",
+"type": "group",
+"confidence": 0.5685,
+"match_method": "scored",
+"preferred_label": "False Witnesses"
+}
 ]
 }
 },
@@ -634,6 +669,36 @@
 "resource_code": "UWTranslationWords",
 "label": "ملك",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَاولَ"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بولسَ"
+},
+{
+"id": "person:Shaul",
+"type": "person",
+"confidence": 0.6615,
+"match_method": "scored",
+"preferred_label": "شَأول"
+},
+{
+"id": "person:Shaul.2",
+"type": "person",
+"confidence": 0.612,
+"match_method": "scored",
+"preferred_label": "شَأول"
 }
 ]
 }
@@ -4490,7 +4555,8 @@
 "label": "يَهلك",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4576,6 +4642,15 @@
 "label": "هيكل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cedar"
+}
 ]
 }
 },
@@ -4599,7 +4674,8 @@
 "label": "الله",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4719,7 +4795,8 @@
 "label": "أحقاء (متون، خاصرة)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6900,7 +6977,8 @@
 "label": "الخطية",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7902,6 +7980,15 @@
 "label": "يوحنا 9: 14 (#2)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Law",
+"type": "keyterm",
+"confidence": 0.6197,
+"match_method": "scored",
+"preferred_label": "Law"
+}
 ]
 }
 },
@@ -8038,7 +8125,8 @@
 "end_ref_usfm": "PSA 16:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10309,7 +10397,8 @@
 "label": "العالم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10520,6 +10609,15 @@
 "label": "شعب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
 ]
 }
 },
@@ -10648,6 +10746,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يوحنا 6: 9 (#1)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barley"
 }
 ]
 }
@@ -10815,6 +10922,43 @@
 "label": "يعقوب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Shechem.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَكِيمَ"
+},
+{
+"id": "person:Shechem.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَكِيمَ"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَكِيمَ"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَكِيمَ"
+},
+{
+"id": "place:Moreh",
+"type": "place",
+"confidence": 0.62,
+"match_method": "scored",
+"preferred_label": "مورَةَ"
+}
 ]
 }
 },
@@ -10876,7 +11020,8 @@
 "label": "عبد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10936,6 +11081,15 @@
 "resource_code": "UWTranslationWords",
 "label": "الفلسطينيون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Samson",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَمْشونَ"
 }
 ]
 }
@@ -11077,6 +11231,50 @@
 "label": "لَيْئَة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Simeon.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعونَ"
+},
+{
+"id": "person:Simeon.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعونَ"
+},
+{
+"id": "person:Simeon.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعونَ"
+},
+{
+"id": "person:Simeon.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعونَ"
+},
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بطْرس"
+},
+{
+"id": "group:Simeon",
+"type": "group",
+"confidence": 0.6222,
+"match_method": "scored",
+"preferred_label": "شِمْعونَ"
+}
 ]
 }
 },
@@ -11145,6 +11343,141 @@
 "resource_code": "UWTranslationWords",
 "label": "لاوي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Shimei.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.16",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.18",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimeah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعَى"
+},
+{
+"id": "person:Shimei.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Shimei.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِمْعِي"
+},
+{
+"id": "person:Obed-edom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obed-edom"
+},
+{
+"id": "group:Shimei",
+"type": "group",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Shimeites"
 }
 ]
 }
@@ -11260,6 +11593,22 @@
 "label": "أُور",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Shinar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِنْعَارَ"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+}
 ]
 }
 },
@@ -11290,7 +11639,8 @@
 "label": "شهادة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12746,6 +13096,15 @@
 "label": "نبي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.6153,
+"match_method": "scored",
+"preferred_label": "Testimony"
+}
 ]
 }
 },
@@ -13038,7 +13397,8 @@
 "end_ref_usfm": "ACT 18:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -13074,7 +13434,8 @@
 "label": "كرم، إكرام، يُكرم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13369,7 +13730,8 @@
 "label": "إله زائف",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13533,6 +13895,29 @@
 "label": "روح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.8857,
+"match_method": "scored",
+"preferred_label": "Brier"
+},
+{
+"id": "flora:Boxthorn",
+"type": "flora",
+"confidence": 0.6976,
+"match_method": "scored",
+"preferred_label": "Boxthorn"
+},
+{
+"id": "flora:Thistle",
+"type": "flora",
+"confidence": 0.6595,
+"match_method": "scored",
+"preferred_label": "Thistle"
+}
 ]
 }
 },
@@ -13650,6 +14035,15 @@
 "resource_code": "UWTranslationWords",
 "label": "نوح",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Seth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِيثًا"
 }
 ]
 }
@@ -14273,7 +14667,8 @@
 "end_ref_usfm": "MAT 21:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -14866,6 +15261,15 @@
 "label": "إله زائف",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.7977,
+"match_method": "scored",
+"preferred_label": "Demons"
+}
 ]
 }
 },
@@ -15373,6 +15777,15 @@
 "label": "تجربة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلشَّيْطَان"
+}
 ]
 }
 },
@@ -15482,6 +15895,22 @@
 "resource_code": "UWTranslationWords",
 "label": "هيكل",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Shiloh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِيلوهَ"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِيلوهَ"
 }
 ]
 }

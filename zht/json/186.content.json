@@ -318,7 +318,8 @@
 "end_ref_usfm": "DEU 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -872,6 +873,15 @@
 "label": "猶太人",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
 ]
 }
 },
@@ -960,7 +970,8 @@
 "label": "雅巍",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

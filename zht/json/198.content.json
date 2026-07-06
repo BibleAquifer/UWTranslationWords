@@ -387,6 +387,22 @@
 "label": "靈魂",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "Heart"
+},
+{
+"id": "keyterm:Mind.2",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "Mind"
+}
 ]
 }
 },
@@ -520,7 +536,8 @@
 "label": "婚姻",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -605,7 +622,8 @@
 "label": "婚姻",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -894,6 +912,15 @@
 "resource_code": "UWTranslationWords",
 "label": "忠心",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.6783,
+"match_method": "scored",
+"preferred_label": "Trust"
 }
 ]
 }
@@ -2167,6 +2194,15 @@
 "resource_code": "UWTranslationWords",
 "label": "忠心",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
 }
 ]
 }

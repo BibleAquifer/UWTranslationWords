@@ -107,6 +107,15 @@
 "label": "Sem",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Japheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yafet"
+}
 ]
 }
 },
@@ -2288,7 +2297,8 @@
 "label": "Dosa",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2472,7 +2482,8 @@
 "end_ref_usfm": "JHN 4:52"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2941,7 +2952,8 @@
 "label": "Jam",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3319,6 +3331,15 @@
 "label": "Perjanjian",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.9556,
+"match_method": "scored",
+"preferred_label": "janji"
+}
 ]
 }
 },
@@ -3400,6 +3421,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Hakim",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Jephthah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yefta"
 }
 ]
 }
@@ -3508,6 +3538,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Menumbuk/mengirik",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barley"
 }
 ]
 }
@@ -4171,6 +4210,15 @@
 "label": "Kristen",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.9962,
+"match_method": "scored",
+"preferred_label": "jemaat"
+}
 ]
 }
 },
@@ -4382,6 +4430,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Mencobai",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Trap",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trap"
+},
+{
+"id": "realia:Net",
+"type": "realia",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "Net"
 }
 ]
 }
@@ -4881,7 +4945,8 @@
 "label": "Roh",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4955,6 +5020,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Uzia",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Jotham.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yotam"
+},
+{
+"id": "person:Jotham.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yotam"
+},
+{
+"id": "person:Jotham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yotam"
 }
 ]
 }
@@ -5053,6 +5141,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Menghukum",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.96,
+"match_method": "scored",
+"preferred_label": "jurang maut"
 }
 ]
 }
@@ -5259,6 +5356,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Menyelamatkan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8909,
+"match_method": "scored",
+"preferred_label": "juruselamat"
 }
 ]
 }

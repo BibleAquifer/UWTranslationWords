@@ -636,7 +636,8 @@
 "end_ref_usfm": "LEV 19:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1730,6 +1731,15 @@
 "label": "讚美",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.8899,
+"match_method": "scored",
+"preferred_label": "Pray"
+}
 ]
 }
 },
@@ -1982,7 +1992,8 @@
 "label": "懇求",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2012,7 +2023,8 @@
 "label": "懇求",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2250,7 +2262,16 @@
 "end_ref_usfm": "JHN 12:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.6878,
+"match_method": "scored",
+"preferred_label": "Reject"
+}
+]
 }
 }
 ]

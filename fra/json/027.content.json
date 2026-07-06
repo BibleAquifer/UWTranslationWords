@@ -112,6 +112,15 @@
 "label": "Prophète",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zacharie"
+}
 ]
 }
 },
@@ -253,6 +262,99 @@
 "label": "Néhémie",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Zechariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.25",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.27",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.19",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.26",
+"type": "person",
+"confidence": 0.557,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+}
 ]
 }
 },
@@ -393,6 +495,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Jean (l'apôtre)",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Zebedee",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zébédée"
 }
 ]
 }
@@ -536,7 +647,23 @@
 "end_ref_usfm": "ROM 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Zealous.3",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "zélé"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.8454,
+"match_method": "embedding",
+"preferred_label": "zélé"
+}
+]
 }
 }
 ]

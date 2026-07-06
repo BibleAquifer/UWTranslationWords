@@ -292,6 +292,15 @@
 "label": "चिन्ह",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:MiraculousSign",
+"type": "keyterm",
+"confidence": 0.6163,
+"match_method": "scored",
+"preferred_label": "Miraculous Sign"
+}
 ]
 }
 },
@@ -623,7 +632,8 @@
 "label": "भेड़",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -745,7 +755,8 @@
 "label": "नामान",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1676,6 +1687,15 @@
 "label": "मन्दिर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.9221,
+"match_method": "scored",
+"preferred_label": "Money"
+}
 ]
 }
 },
@@ -1817,6 +1837,22 @@
 "label": "ज़कर्याह (पुराना नियम)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Lot",
+"type": "keyterm",
+"confidence": 0.697,
+"match_method": "scored",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 0.637,
+"match_method": "scored",
+"preferred_label": "Lot"
+}
 ]
 }
 },
@@ -1911,7 +1947,8 @@
 "end_ref_usfm": "NEH 9:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2551,7 +2588,8 @@
 "label": "चमत्कार",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2625,6 +2663,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दर्शन",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leopard"
 }
 ]
 }
@@ -3005,7 +3052,8 @@
 "label": "ख्रीस्त",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3213,7 +3261,8 @@
 "end_ref_usfm": "GEN 27:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4789,6 +4838,15 @@
 "label": "बारहों",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"confidence": 0.5521,
+"match_method": "scored",
+"preferred_label": "A Disciple"
+}
 ]
 }
 },
@@ -5075,7 +5133,8 @@
 "label": "शैतान",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5865,7 +5924,8 @@
 "end_ref_usfm": "MAT 25:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5937,6 +5997,15 @@
 "resource_code": "UWTranslationWords",
 "label": "फसह",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Doorpost",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Doorpost"
 }
 ]
 }
@@ -6032,7 +6101,8 @@
 "label": "शासन",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 }
 ]

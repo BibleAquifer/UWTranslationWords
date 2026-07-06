@@ -54,6 +54,78 @@
 "label": "Naftali",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Maacah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+},
+{
+"id": "person:Maacah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+},
+{
+"id": "person:Maacah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+},
+{
+"id": "person:Maacah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+},
+{
+"id": "person:Maacah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+},
+{
+"id": "person:Maacah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maokh"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maakha"
+}
 ]
 }
 },
@@ -216,7 +288,8 @@
 "label": "Anggur",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -529,6 +602,15 @@
 "label": "Tuan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
 ]
 }
 },
@@ -764,6 +846,22 @@
 "label": "Raja",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+}
 ]
 }
 },
@@ -998,6 +1096,15 @@
 "label": "Tesalonika",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Makedonia"
+}
 ]
 }
 },
@@ -1160,7 +1267,8 @@
 "label": "Menciptakan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2333,6 +2441,15 @@
 "label": "Memperbudak",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "group:Angels",
+"type": "group",
+"confidence": 0.5616,
+"match_method": "scored",
+"preferred_label": "Angels"
+}
 ]
 }
 },
@@ -2454,7 +2571,8 @@
 "label": "Dosa",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2532,6 +2650,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bertobat",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Malachi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maleakhi"
 }
 ]
 }
@@ -3266,7 +3393,8 @@
 "label": "Bersujud",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3393,6 +3521,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Yusuf (PL)",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasye"
+},
+{
+"id": "person:Manasseh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasye"
+},
+{
+"id": "person:Manasseh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasye"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasye"
 }
 ]
 }
@@ -3597,6 +3755,50 @@
 "label": "Perawan / keperawanan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+}
 ]
 }
 },
@@ -3730,6 +3932,15 @@
 "label": "Kerasukan setan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+}
 ]
 }
 },
@@ -3852,6 +4063,15 @@
 "label": "Marta",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+}
 ]
 }
 },
@@ -3965,6 +4185,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Maria (saudara perempuan Marta)",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marta"
 }
 ]
 }
@@ -4393,7 +4622,8 @@
 "label": "Persekusi",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4476,6 +4706,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rasul",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Matius"
 }
 ]
 }
@@ -4565,6 +4804,15 @@
 "label": "Musa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Psalm",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "mazmur"
+}
 ]
 }
 },
@@ -4652,6 +4900,29 @@
 "label": "Elam",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "group:Mede",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Medes"
+},
+{
+"id": "person:Medan",
+"type": "person",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Media"
+},
+{
+"id": "place:Media",
+"type": "place",
+"confidence": 0.6505,
+"match_method": "scored",
+"preferred_label": "Media"
+}
 ]
 }
 },
@@ -4667,7 +4938,8 @@
 "content": "<h1>melahirkan, memperanakkan, memberi kehidupan, diperanakkan</h1><h2>Definisi:</h2><p>Istilah “beget” berarti menjadi bapa dari seseorang.</p><h2>Saran Penerjemahan:</h2><ul><li><p>Anda dapat menerjemahkan frasa &quot;beget&quot; sebagai “melahirkan” dan istilah “begat” sebagai “melahirkan” dan istilah “begot” sebagai “memberi kehidupan”.</p></li><li><p>Istilah “begotten” adalah bentuk pasif dari “beget” dan berarti “dilahirkan”.</p></li></ul><h2>Referensi Alkitab:</h2><h2>Data Kata:</h2><ul><li><p></p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4915,7 +5187,8 @@
 "label": "Pelanggaran",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5375,7 +5648,8 @@
 "end_ref_usfm": "HOS 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5486,6 +5760,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Benar",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Melkisedek"
 }
 ]
 }
@@ -5954,6 +6237,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bersalah",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 0.9429,
+"match_method": "scored",
+"preferred_label": "mengampuni"
 }
 ]
 }
@@ -7025,6 +7317,22 @@
 "label": "Bijaksana",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Perceive",
+"type": "keyterm",
+"confidence": 0.6948,
+"match_method": "scored",
+"preferred_label": "berakal budi"
+},
+{
+"id": "keyterm:Understanding",
+"type": "keyterm",
+"confidence": 0.6294,
+"match_method": "scored",
+"preferred_label": "pengertian"
+}
 ]
 }
 },
@@ -7087,7 +7395,8 @@
 "label": "Berdoa",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7141,7 +7450,8 @@
 "label": "Panggilan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7328,6 +7638,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Benar",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:GrantJustice",
+"type": "keyterm",
+"confidence": 0.7655,
+"match_method": "scored",
+"preferred_label": "menuntut pembalasan"
 }
 ]
 }
@@ -7817,7 +8136,8 @@
 "label": "Bertobat",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7832,7 +8152,8 @@
 "content": "<h1>membebaskan, menyerahkan, menyerahkan, melepaskan</h1><h2>Definisi:</h2><ul><li><p>Istilah &quot;membebaskan&quot; atau &quot; membebaskan kepada&quot; atau &quot;menyerahkan kepada&quot; dapat berarti menyerahkan seseorang kepada musuh atau lawan, seperti ketika Yudas menyerahkan Yesus kepada para pemimpin Yahudi atau ketika Allah menyerahkan Israel kepada musuh-musuh mereka karena dosa yang berulang-ulang.</p></li></ul><h2>Saran Penerjemahan:</h2><ul><li><p>Ketika &quot;membebaskan&quot; berarti seseorang atau seseorang menyerahkan seseorang kepada musuh, maka dapat diterjemahkan sebagai &quot;mengkhianati&quot; atau &quot;melepaskan&quot; atau &quot;menyerahkan.&quot; Ketika &quot;menyerahkan&quot; merujuk kepada Allah yang menyerahkan seseorang kepada musuh, maka kata ini dapat diterjemahkan menjadi &quot;melepaskan&quot; atau &quot;menyerahkan&quot;.</p></li></ul><h2>Rujukan Alkitab:</h2><h2>Contoh dari Buku Kisah Alkitab OBS:</h2><h2>Data Kata:</h2><ul><li><p>Strong’s: H1350, H2020, H2502, H3205, H3444, H3467, H4042, H4422, H4672, H5337, H5414, H5462, H6299, H6403, H6413, H6475, H6561, H7725, H7804, H8199, G03250, G05250, G06290, G10800, G13250, G15600, G16590, G18070, G19290, G26730, G30860, G38600, G45060, G49910, G50880, G54830</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8217,6 +8538,22 @@
 "label": "Menyelamatkan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Deliver",
+"type": "keyterm",
+"confidence": 0.6409,
+"match_method": "scored",
+"preferred_label": "menyelamatkan"
+},
+{
+"id": "keyterm:Rescue",
+"type": "keyterm",
+"confidence": 0.5867,
+"match_method": "scored",
+"preferred_label": "melepaskan"
+}
 ]
 }
 },
@@ -8254,7 +8591,8 @@
 "label": "Perak",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8582,7 +8920,8 @@
 "end_ref_usfm": "HEB 11:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8773,6 +9112,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Otoritas",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.5625,
+"match_method": "scored",
+"preferred_label": "memberontak"
 }
 ]
 }
@@ -9261,7 +9609,8 @@
 "label": "Kerasukan setan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9591,7 +9940,8 @@
 "label": "Menderita",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10156,6 +10506,15 @@
 "label": "Bersujud",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
+}
 ]
 }
 },
@@ -10207,7 +10566,8 @@
 "label": "Menebus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10481,7 +10841,16 @@
 "end_ref_usfm": "LUK 19:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "kerajaan"
+}
+]
 }
 },
 {
@@ -11328,7 +11697,8 @@
 "label": "Raja",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11364,6 +11734,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Sungai Nil",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Memphis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Memfis"
 }
 ]
 }
@@ -11739,7 +12118,8 @@
 "label": "Bersujud",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11769,7 +12149,8 @@
 "label": "Permohonan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12021,7 +12402,8 @@
 "label": "Permohonan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12154,7 +12536,8 @@
 "label": "Pernikahan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12270,7 +12653,8 @@
 "label": "Memperbudak",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15367,7 +15751,8 @@
 "label": "Benar",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15592,6 +15977,15 @@
 "label": "Penglihatan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "menilai"
+}
 ]
 }
 },
@@ -15714,7 +16108,8 @@
 "label": "Hukum",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15943,6 +16338,15 @@
 "label": "Cemar",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Stain",
+"type": "keyterm",
+"confidence": 0.6316,
+"match_method": "scored",
+"preferred_label": "membuat noda"
+}
 ]
 }
 },
@@ -15966,7 +16370,8 @@
 "label": "Kedurhakaan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -16330,7 +16735,8 @@
 "end_ref_usfm": "1TH 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -17494,7 +17900,8 @@
 "label": "Adil",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -17832,7 +18239,8 @@
 "label": "Dunia",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18040,7 +18448,8 @@
 "end_ref_usfm": "GEN 27:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -18204,7 +18613,8 @@
 "label": "Uji",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -18312,6 +18722,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Pengorbanan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Reconcile",
+"type": "keyterm",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "memperdamaikan"
 }
 ]
 }
@@ -18600,6 +19019,22 @@
 "resource_code": "UWTranslationWords",
 "label": "<h2>berkhotbah",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Declare",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "memberi kesaksian yang sungguh, sungguh"
+},
+{
+"id": "keyterm:Proclaim",
+"type": "keyterm",
+"confidence": 0.8086,
+"match_method": "embedding",
+"preferred_label": "memberitakan"
 }
 ]
 }
@@ -19049,7 +19484,8 @@
 "end_ref_usfm": "JER 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -19071,6 +19507,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Menasihati",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "menasihati"
 }
 ]
 }
@@ -19365,6 +19810,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Bebas",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.7217,
+"match_method": "scored",
+"preferred_label": "membayar lunas"
 }
 ]
 }
@@ -19840,7 +20294,8 @@
 "label": "<p>#menegur",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21223,7 +21678,8 @@
 "label": "Menyelamatkan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21500,7 +21956,8 @@
 "label": "Kesaksian",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -21579,7 +22036,8 @@
 "label": "Menyelamatkan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -22533,6 +22991,15 @@
 "label": "Buah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "fauna:Bear",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bear"
+}
 ]
 }
 },
@@ -22690,7 +23157,8 @@
 "label": "Penatua",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23024,7 +23492,8 @@
 "end_ref_usfm": "MAT 9:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -23470,7 +23939,8 @@
 "label": "Nabi",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -23564,7 +24034,8 @@
 "end_ref_usfm": "EXO 32:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -23628,7 +24099,8 @@
 "end_ref_usfm": "EZK 20:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -23948,7 +24420,8 @@
 "label": "Roh Kudus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -24237,6 +24710,15 @@
 "label": "Fitnah",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.8375,
+"match_method": "scored",
+"preferred_label": "menghujat"
+}
 ]
 }
 },
@@ -24408,7 +24890,8 @@
 "label": "Dosa",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -24896,6 +25379,15 @@
 "label": "Memperbudak",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.6092,
+"match_method": "scored",
+"preferred_label": "Chain"
+}
 ]
 }
 },
@@ -25150,7 +25642,8 @@
 "label": "Yudas Iskariot",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -25230,7 +25723,8 @@
 "label": "Menghukum",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -25542,7 +26036,8 @@
 "label": "Yerikho",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -25664,7 +26159,8 @@
 "label": "Menyucikan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -25943,6 +26439,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nabi",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.6894,
+"match_method": "scored",
+"preferred_label": "diurapi"
 }
 ]
 }
@@ -26268,7 +26773,8 @@
 "label": "Berkat",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -26554,7 +27060,16 @@
 "end_ref_usfm": "PRO 27:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yerusalem"
+}
+]
 }
 },
 {
@@ -26754,7 +27269,8 @@
 "label": "Bersujud",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -27394,7 +27910,8 @@
 "end_ref_usfm": "LEV 19:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -27632,7 +28149,16 @@
 "end_ref_usfm": "JHN 12:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.6878,
+"match_method": "scored",
+"preferred_label": "membuang"
+}
+]
 }
 },
 {
@@ -27718,7 +28244,8 @@
 "label": "Saul (PL)",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -27830,7 +28357,8 @@
 "end_ref_usfm": "RUT 3:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -28464,7 +28992,16 @@
 "end_ref_usfm": "NUM 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Appoint",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "menugaskan"
+}
+]
 }
 },
 {
@@ -28795,7 +29332,8 @@
 "label": "Roma",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -29813,7 +30351,8 @@
 "label": "Dosa",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -30042,7 +30581,8 @@
 "label": "Kudus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -30082,7 +30622,8 @@
 "end_ref_usfm": "JOS 1:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -30149,6 +30690,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Sem",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Meshech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesekh"
+},
+{
+"id": "person:Mash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mas"
+},
+{
+"id": "place:Meshech",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesekh"
 }
 ]
 }
@@ -31825,6 +32389,22 @@
 "label": "Sungai Nil",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Egypt",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesir"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesir"
+}
 ]
 }
 },
@@ -31893,6 +32473,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Sungai Efrat",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram-Mesopotamia"
+},
+{
+"id": "place:Aram-naharaim",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "orang"
 }
 ]
 }
@@ -32115,6 +32711,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Roh Kudus",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
 }
 ]
 }
@@ -32545,7 +33150,8 @@
 "label": "Tanah Perjanjian",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -33099,6 +33705,36 @@
 "label": "Pengorbanan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Altar"
+},
+{
+"id": "realia:StoneAltar",
+"type": "realia",
+"confidence": 0.8943,
+"match_method": "scored",
+"preferred_label": "Stone Altar"
+},
+{
+"id": "realia:TempleAltar",
+"type": "realia",
+"confidence": 0.8897,
+"match_method": "scored",
+"preferred_label": "Temple Altar"
+},
+{
+"id": "realia:TabernacleAltar",
+"type": "realia",
+"confidence": 0.8897,
+"match_method": "scored",
+"preferred_label": "Tabernacle Altar"
+}
 ]
 }
 },
@@ -33146,6 +33782,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Dupa",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 0.565,
+"match_method": "scored",
+"preferred_label": "Altar"
 }
 ]
 }
@@ -33296,6 +33941,29 @@
 "label": "Musa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Midian",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midian"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midian"
+},
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 0.6471,
+"match_method": "scored",
+"preferred_label": "Midianites"
+}
 ]
 }
 },
@@ -33414,6 +34082,57 @@
 "label": "Perak",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikha"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikha"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikha"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikha"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikha"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikha"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikha"
+}
 ]
 }
 },
@@ -33480,6 +34199,85 @@
 "resource_code": "UWTranslationWords",
 "label": "Utusan",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Michael.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 }
 ]
 }
@@ -33763,7 +34561,8 @@
 "label": "Penglihatan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -33809,7 +34608,8 @@
 "end_ref_usfm": "LEV 23:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -33910,6 +34710,22 @@
 "label": "Memberontak",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Miriam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miryam"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miryam"
+}
 ]
 }
 },
@@ -33959,6 +34775,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Babilon",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Mishael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misael"
+},
+{
+"id": "person:Mishael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misael"
+},
+{
+"id": "person:Mishael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misael"
 }
 ]
 }
@@ -34072,6 +34911,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Saul (PL)",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Mizpah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mizpa"
 }
 ]
 }
@@ -34251,6 +35099,22 @@
 "label": "Laut Asin",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moab"
+}
 ]
 }
 },
@@ -34340,6 +35204,15 @@
 "label": "Bersujud",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "deity:Molech",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Molokh"
+}
 ]
 }
 },
@@ -34413,6 +35286,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Ester",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordekhai"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordekhai"
 }
 ]
 }
@@ -34550,7 +35439,8 @@
 "end_ref_usfm": "PSA 16:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -34734,7 +35624,16 @@
 "end_ref_usfm": "MAT 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Hypocrisy",
+"type": "keyterm",
+"confidence": 0.8083,
+"match_method": "embedding",
+"preferred_label": "kemunafikan"
+}
+]
 }
 },
 {
@@ -36303,6 +37202,15 @@
 "label": "Yohanes (Pembaptis)",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"confidence": 0.5521,
+"match_method": "scored",
+"preferred_label": "A Disciple"
+}
 ]
 }
 },
@@ -36700,7 +37608,8 @@
 "label": "Dosa",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -37206,7 +38115,8 @@
 "label": "Roh",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -39283,6 +40193,15 @@
 "label": "Tanah Perjanjian",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Musa"
+}
 ]
 }
 },
@@ -39691,7 +40610,8 @@
 "label": "Setan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -58,7 +58,8 @@
 "label": "يُغَرْبِل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -132,7 +133,8 @@
 "label": "روح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -162,7 +164,8 @@
 "label": "توسل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -220,7 +223,8 @@
 "end_ref_usfm": "1CO 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -349,7 +353,8 @@
 "label": "راعوث",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -556,6 +561,22 @@
 "resource_code": "UWTranslationWords",
 "label": "القُدس (الموضع المُقَدَّس)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
+},
+{
+"id": "keyterm:CovenantBox",
+"type": "keyterm",
+"confidence": 0.9385,
+"match_method": "scored",
+"preferred_label": "Covenant Box"
 }
 ]
 }
@@ -799,6 +820,22 @@
 "label": "زيتون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+}
 ]
 }
 },
@@ -945,6 +982,22 @@
 "label": "أُور",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Terah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَارَحَ"
+},
+{
+"id": "place:Terah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَارَحَ"
+}
 ]
 }
 },
@@ -1061,7 +1114,8 @@
 "label": "ثقة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1101,7 +1155,8 @@
 "end_ref_usfm": "JOS 1:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -1159,7 +1214,8 @@
 "label": "يفدي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1244,7 +1300,8 @@
 "label": "كرم، إكرام، يُكرم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1533,6 +1590,15 @@
 "label": "إفتراء",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.8375,
+"match_method": "scored",
+"preferred_label": "Blaspheme"
+}
 ]
 }
 },
@@ -1697,7 +1763,8 @@
 "label": "امتحان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2021,7 +2088,8 @@
 "label": "مُثَابَرة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2044,7 +2112,8 @@
 "label": "تحتمل (تصمد)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2067,7 +2136,8 @@
 "label": "إثم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2125,7 +2195,8 @@
 "end_ref_usfm": "JOS 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2241,6 +2312,29 @@
 "label": "روح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:SmallShield",
+"type": "realia",
+"confidence": 0.7929,
+"match_method": "scored",
+"preferred_label": "Small Shield"
+},
+{
+"id": "keyterm:Shield",
+"type": "keyterm",
+"confidence": 0.7714,
+"match_method": "scored",
+"preferred_label": "Shield"
+},
+{
+"id": "realia:LargeShield",
+"type": "realia",
+"confidence": 0.6286,
+"match_method": "scored",
+"preferred_label": "Large Shield"
+}
 ]
 }
 },
@@ -2335,6 +2429,29 @@
 "label": "المجوس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Tarshish.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَرْشِيشَ"
+},
+{
+"id": "person:Tarshish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَرْشِيشَ"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَرْشِيشَ"
+}
 ]
 }
 },
@@ -2404,6 +2521,22 @@
 "resource_code": "UWTranslationWords",
 "label": "شَكِيم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تِرْصَةَ"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تِرْصَةَ"
 }
 ]
 }
@@ -2512,6 +2645,15 @@
 "label": "تيموثاوس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Troas",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَروَاسَ"
+}
 ]
 }
 },
@@ -2615,6 +2757,22 @@
 "resource_code": "UWTranslationWords",
 "label": "روما",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَسَالونِيكِي"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.7231,
+"match_method": "scored",
+"preferred_label": "Thessalonians"
 }
 ]
 }
@@ -3006,6 +3164,15 @@
 "label": "عبادة",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Praise",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Praise"
+}
 ]
 }
 },
@@ -3021,7 +3188,8 @@
 "content": "<h1>تسليم، إطلاق</h1><h2>التعريف:</h2><ul><li><p>يمكن أن يعني مصطلح &quot;تسليم&quot; أو &quot;تسليم إلى&quot;: تسليم شخص ما إلى عدو أو خصم، مثلما أسلم يهوذا الرب يسوع إلى قادة اليهود أو عندما أسلم الله إسرائيل إلى أعدائهم بسبب خطاياهم المتكررة.</p></li></ul><h2>اقتراحات الترجمة:</h2><ul><li><p>عندما يعني &quot;تسليم&quot; أن يقوم شخص بتسليم شخص ما إلى عدو، يمكن ترجمته كـ &quot;خيانة&quot; أو &quot;تسليم&quot;. عندما يشير &quot;تسليم&quot; إلى أن الله يسلم الناس إلى خصم يمكن ترجمتها كـ &quot;تسليم&quot; أو &quot;إعطاء&quot;.</p></li></ul><h2>شواهد الكتاب المقدس:</h2><h2>أمثلة من قصص الكتاب المقدس:</h2><h2>بيانات الكلمة:</h2><ul><li><p>سترونج: H1350، H2020، H2502، H3205، H3444، H3467، H4042، H4422، H4672، H5337، H5414، H5462، H6299، H6403، H6413، H6475، H6561، H7725، H7804، H8199، G03250، G05250، G06290، G10800، G13250، G15600، G16590، G18070، G19290، G26730، G30860، G38600، G45060، G49910، G50880، G54830</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -3050,6 +3218,15 @@
 "resource_code": "UWTranslationWords",
 "label": "حضّ",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Encourage",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Encourage"
 }
 ]
 }
@@ -3281,6 +3458,15 @@
 "label": "الخطية",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Stumble",
+"type": "keyterm",
+"confidence": 0.6941,
+"match_method": "scored",
+"preferred_label": "Stumble"
+}
 ]
 }
 },
@@ -3341,6 +3527,15 @@
 "resource_code": "UWTranslationWords",
 "label": "روما",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Census",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Census"
 }
 ]
 }
@@ -3590,7 +3785,8 @@
 "label": "إثم (تجاوز أو تعدي)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3702,7 +3898,8 @@
 "end_ref_usfm": "MAT 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4038,7 +4235,8 @@
 "label": "مرسوم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4183,7 +4381,8 @@
 "label": "وعد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4269,7 +4468,8 @@
 "label": "شاول",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4318,6 +4518,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ذبيحة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6087,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -4875,7 +5084,8 @@
 "end_ref_usfm": "LUK 8:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5031,6 +5241,15 @@
 "resource_code": "UWTranslationWords",
 "label": "موسى",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.8824,
+"match_method": "scored",
+"preferred_label": "Teaching"
 }
 ]
 }
@@ -5304,7 +5523,8 @@
 "label": "بار",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6880,6 +7100,15 @@
 "label": "يوحنا المعمدان",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:GenericDisciple",
+"type": "person",
+"confidence": 0.5521,
+"match_method": "scored",
+"preferred_label": "A Disciple"
+}
 ]
 }
 },
@@ -7139,7 +7368,8 @@
 "label": "حكيم",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7242,6 +7472,22 @@
 "label": "نبي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Tubal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "توبَال"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "توبَال"
+}
 ]
 }
 },
@@ -7342,7 +7588,8 @@
 "end_ref_usfm": "2CO 8:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7594,7 +7841,8 @@
 "label": "توسل",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7735,6 +7983,15 @@
 "label": "الله الآب",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تومَا"
+}
 ]
 }
 },
@@ -7842,6 +8099,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يخدم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Tychicus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تِيخِيكس"
 }
 ]
 }
@@ -8001,6 +8267,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يخدم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Titus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تِيطسَ"
 }
 ]
 }
@@ -8204,6 +8479,15 @@
 "label": "يخدم",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Timothy",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تِيموثَاوس"
+}
 ]
 }
 },
@@ -8370,7 +8654,16 @@
 "end_ref_usfm": "REV 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fig"
+}
+]
 }
 }
 ]

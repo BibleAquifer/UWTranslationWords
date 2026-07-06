@@ -183,7 +183,8 @@
 "label": "फरीसी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -298,6 +299,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दाखरस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -465,7 +475,16 @@
 "end_ref_usfm": "REV 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fig"
+}
+]
 }
 },
 {
@@ -697,7 +716,8 @@
 "end_ref_usfm": "1CH 21:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -788,6 +808,15 @@
 "resource_code": "UWTranslationWords",
 "label": "रोम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अक्विला"
 }
 ]
 }
@@ -1022,6 +1051,15 @@
 "resource_code": "UWTranslationWords",
 "label": "ख़मीर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
 }
 ]
 }
@@ -3275,6 +3313,22 @@
 "label": "धर्मी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.6895,
+"match_method": "scored",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.6097,
+"match_method": "scored",
+"preferred_label": "Honest"
+}
 ]
 }
 },
@@ -3364,6 +3418,176 @@
 "label": "उज्जियाह",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Azariah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.16",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.18",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.19",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.20",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Jezaniah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "याजन्याह"
+},
+{
+"id": "person:Uzziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "उज्जियाह"
+},
+{
+"id": "person:Uzziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "उज्जियाह"
+},
+{
+"id": "person:Azariah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Azariah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अजर्याह"
+},
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहज्याह"
+},
+{
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "हनन्याह"
+}
 ]
 }
 },
@@ -3432,6 +3656,29 @@
 "resource_code": "UWTranslationWords",
 "label": "ओम्री",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Athaliah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अतल्याह"
+},
+{
+"id": "person:Athaliah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अतल्याह"
+},
+{
+"id": "person:Athaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अतल्याह"
 }
 ]
 }
@@ -3531,6 +3778,15 @@
 "label": "दण्ड देना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.96,
+"match_method": "scored",
+"preferred_label": "Abyss"
+}
 ]
 }
 },
@@ -3629,6 +3885,36 @@
 "label": "हव्वा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Eden.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अदन"
+},
+{
+"id": "person:Eden",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अदन"
+},
+{
+"id": "place:Eden",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अदन"
+},
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "Garden of Eden"
+}
 ]
 }
 },
@@ -3665,6 +3951,29 @@
 "resource_code": "UWTranslationWords",
 "label": "सुलैमान",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Adonijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अदोनिय्याह"
+},
+{
+"id": "person:Adonijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अदोनिय्याह"
+},
+{
+"id": "person:Adonijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अदोनिय्याह"
 }
 ]
 }
@@ -3956,7 +4265,8 @@
 "label": "अपराध",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4063,6 +4373,15 @@
 "resource_code": "UWTranslationWords",
 "label": "गवाही",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "group:FalseWitnesses",
+"type": "group",
+"confidence": 0.5685,
+"match_method": "scored",
+"preferred_label": "False Witnesses"
 }
 ]
 }
@@ -4438,7 +4757,8 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5100,6 +5420,15 @@
 "label": "शासन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.9581,
+"match_method": "scored",
+"preferred_label": "Authority"
+}
 ]
 }
 },
@@ -5529,7 +5858,8 @@
 "label": "प्रतिज्ञा का देश",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5691,7 +6021,8 @@
 "label": "अधीन होना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5773,7 +6104,8 @@
 "end_ref_usfm": "1PE 5:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -5883,6 +6215,22 @@
 "label": "कब्र",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नरक"
+},
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"confidence": 0.9333,
+"match_method": "scored",
+"preferred_label": "World of the Dead"
+}
 ]
 }
 },
@@ -5905,6 +6253,15 @@
 "resource_code": "UWTranslationWords",
 "label": "हेब्रोन",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Anak",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अनाक"
 }
 ]
 }
@@ -5929,7 +6286,8 @@
 "label": "आदर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6034,6 +6392,15 @@
 "resource_code": "UWTranslationWords",
 "label": "मन्दिर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pomegranate"
 }
 ]
 }
@@ -6483,7 +6850,23 @@
 "end_ref_usfm": "1SA 2:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 0.6033,
+"match_method": "scored",
+"preferred_label": "Delight"
+}
+]
 }
 },
 {
@@ -7285,7 +7668,23 @@
 "end_ref_usfm": "GEN 43:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.9515,
+"match_method": "scored",
+"preferred_label": "Favor"
+},
+{
+"id": "keyterm:Kindness",
+"type": "keyterm",
+"confidence": 0.6121,
+"match_method": "scored",
+"preferred_label": "Kindness"
+}
+]
 }
 },
 {
@@ -7517,6 +7916,15 @@
 "label": "दर्शन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Interpret",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Interpret"
+}
 ]
 }
 },
@@ -7703,6 +8111,29 @@
 "label": "सीरिया",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अन्ताकिया"
+},
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अन्ताकिया"
+},
+{
+"id": "group:Antioch",
+"type": "group",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Antiochians"
+}
 ]
 }
 },
@@ -7861,7 +8292,8 @@
 "label": "संसार",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8006,6 +8438,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बारहों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अन्द्रियास"
 }
 ]
 }
@@ -8349,6 +8790,22 @@
 "label": "गेहूँ",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grain"
+},
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Wheat"
+}
 ]
 }
 },
@@ -8448,6 +8905,15 @@
 "label": "पापबलि",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6194,
+"match_method": "scored",
+"preferred_label": "Offering"
+}
 ]
 }
 },
@@ -8497,6 +8963,15 @@
 "resource_code": "UWTranslationWords",
 "label": "बलिदान करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6087,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -9052,6 +9527,15 @@
 "label": "यहूदी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.7385,
+"match_method": "scored",
+"preferred_label": "अन्यजाति"
+}
 ]
 }
 },
@@ -9140,7 +9624,8 @@
 "label": "यहोवा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9286,7 +9771,8 @@
 "label": "उल्लंघन करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9403,6 +9889,15 @@
 "label": "परमेश्‍वर का वचन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अपुल्लोस"
+}
 ]
 }
 },
@@ -9469,6 +9964,15 @@
 "resource_code": "UWTranslationWords",
 "label": "गशूर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबशालोम"
 }
 ]
 }
@@ -9540,7 +10044,58 @@
 "end_ref_usfm": "1SA 8:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबिय्याह"
+},
+{
+"id": "person:Abijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबिय्याह"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबिय्याह"
+},
+{
+"id": "person:Abijah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबिय्याह"
+},
+{
+"id": "person:Abijah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबिय्याह"
+},
+{
+"id": "person:Abijah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबिय्याह"
+},
+{
+"id": "person:Abi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबी"
+}
+]
 }
 },
 {
@@ -9748,6 +10303,29 @@
 "label": "गिदोन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Abimelech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबीमेलेक"
+},
+{
+"id": "person:Achish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आकीश"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबीमेलेक"
+}
 ]
 }
 },
@@ -9794,7 +10372,16 @@
 "end_ref_usfm": "1SA 17:56"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Abner",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अब्नेर"
+}
+]
 }
 },
 {
@@ -11255,6 +11842,15 @@
 "label": "सारा",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अब्राहम"
+}
 ]
 }
 },
@@ -11550,7 +12146,8 @@
 "label": "देवता",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11837,6 +12434,15 @@
 "label": "भविष्यद्वक्ता",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 0.6894,
+"match_method": "scored",
+"preferred_label": "Anointed"
+}
 ]
 }
 },
@@ -11891,6 +12497,36 @@
 "resource_code": "UWTranslationWords",
 "label": "योआश",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Amaziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अमस्याह"
+},
+{
+"id": "person:Amaziah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अमस्याह"
+},
+{
+"id": "person:Amaziah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अमस्याह"
+},
+{
+"id": "person:Amaziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अमस्याह"
 }
 ]
 }
@@ -12009,6 +12645,22 @@
 "resource_code": "UWTranslationWords",
 "label": "शाऊल (पुराना नियम)",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अमालेकी"
+},
+{
+"id": "place:Amalek",
+"type": "place",
+"confidence": 0.7577,
+"match_method": "scored",
+"preferred_label": "अमालेक"
 }
 ]
 }
@@ -12164,6 +12816,15 @@
 "label": "सदोम",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गमोरा"
+}
 ]
 }
 },
@@ -12212,6 +12873,22 @@
 "resource_code": "UWTranslationWords",
 "label": "दाऊद",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Amnon.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अम्नोन"
+},
+{
+"id": "person:Amnon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अम्नोन"
 }
 ]
 }
@@ -12328,6 +13005,15 @@
 "resource_code": "UWTranslationWords",
 "label": "लूत",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अम्मोन"
 }
 ]
 }
@@ -12712,6 +13398,15 @@
 "label": "जाति",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Job",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अय्यूब"
+}
 ]
 }
 },
@@ -12799,6 +13494,29 @@
 "resource_code": "UWTranslationWords",
 "label": "सीनै",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Arabia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अरब"
+},
+{
+"id": "group:Arabia",
+"type": "group",
+"confidence": 0.6255,
+"match_method": "scored",
+"preferred_label": "Arabians"
+},
+{
+"id": "place:Arabia.2",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Arabia Petraea"
 }
 ]
 }
@@ -12894,6 +13612,15 @@
 "resource_code": "UWTranslationWords",
 "label": "खारा ताल",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Arabah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अराबा"
 }
 ]
 }
@@ -13037,6 +13764,36 @@
 "label": "सीरिया",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Aram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अराम"
+},
+{
+"id": "person:Aram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अराम"
+},
+{
+"id": "person:Aram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अराम"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पद्दनराम"
+}
 ]
 }
 },
@@ -13097,6 +13854,15 @@
 "resource_code": "UWTranslationWords",
 "label": "नूह",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Ararat",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अरारात"
 }
 ]
 }
@@ -13182,6 +13948,22 @@
 "resource_code": "UWTranslationWords",
 "label": "अन्नबलि",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Wine"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -13343,6 +14125,22 @@
 "resource_code": "UWTranslationWords",
 "label": "फारस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Artaxerxes.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अर्तक्षत्र"
+},
+{
+"id": "person:Artaxerxes",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अर्तक्षत्र"
 }
 ]
 }
@@ -13509,7 +14307,8 @@
 "label": "नूह",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13649,7 +14448,8 @@
 "label": "विश्वासयोग्य",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13841,7 +14641,8 @@
 "label": "बुराई",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14070,6 +14871,15 @@
 "label": "अशुद्ध करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Stain",
+"type": "keyterm",
+"confidence": 0.6316,
+"match_method": "scored",
+"preferred_label": "Defile"
+}
 ]
 }
 },
@@ -14153,7 +14963,8 @@
 "label": "मन्दिर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -14263,6 +15074,15 @@
 "label": "पवित्र",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Profane",
+"type": "keyterm",
+"confidence": 0.6706,
+"match_method": "scored",
+"preferred_label": "Profane"
+}
 ]
 }
 },
@@ -14350,6 +15170,15 @@
 "resource_code": "UWTranslationWords",
 "label": "गिदोन",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "deity:Asherah",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अशेरा"
 }
 ]
 }
@@ -14465,6 +15294,15 @@
 "label": "पलिश्तियों",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Ashkelon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अश्कलोन"
+}
 ]
 }
 },
@@ -14578,6 +15416,15 @@
 "label": "पलिश्तियों",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Ashdod",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अश्दोद"
+}
 ]
 }
 },
@@ -14679,6 +15526,15 @@
 "resource_code": "UWTranslationWords",
 "label": "सामरिया",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Assyria"
 }
 ]
 }
@@ -14918,7 +15774,16 @@
 "end_ref_usfm": "JHN 12:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.6878,
+"match_method": "scored",
+"preferred_label": "Reject"
+}
+]
 }
 },
 {
@@ -14991,7 +15856,8 @@
 "label": "घमंडी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -15059,6 +15925,22 @@
 "resource_code": "UWTranslationWords",
 "label": "योआश",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Ahaziah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहज्याह"
+},
+{
+"id": "person:Ahaziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहज्याह"
 }
 ]
 }
@@ -15132,6 +16014,22 @@
 "label": "बेबीलोन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Ahaz.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आहाज"
+},
+{
+"id": "person:Ahaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आहाज"
+}
 ]
 }
 },
@@ -15192,6 +16090,71 @@
 "resource_code": "UWTranslationWords",
 "label": "शीलो",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Ahijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहिय्याह"
+},
+{
+"id": "person:Ahijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहिय्याह"
+},
+{
+"id": "person:Ahijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहिय्याह"
+},
+{
+"id": "person:Ahijah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहिय्याह"
+},
+{
+"id": "person:Ahijah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहिय्याह"
+},
+{
+"id": "person:Ahijah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहिय्याह"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहीमेलेक"
+},
+{
+"id": "person:Ahijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अहिय्याह"
+},
+{
+"id": "person:Ahiah",
+"type": "person",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "अहिय्याह"
 }
 ]
 }

@@ -174,7 +174,8 @@
 "label": "زَبُولُون",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -292,7 +293,8 @@
 "label": "فرعون",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -505,6 +507,29 @@
 "resource_code": "UWTranslationWords",
 "label": "شَارُون",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Samaria.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلسَّامِرَةِ"
+},
+{
+"id": "group:Samaritan",
+"type": "group",
+"confidence": 0.7286,
+"match_method": "scored",
+"preferred_label": "Samaritans"
 }
 ]
 }
@@ -724,7 +749,8 @@
 "label": "مملكة يهوذا",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -784,7 +810,8 @@
 "label": "ضَبْط النَّفس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -868,6 +895,22 @@
 "resource_code": "UWTranslationWords",
 "label": "دَقِيق ٱلتَّقْدِمَة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Wine"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }
@@ -987,6 +1030,15 @@
 "label": "يُخلِّص",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:CoatOfMail",
+"type": "realia",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Coat of Mail"
+}
 ]
 }
 },
@@ -1083,7 +1135,8 @@
 "label": "سُلْطَان",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1137,6 +1190,15 @@
 "resource_code": "UWTranslationWords",
 "label": "المسكن (خيمة الاجتماع)",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "flora:Acacia",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Acacia"
 }
 ]
 }
@@ -5878,6 +5940,22 @@
 "label": "يوحنا 12: 21 (#3)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسوع"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
 ]
 }
 },
@@ -5963,6 +6041,15 @@
 "resource_code": "UWTranslationWords",
 "label": "يهوه",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
 }
 ]
 }
@@ -6283,6 +6370,15 @@
 "label": "إسحاق",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَارَة"
+}
 ]
 }
 },
@@ -6569,7 +6665,8 @@
 "label": "المُهلِك",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7038,7 +7135,8 @@
 "label": "ساعة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7222,7 +7320,8 @@
 "end_ref_usfm": "JHN 4:52"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7274,7 +7373,16 @@
 "end_ref_usfm": "EZK 20:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:AskFor",
+"type": "keyterm",
+"confidence": 0.8565,
+"match_method": "embedding",
+"preferred_label": "Ask for"
+}
+]
 }
 },
 {
@@ -7422,6 +7530,15 @@
 "label": "نوح",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَامٌ"
+}
 ]
 }
 },
@@ -7508,6 +7625,71 @@
 "resource_code": "UWTranslationWords",
 "label": "سليمان",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Sheba.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَبَا"
+},
+{
+"id": "person:Sheba.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَبَا"
+},
+{
+"id": "person:Sheba.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَبَا"
+},
+{
+"id": "person:Sheba.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَبَا"
+},
+{
+"id": "person:Sheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَبَا"
+},
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
+},
+{
+"id": "place:Sheba.2",
+"type": "place",
+"confidence": 0.6727,
+"match_method": "scored",
+"preferred_label": "Sheba"
+},
+{
+"id": "person:Seba",
+"type": "person",
+"confidence": 0.6232,
+"match_method": "scored",
+"preferred_label": "سَبَا"
+},
+{
+"id": "place:Seba",
+"type": "place",
+"confidence": 0.5869,
+"match_method": "scored",
+"preferred_label": "سَبَا"
 }
 ]
 }
@@ -8050,6 +8232,15 @@
 "label": "يوحنا 9: 14 (#2)",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.9724,
+"match_method": "scored",
+"preferred_label": "Sabbath"
+}
 ]
 }
 },
@@ -8353,7 +8544,8 @@
 "label": "شعب",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8408,7 +8600,8 @@
 "label": "يسجد",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8530,6 +8723,15 @@
 "resource_code": "UWTranslationWords",
 "label": "سِحْر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Magic"
 }
 ]
 }
@@ -8675,7 +8877,8 @@
 "label": "عبادة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8885,6 +9088,15 @@
 "resource_code": "UWTranslationWords",
 "label": "عمورة",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَدومَ"
 }
 ]
 }
@@ -9123,7 +9335,8 @@
 "label": "يهودي",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9204,6 +9417,29 @@
 "label": "لبنان",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.75,
+"match_method": "scored",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
+}
 ]
 }
 },
@@ -9268,7 +9504,8 @@
 "end_ref_usfm": "JDG 19:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9290,6 +9527,22 @@
 "resource_code": "UWTranslationWords",
 "label": "أدوم",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Seir",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَعِيرَ"
+},
+{
+"id": "place:Seir",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَعِيرَ"
 }
 ]
 }
@@ -9402,7 +9655,8 @@
 "label": "الدَرْج",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9474,7 +9728,8 @@
 "label": "ذبح",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9636,7 +9891,8 @@
 "label": "خمر",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9694,7 +9950,23 @@
 "end_ref_usfm": "JDG 8:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Succoth.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سكّوتَ"
+},
+{
+"id": "place:Succoth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سكّوتَ"
+}
+]
 }
 },
 {
@@ -9824,7 +10096,16 @@
 "end_ref_usfm": "PSA 58:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
+}
+]
 }
 },
 {
@@ -10590,7 +10871,16 @@
 "end_ref_usfm": "COL 1:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
@@ -10632,7 +10922,8 @@
 "label": "مَزْمُور",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11294,6 +11585,15 @@
 "label": "رئيس",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "keyterm:Authority.2",
+"type": "keyterm",
+"confidence": 0.9581,
+"match_method": "scored",
+"preferred_label": "Authority"
+}
 ]
 }
 },
@@ -11527,6 +11827,15 @@
 "label": "هيكل",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سلَيْمَانَ"
+}
 ]
 }
 },
@@ -11606,6 +11915,22 @@
 "resource_code": "UWTranslationWords",
 "label": "الإثني عشر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Simon.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِمْعَان"
+},
+{
+"id": "group:Zealot",
+"type": "group",
+"confidence": 0.572,
+"match_method": "scored",
+"preferred_label": "ٱلْغَيورَ"
 }
 ]
 }
@@ -12705,7 +13030,8 @@
 "label": "شهر (في الكتاب المقدس)",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12781,6 +13107,15 @@
 "resource_code": "UWTranslationWords",
 "label": "نِينَوَى",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Sennacherib",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَنْحَارِيبَ"
 }
 ]
 }
@@ -12922,6 +13257,22 @@
 "label": "نبي",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أَدومَ"
+},
+{
+"id": "group:Syria",
+"type": "group",
+"confidence": 0.6286,
+"match_method": "scored",
+"preferred_label": "Syrians"
+}
 ]
 }
 },
@@ -12952,6 +13303,15 @@
 "label": "حشبون",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِيحونَ"
+}
 ]
 }
 },
@@ -12975,7 +13335,8 @@
 "label": "ملاك",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13416,6 +13777,15 @@
 "label": "كلمة الله",
 "language": "arb"
 }
+],
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
 ]
 }
 },
@@ -13564,6 +13934,15 @@
 "resource_code": "UWTranslationWords",
 "label": "فيلبي",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِيلَا"
 }
 ]
 }
@@ -13755,6 +14134,22 @@
 "resource_code": "UWTranslationWords",
 "label": "الوصايا العشر",
 "language": "arb"
+}
+],
+"acai": [
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِينَاءَ"
+},
+{
+"id": "place:SinaiWilderness",
+"type": "place",
+"confidence": 0.64,
+"match_method": "scored",
+"preferred_label": "بَرِّيَّةِ"
 }
 ]
 }

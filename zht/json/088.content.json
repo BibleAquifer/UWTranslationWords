@@ -128,6 +128,43 @@
 "label": "祭司",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "group:Korah",
+"type": "group",
+"confidence": 0.6211,
+"match_method": "scored",
+"preferred_label": "Korahites"
+}
 ]
 }
 },
@@ -201,7 +238,8 @@
 "label": "占卜",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -271,7 +309,23 @@
 "end_ref_usfm": "AMO 9:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crete"
+},
+{
+"id": "group:Cretan",
+"type": "group",
+"confidence": 0.68,
+"match_method": "scored",
+"preferred_label": "Cretans"
+}
+]
 }
 },
 {
@@ -320,6 +374,15 @@
 "resource_code": "UWTranslationWords",
 "label": "橄欖山",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gethsemane"
 }
 ]
 }

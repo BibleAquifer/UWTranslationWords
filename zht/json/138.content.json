@@ -762,7 +762,16 @@
 "end_ref_usfm": "COL 1:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -865,7 +874,8 @@
 "label": "無酵餅",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -990,6 +1000,15 @@
 "resource_code": "UWTranslationWords",
 "label": "無酵餅",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }

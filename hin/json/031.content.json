@@ -504,6 +504,22 @@
 "label": "आदर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:BowDown",
+"type": "keyterm",
+"confidence": 0.8545,
+"match_method": "scored",
+"preferred_label": "Bow Down"
+},
+{
+"id": "keyterm:Worship",
+"type": "keyterm",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Worship"
+}
 ]
 }
 },
@@ -642,6 +658,15 @@
 "label": "शमौन",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "place:Negeb",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Negev"
+}
 ]
 }
 },
@@ -682,7 +707,8 @@
 "end_ref_usfm": "PSA 92:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -853,7 +879,8 @@
 "label": "पाप",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1418,6 +1445,15 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
+}
 ]
 }
 },
@@ -1473,7 +1509,8 @@
 "label": "दण्डवत्",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1637,6 +1674,15 @@
 "resource_code": "UWTranslationWords",
 "label": "विश्वास करना",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दमिश्क"
 }
 ]
 }
@@ -2113,6 +2159,15 @@
 "label": "क्षमा करना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.8923,
+"match_method": "scored",
+"preferred_label": "Mercy"
+}
 ]
 }
 },
@@ -2293,6 +2348,15 @@
 "label": "स्वप्न",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
+}
 ]
 }
 },
@@ -2354,6 +2418,15 @@
 "resource_code": "UWTranslationWords",
 "label": "शिमशोन",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दलीला"
 }
 ]
 }
@@ -2438,7 +2511,8 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2626,7 +2700,8 @@
 "label": "मन्दिर",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2760,7 +2835,8 @@
 "label": "ओसाई",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3224,6 +3300,22 @@
 "label": "शाऊल (पुराना नियम)",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दाऊद"
+}
 ]
 }
 },
@@ -3312,7 +3404,8 @@
 "label": "राजा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3385,6 +3478,22 @@
 "resource_code": "UWTranslationWords",
 "label": "यरूशलेम",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "City of David"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6075,
+"match_method": "scored",
+"preferred_label": "यरूशलेम"
 }
 ]
 }
@@ -3524,6 +3633,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दाख की बारी",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -3803,6 +3921,15 @@
 "label": "दाख",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Vine"
+}
 ]
 }
 },
@@ -3888,6 +4015,22 @@
 "resource_code": "UWTranslationWords",
 "label": "दाखरस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:StrongDrink",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Strong Drink"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.8161,
+"match_method": "scored",
+"preferred_label": "Wine"
 }
 ]
 }
@@ -4360,6 +4503,29 @@
 "label": "दाखरस के कुण्ड",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wine"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Vine"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.6722,
+"match_method": "scored",
+"preferred_label": "Must"
+}
 ]
 }
 },
@@ -4438,6 +4604,29 @@
 "resource_code": "UWTranslationWords",
 "label": "क्रोध",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Winepress"
+},
+{
+"id": "realia:Must",
+"type": "realia",
+"confidence": 0.56,
+"match_method": "scored",
+"preferred_label": "Must"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.5515,
+"match_method": "scored",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -4545,7 +4734,8 @@
 "end_ref_usfm": "ACT 3:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -4655,6 +4845,29 @@
 "label": "याकूब",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दान"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दान"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "दान"
+}
 ]
 }
 },
@@ -4670,7 +4883,23 @@
 "content": "<h1>रापा, <span>रपाइयों</span>, रापाइम,</h1><h2>तथ्य:</h2><p>शब्द “रापा” उन निवासियों के समूह का नाम है जो यर्दन नदी के पूर्वी किनारे पर एक स्थान पर रहते थे। “रापा” को “रापाई ” या “रापाइम” कहा जाता है। </p><ul><li><p>इस जन समूह के नाम पर एक घाटी का नाम रखा गया, “<span>रपाईम की तराई</span>”, जिसका उल्लेख पुराने नियम में छह बार किया गया है।</p></li><li><p>“रापा” एक इब्रानी शब्द का अंग्रेज़ी लिप्यंतरण है। यह निश्चित रूप से निर्धारित करना कठिन है कि &quot;रापा&quot; शब्द का क्या अर्थ है और इसके परिणामस्वरूप &quot;रापा&quot; शब्द किस प्रकार के प्राणियों को संदर्भित करता है। &quot;रापा&quot; शब्द जीवित लोगों, आत्माओं, या अर्ध-दिव्य प्राणियों के समूह को संदर्भित कर सकता है। इस कारण से कई अंग्रेज़ी अनुवादों ने मूल भाषा (इब्रानी) शब्द को “रपाइयों” या “रापाइम” के रूप में लिप्यंतरित करना चुना है। हो सकता है कि आप अपने अनुवाद में भी ऐसा ही करना चाहें।</p></li><li><p>अम्मोनियों के समूह ने रपाइयों को &quot;<span>जमजुम्मी</span>&quot; नाम से बुलाया (देखें व्यवस्थाविवरण 2:20)।</p></li></ul><p>(अनुवाद सुझाव: नामों का अनुवाद कैसे करें, शब्दों की नकल या उधार लें)</p><h2>बाइबल संदर्भ:</h2><h2>शब्द विवरण:</h2><ul><li><p>स्ट्रॉन्ग :</p></li></ul>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Rapha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रापा"
+},
+{
+"id": "group:Rephaim",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रपाईम"
+}
+]
 }
 },
 {
@@ -4730,6 +4959,29 @@
 "resource_code": "UWTranslationWords",
 "label": "नबूकदनेस्सर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दानिय्येल"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दानिय्येल"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "किलाब"
 }
 ]
 }
@@ -4866,6 +5118,29 @@
 "resource_code": "UWTranslationWords",
 "label": "फारस",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दारा"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दारा"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दारा"
 }
 ]
 }
@@ -8583,7 +8858,8 @@
 "label": "समय",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8775,6 +9051,15 @@
 "label": "घमंडी",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Poor",
+"type": "keyterm",
+"confidence": 0.6143,
+"match_method": "scored",
+"preferred_label": "Poor"
+}
 ]
 }
 },
@@ -8842,7 +9127,8 @@
 "label": "घमंडी",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9075,6 +9361,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दीवट/दीवटों",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Lamp",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamp"
 }
 ]
 }
@@ -9313,6 +9608,22 @@
 "resource_code": "UWTranslationWords",
 "label": "मन्दिर",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+},
+{
+"id": "realia:Lampstand",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
 }
 ]
 }
@@ -9741,7 +10052,8 @@
 "label": "सताना/सताव",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10189,7 +10501,8 @@
 "end_ref_usfm": "JER 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10533,7 +10846,8 @@
 "label": "दुःख उठाना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10618,7 +10932,8 @@
 "label": "विवाह",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10751,7 +11066,8 @@
 "label": "विवाह",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11344,6 +11660,15 @@
 "label": "शैतान",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "deity:Demons",
+"type": "deity",
+"confidence": 0.7977,
+"match_method": "scored",
+"preferred_label": "Demons"
+}
 ]
 }
 },
@@ -11463,6 +11788,15 @@
 "resource_code": "UWTranslationWords",
 "label": "दुष्टात्मा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:DemonPossessed",
+"type": "keyterm",
+"confidence": 0.8845,
+"match_method": "scored",
+"preferred_label": "Be Demon Possessed"
 }
 ]
 }
@@ -11646,7 +11980,8 @@
 "label": "यूहन्ना (बपतिस्मा देनेवाला)",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11762,7 +12097,8 @@
 "label": "विश्वास",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11901,6 +12237,15 @@
 "resource_code": "UWTranslationWords",
 "label": "यहोवा",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.6545,
+"match_method": "scored",
+"preferred_label": "Fortress"
 }
 ]
 }
@@ -12214,6 +12559,15 @@
 "label": "सामरिया",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.983,
+"match_method": "scored",
+"preferred_label": "Parable"
+}
 ]
 }
 },
@@ -12378,7 +12732,8 @@
 "label": "चरवाहा",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12733,7 +13088,8 @@
 "label": "दंडवत करना",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12819,6 +13175,15 @@
 "label": "मन्दिर",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cedar"
+}
 ]
 }
 },
@@ -12900,7 +13265,8 @@
 "label": "पाप",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13083,7 +13449,8 @@
 "label": "पाप",
 "language": "hin"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13354,6 +13721,15 @@
 "label": "दण्ड देना",
 "language": "hin"
 }
+],
+"acai": [
+{
+"id": "keyterm:Condemn",
+"type": "keyterm",
+"confidence": 0.8146,
+"match_method": "scored",
+"preferred_label": "Condemn"
+}
 ]
 }
 },
@@ -13428,6 +13804,15 @@
 "resource_code": "UWTranslationWords",
 "label": "पापबलि",
 "language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5952,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }

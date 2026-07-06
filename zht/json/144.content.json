@@ -142,7 +142,8 @@
 "label": "違背",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -550,6 +551,15 @@
 "label": "愛",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Beloved",
+"type": "keyterm",
+"confidence": 0.975,
+"match_method": "scored",
+"preferred_label": "Beloved"
+}
 ]
 }
 },
@@ -680,7 +690,8 @@
 "end_ref_usfm": "ROM 16:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

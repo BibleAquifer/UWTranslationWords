@@ -68,7 +68,8 @@
 "label": "腓利",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -202,6 +203,22 @@
 "resource_code": "UWTranslationWords",
 "label": "西頓",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tyre"
+},
+{
+"id": "group:Tyre",
+"type": "group",
+"confidence": 0.6533,
+"match_method": "scored",
+"preferred_label": "Tyrians"
 }
 ]
 }

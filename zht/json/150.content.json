@@ -60,7 +60,8 @@
 "end_ref_usfm": "EZK 20:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -202,7 +203,23 @@
 "end_ref_usfm": "ROM 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Zealous.3",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Zealous"
+},
+{
+"id": "keyterm:Zealous.2",
+"type": "keyterm",
+"confidence": 0.8454,
+"match_method": "embedding",
+"preferred_label": "Jealous"
+}
+]
 }
 }
 ]

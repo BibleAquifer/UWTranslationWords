@@ -88,6 +88,15 @@
 "label": "Jiwe",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ikonio"
+}
 ]
 }
 },
@@ -221,6 +230,15 @@
 "label": "Mfalme",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Palace"
+}
 ]
 }
 },
@@ -275,7 +293,8 @@
 "label": "Kuharibu",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1548,6 +1567,15 @@
 "label": "Mwaminifu",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
+}
 ]
 }
 },
@@ -1837,6 +1865,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mwaminifu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.6783,
+"match_method": "scored",
+"preferred_label": "Trust"
 }
 ]
 }
@@ -2402,6 +2439,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kuabudu",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bow"
 }
 ]
 }
@@ -3087,6 +3133,15 @@
 "label": "Sara",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaka"
+}
 ]
 }
 },
@@ -3178,6 +3233,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Lea",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Issachar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isakari"
+},
+{
+"id": "person:Issachar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isakari"
+},
+{
+"id": "group:Issachar",
+"type": "group",
+"confidence": 0.5567,
+"match_method": "scored",
+"preferred_label": "Isakari"
 }
 ]
 }
@@ -3432,6 +3510,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Ufalme wa Yuda",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaya"
 }
 ]
 }
@@ -4073,7 +4160,8 @@
 "label": "Tahiri",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4303,6 +4391,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Sara",
 "language": "swh"
+}
+],
+"acai": [
+{
+"id": "person:Ishmael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
+},
+{
+"id": "person:Ishmael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
+},
+{
+"id": "person:Ishmael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
+},
+{
+"id": "person:Ishmael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
+},
+{
+"id": "person:Ishmael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
+},
+{
+"id": "group:Ishmael",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Ishmaelites"
 }
 ]
 }
@@ -6283,6 +6422,29 @@
 "label": "Ufalme wa Yuda",
 "language": "swh"
 }
+],
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israeli"
+},
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 0.6187,
+"match_method": "scored",
+"preferred_label": "Israelites"
+}
 ]
 }
 },
@@ -6352,7 +6514,8 @@
 "label": "Lia",
 "language": "swh"
 }
-]
+],
+"acai": []
 }
 }
 ]

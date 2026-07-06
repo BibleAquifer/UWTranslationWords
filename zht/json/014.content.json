@@ -172,6 +172,15 @@
 "label": "路得",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Boaz"
+}
 ]
 }
 },
@@ -347,6 +356,22 @@
 "label": "尼希米",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Persia"
+},
+{
+"id": "group:Persia",
+"type": "group",
+"confidence": 0.6444,
+"match_method": "scored",
+"preferred_label": "Persians"
+}
 ]
 }
 },
@@ -414,6 +439,15 @@
 "resource_code": "UWTranslationWords",
 "label": "法老",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Potiphar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Potiphar"
 }
 ]
 }
@@ -564,6 +598,29 @@
 "label": "橄欖山",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethany"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethany"
+},
+{
+"id": "place:Bethabara",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Bethany Beyond the Jordan"
+}
 ]
 }
 },
@@ -710,6 +767,22 @@
 "label": "彌迦",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Bethlehem.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
+}
 ]
 }
 },
@@ -792,6 +865,29 @@
 "resource_code": "UWTranslationWords",
 "label": "非利士人",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-shemesh"
+},
+{
+"id": "place:Beth-shemesh.2",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-shemesh"
+},
+{
+"id": "place:Beth-shemesh.3",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Beth-shemesh"
 }
 ]
 }
@@ -939,6 +1035,22 @@
 "resource_code": "UWTranslationWords",
 "label": "耶路撒冷",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
 }
 ]
 }

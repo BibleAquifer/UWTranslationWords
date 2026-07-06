@@ -91,6 +91,43 @@
 "label": "Javé",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "SENHOR"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+}
 ]
 }
 },
@@ -139,6 +176,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Falso deus",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Baasha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baasa"
 }
 ]
 }
@@ -189,6 +235,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mesopotâmia",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Babilônia"
 }
 ]
 }
@@ -434,6 +489,36 @@
 "label": "Nabucodonosor",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babilônia"
+},
+{
+"id": "group:Babylon",
+"type": "group",
+"confidence": 0.6118,
+"match_method": "scored",
+"preferred_label": "Babylonians"
+},
+{
+"id": "place:Babylonia",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Babylonia"
+}
 ]
 }
 },
@@ -562,6 +647,15 @@
 "label": "Peor",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Balaão"
+}
 ]
 }
 },
@@ -626,7 +720,8 @@
 "end_ref_usfm": "SNG 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -858,6 +953,22 @@
 "label": "Paulo",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barnabé"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.5589,
+"match_method": "scored",
+"preferred_label": "Judas"
+}
 ]
 }
 },
@@ -961,6 +1072,15 @@
 "label": "Roma",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barrabás"
+}
 ]
 }
 },
@@ -1062,6 +1182,15 @@
 "label": "Os Doze",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bartolomeu"
+}
 ]
 }
 },
@@ -1150,6 +1279,36 @@
 "label": "Profeta",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Baruch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruque"
+},
+{
+"id": "person:Baruch.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruque"
+},
+{
+"id": "person:Baruch.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruque"
+},
+{
+"id": "person:Baruch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baruque"
+}
 ]
 }
 },
@@ -1225,6 +1384,15 @@
 "label": "Síria",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Bashan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Basã"
+}
 ]
 }
 },
@@ -1286,6 +1454,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Urias",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bate-Seba"
 }
 ]
 }
@@ -1775,7 +1952,8 @@
 "label": "Arrepender",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1937,7 +2115,8 @@
 "label": "Vinho",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2022,6 +2201,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Vinho",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "realia:StrongDrink",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Strong Drink"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.8161,
+"match_method": "scored",
+"preferred_label": "Wine"
 }
 ]
 }
@@ -2231,7 +2426,8 @@
 "end_ref_usfm": "GEN 27:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2377,6 +2573,22 @@
 "label": "Miquéias",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Bethlehem.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Belém"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Belém"
+}
 ]
 }
 },
@@ -2462,6 +2674,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Satanás",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satanás"
 }
 ]
 }
@@ -2549,6 +2770,92 @@
 "resource_code": "UWTranslationWords",
 "label": "Salomão",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Benaiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
+},
+{
+"id": "person:Benaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benaia"
 }
 ]
 }
@@ -2810,6 +3117,50 @@
 "label": "Raquel",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Benjamin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamim"
+},
+{
+"id": "person:Benjamin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamim"
+},
+{
+"id": "person:Benjamin.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamim"
+},
+{
+"id": "person:Benjamin.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamim"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamim"
+},
+{
+"id": "group:Benjamin",
+"type": "group",
+"confidence": 0.5974,
+"match_method": "scored",
+"preferred_label": "Benjamim"
+}
 ]
 }
 },
@@ -2884,6 +3235,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Tessalônica",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bereia"
 }
 ]
 }
@@ -3027,6 +3387,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Juramento",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Berseba"
 }
 ]
 }
@@ -3500,7 +3869,8 @@
 "label": "Nação",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3649,6 +4019,29 @@
 "label": "Monte das Oliveiras",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betânia"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betânia"
+},
+{
+"id": "place:Bethabara",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Bethany Beyond the Jordan"
+}
 ]
 }
 },
@@ -3796,6 +4189,22 @@
 "label": "Jerusalém",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betel"
+}
 ]
 }
 },
@@ -3878,6 +4287,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Filisteus",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "place:Beth-shemesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bete-Semes"
+},
+{
+"id": "place:Beth-shemesh.2",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Bete-Semes"
+},
+{
+"id": "place:Beth-shemesh.3",
+"type": "place",
+"confidence": 0.6487,
+"match_method": "scored",
+"preferred_label": "Bete-Semes"
 }
 ]
 }
@@ -3984,6 +4416,22 @@
 "label": "Rebeca",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "person:Bethuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betuel"
+},
+{
+"id": "place:Bethuel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betuel"
+}
 ]
 }
 },
@@ -4082,6 +4530,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Raquel",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Bilhah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bila"
+},
+{
+"id": "place:Bilhah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bila"
 }
 ]
 }
@@ -4371,6 +4835,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Calúnia",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "keyterm:Blaspheme",
+"type": "keyterm",
+"confidence": 0.8375,
+"match_method": "scored",
+"preferred_label": "blasfemar"
 }
 ]
 }
@@ -5004,6 +5477,15 @@
 "label": "Salvar",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9802,
+"match_method": "scored",
+"preferred_label": "boa notícia"
+}
 ]
 }
 },
@@ -5179,6 +5661,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rute",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Boaz"
 }
 ]
 }
@@ -5417,6 +5908,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Vinho",
 "language": "por"
+}
+],
+"acai": [
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goat"
 }
 ]
 }
@@ -7670,6 +8170,22 @@
 "label": "Justo",
 "language": "por"
 }
+],
+"acai": [
+{
+"id": "keyterm:Good",
+"type": "keyterm",
+"confidence": 0.6895,
+"match_method": "scored",
+"preferred_label": "Good"
+},
+{
+"id": "keyterm:Honest",
+"type": "keyterm",
+"confidence": 0.6097,
+"match_method": "scored",
+"preferred_label": "bom"
+}
 ]
 }
 },
@@ -7972,7 +8488,8 @@
 "label": "Templo",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -8276,7 +8793,16 @@
 "end_ref_usfm": "DEU 5:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Donkey"
+}
+]
 }
 },
 {
@@ -9440,7 +9966,8 @@
 "label": "Justiça",
 "language": "por"
 }
-]
+],
+"acai": []
 }
 }
 ]

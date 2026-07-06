@@ -114,6 +114,15 @@
 "label": "米沙利",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nebuchadnezzar"
+}
 ]
 }
 },
@@ -290,6 +299,15 @@
 "label": "摩西",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nile River"
+}
 ]
 }
 },
@@ -418,6 +436,22 @@
 "label": "悔改",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nineveh"
+},
+{
+"id": "group:Nineveh",
+"type": "group",
+"confidence": 0.675,
+"match_method": "scored",
+"preferred_label": "Ninevites"
+}
 ]
 }
 },
@@ -527,6 +561,29 @@
 "resource_code": "UWTranslationWords",
 "label": "耶路撒冷",
 "language": "zht"
+}
+],
+"acai": [
+{
+"id": "person:Nehemiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemiah"
+},
+{
+"id": "person:Nehemiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemiah"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemiah"
 }
 ]
 }

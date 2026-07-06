@@ -66,7 +66,8 @@
 "end_ref_usfm": "PSA 116:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -187,7 +188,8 @@
 "label": "الروح القدس",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -242,7 +244,8 @@
 "label": "ضيقة",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -438,7 +441,16 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.9733,
+"match_method": "scored",
+"preferred_label": "Conscience"
+}
+]
 }
 },
 {
@@ -697,7 +709,8 @@
 "label": "غضب",
 "language": "arb"
 }
-]
+],
+"acai": []
 }
 }
 ]

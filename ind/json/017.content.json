@@ -75,7 +75,8 @@
 "label": "Roh Kudus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -274,7 +275,8 @@
 "label": "Memanggil",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1362,6 +1364,15 @@
 "label": "Roma",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paulus"
+}
 ]
 }
 },
@@ -1508,7 +1519,8 @@
 "label": "Melanggar",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -1734,7 +1746,16 @@
 "end_ref_usfm": "EXO 25:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Lamp",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamp"
+}
+]
 }
 },
 {
@@ -1799,6 +1820,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Asyur",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.7091,
+"match_method": "scored",
+"preferred_label": "Bow"
 }
 ]
 }
@@ -2422,7 +2452,8 @@
 "end_ref_usfm": "MAT 21:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2452,7 +2483,8 @@
 "label": "Menciptakan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2563,7 +2595,8 @@
 "label": "Uji",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2842,7 +2875,8 @@
 "label": "Setan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2917,7 +2951,8 @@
 "label": "Pengorbanan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3029,6 +3064,15 @@
 "label": "Menebus",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Atonement",
+"type": "keyterm",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "penebusan dosa"
+}
 ]
 }
 },
@@ -3114,7 +3158,8 @@
 "label": "Pernikahan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3332,7 +3377,8 @@
 "label": "Yehuda",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3530,7 +3576,8 @@
 "label": "Memperbudak",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3585,7 +3632,8 @@
 "label": "Roh",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -3764,6 +3812,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Mimpi",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "penglihatan"
 }
 ]
 }
@@ -4406,7 +4463,8 @@
 "label": "Bersujud",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4466,6 +4524,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Yahudi",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
 }
 ]
 }
@@ -4588,7 +4655,8 @@
 "label": "Roh Kudus",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5512,6 +5580,15 @@
 "label": "Bait Suci",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:Money",
+"type": "realia",
+"confidence": 0.9221,
+"match_method": "scored",
+"preferred_label": "Money"
+}
 ]
 }
 },
@@ -5572,7 +5649,8 @@
 "label": "Mendamaikan",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5743,7 +5821,8 @@
 "label": "Maria",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7290,6 +7369,15 @@
 "label": "Kepercayaan",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Believe",
+"type": "keyterm",
+"confidence": 0.9228,
+"match_method": "scored",
+"preferred_label": "percaya"
+}
 ]
 }
 },
@@ -7393,6 +7481,15 @@
 "label": "Bijaksana",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.8,
+"match_method": "scored",
+"preferred_label": "pengucapan"
+}
 ]
 }
 },
@@ -7448,7 +7545,8 @@
 "label": "Moab",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7506,7 +7604,8 @@
 "end_ref_usfm": "JOS 4:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7570,7 +7669,8 @@
 "end_ref_usfm": "SNG 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -8093,6 +8193,15 @@
 "label": "Janji",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 0.9628,
+"match_method": "scored",
+"preferred_label": "perjanjian"
+}
 ]
 }
 },
@@ -8541,7 +8650,23 @@
 "end_ref_usfm": "1SA 2:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "kebaikan"
+},
+{
+"id": "keyterm:Delight",
+"type": "keyterm",
+"confidence": 0.6033,
+"match_method": "scored",
+"preferred_label": "berkenan"
+}
+]
 }
 },
 {
@@ -9301,7 +9426,8 @@
 "end_ref_usfm": "NEH 8:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9383,7 +9509,16 @@
 "end_ref_usfm": "DEU 32:38"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Refuge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "tempat perlindungan"
+}
+]
 }
 },
 {
@@ -9483,7 +9618,8 @@
 "end_ref_usfm": "2CO 8:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -9534,7 +9670,8 @@
 "label": "Hawa",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9860,7 +9997,8 @@
 "label": "Roma",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -9996,7 +10134,16 @@
 "end_ref_usfm": "PSA 55:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Fellowship",
+"type": "keyterm",
+"confidence": 0.84,
+"match_method": "scored",
+"preferred_label": "persekutuan"
+}
+]
 }
 },
 {
@@ -10258,7 +10405,8 @@
 "end_ref_usfm": "PSA 55:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10376,6 +10524,15 @@
 "label": "Roh",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "realia:CoatOfMail",
+"type": "realia",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Coat of Mail"
+}
 ]
 }
 },
@@ -10440,7 +10597,8 @@
 "end_ref_usfm": "HEB 9:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -10735,7 +10893,8 @@
 "label": "Bait Suci",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10914,6 +11073,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Roma",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Centurion",
+"type": "person",
+"confidence": 0.555,
+"match_method": "scored",
+"preferred_label": "A Centurion"
 }
 ]
 }
@@ -11134,7 +11302,8 @@
 "label": "<p>#amoralitas seksual",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11393,7 +11562,8 @@
 "label": "Festival",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12468,6 +12638,15 @@
 "label": "Murid",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Petrus"
+}
 ]
 }
 },
@@ -12859,6 +13038,22 @@
 "label": "Jiwa",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "hati"
+},
+{
+"id": "keyterm:Mind.2",
+"type": "keyterm",
+"confidence": 0.6656,
+"match_method": "scored",
+"preferred_label": "pikiran"
+}
 ]
 }
 },
@@ -13234,6 +13429,15 @@
 "label": "Roma",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pilatus"
+}
 ]
 }
 },
@@ -13365,6 +13569,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Kebun anggur",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
 }
 ]
 }
@@ -13638,7 +13851,8 @@
 "label": "Roma",
 "language": "ind"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -13763,6 +13977,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Siria",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Priskila"
 }
 ]
 }
@@ -13968,6 +14191,15 @@
 "label": "Penguasa Yahudi",
 "language": "ind"
 }
+],
+"acai": [
+{
+"id": "keyterm:Fast",
+"type": "keyterm",
+"confidence": 0.85,
+"match_method": "scored",
+"preferred_label": "berpuasa"
+}
 ]
 }
 },
@@ -14016,6 +14248,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Nabi",
 "language": "ind"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.7015,
+"match_method": "scored",
+"preferred_label": "Yerusalem"
 }
 ]
 }

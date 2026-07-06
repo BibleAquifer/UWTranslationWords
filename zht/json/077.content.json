@@ -215,7 +215,8 @@
 "label": "通姦",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -379,7 +380,8 @@
 "label": "牧羊人",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -587,7 +589,8 @@
 "end_ref_usfm": "REV 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -825,7 +828,8 @@
 "end_ref_usfm": "2CO 11:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2281,6 +2285,15 @@
 "label": "先知",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "keyterm:Witness.2",
+"type": "keyterm",
+"confidence": 0.6153,
+"match_method": "scored",
+"preferred_label": "Testimony"
+}
 ]
 }
 },
@@ -2722,6 +2735,15 @@
 "label": "神的話",
 "language": "zht"
 }
+],
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
 ]
 }
 },
@@ -2818,7 +2840,8 @@
 "label": "葡萄酒",
 "language": "zht"
 }
-]
+],
+"acai": []
 }
 }
 ]

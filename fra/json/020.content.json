@@ -57,6 +57,22 @@
 "label": "David",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Rabbah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rabbah"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ammon"
+}
 ]
 }
 },
@@ -201,7 +217,8 @@
 "label": "Professeur",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -536,6 +553,15 @@
 "label": "Lea",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rachel"
+}
 ]
 }
 },
@@ -837,6 +863,15 @@
 "label": "Rançon",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Redeem",
+"type": "keyterm",
+"confidence": 0.7217,
+"match_method": "scored",
+"preferred_label": "acheter"
+}
 ]
 }
 },
@@ -910,6 +945,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Prostitué",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rahab"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Égypte"
 }
 ]
 }
@@ -1001,6 +1052,57 @@
 "resource_code": "UWTranslationWords",
 "label": "Benjamin",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramoth en Galaad"
+},
+{
+"id": "place:Ramah.6",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.8",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rama"
+},
+{
+"id": "place:Ramah.2",
+"type": "place",
+"confidence": 0.6654,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Ramah"
 }
 ]
 }
@@ -1119,6 +1221,29 @@
 "resource_code": "UWTranslationWords",
 "label": "Refuge",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "place:Remeth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramoth"
+},
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 0.92,
+"match_method": "scored",
+"preferred_label": "Ramoth en Galaad"
 }
 ]
 }
@@ -1252,6 +1377,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Racheter",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Ransom",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "rançon"
 }
 ]
 }
@@ -1809,7 +1943,8 @@
 "end_ref_usfm": "LUK 8:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -2255,7 +2390,8 @@
 "label": "Prophète",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -2507,6 +2643,15 @@
 "label": "Néguev",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rebecca"
+}
 ]
 }
 },
@@ -2706,6 +2851,15 @@
 "label": "Gouverneur",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Rebel",
+"type": "keyterm",
+"confidence": 0.5625,
+"match_method": "scored",
+"preferred_label": "se rebeller"
+}
 ]
 }
 },
@@ -2766,6 +2920,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Rome",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Census",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "enregistrement"
 }
 ]
 }
@@ -4150,7 +4313,8 @@
 "label": "Sauver",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4524,7 +4688,8 @@
 "label": "La bonnes nouvelle",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4770,7 +4935,8 @@
 "label": "Punir",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -4879,6 +5045,15 @@
 "label": "Sacrificer",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Reconcile",
+"type": "keyterm",
+"confidence": 0.8667,
+"match_method": "scored",
+"preferred_label": "réconcilier"
+}
 ]
 }
 },
@@ -4961,7 +5136,16 @@
 "end_ref_usfm": "DEU 32:38"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Refuge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "refuge"
+}
+]
 }
 },
 {
@@ -5243,6 +5427,15 @@
 "label": "Royaume",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "régne"
+}
 ]
 }
 },
@@ -5363,7 +5556,8 @@
 "label": "Saba",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5514,7 +5708,8 @@
 "label": "Ceindre",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -5752,7 +5947,16 @@
 "end_ref_usfm": "JHN 12:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Reject",
+"type": "keyterm",
+"confidence": 0.6878,
+"match_method": "scored",
+"preferred_label": "rejeter"
+}
+]
 }
 },
 {
@@ -5788,7 +5992,8 @@
 "label": "Honneur",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -6190,6 +6395,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Péché",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.9613,
+"match_method": "scored",
+"preferred_label": "se repentir"
 }
 ]
 }
@@ -6665,7 +6879,8 @@
 "label": "Exhorter",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7017,7 +7232,8 @@
 "end_ref_usfm": "LEV 6:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7123,7 +7339,8 @@
 "end_ref_usfm": "EZK 6:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
@@ -7391,7 +7608,16 @@
 "end_ref_usfm": "JHN 5:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.981,
+"match_method": "scored",
+"preferred_label": "résurrection"
+}
+]
 }
 },
 {
@@ -7476,7 +7702,8 @@
 "label": "Honneur",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -7916,6 +8143,22 @@
 "label": "Temple, maison de Dieu",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Curtain",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Curtain"
+},
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.6776,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
 ]
 }
 },
@@ -7984,6 +8227,36 @@
 "resource_code": "UWTranslationWords",
 "label": "Syrie",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Rimmon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rimmon"
+},
+{
+"id": "place:Ain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aïn"
+},
+{
+"id": "deity:Rimmon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rimmon"
+},
+{
+"id": "place:Rimmon.3",
+"type": "place",
+"confidence": 0.6889,
+"match_method": "scored",
+"preferred_label": "Rock of Rimmon"
 }
 ]
 }
@@ -8256,6 +8529,22 @@
 "label": "Tunique",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "realia:Robe",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Robe"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.5929,
+"match_method": "scored",
+"preferred_label": "Cloak"
+}
 ]
 }
 },
@@ -8324,6 +8613,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Salomon",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Roboam"
 }
 ]
 }
@@ -8504,6 +8802,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Les sages",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.576,
+"match_method": "scored",
+"preferred_label": "Jews"
 }
 ]
 }
@@ -10278,7 +10585,8 @@
 "label": "Royaume de Dieu",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -10449,6 +10757,15 @@
 "label": "Pilate",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rome"
+}
 ]
 }
 },
@@ -10595,6 +10912,36 @@
 "label": "Nil",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "flora:Reed",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reed"
+},
+{
+"id": "realia:Reed",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Reed"
+},
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.5949,
+"match_method": "scored",
+"preferred_label": "Grass"
+},
+{
+"id": "flora:Papyrus",
+"type": "flora",
+"confidence": 0.5727,
+"match_method": "scored",
+"preferred_label": "Papyrus"
+}
 ]
 }
 },
@@ -10702,7 +11049,8 @@
 "label": "reine",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -11018,6 +11366,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Prêtre",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8609,
+"match_method": "scored",
+"preferred_label": "régne"
 }
 ]
 }
@@ -11882,6 +12239,15 @@
 "label": "Règne",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.8455,
+"match_method": "scored",
+"preferred_label": "régne"
+}
 ]
 }
 },
@@ -11965,6 +12331,22 @@
 "resource_code": "UWTranslationWords",
 "label": "Samarie",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Israël"
 }
 ]
 }
@@ -12106,6 +12488,15 @@
 "label": "Lea",
 "language": "fra"
 }
+],
+"acai": [
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ruben"
+}
 ]
 }
 },
@@ -12226,7 +12617,8 @@
 "label": "Devaster ",
 "language": "fra"
 }
-]
+],
+"acai": []
 }
 },
 {
@@ -12367,6 +12759,15 @@
 "resource_code": "UWTranslationWords",
 "label": "Juge",
 "language": "fra"
+}
+],
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ruth"
 }
 ]
 }
