@@ -1143,11 +1143,18 @@
 "preferred_label": "ٱلْمَاءِ"
 },
 {
-"id": "place:SheepGate",
+"id": "realia:Door",
+"type": "realia",
+"confidence": 0.6104,
+"match_method": "scored",
+"preferred_label": "Door"
+},
+{
+"id": "place:FountainGate",
 "type": "place",
 "confidence": 0.6104,
 "match_method": "scored",
-"preferred_label": "ٱلضَّأْنِ"
+"preferred_label": "ٱلْعَيْنِ"
 },
 {
 "id": "place:DungGate",
@@ -1164,25 +1171,11 @@
 "preferred_label": "ٱلْوَادِي"
 },
 {
-"id": "place:FountainGate",
+"id": "place:SheepGate",
 "type": "place",
 "confidence": 0.6104,
 "match_method": "scored",
-"preferred_label": "ٱلْعَيْنِ"
-},
-{
-"id": "realia:Door",
-"type": "realia",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Door"
-},
-{
-"id": "place:FishGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "باب ٱلسَّمَكِ"
+"preferred_label": "ٱلضَّأْنِ"
 },
 {
 "id": "place:BeautifulGate",
@@ -1192,6 +1185,13 @@
 "preferred_label": "الباب ٱلْجَمِيل"
 },
 {
+"id": "place:FishGate",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "باب ٱلسَّمَكِ"
+},
+{
 "id": "place:EphraimGate",
 "type": "place",
 "confidence": 0.607,
@@ -1199,18 +1199,18 @@
 "preferred_label": "أَفْرَايِمَ"
 },
 {
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6035,
-"match_method": "scored",
-"preferred_label": "ٱلْخَيْلِ"
-},
-{
 "id": "place:EastGate",
 "type": "place",
 "confidence": 0.6035,
 "match_method": "scored",
 "preferred_label": "ٱلشَّرْقِ"
+},
+{
+"id": "place:HorseGate",
+"type": "place",
+"confidence": 0.6035,
+"match_method": "scored",
+"preferred_label": "ٱلْخَيْلِ"
 }
 ]
 }
@@ -12038,18 +12038,18 @@
 "preferred_label": "Unblemished"
 },
 {
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.6645,
-"match_method": "scored",
-"preferred_label": "Complete"
-},
-{
 "id": "keyterm:WithoutReproach",
 "type": "keyterm",
 "confidence": 0.6645,
 "match_method": "scored",
 "preferred_label": "Without Reproach"
+},
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Complete"
 },
 {
 "id": "keyterm:Blameless",
