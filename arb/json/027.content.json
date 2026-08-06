@@ -723,7 +723,7 @@
 {
 "id": "realia:CoverLid",
 "type": "realia",
-"confidence": 0.7105,
+"confidence": 0.7785,
 "match_method": "scored",
 "preferred_label": "Cover Lid"
 }
@@ -1179,7 +1179,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.602,
 "match_method": "scored",
 "preferred_label": "Perimiter Curtain"
 }
@@ -1447,22 +1447,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Zealous.3",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Zealous"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.8454,
-"match_method": "embedding",
-"preferred_label": "Jealous"
-}
-]
+"acai": []
 }
 },
 {
@@ -1598,25 +1583,11 @@
 "preferred_label": "ٱلرَّبِّ"
 },
 {
-"id": "keyterm:Resentment",
+"id": "keyterm:Zealous",
 "type": "keyterm",
-"confidence": 0.7332,
+"confidence": 0.5634,
 "match_method": "scored",
-"preferred_label": "Resentment"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Jealous"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.6391,
-"match_method": "scored",
-"preferred_label": "Passion"
+"preferred_label": "Be Zealous"
 }
 ]
 }

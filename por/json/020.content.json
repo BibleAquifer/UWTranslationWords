@@ -2468,15 +2468,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.9577,
-"match_method": "scored",
-"preferred_label": "fear"
-}
-]
+"acai": []
 }
 },
 {
@@ -3486,13 +3478,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -5009,7 +4994,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.7459,
+"match_method": "scored",
+"preferred_label": "tentar"
+}
+]
 }
 },
 {
@@ -9122,15 +9115,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "terror"
-}
-]
+"acai": []
 }
 },
 {
@@ -9246,7 +9231,7 @@
 {
 "id": "group:Thessalonica",
 "type": "group",
-"confidence": 0.7231,
+"confidence": 0.6338,
 "match_method": "scored",
 "preferred_label": "Thessalonians"
 }
@@ -9569,15 +9554,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "discernir"
-}
-]
+"acai": []
 }
 },
 {
@@ -11034,15 +11011,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Witness.2",
-"type": "keyterm",
-"confidence": 0.6153,
-"match_method": "scored",
-"preferred_label": "witness"
-}
-]
+"acai": []
 }
 },
 {
@@ -11282,6 +11251,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Tiago"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Judas"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
+"preferred_label": "Tiago"
 }
 ]
 }
@@ -11486,6 +11469,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Tiago"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6211,
+"match_method": "scored",
 "preferred_label": "Tiago"
 }
 ]
@@ -12098,13 +12088,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Tiro"
-},
-{
-"id": "group:Tyre",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "Tyrians"
 }
 ]
 }
@@ -13487,15 +13470,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Foolish",
-"type": "keyterm",
-"confidence": 0.6677,
-"match_method": "scored",
-"preferred_label": "Foolish"
-}
-]
+"acai": []
 }
 },
 {
@@ -13941,7 +13916,7 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.7714,
+"confidence": 0.8032,
 "match_method": "scored",
 "preferred_label": "Tower"
 }
@@ -14678,7 +14653,7 @@
 {
 "id": "keyterm:Teaching",
 "type": "keyterm",
-"confidence": 0.8824,
+"confidence": 0.9505,
 "match_method": "scored",
 "preferred_label": "tradição"
 }
@@ -16851,13 +16826,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Trumpet"
-},
-{
-"id": "realia:RamsHorn",
-"type": "realia",
-"confidence": 0.6625,
-"match_method": "scored",
-"preferred_label": "Rams Horn"
 }
 ]
 }
@@ -17545,15 +17513,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stumble",
-"type": "keyterm",
-"confidence": 0.6941,
-"match_method": "scored",
-"preferred_label": "tropeçar"
-}
-]
+"acai": []
 }
 },
 {

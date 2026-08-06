@@ -1285,7 +1285,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.5746,
+"match_method": "scored",
+"preferred_label": "nation; peuple"
+}
+]
 }
 },
 {
@@ -2376,7 +2384,7 @@
 {
 "id": "group:Naphtali",
 "type": "group",
-"confidence": 0.7067,
+"confidence": 0.8815,
 "match_method": "scored",
 "preferred_label": "Nephthali"
 }
@@ -2700,13 +2708,6 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Ninive"
-},
-{
-"id": "group:Nineveh",
-"type": "group",
-"confidence": 0.675,
-"match_method": "scored",
 "preferred_label": "Ninive"
 }
 ]
@@ -3792,15 +3793,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "charger"
-}
-]
+"acai": []
 }
 },
 {
@@ -4026,7 +4019,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.678,
+"confidence": 0.7936,
 "match_method": "scored",
 "preferred_label": "néoménies"
 }

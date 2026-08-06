@@ -408,7 +408,7 @@
 {
 "id": "realia:Rod",
 "type": "realia",
-"confidence": 0.6944,
+"confidence": 0.555,
 "match_method": "scored",
 "preferred_label": "Rod"
 }
@@ -1138,13 +1138,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Tree"
-},
-{
-"id": "place:OlivesMount",
-"type": "place",
-"confidence": 0.5938,
-"match_method": "scored",
-"preferred_label": "Mount of Olives"
 }
 ]
 }
@@ -1263,6 +1256,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mount of Olives"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Olive Tree"
 }
 ]
 }

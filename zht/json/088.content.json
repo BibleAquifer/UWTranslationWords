@@ -157,13 +157,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Korah"
-},
-{
-"id": "group:Korah",
-"type": "group",
-"confidence": 0.6211,
-"match_method": "scored",
-"preferred_label": "Korahites"
 }
 ]
 }
@@ -319,11 +312,11 @@
 "preferred_label": "Crete"
 },
 {
-"id": "group:Cretan",
-"type": "group",
-"confidence": 0.68,
+"id": "person:CretanProphet",
+"type": "person",
+"confidence": 0.5536,
 "match_method": "scored",
-"preferred_label": "Cretans"
+"preferred_label": "Cretan Prophet"
 }
 ]
 }

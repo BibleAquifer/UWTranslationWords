@@ -179,15 +179,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Babylone"
-}
-]
+"acai": []
 }
 },
 {
@@ -446,20 +438,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Babylone"
-},
-{
-"id": "group:Babylon",
-"type": "group",
-"confidence": 0.6118,
-"match_method": "scored",
-"preferred_label": "Babylonien"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -1696,7 +1674,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.7418,
+"match_method": "scored",
+"preferred_label": "baptême"
+}
+]
 }
 },
 {
@@ -2052,7 +2038,7 @@
 {
 "id": "person:Judas.5",
 "type": "person",
-"confidence": 0.5589,
+"confidence": 0.5608,
 "match_method": "scored",
 "preferred_label": "Judas"
 }
@@ -2210,13 +2196,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -2529,6 +2508,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Basan"
+},
+{
+"id": "place:Batanea",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Batanea"
 }
 ]
 }
@@ -4531,15 +4517,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.8791,
-"match_method": "scored",
-"preferred_label": "benir"
-}
-]
+"acai": []
 }
 },
 {
@@ -4839,7 +4817,7 @@
 {
 "id": "group:Benjamin",
 "type": "group",
-"confidence": 0.5974,
+"confidence": 0.795,
 "match_method": "scored",
 "preferred_label": "Benjamin"
 }
@@ -6132,22 +6110,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "place:Bethel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Béthel"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethel"
-}
-]
+"acai": []
 }
 },
 {
@@ -6402,16 +6365,16 @@
 "preferred_label": "Beth-Schémesch"
 },
 {
-"id": "place:Beth-shemesh.2",
+"id": "place:Beth-shemesh.3",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.65,
 "match_method": "scored",
 "preferred_label": "Beth-Schémesch"
 },
 {
-"id": "place:Beth-shemesh.3",
+"id": "place:Beth-shemesh.2",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.625,
 "match_method": "scored",
 "preferred_label": "Beth-Schémesch"
 }
@@ -6949,7 +6912,7 @@
 {
 "id": "keyterm:Beloved",
 "type": "keyterm",
-"confidence": 0.975,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "bien, aimé"
 }
@@ -7247,7 +7210,7 @@
 {
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
-"confidence": 0.8375,
+"confidence": 0.6745,
 "match_method": "scored",
 "preferred_label": "parler contre dieu"
 }
@@ -7746,7 +7709,7 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.8161,
+"confidence": 0.7105,
 "match_method": "scored",
 "preferred_label": "Wine"
 }
@@ -10003,22 +9966,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"confidence": 0.6895,
-"match_method": "scored",
-"preferred_label": "le bien"
-},
-{
-"id": "keyterm:Honest",
-"type": "keyterm",
-"confidence": 0.6097,
-"match_method": "scored",
-"preferred_label": "bien"
-}
-]
+"acai": []
 }
 },
 {
@@ -10137,25 +10085,11 @@
 ],
 "acai": [
 {
-"id": "realia:SmallShield",
-"type": "realia",
-"confidence": 0.7929,
-"match_method": "scored",
-"preferred_label": "Small Shield"
-},
-{
 "id": "keyterm:Shield",
 "type": "keyterm",
-"confidence": 0.7714,
-"match_method": "scored",
+"confidence": 0.8648,
+"match_method": "embedding",
 "preferred_label": "bouclier"
-},
-{
-"id": "realia:LargeShield",
-"type": "realia",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Large Shield"
 }
 ]
 }

@@ -1544,6 +1544,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jacques"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Judas"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
+"preferred_label": "Jacques"
 }
 ]
 }
@@ -1748,6 +1762,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Jacques"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6211,
+"match_method": "scored",
 "preferred_label": "Jacques"
 }
 ]
@@ -2025,25 +2046,11 @@
 "preferred_label": "Éternel"
 },
 {
-"id": "keyterm:Resentment",
+"id": "keyterm:Zealous",
 "type": "keyterm",
-"confidence": 0.7332,
+"confidence": 0.5634,
 "match_method": "scored",
-"preferred_label": "jalousie"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "zélé"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.6391,
-"match_method": "scored",
-"preferred_label": "ardeur"
+"preferred_label": "être zélé"
 }
 ]
 }
@@ -3388,6 +3395,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jébusiens"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5852,
+"match_method": "scored",
+"preferred_label": "Jérusalem"
 }
 ]
 }
@@ -4093,6 +4107,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jéricho"
+},
+{
+"id": "place:JerichoValley",
+"type": "place",
+"confidence": 0.6089,
+"match_method": "scored",
+"preferred_label": "vallée de Jéricho"
 }
 ]
 }
@@ -5659,6 +5680,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jérusalem"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -11428,15 +11456,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fast",
-"type": "keyterm",
-"confidence": 0.85,
-"match_method": "scored",
-"preferred_label": "jeûner"
-}
-]
+"acai": []
 }
 },
 {
@@ -11603,50 +11623,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "person:Jezreel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jizreel"
-},
-{
-"id": "person:Jezreel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jizreel"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jizreel"
-},
-{
-"id": "place:Jezreel.3",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jizreel"
-},
-{
-"id": "place:Jezreel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jizreel"
-},
-{
-"id": "group:Jezreel",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jizreel"
-}
-]
+"acai": []
 }
 },
 {
@@ -14140,6 +14117,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jonadab"
+},
+{
+"id": "person:Johanan.9",
+"type": "person",
+"confidence": 0.6045,
+"match_method": "scored",
+"preferred_label": "Jochanan"
 }
 ]
 }
@@ -16481,15 +16465,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"confidence": 0.785,
-"match_method": "scored",
-"preferred_label": "jugement"
-}
-]
+"acai": []
 }
 },
 {
@@ -16934,7 +16910,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.6056,
+"confidence": 0.7507,
 "match_method": "scored",
 "preferred_label": "Juda"
 }
@@ -17007,6 +16983,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Territory of Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.598,
+"match_method": "scored",
+"preferred_label": "Juda"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Juda"
 }
 ]
 }
@@ -17084,6 +17074,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Judas"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6102,
+"match_method": "scored",
+"preferred_label": "Jacques"
 }
 ]
 }
@@ -17895,20 +17892,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Judée"
-},
-{
-"id": "group:Judea",
-"type": "group",
-"confidence": 0.5681,
-"match_method": "scored",
-"preferred_label": "Judéen"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.5596,
-"match_method": "scored",
-"preferred_label": "Juda"
 }
 ]
 }
@@ -18112,7 +18095,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Dinaite",
+"type": "person",
+"confidence": 0.5663,
+"match_method": "scored",
+"preferred_label": "Dinaite"
+}
+]
 }
 },
 {
@@ -19427,15 +19418,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "juge"
-}
-]
+"acai": []
 }
 },
 {
@@ -20689,13 +20672,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jews"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.571,
-"match_method": "scored",
-"preferred_label": "Jérusalem"
 }
 ]
 }

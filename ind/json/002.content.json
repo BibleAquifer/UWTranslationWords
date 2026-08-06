@@ -65,7 +65,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6279,
+"match_method": "scored",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -3163,7 +3171,7 @@
 {
 "id": "keyterm:Teaching",
 "type": "keyterm",
-"confidence": 0.8824,
+"confidence": 0.9505,
 "match_method": "scored",
 "preferred_label": "adat istiadat"
 }
@@ -4359,13 +4367,6 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Ahia"
-},
-{
-"id": "person:Ahiah",
-"type": "person",
-"confidence": 0.6571,
-"match_method": "scored",
 "preferred_label": "Ahia"
 }
 ]
@@ -15747,7 +15748,7 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"confidence": 0.7577,
+"confidence": 0.8635,
 "match_method": "scored",
 "preferred_label": "Amalek"
 }
@@ -16592,7 +16593,7 @@
 {
 "id": "keyterm:Surely",
 "type": "keyterm",
-"confidence": 0.9076,
+"confidence": 0.7561,
 "match_method": "scored",
 "preferred_label": "amin!"
 }
@@ -16785,6 +16786,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Amon"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.8522,
+"match_method": "scored",
+"preferred_label": "Ammonites"
 }
 ]
 }
@@ -18798,20 +18806,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Wine"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -19572,7 +19566,7 @@
 {
 "id": "group:Antioch",
 "type": "group",
-"confidence": 0.6174,
+"confidence": 0.6235,
 "match_method": "scored",
 "preferred_label": "Antiochians"
 }
@@ -20383,14 +20377,7 @@
 {
 "id": "keyterm:Favor",
 "type": "keyterm",
-"confidence": 0.9515,
-"match_method": "scored",
-"preferred_label": "kebaikan"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.6121,
+"confidence": 0.682,
 "match_method": "scored",
 "preferred_label": "kebaikan"
 }
@@ -20616,6 +20603,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Araba-Yordan"
+},
+{
+"id": "place:Beth-arabah",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Bet-Araba"
 }
 ]
 }
@@ -20717,16 +20711,9 @@
 {
 "id": "group:Arabia",
 "type": "group",
-"confidence": 0.6255,
+"confidence": 0.6801,
 "match_method": "scored",
 "preferred_label": "Arabians"
-},
-{
-"id": "place:Arabia.2",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Arabia Petraea"
 }
 ]
 }
@@ -21872,7 +21859,7 @@
 {
 "id": "group:Asher",
 "type": "group",
-"confidence": 0.61,
+"confidence": 0.7591,
 "match_method": "scored",
 "preferred_label": "Asyer"
 }
@@ -22080,7 +22067,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7,
+"confidence": 0.7329,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -22807,11 +22794,11 @@
 "preferred_label": "Ahazia"
 },
 {
-"id": "person:Hananiah.15",
+"id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.7333,
+"confidence": 0.556,
 "match_method": "scored",
-"preferred_label": "Hananya"
+"preferred_label": "Amarya"
 }
 ]
 }

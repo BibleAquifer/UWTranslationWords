@@ -457,7 +457,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Donkey"
+}
+]
 }
 },
 {
@@ -636,7 +644,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomorrah"
+}
+]
 }
 },
 {
@@ -772,7 +788,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Vulture",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vulture"
+}
+]
 }
 },
 {
@@ -1425,7 +1449,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Golgotha",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Golgotha"
+}
+]
 }
 },
 {
@@ -1551,7 +1583,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatia"
+}
+]
 }
 },
 {
@@ -1627,7 +1667,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Geshur"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 0.683,
+"match_method": "scored",
+"preferred_label": "Geshurites"
+}
+]
 }
 },
 {
@@ -2071,7 +2126,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaza"
+}
+]
 }
 },
 {
@@ -2161,7 +2224,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gath"
+}
+]
 }
 },
 {
@@ -2291,7 +2362,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+}
+]
 }
 },
 {
@@ -2407,7 +2493,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabriel"
+}
+]
 }
 },
 {
@@ -3068,7 +3162,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cattle"
+}
+]
 }
 },
 {
@@ -3581,7 +3683,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
+}
+]
 }
 },
 {
@@ -3897,7 +4007,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sea of Galilee"
+}
+]
 }
 },
 {
@@ -3998,7 +4116,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gideon"
+}
+]
 }
 },
 {
@@ -4073,7 +4199,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Gibeah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeah"
+},
+{
+"id": "place:Gibeah.2",
+"type": "place",
+"confidence": 0.9805,
+"match_method": "scored",
+"preferred_label": "Gibeah"
+}
+]
 }
 },
 {
@@ -4148,7 +4296,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeon"
+}
+]
 }
 },
 {
@@ -4241,7 +4397,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Girgashites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Girgashites"
+}
+]
 }
 },
 {
@@ -4329,7 +4493,36 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
+},
+{
+"id": "place:Gilgal.2",
+"type": "place",
+"confidence": 0.9636,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Gilgal.3",
+"type": "place",
+"confidence": 0.6242,
+"match_method": "scored",
+"preferred_label": "Gilgal"
+}
+]
 }
 },
 {
@@ -4454,7 +4647,36 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+}
+]
 }
 },
 {
@@ -4639,7 +4861,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Gethsemane",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gethsemane"
+}
+]
 }
 },
 {
@@ -4751,7 +4981,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gerar"
+}
+]
 }
 },
 {
@@ -4807,7 +5045,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Goliath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goliath"
+}
+]
 }
 },
 {
@@ -4961,7 +5207,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
+}
+]
 }
 },
 {
@@ -6723,7 +6984,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greeks"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
+"preferred_label": "Javan"
+}
+]
 }
 },
 {
@@ -6837,7 +7113,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greece"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.6822,
+"match_method": "scored",
+"preferred_label": "Javan"
+}
+]
 }
 }
 ]

@@ -734,7 +734,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.9724,
+"confidence": 0.9925,
 "match_method": "scored",
 "preferred_label": "sabat"
 }
@@ -1086,15 +1086,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "group:FalseWitnesses",
-"type": "group",
-"confidence": 0.5685,
-"match_method": "scored",
-"preferred_label": "False Witnesses"
-}
-]
+"acai": []
 }
 },
 {
@@ -1273,15 +1265,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Wrong",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "bersalah"
-}
-]
+"acai": []
 }
 },
 {
@@ -2227,13 +2211,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Samaria"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.7286,
-"match_method": "scored",
-"preferred_label": "Samaritans"
 }
 ]
 }
@@ -2557,13 +2534,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Trumpet"
-},
-{
-"id": "realia:RamsHorn",
-"type": "realia",
-"confidence": 0.6625,
-"match_method": "scored",
-"preferred_label": "Rams Horn"
 }
 ]
 }
@@ -3601,7 +3571,7 @@
 {
 "id": "place:Sharon.2",
 "type": "place",
-"confidence": 0.8,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "Sharon Plain"
 }
@@ -3708,14 +3678,14 @@
 {
 "id": "person:Shaul",
 "type": "person",
-"confidence": 0.6615,
+"confidence": 0.6026,
 "match_method": "scored",
 "preferred_label": "Saul"
 },
 {
 "id": "person:Shaul.2",
 "type": "person",
-"confidence": 0.612,
+"confidence": 0.5531,
 "match_method": "scored",
 "preferred_label": "Saul"
 }
@@ -4361,22 +4331,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Zealous.3",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "cemburu"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.8454,
-"match_method": "embedding",
-"preferred_label": "cemburu"
-}
-]
+"acai": []
 }
 },
 {
@@ -4854,6 +4809,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Flute"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.552,
+"match_method": "scored",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -9681,15 +9643,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "deity:Demons",
-"type": "deity",
-"confidence": 0.7977,
-"match_method": "scored",
-"preferred_label": "Demons"
-}
-]
+"acai": []
 }
 },
 {
@@ -10905,21 +10859,21 @@
 {
 "id": "place:Sheba.2",
 "type": "place",
-"confidence": 0.6727,
+"confidence": 0.7053,
 "match_method": "scored",
 "preferred_label": "Sheba"
 },
 {
-"id": "person:Seba",
-"type": "person",
-"confidence": 0.6232,
+"id": "place:Seba",
+"type": "place",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Seba"
 },
 {
-"id": "place:Seba",
-"type": "place",
-"confidence": 0.5869,
+"id": "person:Seba",
+"type": "person",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Seba"
 }
@@ -11274,7 +11228,7 @@
 {
 "id": "group:Sidon",
 "type": "group",
-"confidence": 0.6333,
+"confidence": 0.6361,
 "match_method": "scored",
 "preferred_label": "Sidonians"
 }
@@ -11381,15 +11335,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Magic",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "sihir"
-}
-]
+"acai": []
 }
 },
 {
@@ -11606,7 +11552,7 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.62,
+"confidence": 0.608,
 "match_method": "scored",
 "preferred_label": "More"
 }
@@ -12248,13 +12194,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Obed-Edom"
-},
-{
-"id": "group:Shimei",
-"type": "group",
-"confidence": 0.6667,
-"match_method": "scored",
-"preferred_label": "Shimeites"
 }
 ]
 }
@@ -12429,7 +12368,7 @@
 {
 "id": "group:Simeon",
 "type": "group",
-"confidence": 0.6222,
+"confidence": 0.7565,
 "match_method": "scored",
 "preferred_label": "Simeon"
 }
@@ -12518,7 +12457,7 @@
 {
 "id": "group:Zealot",
 "type": "group",
-"confidence": 0.572,
+"confidence": 0.692,
 "match_method": "scored",
 "preferred_label": "Zelot"
 }
@@ -12770,13 +12709,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sinai"
-},
-{
-"id": "place:SinaiWilderness",
-"type": "place",
-"confidence": 0.64,
-"match_method": "scored",
-"preferred_label": "gurun"
 }
 ]
 }
@@ -13325,13 +13257,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Edom"
-},
-{
-"id": "group:Syria",
-"type": "group",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Syrians"
 }
 ]
 }
@@ -18243,22 +18168,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "sorga"
-},
-{
-"id": "keyterm:Heavenly",
-"type": "keyterm",
-"confidence": 0.5614,
-"match_method": "scored",
-"preferred_label": "sorgawi"
-}
-]
+"acai": []
 }
 }
 ]

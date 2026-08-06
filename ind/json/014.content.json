@@ -125,6 +125,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Maakha"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Maacathites"
 }
 ]
 }
@@ -2444,11 +2451,11 @@
 ],
 "acai": [
 {
-"id": "group:Angels",
-"type": "group",
-"confidence": 0.5616,
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.7078,
 "match_method": "scored",
-"preferred_label": "Angels"
+"preferred_label": "An Angel"
 }
 ]
 }
@@ -3550,6 +3557,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Manasye"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
 "preferred_label": "Manasye"
 }
 ]
@@ -4809,7 +4823,7 @@
 {
 "id": "keyterm:Psalm",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8929,
 "match_method": "embedding",
 "preferred_label": "mazmur"
 }
@@ -4910,16 +4924,9 @@
 "preferred_label": "Medes"
 },
 {
-"id": "person:Medan",
-"type": "person",
-"confidence": 0.75,
-"match_method": "scored",
-"preferred_label": "Media"
-},
-{
 "id": "place:Media",
 "type": "place",
-"confidence": 0.6505,
+"confidence": 0.566,
 "match_method": "scored",
 "preferred_label": "Media"
 }
@@ -6239,15 +6246,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.9429,
-"match_method": "scored",
-"preferred_label": "mengampuni"
-}
-]
+"acai": []
 }
 },
 {
@@ -7318,22 +7317,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.6948,
-"match_method": "scored",
-"preferred_label": "berakal budi"
-},
-{
-"id": "keyterm:Understanding",
-"type": "keyterm",
-"confidence": 0.6294,
-"match_method": "scored",
-"preferred_label": "pengertian"
-}
-]
+"acai": []
 }
 },
 {
@@ -7640,15 +7624,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:GrantJustice",
-"type": "keyterm",
-"confidence": 0.7655,
-"match_method": "scored",
-"preferred_label": "menuntut pembalasan"
-}
-]
+"acai": []
 }
 },
 {
@@ -8137,7 +8113,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.7418,
+"match_method": "scored",
+"preferred_label": "baptisan"
+}
+]
 }
 },
 {
@@ -8539,22 +8523,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Deliver",
-"type": "keyterm",
-"confidence": 0.6409,
-"match_method": "scored",
-"preferred_label": "menyelamatkan"
-},
-{
-"id": "keyterm:Rescue",
-"type": "keyterm",
-"confidence": 0.5867,
-"match_method": "scored",
-"preferred_label": "melepaskan"
-}
-]
+"acai": []
 }
 },
 {
@@ -9114,15 +9083,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "memberontak"
-}
-]
+"acai": []
 }
 },
 {
@@ -10842,15 +10803,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.6267,
-"match_method": "scored",
-"preferred_label": "kerajaan"
-}
-]
+"acai": []
 }
 },
 {
@@ -12119,7 +12072,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.596,
+"match_method": "scored",
+"preferred_label": "mengusir"
+}
+]
 }
 },
 {
@@ -15978,15 +15939,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "menilai"
-}
-]
+"acai": []
 }
 },
 {
@@ -16339,15 +16292,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stain",
-"type": "keyterm",
-"confidence": 0.6316,
-"match_method": "scored",
-"preferred_label": "membuat noda"
-}
-]
+"acai": []
 }
 },
 {
@@ -18614,7 +18559,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.7459,
+"match_method": "scored",
+"preferred_label": "mencobai"
+}
+]
 }
 },
 {
@@ -18728,7 +18681,7 @@
 {
 "id": "keyterm:Reconcile",
 "type": "keyterm",
-"confidence": 0.8667,
+"confidence": 0.6678,
 "match_method": "scored",
 "preferred_label": "memperdamaikan"
 }
@@ -19021,22 +18974,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Declare",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "memberi kesaksian yang sungguh, sungguh"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.8086,
-"match_method": "embedding",
-"preferred_label": "memberitakan"
-}
-]
+"acai": []
 }
 },
 {
@@ -19509,15 +19447,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "menasihati"
-}
-]
+"acai": []
 }
 },
 {
@@ -19812,15 +19742,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"confidence": 0.7217,
-"match_method": "scored",
-"preferred_label": "membayar lunas"
-}
-]
+"acai": []
 }
 },
 {
@@ -24715,7 +24637,7 @@
 {
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
-"confidence": 0.8375,
+"confidence": 0.6745,
 "match_method": "scored",
 "preferred_label": "menghujat"
 }
@@ -25380,15 +25302,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "realia:Chain",
-"type": "realia",
-"confidence": 0.6092,
-"match_method": "scored",
-"preferred_label": "Chain"
-}
-]
+"acai": []
 }
 },
 {
@@ -26445,7 +26359,7 @@
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
-"confidence": 0.6894,
+"confidence": 0.5532,
 "match_method": "scored",
 "preferred_label": "diurapi"
 }
@@ -28150,15 +28064,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Reject",
-"type": "keyterm",
-"confidence": 0.6878,
-"match_method": "scored",
-"preferred_label": "membuang"
-}
-]
+"acai": []
 }
 },
 {
@@ -28993,15 +28899,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "menugaskan"
-}
-]
+"acai": []
 }
 },
 {
@@ -29333,7 +29231,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.7758,
+"match_method": "scored",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
@@ -30352,7 +30258,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.5862,
+"match_method": "scored",
+"preferred_label": "keselamatan"
+}
+]
 }
 },
 {
@@ -30582,7 +30496,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.6037,
+"match_method": "scored",
+"preferred_label": "dikhususkan"
+}
+]
 }
 },
 {
@@ -32482,13 +32404,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Aram-Mesopotamia"
-},
-{
-"id": "place:Aram-naharaim",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "orang"
 }
 ]
 }
@@ -33713,27 +33628,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.8943,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Temple Altar"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Tabernacle Altar"
 }
 ]
 }
@@ -33784,15 +33678,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.565,
-"match_method": "scored",
-"preferred_label": "Altar"
-}
-]
+"acai": []
 }
 },
 {
@@ -33956,13 +33842,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Midian"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Midianites"
 }
 ]
 }
@@ -34609,7 +34488,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"confidence": 0.9147,
+"match_method": "embedding",
+"preferred_label": "minggu"
+}
+]
 }
 },
 {
@@ -34920,6 +34807,34 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mizpa"
+},
+{
+"id": "place:Mizpah.2",
+"type": "place",
+"confidence": 0.6552,
+"match_method": "scored",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Mizpa"
+},
+{
+"id": "place:Mizpeh.2",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+},
+{
+"id": "place:Mizpeh.3",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
 }
 ]
 }
@@ -35625,15 +35540,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Hypocrisy",
-"type": "keyterm",
-"confidence": 0.8083,
-"match_method": "embedding",
-"preferred_label": "kemunafikan"
-}
-]
+"acai": []
 }
 },
 {
@@ -37203,15 +37110,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "person:GenericDisciple",
-"type": "person",
-"confidence": 0.5521,
-"match_method": "scored",
-"preferred_label": "A Disciple"
-}
-]
+"acai": []
 }
 },
 {

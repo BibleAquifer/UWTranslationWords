@@ -1690,7 +1690,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7,
+"confidence": 0.7329,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -2447,7 +2447,7 @@
 {
 "id": "keyterm:Surely",
 "type": "keyterm",
-"confidence": 0.9076,
+"confidence": 0.7561,
 "match_method": "scored",
 "preferred_label": "Surely!"
 }
@@ -6126,7 +6126,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.661,
+"confidence": 0.5845,
 "match_method": "scored",
 "preferred_label": "ٱلرَّبِّ"
 }
@@ -6187,15 +6187,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "أورشَلِيمَ"
-}
-]
+"acai": []
 }
 },
 {
@@ -6807,7 +6799,7 @@
 {
 "id": "realia:Kiln",
 "type": "realia",
-"confidence": 0.9667,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Kiln"
 }
@@ -9344,13 +9336,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "أَخِيَّا"
-},
-{
-"id": "person:Ahiah",
-"type": "person",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Ahiah"
 }
 ]
 }
@@ -9621,13 +9606,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "أَدومَ"
-},
-{
-"id": "group:Edom",
-"type": "group",
-"confidence": 0.6381,
-"match_method": "scored",
-"preferred_label": "Edomites"
 }
 ]
 }
@@ -11015,6 +10993,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "أَرِيحَا"
+},
+{
+"id": "place:JerichoValley",
+"type": "place",
+"confidence": 0.6089,
+"match_method": "scored",
+"preferred_label": "ٱلدَّائِرَةَ"
 }
 ]
 }
@@ -11484,7 +11469,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"confidence": 0.9147,
+"match_method": "embedding",
+"preferred_label": "Week"
+}
+]
 }
 },
 {
@@ -14621,11 +14614,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.6187,
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.568,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "ٱلرَّبِّ"
 }
 ]
 }
@@ -14905,7 +14898,7 @@
 {
 "id": "group:Ishmael",
 "type": "group",
-"confidence": 0.6571,
+"confidence": 0.5695,
 "match_method": "scored",
 "preferred_label": "Ishmaelites"
 }
@@ -15728,7 +15721,7 @@
 {
 "id": "group:Asher",
 "type": "group",
-"confidence": 0.61,
+"confidence": 0.7591,
 "match_method": "scored",
 "preferred_label": "أَشِيرَ"
 }
@@ -16862,7 +16855,7 @@
 {
 "id": "group:Ephrathah",
 "type": "group",
-"confidence": 0.68,
+"confidence": 0.5605,
 "match_method": "scored",
 "preferred_label": "Ephrathites"
 }
@@ -17037,9 +17030,9 @@
 "preferred_label": "أَفْرَايِمَ"
 },
 {
-"id": "place:EphraimGate",
-"type": "place",
-"confidence": 0.6381,
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.785,
 "match_method": "scored",
 "preferred_label": "أَفْرَايِمَ"
 }
@@ -17219,7 +17212,7 @@
 {
 "id": "group:Ephesus",
 "type": "group",
-"confidence": 0.6727,
+"confidence": 0.554,
 "match_method": "scored",
 "preferred_label": "Ephesians"
 }
@@ -18294,22 +18287,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.6948,
-"match_method": "scored",
-"preferred_label": "Perceive"
-},
-{
-"id": "keyterm:Understanding",
-"type": "keyterm",
-"confidence": 0.6294,
-"match_method": "scored",
-"preferred_label": "Understanding"
-}
-]
+"acai": []
 }
 },
 {
@@ -23786,8 +23764,8 @@
 {
 "id": "keyterm:Divine",
 "type": "keyterm",
-"confidence": 0.8286,
-"match_method": "scored",
+"confidence": 0.8859,
+"match_method": "embedding",
 "preferred_label": "Divine"
 }
 ]
@@ -24782,13 +24760,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "تَرْتَانَ"
-},
-{
-"id": "keyterm:Leader",
-"type": "keyterm",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "Leader"
 }
 ]
 }
@@ -25060,15 +25031,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.757,
-"match_method": "scored",
-"preferred_label": "Kindness"
-}
-]
+"acai": []
 }
 },
 {
@@ -25898,7 +25861,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.5746,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -26217,15 +26188,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "Interpret"
-}
-]
+"acai": []
 }
 },
 {
@@ -27312,7 +27275,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.7385,
+"confidence": 0.7701,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -28750,7 +28713,7 @@
 {
 "id": "group:Antioch",
 "type": "group",
-"confidence": 0.6174,
+"confidence": 0.6235,
 "match_method": "scored",
 "preferred_label": "Antiochians"
 }
@@ -30703,6 +30666,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "أورشَلِيمَ"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -32570,15 +32540,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.8872,
-"match_method": "embedding",
-"preferred_label": "Trust"
-}
-]
+"acai": []
 }
 },
 {
@@ -33321,19 +33283,26 @@
 {
 "id": "place:Ramah.2",
 "type": "place",
-"confidence": 0.6654,
+"confidence": 0.763,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
-"id": "place:Ramah.7",
+"id": "place:Ramah.3",
 "type": "place",
-"confidence": 0.6,
+"confidence": 0.6148,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
 "id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
@@ -33414,20 +33383,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Fir"
-},
-{
-"id": "flora:Cypress",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Cypress"
-},
-{
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -33531,6 +33486,13 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "ٱلْعَرَبَةِ"
+},
+{
+"id": "place:Beth-arabah",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
 "preferred_label": "ٱلْعَرَبَةِ"
 }
 ]
@@ -33694,20 +33656,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reed"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.5949,
-"match_method": "scored",
-"preferred_label": "Grass"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"confidence": 0.5727,
-"match_method": "scored",
-"preferred_label": "Papyrus"
 }
 ]
 }
@@ -34000,7 +33948,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.8385,
+"confidence": 0.7307,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -34102,7 +34050,7 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.8161,
+"confidence": 0.7105,
 "match_method": "scored",
 "preferred_label": "Wine"
 }
@@ -34227,6 +34175,34 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "فِي"
+},
+{
+"id": "place:Mizpah.2",
+"type": "place",
+"confidence": 0.6552,
+"match_method": "scored",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "ٱلْمِصْفَاةِ"
+},
+{
+"id": "place:Mizpeh.2",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+},
+{
+"id": "place:Mizpeh.3",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
 }
 ]
 }

@@ -1909,6 +1909,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jacobo"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Judas"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
+"preferred_label": "Jacobo"
 }
 ]
 }
@@ -2127,6 +2141,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jacobo"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6211,
+"match_method": "scored",
+"preferred_label": "Jacobo"
 }
 ]
 }
@@ -2290,6 +2311,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jebusites"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5852,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -2585,13 +2613,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Thartán"
-},
-{
-"id": "keyterm:Leader",
-"type": "keyterm",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "poderoso"
 }
 ]
 }
@@ -8190,6 +8211,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jericó"
+},
+{
+"id": "place:JerichoValley",
+"type": "place",
+"confidence": 0.6089,
+"match_method": "scored",
+"preferred_label": "campiña"
 }
 ]
 }
@@ -9847,6 +9875,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jerusalem"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -15832,50 +15867,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "person:Jezreel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jezreel"
-},
-{
-"id": "person:Jezreel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jezreel"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jezreel"
-},
-{
-"id": "place:Jezreel.3",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jezreel"
-},
-{
-"id": "place:Jezreel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jezreel"
-},
-{
-"id": "group:Jezreel",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jezreel"
-}
-]
+"acai": []
 }
 },
 {
@@ -16013,7 +16005,7 @@
 {
 "id": "realia:Chariot",
 "type": "realia",
-"confidence": 0.6276,
+"confidence": 0.6793,
 "match_method": "scored",
 "preferred_label": "Chariot"
 }
@@ -17481,6 +17473,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jonadab"
+},
+{
+"id": "person:Johanan.9",
+"type": "person",
+"confidence": 0.6045,
+"match_method": "scored",
+"preferred_label": "Johanán"
 }
 ]
 }
@@ -21202,7 +21201,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.6056,
+"confidence": 0.7507,
 "match_method": "scored",
 "preferred_label": "Judá"
 }
@@ -21334,6 +21333,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Judas"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6102,
+"match_method": "scored",
+"preferred_label": "Jacobo"
 }
 ]
 }
@@ -22233,20 +22239,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Judíos"
-},
-{
-"id": "group:Judea",
-"type": "group",
-"confidence": 0.5681,
-"match_method": "scored",
-"preferred_label": "judío"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.5596,
-"match_method": "scored",
-"preferred_label": "Judá"
 }
 ]
 }
@@ -23560,13 +23552,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jews"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.571,
-"match_method": "scored",
-"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -24941,15 +24926,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "juez"
-}
-]
+"acai": []
 }
 },
 {
@@ -25259,20 +25236,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reed"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.5949,
-"match_method": "scored",
-"preferred_label": "Grass"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"confidence": 0.5727,
-"match_method": "scored",
-"preferred_label": "Papyrus"
 }
 ]
 }
@@ -25805,15 +25768,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Oath",
-"type": "keyterm",
-"confidence": 0.7037,
-"match_method": "scored",
-"preferred_label": "juramento"
-}
-]
+"acai": []
 }
 },
 {

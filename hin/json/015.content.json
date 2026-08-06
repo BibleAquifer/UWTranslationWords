@@ -1442,15 +1442,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.9514,
-"match_method": "embedding",
-"preferred_label": "Perceive"
-}
-]
+"acai": []
 }
 },
 {
@@ -2099,20 +2091,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "गलील"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6747,
-"match_method": "scored",
-"preferred_label": "यहूदिया"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "गलीली"
 }
 ]
 }
@@ -2438,13 +2416,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sea of Galilee"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.6157,
-"match_method": "scored",
-"preferred_label": "गलील"
 }
 ]
 }
@@ -3903,15 +3874,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Witness.2",
-"type": "keyterm",
-"confidence": 0.6153,
-"match_method": "scored",
-"preferred_label": "Testimony"
-}
-]
+"acai": []
 }
 },
 {
@@ -4023,7 +3986,7 @@
 {
 "id": "group:Geshur",
 "type": "group",
-"confidence": 0.7143,
+"confidence": 0.683,
 "match_method": "scored",
 "preferred_label": "Geshurites"
 }
@@ -5138,7 +5101,7 @@
 {
 "id": "place:Gibeah.2",
 "type": "place",
-"confidence": 0.7833,
+"confidence": 0.9805,
 "match_method": "scored",
 "preferred_label": "Gibeah"
 }
@@ -5218,13 +5181,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "गिबोन"
-},
-{
-"id": "group:Gibeon",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "गिबोनी"
 }
 ]
 }
@@ -5407,16 +5363,16 @@
 "preferred_label": "गलील"
 },
 {
-"id": "place:Gilgal.3",
+"id": "place:Gilgal.2",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.9636,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 },
 {
-"id": "place:Gilgal.2",
+"id": "place:Gilgal.3",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.6242,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 }
@@ -5677,7 +5633,7 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.7714,
+"confidence": 0.8032,
 "match_method": "scored",
 "preferred_label": "Tower"
 }
@@ -6738,7 +6694,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.5983,
+"match_method": "scored",
+"preferred_label": "Dung Gate"
+}
+]
 }
 },
 {

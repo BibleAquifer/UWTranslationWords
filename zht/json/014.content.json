@@ -364,13 +364,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Persia"
-},
-{
-"id": "group:Persia",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "Persians"
 }
 ]
 }
@@ -876,16 +869,16 @@
 "preferred_label": "Beth-shemesh"
 },
 {
-"id": "place:Beth-shemesh.2",
+"id": "place:Beth-shemesh.3",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.65,
 "match_method": "scored",
 "preferred_label": "Beth-shemesh"
 },
 {
-"id": "place:Beth-shemesh.3",
+"id": "place:Beth-shemesh.2",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.625,
 "match_method": "scored",
 "preferred_label": "Beth-shemesh"
 }
@@ -1037,22 +1030,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "place:Bethel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethel"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethel"
-}
-]
+"acai": []
 }
 }
 ]

@@ -655,7 +655,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Damascus"
+}
+]
 }
 },
 {
@@ -1173,7 +1181,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.6583,
+"match_method": "scored",
+"preferred_label": "Mercy"
+}
+]
 }
 },
 {
@@ -1358,7 +1374,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:CoverLid",
+"type": "realia",
+"confidence": 0.7785,
+"match_method": "scored",
+"preferred_label": "Cover Lid"
+}
+]
 }
 },
 {
@@ -1421,7 +1445,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:GiantCroccodile",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leviathan"
+}
+]
 }
 },
 {
@@ -1695,7 +1727,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delilah"
+}
+]
 }
 },
 {
@@ -2288,7 +2328,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.7307,
+"match_method": "scored",
+"preferred_label": "Offering"
+}
+]
 }
 },
 {
@@ -2789,7 +2837,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "David"
+}
+]
 }
 },
 {
@@ -2902,7 +2965,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "David"
+}
+]
 }
 },
 {
@@ -2983,7 +3054,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "City of David"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.652,
+"match_method": "scored",
+"preferred_label": "David"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5644,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
+}
+]
 }
 },
 {
@@ -3090,7 +3183,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pomegranate"
+}
+]
 }
 },
 {
@@ -3351,7 +3452,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "group:Dan",
+"type": "group",
+"confidence": 0.922,
+"match_method": "scored",
+"preferred_label": "Tribe of Dan"
+}
+]
 }
 },
 {
@@ -3523,7 +3646,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chileab"
+}
+]
 }
 },
 {
@@ -3678,7 +3823,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+}
+]
 }
 },
 {
@@ -8347,7 +8514,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+},
+{
+"id": "realia:Lampstand",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+}
+]
 }
 },
 {
@@ -8620,7 +8802,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Lamp",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lamp"
+}
+]
 }
 },
 {
@@ -11796,7 +11986,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fir"
+}
+]
 }
 },
 {
@@ -13026,7 +13224,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.7078,
+"match_method": "scored",
+"preferred_label": "An Angel"
+}
+]
 }
 },
 {
@@ -13124,7 +13330,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -13481,7 +13695,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+}
+]
 }
 },
 {
@@ -14365,7 +14587,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.5746,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -14676,7 +14906,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6618,
+"match_method": "scored",
+"preferred_label": "Offering"
+}
+]
 }
 },
 {
@@ -15327,7 +15565,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.912,
+"match_method": "scored",
+"preferred_label": "Parable"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "Proverb"
+}
+]
 }
 },
 {
@@ -15462,7 +15715,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
+}
+]
 }
 },
 {
@@ -15741,7 +16002,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.946,
+"match_method": "scored",
+"preferred_label": "Vine"
+}
+]
 }
 },
 {
@@ -16236,7 +16505,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wine"
+}
+]
 }
 },
 {

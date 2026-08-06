@@ -2470,22 +2470,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"confidence": 0.6895,
-"match_method": "scored",
-"preferred_label": "Good"
-},
-{
-"id": "keyterm:Honest",
-"type": "keyterm",
-"confidence": 0.6097,
-"match_method": "scored",
-"preferred_label": "Honest"
-}
-]
+"acai": []
 }
 },
 {
@@ -5855,7 +5840,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.7758,
+"match_method": "scored",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
@@ -6954,7 +6947,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.8899,
+"confidence": 0.5966,
 "match_method": "scored",
 "preferred_label": "Pray"
 }
@@ -7556,13 +7549,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "صورَ"
-},
-{
-"id": "group:Tyre",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "Tyrians"
 }
 ]
 }
@@ -7853,7 +7839,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
@@ -8159,15 +8153,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fast",
-"type": "keyterm",
-"confidence": 0.85,
-"match_method": "scored",
-"preferred_label": "Abstain from Food"
-}
-]
+"acai": []
 }
 },
 {
@@ -8422,7 +8408,7 @@
 {
 "id": "group:Sidon",
 "type": "group",
-"confidence": 0.6333,
+"confidence": 0.6361,
 "match_method": "scored",
 "preferred_label": "Sidonians"
 }

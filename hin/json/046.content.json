@@ -1441,7 +1441,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5682,
+"confidence": 0.6651,
 "match_method": "scored",
 "preferred_label": "Holy"
 }
@@ -1973,7 +1973,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9628,
+"confidence": 0.9393,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -2193,13 +2193,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ark of the Covenant"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"confidence": 0.9385,
-"match_method": "scored",
-"preferred_label": "Covenant Box"
 }
 ]
 }
@@ -2471,15 +2464,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.757,
-"match_method": "scored",
-"preferred_label": "Kindness"
-}
-]
+"acai": []
 }
 },
 {
@@ -2928,7 +2913,7 @@
 {
 "id": "keyterm:Decree",
 "type": "keyterm",
-"confidence": 0.8054,
+"confidence": 0.7939,
 "match_method": "scored",
 "preferred_label": "Decree"
 }
@@ -4232,7 +4217,7 @@
 {
 "id": "keyterm:Conscience",
 "type": "keyterm",
-"confidence": 0.9733,
+"confidence": 0.9412,
 "match_method": "scored",
 "preferred_label": "Conscience"
 }
@@ -5510,15 +5495,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.8872,
-"match_method": "embedding",
-"preferred_label": "Trust"
-}
-]
+"acai": []
 }
 },
 {
@@ -5809,15 +5786,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.6783,
-"match_method": "scored",
-"preferred_label": "Trust"
-}
-]
+"acai": []
 }
 },
 {
@@ -7365,15 +7334,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.9228,
-"match_method": "scored",
-"preferred_label": "Believe"
-}
-]
+"acai": []
 }
 },
 {
@@ -8131,6 +8092,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Lute"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 0.704,
+"match_method": "scored",
+"preferred_label": "Lyre"
 }
 ]
 }
@@ -8701,27 +8669,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.8943,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Temple Altar"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Tabernacle Altar"
 }
 ]
 }
@@ -8874,7 +8821,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6381,
+"confidence": 0.675,
 "match_method": "scored",
 "preferred_label": "Majesty"
 }
@@ -9042,22 +8989,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "person:FirstProstitute",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Prostitute"
-},
-{
-"id": "person:SecondProstitute",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Prostitute"
-}
-]
+"acai": []
 }
 }
 ]

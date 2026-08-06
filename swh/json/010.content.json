@@ -238,6 +238,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Palace"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7124,
+"match_method": "scored",
+"preferred_label": "House"
 }
 ]
 }
@@ -1568,15 +1575,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.8872,
-"match_method": "embedding",
-"preferred_label": "Trust"
-}
-]
+"acai": []
 }
 },
 {
@@ -1867,15 +1866,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.6783,
-"match_method": "scored",
-"preferred_label": "Trust"
-}
-]
+"acai": []
 }
 },
 {
@@ -3253,7 +3244,7 @@
 {
 "id": "group:Issachar",
 "type": "group",
-"confidence": 0.5567,
+"confidence": 0.8889,
 "match_method": "scored",
 "preferred_label": "Isakari"
 }
@@ -4439,7 +4430,7 @@
 {
 "id": "group:Ishmael",
 "type": "group",
-"confidence": 0.6571,
+"confidence": 0.5695,
 "match_method": "scored",
 "preferred_label": "Ishmaelites"
 }
@@ -6439,11 +6430,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.6187,
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.568,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "BWANA"
 }
 ]
 }

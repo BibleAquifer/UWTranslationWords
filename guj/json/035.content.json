@@ -534,7 +534,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Promise",
+"type": "keyterm",
+"confidence": 0.7907,
+"match_method": "scored",
+"preferred_label": "Promise"
+}
+]
 }
 },
 {
@@ -1752,7 +1760,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
@@ -2096,7 +2112,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.7758,
+"match_method": "scored",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
@@ -3483,7 +3507,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wolf"
+}
+]
 }
 },
 {
@@ -4686,7 +4718,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Census",
+"type": "keyterm",
+"confidence": 0.8641,
+"match_method": "embedding",
+"preferred_label": "Census"
+}
+]
 }
 },
 {
@@ -4934,7 +4974,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Ship",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ship"
+}
+]
 }
 },
 {
@@ -5236,7 +5284,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.552,
+"match_method": "scored",
+"preferred_label": "Lute"
+}
+]
 }
 },
 {
@@ -6290,7 +6353,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Vashti",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vashti"
+}
+]
 }
 },
 {
@@ -7367,7 +7438,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.7701,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -7718,7 +7797,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.7939,
+"match_method": "scored",
+"preferred_label": "Decree"
+}
+]
 }
 },
 {
@@ -9318,7 +9405,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Sabbath",
+"type": "keyterm",
+"confidence": 0.9925,
+"match_method": "scored",
+"preferred_label": "Sabbath"
+}
+]
 }
 },
 {
@@ -13884,7 +13979,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lyre"
+}
+]
 }
 },
 {
@@ -14483,7 +14586,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.5923,
+"match_method": "scored",
+"preferred_label": "Tax Collector"
+}
+]
 }
 },
 {
@@ -14653,7 +14764,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
+}
+]
 }
 },
 {
@@ -15013,7 +15132,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 0.675,
+"match_method": "scored",
+"preferred_label": "Majesty"
+}
+]
 }
 },
 {

@@ -686,7 +686,7 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.9802,
+"confidence": 0.8522,
 "match_method": "scored",
 "preferred_label": "Good News"
 }
@@ -2974,15 +2974,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Judge"
-}
-]
+"acai": []
 }
 },
 {
@@ -3776,29 +3768,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hamu"
-},
-{
-"id": "place:Ham.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hamu"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Waamoni"
-}
-]
+"acai": []
 }
 },
 {
@@ -4091,7 +4061,7 @@
 {
 "id": "person:Hanani.4",
 "type": "person",
-"confidence": 0.5592,
+"confidence": 0.5941,
 "match_method": "scored",
 "preferred_label": "Hanani"
 }
@@ -4300,15 +4270,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fast",
-"type": "keyterm",
-"confidence": 0.85,
-"match_method": "scored",
-"preferred_label": "Abstain from Food"
-}
-]
+"acai": []
 }
 },
 {
@@ -4940,13 +4902,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hebroni"
-},
-{
-"id": "place:HebronValley",
-"type": "place",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "bonde"
 }
 ]
 }
@@ -5958,13 +5913,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -8189,15 +8137,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.8725,
-"match_method": "embedding",
-"preferred_label": "Glory"
-}
-]
+"acai": []
 }
 },
 {
@@ -8604,15 +8544,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Encourage"
-}
-]
+"acai": []
 }
 },
 {
@@ -9405,22 +9337,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mighty",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Mighty"
-},
-{
-"id": "keyterm:Mighty.2",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Mighty"
-}
-]
+"acai": []
 }
 },
 {
@@ -10911,15 +10828,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.9577,
-"match_method": "scored",
-"preferred_label": "Fear"
-}
-]
+"acai": []
 }
 },
 {
@@ -10981,15 +10890,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.8114,
-"match_method": "embedding",
-"preferred_label": "Terror"
-}
-]
+"acai": []
 }
 },
 {
@@ -11222,15 +11123,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "Terror"
-}
-]
+"acai": []
 }
 },
 {
@@ -12532,15 +12425,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.8146,
-"match_method": "scored",
-"preferred_label": "Condemn"
-}
-]
+"acai": []
 }
 },
 {
@@ -12749,15 +12634,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Compassionate",
-"type": "keyterm",
-"confidence": 0.5847,
-"match_method": "scored",
-"preferred_label": "Compassionate"
-}
-]
+"acai": []
 }
 },
 {
@@ -13237,7 +13114,7 @@
 {
 "id": "keyterm:Mercy",
 "type": "keyterm",
-"confidence": 0.8923,
+"confidence": 0.6583,
 "match_method": "scored",
 "preferred_label": "Mercy"
 }

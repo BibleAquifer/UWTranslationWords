@@ -1778,6 +1778,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Judas"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6102,
+"match_method": "scored",
+"preferred_label": "James"
 }
 ]
 }
@@ -6839,6 +6846,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Abel"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Abel-beth-maacah"
 }
 ]
 }
@@ -10001,6 +10015,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Arabah"
+},
+{
+"id": "place:Beth-arabah",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Beth-arabah"
 }
 ]
 }
@@ -10357,6 +10378,20 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "James"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Judas"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
 "preferred_label": "James"
 }
 ]
@@ -11262,7 +11297,7 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"confidence": 0.7577,
+"confidence": 0.8635,
 "match_method": "scored",
 "preferred_label": "Amalek"
 }
@@ -11475,6 +11510,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ammon"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.8522,
+"match_method": "scored",
+"preferred_label": "Ammonites"
 }
 ]
 }
@@ -11774,6 +11816,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Anak"
+},
+{
+"id": "group:Anak",
+"type": "group",
+"confidence": 0.7689,
+"match_method": "scored",
+"preferred_label": "Anakim"
 }
 ]
 }
@@ -12096,11 +12145,11 @@
 "preferred_label": "Ahaziah"
 },
 {
-"id": "person:Hananiah.15",
+"id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.7333,
+"confidence": 0.556,
 "match_method": "scored",
-"preferred_label": "Hananiah"
+"preferred_label": "Amariah"
 }
 ]
 }
@@ -12477,7 +12526,7 @@
 {
 "id": "group:Asher",
 "type": "group",
-"confidence": 0.61,
+"confidence": 0.7591,
 "match_method": "scored",
 "preferred_label": "Tribe of Asher"
 }
@@ -12833,7 +12882,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7,
+"confidence": 0.7329,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -13047,13 +13096,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ahijah"
-},
-{
-"id": "person:Ahiah",
-"type": "person",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Ahiah"
 }
 ]
 }

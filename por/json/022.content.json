@@ -1066,13 +1066,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -3831,15 +3824,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "realia:Chain",
-"type": "realia",
-"confidence": 0.6092,
-"match_method": "scored",
-"preferred_label": "Chain"
-}
-]
+"acai": []
 }
 },
 {
@@ -4028,15 +4013,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:GrantJustice",
-"type": "keyterm",
-"confidence": 0.7655,
-"match_method": "scored",
-"preferred_label": "fazer justiça"
-}
-]
+"acai": []
 }
 },
 {
@@ -4319,7 +4296,7 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 1.0,
+"confidence": 0.946,
 "match_method": "scored",
 "preferred_label": "Vine"
 }
@@ -4802,20 +4779,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Wine"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -5170,15 +5133,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Vision",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "vision"
-}
-]
+"acai": []
 }
 },
 {

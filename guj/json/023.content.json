@@ -365,7 +365,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:SacredPillar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sacred Pillar"
+}
+]
 }
 },
 {
@@ -482,7 +490,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thessalonica"
+},
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 0.6338,
+"match_method": "scored",
+"preferred_label": "Thessalonians"
+}
+]
 }
 },
 {
@@ -624,7 +647,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thomas"
+}
+]
 }
 }
 ]

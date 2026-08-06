@@ -112,7 +112,7 @@
 {
 "id": "group:Corinth",
 "type": "group",
-"confidence": 0.6615,
+"confidence": 0.5785,
 "match_method": "scored",
 "preferred_label": "Corinthians"
 }
@@ -769,6 +769,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Colossae"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.616,
+"match_method": "scored",
+"preferred_label": "Favor"
 }
 ]
 }

@@ -85,13 +85,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Gabaón"
-},
-{
-"id": "group:Gibeon",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "Gabaonita"
 }
 ]
 }
@@ -1065,20 +1058,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Galilea"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6747,
-"match_method": "scored",
-"preferred_label": "Judíos"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "galileo"
 }
 ]
 }
@@ -3049,7 +3028,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.7385,
+"confidence": 0.7701,
 "match_method": "scored",
 "preferred_label": "nación; gente"
 }
@@ -3577,16 +3556,16 @@
 "preferred_label": "Galilea"
 },
 {
-"id": "place:Gilgal.3",
+"id": "place:Gilgal.2",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.9636,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 },
 {
-"id": "place:Gilgal.2",
+"id": "place:Gilgal.3",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.6242,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 }
@@ -5205,15 +5184,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.9464,
-"match_method": "scored",
-"preferred_label": "gloria del señor"
-}
-]
+"acai": []
 }
 },
 {
@@ -7812,16 +7783,9 @@
 {
 "id": "keyterm:Favor",
 "type": "keyterm",
-"confidence": 0.9515,
+"confidence": 0.682,
 "match_method": "scored",
 "preferred_label": "favor"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.6121,
-"match_method": "scored",
-"preferred_label": "bondad"
 }
 ]
 }
@@ -8475,13 +8439,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Grain"
-},
-{
-"id": "flora:Wheat",
-"type": "flora",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Wheat"
 }
 ]
 }
@@ -8932,6 +8889,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Grecia"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.6822,
+"match_method": "scored",
+"preferred_label": "Griegos"
 }
 ]
 }
@@ -9227,7 +9191,7 @@
 {
 "id": "person:Javan",
 "type": "person",
-"confidence": 0.7441,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "Griegos"
 }
@@ -11662,7 +11626,7 @@
 {
 "id": "place:Gibeah.2",
 "type": "place",
-"confidence": 0.7833,
+"confidence": 0.9805,
 "match_method": "scored",
 "preferred_label": "Gibeah"
 }
@@ -12051,7 +12015,7 @@
 {
 "id": "group:Geshur",
 "type": "group",
-"confidence": 0.7143,
+"confidence": 0.683,
 "match_method": "scored",
 "preferred_label": "Gesureos"
 }

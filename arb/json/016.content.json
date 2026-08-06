@@ -329,18 +329,11 @@
 "preferred_label": "ٱلْقدْسِ"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.619,
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
 "match_method": "scored",
-"preferred_label": "Holy"
-},
-{
-"id": "realia:TheHolyPlace",
-"type": "realia",
-"confidence": 0.6125,
-"match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "ٱلْأَقْدَاسِ"
 }
 ]
 }
@@ -1033,15 +1026,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "person:Centurion",
-"type": "person",
-"confidence": 0.555,
-"match_method": "scored",
-"preferred_label": "A Centurion"
-}
-]
+"acai": []
 }
 },
 {
@@ -1320,11 +1305,11 @@
 "preferred_label": "قَادَشَ"
 },
 {
-"id": "place:Kishion",
+"id": "place:Kadesh-barnea",
 "type": "place",
-"confidence": 0.5833,
+"confidence": 0.64,
 "match_method": "scored",
-"preferred_label": "قِشْيونَ"
+"preferred_label": "قَادَشَ"
 }
 ]
 }
@@ -2641,15 +2626,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Judge"
-}
-]
+"acai": []
 }
 },
 {
@@ -3012,7 +2989,7 @@
 {
 "id": "keyterm:Decree",
 "type": "keyterm",
-"confidence": 0.8054,
+"confidence": 0.7939,
 "match_method": "scored",
 "preferred_label": "Decree"
 }
@@ -4914,15 +4891,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.9111,
-"match_method": "scored",
-"preferred_label": "Holy"
-}
-]
+"acai": []
 }
 },
 {
@@ -5031,7 +5000,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5682,
+"confidence": 0.6651,
 "match_method": "scored",
 "preferred_label": "Holy"
 }
@@ -5586,22 +5555,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Lot",
-"type": "keyterm",
-"confidence": 0.697,
-"match_method": "scored",
-"preferred_label": "Lot"
-},
-{
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 0.637,
-"match_method": "scored",
-"preferred_label": "Lot"
-}
-]
+"acai": []
 }
 },
 {
@@ -5846,16 +5800,9 @@
 {
 "id": "realia:RamsHorn",
 "type": "realia",
-"confidence": 0.7067,
+"confidence": 0.6072,
 "match_method": "scored",
 "preferred_label": "Rams Horn"
-},
-{
-"id": "keyterm:Horn",
-"type": "keyterm",
-"confidence": 0.6133,
-"match_method": "scored",
-"preferred_label": "Horn"
 }
 ]
 }
@@ -6346,15 +6293,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Oath",
-"type": "keyterm",
-"confidence": 0.7037,
-"match_method": "scored",
-"preferred_label": "Oath"
-}
-]
+"acai": []
 }
 },
 {
@@ -6495,6 +6434,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Palace"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7124,
+"match_method": "scored",
+"preferred_label": "House"
 }
 ]
 }
@@ -6585,13 +6531,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.7167,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -7767,22 +7706,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mighty",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Mighty"
-},
-{
-"id": "keyterm:Mighty.2",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Mighty"
-}
-]
+"acai": []
 }
 },
 {
@@ -7943,13 +7867,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "قورَحَ"
-},
-{
-"id": "group:Korah",
-"type": "group",
-"confidence": 0.6211,
-"match_method": "scored",
-"preferred_label": "Korahites"
 }
 ]
 }
@@ -8342,7 +8259,7 @@
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
-"confidence": 0.981,
+"confidence": 0.9542,
 "match_method": "scored",
 "preferred_label": "Resurrection"
 }
@@ -8949,15 +8866,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "realia:Chain",
-"type": "realia",
-"confidence": 0.6092,
-"match_method": "scored",
-"preferred_label": "Chain"
-}
-]
+"acai": []
 }
 },
 {
@@ -9535,6 +9444,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "قَيْصَرِيَّةَ"
+},
+{
+"id": "place:CaesareaPhilippi",
+"type": "place",
+"confidence": 0.5526,
+"match_method": "scored",
+"preferred_label": "قَيْصَرِيَّةِ"
 }
 ]
 }

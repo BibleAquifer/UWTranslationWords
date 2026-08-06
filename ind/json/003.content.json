@@ -158,15 +158,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Babel"
-}
-]
+"acai": []
 }
 },
 {
@@ -542,20 +534,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Babel"
-},
-{
-"id": "group:Babylon",
-"type": "group",
-"confidence": 0.6118,
-"match_method": "scored",
-"preferred_label": "Babylonians"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -845,13 +823,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ship"
-},
-{
-"id": "realia:Boat",
-"type": "realia",
-"confidence": 0.6432,
-"match_method": "scored",
-"preferred_label": "Boat"
 }
 ]
 }
@@ -1849,13 +1820,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -2082,7 +2046,7 @@
 {
 "id": "realia:Breast-piece",
 "type": "realia",
-"confidence": 0.7634,
+"confidence": 0.7566,
 "match_method": "scored",
 "preferred_label": "Breast-Piece"
 }
@@ -3160,7 +3124,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.5746,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -5950,7 +5922,7 @@
 {
 "id": "person:Judas.5",
 "type": "person",
-"confidence": 0.5589,
+"confidence": 0.5608,
 "match_method": "scored",
 "preferred_label": "Yudas"
 }
@@ -6237,6 +6209,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Basan"
+},
+{
+"id": "place:Batanea",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Batanea"
 }
 ]
 }
@@ -6385,7 +6364,7 @@
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.5959,
 "match_method": "scored",
 "preferred_label": "Foundation"
 }
@@ -6996,15 +6975,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Compassionate",
-"type": "keyterm",
-"confidence": 0.5847,
-"match_method": "scored",
-"preferred_label": "penyayang"
-}
-]
+"acai": []
 }
 },
 {
@@ -7484,7 +7455,7 @@
 {
 "id": "keyterm:Mercy",
 "type": "keyterm",
-"confidence": 0.8923,
+"confidence": 0.6583,
 "match_method": "scored",
 "preferred_label": "belas kasihan"
 }
@@ -10336,7 +10307,7 @@
 {
 "id": "group:Benjamin",
 "type": "group",
-"confidence": 0.5974,
+"confidence": 0.795,
 "match_method": "scored",
 "preferred_label": "Benyamin"
 }
@@ -11681,7 +11652,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.8899,
+"confidence": 0.5966,
 "match_method": "scored",
 "preferred_label": "berdoa"
 }
@@ -11758,7 +11729,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -13578,15 +13557,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.8791,
-"match_method": "scored",
-"preferred_label": "memberkati"
-}
-]
+"acai": []
 }
 },
 {
@@ -14471,15 +14442,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Clean",
-"type": "keyterm",
-"confidence": 0.6495,
-"match_method": "scored",
-"preferred_label": "suci"
-}
-]
+"acai": []
 }
 },
 {
@@ -14981,22 +14944,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "menyembah"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "sembah"
-}
-]
+"acai": []
 }
 },
 {
@@ -15187,15 +15135,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.8565,
-"match_method": "embedding",
-"preferred_label": "meminta"
-}
-]
+"acai": []
 }
 },
 {
@@ -15695,7 +15635,7 @@
 {
 "id": "keyterm:Repent",
 "type": "keyterm",
-"confidence": 0.9613,
+"confidence": 0.6675,
 "match_method": "scored",
 "preferred_label": "bertobat"
 }
@@ -16102,22 +16042,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "place:Bethel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Betel"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Betel"
-}
-]
+"acai": []
 }
 },
 {
@@ -16358,16 +16283,16 @@
 "preferred_label": "Bet-Semes"
 },
 {
-"id": "place:Beth-shemesh.2",
+"id": "place:Beth-shemesh.3",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.65,
 "match_method": "scored",
 "preferred_label": "Bet-Semes"
 },
 {
-"id": "place:Beth-shemesh.3",
+"id": "place:Beth-shemesh.2",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.625,
 "match_method": "scored",
 "preferred_label": "Bet-Semes"
 }
@@ -20347,6 +20272,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Zaitun"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Olive Tree"
 }
 ]
 }
@@ -20726,7 +20658,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.678,
+"confidence": 0.7936,
 "match_method": "scored",
 "preferred_label": "pesta bulan baru"
 }
@@ -20891,20 +20823,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reed"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.5949,
-"match_method": "scored",
-"preferred_label": "Grass"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"confidence": 0.5727,
-"match_method": "scored",
-"preferred_label": "Papyrus"
 }
 ]
 }

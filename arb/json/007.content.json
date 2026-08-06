@@ -4345,13 +4345,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sheep"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6162,
-"match_method": "scored",
-"preferred_label": "ٱلضَّأْنِ"
 }
 ]
 }
@@ -4468,15 +4461,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "realia:Barn",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Barn"
-}
-]
+"acai": []
 }
 },
 {
@@ -5870,20 +5855,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Wine"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -7652,15 +7623,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.9577,
-"match_method": "scored",
-"preferred_label": "Fear"
-}
-]
+"acai": []
 }
 },
 {

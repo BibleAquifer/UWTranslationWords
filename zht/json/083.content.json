@@ -83,20 +83,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Winepress"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.56,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.5515,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -1236,7 +1222,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.5862,
+"match_method": "scored",
+"preferred_label": "Salvation"
+}
+]
 }
 },
 {
@@ -1538,15 +1532,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"confidence": 0.7217,
-"match_method": "scored",
-"preferred_label": "Redeem"
-}
-]
+"acai": []
 }
 },
 {
@@ -1757,7 +1743,7 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"confidence": 0.8909,
+"confidence": 0.7159,
 "match_method": "scored",
 "preferred_label": "Savior"
 }

@@ -1975,22 +1975,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mind.2",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "Mind"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "Heart"
-}
-]
+"acai": []
 }
 },
 {
@@ -2398,7 +2383,7 @@
 {
 "id": "keyterm:Repent",
 "type": "keyterm",
-"confidence": 0.9613,
+"confidence": 0.6675,
 "match_method": "scored",
 "preferred_label": "Repent"
 }
@@ -2558,6 +2543,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "मनश्शे"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
 "preferred_label": "मनश्शे"
 }
 ]
@@ -4119,13 +4111,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -4987,8 +4972,8 @@
 {
 "id": "keyterm:Blow",
 "type": "keyterm",
-"confidence": 0.6148,
-"match_method": "scored",
+"confidence": 0.8162,
+"match_method": "embedding",
 "preferred_label": "Plague"
 }
 ]
@@ -6104,22 +6089,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:InChrist",
-"type": "keyterm",
-"confidence": 0.7753,
-"match_method": "scored",
-"preferred_label": "In Christ"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.7289,
-"match_method": "scored",
-"preferred_label": "यीशु"
-}
-]
+"acai": []
 }
 },
 {
@@ -6277,7 +6247,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.69,
+"confidence": 0.85,
 "match_method": "scored",
 "preferred_label": "यीशु"
 }
@@ -6422,6 +6392,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Palace"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7124,
+"match_method": "scored",
+"preferred_label": "House"
 }
 ]
 }
@@ -6542,8 +6519,8 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.6343,
+"match_method": "scored",
 "preferred_label": "Majesty"
 }
 ]
@@ -9061,15 +9038,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.9464,
-"match_method": "scored",
-"preferred_label": "Glory"
-}
-]
+"acai": []
 }
 },
 {
@@ -9491,6 +9460,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "माका"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "माकाई"
 }
 ]
 }
@@ -9610,16 +9586,9 @@
 "preferred_label": "मादी"
 },
 {
-"id": "person:Medan",
-"type": "person",
-"confidence": 0.75,
-"match_method": "scored",
-"preferred_label": "मादियों"
-},
-{
 "id": "place:Media",
 "type": "place",
-"confidence": 0.6505,
+"confidence": 0.566,
 "match_method": "scored",
 "preferred_label": "मादियों"
 }
@@ -10690,13 +10659,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "मिद्यान"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "मिद्यानी"
 }
 ]
 }
@@ -11112,6 +11074,34 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "मिस्पा"
+},
+{
+"id": "place:Mizpah.2",
+"type": "place",
+"confidence": 0.6552,
+"match_method": "scored",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Valley of Mizpeh"
+},
+{
+"id": "place:Mizpeh.2",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+},
+{
+"id": "place:Mizpeh.3",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
 }
 ]
 }
@@ -14760,15 +14750,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Foolish",
-"type": "keyterm",
-"confidence": 0.6677,
-"match_method": "scored",
-"preferred_label": "Foolish"
-}
-]
+"acai": []
 }
 },
 {
@@ -17394,7 +17376,7 @@
 {
 "id": "keyterm:Reconcile",
 "type": "keyterm",
-"confidence": 0.8667,
+"confidence": 0.6678,
 "match_method": "scored",
 "preferred_label": "Reconcile"
 }
@@ -17633,7 +17615,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.7285,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -17940,13 +17922,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "मेसोपोटामिया"
-},
-{
-"id": "place:Aram-naharaim",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Aram-naharaim"
 }
 ]
 }
@@ -18029,15 +18004,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 0.8042,
-"match_method": "embedding",
-"preferred_label": "Judge"
-}
-]
+"acai": []
 }
 },
 {

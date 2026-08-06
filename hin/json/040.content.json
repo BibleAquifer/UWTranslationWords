@@ -89,7 +89,7 @@
 {
 "id": "keyterm:Psalm",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8929,
 "match_method": "embedding",
 "preferred_label": "Psalm"
 }
@@ -201,7 +201,7 @@
 {
 "id": "realia:Kiln",
 "type": "realia",
-"confidence": 0.9667,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Kiln"
 }
@@ -385,15 +385,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "realia:Barn",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Barn"
-}
-]
+"acai": []
 }
 },
 {
@@ -517,15 +509,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.8114,
-"match_method": "embedding",
-"preferred_label": "Terror"
-}
-]
+"acai": []
 }
 },
 {
@@ -3224,13 +3208,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sheep"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6162,
-"match_method": "scored",
-"preferred_label": "भेड़ फाटक"
 }
 ]
 }

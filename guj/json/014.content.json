@@ -103,7 +103,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"confidence": 0.7936,
+"match_method": "scored",
+"preferred_label": "New Moon Festival"
+}
+]
 }
 },
 {
@@ -264,7 +272,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Sandal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sandal"
+}
+]
 }
 },
 {
@@ -1645,7 +1661,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.6737,
+"match_method": "scored",
+"preferred_label": "Crafty"
+}
+]
 }
 },
 {
@@ -1893,7 +1917,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leopard"
+}
+]
 }
 },
 {
@@ -3008,7 +3040,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.8032,
+"match_method": "scored",
+"preferred_label": "Tower"
+}
+]
 }
 },
 {

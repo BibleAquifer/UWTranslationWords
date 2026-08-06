@@ -1481,7 +1481,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.5862,
+"match_method": "scored",
+"preferred_label": "Salvation"
+}
+]
 }
 },
 {
@@ -2605,15 +2613,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:GrantJustice",
-"type": "keyterm",
-"confidence": 0.7655,
-"match_method": "scored",
-"preferred_label": "Avenge"
-}
-]
+"acai": []
 }
 },
 {
@@ -3913,7 +3913,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.7418,
+"match_method": "scored",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
@@ -4443,7 +4451,7 @@
 {
 "id": "person:Judas.5",
 "type": "person",
-"confidence": 0.5589,
+"confidence": 0.5608,
 "match_method": "scored",
 "preferred_label": "यहूदा"
 }
@@ -4647,15 +4655,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "Rebel"
-}
-]
+"acai": []
 }
 },
 {
@@ -5325,7 +5325,22 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.5879,
+"match_method": "scored",
+"preferred_label": "Slaughtering"
+}
+]
 }
 },
 {
@@ -5908,11 +5923,11 @@
 "preferred_label": "Oak"
 },
 {
-"id": "flora:Terebinth",
-"type": "flora",
-"confidence": 0.6667,
+"id": "place:Allon",
+"type": "place",
+"confidence": 0.6222,
 "match_method": "scored",
-"preferred_label": "Terebinth"
+"preferred_label": "अल्लोन"
 }
 ]
 }
@@ -6403,15 +6418,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "realia:Chain",
-"type": "realia",
-"confidence": 0.6092,
-"match_method": "scored",
-"preferred_label": "Chain"
-}
-]
+"acai": []
 }
 },
 {
@@ -6498,6 +6505,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Flute"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.552,
+"match_method": "scored",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -6778,13 +6792,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Robe"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.5929,
-"match_method": "scored",
-"preferred_label": "Cloak"
 }
 ]
 }
@@ -6837,15 +6844,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "बेबीलोन"
-}
-]
+"acai": []
 }
 },
 {
@@ -7609,6 +7608,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "बाशान"
+},
+{
+"id": "place:Batanea",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Batanea"
 }
 ]
 }
@@ -7910,7 +7916,7 @@
 {
 "id": "group:Benjamin",
 "type": "group",
-"confidence": 0.5974,
+"confidence": 0.795,
 "match_method": "scored",
 "preferred_label": "बिन्यामीन"
 }
@@ -10359,7 +10365,7 @@
 {
 "id": "keyterm:Crafty",
 "type": "keyterm",
-"confidence": 0.7778,
+"confidence": 0.7495,
 "match_method": "scored",
 "preferred_label": "Crafty"
 }
@@ -10693,15 +10699,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Wrong",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Wrong"
-}
-]
+"acai": []
 }
 },
 {
@@ -13101,16 +13099,16 @@
 "preferred_label": "बेतशेमेश"
 },
 {
-"id": "place:Beth-shemesh.2",
+"id": "place:Beth-shemesh.3",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.65,
 "match_method": "scored",
 "preferred_label": "बेतशेमेश"
 },
 {
-"id": "place:Beth-shemesh.3",
+"id": "place:Beth-shemesh.2",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.625,
 "match_method": "scored",
 "preferred_label": "बेतशेमेश"
 }
@@ -13262,22 +13260,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "place:Bethel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "बेतेल"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "बेतेल"
-}
-]
+"acai": []
 }
 },
 {
@@ -13536,20 +13519,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "बेबीलोन"
-},
-{
-"id": "group:Babylon",
-"type": "group",
-"confidence": 0.6118,
-"match_method": "scored",
-"preferred_label": "बाबेली"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }

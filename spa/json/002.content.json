@@ -1528,6 +1528,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Abel"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Abel"
 }
 ]
 }
@@ -1617,20 +1624,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Fir"
-},
-{
-"id": "flora:Cypress",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Cypress"
-},
-{
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -2271,7 +2264,7 @@
 {
 "id": "keyterm:Abyss",
 "type": "keyterm",
-"confidence": 0.96,
+"confidence": 0.73,
 "match_method": "scored",
 "preferred_label": "abismo"
 }
@@ -2631,15 +2624,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Abomination",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "abominación"
-}
-]
+"acai": []
 }
 },
 {
@@ -4703,13 +4688,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Oil"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"confidence": 0.8473,
-"match_method": "scored",
-"preferred_label": "Anointing Oil"
 }
 ]
 }
@@ -4973,13 +4951,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Tree"
-},
-{
-"id": "place:OlivesMount",
-"type": "place",
-"confidence": 0.5938,
-"match_method": "scored",
-"preferred_label": "las"
 }
 ]
 }
@@ -7030,22 +7001,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "postrarse"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "adorar"
-}
-]
+"acai": []
 }
 },
 {
@@ -9034,13 +8990,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ahías"
-},
-{
-"id": "person:Ahiah",
-"type": "person",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Ahijas"
 }
 ]
 }
@@ -9498,15 +9447,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Praise",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "alabanza"
-}
-]
+"acai": []
 }
 },
 {
@@ -11509,15 +11450,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "realia:Barn",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Barn"
-}
-]
+"acai": []
 }
 },
 {
@@ -12144,27 +12077,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.8943,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Temple Altar"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Tabernacle Altar"
 }
 ]
 }
@@ -12222,15 +12134,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.565,
-"match_method": "scored",
-"preferred_label": "Altar"
-}
-]
+"acai": []
 }
 },
 {
@@ -12935,7 +12839,7 @@
 {
 "id": "keyterm:Beloved",
 "type": "keyterm",
-"confidence": 0.975,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "amado"
 }
@@ -13089,7 +12993,7 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"confidence": 0.7577,
+"confidence": 0.8635,
 "match_method": "scored",
 "preferred_label": "Amalec"
 }
@@ -13180,15 +13084,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.6005,
-"match_method": "scored",
-"preferred_label": "amar"
-}
-]
+"acai": []
 }
 },
 {
@@ -13993,7 +13889,7 @@
 {
 "id": "keyterm:Surely",
 "type": "keyterm",
-"confidence": 0.9076,
+"confidence": 0.7561,
 "match_method": "scored",
 "preferred_label": "amén"
 }
@@ -14152,6 +14048,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ammón"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.8522,
+"match_method": "scored",
+"preferred_label": "Amós"
 }
 ]
 }
@@ -16140,7 +16043,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.9583,
+"confidence": 0.7432,
 "match_method": "scored",
 "preferred_label": "amar"
 }
@@ -16564,6 +16467,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Anaceos"
+},
+{
+"id": "group:Anak",
+"type": "group",
+"confidence": 0.7689,
+"match_method": "scored",
+"preferred_label": "Aner"
 }
 ]
 }
@@ -18641,11 +18551,11 @@
 ],
 "acai": [
 {
-"id": "group:Angels",
-"type": "group",
-"confidence": 0.5616,
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.7078,
 "match_method": "scored",
-"preferred_label": "Angels"
+"preferred_label": "An Angel"
 }
 ]
 }
@@ -18767,15 +18677,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "exhortar"
-}
-]
+"acai": []
 }
 },
 {
@@ -19163,7 +19065,7 @@
 {
 "id": "group:Antioch",
 "type": "group",
-"confidence": 0.6174,
+"confidence": 0.6235,
 "match_method": "scored",
 "preferred_label": "de Antioquía"
 }
@@ -21807,6 +21709,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "campiña"
+},
+{
+"id": "place:Beth-arabah",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Sechâchâ"
 }
 ]
 }
@@ -21915,16 +21824,9 @@
 {
 "id": "group:Arabia",
 "type": "group",
-"confidence": 0.6255,
+"confidence": 0.6801,
 "match_method": "scored",
 "preferred_label": "Arabita"
-},
-{
-"id": "place:Arabia.2",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Arabia Petraea"
 }
 ]
 }
@@ -22578,13 +22480,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ship"
-},
-{
-"id": "realia:Boat",
-"type": "realia",
-"confidence": 0.6432,
-"match_method": "scored",
-"preferred_label": "Boat"
 }
 ]
 }
@@ -22820,13 +22715,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ark of the Covenant"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"confidence": 0.9385,
-"match_method": "scored",
-"preferred_label": "arca"
 }
 ]
 }
@@ -23110,15 +22998,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "realia:CoatOfMail",
-"type": "realia",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Coat of Mail"
-}
-]
+"acai": []
 }
 },
 {
@@ -23476,15 +23356,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "realia:Bow",
-"type": "realia",
-"confidence": 0.7091,
-"match_method": "scored",
-"preferred_label": "Bow"
-}
-]
+"acai": []
 }
 },
 {
@@ -23964,7 +23836,7 @@
 {
 "id": "keyterm:Repent",
 "type": "keyterm",
-"confidence": 0.9613,
+"confidence": 0.6675,
 "match_method": "scored",
 "preferred_label": "convertirse"
 }
@@ -25809,7 +25681,7 @@
 {
 "id": "group:Asher",
 "type": "group",
-"confidence": 0.61,
+"confidence": 0.7591,
 "match_method": "scored",
 "preferred_label": "Aser"
 }
@@ -26357,7 +26229,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7,
+"confidence": 0.7329,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -27371,7 +27243,7 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.9581,
+"confidence": 0.9228,
 "match_method": "scored",
 "preferred_label": "autoridad"
 }
@@ -27745,11 +27617,11 @@
 "preferred_label": "Ochôzías"
 },
 {
-"id": "person:Hananiah.15",
+"id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.7333,
+"confidence": 0.556,
 "match_method": "scored",
-"preferred_label": "Hananías"
+"preferred_label": "Amarías"
 }
 ]
 }

@@ -235,13 +235,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.9333,
-"match_method": "scored",
-"preferred_label": "hades, mundo de los muertos"
 }
 ]
 }
@@ -1466,7 +1459,7 @@
 {
 "id": "person:Hanani.4",
 "type": "person",
-"confidence": 0.5592,
+"confidence": 0.5941,
 "match_method": "scored",
 "preferred_label": "Hanani"
 }
@@ -2125,13 +2118,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hebrón"
-},
-{
-"id": "place:HebronValley",
-"type": "place",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "del"
 }
 ]
 }
@@ -4027,15 +4013,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "Jerusalem"
-}
-]
+"acai": []
 }
 },
 {
@@ -5554,7 +5532,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.661,
+"confidence": 0.5845,
 "match_method": "scored",
 "preferred_label": "Jehová"
 }
@@ -5941,15 +5919,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Hypocrisy",
-"type": "keyterm",
-"confidence": 0.8083,
-"match_method": "embedding",
-"preferred_label": "hipocresía"
-}
-]
+"acai": []
 }
 },
 {
@@ -6237,7 +6207,7 @@
 {
 "id": "person:Heth",
 "type": "person",
-"confidence": 0.9333,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Hetheo"
 }
@@ -6798,7 +6768,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.8385,
+"confidence": 0.7307,
 "match_method": "scored",
 "preferred_label": "ofrenda"
 }
@@ -7577,15 +7547,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.8725,
-"match_method": "embedding",
-"preferred_label": "gloria del señor"
-}
-]
+"acai": []
 }
 },
 {
@@ -8414,7 +8376,7 @@
 {
 "id": "realia:Kiln",
 "type": "realia",
-"confidence": 0.9667,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Kiln"
 }
@@ -8498,15 +8460,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.8114,
-"match_method": "embedding",
-"preferred_label": "terror"
-}
-]
+"acai": []
 }
 },
 {
@@ -8755,15 +8709,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Poor",
-"type": "keyterm",
-"confidence": 0.6143,
-"match_method": "scored",
-"preferred_label": "humilde"
-}
-]
+"acai": []
 }
 },
 {

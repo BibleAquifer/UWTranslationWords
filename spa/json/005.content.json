@@ -351,7 +351,7 @@
 {
 "id": "group:Dan",
 "type": "group",
-"confidence": 0.7333,
+"confidence": 0.922,
 "match_method": "scored",
 "preferred_label": "Dan"
 }
@@ -2371,22 +2371,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Declare",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "testificar solemnemente"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.8086,
-"match_method": "embedding",
-"preferred_label": "proclamar"
-}
-]
+"acai": []
 }
 },
 {
@@ -2611,15 +2596,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "decreto"
-}
-]
+"acai": []
 }
 },
 {
@@ -3025,8 +3002,8 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5693,
+"match_method": "scored",
 "preferred_label": "placer"
 }
 ]
@@ -3778,15 +3755,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "deity:Demons",
-"type": "deity",
-"confidence": 0.7977,
-"match_method": "scored",
-"preferred_label": "Demons"
-}
-]
+"acai": []
 }
 },
 {
@@ -4936,7 +4905,15 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.655,
+"match_method": "scored",
+"preferred_label": "arriba"
+}
+]
 }
 },
 {
@@ -6268,15 +6245,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"confidence": 0.785,
-"match_method": "scored",
-"preferred_label": "juicio"
-}
-]
+"acai": []
 }
 },
 {
@@ -19967,7 +19936,15 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "distinguir"
+}
+]
 }
 },
 {
@@ -21601,15 +21578,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "person:GenericDisciple",
-"type": "person",
-"confidence": 0.5521,
-"match_method": "scored",
-"preferred_label": "A Disciple"
-}
-]
+"acai": []
 }
 },
 {
@@ -22191,8 +22160,8 @@
 {
 "id": "keyterm:Divine",
 "type": "keyterm",
-"confidence": 0.8286,
-"match_method": "scored",
+"confidence": 0.8859,
+"match_method": "embedding",
 "preferred_label": "divino"
 }
 ]

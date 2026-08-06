@@ -1875,15 +1875,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.63,
-"match_method": "scored",
-"preferred_label": "Law"
-}
-]
+"acai": []
 }
 },
 {
@@ -1970,6 +1962,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Flute"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.552,
+"match_method": "scored",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -5493,16 +5492,9 @@
 {
 "id": "keyterm:Favor",
 "type": "keyterm",
-"confidence": 0.9515,
+"confidence": 0.682,
 "match_method": "scored",
 "preferred_label": "Favor"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.6121,
-"match_method": "scored",
-"preferred_label": "Kindness"
 }
 ]
 }
@@ -5626,7 +5618,7 @@
 {
 "id": "group:Naphtali",
 "type": "group",
-"confidence": 0.7067,
+"confidence": 0.8815,
 "match_method": "scored",
 "preferred_label": "نَفْتَالِي"
 }
@@ -6789,13 +6781,6 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "نِينَوَى"
-},
-{
-"id": "group:Nineveh",
-"type": "group",
-"confidence": 0.675,
-"match_method": "scored",
 "preferred_label": "نِينَوَى"
 }
 ]

@@ -609,6 +609,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rapha"
+},
+{
+"id": "place:RephaimValley",
+"type": "place",
+"confidence": 0.5761,
+"match_method": "scored",
+"preferred_label": "Valley of Rephaim"
 }
 ]
 }
@@ -626,22 +633,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Rapha",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Rapha"
-},
-{
-"id": "group:Rephaim",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Rephaim"
-}
-]
+"acai": []
 }
 },
 {
@@ -1109,19 +1101,26 @@
 {
 "id": "place:Ramah.2",
 "type": "place",
-"confidence": 0.6654,
+"confidence": 0.763,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
-"id": "place:Ramah.7",
+"id": "place:Ramah.3",
 "type": "place",
-"confidence": 0.6,
+"confidence": 0.6148,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
 "id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
@@ -1390,7 +1389,7 @@
 {
 "id": "place:Ramoth-gilead",
 "type": "place",
-"confidence": 0.92,
+"confidence": 0.975,
 "match_method": "scored",
 "preferred_label": "Ramoth-gilead"
 }
@@ -1608,22 +1607,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "person:Rahab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Rahab"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Egypt"
-}
-]
+"acai": []
 }
 }
 ]

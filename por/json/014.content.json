@@ -1052,7 +1052,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.5746,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -1174,7 +1182,7 @@
 {
 "id": "group:Naphtali",
 "type": "group",
-"confidence": 0.7067,
+"confidence": 0.8815,
 "match_method": "scored",
 "preferred_label": "Naftali"
 }
@@ -2523,13 +2531,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Nínive"
-},
-{
-"id": "group:Nineveh",
-"type": "group",
-"confidence": 0.675,
-"match_method": "scored",
-"preferred_label": "Nínive"
 }
 ]
 }
@@ -3834,15 +3835,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Appoint"
-}
-]
+"acai": []
 }
 }
 ]

@@ -99,7 +99,7 @@
 {
 "id": "keyterm:Abyss",
 "type": "keyterm",
-"confidence": 0.96,
+"confidence": 0.73,
 "match_method": "scored",
 "preferred_label": "Abyss"
 }
@@ -9084,8 +9084,8 @@
 {
 "id": "keyterm:Divine",
 "type": "keyterm",
-"confidence": 0.8286,
-"match_method": "scored",
+"confidence": 0.8859,
+"match_method": "embedding",
 "preferred_label": "Divine"
 }
 ]
@@ -9428,13 +9428,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.7847,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -10249,7 +10242,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.661,
+"confidence": 0.5845,
 "match_method": "scored",
 "preferred_label": "LORD"
 }
@@ -11117,15 +11110,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.8455,
-"match_method": "scored",
-"preferred_label": "Kingdom"
-}
-]
+"acai": []
 }
 },
 {
@@ -12275,7 +12260,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -13151,15 +13144,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:MiraculousSign",
-"type": "keyterm",
-"confidence": 0.6163,
-"match_method": "scored",
-"preferred_label": "Miraculous Sign"
-}
-]
+"acai": []
 }
 },
 {
@@ -13228,7 +13213,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6279,
+"match_method": "scored",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -14543,15 +14536,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Judge"
-}
-]
+"acai": []
 }
 },
 {
@@ -14753,7 +14738,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Dinaite",
+"type": "person",
+"confidence": 0.5663,
+"match_method": "scored",
+"preferred_label": "Dinaite"
+}
+]
 }
 },
 {
@@ -14829,15 +14822,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"confidence": 0.785,
-"match_method": "scored",
-"preferred_label": "Judgment"
-}
-]
+"acai": []
 }
 }
 ]

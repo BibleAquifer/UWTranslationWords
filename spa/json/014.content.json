@@ -132,6 +132,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Maachâ"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "maacatita"
 }
 ]
 }
@@ -584,13 +591,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Madianitas"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Madianita"
 }
 ]
 }
@@ -1215,15 +1215,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Magic",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "las artes mágicas"
-}
-]
+"acai": []
 }
 },
 {
@@ -1484,8 +1476,8 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.6343,
+"match_method": "scored",
 "preferred_label": "majestad"
 }
 ]
@@ -4647,6 +4639,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Manasés"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
+"preferred_label": "Manasés"
 }
 ]
 }
@@ -5130,13 +5129,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Robe"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.5929,
-"match_method": "scored",
-"preferred_label": "Cloak"
 }
 ]
 }
@@ -5475,13 +5467,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sea of Galilee"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.6157,
-"match_method": "scored",
-"preferred_label": "Galilea"
 }
 ]
 }
@@ -7724,16 +7709,9 @@
 "preferred_label": "Media"
 },
 {
-"id": "person:Medan",
-"type": "person",
-"confidence": 0.75,
-"match_method": "scored",
-"preferred_label": "Medos"
-},
-{
 "id": "place:Media",
 "type": "place",
-"confidence": 0.6505,
+"confidence": 0.566,
 "match_method": "scored",
 "preferred_label": "Media"
 }
@@ -8898,22 +8876,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mind.2",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "mente"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "corazón"
-}
-]
+"acai": []
 }
 },
 {
@@ -9417,13 +9380,6 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Mesopotamia"
-},
-{
-"id": "place:Aram-naharaim",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
 "preferred_label": "Mesopotamia"
 }
 ]
@@ -10959,15 +10915,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.9577,
-"match_method": "scored",
-"preferred_label": "temer"
-}
-]
+"acai": []
 }
 },
 {
@@ -11894,15 +11842,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:MiraculousSign",
-"type": "keyterm",
-"confidence": 0.6163,
-"match_method": "scored",
-"preferred_label": "señal"
-}
-]
+"acai": []
 }
 },
 {
@@ -12466,16 +12406,9 @@
 {
 "id": "keyterm:Serve",
 "type": "keyterm",
-"confidence": 0.8418,
+"confidence": 0.6594,
 "match_method": "scored",
 "preferred_label": "servir"
-},
-{
-"id": "keyterm:Servant",
-"type": "keyterm",
-"confidence": 0.6176,
-"match_method": "scored",
-"preferred_label": "servidor público"
 }
 ]
 }
@@ -13587,7 +13520,7 @@
 {
 "id": "keyterm:Mercy",
 "type": "keyterm",
-"confidence": 0.8923,
+"confidence": 0.6583,
 "match_method": "scored",
 "preferred_label": "misericordia"
 }
@@ -13981,6 +13914,34 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mizpa"
+},
+{
+"id": "place:Mizpah.2",
+"type": "place",
+"confidence": 0.6552,
+"match_method": "scored",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Mizpa"
+},
+{
+"id": "place:Mizpeh.2",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+},
+{
+"id": "place:Mizpeh.3",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
 }
 ]
 }
@@ -16663,6 +16624,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "las"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Olive Tree"
 }
 ]
 }
@@ -16914,22 +16882,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Lot",
-"type": "keyterm",
-"confidence": 0.697,
-"match_method": "scored",
-"preferred_label": "suerte"
-},
-{
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 0.637,
-"match_method": "scored",
-"preferred_label": "Lot"
-}
-]
+"acai": []
 }
 },
 {

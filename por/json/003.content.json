@@ -237,15 +237,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Babilônia"
-}
-]
+"acai": []
 }
 },
 {
@@ -504,20 +496,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Babilônia"
-},
-{
-"id": "group:Babylon",
-"type": "group",
-"confidence": 0.6118,
-"match_method": "scored",
-"preferred_label": "Babylonians"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -965,7 +943,7 @@
 {
 "id": "person:Judas.5",
 "type": "person",
-"confidence": 0.5589,
+"confidence": 0.5608,
 "match_method": "scored",
 "preferred_label": "Judas"
 }
@@ -1392,6 +1370,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Basã"
+},
+{
+"id": "place:Batanea",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Batanea"
 }
 ]
 }
@@ -1953,7 +1938,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.7418,
+"match_method": "scored",
+"preferred_label": "batismo"
+}
+]
 }
 },
 {
@@ -2214,7 +2207,7 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.8161,
+"confidence": 0.7105,
 "match_method": "scored",
 "preferred_label": "Wine"
 }
@@ -3157,7 +3150,7 @@
 {
 "id": "group:Benjamin",
 "type": "group",
-"confidence": 0.5974,
+"confidence": 0.795,
 "match_method": "scored",
 "preferred_label": "Benjamim"
 }
@@ -4190,22 +4183,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "place:Bethel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Betel"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Betel"
-}
-]
+"acai": []
 }
 },
 {
@@ -4298,16 +4276,16 @@
 "preferred_label": "Bete-Semes"
 },
 {
-"id": "place:Beth-shemesh.2",
+"id": "place:Beth-shemesh.3",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.65,
 "match_method": "scored",
 "preferred_label": "Bete-Semes"
 },
 {
-"id": "place:Beth-shemesh.3",
+"id": "place:Beth-shemesh.2",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.625,
 "match_method": "scored",
 "preferred_label": "Bete-Semes"
 }
@@ -4841,7 +4819,7 @@
 {
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
-"confidence": 0.8375,
+"confidence": 0.6745,
 "match_method": "scored",
 "preferred_label": "blasfemar"
 }
@@ -5482,7 +5460,7 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.9802,
+"confidence": 0.8522,
 "match_method": "scored",
 "preferred_label": "boa notícia"
 }
@@ -8171,22 +8149,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"confidence": 0.6895,
-"match_method": "scored",
-"preferred_label": "Good"
-},
-{
-"id": "keyterm:Honest",
-"type": "keyterm",
-"confidence": 0.6097,
-"match_method": "scored",
-"preferred_label": "bom"
-}
-]
+"acai": []
 }
 },
 {

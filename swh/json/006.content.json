@@ -120,7 +120,7 @@
 {
 "id": "place:Eden.2",
 "type": "place",
-"confidence": 0.8667,
+"confidence": 0.8825,
 "match_method": "scored",
 "preferred_label": "Garden of Eden"
 }
@@ -305,13 +305,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Edomu"
-},
-{
-"id": "group:Edom",
-"type": "group",
-"confidence": 0.6381,
-"match_method": "scored",
-"preferred_label": "Edomites"
 }
 ]
 }
@@ -489,7 +482,7 @@
 {
 "id": "group:Ephesus",
 "type": "group",
-"confidence": 0.6727,
+"confidence": 0.554,
 "match_method": "scored",
 "preferred_label": "Ephesians"
 }
@@ -866,9 +859,9 @@
 "preferred_label": "Efraimu"
 },
 {
-"id": "place:EphraimGate",
-"type": "place",
-"confidence": 0.6381,
+"id": "group:Ephraim",
+"type": "group",
+"confidence": 0.785,
 "match_method": "scored",
 "preferred_label": "Efraimu"
 }
@@ -973,7 +966,7 @@
 {
 "id": "group:Ephrathah",
 "type": "group",
-"confidence": 0.68,
+"confidence": 0.5605,
 "match_method": "scored",
 "preferred_label": "Ephrathites"
 }
@@ -1199,13 +1192,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Elamu"
-},
-{
-"id": "group:Elam",
-"type": "group",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "Elamites"
 }
 ]
 }
@@ -3366,7 +3352,7 @@
 {
 "id": "place:Edom",
 "type": "place",
-"confidence": 0.6427,
+"confidence": 0.684,
 "match_method": "scored",
 "preferred_label": "Edomu"
 }
@@ -3548,13 +3534,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Wakushi"
-},
-{
-"id": "group:Ethiopia",
-"type": "group",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Ethiopians"
 }
 ]
 }

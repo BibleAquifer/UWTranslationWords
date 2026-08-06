@@ -457,6 +457,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reuben"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.88,
+"match_method": "scored",
+"preferred_label": "Tribe of Reuben"
 }
 ]
 }
@@ -891,7 +898,7 @@
 {
 "id": "keyterm:Decree",
 "type": "keyterm",
-"confidence": 0.8054,
+"confidence": 0.7939,
 "match_method": "scored",
 "preferred_label": "Decree"
 }

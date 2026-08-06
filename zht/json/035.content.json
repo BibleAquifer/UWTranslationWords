@@ -328,7 +328,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.7758,
+"match_method": "scored",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
@@ -600,15 +608,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.8146,
-"match_method": "scored",
-"preferred_label": "Condemn"
-}
-]
+"acai": []
 }
 }
 ]

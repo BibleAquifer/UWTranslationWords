@@ -125,6 +125,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Maaka"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Maacathites"
 }
 ]
 }
@@ -736,27 +743,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.8943,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Temple Altar"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Tabernacle Altar"
 }
 ]
 }
@@ -807,15 +793,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.565,
-"match_method": "scored",
-"preferred_label": "Altar"
-}
-]
+"acai": []
 }
 },
 {
@@ -1166,13 +1144,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Oil"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"confidence": 0.8473,
-"match_method": "scored",
-"preferred_label": "Anointing Oil"
 }
 ]
 }
@@ -1255,15 +1226,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 0.8042,
-"match_method": "embedding",
-"preferred_label": "Judge"
-}
-]
+"acai": []
 }
 },
 {
@@ -1598,18 +1561,11 @@
 "preferred_label": "patakatifu"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.619,
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
 "match_method": "scored",
-"preferred_label": "Holy"
-},
-{
-"id": "realia:TheHolyPlace",
-"type": "realia",
-"confidence": 0.6125,
-"match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "patakatifu"
 }
 ]
 }
@@ -2233,7 +2189,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.9167,
+"confidence": 0.865,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -3420,11 +3376,11 @@
 ],
 "acai": [
 {
-"id": "group:Angels",
-"type": "group",
-"confidence": 0.5616,
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.7078,
 "match_method": "scored",
-"preferred_label": "Angels"
+"preferred_label": "An Angel"
 }
 ]
 }
@@ -3678,22 +3634,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "person:FirstProstitute",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Prostitute"
-},
-{
-"id": "person:SecondProstitute",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Prostitute"
-}
-]
+"acai": []
 }
 },
 {
@@ -4559,7 +4500,7 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.9581,
+"confidence": 0.9228,
 "match_method": "scored",
 "preferred_label": "Authority"
 }
@@ -4850,6 +4791,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Manase"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
 "preferred_label": "Manase"
 }
 ]
@@ -5146,15 +5094,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Vision",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Vision"
-}
-]
+"acai": []
 }
 },
 {
@@ -5752,7 +5692,7 @@
 {
 "id": "keyterm:Teaching",
 "type": "keyterm",
-"confidence": 0.8824,
+"confidence": 0.9505,
 "match_method": "scored",
 "preferred_label": "Teaching"
 }
@@ -6638,20 +6578,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Winepress"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.56,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.5515,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -7259,15 +7185,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Profane",
-"type": "keyterm",
-"confidence": 0.6706,
-"match_method": "scored",
-"preferred_label": "Profane"
-}
-]
+"acai": []
 }
 },
 {
@@ -10565,22 +10483,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "Sky"
-},
-{
-"id": "keyterm:Heavenly",
-"type": "keyterm",
-"confidence": 0.5614,
-"match_method": "scored",
-"preferred_label": "Heavenly"
-}
-]
+"acai": []
 }
 },
 {
@@ -11881,13 +11784,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mesopotamia"
-},
-{
-"id": "place:Aram-naharaim",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Aram-naharaim"
 }
 ]
 }
@@ -11997,7 +11893,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8,
+"confidence": 0.8926,
 "match_method": "scored",
 "preferred_label": "Proverb"
 }
@@ -13960,7 +13856,7 @@
 {
 "id": "group:Jews",
 "type": "group",
-"confidence": 0.576,
+"confidence": 0.616,
 "match_method": "scored",
 "preferred_label": "Jews"
 }
@@ -14281,9 +14177,16 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.983,
+"confidence": 0.912,
 "match_method": "scored",
 "preferred_label": "Parable"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -14377,7 +14280,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
@@ -15201,7 +15112,7 @@
 {
 "id": "person:Heth",
 "type": "person",
-"confidence": 0.9333,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Mhiti"
 }
@@ -15901,16 +15812,9 @@
 {
 "id": "keyterm:Serve",
 "type": "keyterm",
-"confidence": 0.8418,
+"confidence": 0.6594,
 "match_method": "scored",
 "preferred_label": "Serve"
-},
-{
-"id": "keyterm:Servant",
-"type": "keyterm",
-"confidence": 0.6176,
-"match_method": "scored",
-"preferred_label": "Minister"
 }
 ]
 }
@@ -16266,13 +16170,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Midiani"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Midianites"
 }
 ]
 }
@@ -17954,6 +17851,34 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mispa"
+},
+{
+"id": "place:Mizpah.2",
+"type": "place",
+"confidence": 0.6552,
+"match_method": "scored",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Mispa"
+},
+{
+"id": "place:Mizpeh.2",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+},
+{
+"id": "place:Mizpeh.3",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
 }
 ]
 }
@@ -19772,6 +19697,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yerusalemu"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.579,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -19857,9 +19789,16 @@
 "preferred_label": "City of David"
 },
 {
+"id": "person:David",
+"type": "person",
+"confidence": 0.652,
+"match_method": "scored",
+"preferred_label": "Daudi"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6075,
+"confidence": 0.5644,
 "match_method": "scored",
 "preferred_label": "Yerusalemu"
 }
@@ -21942,22 +21881,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Deliver",
-"type": "keyterm",
-"confidence": 0.6409,
-"match_method": "scored",
-"preferred_label": "Deliver"
-},
-{
-"id": "keyterm:Rescue",
-"type": "keyterm",
-"confidence": 0.5867,
-"match_method": "scored",
-"preferred_label": "Rescue"
-}
-]
+"acai": []
 }
 },
 {
@@ -22059,7 +21983,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.69,
+"confidence": 0.85,
 "match_method": "scored",
 "preferred_label": "Yesu"
 }
@@ -23129,16 +23053,9 @@
 "preferred_label": "Medes"
 },
 {
-"id": "person:Medan",
-"type": "person",
-"confidence": 0.75,
-"match_method": "scored",
-"preferred_label": "Wamedi"
-},
-{
 "id": "place:Media",
 "type": "place",
-"confidence": 0.6505,
+"confidence": 0.566,
 "match_method": "scored",
 "preferred_label": "Umedi"
 }
@@ -23327,15 +23244,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Hypocrisy",
-"type": "keyterm",
-"confidence": 0.8083,
-"match_method": "embedding",
-"preferred_label": "Hypocrisy"
-}
-]
+"acai": []
 }
 },
 {
@@ -23438,7 +23347,7 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.7714,
+"confidence": 0.8032,
 "match_method": "scored",
 "preferred_label": "Tower"
 }
@@ -24244,15 +24153,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Poor",
-"type": "keyterm",
-"confidence": 0.6143,
-"match_method": "scored",
-"preferred_label": "Poor"
-}
-]
+"acai": []
 }
 },
 {
@@ -26949,7 +26850,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.6095,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -27070,15 +26979,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"confidence": 0.8845,
-"match_method": "scored",
-"preferred_label": "Be Demon Possessed"
-}
-]
+"acai": []
 }
 },
 {
@@ -27559,7 +27460,7 @@
 {
 "id": "keyterm:Beloved",
 "type": "keyterm",
-"confidence": 0.975,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "Beloved"
 }
@@ -27626,15 +27527,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.6005,
-"match_method": "scored",
-"preferred_label": "Love"
-}
-]
+"acai": []
 }
 },
 {
@@ -28983,15 +28876,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Foolish",
-"type": "keyterm",
-"confidence": 0.6677,
-"match_method": "scored",
-"preferred_label": "Foolish"
-}
-]
+"acai": []
 }
 },
 {
@@ -29021,6 +28906,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mrefai"
+},
+{
+"id": "place:RephaimValley",
+"type": "place",
+"confidence": 0.5761,
+"match_method": "scored",
+"preferred_label": "bonde"
 }
 ]
 }
@@ -29038,22 +28930,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Rapha",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Mrefai"
-},
-{
-"id": "group:Rephaim",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Rephaim"
-}
-]
+"acai": []
 }
 },
 {
@@ -29632,15 +29509,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "realia:Bow",
-"type": "realia",
-"confidence": 0.7091,
-"match_method": "scored",
-"preferred_label": "Bow"
-}
-]
+"acai": []
 }
 },
 {
@@ -29949,15 +29818,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"confidence": 0.6616,
-"match_method": "scored",
-"preferred_label": "Counsel"
-}
-]
+"acai": []
 }
 },
 {
@@ -30559,7 +30420,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5682,
+"confidence": 0.6651,
 "match_method": "scored",
 "preferred_label": "Holy"
 }
@@ -31998,20 +31859,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Fir"
-},
-{
-"id": "flora:Cypress",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Cypress"
-},
-{
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -32966,7 +32813,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.7385,
+"confidence": 0.7701,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -33039,7 +32886,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6279,
+"match_method": "scored",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
@@ -52296,15 +52151,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:MiraculousSign",
-"type": "keyterm",
-"confidence": 0.6163,
-"match_method": "scored",
-"preferred_label": "Miraculous Sign"
-}
-]
+"acai": []
 }
 },
 {
@@ -52435,14 +52282,14 @@
 {
 "id": "flora:Fir",
 "type": "flora",
-"confidence": 0.75,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Fir"
 },
 {
 "id": "flora:Juniper",
 "type": "flora",
-"confidence": 0.6,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "Grecian Juniper"
 }
@@ -54275,11 +54122,11 @@
 "preferred_label": "Oak"
 },
 {
-"id": "flora:Terebinth",
-"type": "flora",
-"confidence": 0.6667,
+"id": "place:Allon",
+"type": "place",
+"confidence": 0.6222,
 "match_method": "scored",
-"preferred_label": "Terebinth"
+"preferred_label": "Aloni"
 }
 ]
 }
@@ -57851,15 +57698,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "person:GenericDisciple",
-"type": "person",
-"confidence": 0.5521,
-"match_method": "scored",
-"preferred_label": "A Disciple"
-}
-]
+"acai": []
 }
 },
 {
@@ -59475,7 +59314,7 @@
 {
 "id": "keyterm:Crafty",
 "type": "keyterm",
-"confidence": 0.7778,
+"confidence": 0.7495,
 "match_method": "scored",
 "preferred_label": "Crafty"
 }
@@ -62493,7 +62332,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.6737,
+"match_method": "scored",
+"preferred_label": "Crafty"
+}
+]
 }
 },
 {
@@ -63864,7 +63711,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.678,
+"confidence": 0.7936,
 "match_method": "scored",
 "preferred_label": "New Moon Festival"
 }
@@ -64330,21 +64177,14 @@
 {
 "id": "flora:Brier",
 "type": "flora",
-"confidence": 0.8857,
+"confidence": 0.557,
 "match_method": "scored",
 "preferred_label": "Brier"
 },
 {
-"id": "flora:Boxthorn",
-"type": "flora",
-"confidence": 0.6976,
-"match_method": "scored",
-"preferred_label": "Boxthorn"
-},
-{
 "id": "flora:Thistle",
 "type": "flora",
-"confidence": 0.6595,
+"confidence": 0.5525,
 "match_method": "scored",
 "preferred_label": "Thistle"
 }
@@ -64984,7 +64824,7 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"confidence": 0.8909,
+"confidence": 0.7159,
 "match_method": "scored",
 "preferred_label": "Savior"
 }
@@ -66242,13 +66082,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jews"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.571,
-"match_method": "scored",
-"preferred_label": "Yerusalemu"
 }
 ]
 }
@@ -67696,13 +67529,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Tree"
-},
-{
-"id": "place:OlivesMount",
-"type": "place",
-"confidence": 0.5938,
-"match_method": "scored",
-"preferred_label": "Mizeituni"
 }
 ]
 }

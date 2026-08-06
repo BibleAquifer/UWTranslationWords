@@ -386,7 +386,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
@@ -702,15 +710,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"confidence": 0.8118,
-"match_method": "scored",
-"preferred_label": "fornication"
-}
-]
+"acai": []
 }
 },
 {
@@ -1013,7 +1013,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.5923,
+"match_method": "scored",
+"preferred_label": "collecteur d'impôt"
+}
+]
 }
 },
 {
@@ -1154,7 +1162,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.655,
+"match_method": "scored",
+"preferred_label": "être infidèle"
+}
+]
 }
 },
 {
@@ -2503,7 +2519,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
@@ -2736,15 +2760,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "tester"
-}
-]
+"acai": []
 }
 },
 {
@@ -2937,32 +2953,25 @@
 "resource": [],
 "acai": [
 {
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6764,
+"match_method": "scored",
+"preferred_label": "juste"
+},
+{
 "id": "keyterm:Unblemished",
 "type": "keyterm",
-"confidence": 0.6774,
+"confidence": 0.5949,
 "match_method": "scored",
 "preferred_label": "irréprochable"
 },
 {
 "id": "keyterm:WithoutReproach",
 "type": "keyterm",
-"confidence": 0.6645,
+"confidence": 0.5875,
 "match_method": "scored",
 "preferred_label": "au, dessus de tout reproche"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.6645,
-"match_method": "scored",
-"preferred_label": "juste"
-},
-{
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"confidence": 0.6402,
-"match_method": "scored",
-"preferred_label": "être exempt de la punition"
 }
 ]
 }
@@ -3935,7 +3944,7 @@
 {
 "id": "group:Ishmael",
 "type": "group",
-"confidence": 0.6571,
+"confidence": 0.5695,
 "match_method": "scored",
 "preferred_label": "Ismaélite"
 }
@@ -5935,11 +5944,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.6187,
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.568,
 "match_method": "scored",
-"preferred_label": "Israël"
+"preferred_label": "Éternel"
 }
 ]
 }
@@ -6052,7 +6061,7 @@
 {
 "id": "group:Issachar",
 "type": "group",
-"confidence": 0.5567,
+"confidence": 0.8889,
 "match_method": "scored",
 "preferred_label": "Issacar"
 }

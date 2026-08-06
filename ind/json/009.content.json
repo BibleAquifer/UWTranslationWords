@@ -102,6 +102,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Habel"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Abel-Bet-Maakha"
 }
 ]
 }
@@ -214,13 +221,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.9333,
-"match_method": "scored",
-"preferred_label": "alam maut"
 }
 ]
 }
@@ -1623,15 +1623,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "hakim"
-}
-]
+"acai": []
 }
 },
 {
@@ -1826,7 +1818,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Dinaite",
+"type": "person",
+"confidence": 0.5663,
+"match_method": "scored",
+"preferred_label": "rekan-rekan"
+}
+]
 }
 },
 {
@@ -2985,7 +2985,7 @@
 {
 "id": "keyterm:Hope",
 "type": "keyterm",
-"confidence": 0.9717,
+"confidence": 0.7183,
 "match_method": "scored",
 "preferred_label": "harapan"
 }
@@ -6782,15 +6782,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"confidence": 0.785,
-"match_method": "scored",
-"preferred_label": "penghakiman"
-}
-]
+"acai": []
 }
 },
 {
@@ -8046,7 +8038,7 @@
 {
 "id": "keyterm:Conscience",
 "type": "keyterm",
-"confidence": 0.9733,
+"confidence": 0.9412,
 "match_method": "scored",
 "preferred_label": "hati nurani"
 }
@@ -8609,15 +8601,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.63,
-"match_method": "scored",
-"preferred_label": "hukum"
-}
-]
+"acai": []
 }
 },
 {
@@ -9592,15 +9576,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.6197,
-"match_method": "scored",
-"preferred_label": "hukum"
-}
-]
+"acai": []
 }
 },
 {
@@ -9872,15 +9848,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.8146,
-"match_method": "scored",
-"preferred_label": "menentang"
-}
-]
+"acai": []
 }
 }
 ]

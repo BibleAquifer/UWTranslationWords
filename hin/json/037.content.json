@@ -1044,7 +1044,7 @@
 {
 "id": "keyterm:Promise",
 "type": "keyterm",
-"confidence": 0.9556,
+"confidence": 0.7907,
 "match_method": "scored",
 "preferred_label": "Promise"
 }
@@ -1642,13 +1642,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "तर्त्तान"
-},
-{
-"id": "keyterm:Leader",
-"type": "keyterm",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "Leader"
 }
 ]
 }
@@ -7421,7 +7414,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "Discern"
+}
+]
 }
 },
 {
@@ -9016,11 +9017,11 @@
 ],
 "acai": [
 {
-"id": "keyterm:Atonement",
+"id": "keyterm:Appease",
 "type": "keyterm",
-"confidence": 0.7143,
+"confidence": 0.6868,
 "match_method": "scored",
-"preferred_label": "Atonement"
+"preferred_label": "Appease"
 }
 ]
 }
@@ -9275,7 +9276,7 @@
 {
 "id": "realia:CoverLid",
 "type": "realia",
-"confidence": 0.7105,
+"confidence": 0.7785,
 "match_method": "scored",
 "preferred_label": "Cover Lid"
 }
@@ -10378,7 +10379,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.8899,
+"confidence": 0.5966,
 "match_method": "scored",
 "preferred_label": "Pray"
 }
@@ -10455,7 +10456,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
@@ -10868,7 +10877,7 @@
 {
 "id": "keyterm:Beloved",
 "type": "keyterm",
-"confidence": 0.975,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "Beloved"
 }
@@ -12713,7 +12722,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.9583,
+"confidence": 0.7432,
 "match_method": "scored",
 "preferred_label": "Love"
 }
@@ -12780,15 +12789,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.6005,
-"match_method": "scored",
-"preferred_label": "Love"
-}
-]
+"acai": []
 }
 },
 {
@@ -13334,15 +13335,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Encourage"
-}
-]
+"acai": []
 }
 }
 ]

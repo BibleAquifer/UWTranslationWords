@@ -396,13 +396,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Madian"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Madianite"
 }
 ]
 }
@@ -528,15 +521,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Magic",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "magique"
-}
-]
+"acai": []
 }
 },
 {
@@ -3332,8 +3317,8 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.6343,
+"match_method": "scored",
 "preferred_label": "splendeur"
 }
 ]
@@ -3573,6 +3558,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Manassé"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
 "preferred_label": "Manassé"
 }
 ]
@@ -5103,16 +5095,9 @@
 "preferred_label": "Mède(s); Médie"
 },
 {
-"id": "person:Medan",
-"type": "person",
-"confidence": 0.75,
-"match_method": "scored",
-"preferred_label": "Medan"
-},
-{
 "id": "place:Media",
 "type": "place",
-"confidence": 0.6505,
+"confidence": 0.566,
 "match_method": "scored",
 "preferred_label": "Médie"
 }
@@ -6461,13 +6446,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sea of Galilee"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.6157,
-"match_method": "scored",
-"preferred_label": "Galilée"
 }
 ]
 }
@@ -6728,13 +6706,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mésopotamie"
-},
-{
-"id": "place:Aram-naharaim",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Aram Naharaïm"
 }
 ]
 }
@@ -7993,16 +7964,9 @@
 {
 "id": "keyterm:Serve",
 "type": "keyterm",
-"confidence": 0.8418,
+"confidence": 0.6594,
 "match_method": "scored",
 "preferred_label": "servir"
-},
-{
-"id": "keyterm:Servant",
-"type": "keyterm",
-"confidence": 0.6176,
-"match_method": "scored",
-"preferred_label": "serviteur"
 }
 ]
 }
@@ -8301,15 +8265,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:MiraculousSign",
-"type": "keyterm",
-"confidence": 0.6163,
-"match_method": "scored",
-"preferred_label": "signe"
-}
-]
+"acai": []
 }
 },
 {
@@ -9000,7 +8956,7 @@
 {
 "id": "keyterm:Mercy",
 "type": "keyterm",
-"confidence": 0.8923,
+"confidence": 0.6583,
 "match_method": "scored",
 "preferred_label": "pitié"
 }
@@ -9125,6 +9081,34 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mitspa"
+},
+{
+"id": "place:Mizpah.2",
+"type": "place",
+"confidence": 0.6552,
+"match_method": "scored",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "vallée de Mitspa"
+},
+{
+"id": "place:Mizpeh.2",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+},
+{
+"id": "place:Mizpeh.3",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
 }
 ]
 }
@@ -12689,6 +12673,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "montagne des oliviers"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Olive Tree"
 }
 ]
 }
@@ -13452,13 +13443,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sheep"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6162,
-"match_method": "scored",
-"preferred_label": "porte des brebis"
 }
 ]
 }

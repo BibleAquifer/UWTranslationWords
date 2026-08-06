@@ -3177,14 +3177,14 @@
 {
 "id": "flora:Fir",
 "type": "flora",
-"confidence": 0.75,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Fir"
 },
 {
 "id": "flora:Juniper",
 "type": "flora",
-"confidence": 0.6,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "Grecian Juniper"
 }
@@ -3263,20 +3263,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Fir"
-},
-{
-"id": "flora:Cypress",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Cypress"
-},
-{
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -3517,7 +3503,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"confidence": 0.9147,
+"match_method": "embedding",
+"preferred_label": "Week"
+}
+]
 }
 },
 {
@@ -4063,7 +4057,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.9724,
+"confidence": 0.9925,
 "match_method": "scored",
 "preferred_label": "Sabbath"
 }
@@ -5138,22 +5132,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.6948,
-"match_method": "scored",
-"preferred_label": "Perceive"
-},
-{
-"id": "keyterm:Understanding",
-"type": "keyterm",
-"confidence": 0.6294,
-"match_method": "scored",
-"preferred_label": "Understanding"
-}
-]
+"acai": []
 }
 },
 {
@@ -7345,15 +7324,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"confidence": 0.6616,
-"match_method": "scored",
-"preferred_label": "Counsel"
-}
-]
+"acai": []
 }
 },
 {
@@ -9221,7 +9192,7 @@
 {
 "id": "keyterm:Fellowship",
 "type": "keyterm",
-"confidence": 0.84,
+"confidence": 0.9106,
 "match_method": "scored",
 "preferred_label": "Fellowship"
 }
@@ -10001,13 +9972,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "सामरिया"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.7286,
-"match_method": "scored",
-"preferred_label": "सामरी"
 }
 ]
 }
@@ -10437,22 +10401,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mighty",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Mighty"
-},
-{
-"id": "keyterm:Mighty.2",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Mighty"
-}
-]
+"acai": []
 }
 },
 {
@@ -12116,15 +12065,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "यरूशलेम"
-}
-]
+"acai": []
 }
 },
 {
@@ -12369,16 +12310,9 @@
 {
 "id": "realia:RamsHorn",
 "type": "realia",
-"confidence": 0.7067,
+"confidence": 0.6072,
 "match_method": "scored",
 "preferred_label": "Rams Horn"
-},
-{
-"id": "keyterm:Horn",
-"type": "keyterm",
-"confidence": 0.6133,
-"match_method": "scored",
-"preferred_label": "Horn"
 }
 ]
 }
@@ -12564,7 +12498,7 @@
 {
 "id": "group:Sidon",
 "type": "group",
-"confidence": 0.6333,
+"confidence": 0.6361,
 "match_method": "scored",
 "preferred_label": "Sidonians"
 }
@@ -12767,13 +12701,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "सीनै पर्वत"
-},
-{
-"id": "place:SinaiWilderness",
-"type": "place",
-"confidence": 0.64,
-"match_method": "scored",
-"preferred_label": "Wilderness of Sinai"
 }
 ]
 }
@@ -12923,13 +12850,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "एदोम"
-},
-{
-"id": "group:Syria",
-"type": "group",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Syrians"
 }
 ]
 }
@@ -13798,15 +13718,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "person:Centurion",
-"type": "person",
-"confidence": 0.555,
-"match_method": "scored",
-"preferred_label": "A Centurion"
-}
-]
+"acai": []
 }
 },
 {
@@ -15300,16 +15212,9 @@
 {
 "id": "keyterm:Serve",
 "type": "keyterm",
-"confidence": 0.8418,
+"confidence": 0.6594,
 "match_method": "scored",
 "preferred_label": "Serve"
-},
-{
-"id": "keyterm:Servant",
-"type": "keyterm",
-"confidence": 0.6176,
-"match_method": "scored",
-"preferred_label": "Minister"
 }
 ]
 }
@@ -20272,13 +20177,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "सोर"
-},
-{
-"id": "group:Tyre",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "सोरी"
 }
 ]
 }

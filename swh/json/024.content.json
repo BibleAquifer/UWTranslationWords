@@ -1829,6 +1829,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yakobo"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Yuda"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
+"preferred_label": "Yakobo"
 }
 ]
 }
@@ -2033,6 +2047,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Yakobo"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6211,
+"match_method": "scored",
 "preferred_label": "Yakobo"
 }
 ]
@@ -3330,6 +3351,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yeriko"
+},
+{
+"id": "place:JerichoValley",
+"type": "place",
+"confidence": 0.6089,
+"match_method": "scored",
+"preferred_label": "uwanja"
 }
 ]
 }
@@ -4896,6 +4924,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yerusalemu"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -10627,50 +10662,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "person:Jezreel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yezreeli"
-},
-{
-"id": "person:Jezreel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yezreeli"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yezreeli"
-},
-{
-"id": "place:Jezreel.3",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yezreeli"
-},
-{
-"id": "place:Jezreel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yezreeli"
-},
-{
-"id": "group:Jezreel",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yezreeli"
-}
-]
+"acai": []
 }
 },
 {
@@ -12478,6 +12470,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yonadabu"
+},
+{
+"id": "person:Johanan.9",
+"type": "person",
+"confidence": 0.6045,
+"match_method": "scored",
+"preferred_label": "Yohana"
 }
 ]
 }
@@ -14680,7 +14679,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.6056,
+"confidence": 0.7507,
 "match_method": "scored",
 "preferred_label": "Yuda"
 }
@@ -14976,6 +14975,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yuda"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6102,
+"match_method": "scored",
+"preferred_label": "Yakobo"
 }
 ]
 }
@@ -15571,20 +15577,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yudea"
-},
-{
-"id": "group:Judea",
-"type": "group",
-"confidence": 0.5681,
-"match_method": "scored",
-"preferred_label": "Judeans"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.5596,
-"match_method": "scored",
-"preferred_label": "Yuda"
 }
 ]
 }

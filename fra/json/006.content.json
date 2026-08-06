@@ -292,7 +292,7 @@
 {
 "id": "group:Dan",
 "type": "group",
-"confidence": 0.7333,
+"confidence": 0.922,
 "match_method": "scored",
 "preferred_label": "Dan"
 }
@@ -1385,22 +1385,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Declare",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "declarer solennellement et catégoriquement"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.8086,
-"match_method": "embedding",
-"preferred_label": "proclamer"
-}
-]
+"acai": []
 }
 },
 {
@@ -1600,15 +1585,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "limite"
-}
-]
+"acai": []
 }
 },
 {
@@ -2072,8 +2049,8 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5693,
+"match_method": "scored",
 "preferred_label": "délice"
 }
 ]
@@ -2741,15 +2718,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "deity:Demons",
-"type": "deity",
-"confidence": 0.7977,
-"match_method": "scored",
-"preferred_label": "Demons"
-}
-]
+"acai": []
 }
 },
 {
@@ -2870,15 +2839,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"confidence": 0.8845,
-"match_method": "scored",
-"preferred_label": "être possédé par un démon"
-}
-]
+"acai": []
 }
 },
 {
@@ -16820,7 +16781,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "évaluer"
+}
+]
 }
 },
 {
@@ -18397,15 +18366,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "person:GenericDisciple",
-"type": "person",
-"confidence": 0.5521,
-"match_method": "scored",
-"preferred_label": "A Disciple"
-}
-]
+"acai": []
 }
 },
 {
@@ -18664,8 +18625,8 @@
 {
 "id": "keyterm:Divine",
 "type": "keyterm",
-"confidence": 0.8286,
-"match_method": "scored",
+"confidence": 0.8859,
+"match_method": "embedding",
 "preferred_label": "divin"
 }
 ]

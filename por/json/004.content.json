@@ -741,7 +741,7 @@
 {
 "id": "realia:Rod",
 "type": "realia",
-"confidence": 0.6944,
+"confidence": 0.555,
 "match_method": "scored",
 "preferred_label": "Rod"
 }
@@ -880,16 +880,9 @@
 {
 "id": "place:Chaldea",
 "type": "place",
-"confidence": 0.8286,
+"confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Caldéia"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.573,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -1237,29 +1230,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ham"
-},
-{
-"id": "place:Ham.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ham"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Amom"
-}
-]
+"acai": []
 }
 },
 {
@@ -2140,7 +2111,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.7235,
+"confidence": 0.6396,
 "match_method": "scored",
 "preferred_label": "cananeu"
 }
@@ -2479,7 +2450,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6141,
 "match_method": "scored",
 "preferred_label": "Monte Carmelo"
 }
@@ -2779,11 +2750,11 @@
 "preferred_label": "Oak"
 },
 {
-"id": "flora:Terebinth",
-"type": "flora",
-"confidence": 0.6667,
+"id": "place:Allon",
+"type": "place",
+"confidence": 0.6222,
 "match_method": "scored",
-"preferred_label": "Terebinth"
+"preferred_label": "Alom"
 }
 ]
 }
@@ -5329,7 +5300,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "Davi"
+}
+]
 }
 },
 {
@@ -5669,13 +5648,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.7847,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -6094,7 +6066,7 @@
 {
 "id": "realia:Chariot",
 "type": "realia",
-"confidence": 0.6276,
+"confidence": 0.6793,
 "match_method": "scored",
 "preferred_label": "Chariot"
 }
@@ -6360,13 +6332,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Horse"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6103,
-"match_method": "scored",
-"preferred_label": "Horse Gate"
 }
 ]
 }
@@ -6566,7 +6531,7 @@
 {
 "id": "keyterm:Census",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8641,
 "match_method": "embedding",
 "preferred_label": "recenseamento"
 }
@@ -6751,15 +6716,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "person:Centurion",
-"type": "person",
-"confidence": 0.555,
-"match_method": "scored",
-"preferred_label": "A Centurion"
-}
-]
+"acai": []
 }
 },
 {
@@ -7286,6 +7243,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Cesareia"
+},
+{
+"id": "place:CaesareaPhilippi",
+"type": "place",
+"confidence": 0.5526,
+"match_method": "scored",
+"preferred_label": "Cesareia de Filipos"
 }
 ]
 }
@@ -7376,13 +7340,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.7167,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -8013,13 +7970,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Tartã"
-},
-{
-"id": "keyterm:Leader",
-"type": "keyterm",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "mighty"
 }
 ]
 }
@@ -8266,16 +8216,9 @@
 {
 "id": "realia:RamsHorn",
 "type": "realia",
-"confidence": 0.7067,
+"confidence": 0.6072,
 "match_method": "scored",
 "preferred_label": "Rams Horn"
-},
-{
-"id": "keyterm:Horn",
-"type": "keyterm",
-"confidence": 0.6133,
-"match_method": "scored",
-"preferred_label": "horn"
 }
 ]
 }
@@ -9447,9 +9390,16 @@
 "preferred_label": "City of David"
 },
 {
+"id": "person:David",
+"type": "person",
+"confidence": 0.652,
+"match_method": "scored",
+"preferred_label": "Davi"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6075,
+"confidence": 0.5644,
 "match_method": "scored",
 "preferred_label": "Jerusalém"
 }
@@ -9565,6 +9515,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jerusalém"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.579,
+"match_method": "scored",
+"preferred_label": "holy"
 }
 ]
 }
@@ -9881,14 +9838,14 @@
 {
 "id": "flora:Fir",
 "type": "flora",
-"confidence": 0.75,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Fir"
 },
 {
 "id": "flora:Juniper",
 "type": "flora",
-"confidence": 0.6,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "Grecian Juniper"
 }
@@ -11137,6 +11094,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Colossos"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.616,
+"match_method": "scored",
+"preferred_label": "favor"
 }
 ]
 }
@@ -15513,15 +15477,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Compassionate",
-"type": "keyterm",
-"confidence": 0.5847,
-"match_method": "scored",
-"preferred_label": "Compassionate"
-}
-]
+"acai": []
 }
 },
 {
@@ -15901,7 +15857,7 @@
 {
 "id": "keyterm:Fellowship",
 "type": "keyterm",
-"confidence": 0.84,
+"confidence": 0.9106,
 "match_method": "scored",
 "preferred_label": "comunhão"
 }
@@ -16164,15 +16120,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.9514,
-"match_method": "embedding",
-"preferred_label": "perceive"
-}
-]
+"acai": []
 }
 },
 {
@@ -16509,15 +16457,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.8146,
-"match_method": "scored",
-"preferred_label": "condenar"
-}
-]
+"acai": []
 }
 },
 {
@@ -17086,15 +17026,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.6783,
-"match_method": "scored",
-"preferred_label": "lean on"
-}
-]
+"acai": []
 }
 },
 {
@@ -23103,7 +23035,7 @@
 {
 "id": "keyterm:Conscience",
 "type": "keyterm",
-"confidence": 0.9733,
+"confidence": 0.9412,
 "match_method": "scored",
 "preferred_label": "consciência"
 }
@@ -23416,15 +23348,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"confidence": 0.6616,
-"match_method": "scored",
-"preferred_label": "counsel"
-}
-]
+"acai": []
 }
 },
 {
@@ -24069,15 +23993,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stain",
-"type": "keyterm",
-"confidence": 0.6316,
-"match_method": "scored",
-"preferred_label": "stain"
-}
-]
+"acai": []
 }
 },
 {
@@ -24620,13 +24536,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Corá"
-},
-{
-"id": "group:Korah",
-"type": "group",
-"confidence": 0.6211,
-"match_method": "scored",
-"preferred_label": "Korahites"
 }
 ]
 }
@@ -25412,7 +25321,7 @@
 {
 "id": "group:Corinth",
 "type": "group",
-"confidence": 0.6615,
+"confidence": 0.5785,
 "match_method": "scored",
 "preferred_label": "Corinthians"
 }
@@ -26692,7 +26601,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.602,
 "match_method": "scored",
 "preferred_label": "Perimiter Curtain"
 }
@@ -26776,11 +26685,11 @@
 "preferred_label": "Creta"
 },
 {
-"id": "group:Cretan",
-"type": "group",
-"confidence": 0.68,
+"id": "person:CretanProphet",
+"type": "person",
+"confidence": 0.5536,
 "match_method": "scored",
-"preferred_label": "Cretenses"
+"preferred_label": "Cretan Prophet"
 }
 ]
 }
@@ -27424,7 +27333,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.69,
+"confidence": 0.85,
 "match_method": "scored",
 "preferred_label": "Jesus"
 }
@@ -30718,7 +30627,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.7758,
+"match_method": "scored",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
@@ -32240,6 +32157,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Cuxe"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Cush"
 }
 ]
 }

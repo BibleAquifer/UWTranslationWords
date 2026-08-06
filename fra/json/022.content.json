@@ -2434,15 +2434,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Witness.2",
-"type": "keyterm",
-"confidence": 0.6153,
-"match_method": "scored",
-"preferred_label": "témoin"
-}
-]
+"acai": []
 }
 },
 {
@@ -3452,13 +3444,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -9784,7 +9769,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"confidence": 0.9147,
+"match_method": "embedding",
+"preferred_label": "semaine"
+}
+]
 }
 },
 {
@@ -10385,7 +10378,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.7459,
+"match_method": "scored",
+"preferred_label": "mis à l'essai"
+}
+]
 }
 },
 {
@@ -14467,15 +14468,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "terreur"
-}
-]
+"acai": []
 }
 },
 {
@@ -14794,15 +14787,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "tester"
-}
-]
+"acai": []
 }
 },
 {
@@ -15013,7 +14998,7 @@
 {
 "id": "group:Thessalonica",
 "type": "group",
-"confidence": 0.7231,
+"confidence": 0.6338,
 "match_method": "scored",
 "preferred_label": "une Thessalonicien"
 }
@@ -15531,15 +15516,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "realia:Bow",
-"type": "realia",
-"confidence": 0.7091,
-"match_method": "scored",
-"preferred_label": "Bow"
-}
-]
+"acai": []
 }
 },
 {
@@ -16251,7 +16228,7 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.7714,
+"confidence": 0.8032,
 "match_method": "scored",
 "preferred_label": "Tower"
 }
@@ -16932,7 +16909,7 @@
 {
 "id": "keyterm:Teaching",
 "type": "keyterm",
-"confidence": 0.8824,
+"confidence": 0.9505,
 "match_method": "scored",
 "preferred_label": "se rendre"
 }
@@ -18389,15 +18366,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stumble",
-"type": "keyterm",
-"confidence": 0.6941,
-"match_method": "scored",
-"preferred_label": "intrans. trébucher"
-}
-]
+"acai": []
 }
 },
 {
@@ -19444,15 +19413,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 0.8042,
-"match_method": "embedding",
-"preferred_label": "juge"
-}
-]
+"acai": []
 }
 },
 {
@@ -20456,13 +20417,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Trumpet"
-},
-{
-"id": "realia:RamsHorn",
-"type": "realia",
-"confidence": 0.6625,
-"match_method": "scored",
-"preferred_label": "Rams Horn"
 }
 ]
 }
@@ -22169,13 +22123,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Tyr"
-},
-{
-"id": "group:Tyre",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "Tyrien"
 }
 ]
 }

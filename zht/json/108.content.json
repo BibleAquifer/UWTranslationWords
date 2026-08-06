@@ -687,7 +687,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "Infectious Skin Disease"
+}
+]
 }
 },
 {
@@ -949,13 +957,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Horse"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6103,
-"match_method": "scored",
-"preferred_label": "Horse Gate"
 }
 ]
 }
@@ -1089,7 +1090,7 @@
 {
 "id": "realia:Chariot",
 "type": "realia",
-"confidence": 0.6276,
+"confidence": 0.6793,
 "match_method": "scored",
 "preferred_label": "Chariot"
 }
@@ -2094,6 +2095,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Maacah"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Maacathites"
 }
 ]
 }
@@ -2340,6 +2348,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Manasseh"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
+"preferred_label": "Tribe of Manasseh"
 }
 ]
 }

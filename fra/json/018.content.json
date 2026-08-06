@@ -2243,6 +2243,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Palace"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7124,
+"match_method": "scored",
+"preferred_label": "House"
 }
 ]
 }
@@ -2561,9 +2568,16 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.983,
+"confidence": 0.912,
 "match_method": "scored",
 "preferred_label": "parabole"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "proverbe"
 }
 ]
 }
@@ -2667,6 +2681,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Paran"
+},
+{
+"id": "place:ParanMount",
+"type": "place",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "montagne de Paran"
 }
 ]
 }
@@ -3137,15 +3158,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.9429,
-"match_method": "scored",
-"preferred_label": "pardonner"
-}
-]
+"acai": []
 }
 },
 {
@@ -7932,7 +7945,7 @@
 {
 "id": "realia:Breast-piece",
 "type": "realia",
-"confidence": 0.7634,
+"confidence": 0.7566,
 "match_method": "scored",
 "preferred_label": "Breast-Piece"
 }
@@ -8113,7 +8126,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.6335,
+"match_method": "scored",
+"preferred_label": "semaine"
+}
+]
 }
 },
 {
@@ -9254,13 +9275,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Perse"
-},
-{
-"id": "group:Persia",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "Perse"
 }
 ]
 }
@@ -10026,8 +10040,8 @@
 {
 "id": "keyterm:Blow",
 "type": "keyterm",
-"confidence": 0.6148,
-"match_method": "scored",
+"confidence": 0.8162,
+"match_method": "embedding",
 "preferred_label": "peste"
 }
 ]
@@ -11521,15 +11535,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.9577,
-"match_method": "scored",
-"preferred_label": "craindre"
-}
-]
+"acai": []
 }
 },
 {
@@ -13746,13 +13752,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Philippe"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.5552,
-"match_method": "scored",
-"preferred_label": "Jean"
 }
 ]
 }
@@ -13869,13 +13868,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Philippes"
-},
-{
-"id": "group:Philippi",
-"type": "group",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "un Philippien"
 }
 ]
 }
@@ -14135,14 +14127,14 @@
 {
 "id": "place:Philistine",
 "type": "place",
-"confidence": 0.6935,
+"confidence": 0.848,
 "match_method": "scored",
 "preferred_label": "Philistia"
 },
 {
 "id": "person:Philistine",
 "type": "person",
-"confidence": 0.5949,
+"confidence": 0.5795,
 "match_method": "scored",
 "preferred_label": "Philistin"
 }
@@ -14490,13 +14482,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Trap"
-},
-{
-"id": "realia:Net",
-"type": "realia",
-"confidence": 0.6414,
-"match_method": "scored",
-"preferred_label": "Net"
 }
 ]
 }
@@ -15885,7 +15870,7 @@
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.5959,
 "match_method": "scored",
 "preferred_label": "Foundation"
 }
@@ -17896,85 +17881,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "place:WaterGate",
-"type": "place",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "porte des eaux"
-},
-{
-"id": "realia:Door",
-"type": "realia",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Door"
-},
-{
-"id": "place:FountainGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "porte de la source"
-},
-{
-"id": "place:DungGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "porte du fumier"
-},
-{
-"id": "place:ValleyGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "porte de la vallée"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "porte des brebis"
-},
-{
-"id": "place:BeautifulGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "Beautiful Gate"
-},
-{
-"id": "place:FishGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "porte des poissons"
-},
-{
-"id": "place:EphraimGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "porte d'Éphraïm"
-},
-{
-"id": "place:EastGate",
-"type": "place",
-"confidence": 0.6035,
-"match_method": "scored",
-"preferred_label": "East Gate"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6035,
-"match_method": "scored",
-"preferred_label": "porte des chevaux"
-}
-]
+"acai": []
 }
 },
 {
@@ -18349,7 +18256,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.596,
+"match_method": "scored",
+"preferred_label": "déposséder"
+}
+]
 }
 },
 {
@@ -19754,20 +19669,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Winepress"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.56,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.5515,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -21868,7 +21769,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.8899,
+"confidence": 0.5966,
 "match_method": "scored",
 "preferred_label": "prier"
 }
@@ -22389,15 +22290,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Profane",
-"type": "keyterm",
-"confidence": 0.6706,
-"match_method": "scored",
-"preferred_label": "contraire de saint: profane"
-}
-]
+"acai": []
 }
 },
 {
@@ -23723,7 +23616,7 @@
 {
 "id": "keyterm:Promise",
 "type": "keyterm",
-"confidence": 0.9556,
+"confidence": 0.7907,
 "match_method": "scored",
 "preferred_label": "promesse"
 }
@@ -25314,7 +25207,7 @@
 {
 "id": "realia:CoverLid",
 "type": "realia",
-"confidence": 0.7105,
+"confidence": 0.7785,
 "match_method": "scored",
 "preferred_label": "Cover Lid"
 }
@@ -25734,22 +25627,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "person:FirstProstitute",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Prostitute"
-},
-{
-"id": "person:SecondProstitute",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Prostitute"
-}
-]
+"acai": []
 }
 },
 {
@@ -25857,7 +25735,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8,
+"confidence": 0.8926,
 "match_method": "scored",
 "preferred_label": "proverbe"
 }
@@ -26304,7 +26182,7 @@
 {
 "id": "keyterm:Crafty",
 "type": "keyterm",
-"confidence": 0.7778,
+"confidence": 0.7495,
 "match_method": "scored",
 "preferred_label": "judicieux"
 }
@@ -26401,7 +26279,7 @@
 {
 "id": "keyterm:Psalm",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8929,
 "match_method": "embedding",
 "preferred_label": "psaume"
 }
@@ -26833,22 +26711,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mighty",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "magnifique"
-},
-{
-"id": "keyterm:Mighty.2",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "puissant"
-}
-]
+"acai": []
 }
 },
 {
@@ -27690,15 +27553,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Clean",
-"type": "keyterm",
-"confidence": 0.6495,
-"match_method": "scored",
-"preferred_label": "pur"
-}
-]
+"acai": []
 }
 },
 {

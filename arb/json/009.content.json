@@ -392,7 +392,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.7285,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -1238,7 +1238,22 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.5879,
+"match_method": "scored",
+"preferred_label": "Slaughtering"
+}
+]
 }
 },
 {
@@ -1318,7 +1333,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6618,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -1423,15 +1438,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Offering"
-}
-]
+"acai": []
 }
 },
 {
@@ -1564,7 +1571,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.6737,
+"match_method": "scored",
+"preferred_label": "Crafty"
+}
+]
 }
 },
 {
@@ -1763,7 +1778,7 @@
 {
 "id": "keyterm:Crafty",
 "type": "keyterm",
-"confidence": 0.7778,
+"confidence": 0.7495,
 "match_method": "scored",
 "preferred_label": "Crafty"
 }

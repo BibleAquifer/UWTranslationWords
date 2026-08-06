@@ -628,7 +628,7 @@
 {
 "id": "keyterm:Hope",
 "type": "keyterm",
-"confidence": 0.9717,
+"confidence": 0.7183,
 "match_method": "scored",
 "preferred_label": "Hope"
 }
@@ -1112,7 +1112,7 @@
 {
 "id": "keyterm:Mercy",
 "type": "keyterm",
-"confidence": 0.8923,
+"confidence": 0.6583,
 "match_method": "scored",
 "preferred_label": "Mercy"
 }
@@ -1132,22 +1132,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Rapha",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "رَافَا"
-},
-{
-"id": "group:Rephaim",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Rephaim"
-}
-]
+"acai": []
 }
 },
 {
@@ -2598,22 +2583,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "person:Rahab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "رَاحَاب"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "مِصْرَ"
-}
-]
+"acai": []
 }
 },
 {
@@ -3470,6 +3440,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "رَافَا"
+},
+{
+"id": "place:RephaimValley",
+"type": "place",
+"confidence": 0.5761,
+"match_method": "scored",
+"preferred_label": "وَادِي"
 }
 ]
 }
@@ -3608,7 +3585,7 @@
 {
 "id": "place:Ramoth-gilead",
 "type": "place",
-"confidence": 0.92,
+"confidence": 0.975,
 "match_method": "scored",
 "preferred_label": "رَاموتَ"
 }
@@ -3679,15 +3656,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "realia:Bow",
-"type": "realia",
-"confidence": 0.7091,
-"match_method": "scored",
-"preferred_label": "Bow"
-}
-]
+"acai": []
 }
 },
 {
@@ -3834,6 +3803,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "رَأوبَيْنَ"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.88,
+"match_method": "scored",
 "preferred_label": "رَأوبَيْنَ"
 }
 ]
@@ -4017,15 +3993,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Vision",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Vision"
-}
-]
+"acai": []
 }
 },
 {
@@ -6078,15 +6046,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Abomination",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Abomination"
-}
-]
+"acai": []
 }
 },
 {
@@ -6155,7 +6115,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6279,
+"match_method": "scored",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
@@ -6442,15 +6410,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Compassionate",
-"type": "keyterm",
-"confidence": 0.5847,
-"match_method": "scored",
-"preferred_label": "Compassionate"
-}
-]
+"acai": []
 }
 },
 {
@@ -6729,13 +6689,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Robe"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.5929,
-"match_method": "scored",
-"preferred_label": "Cloak"
 }
 ]
 }
@@ -7580,15 +7533,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.8114,
-"match_method": "embedding",
-"preferred_label": "Terror"
-}
-]
+"acai": []
 }
 },
 {
@@ -8407,7 +8352,7 @@
 {
 "id": "place:Rimmon.3",
 "type": "place",
-"confidence": 0.6889,
+"confidence": 0.7091,
 "match_method": "scored",
 "preferred_label": "Rock of Rimmon"
 }
@@ -8706,15 +8651,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "Terror"
-}
-]
+"acai": []
 }
 },
 {
@@ -8763,7 +8700,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.5983,
+"match_method": "scored",
+"preferred_label": "ٱلدِّمْنِ"
+}
+]
 }
 },
 {
@@ -9894,22 +9839,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.7622,
-"match_method": "scored",
-"preferred_label": "Spirit"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6368,
-"match_method": "scored",
-"preferred_label": "ٱلرّوحِ"
-}
-]
+"acai": []
 }
 },
 {
@@ -10274,15 +10204,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Hypocrisy",
-"type": "keyterm",
-"confidence": 0.8083,
-"match_method": "embedding",
-"preferred_label": "Hypocrisy"
-}
-]
+"acai": []
 }
 }
 ]

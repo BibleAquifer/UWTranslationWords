@@ -198,6 +198,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Cush"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Cush"
 }
 ]
 }
@@ -549,13 +556,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Grain"
-},
-{
-"id": "flora:Wheat",
-"type": "flora",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Wheat"
 }
 ]
 }

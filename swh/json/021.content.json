@@ -389,13 +389,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Uajemi"
-},
-{
-"id": "group:Persia",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "Persians"
 }
 ]
 }
@@ -667,15 +660,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.757,
-"match_method": "scored",
-"preferred_label": "Kindness"
-}
-]
+"acai": []
 }
 },
 {
@@ -893,15 +878,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Magic",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Magic"
-}
-]
+"acai": []
 }
 },
 {
@@ -1786,7 +1763,7 @@
 {
 "id": "keyterm:Kingdom",
 "type": "keyterm",
-"confidence": 0.8609,
+"confidence": 0.6206,
 "match_method": "scored",
 "preferred_label": "Kingdom"
 }
@@ -2754,15 +2731,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.8455,
-"match_method": "scored",
-"preferred_label": "Kingdom"
-}
-]
+"acai": []
 }
 },
 {
@@ -2831,6 +2800,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Territory of Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.598,
+"match_method": "scored",
+"preferred_label": "Yuda"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Yuda"
 }
 ]
 }
@@ -3176,7 +3159,7 @@
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
-"confidence": 0.981,
+"confidence": 0.9542,
 "match_method": "scored",
 "preferred_label": "Resurrection"
 }
@@ -3289,6 +3272,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kigiriki"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.6822,
+"match_method": "scored",
+"preferred_label": "Yavani"
 }
 ]
 }
@@ -4317,7 +4307,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "Infectious Skin Disease"
+}
+]
 }
 },
 {
@@ -5105,15 +5103,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.8565,
-"match_method": "embedding",
-"preferred_label": "Ask for"
-}
-]
+"acai": []
 }
 },
 {
@@ -5150,7 +5140,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
@@ -8753,11 +8751,11 @@
 ],
 "acai": [
 {
-"id": "keyterm:Atonement",
+"id": "keyterm:Appease",
 "type": "keyterm",
-"confidence": 0.7143,
+"confidence": 0.6868,
 "match_method": "scored",
-"preferred_label": "Atonement"
+"preferred_label": "Appease"
 }
 ]
 }
@@ -10541,7 +10539,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.9583,
+"confidence": 0.7432,
 "match_method": "scored",
 "preferred_label": "Love"
 }
@@ -11003,7 +11001,7 @@
 {
 "id": "keyterm:Fellowship",
 "type": "keyterm",
-"confidence": 0.84,
+"confidence": 0.9106,
 "match_method": "scored",
 "preferred_label": "Fellowship"
 }
@@ -12464,15 +12462,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Witness.2",
-"type": "keyterm",
-"confidence": 0.6153,
-"match_method": "scored",
-"preferred_label": "Testimony"
-}
-]
+"acai": []
 }
 },
 {
@@ -12837,7 +12827,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "Discern"
+}
+]
 }
 },
 {
@@ -13217,15 +13215,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.6267,
-"match_method": "scored",
-"preferred_label": "Kingdom"
-}
-]
+"acai": []
 }
 },
 {
@@ -14657,15 +14647,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.9464,
-"match_method": "scored",
-"preferred_label": "Glory"
-}
-]
+"acai": []
 }
 },
 {
@@ -14784,8 +14766,8 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.6343,
+"match_method": "scored",
 "preferred_label": "Majesty"
 }
 ]
@@ -15076,7 +15058,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6381,
+"confidence": 0.675,
 "match_method": "scored",
 "preferred_label": "Majesty"
 }
@@ -16989,15 +16971,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"confidence": 0.8118,
-"match_method": "scored",
-"preferred_label": "Fornication"
-}
-]
+"acai": []
 }
 }
 ]

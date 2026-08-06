@@ -1361,7 +1361,15 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.5746,
+"match_method": "scored",
+"preferred_label": "nación; gente"
+}
+]
 }
 },
 {
@@ -2365,7 +2373,7 @@
 {
 "id": "group:Naphtali",
 "type": "group",
-"confidence": 0.7067,
+"confidence": 0.8815,
 "match_method": "scored",
 "preferred_label": "Nephtalí"
 }
@@ -2857,13 +2865,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Tiro"
-},
-{
-"id": "group:Tyre",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "de Tiro"
 }
 ]
 }
@@ -3137,13 +3138,6 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Nínive"
-},
-{
-"id": "group:Nineveh",
-"type": "group",
-"confidence": 0.675,
-"match_method": "scored",
 "preferred_label": "Nínive"
 }
 ]

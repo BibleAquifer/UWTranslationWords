@@ -212,13 +212,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ark of the Covenant"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"confidence": 0.9385,
-"match_method": "scored",
-"preferred_label": "tabut"
 }
 ]
 }
@@ -6736,32 +6729,25 @@
 "resource": [],
 "acai": [
 {
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6764,
+"match_method": "scored",
+"preferred_label": "lengkap"
+},
+{
 "id": "keyterm:Unblemished",
 "type": "keyterm",
-"confidence": 0.6774,
+"confidence": 0.5949,
 "match_method": "scored",
 "preferred_label": "tak bernoda"
 },
 {
 "id": "keyterm:WithoutReproach",
 "type": "keyterm",
-"confidence": 0.6645,
+"confidence": 0.5875,
 "match_method": "scored",
 "preferred_label": "tak bercacat"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.6645,
-"match_method": "scored",
-"preferred_label": "lengkap"
-},
-{
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"confidence": 0.6402,
-"match_method": "scored",
-"preferred_label": "lepas atau bebas dari sumpah"
 }
 ]
 }
@@ -8702,15 +8688,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fear",
-"type": "keyterm",
-"confidence": 0.9577,
-"match_method": "scored",
-"preferred_label": "takut"
-}
-]
+"acai": []
 }
 },
 {
@@ -9952,18 +9930,11 @@
 "preferred_label": "kudus"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.619,
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
 "match_method": "scored",
-"preferred_label": "khusus"
-},
-{
-"id": "realia:TheHolyPlace",
-"type": "realia",
-"confidence": 0.6125,
-"match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "kudus"
 }
 ]
 }
@@ -10465,7 +10436,7 @@
 {
 "id": "keyterm:Beloved",
 "type": "keyterm",
-"confidence": 0.975,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "kekasih"
 }
@@ -10506,7 +10477,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -10737,15 +10716,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stumble",
-"type": "keyterm",
-"confidence": 0.6941,
-"match_method": "scored",
-"preferred_label": "tersandung"
-}
-]
+"acai": []
 }
 },
 {
@@ -10861,7 +10832,7 @@
 {
 "id": "group:Thessalonica",
 "type": "group",
-"confidence": 0.7231,
+"confidence": 0.6338,
 "match_method": "scored",
 "preferred_label": "Thessalonians"
 }
@@ -11728,7 +11699,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.655,
+"match_method": "scored",
+"preferred_label": "tidak setia"
+}
+]
 }
 },
 {
@@ -17657,7 +17636,7 @@
 {
 "id": "realia:Kiln",
 "type": "realia",
-"confidence": 0.9667,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Kiln"
 }
@@ -17997,7 +17976,7 @@
 {
 "id": "realia:CoverLid",
 "type": "realia",
-"confidence": 0.7105,
+"confidence": 0.7785,
 "match_method": "scored",
 "preferred_label": "Cover Lid"
 }

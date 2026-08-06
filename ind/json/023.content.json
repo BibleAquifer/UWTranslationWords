@@ -2677,13 +2677,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jews"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.571,
-"match_method": "scored",
-"preferred_label": "Yerusalem"
 }
 ]
 }
@@ -2791,6 +2784,20 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Yakobus"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "Yudas"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
 "preferred_label": "Yakobus"
 }
 ]
@@ -2996,6 +3003,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Yakobus"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6211,
+"match_method": "scored",
 "preferred_label": "Yakobus"
 }
 ]
@@ -3246,7 +3260,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5682,
+"confidence": 0.6651,
 "match_method": "scored",
 "preferred_label": "khusus"
 }
@@ -3386,6 +3400,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jebusites"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5852,
+"match_method": "scored",
+"preferred_label": "Yerusalem"
 }
 ]
 }
@@ -4171,7 +4192,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.6056,
+"confidence": 0.7507,
 "match_method": "scored",
 "preferred_label": "Yehuda"
 }
@@ -4244,6 +4265,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Territory of Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.598,
+"match_method": "scored",
+"preferred_label": "Yehuda"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Yehuda"
 }
 ]
 }
@@ -4595,6 +4630,13 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Yerikho"
+},
+{
+"id": "place:JerichoValley",
+"type": "place",
+"confidence": 0.6089,
+"match_method": "scored",
 "preferred_label": "Yerikho"
 }
 ]
@@ -6155,6 +6197,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yerusalem"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -11889,50 +11938,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "person:Jezreel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yizreel"
-},
-{
-"id": "person:Jezreel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yizreel"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yizreel"
-},
-{
-"id": "place:Jezreel.3",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yizreel"
-},
-{
-"id": "place:Jezreel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yizreel"
-},
-{
-"id": "group:Jezreel",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yizreel"
-}
-]
+"acai": []
 }
 },
 {
@@ -13520,6 +13526,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yonadab"
+},
+{
+"id": "person:Johanan.9",
+"type": "person",
+"confidence": 0.6045,
+"match_method": "scored",
+"preferred_label": "Yohanan"
 }
 ]
 }
@@ -14618,6 +14631,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yudas"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6102,
+"match_method": "scored",
+"preferred_label": "Yakobus"
 }
 ]
 }
@@ -15429,20 +15449,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yehuda"
-},
-{
-"id": "group:Judea",
-"type": "group",
-"confidence": 0.5681,
-"match_method": "scored",
-"preferred_label": "Judeans"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.5596,
-"match_method": "scored",
-"preferred_label": "Yehuda"
 }
 ]
 }
@@ -15552,6 +15558,13 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Yunani"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.6822,
+"match_method": "scored",
 "preferred_label": "Yunani"
 }
 ]
@@ -15810,7 +15823,7 @@
 {
 "id": "person:Javan",
 "type": "person",
-"confidence": 0.7441,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "Yunani"
 }

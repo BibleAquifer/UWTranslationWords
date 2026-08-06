@@ -1478,6 +1478,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kaisaria"
+},
+{
+"id": "place:CaesareaPhilippi",
+"type": "place",
+"confidence": 0.5526,
+"match_method": "scored",
+"preferred_label": "vya"
 }
 ]
 }
@@ -7076,7 +7083,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.7235,
+"confidence": 0.6396,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }
@@ -7747,7 +7754,7 @@
 {
 "id": "keyterm:Church",
 "type": "keyterm",
-"confidence": 0.9962,
+"confidence": 0.8335,
 "match_method": "scored",
 "preferred_label": "Church"
 }
@@ -8462,7 +8469,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.5725,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
@@ -8580,7 +8595,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6141,
 "match_method": "scored",
 "preferred_label": "Karmeli"
 }
@@ -8823,15 +8838,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Reject",
-"type": "keyterm",
-"confidence": 0.6878,
-"match_method": "scored",
-"preferred_label": "Reject"
-}
-]
+"acai": []
 }
 },
 {
@@ -9856,22 +9863,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:InChrist",
-"type": "keyterm",
-"confidence": 0.7753,
-"match_method": "scored",
-"preferred_label": "In Christ"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.7289,
-"match_method": "scored",
-"preferred_label": "Yesu"
-}
-]
+"acai": []
 }
 },
 {
@@ -10946,11 +10938,11 @@
 "preferred_label": "Kedeshi"
 },
 {
-"id": "place:Kishion",
+"id": "place:Kadesh-barnea",
 "type": "place",
-"confidence": 0.5833,
+"confidence": 0.64,
 "match_method": "scored",
-"preferred_label": "Kishioni"
+"preferred_label": "Kadeshi"
 }
 ]
 }
@@ -11916,15 +11908,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Oath",
-"type": "keyterm",
-"confidence": 0.7037,
-"match_method": "scored",
-"preferred_label": "Oath"
-}
-]
+"acai": []
 }
 },
 {
@@ -12704,15 +12688,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "realia:Chain",
-"type": "realia",
-"confidence": 0.6092,
-"match_method": "scored",
-"preferred_label": "Chain"
-}
-]
+"acai": []
 }
 },
 {
@@ -12889,7 +12865,7 @@
 {
 "id": "realia:CoverLid",
 "type": "realia",
-"confidence": 0.7105,
+"confidence": 0.7785,
 "match_method": "scored",
 "preferred_label": "Cover Lid"
 }
@@ -13149,7 +13125,7 @@
 {
 "id": "person:Javan",
 "type": "person",
-"confidence": 0.7441,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "Yavani"
 }
@@ -15611,11 +15587,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Refuge",
+"id": "keyterm:SeekfindRefuge",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Refuge"
+"confidence": 0.5528,
+"match_method": "scored",
+"preferred_label": "Seek Refugue"
 }
 ]
 }
@@ -15716,8 +15692,8 @@
 {
 "id": "keyterm:Divine",
 "type": "keyterm",
-"confidence": 0.8286,
-"match_method": "scored",
+"confidence": 0.8859,
+"match_method": "embedding",
 "preferred_label": "Divine"
 }
 ]
@@ -16211,7 +16187,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.5983,
+"match_method": "scored",
+"preferred_label": "jaa"
+}
+]
 }
 },
 {
@@ -16309,7 +16293,7 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.8161,
+"confidence": 0.7105,
 "match_method": "scored",
 "preferred_label": "Wine"
 }
@@ -17043,15 +17027,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"confidence": 0.8399,
-"match_method": "embedding",
-"preferred_label": "Good"
-}
-]
+"acai": []
 }
 },
 {
@@ -17163,7 +17139,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -18040,7 +18024,7 @@
 {
 "id": "realia:Doorstep",
 "type": "realia",
-"confidence": 0.5833,
+"confidence": 0.5676,
 "match_method": "scored",
 "preferred_label": "Doorstep"
 }
@@ -18347,7 +18331,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.5923,
+"match_method": "scored",
+"preferred_label": "Tax Collector"
+}
+]
 }
 },
 {
@@ -18510,6 +18502,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kolosai"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.616,
+"match_method": "scored",
+"preferred_label": "Favor"
 }
 ]
 }
@@ -18928,15 +18927,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"confidence": 0.7217,
-"match_method": "scored",
-"preferred_label": "Redeem"
-}
-]
+"acai": []
 }
 },
 {
@@ -19583,13 +19574,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sheep"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6162,
-"match_method": "scored",
-"preferred_label": "kondoo"
 }
 ]
 }
@@ -19752,13 +19736,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kora"
-},
-{
-"id": "group:Korah",
-"type": "group",
-"confidence": 0.6211,
-"match_method": "scored",
-"preferred_label": "Korahites"
 }
 ]
 }
@@ -20027,7 +20004,7 @@
 {
 "id": "group:Corinth",
 "type": "group",
-"confidence": 0.6615,
+"confidence": 0.5785,
 "match_method": "scored",
 "preferred_label": "Corinthians"
 }
@@ -20344,15 +20321,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Wrong",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Wrong"
-}
-]
+"acai": []
 }
 },
 {
@@ -20432,11 +20401,11 @@
 "preferred_label": "Krete"
 },
 {
-"id": "group:Cretan",
-"type": "group",
-"confidence": 0.68,
+"id": "person:CretanProphet",
+"type": "person",
+"confidence": 0.5536,
 "match_method": "scored",
-"preferred_label": "Cretans"
+"preferred_label": "Cretan Prophet"
 }
 ]
 }
@@ -23827,22 +23796,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "Bow Down"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Worship"
-}
-]
+"acai": []
 }
 },
 {
@@ -24042,15 +23996,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "Rebel"
-}
-]
+"acai": []
 }
 },
 {
@@ -24520,15 +24466,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.9514,
-"match_method": "embedding",
-"preferred_label": "Perceive"
-}
-]
+"acai": []
 }
 },
 {
@@ -26575,22 +26513,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.6948,
-"match_method": "scored",
-"preferred_label": "Perceive"
-},
-{
-"id": "keyterm:Understanding",
-"type": "keyterm",
-"confidence": 0.6294,
-"match_method": "scored",
-"preferred_label": "Understanding"
-}
-]
+"acai": []
 }
 },
 {
@@ -27608,7 +27531,7 @@
 {
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
-"confidence": 0.8375,
+"confidence": 0.6745,
 "match_method": "scored",
 "preferred_label": "Blaspheme"
 }
@@ -31513,15 +31436,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:GrantJustice",
-"type": "keyterm",
-"confidence": 0.7655,
-"match_method": "scored",
-"preferred_label": "Avenge"
-}
-]
+"acai": []
 }
 },
 {
@@ -32174,7 +32089,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.596,
+"match_method": "scored",
+"preferred_label": "Dispossess"
+}
+]
 }
 },
 {
@@ -33245,7 +33168,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
@@ -33491,22 +33422,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Lot",
-"type": "keyterm",
-"confidence": 0.697,
-"match_method": "scored",
-"preferred_label": "Lot"
-},
-{
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 0.637,
-"match_method": "scored",
-"preferred_label": "Lot"
-}
-]
+"acai": []
 }
 },
 {
@@ -34306,6 +34222,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kushi"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Cush"
 }
 ]
 }
@@ -36168,15 +36091,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Appoint"
-}
-]
+"acai": []
 }
 },
 {
@@ -36633,13 +36548,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.9333,
-"match_method": "scored",
-"preferred_label": "World of the Dead"
 }
 ]
 }

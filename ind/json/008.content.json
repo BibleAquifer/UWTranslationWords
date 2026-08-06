@@ -806,20 +806,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Galilea"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6747,
-"match_method": "scored",
-"preferred_label": "Yehuda"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "Galileans"
 }
 ]
 }
@@ -1110,7 +1096,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -2316,85 +2310,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "place:WaterGate",
-"type": "place",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "Air"
-},
-{
-"id": "realia:Door",
-"type": "realia",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Door"
-},
-{
-"id": "place:FountainGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Mata"
-},
-{
-"id": "place:DungGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "gerbang"
-},
-{
-"id": "place:ValleyGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Lebak"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "gerbang"
-},
-{
-"id": "place:BeautifulGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "Bait"
-},
-{
-"id": "place:FishGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "Ikan"
-},
-{
-"id": "place:EphraimGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "Efraim"
-},
-{
-"id": "place:EastGate",
-"type": "place",
-"confidence": 0.6035,
-"match_method": "scored",
-"preferred_label": "East Gate"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6035,
-"match_method": "scored",
-"preferred_label": "Kuda"
-}
-]
+"acai": []
 }
 },
 {
@@ -2475,7 +2391,7 @@
 {
 "id": "group:Geshur",
 "type": "group",
-"confidence": 0.7143,
+"confidence": 0.683,
 "match_method": "scored",
 "preferred_label": "Geshurites"
 }
@@ -2619,7 +2535,7 @@
 {
 "id": "place:Gibeah.2",
 "type": "place",
-"confidence": 0.7833,
+"confidence": 0.9805,
 "match_method": "scored",
 "preferred_label": "Gibeah"
 }
@@ -2699,13 +2615,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Gibeon"
-},
-{
-"id": "group:Gibeon",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "Gibeonites"
 }
 ]
 }
@@ -2883,16 +2792,16 @@
 "preferred_label": "Galilea"
 },
 {
-"id": "place:Gilgal.3",
+"id": "place:Gilgal.2",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.9636,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 },
 {
-"id": "place:Gilgal.2",
+"id": "place:Gilgal.3",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.6242,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 }

@@ -175,7 +175,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Partiality",
+"type": "keyterm",
+"confidence": 0.7362,
+"match_method": "scored",
+"preferred_label": "Partiality"
+}
+]
 }
 },
 {
@@ -740,15 +748,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Decree"
-}
-]
+"acai": []
 }
 },
 {
@@ -1879,22 +1879,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.7622,
-"match_method": "scored",
-"preferred_label": "Spirit"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6368,
-"match_method": "scored",
-"preferred_label": "पवित्र आत्मा"
-}
-]
+"acai": []
 }
 },
 {
@@ -3301,15 +3286,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.8725,
-"match_method": "embedding",
-"preferred_label": "Glory"
-}
-]
+"acai": []
 }
 },
 {
@@ -3594,8 +3571,8 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5693,
+"match_method": "scored",
 "preferred_label": "Delight"
 }
 ]
@@ -5402,7 +5379,7 @@
 {
 "id": "keyterm:Surely",
 "type": "keyterm",
-"confidence": 0.9076,
+"confidence": 0.7561,
 "match_method": "scored",
 "preferred_label": "Surely!"
 }
@@ -7036,7 +7013,7 @@
 {
 "id": "keyterm:Hope",
 "type": "keyterm",
-"confidence": 0.9717,
+"confidence": 0.7183,
 "match_method": "scored",
 "preferred_label": "Hope"
 }
@@ -8415,15 +8392,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.8791,
-"match_method": "scored",
-"preferred_label": "Bless"
-}
-]
+"acai": []
 }
 },
 {
@@ -8539,7 +8508,7 @@
 {
 "id": "group:Asher",
 "type": "group",
-"confidence": 0.61,
+"confidence": 0.7591,
 "match_method": "scored",
 "preferred_label": "आशेर"
 }

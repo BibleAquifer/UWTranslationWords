@@ -1901,13 +1901,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Grain"
-},
-{
-"id": "flora:Wheat",
-"type": "flora",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Wheat"
 }
 ]
 }
@@ -2111,7 +2104,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Dinaite",
+"type": "person",
+"confidence": 0.5663,
+"match_method": "scored",
+"preferred_label": "Kiajemi"
+}
+]
 }
 },
 {
@@ -2732,7 +2733,7 @@
 {
 "id": "group:Naphtali",
 "type": "group",
-"confidence": 0.7067,
+"confidence": 0.8815,
 "match_method": "scored",
 "preferred_label": "Naftali"
 }
@@ -3195,15 +3196,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stain",
-"type": "keyterm",
-"confidence": 0.6316,
-"match_method": "scored",
-"preferred_label": "Defile"
-}
-]
+"acai": []
 }
 },
 {
@@ -4917,16 +4910,9 @@
 {
 "id": "keyterm:Favor",
 "type": "keyterm",
-"confidence": 0.9515,
+"confidence": 0.682,
 "match_method": "scored",
 "preferred_label": "Favor"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.6121,
-"match_method": "scored",
-"preferred_label": "Kindness"
 }
 ]
 }
@@ -6859,25 +6845,11 @@
 ],
 "acai": [
 {
-"id": "realia:SmallShield",
-"type": "realia",
-"confidence": 0.7929,
-"match_method": "scored",
-"preferred_label": "Small Shield"
-},
-{
 "id": "keyterm:Shield",
 "type": "keyterm",
-"confidence": 0.7714,
-"match_method": "scored",
+"confidence": 0.8648,
+"match_method": "embedding",
 "preferred_label": "Shield"
-},
-{
-"id": "realia:LargeShield",
-"type": "realia",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Large Shield"
 }
 ]
 }
@@ -7653,15 +7625,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "realia:Fortress",
-"type": "realia",
-"confidence": 0.6545,
-"match_method": "scored",
-"preferred_label": "Fortress"
-}
-]
+"acai": []
 }
 },
 {
@@ -8406,13 +8370,6 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Ninawi"
-},
-{
-"id": "group:Nineveh",
-"type": "group",
-"confidence": 0.675,
-"match_method": "scored",
 "preferred_label": "Ninawi"
 }
 ]
@@ -11943,7 +11900,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "Daudi"
+}
+]
 }
 },
 {
@@ -12283,13 +12248,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.7847,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -14727,22 +14685,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"confidence": 0.6895,
-"match_method": "scored",
-"preferred_label": "Good"
-},
-{
-"id": "keyterm:Honest",
-"type": "keyterm",
-"confidence": 0.6097,
-"match_method": "scored",
-"preferred_label": "Honest"
-}
-]
+"acai": []
 }
 }
 ]

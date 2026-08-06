@@ -255,20 +255,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Babylon"
-},
-{
-"id": "group:Babylon",
-"type": "group",
-"confidence": 0.6118,
-"match_method": "scored",
-"preferred_label": "Babylonians"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -321,15 +307,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Babylon"
-}
-]
+"acai": []
 }
 },
 {
@@ -951,6 +929,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Paran"
+},
+{
+"id": "place:ParanMount",
+"type": "place",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Mount Paran"
 }
 ]
 }
@@ -1446,7 +1431,7 @@
 {
 "id": "person:Judas.5",
 "type": "person",
-"confidence": 0.5589,
+"confidence": 0.5608,
 "match_method": "scored",
 "preferred_label": "Judas"
 }
@@ -1591,6 +1576,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Bashan"
+},
+{
+"id": "place:Batanea",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Batanea"
 }
 ]
 }

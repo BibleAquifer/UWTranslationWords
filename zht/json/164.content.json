@@ -592,7 +592,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.7418,
+"match_method": "scored",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
@@ -1539,7 +1547,7 @@
 {
 "id": "keyterm:Psalm",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8929,
 "match_method": "embedding",
 "preferred_label": "Psalm"
 }
@@ -4854,13 +4862,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Philip"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.5552,
-"match_method": "scored",
-"preferred_label": "John"
 }
 ]
 }
@@ -5557,7 +5558,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.6037,
+"match_method": "scored",
+"preferred_label": "Consecration"
+}
+]
 }
 },
 {
@@ -7290,21 +7299,21 @@
 {
 "id": "place:Sheba.2",
 "type": "place",
-"confidence": 0.6727,
+"confidence": 0.7053,
 "match_method": "scored",
 "preferred_label": "Sheba"
 },
 {
-"id": "person:Seba",
-"type": "person",
-"confidence": 0.6232,
+"id": "place:Seba",
+"type": "place",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Seba"
 },
 {
-"id": "place:Seba",
-"type": "place",
-"confidence": 0.5869,
+"id": "person:Seba",
+"type": "person",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Seba"
 }
@@ -7507,7 +7516,7 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.62,
+"confidence": 0.608,
 "match_method": "scored",
 "preferred_label": "Oak of Moreh"
 }
@@ -7833,13 +7842,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Obed-edom"
-},
-{
-"id": "group:Shimei",
-"type": "group",
-"confidence": 0.6667,
-"match_method": "scored",
-"preferred_label": "Shimeites"
 }
 ]
 }
@@ -8248,7 +8250,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.7459,
+"match_method": "scored",
+"preferred_label": "Put to the Test"
+}
+]
 }
 },
 {
@@ -8567,15 +8577,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "Interpret"
-}
-]
+"acai": []
 }
 },
 {
@@ -9064,15 +9066,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Oath",
-"type": "keyterm",
-"confidence": 0.7037,
-"match_method": "scored",
-"preferred_label": "Oath"
-}
-]
+"acai": []
 }
 },
 {

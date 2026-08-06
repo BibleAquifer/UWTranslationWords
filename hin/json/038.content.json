@@ -223,13 +223,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Trap"
-},
-{
-"id": "realia:Net",
-"type": "realia",
-"confidence": 0.6414,
-"match_method": "scored",
-"preferred_label": "Net"
 }
 ]
 }
@@ -2356,7 +2349,7 @@
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"confidence": 0.928,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Passover"
 }
@@ -3061,85 +3054,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "place:WaterGate",
-"type": "place",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "जलफाटक"
-},
-{
-"id": "realia:Door",
-"type": "realia",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Door"
-},
-{
-"id": "place:FountainGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Fountain Gate"
-},
-{
-"id": "place:DungGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Dung Gate"
-},
-{
-"id": "place:ValleyGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Valley Gate"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "भेड़ फाटक"
-},
-{
-"id": "place:BeautifulGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "Beautiful Gate"
-},
-{
-"id": "place:FishGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "Fish Gate"
-},
-{
-"id": "place:EphraimGate",
-"type": "place",
-"confidence": 0.607,
-"match_method": "scored",
-"preferred_label": "Ephraim Gate"
-},
-{
-"id": "place:EastGate",
-"type": "place",
-"confidence": 0.6035,
-"match_method": "scored",
-"preferred_label": "East Gate"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6035,
-"match_method": "scored",
-"preferred_label": "Horse Gate"
-}
-]
+"acai": []
 }
 },
 {
@@ -3322,13 +3237,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "फारस"
-},
-{
-"id": "group:Persia",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "फारसी"
 }
 ]
 }
@@ -4652,13 +4560,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "फिलिप्पी"
-},
-{
-"id": "group:Philippi",
-"type": "group",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "फिलिप्पियों"
 }
 ]
 }
@@ -4956,13 +4857,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "फिलिप्पुस"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.5552,
-"match_method": "scored",
-"preferred_label": "यूहन्ना"
 }
 ]
 }

@@ -130,7 +130,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.937,
+"match_method": "scored",
+"preferred_label": "Kiln"
+}
+]
 }
 },
 {
@@ -735,7 +743,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Spear"
+}
+]
 }
 },
 {
@@ -862,7 +878,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Pig",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pig"
+}
+]
 }
 },
 {

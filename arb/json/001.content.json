@@ -523,13 +523,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "ٱلسَّامِرَةِ"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.7286,
-"match_method": "scored",
-"preferred_label": "Samaritans"
 }
 ]
 }
@@ -901,14 +894,14 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.8192,
 "match_method": "scored",
 "preferred_label": "Wine"
 },
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6977,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -1031,15 +1024,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "realia:CoatOfMail",
-"type": "realia",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Coat of Mail"
-}
-]
+"acai": []
 }
 },
 {
@@ -7374,15 +7359,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.8565,
-"match_method": "embedding",
-"preferred_label": "Ask for"
-}
-]
+"acai": []
 }
 },
 {
@@ -7673,21 +7650,21 @@
 {
 "id": "place:Sheba.2",
 "type": "place",
-"confidence": 0.6727,
+"confidence": 0.7053,
 "match_method": "scored",
 "preferred_label": "Sheba"
 },
 {
-"id": "person:Seba",
-"type": "person",
-"confidence": 0.6232,
+"id": "place:Seba",
+"type": "place",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "سَبَا"
 },
 {
-"id": "place:Seba",
-"type": "place",
-"confidence": 0.5869,
+"id": "person:Seba",
+"type": "person",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "سَبَا"
 }
@@ -8237,7 +8214,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.9724,
+"confidence": 0.9925,
 "match_method": "scored",
 "preferred_label": "Sabbath"
 }
@@ -8725,15 +8702,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Magic",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Magic"
-}
-]
+"acai": []
 }
 },
 {
@@ -9429,14 +9398,14 @@
 {
 "id": "flora:Fir",
 "type": "flora",
-"confidence": 0.75,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Fir"
 },
 {
 "id": "flora:Juniper",
 "type": "flora",
-"confidence": 0.6,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "Grecian Juniper"
 }
@@ -9656,7 +9625,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -11590,7 +11567,7 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.9581,
+"confidence": 0.9228,
 "match_method": "scored",
 "preferred_label": "Authority"
 }
@@ -11928,7 +11905,7 @@
 {
 "id": "group:Zealot",
 "type": "group",
-"confidence": 0.572,
+"confidence": 0.692,
 "match_method": "scored",
 "preferred_label": "ٱلْغَيورَ"
 }
@@ -13265,13 +13242,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "أَدومَ"
-},
-{
-"id": "group:Syria",
-"type": "group",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Syrians"
 }
 ]
 }
@@ -14143,13 +14113,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "سِينَاءَ"
-},
-{
-"id": "place:SinaiWilderness",
-"type": "place",
-"confidence": 0.64,
-"match_method": "scored",
-"preferred_label": "بَرِّيَّةِ"
 }
 ]
 }

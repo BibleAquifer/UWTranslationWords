@@ -254,14 +254,14 @@
 {
 "id": "place:Philistine",
 "type": "place",
-"confidence": 0.6935,
+"confidence": 0.848,
 "match_method": "scored",
 "preferred_label": "Philistia"
 },
 {
 "id": "person:Philistine",
 "type": "person",
-"confidence": 0.5949,
+"confidence": 0.5795,
 "match_method": "scored",
 "preferred_label": "Philistine"
 }
@@ -497,13 +497,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Philippi"
-},
-{
-"id": "group:Philippi",
-"type": "group",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "Philippians"
 }
 ]
 }

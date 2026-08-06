@@ -524,7 +524,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9628,
+"confidence": 0.9393,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -1546,15 +1546,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.757,
-"match_method": "scored",
-"preferred_label": "Kindness"
-}
-]
+"acai": []
 }
 },
 {
@@ -1958,13 +1950,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ark of the Covenant"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"confidence": 0.9385,
-"match_method": "scored",
-"preferred_label": "Covenant Box"
 }
 ]
 }
@@ -2716,6 +2701,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jonadab"
+},
+{
+"id": "person:Johanan.9",
+"type": "person",
+"confidence": 0.6045,
+"match_method": "scored",
+"preferred_label": "Johanan"
 }
 ]
 }
@@ -5011,7 +5003,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.678,
+"confidence": 0.7936,
 "match_method": "scored",
 "preferred_label": "New Moon Festival"
 }

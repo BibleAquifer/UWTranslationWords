@@ -203,13 +203,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "كوشِيِّينَ"
-},
-{
-"id": "group:Ethiopia",
-"type": "group",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Ethiopians"
 }
 ]
 }
@@ -481,7 +474,7 @@
 {
 "id": "person:Heth",
 "type": "person",
-"confidence": 0.9333,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "حِثًّا"
 }
@@ -960,29 +953,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "حَامًا"
-},
-{
-"id": "place:Ham.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "حَامًا"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ٱلْعَمّونِيِّينَ"
-}
-]
+"acai": []
 }
 },
 {
@@ -1095,13 +1066,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "حَبْرونَ"
-},
-{
-"id": "place:HebronValley",
-"type": "place",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "مِنْ"
 }
 ]
 }
@@ -1506,13 +1470,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Grain"
-},
-{
-"id": "flora:Wheat",
-"type": "flora",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Wheat"
 }
 ]
 }
@@ -1927,7 +1884,7 @@
 {
 "id": "keyterm:Beloved",
 "type": "keyterm",
-"confidence": 0.975,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "Beloved"
 }
@@ -2007,7 +1964,7 @@
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.5959,
 "match_method": "scored",
 "preferred_label": "Foundation"
 }
@@ -3491,13 +3448,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Horse"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6103,
-"match_method": "scored",
-"preferred_label": "ٱلْخَيْلِ"
 }
 ]
 }
@@ -7753,15 +7703,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.9514,
-"match_method": "embedding",
-"preferred_label": "Perceive"
-}
-]
+"acai": []
 }
 },
 {
@@ -8275,7 +8217,7 @@
 {
 "id": "person:Hanani.4",
 "type": "person",
-"confidence": 0.5592,
+"confidence": 0.5941,
 "match_method": "scored",
 "preferred_label": "حَنَانِي"
 }

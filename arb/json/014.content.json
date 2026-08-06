@@ -1256,7 +1256,7 @@
 {
 "id": "realia:Doorstep",
 "type": "realia",
-"confidence": 0.5833,
+"confidence": 0.5676,
 "match_method": "scored",
 "preferred_label": "Doorstep"
 }
@@ -1454,16 +1454,9 @@
 {
 "id": "group:Arabia",
 "type": "group",
-"confidence": 0.6255,
+"confidence": 0.6801,
 "match_method": "scored",
 "preferred_label": "Arabians"
-},
-{
-"id": "place:Arabia.2",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Arabia Petraea"
 }
 ]
 }
@@ -2326,22 +2319,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Height",
-"type": "keyterm",
-"confidence": 0.749,
-"match_method": "scored",
-"preferred_label": "Height"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.5775,
-"match_method": "scored",
-"preferred_label": "ٱلرَّبِّ"
-}
-]
+"acai": []
 }
 },
 {
@@ -2586,22 +2564,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "person:FirstProstitute",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Prostitute"
-},
-{
-"id": "person:SecondProstitute",
-"type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Prostitute"
-}
-]
+"acai": []
 }
 },
 {
@@ -3217,22 +3180,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "Bow Down"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Worship"
-}
-]
+"acai": []
 }
 },
 {
@@ -6809,7 +6757,7 @@
 {
 "id": "place:Eden.2",
 "type": "place",
-"confidence": 0.8667,
+"confidence": 0.8825,
 "match_method": "scored",
 "preferred_label": "Garden of Eden"
 }
@@ -6954,7 +6902,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.655,
+"match_method": "scored",
+"preferred_label": "Be Unfaithful"
+}
+]
 }
 },
 {
@@ -8214,11 +8170,11 @@
 "preferred_label": "أَخَزْيَا"
 },
 {
-"id": "person:Hananiah.15",
+"id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.7333,
+"confidence": 0.556,
 "match_method": "scored",
-"preferred_label": "حَنَنِيَّا"
+"preferred_label": "أَمَرْيَا"
 }
 ]
 }
@@ -9083,7 +9039,7 @@
 {
 "id": "realia:Rod",
 "type": "realia",
-"confidence": 0.6944,
+"confidence": 0.555,
 "match_method": "scored",
 "preferred_label": "Rod"
 }
@@ -9241,13 +9197,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -9556,8 +9505,8 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.6343,
+"match_method": "scored",
 "preferred_label": "Majesty"
 }
 ]
@@ -9789,7 +9738,7 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"confidence": 0.7577,
+"confidence": 0.8635,
 "match_method": "scored",
 "preferred_label": "عَمَالِيقَ"
 }
@@ -10282,7 +10231,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.7418,
+"match_method": "scored",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
@@ -12021,6 +11978,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "ٱلْعَمّونِيِّينَ"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.8522,
+"match_method": "scored",
+"preferred_label": "Ammonites"
 }
 ]
 }
@@ -12053,6 +12017,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "عَنَاقَ"
+},
+{
+"id": "group:Anak",
+"type": "group",
+"confidence": 0.7689,
+"match_method": "scored",
+"preferred_label": "Anakim"
 }
 ]
 }
@@ -12522,6 +12493,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Lute"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 0.704,
+"match_method": "scored",
+"preferred_label": "Lyre"
 }
 ]
 }
@@ -12699,7 +12677,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.6335,
+"match_method": "scored",
+"preferred_label": "Feast of Weeks"
+}
+]
 }
 },
 {
@@ -12978,7 +12964,7 @@
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"confidence": 0.928,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Passover"
 }
@@ -13495,7 +13481,7 @@
 {
 "id": "place:Edom",
 "type": "place",
-"confidence": 0.6427,
+"confidence": 0.684,
 "match_method": "scored",
 "preferred_label": "أَدومَ"
 }
@@ -13622,13 +13608,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "عِيلَامَ"
-},
-{
-"id": "group:Elam",
-"type": "group",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "Elamites"
 }
 ]
 }
