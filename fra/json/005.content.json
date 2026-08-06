@@ -1176,7 +1176,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.7235,
+"confidence": 0.6396,
 "match_method": "scored",
 "preferred_label": "Canaan"
 }
@@ -1610,7 +1610,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6141,
 "match_method": "scored",
 "preferred_label": "Mount Carmel"
 }
@@ -1746,7 +1746,7 @@
 {
 "id": "realia:Chariot",
 "type": "realia",
-"confidence": 0.6276,
+"confidence": 0.6793,
 "match_method": "scored",
 "preferred_label": "Chariot"
 }
@@ -2147,15 +2147,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "person:Centurion",
-"type": "person",
-"confidence": 0.555,
-"match_method": "scored",
-"preferred_label": "A Centurion"
-}
-]
+"acai": []
 }
 },
 {
@@ -2641,6 +2633,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Césarée"
+},
+{
+"id": "place:CaesareaPhilippi",
+"type": "place",
+"confidence": 0.5526,
+"match_method": "scored",
+"preferred_label": "Césarée de Philippe"
 }
 ]
 }
@@ -2770,16 +2769,9 @@
 {
 "id": "place:Chaldea",
 "type": "place",
-"confidence": 0.8286,
+"confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Chaldée"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.573,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -2881,29 +2873,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cham"
-},
-{
-"id": "place:Ham.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cham"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ammon"
-}
-]
+"acai": []
 }
 },
 {
@@ -4357,13 +4327,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Tharthan"
-},
-{
-"id": "keyterm:Leader",
-"type": "keyterm",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "térébinthe"
 }
 ]
 }
@@ -4558,11 +4521,11 @@
 "preferred_label": "Oak"
 },
 {
-"id": "flora:Terebinth",
-"type": "flora",
-"confidence": 0.6667,
+"id": "place:Allon",
+"type": "place",
+"confidence": 0.6222,
 "match_method": "scored",
-"preferred_label": "Terebinth"
+"preferred_label": "Allon"
 }
 ]
 }
@@ -5866,7 +5829,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.9167,
+"confidence": 0.865,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -6132,13 +6095,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Horse"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6103,
-"match_method": "scored",
-"preferred_label": "porte des chevaux"
 }
 ]
 }
@@ -6482,7 +6438,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.69,
+"confidence": 0.85,
 "match_method": "scored",
 "preferred_label": "Jésus"
 }
@@ -11928,22 +11884,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "cieux [également employé pour dieu pour éviter la mention du nom sacré]"
-},
-{
-"id": "keyterm:Heavenly",
-"type": "keyterm",
-"confidence": 0.5614,
-"match_method": "scored",
-"preferred_label": "céleste"
-}
-]
+"acai": []
 }
 },
 {
@@ -12532,9 +12473,16 @@
 "preferred_label": "City of David"
 },
 {
+"id": "person:David",
+"type": "person",
+"confidence": 0.652,
+"match_method": "scored",
+"preferred_label": "David"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6075,
+"confidence": 0.5644,
 "match_method": "scored",
 "preferred_label": "Jérusalem"
 }
@@ -12762,15 +12710,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"confidence": 0.8399,
-"match_method": "embedding",
-"preferred_label": "le bien"
-}
-]
+"acai": []
 }
 },
 {
@@ -13656,6 +13596,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Colosses"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.616,
+"match_method": "scored",
+"preferred_label": "grâce"
 }
 ]
 }
@@ -13904,7 +13851,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
@@ -14167,7 +14122,7 @@
 {
 "id": "keyterm:Fellowship",
 "type": "keyterm",
-"confidence": 0.84,
+"confidence": 0.9106,
 "match_method": "scored",
 "preferred_label": "fraternité"
 }
@@ -14380,15 +14335,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Compassionate",
-"type": "keyterm",
-"confidence": 0.5847,
-"match_method": "scored",
-"preferred_label": "miséricordieux"
-}
-]
+"acai": []
 }
 },
 {
@@ -15459,22 +15406,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.6948,
-"match_method": "scored",
-"preferred_label": "percevoir"
-},
-{
-"id": "keyterm:Understanding",
-"type": "keyterm",
-"confidence": 0.6294,
-"match_method": "scored",
-"preferred_label": "comprehension"
-}
-]
+"acai": []
 }
 },
 {
@@ -15733,15 +15665,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.9514,
-"match_method": "embedding",
-"preferred_label": "percevoir"
-}
-]
+"acai": []
 }
 },
 {
@@ -16078,15 +16002,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.8146,
-"match_method": "scored",
-"preferred_label": "condamner"
-}
-]
+"acai": []
 }
 },
 {
@@ -16655,15 +16571,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.6783,
-"match_method": "scored",
-"preferred_label": "s'appuyer sur"
-}
-]
+"acai": []
 }
 },
 {
@@ -22591,7 +22499,7 @@
 {
 "id": "keyterm:Conscience",
 "type": "keyterm",
-"confidence": 0.9733,
+"confidence": 0.9412,
 "match_method": "scored",
 "preferred_label": "conscience"
 }
@@ -23126,7 +23034,7 @@
 {
 "id": "group:Corinth",
 "type": "group",
-"confidence": 0.6615,
+"confidence": 0.5785,
 "match_method": "scored",
 "preferred_label": "un corinthien"
 }
@@ -23375,16 +23283,9 @@
 {
 "id": "realia:RamsHorn",
 "type": "realia",
-"confidence": 0.7067,
+"confidence": 0.6072,
 "match_method": "scored",
 "preferred_label": "Rams Horn"
-},
-{
-"id": "keyterm:Horn",
-"type": "keyterm",
-"confidence": 0.6133,
-"match_method": "scored",
-"preferred_label": "colline"
 }
 ]
 }
@@ -25041,11 +24942,11 @@
 "preferred_label": "Crète"
 },
 {
-"id": "group:Cretan",
-"type": "group",
-"confidence": 0.68,
+"id": "person:CretanProphet",
+"type": "person",
+"confidence": 0.5536,
 "match_method": "scored",
-"preferred_label": "un crétois"
+"preferred_label": "Cretan Prophet"
 }
 ]
 }
@@ -27582,15 +27483,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.9228,
-"match_method": "scored",
-"preferred_label": "croire"
-}
-]
+"acai": []
 }
 },
 {
@@ -28124,7 +28017,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 0.7758,
+"match_method": "scored",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
@@ -28423,6 +28324,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Cusch"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Cush"
 }
 ]
 }
@@ -28517,14 +28425,14 @@
 {
 "id": "flora:Fir",
 "type": "flora",
-"confidence": 0.75,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Fir"
 },
 {
 "id": "flora:Juniper",
 "type": "flora",
-"confidence": 0.6,
+"confidence": 0.787,
 "match_method": "scored",
 "preferred_label": "Grecian Juniper"
 }

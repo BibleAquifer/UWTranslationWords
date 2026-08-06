@@ -125,6 +125,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Maaca"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Maacathites"
 }
 ]
 }
@@ -561,15 +568,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Magic",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "as artes mágicas"
-}
-]
+"acai": []
 }
 },
 {
@@ -788,8 +787,8 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.6343,
+"match_method": "scored",
 "preferred_label": "majesty"
 }
 ]
@@ -3682,6 +3681,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Manassés"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
+"preferred_label": "Manassés"
 }
 ]
 }
@@ -4123,13 +4129,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Robe"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.5929,
-"match_method": "scored",
-"preferred_label": "Cloak"
 }
 ]
 }
@@ -4455,13 +4454,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sea of Galilee"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.6157,
-"match_method": "scored",
-"preferred_label": "Galileia"
 }
 ]
 }
@@ -5802,16 +5794,9 @@
 "preferred_label": "Medes"
 },
 {
-"id": "person:Medan",
-"type": "person",
-"confidence": 0.75,
-"match_method": "scored",
-"preferred_label": "Medã"
-},
-{
 "id": "place:Media",
 "type": "place",
-"confidence": 0.6505,
+"confidence": 0.566,
 "match_method": "scored",
 "preferred_label": "Media"
 }
@@ -6925,22 +6910,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mind.2",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "mente"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "coração"
-}
-]
+"acai": []
 }
 },
 {
@@ -7401,13 +7371,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mesopotâmia"
-},
-{
-"id": "place:Aram-naharaim",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Aram-naharaim"
 }
 ]
 }
@@ -8007,13 +7970,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Midiã"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Midianites"
 }
 ]
 }
@@ -8472,15 +8428,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:MiraculousSign",
-"type": "keyterm",
-"confidence": 0.6163,
-"match_method": "scored",
-"preferred_label": "Miraculous Sign"
-}
-]
+"acai": []
 }
 },
 {
@@ -9038,16 +8986,9 @@
 {
 "id": "keyterm:Serve",
 "type": "keyterm",
-"confidence": 0.8418,
+"confidence": 0.6594,
 "match_method": "scored",
 "preferred_label": "servir"
-},
-{
-"id": "keyterm:Servant",
-"type": "keyterm",
-"confidence": 0.6176,
-"match_method": "scored",
-"preferred_label": "servidor público"
 }
 ]
 }
@@ -10043,7 +9984,7 @@
 {
 "id": "keyterm:Mercy",
 "type": "keyterm",
-"confidence": 0.8923,
+"confidence": 0.6583,
 "match_method": "scored",
 "preferred_label": "misericórdia"
 }
@@ -10168,6 +10109,34 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mispa"
+},
+{
+"id": "place:Mizpah.2",
+"type": "place",
+"confidence": 0.6552,
+"match_method": "scored",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Vale de Mispa"
+},
+{
+"id": "place:Mizpeh.2",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+},
+{
+"id": "place:Mizpeh.3",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
 }
 ]
 }
@@ -12954,6 +12923,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Monte das Oliveiras"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Olive Tree"
 }
 ]
 }

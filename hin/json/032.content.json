@@ -63,15 +63,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "realia:Bow",
-"type": "realia",
-"confidence": 0.7091,
-"match_method": "scored",
-"preferred_label": "Bow"
-}
-]
+"acai": []
 }
 },
 {
@@ -3445,22 +3437,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Zealous.3",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Zealous"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.8454,
-"match_method": "embedding",
-"preferred_label": "Jealous"
-}
-]
+"acai": []
 }
 },
 {
@@ -3730,15 +3707,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.565,
-"match_method": "scored",
-"preferred_label": "Altar"
-}
-]
+"acai": []
 }
 },
 {
@@ -3767,7 +3736,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.6737,
+"match_method": "scored",
+"preferred_label": "Crafty"
+}
+]
 }
 },
 {

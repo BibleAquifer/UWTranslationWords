@@ -626,7 +626,7 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.9802,
+"confidence": 0.8522,
 "match_method": "scored",
 "preferred_label": "injil"
 }
@@ -1328,6 +1328,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kaisarea"
+},
+{
+"id": "place:CaesareaPhilippi",
+"type": "place",
+"confidence": 0.5526,
+"match_method": "scored",
+"preferred_label": "Kaisarea"
 }
 ]
 }
@@ -1998,7 +2005,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.7235,
+"confidence": 0.6396,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }
@@ -2305,7 +2312,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6141,
 "match_method": "scored",
 "preferred_label": "Karmel"
 }
@@ -2444,16 +2451,9 @@
 {
 "id": "place:Chaldea",
 "type": "place",
-"confidence": 0.8286,
+"confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Kasdim"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.573,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -4161,7 +4161,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.9583,
+"confidence": 0.7432,
 "match_method": "scored",
 "preferred_label": "kasihi"
 }
@@ -5763,8 +5763,8 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.6343,
+"match_method": "scored",
 "preferred_label": "keagungan"
 }
 ]
@@ -6040,7 +6040,7 @@
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
-"confidence": 0.981,
+"confidence": 0.9542,
 "match_method": "scored",
 "preferred_label": "kebangkitan"
 }
@@ -6320,7 +6320,7 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 1.0,
+"confidence": 0.946,
 "match_method": "scored",
 "preferred_label": "Vine"
 }
@@ -6470,11 +6470,11 @@
 "preferred_label": "Kedesh"
 },
 {
-"id": "place:Kishion",
+"id": "place:Kadesh-barnea",
 "type": "place",
-"confidence": 0.5833,
+"confidence": 0.64,
 "match_method": "scored",
-"preferred_label": "Kisyon"
+"preferred_label": "Kadesh"
 }
 ]
 }
@@ -7739,15 +7739,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.8725,
-"match_method": "embedding",
-"preferred_label": "kemuliaan"
-}
-]
+"acai": []
 }
 },
 {
@@ -7810,15 +7802,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.6005,
-"match_method": "scored",
-"preferred_label": "kasihi"
-}
-]
+"acai": []
 }
 },
 {
@@ -8067,15 +8051,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Abomination",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "kekejian"
-}
-]
+"acai": []
 }
 },
 {
@@ -8713,7 +8689,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "Daud"
+}
+]
 }
 },
 {
@@ -10225,15 +10209,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.9464,
-"match_method": "scored",
-"preferred_label": "kemuliaan"
-}
-]
+"acai": []
 }
 },
 {
@@ -10524,15 +10500,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.6783,
-"match_method": "scored",
-"preferred_label": "bersandar pada"
-}
-]
+"acai": []
 }
 },
 {
@@ -10953,22 +10921,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mighty",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "mulia"
-},
-{
-"id": "keyterm:Mighty.2",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "orang lalim"
-}
-]
+"acai": []
 }
 },
 {
@@ -11953,15 +11906,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.8455,
-"match_method": "scored",
-"preferred_label": "kerajaan"
-}
-]
+"acai": []
 }
 },
 {
@@ -12175,15 +12120,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"confidence": 0.8845,
-"match_method": "scored",
-"preferred_label": "kerasukan setan"
-}
-]
+"acai": []
 }
 },
 {
@@ -14308,15 +14245,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Witness.2",
-"type": "keyterm",
-"confidence": 0.6153,
-"match_method": "scored",
-"preferred_label": "hukum"
-}
-]
+"acai": []
 }
 },
 {
@@ -14601,8 +14530,8 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5693,
+"match_method": "scored",
 "preferred_label": "berkenan"
 }
 ]
@@ -15128,15 +15057,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.757,
-"match_method": "scored",
-"preferred_label": "kebaikan"
-}
-]
+"acai": []
 }
 },
 {
@@ -15924,7 +15845,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -15975,6 +15904,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kolose"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.616,
+"match_method": "scored",
+"preferred_label": "kebaikan"
 }
 ]
 }
@@ -16240,13 +16176,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Korah"
-},
-{
-"id": "group:Korah",
-"type": "group",
-"confidence": 0.6211,
-"match_method": "scored",
-"preferred_label": "Korahites"
 }
 ]
 }
@@ -16532,7 +16461,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.8385,
+"confidence": 0.7307,
 "match_method": "scored",
 "preferred_label": "persembahan"
 }
@@ -16994,7 +16923,7 @@
 {
 "id": "group:Corinth",
 "type": "group",
-"confidence": 0.6615,
+"confidence": 0.5785,
 "match_method": "scored",
 "preferred_label": "Corinthians"
 }
@@ -17216,9 +17145,16 @@
 "preferred_label": "City of David"
 },
 {
+"id": "person:David",
+"type": "person",
+"confidence": 0.652,
+"match_method": "scored",
+"preferred_label": "Daud"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6075,
+"confidence": 0.5644,
 "match_method": "scored",
 "preferred_label": "Yerusalem"
 }
@@ -17302,11 +17238,11 @@
 "preferred_label": "Kreta"
 },
 {
-"id": "group:Cretan",
-"type": "group",
-"confidence": 0.68,
+"id": "person:CretanProphet",
+"type": "person",
+"confidence": 0.5536,
 "match_method": "scored",
-"preferred_label": "Cretans"
+"preferred_label": "Cretan Prophet"
 }
 ]
 }
@@ -17410,7 +17346,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.69,
+"confidence": 0.85,
 "match_method": "scored",
 "preferred_label": "Yesus"
 }
@@ -21281,15 +21217,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.9111,
-"match_method": "scored",
-"preferred_label": "khusus"
-}
-]
+"acai": []
 }
 },
 {
@@ -21440,15 +21368,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6087,
-"match_method": "scored",
-"preferred_label": "persembahan"
-}
-]
+"acai": []
 }
 },
 {
@@ -21563,6 +21483,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Etiopia"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Cush"
 }
 ]
 }

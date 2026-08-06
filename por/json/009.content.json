@@ -167,13 +167,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.9333,
-"match_method": "scored",
-"preferred_label": "World of the Dead"
 }
 ]
 }
@@ -785,7 +778,7 @@
 {
 "id": "person:Hanani.4",
 "type": "person",
-"confidence": 0.5592,
+"confidence": 0.5941,
 "match_method": "scored",
 "preferred_label": "Hanani"
 }
@@ -1483,13 +1476,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hebrom"
-},
-{
-"id": "place:HebronValley",
-"type": "place",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "Vale de Hebrom"
 }
 ]
 }
@@ -3062,15 +3048,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Hypocrisy",
-"type": "keyterm",
-"confidence": 0.8083,
-"match_method": "embedding",
-"preferred_label": "hipocrisia"
-}
-]
+"acai": []
 }
 },
 {
@@ -3340,7 +3318,7 @@
 {
 "id": "person:Heth",
 "type": "person",
-"confidence": 0.9333,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Hete"
 }
@@ -3635,7 +3613,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.8385,
+"confidence": 0.7307,
 "match_method": "scored",
 "preferred_label": "offering"
 }
@@ -3708,7 +3686,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6279,
+"match_method": "scored",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
@@ -4435,15 +4421,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.8725,
-"match_method": "embedding",
-"preferred_label": "Glory"
-}
-]
+"acai": []
 }
 },
 {
@@ -5160,15 +5138,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.8114,
-"match_method": "embedding",
-"preferred_label": "terror"
-}
-]
+"acai": []
 }
 },
 {
@@ -5361,15 +5331,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Poor",
-"type": "keyterm",
-"confidence": 0.6143,
-"match_method": "scored",
-"preferred_label": "poor"
-}
-]
+"acai": []
 }
 },
 {

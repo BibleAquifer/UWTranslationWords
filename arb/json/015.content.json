@@ -430,14 +430,14 @@
 {
 "id": "place:Philistine",
 "type": "place",
-"confidence": 0.6935,
+"confidence": 0.848,
 "match_method": "scored",
 "preferred_label": "ٱلْفِلِسْطِينِيِّينَ"
 },
 {
 "id": "person:Philistine",
 "type": "person",
-"confidence": 0.5949,
+"confidence": 0.5795,
 "match_method": "scored",
 "preferred_label": "فِلِشْتِيم"
 }
@@ -542,6 +542,13 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "فَارَانَ"
+},
+{
+"id": "place:ParanMount",
+"type": "place",
+"confidence": 0.7143,
+"match_method": "scored",
 "preferred_label": "فَارَانَ"
 }
 ]
@@ -1032,13 +1039,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Trap"
-},
-{
-"id": "realia:Net",
-"type": "realia",
-"confidence": 0.6414,
-"match_method": "scored",
-"preferred_label": "Net"
 }
 ]
 }
@@ -1335,15 +1335,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Ransom",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Ransom"
-}
-]
+"acai": []
 }
 },
 {
@@ -2584,7 +2576,7 @@
 {
 "id": "realia:Chariot",
 "type": "realia",
-"confidence": 0.6276,
+"confidence": 0.6793,
 "match_method": "scored",
 "preferred_label": "Chariot"
 }
@@ -5392,15 +5384,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "realia:Money",
-"type": "realia",
-"confidence": 0.9221,
-"match_method": "scored",
-"preferred_label": "Money"
-}
-]
+"acai": []
 }
 },
 {
@@ -5849,22 +5833,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.8192,
-"match_method": "scored",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"confidence": 0.6033,
-"match_method": "scored",
-"preferred_label": "Delight"
-}
-]
+"acai": []
 }
 },
 {
@@ -6187,11 +6156,11 @@
 "preferred_label": "ٱلْبَعْلِ"
 },
 {
-"id": "place:Peor",
+"id": "place:Beth-peor",
 "type": "place",
-"confidence": 0.5643,
+"confidence": 0.5631,
 "match_method": "scored",
-"preferred_label": "فَغورَ"
+"preferred_label": "Beth-peor"
 }
 ]
 }
@@ -6585,22 +6554,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mind.2",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "Mind"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "Heart"
-}
-]
+"acai": []
 }
 },
 {
@@ -6901,13 +6855,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ship"
-},
-{
-"id": "realia:Boat",
-"type": "realia",
-"confidence": 0.6432,
-"match_method": "scored",
-"preferred_label": "Boat"
 }
 ]
 }
@@ -8011,22 +7958,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:InChrist",
-"type": "keyterm",
-"confidence": 0.7753,
-"match_method": "scored",
-"preferred_label": "In Christ"
-},
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.7289,
-"match_method": "scored",
-"preferred_label": "يَسوع"
-}
-]
+"acai": []
 }
 },
 {
@@ -8166,13 +8098,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "فِيلبّسَ"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.5552,
-"match_method": "scored",
-"preferred_label": "يوحَنَّا"
 }
 ]
 }
@@ -8289,13 +8214,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "فِيلِبِّي"
-},
-{
-"id": "group:Philippi",
-"type": "group",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "Philippians"
 }
 ]
 }

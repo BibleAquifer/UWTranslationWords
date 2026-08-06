@@ -130,21 +130,21 @@
 {
 "id": "place:Sheba.2",
 "type": "place",
-"confidence": 0.6727,
+"confidence": 0.7053,
 "match_method": "scored",
 "preferred_label": "Sheba"
 },
 {
-"id": "person:Seba",
-"type": "person",
-"confidence": 0.6232,
+"id": "place:Seba",
+"type": "place",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Saba"
 },
 {
-"id": "place:Seba",
-"type": "place",
-"confidence": 0.5869,
+"id": "person:Seba",
+"type": "person",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Saba"
 }
@@ -694,7 +694,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.9724,
+"confidence": 0.9925,
 "match_method": "scored",
 "preferred_label": "sabbat"
 }
@@ -969,7 +969,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.7285,
 "match_method": "scored",
 "preferred_label": "offrande"
 }
@@ -1063,14 +1063,14 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.8192,
 "match_method": "scored",
 "preferred_label": "Wine"
 },
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6977,
 "match_method": "scored",
 "preferred_label": "offrande"
 }
@@ -1175,15 +1175,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "offrande"
-}
-]
+"acai": []
 }
 },
 {
@@ -1853,7 +1845,22 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "offrande"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.5879,
+"match_method": "scored",
+"preferred_label": "tuerie"
+}
+]
 }
 },
 {
@@ -4181,15 +4188,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.9111,
-"match_method": "scored",
-"preferred_label": "saint"
-}
-]
+"acai": []
 }
 },
 {
@@ -6647,15 +6646,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stain",
-"type": "keyterm",
-"confidence": 0.6316,
-"match_method": "scored",
-"preferred_label": "souiller"
-}
-]
+"acai": []
 }
 },
 {
@@ -7126,13 +7117,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Samarie"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.7286,
-"match_method": "scored",
-"preferred_label": "Shimrath"
 }
 ]
 }
@@ -7616,7 +7600,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.6037,
+"match_method": "scored",
+"preferred_label": "consécration"
+}
+]
 }
 },
 {
@@ -7979,20 +7971,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Fir"
-},
-{
-"id": "flora:Cypress",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Cypress"
-},
-{
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.7667,
-"match_method": "scored",
-"preferred_label": "Grecian Juniper"
 }
 ]
 }
@@ -8941,14 +8919,14 @@
 {
 "id": "person:Shaul",
 "type": "person",
-"confidence": 0.6615,
+"confidence": 0.6026,
 "match_method": "scored",
 "preferred_label": "Shaul"
 },
 {
 "id": "person:Shaul.2",
 "type": "person",
-"confidence": 0.612,
+"confidence": 0.5531,
 "match_method": "scored",
 "preferred_label": "Shaul"
 }
@@ -9971,7 +9949,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.5862,
+"match_method": "scored",
+"preferred_label": "aide"
+}
+]
 }
 },
 {
@@ -10182,7 +10168,7 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"confidence": 0.8909,
+"confidence": 0.7159,
 "match_method": "scored",
 "preferred_label": "sauveur"
 }
@@ -10520,13 +10506,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.7167,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -10724,13 +10703,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Obed-edom"
-},
-{
-"id": "group:Shimei",
-"type": "group",
-"confidence": 0.6667,
-"match_method": "scored",
-"preferred_label": "Shemaya"
 }
 ]
 }
@@ -11886,15 +11858,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.8565,
-"match_method": "embedding",
-"preferred_label": "prier"
-}
-]
+"acai": []
 }
 },
 {
@@ -21620,15 +21584,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Oath",
-"type": "keyterm",
-"confidence": 0.7037,
-"match_method": "scored",
-"preferred_label": "adjuration"
-}
-]
+"acai": []
 }
 },
 {
@@ -25275,7 +25231,7 @@
 {
 "id": "realia:Doorstep",
 "type": "realia",
-"confidence": 0.5833,
+"confidence": 0.5676,
 "match_method": "scored",
 "preferred_label": "Doorstep"
 }
@@ -25478,7 +25434,7 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.62,
+"confidence": 0.608,
 "match_method": "scored",
 "preferred_label": "chênes de Moré"
 }
@@ -25666,7 +25622,7 @@
 {
 "id": "group:Sidon",
 "type": "group",
-"confidence": 0.6333,
+"confidence": 0.6361,
 "match_method": "scored",
 "preferred_label": "Sidonien"
 }
@@ -26816,7 +26772,7 @@
 {
 "id": "group:Simeon",
 "type": "group",
-"confidence": 0.6222,
+"confidence": 0.7565,
 "match_method": "scored",
 "preferred_label": "Siméon"
 }
@@ -26912,7 +26868,7 @@
 {
 "id": "group:Zealot",
 "type": "group",
-"confidence": 0.572,
+"confidence": 0.692,
 "match_method": "scored",
 "preferred_label": "zélote; nationaliste"
 }
@@ -27115,13 +27071,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "montagne de Sinaï"
-},
-{
-"id": "place:SinaiWilderness",
-"type": "place",
-"confidence": 0.64,
-"match_method": "scored",
-"preferred_label": "désert de Sinaï"
 }
 ]
 }
@@ -28685,22 +28634,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Lot",
-"type": "keyterm",
-"confidence": 0.697,
-"match_method": "scored",
-"preferred_label": "destin"
-},
-{
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 0.637,
-"match_method": "scored",
-"preferred_label": "Lot"
-}
-]
+"acai": []
 }
 },
 {
@@ -29497,7 +29431,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6381,
+"confidence": 0.675,
 "match_method": "scored",
 "preferred_label": "splendeur"
 }
@@ -31868,13 +31802,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Édom"
-},
-{
-"id": "group:Syria",
-"type": "group",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Araméen"
 }
 ]
 }

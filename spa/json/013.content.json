@@ -805,20 +805,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Winepress"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.56,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.5515,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -1951,6 +1937,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Lute"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 0.704,
+"match_method": "scored",
+"preferred_label": "Lyre"
 }
 ]
 }
@@ -3861,7 +3854,15 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "enfermedad infecciosa de la piel"
+}
+]
 }
 },
 {
@@ -4710,7 +4711,7 @@
 {
 "id": "person:Levi.3",
 "type": "person",
-"confidence": 0.8227,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "Levitas"
 }
@@ -4993,15 +4994,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.63,
-"match_method": "scored",
-"preferred_label": "ley"
-}
-]
+"acai": []
 }
 },
 {
@@ -6082,15 +6075,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.6197,
-"match_method": "scored",
-"preferred_label": "ley"
-}
-]
+"acai": []
 }
 },
 {
@@ -6192,14 +6177,14 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.8192,
 "match_method": "scored",
 "preferred_label": "Wine"
 },
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6977,
 "match_method": "scored",
 "preferred_label": "ofrenda"
 }
@@ -6339,9 +6324,23 @@
 {
 "id": "place:HermonMount",
 "type": "place",
-"confidence": 0.619,
+"confidence": 0.6686,
 "match_method": "scored",
 "preferred_label": "Hermón"
+},
+{
+"id": "place:HouseOfTheForestOfLebanon",
+"type": "place",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "del"
+},
+{
+"id": "place:LebanonMount",
+"type": "place",
+"confidence": 0.6114,
+"match_method": "scored",
+"preferred_label": "Líbano"
 }
 ]
 }
@@ -6461,7 +6460,15 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -6571,7 +6578,7 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.8161,
+"confidence": 0.7105,
 "match_method": "scored",
 "preferred_label": "Wine"
 }
@@ -7589,15 +7596,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Clean",
-"type": "keyterm",
-"confidence": 0.6495,
-"match_method": "scored",
-"preferred_label": "limpio"
-}
-]
+"acai": []
 }
 },
 {
@@ -10084,18 +10083,11 @@
 "preferred_label": "santuario"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.619,
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
 "match_method": "scored",
-"preferred_label": "santo"
-},
-{
-"id": "realia:TheHolyPlace",
-"type": "realia",
-"confidence": 0.6125,
-"match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "santísimo"
 }
 ]
 }
@@ -10528,7 +10520,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.678,
+"confidence": 0.7936,
 "match_method": "scored",
 "preferred_label": "luna nueva"
 }

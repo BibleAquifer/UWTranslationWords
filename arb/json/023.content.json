@@ -139,6 +139,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jebusites"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5852,
+"match_method": "scored",
+"preferred_label": "أورشَلِيمَ"
 }
 ]
 }
@@ -453,6 +460,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "ٱلْيونَانِ"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.6822,
+"match_method": "scored",
+"preferred_label": "يَاان"
 }
 ]
 }
@@ -2273,15 +2287,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.9228,
-"match_method": "scored",
-"preferred_label": "Believe"
-}
-]
+"acai": []
 }
 },
 {
@@ -3887,7 +3893,7 @@
 {
 "id": "keyterm:Repent",
 "type": "keyterm",
-"confidence": 0.9613,
+"confidence": 0.6675,
 "match_method": "scored",
 "preferred_label": "Repent"
 }
@@ -6077,16 +6083,9 @@
 {
 "id": "keyterm:Serve",
 "type": "keyterm",
-"confidence": 0.8418,
+"confidence": 0.6594,
 "match_method": "scored",
 "preferred_label": "Serve"
-},
-{
-"id": "keyterm:Servant",
-"type": "keyterm",
-"confidence": 0.6176,
-"match_method": "scored",
-"preferred_label": "Minister"
 }
 ]
 }
@@ -6471,15 +6470,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Wrong",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Wrong"
-}
-]
+"acai": []
 }
 },
 {
@@ -7498,7 +7489,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.5862,
+"match_method": "scored",
+"preferred_label": "Salvation"
+}
+]
 }
 },
 {
@@ -8184,15 +8183,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Profane",
-"type": "keyterm",
-"confidence": 0.6706,
-"match_method": "scored",
-"preferred_label": "Profane"
-}
-]
+"acai": []
 }
 },
 {
@@ -9754,15 +9745,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Reject",
-"type": "keyterm",
-"confidence": 0.6878,
-"match_method": "scored",
-"preferred_label": "Reject"
-}
-]
+"acai": []
 }
 },
 {
@@ -10593,50 +10576,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "person:Jezreel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "يَزْرَعِيلَ"
-},
-{
-"id": "person:Jezreel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "يَزْرَعِيلَ"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "يَزْرَعِيلَ"
-},
-{
-"id": "place:Jezreel.3",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "يَزْرَعِيلَ"
-},
-{
-"id": "place:Jezreel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "يَزْرَعِيلَ"
-},
-{
-"id": "group:Jezreel",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "يَزْرَعِيلَ"
-}
-]
+"acai": []
 }
 },
 {
@@ -10747,7 +10687,7 @@
 {
 "id": "group:Issachar",
 "type": "group",
-"confidence": 0.5567,
+"confidence": 0.8889,
 "match_method": "scored",
 "preferred_label": "يَسَّاكَرَ"
 }
@@ -17874,7 +17814,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
@@ -27289,6 +27237,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "يَعْقوبَ"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
+"preferred_label": "يَعْقوبَ"
 }
 ]
 }
@@ -27493,6 +27455,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "يَعْقوبَ"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6211,
+"match_method": "scored",
 "preferred_label": "يَعْقوبَ"
 }
 ]
@@ -28013,22 +27982,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Declare",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Declare"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.8086,
-"match_method": "embedding",
-"preferred_label": "Proclaim"
-}
-]
+"acai": []
 }
 },
 {
@@ -28663,15 +28617,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Appoint"
-}
-]
+"acai": []
 }
 },
 {
@@ -29208,15 +29154,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Forgive",
-"type": "keyterm",
-"confidence": 0.9429,
-"match_method": "scored",
-"preferred_label": "Forgive"
-}
-]
+"acai": []
 }
 },
 {
@@ -29609,15 +29547,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"confidence": 0.7217,
-"match_method": "scored",
-"preferred_label": "Redeem"
-}
-]
+"acai": []
 }
 },
 {
@@ -29850,15 +29780,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Interpret"
-}
-]
+"acai": []
 }
 },
 {
@@ -31472,7 +31394,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.6037,
+"match_method": "scored",
+"preferred_label": "Consecration"
+}
+]
 }
 },
 {
@@ -33063,7 +32993,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.596,
+"match_method": "scored",
+"preferred_label": "Dispossess"
+}
+]
 }
 },
 {
@@ -33355,7 +33293,7 @@
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
-"confidence": 0.6894,
+"confidence": 0.5532,
 "match_method": "scored",
 "preferred_label": "Anointed"
 }
@@ -33823,15 +33761,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:GrantJustice",
-"type": "keyterm",
-"confidence": 0.7655,
-"match_method": "scored",
-"preferred_label": "Avenge"
-}
-]
+"acai": []
 }
 },
 {
@@ -36525,13 +36455,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jews"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.571,
-"match_method": "scored",
-"preferred_label": "أورشَلِيمَ"
 }
 ]
 }
@@ -37127,20 +37050,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "يَهوذَا"
-},
-{
-"id": "group:Judea",
-"type": "group",
-"confidence": 0.5681,
-"match_method": "scored",
-"preferred_label": "Judeans"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.5596,
-"match_method": "scored",
-"preferred_label": "يَهوذَا"
 }
 ]
 }
@@ -37587,7 +37496,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.6056,
+"confidence": 0.7507,
 "match_method": "scored",
 "preferred_label": "يَهوذَا"
 }
@@ -37883,6 +37792,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "يَهوذَا"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6102,
+"match_method": "scored",
+"preferred_label": "يَعْقوبَ"
 }
 ]
 }
@@ -46296,15 +46212,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"confidence": 0.785,
-"match_method": "scored",
-"preferred_label": "Judgment"
-}
-]
+"acai": []
 }
 },
 {
@@ -50389,6 +50297,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "يونَادَاب"
+},
+{
+"id": "person:Johanan.9",
+"type": "person",
+"confidence": 0.6045,
+"match_method": "scored",
+"preferred_label": "يوحَانَانَ"
 }
 ]
 }
@@ -50831,7 +50746,7 @@
 {
 "id": "person:Javan",
 "type": "person",
-"confidence": 0.7441,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "يَاان"
 }

@@ -2355,22 +2355,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "Sky"
-},
-{
-"id": "keyterm:Heavenly",
-"type": "keyterm",
-"confidence": 0.5614,
-"match_method": "scored",
-"preferred_label": "Heavenly"
-}
-]
+"acai": []
 }
 },
 {
@@ -3838,15 +3823,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Foolish",
-"type": "keyterm",
-"confidence": 0.6677,
-"match_method": "scored",
-"preferred_label": "Foolish"
-}
-]
+"acai": []
 }
 },
 {
@@ -4084,7 +4061,7 @@
 {
 "id": "place:Gibeah.2",
 "type": "place",
-"confidence": 0.7833,
+"confidence": 0.9805,
 "match_method": "scored",
 "preferred_label": "Gibeah"
 }
@@ -4164,13 +4141,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "جِبْعونَ"
-},
-{
-"id": "group:Gibeon",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "Gibeonites"
 }
 ]
 }
@@ -4289,6 +4259,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "ٱلزَّيْتونِ"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Olive Tree"
 }
 ]
 }
@@ -4666,13 +4643,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:Gehenna",
-"type": "keyterm",
-"confidence": 0.8182,
-"match_method": "scored",
-"preferred_label": "Gehenna"
 }
 ]
 }
@@ -5451,7 +5421,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.5923,
+"match_method": "scored",
+"preferred_label": "Tax Collector"
+}
+]
 }
 },
 {
@@ -5644,7 +5622,7 @@
 {
 "id": "group:Geshur",
 "type": "group",
-"confidence": 0.7143,
+"confidence": 0.683,
 "match_method": "scored",
 "preferred_label": "Geshurites"
 }
@@ -5740,16 +5718,16 @@
 "preferred_label": "ٱلْجَلِيلِ"
 },
 {
-"id": "place:Gilgal.3",
+"id": "place:Gilgal.2",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.9636,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 },
 {
-"id": "place:Gilgal.2",
+"id": "place:Gilgal.3",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.6242,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 }
@@ -6519,20 +6497,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "ٱلْجَلِيلِ"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6747,
-"match_method": "scored",
-"preferred_label": "يَهوذَا"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "Galileans"
 }
 ]
 }

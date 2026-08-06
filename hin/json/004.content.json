@@ -209,25 +209,11 @@
 "preferred_label": "यहोवा"
 },
 {
-"id": "keyterm:Resentment",
+"id": "keyterm:Zealous",
 "type": "keyterm",
-"confidence": 0.7332,
+"confidence": 0.5634,
 "match_method": "scored",
-"preferred_label": "Resentment"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Jealous"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.6391,
-"match_method": "scored",
-"preferred_label": "Passion"
+"preferred_label": "Be Zealous"
 }
 ]
 }
@@ -328,8 +314,8 @@
 {
 "id": "keyterm:Divine",
 "type": "keyterm",
-"confidence": 0.8286,
-"match_method": "scored",
+"confidence": 0.8859,
+"match_method": "embedding",
 "preferred_label": "Divine"
 }
 ]

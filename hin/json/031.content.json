@@ -505,22 +505,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:BowDown",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "Bow Down"
-},
-{
-"id": "keyterm:Worship",
-"type": "keyterm",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Worship"
-}
-]
+"acai": []
 }
 },
 {
@@ -2164,7 +2149,7 @@
 {
 "id": "keyterm:Mercy",
 "type": "keyterm",
-"confidence": 0.8923,
+"confidence": 0.6583,
 "match_method": "scored",
 "preferred_label": "Mercy"
 }
@@ -2349,15 +2334,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Vision",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Vision"
-}
-]
+"acai": []
 }
 },
 {
@@ -3405,7 +3382,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "दाऊद"
+}
+]
 }
 },
 {
@@ -3489,9 +3474,16 @@
 "preferred_label": "City of David"
 },
 {
+"id": "person:David",
+"type": "person",
+"confidence": 0.652,
+"match_method": "scored",
+"preferred_label": "दाऊद"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6075,
+"confidence": 0.5644,
 "match_method": "scored",
 "preferred_label": "यरूशलेम"
 }
@@ -3926,7 +3918,7 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 1.0,
+"confidence": 0.946,
 "match_method": "scored",
 "preferred_label": "Vine"
 }
@@ -4028,7 +4020,7 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.8161,
+"confidence": 0.7105,
 "match_method": "scored",
 "preferred_label": "Wine"
 }
@@ -4511,20 +4503,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Wine"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -4613,20 +4591,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Winepress"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.56,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.5515,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -4864,7 +4828,7 @@
 {
 "id": "group:Dan",
 "type": "group",
-"confidence": 0.7333,
+"confidence": 0.922,
 "match_method": "scored",
 "preferred_label": "दान"
 }
@@ -4884,22 +4848,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Rapha",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "रापा"
-},
-{
-"id": "group:Rephaim",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "रपाईम"
-}
-]
+"acai": []
 }
 },
 {
@@ -9052,15 +9001,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Poor",
-"type": "keyterm",
-"confidence": 0.6143,
-"match_method": "scored",
-"preferred_label": "Poor"
-}
-]
+"acai": []
 }
 },
 {
@@ -11661,15 +11602,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "deity:Demons",
-"type": "deity",
-"confidence": 0.7977,
-"match_method": "scored",
-"preferred_label": "Demons"
-}
-]
+"acai": []
 }
 },
 {
@@ -11790,15 +11723,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"confidence": 0.8845,
-"match_method": "scored",
-"preferred_label": "Be Demon Possessed"
-}
-]
+"acai": []
 }
 },
 {
@@ -12239,15 +12164,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "realia:Fortress",
-"type": "realia",
-"confidence": 0.6545,
-"match_method": "scored",
-"preferred_label": "Fortress"
-}
-]
+"acai": []
 }
 },
 {
@@ -12564,9 +12481,16 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.983,
+"confidence": 0.912,
 "match_method": "scored",
 "preferred_label": "Parable"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -13722,15 +13646,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Condemn",
-"type": "keyterm",
-"confidence": 0.8146,
-"match_method": "scored",
-"preferred_label": "Condemn"
-}
-]
+"acai": []
 }
 },
 {
@@ -13810,7 +13726,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6618,
 "match_method": "scored",
 "preferred_label": "Offering"
 }

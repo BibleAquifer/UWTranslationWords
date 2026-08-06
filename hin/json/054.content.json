@@ -146,15 +146,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "realia:CoatOfMail",
-"type": "realia",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Coat of Mail"
-}
-]
+"acai": []
 }
 },
 {
@@ -395,7 +387,7 @@
 {
 "id": "person:Hanani.4",
 "type": "person",
-"confidence": 0.5592,
+"confidence": 0.5941,
 "match_method": "scored",
 "preferred_label": "हनानी"
 }
@@ -1300,6 +1292,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "हाबिल"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "आबेल्वेत्माका"
 }
 ]
 }
@@ -1401,29 +1400,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "हाम"
-},
-{
-"id": "place:Ham.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "हाम"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "अम्मोन"
-}
-]
+"acai": []
 }
 },
 {
@@ -3305,7 +3282,7 @@
 {
 "id": "person:Heth",
 "type": "person",
-"confidence": 0.9333,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Heth"
 }
@@ -4103,13 +4080,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "हेब्रोन"
-},
-{
-"id": "place:HebronValley",
-"type": "place",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "Valley of Hebron"
 }
 ]
 }
@@ -4991,7 +4961,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.8385,
+"confidence": 0.7307,
 "match_method": "scored",
 "preferred_label": "Offering"
 }

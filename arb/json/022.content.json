@@ -184,8 +184,8 @@
 {
 "id": "keyterm:Blow",
 "type": "keyterm",
-"confidence": 0.6148,
-"match_method": "scored",
+"confidence": 0.8162,
+"match_method": "embedding",
 "preferred_label": "Plague"
 }
 ]
@@ -978,7 +978,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.6095,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -2192,7 +2200,7 @@
 {
 "id": "keyterm:Promise",
 "type": "keyterm",
-"confidence": 0.9556,
+"confidence": 0.7907,
 "match_method": "scored",
 "preferred_label": "Promise"
 }
@@ -3650,7 +3658,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.5725,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {

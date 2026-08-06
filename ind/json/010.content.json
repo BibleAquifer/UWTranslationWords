@@ -801,8 +801,8 @@
 {
 "id": "keyterm:Divine",
 "type": "keyterm",
-"confidence": 0.8286,
-"match_method": "scored",
+"confidence": 0.8859,
+"match_method": "embedding",
 "preferred_label": "ilahi"
 }
 ]
@@ -2886,15 +2886,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.8872,
-"match_method": "embedding",
-"preferred_label": "bersandar pada"
-}
-]
+"acai": []
 }
 },
 {
@@ -3496,7 +3488,7 @@
 {
 "id": "group:Issachar",
 "type": "group",
-"confidence": 0.5567,
+"confidence": 0.8889,
 "match_method": "scored",
 "preferred_label": "Isakhar"
 }
@@ -4450,7 +4442,7 @@
 {
 "id": "group:Ishmael",
 "type": "group",
-"confidence": 0.6571,
+"confidence": 0.5695,
 "match_method": "scored",
 "preferred_label": "Ishmaelites"
 }
@@ -6450,11 +6442,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.6187,
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.568,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "Tuhan"
 }
 ]
 }

@@ -218,9 +218,23 @@
 {
 "id": "place:HermonMount",
 "type": "place",
-"confidence": 0.619,
+"confidence": 0.6686,
 "match_method": "scored",
 "preferred_label": "Mount Hermon"
+},
+{
+"id": "place:HouseOfTheForestOfLebanon",
+"type": "place",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "House of the Forest of Lebanon"
+},
+{
+"id": "place:LebanonMount",
+"type": "place",
+"confidence": 0.6114,
+"match_method": "scored",
+"preferred_label": "Mount Lebanon"
 }
 ]
 }
@@ -1588,22 +1602,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Perceive",
-"type": "keyterm",
-"confidence": 0.6948,
-"match_method": "scored",
-"preferred_label": "Perceive"
-},
-{
-"id": "keyterm:Understanding",
-"type": "keyterm",
-"confidence": 0.6294,
-"match_method": "scored",
-"preferred_label": "Understanding"
-}
-]
+"acai": []
 }
 },
 {
@@ -2511,7 +2510,7 @@
 {
 "id": "person:Levi.3",
 "type": "person",
-"confidence": 0.8227,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "Levi"
 }

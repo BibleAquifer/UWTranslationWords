@@ -85,7 +85,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "David"
+}
+]
 }
 },
 {
@@ -722,7 +730,7 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.9802,
+"confidence": 0.8522,
 "match_method": "scored",
 "preferred_label": "bonnes nouvelles"
 }
@@ -2146,15 +2154,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.8872,
-"match_method": "embedding",
-"preferred_label": "s'appuyer sur"
-}
-]
+"acai": []
 }
 },
 {
@@ -3154,13 +3154,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.7847,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -3691,7 +3684,7 @@
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"confidence": 0.928,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "sacrifice de la pâque"
 }
@@ -3807,6 +3800,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jérusalem"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.579,
+"match_method": "scored",
+"preferred_label": "saint"
 }
 ]
 }
@@ -5955,13 +5955,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ark of the Covenant"
-},
-{
-"id": "keyterm:CovenantBox",
-"type": "keyterm",
-"confidence": 0.9385,
-"match_method": "scored",
-"preferred_label": "arche"
 }
 ]
 }
@@ -6362,7 +6355,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.5725,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
@@ -7355,18 +7356,11 @@
 "preferred_label": "Holy Place"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.619,
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
 "match_method": "scored",
-"preferred_label": "saint"
-},
-{
-"id": "realia:TheHolyPlace",
-"type": "realia",
-"confidence": 0.6125,
-"match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "Most Holy Place"
 }
 ]
 }
@@ -9916,7 +9910,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5682,
+"confidence": 0.6651,
 "match_method": "scored",
 "preferred_label": "saint"
 }
@@ -9995,7 +9989,7 @@
 {
 "id": "place:Sharon.2",
 "type": "place",
-"confidence": 0.8,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "Sharon Plain"
 }
@@ -10499,7 +10493,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "lèpre"
+}
+]
 }
 },
 {
@@ -15906,7 +15908,7 @@
 {
 "id": "person:Levi.3",
 "type": "person",
-"confidence": 0.8227,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "Lévi"
 }
@@ -16191,9 +16193,23 @@
 {
 "id": "place:HermonMount",
 "type": "place",
-"confidence": 0.619,
+"confidence": 0.6686,
 "match_method": "scored",
 "preferred_label": "Mount Hermon"
+},
+{
+"id": "place:HouseOfTheForestOfLebanon",
+"type": "place",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "maison de la forêt du Liban"
+},
+{
+"id": "place:LebanonMount",
+"type": "place",
+"confidence": 0.6114,
+"match_method": "scored",
+"preferred_label": "montagne du Liban"
 }
 ]
 }
@@ -16987,15 +17003,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "realia:Chain",
-"type": "realia",
-"confidence": 0.6092,
-"match_method": "scored",
-"preferred_label": "Chain"
-}
-]
+"acai": []
 }
 },
 {
@@ -17293,7 +17301,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -17679,22 +17695,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Deliver",
-"type": "keyterm",
-"confidence": 0.6409,
-"match_method": "scored",
-"preferred_label": "sauver"
-},
-{
-"id": "keyterm:Rescue",
-"type": "keyterm",
-"confidence": 0.5867,
-"match_method": "scored",
-"preferred_label": "déliver"
-}
-]
+"acai": []
 }
 },
 {
@@ -17955,15 +17956,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.63,
-"match_method": "scored",
-"preferred_label": "loi"
-}
-]
+"acai": []
 }
 },
 {
@@ -18966,15 +18959,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.6197,
-"match_method": "scored",
-"preferred_label": "loi"
-}
-]
+"acai": []
 }
 },
 {
@@ -19209,7 +19194,7 @@
 {
 "id": "keyterm:Decree",
 "type": "keyterm",
-"confidence": 0.8054,
+"confidence": 0.7939,
 "match_method": "scored",
 "preferred_label": "limite"
 }
@@ -19876,15 +19861,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Praise",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "louange"
-}
-]
+"acai": []
 }
 },
 {
@@ -20124,6 +20101,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Lute"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 0.704,
+"match_method": "scored",
+"preferred_label": "Lyre"
 }
 ]
 }

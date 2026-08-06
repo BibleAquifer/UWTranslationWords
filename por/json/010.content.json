@@ -1195,7 +1195,7 @@
 {
 "id": "keyterm:Church",
 "type": "keyterm",
-"confidence": 0.9962,
+"confidence": 0.8335,
 "match_method": "scored",
 "preferred_label": "igreja"
 }
@@ -1488,7 +1488,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
@@ -1892,7 +1900,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.5923,
+"match_method": "scored",
+"preferred_label": "cobrador de impostos"
+}
+]
 }
 },
 {
@@ -2348,7 +2364,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.655,
+"match_method": "scored",
+"preferred_label": "be unfaithful"
+}
+]
 }
 },
 {
@@ -2496,13 +2520,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:Gehenna",
-"type": "keyterm",
-"confidence": 0.8182,
-"match_method": "scored",
-"preferred_label": "geena"
 }
 ]
 }
@@ -3005,15 +3022,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.8565,
-"match_method": "embedding",
-"preferred_label": "rogar"
-}
-]
+"acai": []
 }
 },
 {
@@ -3539,7 +3548,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
@@ -3772,15 +3789,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "discernir"
-}
-]
+"acai": []
 }
 },
 {
@@ -4612,32 +4621,25 @@
 "resource": [],
 "acai": [
 {
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6764,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
 "id": "keyterm:Unblemished",
 "type": "keyterm",
-"confidence": 0.6774,
+"confidence": 0.5949,
 "match_method": "scored",
 "preferred_label": "irrepreensível"
 },
 {
 "id": "keyterm:WithoutReproach",
 "type": "keyterm",
-"confidence": 0.6645,
+"confidence": 0.5875,
 "match_method": "scored",
 "preferred_label": "irrepreensível"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.6645,
-"match_method": "scored",
-"preferred_label": "Complete"
-},
-{
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"confidence": 0.6402,
-"match_method": "scored",
-"preferred_label": "be blameless"
 }
 ]
 }
@@ -5967,7 +5969,7 @@
 {
 "id": "group:Ishmael",
 "type": "group",
-"confidence": 0.6571,
+"confidence": 0.5695,
 "match_method": "scored",
 "preferred_label": "Ishmaelites"
 }
@@ -7967,11 +7969,11 @@
 "preferred_label": "Israel"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"confidence": 0.6187,
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.568,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "SENHOR"
 }
 ]
 }
@@ -8084,7 +8086,7 @@
 {
 "id": "group:Issachar",
 "type": "group",
-"confidence": 0.5567,
+"confidence": 0.8889,
 "match_method": "scored",
 "preferred_label": "Issacar"
 }

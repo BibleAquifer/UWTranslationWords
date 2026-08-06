@@ -357,7 +357,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "Jehová"
+}
+]
 }
 },
 {
@@ -408,15 +416,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6087,
-"match_method": "scored",
-"preferred_label": "ofrenda"
-}
-]
+"acai": []
 }
 },
 {
@@ -618,7 +618,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6618,
 "match_method": "scored",
 "preferred_label": "ofrenda"
 }
@@ -738,7 +738,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6194,
+"confidence": 0.7203,
 "match_method": "scored",
 "preferred_label": "ofrenda"
 }
@@ -873,7 +873,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.7285,
 "match_method": "scored",
 "preferred_label": "ofrenda"
 }
@@ -978,15 +978,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "ofrenda"
-}
-]
+"acai": []
 }
 },
 {
@@ -2549,7 +2541,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.8899,
+"confidence": 0.5966,
 "match_method": "scored",
 "preferred_label": "orar"
 }
@@ -5415,13 +5407,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sheep"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6162,
-"match_method": "scored",
-"preferred_label": "las"
 }
 ]
 }

@@ -130,21 +130,21 @@
 {
 "id": "place:Sheba.2",
 "type": "place",
-"confidence": 0.6727,
+"confidence": 0.7053,
 "match_method": "scored",
 "preferred_label": "Sheba"
 },
 {
-"id": "person:Seba",
-"type": "person",
-"confidence": 0.6232,
+"id": "place:Seba",
+"type": "place",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Seba"
 },
 {
-"id": "place:Seba",
-"type": "place",
-"confidence": 0.5869,
+"id": "person:Seba",
+"type": "person",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Seba"
 }
@@ -694,7 +694,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.9724,
+"confidence": 0.9925,
 "match_method": "scored",
 "preferred_label": "sabbath"
 }
@@ -3545,7 +3545,22 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "offering"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.5879,
+"match_method": "scored",
+"preferred_label": "slaughtering"
+}
+]
 }
 },
 {
@@ -3802,7 +3817,7 @@
 {
 "id": "keyterm:Psalm",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8929,
 "match_method": "embedding",
 "preferred_label": "psalm"
 }
@@ -4259,7 +4274,7 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"confidence": 0.8909,
+"confidence": 0.7159,
 "match_method": "scored",
 "preferred_label": "salvador"
 }
@@ -5282,7 +5297,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 0.5862,
+"match_method": "scored",
+"preferred_label": "salvation"
+}
+]
 }
 },
 {
@@ -5511,13 +5534,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Samaria"
-},
-{
-"id": "group:Samaritan",
-"type": "group",
-"confidence": 0.7286,
-"match_method": "scored",
-"preferred_label": "Samaritans"
 }
 ]
 }
@@ -6060,7 +6076,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.6037,
+"match_method": "scored",
+"preferred_label": "consecration"
+}
+]
 }
 },
 {
@@ -7047,15 +7071,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.9111,
-"match_method": "scored",
-"preferred_label": "holy"
-}
-]
+"acai": []
 }
 },
 {
@@ -8010,7 +8026,7 @@
 {
 "id": "place:Sharon.2",
 "type": "place",
-"confidence": 0.8,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "Sharon Plain"
 }
@@ -8633,14 +8649,14 @@
 {
 "id": "person:Shaul",
 "type": "person",
-"confidence": 0.6615,
+"confidence": 0.6026,
 "match_method": "scored",
 "preferred_label": "Saul"
 },
 {
 "id": "person:Shaul.2",
 "type": "person",
-"confidence": 0.612,
+"confidence": 0.5531,
 "match_method": "scored",
 "preferred_label": "Saul"
 }
@@ -9183,7 +9199,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"confidence": 0.9147,
+"match_method": "embedding",
+"preferred_label": "Week"
+}
+]
 }
 },
 {
@@ -18913,7 +18937,7 @@
 {
 "id": "group:Sidon",
 "type": "group",
-"confidence": 0.6333,
+"confidence": 0.6361,
 "match_method": "scored",
 "preferred_label": "Sidonians"
 }
@@ -19293,7 +19317,7 @@
 {
 "id": "group:Zealot",
 "type": "group",
-"confidence": 0.572,
+"confidence": 0.692,
 "match_method": "scored",
 "preferred_label": "Zelote"
 }
@@ -19477,7 +19501,7 @@
 {
 "id": "group:Simeon",
 "type": "group",
-"confidence": 0.6222,
+"confidence": 0.7565,
 "match_method": "scored",
 "preferred_label": "Simeão"
 }
@@ -19677,13 +19701,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Obede-Edom"
-},
-{
-"id": "group:Shimei",
-"type": "group",
-"confidence": 0.6667,
-"match_method": "scored",
-"preferred_label": "Shimeites"
 }
 ]
 }
@@ -20312,13 +20329,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Monte Sinai"
-},
-{
-"id": "place:SinaiWilderness",
-"type": "place",
-"confidence": 0.64,
-"match_method": "scored",
-"preferred_label": "Deserto do Sinai"
 }
 ]
 }
@@ -21290,7 +21300,7 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.62,
+"confidence": 0.608,
 "match_method": "scored",
 "preferred_label": "carvalho de Moré"
 }
@@ -21442,13 +21452,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Edom"
-},
-{
-"id": "group:Syria",
-"type": "group",
-"confidence": 0.6286,
-"match_method": "scored",
-"preferred_label": "Syrians"
 }
 ]
 }
@@ -22642,22 +22645,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Lot",
-"type": "keyterm",
-"confidence": 0.697,
-"match_method": "scored",
-"preferred_label": "lot"
-},
-{
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 0.637,
-"match_method": "scored",
-"preferred_label": "Lot"
-}
-]
+"acai": []
 }
 },
 {

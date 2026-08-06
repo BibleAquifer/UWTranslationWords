@@ -139,6 +139,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jebusites"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5852,
+"match_method": "scored",
+"preferred_label": "यरूशलेम"
 }
 ]
 }
@@ -506,6 +513,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यरीहो"
+},
+{
+"id": "place:JerichoValley",
+"type": "place",
+"confidence": 0.6089,
+"match_method": "scored",
+"preferred_label": "Valley of Jericho"
 }
 ]
 }
@@ -1974,6 +1988,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यरूशलेम"
+},
+{
+"id": "place:CityOfDavid",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "City of David"
 }
 ]
 }
@@ -2683,7 +2704,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.6056,
+"confidence": 0.7507,
 "match_method": "scored",
 "preferred_label": "यहूदा"
 }
@@ -2756,6 +2777,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Territory of Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.598,
+"match_method": "scored",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "यहूदा"
 }
 ]
 }
@@ -3567,20 +3602,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यहूदिया"
-},
-{
-"id": "group:Judea",
-"type": "group",
-"confidence": 0.5681,
-"match_method": "scored",
-"preferred_label": "Judeans"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.5596,
-"match_method": "scored",
-"preferred_label": "यहूदा"
 }
 ]
 }
@@ -3767,7 +3788,7 @@
 {
 "id": "group:Jews",
 "type": "group",
-"confidence": 0.576,
+"confidence": 0.616,
 "match_method": "scored",
 "preferred_label": "Jews"
 }
@@ -5025,13 +5046,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jews"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.571,
-"match_method": "scored",
-"preferred_label": "यरूशलेम"
 }
 ]
 }
@@ -11894,6 +11908,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यहूदा"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6102,
+"match_method": "scored",
+"preferred_label": "याकूब"
 }
 ]
 }
@@ -12098,6 +12119,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "याकूब"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6211,
+"match_method": "scored",
 "preferred_label": "याकूब"
 }
 ]
@@ -12352,6 +12380,20 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "याकूब"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.9,
+"match_method": "scored",
+"preferred_label": "यहूदा"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 0.55,
+"match_method": "scored",
 "preferred_label": "याकूब"
 }
 ]
@@ -13686,50 +13728,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "person:Jezreel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "यिज्रेल"
-},
-{
-"id": "person:Jezreel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "यिज्रेल"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "यिज्रेल"
-},
-{
-"id": "place:Jezreel.3",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "यिज्रेल"
-},
-{
-"id": "place:Jezreel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "यिज्रेल"
-},
-{
-"id": "group:Jezreel",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "यिज्रेल"
-}
-]
+"acai": []
 }
 },
 {
@@ -19700,6 +19699,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यूनान"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.6822,
+"match_method": "scored",
+"preferred_label": "यावान"
 }
 ]
 }
@@ -19964,7 +19970,7 @@
 {
 "id": "person:Javan",
 "type": "person",
-"confidence": 0.7441,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "यावान"
 }
@@ -23488,6 +23494,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "योनादाब"
+},
+{
+"id": "person:Johanan.9",
+"type": "person",
+"confidence": 0.6045,
+"match_method": "scored",
+"preferred_label": "योहानान"
 }
 ]
 }

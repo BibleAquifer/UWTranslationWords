@@ -77,7 +77,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6141,
 "match_method": "scored",
 "preferred_label": "ٱلْكَرْمَلِ"
 }
@@ -2752,7 +2752,7 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 1.0,
+"confidence": 0.946,
 "match_method": "scored",
 "preferred_label": "Vine"
 }
@@ -3263,15 +3263,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.8725,
-"match_method": "embedding",
-"preferred_label": "Glory"
-}
-]
+"acai": []
 }
 },
 {
@@ -3690,7 +3682,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.9167,
+"confidence": 0.865,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -3774,11 +3766,11 @@
 "preferred_label": "كِرِيتَ"
 },
 {
-"id": "group:Cretan",
-"type": "group",
-"confidence": 0.68,
+"id": "person:CretanProphet",
+"type": "person",
+"confidence": 0.5536,
 "match_method": "scored",
-"preferred_label": "Cretans"
+"preferred_label": "Cretan Prophet"
 }
 ]
 }
@@ -3955,11 +3947,11 @@
 ],
 "acai": [
 {
-"id": "keyterm:Atonement",
+"id": "keyterm:Appease",
 "type": "keyterm",
-"confidence": 0.7143,
+"confidence": 0.6868,
 "match_method": "scored",
-"preferred_label": "Atonement"
+"preferred_label": "Appease"
 }
 ]
 }
@@ -4250,16 +4242,9 @@
 {
 "id": "place:Chaldea",
 "type": "place",
-"confidence": 0.8286,
+"confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "ٱلْكَلْدَانِيِّينَ"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.573,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -5855,7 +5840,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.7235,
+"confidence": 0.6396,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }
@@ -6526,7 +6511,7 @@
 {
 "id": "keyterm:Church",
 "type": "keyterm",
-"confidence": 0.9962,
+"confidence": 0.8335,
 "match_method": "scored",
 "preferred_label": "Church"
 }
@@ -6976,7 +6961,7 @@
 {
 "id": "group:Corinth",
 "type": "group",
-"confidence": 0.6615,
+"confidence": 0.5785,
 "match_method": "scored",
 "preferred_label": "Corinthians"
 }
@@ -7095,6 +7080,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "كوشَ"
+},
+{
+"id": "place:Cush.2",
+"type": "place",
+"confidence": 0.65,
+"match_method": "scored",
+"preferred_label": "Cush"
 }
 ]
 }
@@ -7147,6 +7139,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "كولوسِّي"
+},
+{
+"id": "keyterm:Favor",
+"type": "keyterm",
+"confidence": 0.616,
+"match_method": "scored",
+"preferred_label": "Favor"
 }
 ]
 }

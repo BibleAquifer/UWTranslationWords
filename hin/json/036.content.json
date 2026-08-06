@@ -2566,15 +2566,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "Interpret"
-}
-]
+"acai": []
 }
 },
 {
@@ -3026,7 +3018,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.602,
 "match_method": "scored",
 "preferred_label": "Perimiter Curtain"
 }
@@ -12568,7 +12560,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6279,
+"match_method": "scored",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
@@ -13350,7 +13350,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.581,
+"match_method": "scored",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
@@ -13690,13 +13698,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.7847,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -14562,15 +14563,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.8455,
-"match_method": "scored",
-"preferred_label": "Kingdom"
-}
-]
+"acai": []
 }
 },
 {
@@ -16330,7 +16323,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.661,
+"confidence": 0.5845,
 "match_method": "scored",
 "preferred_label": "यहोवा"
 }
@@ -17931,7 +17924,7 @@
 {
 "id": "keyterm:Teaching",
 "type": "keyterm",
-"confidence": 0.8824,
+"confidence": 0.9505,
 "match_method": "scored",
 "preferred_label": "Teaching"
 }
@@ -19053,7 +19046,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.7459,
+"match_method": "scored",
+"preferred_label": "Put to the Test"
+}
+]
 }
 },
 {
@@ -19313,7 +19314,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.5725,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
@@ -19771,14 +19780,14 @@
 {
 "id": "place:Philistine",
 "type": "place",
-"confidence": 0.6935,
+"confidence": 0.848,
 "match_method": "scored",
 "preferred_label": "Philistia"
 },
 {
 "id": "person:Philistine",
 "type": "person",
-"confidence": 0.5949,
+"confidence": 0.5795,
 "match_method": "scored",
 "preferred_label": "पलिश्ती"
 }
@@ -20840,15 +20849,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.9111,
-"match_method": "scored",
-"preferred_label": "Holy"
-}
-]
+"acai": []
 }
 },
 {
@@ -22459,6 +22460,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यरूशलेम"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.579,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -22688,18 +22696,11 @@
 "preferred_label": "पवित्रस्थान"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.619,
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
 "match_method": "scored",
-"preferred_label": "Holy"
-},
-{
-"id": "realia:TheHolyPlace",
-"type": "realia",
-"confidence": 0.6125,
-"match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "परमपवित्र स्थान"
 }
 ]
 }
@@ -26624,15 +26625,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Offering"
-}
-]
+"acai": []
 }
 },
 {
@@ -26734,6 +26727,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "पारान"
+},
+{
+"id": "place:ParanMount",
+"type": "place",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "पारान पर्वत"
 }
 ]
 }
@@ -26829,7 +26829,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.6335,
+"match_method": "scored",
+"preferred_label": "Feast of Weeks"
+}
+]
 }
 },
 {
@@ -29690,7 +29698,7 @@
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
-"confidence": 0.981,
+"confidence": 0.9542,
 "match_method": "scored",
 "preferred_label": "Resurrection"
 }
@@ -29818,15 +29826,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:AskFor",
-"type": "keyterm",
-"confidence": 0.8565,
-"match_method": "embedding",
-"preferred_label": "Ask for"
-}
-]
+"acai": []
 }
 },
 {
@@ -34111,11 +34111,11 @@
 "preferred_label": "बाल"
 },
 {
-"id": "place:Peor",
+"id": "place:Beth-peor",
 "type": "place",
-"confidence": 0.5643,
+"confidence": 0.5631,
 "match_method": "scored",
-"preferred_label": "Baal-peor"
+"preferred_label": "बेतपोर"
 }
 ]
 }

@@ -105,7 +105,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5682,
+"confidence": 0.6651,
 "match_method": "scored",
 "preferred_label": "holy"
 }
@@ -426,15 +426,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6087,
-"match_method": "scored",
-"preferred_label": "offering"
-}
-]
+"acai": []
 }
 },
 {
@@ -524,14 +516,14 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.8192,
 "match_method": "scored",
 "preferred_label": "Wine"
 },
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6977,
 "match_method": "scored",
 "preferred_label": "offering"
 }
@@ -639,7 +631,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6194,
+"confidence": 0.7203,
 "match_method": "scored",
 "preferred_label": "offering"
 }
@@ -878,7 +870,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.7285,
 "match_method": "scored",
 "preferred_label": "offering"
 }
@@ -941,7 +933,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
@@ -1021,7 +1021,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6618,
 "match_method": "scored",
 "preferred_label": "offering"
 }
@@ -1126,15 +1126,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "offering"
-}
-]
+"acai": []
 }
 },
 {
@@ -1688,13 +1680,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Oil"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"confidence": 0.8473,
-"match_method": "scored",
-"preferred_label": "Anointing Oil"
 }
 ]
 }
@@ -2876,7 +2861,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.8899,
+"confidence": 0.5966,
 "match_method": "scored",
 "preferred_label": "orar"
 }
@@ -5742,13 +5727,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sheep"
-},
-{
-"id": "place:SheepGate",
-"type": "place",
-"confidence": 0.6162,
-"match_method": "scored",
-"preferred_label": "Sheep Gate"
 }
 ]
 }

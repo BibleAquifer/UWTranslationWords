@@ -157,20 +157,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reed"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.5949,
-"match_method": "scored",
-"preferred_label": "Grass"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"confidence": 0.5727,
-"match_method": "scored",
-"preferred_label": "Papyrus"
 }
 ]
 }
@@ -234,6 +220,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Lute"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 0.704,
+"match_method": "scored",
+"preferred_label": "Lyre"
 }
 ]
 }

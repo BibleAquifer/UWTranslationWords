@@ -105,15 +105,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "group:FalseWitnesses",
-"type": "group",
-"confidence": 0.5685,
-"match_method": "scored",
-"preferred_label": "False Witnesses"
-}
-]
+"acai": []
 }
 },
 {
@@ -3017,22 +3009,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.8192,
-"match_method": "scored",
-"preferred_label": "favor"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"confidence": 0.6033,
-"match_method": "scored",
-"preferred_label": "delight"
-}
-]
+"acai": []
 }
 },
 {
@@ -4306,15 +4283,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.8872,
-"match_method": "embedding",
-"preferred_label": "lean on"
-}
-]
+"acai": []
 }
 },
 {
@@ -4841,7 +4810,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.5725,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
@@ -5382,15 +5359,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.757,
-"match_method": "scored",
-"preferred_label": "kindness"
-}
-]
+"acai": []
 }
 },
 {
@@ -6188,15 +6157,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "Jerusalém"
-}
-]
+"acai": []
 }
 },
 {
@@ -7558,7 +7519,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.661,
+"confidence": 0.5845,
 "match_method": "scored",
 "preferred_label": "SENHOR"
 }
@@ -7858,13 +7819,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Filipe"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.5552,
-"match_method": "scored",
-"preferred_label": "João"
 }
 ]
 }
@@ -7981,13 +7935,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Filipos"
-},
-{
-"id": "group:Philippi",
-"type": "group",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "Philippians"
 }
 ]
 }
@@ -8176,14 +8123,14 @@
 {
 "id": "place:Philistine",
 "type": "place",
-"confidence": 0.6935,
+"confidence": 0.848,
 "match_method": "scored",
 "preferred_label": "Filístia"
 },
 {
 "id": "person:Philistine",
 "type": "person",
-"confidence": 0.5949,
+"confidence": 0.5795,
 "match_method": "scored",
 "preferred_label": "Filisteu"
 }
@@ -8462,6 +8409,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Flute"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.552,
+"match_method": "scored",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -9070,7 +9024,7 @@
 {
 "id": "realia:Kiln",
 "type": "realia",
-"confidence": 0.9667,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Kiln"
 }
@@ -9390,15 +9344,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"confidence": 0.8118,
-"match_method": "scored",
-"preferred_label": "fornication"
-}
-]
+"acai": []
 }
 },
 {
@@ -9539,15 +9485,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "realia:Fortress",
-"type": "realia",
-"confidence": 0.6545,
-"match_method": "scored",
-"preferred_label": "Fortress"
-}
-]
+"acai": []
 }
 },
 {

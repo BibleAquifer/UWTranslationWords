@@ -1179,11 +1179,11 @@
 ],
 "acai": [
 {
-"id": "group:Angels",
-"type": "group",
-"confidence": 0.5616,
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.7078,
 "match_method": "scored",
-"preferred_label": "Angels"
+"preferred_label": "An Angel"
 }
 ]
 }
@@ -3544,22 +3544,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"confidence": 0.8545,
-"match_method": "scored",
-"preferred_label": "Sky"
-},
-{
-"id": "keyterm:Heavenly",
-"type": "keyterm",
-"confidence": 0.5614,
-"match_method": "scored",
-"preferred_label": "Heavenly"
-}
-]
+"acai": []
 }
 }
 ]

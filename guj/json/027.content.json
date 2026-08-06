@@ -678,7 +678,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Partiality",
+"type": "keyterm",
+"confidence": 0.7362,
+"match_method": "scored",
+"preferred_label": "Partiality"
+}
+]
 }
 },
 {
@@ -907,7 +915,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.6335,
+"match_method": "scored",
+"preferred_label": "Feast of Weeks"
+}
+]
 }
 },
 {
@@ -1004,7 +1020,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Veil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Veil"
+}
+]
 }
 },
 {
@@ -1475,7 +1499,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Curtain",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Curtain"
+},
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.602,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
+]
 }
 },
 {
@@ -2367,7 +2406,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.9505,
+"match_method": "scored",
+"preferred_label": "Teaching"
+}
+]
 }
 },
 {
@@ -3555,7 +3602,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Perizzites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Perizzites"
+}
+]
 }
 },
 {
@@ -3624,7 +3679,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philistia"
+}
+]
 }
 },
 {
@@ -3800,7 +3863,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philistines"
+},
+{
+"id": "place:Philistine",
+"type": "place",
+"confidence": 0.848,
+"match_method": "scored",
+"preferred_label": "Philistia"
+},
+{
+"id": "person:Philistine",
+"type": "person",
+"confidence": 0.5795,
+"match_method": "scored",
+"preferred_label": "Philistine"
+}
+]
 }
 },
 {
@@ -5205,7 +5290,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Spirit"
+}
+]
 }
 },
 {
@@ -5509,7 +5602,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.6037,
+"match_method": "scored",
+"preferred_label": "Consecration"
+}
+]
 }
 },
 {
@@ -5614,7 +5715,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.579,
+"match_method": "scored",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
@@ -6918,7 +7034,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
+"match_method": "scored",
+"preferred_label": "Most Holy Place"
+}
+]
 }
 },
 {
@@ -7976,7 +8114,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 0.6675,
+"match_method": "scored",
+"preferred_label": "Repent"
+}
+]
 }
 },
 {
@@ -9736,7 +9882,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paul"
+}
+]
 }
 },
 {
@@ -9941,7 +10095,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.73,
+"match_method": "scored",
+"preferred_label": "Abyss"
+}
+]
 }
 },
 {
@@ -10231,7 +10393,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paddan-aram"
+}
+]
 }
 },
 {
@@ -10332,7 +10502,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Footstool"
+}
+]
 }
 },
 {
@@ -12516,7 +12694,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
+}
+]
 }
 },
 {
@@ -12854,7 +13040,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Foundation"
+}
+]
 }
 },
 {
@@ -13126,7 +13320,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Discern",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "Discern"
+}
+]
 }
 },
 {
@@ -13227,7 +13429,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Paran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paran"
+},
+{
+"id": "place:ParanMount",
+"type": "place",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Mount Paran"
+}
+]
 }
 },
 {
@@ -13655,7 +13872,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "Passover"
+}
+]
 }
 },
 {
@@ -14799,7 +15024,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Peter"
+}
+]
 }
 },
 {
@@ -15527,7 +15760,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Pilate",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pilate"
+}
+]
 }
 },
 {
@@ -20727,7 +20968,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "place:Beth-peor",
+"type": "place",
+"confidence": 0.5631,
+"match_method": "scored",
+"preferred_label": "Beth-peor"
+}
+]
 }
 },
 {
@@ -21392,7 +21648,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "Wine"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6977,
+"match_method": "scored",
+"preferred_label": "Offering"
+}
+]
 }
 },
 {
@@ -21473,7 +21744,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Potiphar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Potiphar"
+}
+]
 }
 },
 {
@@ -21529,7 +21808,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pontus"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pontus"
+}
+]
 }
 },
 {
@@ -22191,7 +22485,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Image",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Image"
+}
+]
 }
 },
 {
@@ -28801,7 +29103,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -28906,7 +29223,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -30586,7 +30911,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Appease",
+"type": "keyterm",
+"confidence": 0.6868,
+"match_method": "scored",
+"preferred_label": "Appease"
+}
+]
 }
 },
 {
@@ -31705,7 +32038,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Pray",
+"type": "keyterm",
+"confidence": 0.5966,
+"match_method": "scored",
+"preferred_label": "Pray"
+}
+]
 }
 },
 {
@@ -31844,7 +32185,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Priscilla"
+}
+]
 }
 },
 {
@@ -33619,7 +33968,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Love",
+"type": "keyterm",
+"confidence": 0.7432,
+"match_method": "scored",
+"preferred_label": "Love"
+}
+]
 }
 },
 {
@@ -34378,7 +34735,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+}
+]
 }
 }
 ]

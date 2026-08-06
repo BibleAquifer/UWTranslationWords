@@ -347,13 +347,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Oil"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"confidence": 0.8473,
-"match_method": "scored",
-"preferred_label": "Anointing Oil"
 }
 ]
 }
@@ -800,7 +793,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.6056,
+"confidence": 0.7507,
 "match_method": "scored",
 "preferred_label": "Tribe of Judah"
 }
@@ -873,6 +866,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Territory of Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.598,
+"match_method": "scored",
+"preferred_label": "Tribe of Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "Judah"
 }
 ]
 }
@@ -1468,20 +1475,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Judea"
-},
-{
-"id": "group:Judea",
-"type": "group",
-"confidence": 0.5681,
-"match_method": "scored",
-"preferred_label": "Judeans"
-},
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 0.5596,
-"match_method": "scored",
-"preferred_label": "Judah"
 }
 ]
 }
@@ -2887,13 +2880,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jews"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.571,
-"match_method": "scored",
-"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -3080,7 +3066,7 @@
 {
 "id": "group:Jews",
 "type": "group",
-"confidence": 0.576,
+"confidence": 0.616,
 "match_method": "scored",
 "preferred_label": "Jews"
 }

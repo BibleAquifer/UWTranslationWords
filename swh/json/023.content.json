@@ -126,7 +126,7 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"confidence": 0.7577,
+"confidence": 0.8635,
 "match_method": "scored",
 "preferred_label": "Amaleki"
 }
@@ -363,16 +363,9 @@
 {
 "id": "group:Arabia",
 "type": "group",
-"confidence": 0.6255,
+"confidence": 0.6801,
 "match_method": "scored",
 "preferred_label": "Arabians"
-},
-{
-"id": "place:Arabia.2",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Arabia Petraea"
 }
 ]
 }
@@ -824,14 +817,14 @@
 {
 "id": "place:Philistine",
 "type": "place",
-"confidence": 0.6935,
+"confidence": 0.848,
 "match_method": "scored",
 "preferred_label": "Wafilisti"
 },
 {
 "id": "person:Philistine",
 "type": "person",
-"confidence": 0.5949,
+"confidence": 0.5795,
 "match_method": "scored",
 "preferred_label": "Wafilisti"
 }
@@ -1059,16 +1052,9 @@
 {
 "id": "place:Chaldea",
 "type": "place",
-"confidence": 0.8286,
+"confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Wakaldayo"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.573,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -2167,7 +2153,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.661,
+"confidence": 0.5845,
 "match_method": "scored",
 "preferred_label": "BWANA"
 }
@@ -2372,7 +2358,7 @@
 {
 "id": "realia:Chariot",
 "type": "realia",
-"confidence": 0.6276,
+"confidence": 0.6793,
 "match_method": "scored",
 "preferred_label": "Chariot"
 }
@@ -2906,6 +2892,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jebusites"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5852,
+"match_method": "scored",
+"preferred_label": "Yerusalemu"
 }
 ]
 }
@@ -3043,25 +3036,11 @@
 "preferred_label": "BWANA"
 },
 {
-"id": "keyterm:Resentment",
+"id": "keyterm:Zealous",
 "type": "keyterm",
-"confidence": 0.7332,
+"confidence": 0.5634,
 "match_method": "scored",
-"preferred_label": "Resentment"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Jealous"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.6391,
-"match_method": "scored",
-"preferred_label": "Passion"
+"preferred_label": "Be Zealous"
 }
 ]
 }
@@ -3206,22 +3185,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Zealous.3",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Zealous"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.8454,
-"match_method": "embedding",
-"preferred_label": "Jealous"
-}
-]
+"acai": []
 }
 }
 ]

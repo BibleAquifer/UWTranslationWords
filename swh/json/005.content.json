@@ -299,7 +299,7 @@
 {
 "id": "group:Dan",
 "type": "group",
-"confidence": 0.7333,
+"confidence": 0.922,
 "match_method": "scored",
 "preferred_label": "Dani"
 }
@@ -1329,7 +1329,7 @@
 {
 "id": "realia:Breast-piece",
 "type": "realia",
-"confidence": 0.7634,
+"confidence": 0.7566,
 "match_method": "scored",
 "preferred_label": "Breast-Piece"
 }
@@ -2003,7 +2003,22 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "Offering"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.5879,
+"match_method": "scored",
+"preferred_label": "Slaughtering"
+}
+]
 }
 },
 {
@@ -5140,7 +5155,7 @@
 {
 "id": "keyterm:Conscience",
 "type": "keyterm",
-"confidence": 0.9733,
+"confidence": 0.9412,
 "match_method": "scored",
 "preferred_label": "Conscience"
 }
@@ -5968,20 +5983,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Wine"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.6722,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }

@@ -95,7 +95,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.678,
+"confidence": 0.7936,
 "match_method": "scored",
 "preferred_label": "New Moon Festival"
 }
@@ -212,6 +212,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "هَابِيلَ"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Abel-beth-maacah"
 }
 ]
 }
@@ -464,13 +471,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.9333,
-"match_method": "scored",
-"preferred_label": "World of the Dead"
 }
 ]
 }
@@ -1348,7 +1348,7 @@
 {
 "id": "keyterm:Abyss",
 "type": "keyterm",
-"confidence": 0.96,
+"confidence": 0.73,
 "match_method": "scored",
 "preferred_label": "Abyss"
 }
@@ -3238,13 +3238,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }

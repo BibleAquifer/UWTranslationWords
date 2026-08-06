@@ -610,9 +610,16 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.983,
+"confidence": 0.912,
 "match_method": "scored",
 "preferred_label": "Parable"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -2379,11 +2386,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Refuge",
+"id": "keyterm:SeekfindRefuge",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Refuge"
+"confidence": 0.5528,
+"match_method": "scored",
+"preferred_label": "Seek Refugue"
 }
 ]
 }

@@ -1822,15 +1822,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "realia:Bow",
-"type": "realia",
-"confidence": 0.7091,
-"match_method": "scored",
-"preferred_label": "Bow"
-}
-]
+"acai": []
 }
 },
 {
@@ -3067,11 +3059,11 @@
 ],
 "acai": [
 {
-"id": "keyterm:Atonement",
+"id": "keyterm:Appease",
 "type": "keyterm",
-"confidence": 0.7143,
+"confidence": 0.6868,
 "match_method": "scored",
-"preferred_label": "penebusan dosa"
+"preferred_label": "menenangkan"
 }
 ]
 }
@@ -3814,15 +3806,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Vision",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "penglihatan"
-}
-]
+"acai": []
 }
 },
 {
@@ -4464,7 +4448,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6414,
+"match_method": "scored",
+"preferred_label": "persembahan"
+},
+{
+"id": "keyterm:Slaughtering",
+"type": "keyterm",
+"confidence": 0.5879,
+"match_method": "scored",
+"preferred_label": "pengorbanan"
+}
+]
 }
 },
 {
@@ -5581,15 +5580,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "realia:Money",
-"type": "realia",
-"confidence": 0.9221,
-"match_method": "scored",
-"preferred_label": "Money"
-}
-]
+"acai": []
 }
 },
 {
@@ -7370,15 +7361,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.9228,
-"match_method": "scored",
-"preferred_label": "percaya"
-}
-]
+"acai": []
 }
 },
 {
@@ -7486,7 +7469,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8,
+"confidence": 0.8926,
 "match_method": "scored",
 "preferred_label": "pengucapan"
 }
@@ -7605,7 +7588,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -8198,7 +8189,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9628,
+"confidence": 0.9393,
 "match_method": "scored",
 "preferred_label": "perjanjian"
 }
@@ -8651,22 +8642,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.8192,
-"match_method": "scored",
-"preferred_label": "kebaikan"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"confidence": 0.6033,
-"match_method": "scored",
-"preferred_label": "berkenan"
-}
-]
+"acai": []
 }
 },
 {
@@ -9512,11 +9488,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Refuge",
+"id": "keyterm:SeekfindRefuge",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "tempat perlindungan"
+"confidence": 0.5528,
+"match_method": "scored",
+"preferred_label": "mencari perlindungan"
 }
 ]
 }
@@ -10139,7 +10115,7 @@
 {
 "id": "keyterm:Fellowship",
 "type": "keyterm",
-"confidence": 0.84,
+"confidence": 0.9106,
 "match_method": "scored",
 "preferred_label": "persekutuan"
 }
@@ -10525,15 +10501,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "realia:CoatOfMail",
-"type": "realia",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Coat of Mail"
-}
-]
+"acai": []
 }
 },
 {
@@ -11075,15 +11043,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "person:Centurion",
-"type": "person",
-"confidence": 0.555,
-"match_method": "scored",
-"preferred_label": "A Centurion"
-}
-]
+"acai": []
 }
 },
 {
@@ -11563,7 +11523,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.5725,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
@@ -13039,22 +13007,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mind.2",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "pikiran"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "hati"
-}
-]
+"acai": []
 }
 },
 {
@@ -14192,15 +14145,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fast",
-"type": "keyterm",
-"confidence": 0.85,
-"match_method": "scored",
-"preferred_label": "berpuasa"
-}
-]
+"acai": []
 }
 },
 {
@@ -14250,15 +14195,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "Yerusalem"
-}
-]
+"acai": []
 }
 }
 ]

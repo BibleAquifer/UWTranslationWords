@@ -445,22 +445,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.8192,
-"match_method": "scored",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"confidence": 0.6033,
-"match_method": "scored",
-"preferred_label": "Delight"
-}
-]
+"acai": []
 }
 },
 {
@@ -3125,13 +3110,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Horse"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6103,
-"match_method": "scored",
-"preferred_label": "farasi"
 }
 ]
 }
@@ -4689,15 +4667,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "realia:Money",
-"type": "realia",
-"confidence": 0.9221,
-"match_method": "scored",
-"preferred_label": "Money"
-}
-]
+"acai": []
 }
 },
 {
@@ -4831,15 +4801,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Ransom",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Ransom"
-}
-]
+"acai": []
 }
 },
 {
@@ -4926,6 +4888,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Flute"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.552,
+"match_method": "scored",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -5042,13 +5011,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Filipi"
-},
-{
-"id": "group:Philippi",
-"type": "group",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "Philippians"
 }
 ]
 }
@@ -5360,13 +5322,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -5616,7 +5571,7 @@
 {
 "id": "realia:Rod",
 "type": "realia",
-"confidence": 0.6944,
+"confidence": 0.555,
 "match_method": "scored",
 "preferred_label": "Rod"
 }
@@ -5709,13 +5664,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.7167,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -7027,8 +6975,8 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5693,
+"match_method": "scored",
 "preferred_label": "Delight"
 }
 ]

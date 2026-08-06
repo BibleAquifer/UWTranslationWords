@@ -802,20 +802,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Galilee"
-},
-{
-"id": "place:Judea",
-"type": "place",
-"confidence": 0.6747,
-"match_method": "scored",
-"preferred_label": "Judea"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"confidence": 0.6533,
-"match_method": "scored",
-"preferred_label": "Galileans"
 }
 ]
 }
@@ -1141,13 +1127,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sea of Galilee"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.6157,
-"match_method": "scored",
-"preferred_label": "Galilee"
 }
 ]
 }
@@ -2391,16 +2370,9 @@
 {
 "id": "place:Chaldea",
 "type": "place",
-"confidence": 0.8286,
+"confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Chaldea"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.573,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -2483,7 +2455,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6141,
 "match_method": "scored",
 "preferred_label": "Mount Carmel"
 }
@@ -3106,7 +3078,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.7235,
+"confidence": 0.6396,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }
@@ -3783,15 +3755,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Hypocrisy",
-"type": "keyterm",
-"confidence": 0.8083,
-"match_method": "embedding",
-"preferred_label": "Hypocrisy"
-}
-]
+"acai": []
 }
 },
 {

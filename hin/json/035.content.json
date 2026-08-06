@@ -72,15 +72,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"confidence": 0.785,
-"match_method": "scored",
-"preferred_label": "Judgment"
-}
-]
+"acai": []
 }
 },
 {
@@ -1519,15 +1511,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Judge"
-}
-]
+"acai": []
 }
 },
 {
@@ -1729,7 +1713,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Dinaite",
+"type": "person",
+"confidence": 0.5663,
+"match_method": "scored",
+"preferred_label": "Dinaite"
+}
+]
 }
 },
 {

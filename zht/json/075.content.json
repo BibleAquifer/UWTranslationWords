@@ -77,7 +77,7 @@
 {
 "id": "place:Gibeah.2",
 "type": "place",
-"confidence": 0.7833,
+"confidence": 0.9805,
 "match_method": "scored",
 "preferred_label": "Gibeah"
 }
@@ -157,13 +157,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Gibeon"
-},
-{
-"id": "group:Gibeon",
-"type": "group",
-"confidence": 0.6444,
-"match_method": "scored",
-"preferred_label": "Gibeonites"
 }
 ]
 }
@@ -339,11 +332,11 @@
 "preferred_label": "Kedesh"
 },
 {
-"id": "place:Kishion",
+"id": "place:Kadesh-barnea",
 "type": "place",
-"confidence": 0.5833,
+"confidence": 0.64,
 "match_method": "scored",
-"preferred_label": "Kishion"
+"preferred_label": "Kadesh-barnea"
 }
 ]
 }
@@ -3418,7 +3411,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.69,
+"confidence": 0.85,
 "match_method": "scored",
 "preferred_label": "Jesus"
 }
@@ -3988,7 +3981,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.9167,
+"confidence": 0.865,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -4073,7 +4066,7 @@
 {
 "id": "group:Geshur",
 "type": "group",
-"confidence": 0.7143,
+"confidence": 0.683,
 "match_method": "scored",
 "preferred_label": "Geshurites"
 }
@@ -5043,16 +5036,16 @@
 "preferred_label": "Galilee"
 },
 {
-"id": "place:Gilgal.3",
+"id": "place:Gilgal.2",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.9636,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 },
 {
-"id": "place:Gilgal.2",
+"id": "place:Gilgal.3",
 "type": "place",
-"confidence": 0.65,
+"confidence": 0.6242,
 "match_method": "scored",
 "preferred_label": "Gilgal"
 }
@@ -6304,25 +6297,11 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Resentment",
+"id": "keyterm:Zealous",
 "type": "keyterm",
-"confidence": 0.7332,
+"confidence": 0.5634,
 "match_method": "scored",
-"preferred_label": "Resentment"
-},
-{
-"id": "keyterm:Zealous.2",
-"type": "keyterm",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Jealous"
-},
-{
-"id": "keyterm:Ardour",
-"type": "keyterm",
-"confidence": 0.6391,
-"match_method": "scored",
-"preferred_label": "Passion"
+"preferred_label": "Be Zealous"
 }
 ]
 }
@@ -6383,7 +6362,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -7952,27 +7939,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.8943,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Temple Altar"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Tabernacle Altar"
 }
 ]
 }

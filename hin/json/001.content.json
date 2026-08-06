@@ -3314,22 +3314,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Good",
-"type": "keyterm",
-"confidence": 0.6895,
-"match_method": "scored",
-"preferred_label": "Good"
-},
-{
-"id": "keyterm:Honest",
-"type": "keyterm",
-"confidence": 0.6097,
-"match_method": "scored",
-"preferred_label": "Honest"
-}
-]
+"acai": []
 }
 },
 {
@@ -3582,11 +3567,11 @@
 "preferred_label": "अहज्याह"
 },
 {
-"id": "person:Hananiah.15",
+"id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.7333,
+"confidence": 0.556,
 "match_method": "scored",
-"preferred_label": "हनन्याह"
+"preferred_label": "अमर्याह"
 }
 ]
 }
@@ -3783,7 +3768,7 @@
 {
 "id": "keyterm:Abyss",
 "type": "keyterm",
-"confidence": 0.96,
+"confidence": 0.73,
 "match_method": "scored",
 "preferred_label": "Abyss"
 }
@@ -3911,7 +3896,7 @@
 {
 "id": "place:Eden.2",
 "type": "place",
-"confidence": 0.8667,
+"confidence": 0.8825,
 "match_method": "scored",
 "preferred_label": "Garden of Eden"
 }
@@ -4375,15 +4360,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "group:FalseWitnesses",
-"type": "group",
-"confidence": 0.5685,
-"match_method": "scored",
-"preferred_label": "False Witnesses"
-}
-]
+"acai": []
 }
 },
 {
@@ -4758,7 +4735,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Dispossess",
+"type": "keyterm",
+"confidence": 0.596,
+"match_method": "scored",
+"preferred_label": "Dispossess"
+}
+]
 }
 },
 {
@@ -5425,7 +5410,7 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.9581,
+"confidence": 0.9228,
 "match_method": "scored",
 "preferred_label": "Authority"
 }
@@ -6223,13 +6208,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "नरक"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.9333,
-"match_method": "scored",
-"preferred_label": "World of the Dead"
 }
 ]
 }
@@ -6262,6 +6240,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "अनाक"
+},
+{
+"id": "group:Anak",
+"type": "group",
+"confidence": 0.7689,
+"match_method": "scored",
+"preferred_label": "अनाकवंशी"
 }
 ]
 }
@@ -6851,22 +6836,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.8192,
-"match_method": "scored",
-"preferred_label": "Favor"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"confidence": 0.6033,
-"match_method": "scored",
-"preferred_label": "Delight"
-}
-]
+"acai": []
 }
 },
 {
@@ -7673,16 +7643,9 @@
 {
 "id": "keyterm:Favor",
 "type": "keyterm",
-"confidence": 0.9515,
+"confidence": 0.682,
 "match_method": "scored",
 "preferred_label": "Favor"
-},
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.6121,
-"match_method": "scored",
-"preferred_label": "Kindness"
 }
 ]
 }
@@ -7917,15 +7880,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Interpret"
-}
-]
+"acai": []
 }
 },
 {
@@ -8130,7 +8085,7 @@
 {
 "id": "group:Antioch",
 "type": "group",
-"confidence": 0.6174,
+"confidence": 0.6235,
 "match_method": "scored",
 "preferred_label": "Antiochians"
 }
@@ -8798,13 +8753,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Grain"
-},
-{
-"id": "flora:Wheat",
-"type": "flora",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Wheat"
 }
 ]
 }
@@ -8910,7 +8858,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6194,
+"confidence": 0.7203,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -8965,15 +8913,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Offering",
-"type": "keyterm",
-"confidence": 0.6087,
-"match_method": "scored",
-"preferred_label": "Offering"
-}
-]
+"acai": []
 }
 },
 {
@@ -9532,7 +9472,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.7385,
+"confidence": 0.7701,
 "match_method": "scored",
 "preferred_label": "अन्यजाति"
 }
@@ -9625,7 +9565,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.6095,
+"match_method": "scored",
+"preferred_label": "अन्यजाति"
+}
+]
 }
 },
 {
@@ -12439,7 +12387,7 @@
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
-"confidence": 0.6894,
+"confidence": 0.5532,
 "match_method": "scored",
 "preferred_label": "Anointed"
 }
@@ -12658,7 +12606,7 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"confidence": 0.7577,
+"confidence": 0.8635,
 "match_method": "scored",
 "preferred_label": "अमालेक"
 }
@@ -13014,6 +12962,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "अम्मोन"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.8522,
+"match_method": "scored",
+"preferred_label": "अम्मोनी"
 }
 ]
 }
@@ -13507,16 +13462,9 @@
 {
 "id": "group:Arabia",
 "type": "group",
-"confidence": 0.6255,
+"confidence": 0.6801,
 "match_method": "scored",
 "preferred_label": "Arabians"
-},
-{
-"id": "place:Arabia.2",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Arabia Petraea"
 }
 ]
 }
@@ -13621,6 +13569,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "अराबा"
+},
+{
+"id": "place:Beth-arabah",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "बेतराबा"
 }
 ]
 }
@@ -13954,14 +13909,14 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.8192,
 "match_method": "scored",
 "preferred_label": "Wine"
 },
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.5952,
+"confidence": 0.6977,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -14449,7 +14404,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.655,
+"match_method": "scored",
+"preferred_label": "Be Unfaithful"
+}
+]
 }
 },
 {
@@ -14872,15 +14835,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stain",
-"type": "keyterm",
-"confidence": 0.6316,
-"match_method": "scored",
-"preferred_label": "Defile"
-}
-]
+"acai": []
 }
 },
 {
@@ -15075,15 +15030,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Profane",
-"type": "keyterm",
-"confidence": 0.6706,
-"match_method": "scored",
-"preferred_label": "Profane"
-}
-]
+"acai": []
 }
 },
 {
@@ -15532,7 +15479,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7,
+"confidence": 0.7329,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -15775,15 +15722,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Reject",
-"type": "keyterm",
-"confidence": 0.6878,
-"match_method": "scored",
-"preferred_label": "Reject"
-}
-]
+"acai": []
 }
 },
 {
@@ -16147,13 +16086,6 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "अहिय्याह"
-},
-{
-"id": "person:Ahiah",
-"type": "person",
-"confidence": 0.6571,
-"match_method": "scored",
 "preferred_label": "अहिय्याह"
 }
 ]

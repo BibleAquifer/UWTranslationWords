@@ -696,15 +696,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "group:FalseWitnesses",
-"type": "group",
-"confidence": 0.5685,
-"match_method": "scored",
-"preferred_label": "False Witnesses"
-}
-]
+"acai": []
 }
 },
 {
@@ -3291,22 +3283,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.8192,
-"match_method": "scored",
-"preferred_label": "favor"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"confidence": 0.6033,
-"match_method": "scored",
-"preferred_label": "placer"
-}
-]
+"acai": []
 }
 },
 {
@@ -4627,15 +4604,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:LeanOn",
-"type": "keyterm",
-"confidence": 0.8872,
-"match_method": "embedding",
-"preferred_label": "seguridad"
-}
-]
+"acai": []
 }
 },
 {
@@ -5006,13 +4975,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Felipe"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.5552,
-"match_method": "scored",
-"preferred_label": "Juan"
 }
 ]
 }
@@ -5837,15 +5799,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.757,
-"match_method": "scored",
-"preferred_label": "bondad"
-}
-]
+"acai": []
 }
 },
 {
@@ -6656,13 +6610,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Filipos"
-},
-{
-"id": "group:Philippi",
-"type": "group",
-"confidence": 0.6364,
-"match_method": "scored",
-"preferred_label": "filipense"
 }
 ]
 }
@@ -6935,14 +6882,14 @@
 {
 "id": "place:Philistine",
 "type": "place",
-"confidence": 0.6935,
+"confidence": 0.848,
 "match_method": "scored",
 "preferred_label": "Filisteos"
 },
 {
 "id": "person:Philistine",
 "type": "person",
-"confidence": 0.5949,
+"confidence": 0.5795,
 "match_method": "scored",
 "preferred_label": "los"
 }
@@ -7175,6 +7122,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Flute"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.552,
+"match_method": "scored",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -7504,15 +7458,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Fornication",
-"type": "keyterm",
-"confidence": 0.8118,
-"match_method": "scored",
-"preferred_label": "prostitución"
-}
-]
+"acai": []
 }
 },
 {
@@ -7653,15 +7599,7 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "realia:Fortress",
-"type": "realia",
-"confidence": 0.6545,
-"match_method": "scored",
-"preferred_label": "Fortress"
-}
-]
+"acai": []
 }
 },
 {

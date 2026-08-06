@@ -509,15 +509,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Oath",
-"type": "keyterm",
-"confidence": 0.7037,
-"match_method": "scored",
-"preferred_label": "Oath"
-}
-]
+"acai": []
 }
 },
 {
@@ -793,7 +785,7 @@
 {
 "id": "group:Simeon",
 "type": "group",
-"confidence": 0.6222,
+"confidence": 0.7565,
 "match_method": "scored",
 "preferred_label": "शिमोन"
 }
@@ -889,7 +881,7 @@
 {
 "id": "group:Zealot",
 "type": "group",
-"confidence": 0.572,
+"confidence": 0.692,
 "match_method": "scored",
 "preferred_label": "जेलोतेस"
 }
@@ -978,11 +970,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Refuge",
+"id": "keyterm:SeekfindRefuge",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Refuge"
+"confidence": 0.5528,
+"match_method": "scored",
+"preferred_label": "Seek Refugue"
 }
 ]
 }
@@ -1087,14 +1079,14 @@
 {
 "id": "person:Shaul",
 "type": "person",
-"confidence": 0.6615,
+"confidence": 0.6026,
 "match_method": "scored",
 "preferred_label": "शाऊल"
 },
 {
 "id": "person:Shaul.2",
 "type": "person",
-"confidence": 0.612,
+"confidence": 0.5531,
 "match_method": "scored",
 "preferred_label": "शाऊल"
 }
@@ -2269,7 +2261,7 @@
 {
 "id": "place:Sharon.2",
 "type": "place",
-"confidence": 0.8,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "Sharon Plain"
 }
@@ -4402,13 +4394,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "ओबेदेदोम"
-},
-{
-"id": "group:Shimei",
-"type": "group",
-"confidence": 0.6667,
-"match_method": "scored",
-"preferred_label": "Shimeites"
 }
 ]
 }
@@ -4544,21 +4529,21 @@
 {
 "id": "place:Sheba.2",
 "type": "place",
-"confidence": 0.6727,
+"confidence": 0.7053,
 "match_method": "scored",
 "preferred_label": "Sheba"
 },
 {
-"id": "person:Seba",
-"type": "person",
-"confidence": 0.6232,
+"id": "place:Seba",
+"type": "place",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "सबा"
 },
 {
-"id": "place:Seba",
-"type": "place",
-"confidence": 0.5869,
+"id": "person:Seba",
+"type": "person",
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "सबा"
 }
@@ -5358,15 +5343,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Clean",
-"type": "keyterm",
-"confidence": 0.6495,
-"match_method": "scored",
-"preferred_label": "Clean"
-}
-]
+"acai": []
 }
 },
 {
@@ -6103,7 +6080,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Consecration.2",
+"type": "keyterm",
+"confidence": 0.6037,
+"match_method": "scored",
+"preferred_label": "Consecration"
+}
+]
 }
 },
 {
@@ -6740,7 +6725,7 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.9802,
+"confidence": 0.8522,
 "match_method": "scored",
 "preferred_label": "Good News"
 }
@@ -6943,7 +6928,7 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.62,
+"confidence": 0.608,
 "match_method": "scored",
 "preferred_label": "Oak of Moreh"
 }

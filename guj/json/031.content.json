@@ -719,7 +719,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 0.8335,
+"match_method": "scored",
+"preferred_label": "Church"
+}
+]
 }
 },
 {
@@ -1747,7 +1755,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+}
+]
 }
 },
 {
@@ -1994,7 +2010,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Macedonia"
+}
+]
 }
 },
 {
@@ -2128,7 +2152,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary Magdalene"
+}
+]
 }
 },
 {
@@ -3153,7 +3185,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
@@ -3813,7 +3853,43 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
+"preferred_label": "Tribe of Manasseh"
+}
+]
 }
 },
 {
@@ -4008,7 +4084,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"confidence": 0.8162,
+"match_method": "embedding",
+"preferred_label": "Plague"
+}
+]
 }
 },
 {
@@ -4129,7 +4213,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Miriam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriam"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriam"
+}
+]
 }
 },
 {
@@ -4376,7 +4475,50 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+}
+]
 }
 },
 {
@@ -4506,7 +4648,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+}
+]
 }
 },
 {
@@ -5020,7 +5170,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Melchizedek"
+}
+]
 }
 },
 {
@@ -5156,7 +5314,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod"
+}
+]
 }
 },
 {
@@ -5600,7 +5766,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "Majesty"
+}
+]
 }
 },
 {
@@ -5747,7 +5921,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Palace"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7124,
+"match_method": "scored",
+"preferred_label": "House"
+}
+]
 }
 },
 {
@@ -6007,7 +6196,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
+}
+]
 }
 },
 {
@@ -6066,7 +6263,85 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Maacah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maacah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "person:Maoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maoch"
+},
+{
+"id": "person:Maacah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "place:Maacah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maacah"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Maacathites"
+}
+]
 }
 },
 {
@@ -6870,7 +7145,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Matthew"
+}
+]
 }
 },
 {
@@ -6997,7 +7280,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Mede",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Medes"
+},
+{
+"id": "place:Media",
+"type": "place",
+"confidence": 0.566,
+"match_method": "scored",
+"preferred_label": "Media"
+}
+]
 }
 },
 {
@@ -8397,7 +8695,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Martha"
+}
+]
 }
 },
 {
@@ -8490,7 +8796,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Malachi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Malachi"
+}
+]
 }
 },
 {
@@ -8590,7 +8904,85 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Michael.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+}
+]
 }
 },
 {
@@ -8951,7 +9343,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 0.5725,
+"match_method": "scored",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
@@ -9119,7 +9519,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Midian",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midian"
+},
+{
+"id": "place:Midian",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midian"
+}
+]
 }
 },
 {
@@ -10821,7 +11236,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Egypt",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+}
+]
 }
 },
 {
@@ -10953,7 +11383,43 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Mizpah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:Mizpah.2",
+"type": "place",
+"confidence": 0.6552,
+"match_method": "scored",
+"preferred_label": "Mizpah"
+},
+{
+"id": "place:MizpehValley",
+"type": "place",
+"confidence": 0.6276,
+"match_method": "scored",
+"preferred_label": "Valley of Mizpeh"
+},
+{
+"id": "place:Mizpeh.2",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+},
+{
+"id": "place:Mizpeh.3",
+"type": "place",
+"confidence": 0.6138,
+"match_method": "scored",
+"preferred_label": "Mizpeh"
+}
+]
 }
 },
 {
@@ -11099,7 +11565,57 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaiah"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mica"
+}
+]
 }
 },
 {
@@ -11164,7 +11680,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Mishael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mishael"
+},
+{
+"id": "person:Mishael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mishael"
+},
+{
+"id": "person:Mishael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mishael"
+}
+]
 }
 },
 {
@@ -11827,7 +12365,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Tartan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tartan"
+}
+]
 }
 },
 {
@@ -12206,7 +12752,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Crown.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+},
+{
+"id": "realia:Crown",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crown"
+}
+]
 }
 },
 {
@@ -12835,7 +13396,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
@@ -13002,7 +13571,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
@@ -14390,7 +14967,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.6095,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -16511,7 +17096,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moses"
+}
+]
 }
 },
 {
@@ -16555,7 +17148,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Memphis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Memphis"
+}
+]
 }
 },
 {
@@ -16630,7 +17231,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Meshech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meshech"
+},
+{
+"id": "person:Mash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mash"
+},
+{
+"id": "place:Meshech",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meshech"
+}
+]
 }
 },
 {
@@ -16712,7 +17335,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesopotamia"
+}
+]
 }
 },
 {
@@ -16926,7 +17557,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moab"
+}
+]
 }
 },
 {
@@ -17113,7 +17759,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordecai"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordecai"
+}
+]
 }
 },
 {
@@ -17229,7 +17890,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Molech",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Molech"
+}
+]
 }
 }
 ]

@@ -266,7 +266,7 @@
 {
 "id": "group:Naphtali",
 "type": "group",
-"confidence": 0.7067,
+"confidence": 0.8815,
 "match_method": "scored",
 "preferred_label": "नप्ताली"
 }
@@ -575,7 +575,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.678,
+"confidence": 0.7936,
 "match_method": "scored",
 "preferred_label": "New Moon Festival"
 }
@@ -727,13 +727,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "नरक"
-},
-{
-"id": "keyterm:Gehenna",
-"type": "keyterm",
-"confidence": 0.8182,
-"match_method": "scored",
-"preferred_label": "Gehenna"
 }
 ]
 }
@@ -896,20 +889,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reed"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.5949,
-"match_method": "scored",
-"preferred_label": "Grass"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"confidence": 0.5727,
-"match_method": "scored",
-"preferred_label": "Papyrus"
 }
 ]
 }
@@ -1619,7 +1598,7 @@
 {
 "id": "keyterm:Census",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8641,
 "match_method": "embedding",
 "preferred_label": "Census"
 }
@@ -4418,7 +4397,7 @@
 {
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
-"confidence": 0.8375,
+"confidence": 0.6745,
 "match_method": "scored",
 "preferred_label": "Blaspheme"
 }
@@ -5529,15 +5508,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Appoint",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Appoint"
-}
-]
+"acai": []
 }
 },
 {
@@ -6281,32 +6252,25 @@
 "resource": [],
 "acai": [
 {
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6764,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
 "id": "keyterm:Unblemished",
 "type": "keyterm",
-"confidence": 0.6774,
+"confidence": 0.5949,
 "match_method": "scored",
 "preferred_label": "Unblemished"
 },
 {
 "id": "keyterm:WithoutReproach",
 "type": "keyterm",
-"confidence": 0.6645,
+"confidence": 0.5875,
 "match_method": "scored",
 "preferred_label": "Without Reproach"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.6645,
-"match_method": "scored",
-"preferred_label": "Complete"
-},
-{
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"confidence": 0.6402,
-"match_method": "scored",
-"preferred_label": "Be Blameless"
 }
 ]
 }
@@ -7520,7 +7484,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8,
+"confidence": 0.8926,
 "match_method": "scored",
 "preferred_label": "Proverb"
 }
@@ -7659,13 +7623,6 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "नीनवे"
-},
-{
-"id": "group:Nineveh",
-"type": "group",
-"confidence": 0.675,
-"match_method": "scored",
 "preferred_label": "नीनवे"
 }
 ]

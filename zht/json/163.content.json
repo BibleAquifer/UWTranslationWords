@@ -1094,7 +1094,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -1797,6 +1805,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Jerusalem"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.579,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -2808,13 +2823,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Temple"
-},
-{
-"id": "realia:House",
-"type": "realia",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "House"
 }
 ]
 }
@@ -5238,15 +5246,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.9111,
-"match_method": "scored",
-"preferred_label": "Holy"
-}
-]
+"acai": []
 }
 },
 {
@@ -10656,7 +10656,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"confidence": 0.9147,
+"match_method": "embedding",
+"preferred_label": "Week"
+}
+]
 }
 },
 {
@@ -12260,18 +12268,11 @@
 "preferred_label": "Holy Place"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.619,
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
 "match_method": "scored",
-"preferred_label": "Holy"
-},
-{
-"id": "realia:TheHolyPlace",
-"type": "realia",
-"confidence": 0.6125,
-"match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "Most Holy Place"
 }
 ]
 }
@@ -12934,7 +12935,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5682,
+"confidence": 0.6651,
 "match_method": "scored",
 "preferred_label": "Holy"
 }

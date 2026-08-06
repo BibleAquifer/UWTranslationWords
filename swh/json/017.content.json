@@ -449,7 +449,7 @@
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
-"confidence": 0.6894,
+"confidence": 0.5532,
 "match_method": "scored",
 "preferred_label": "Anointed"
 }
@@ -892,6 +892,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Parani"
+},
+{
+"id": "place:ParanMount",
+"type": "place",
+"confidence": 0.7143,
+"match_method": "scored",
+"preferred_label": "Parani"
 }
 ]
 }
@@ -1172,7 +1179,7 @@
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"confidence": 0.928,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Passover"
 }
@@ -1433,7 +1440,7 @@
 {
 "id": "keyterm:Reconcile",
 "type": "keyterm",
-"confidence": 0.8667,
+"confidence": 0.6678,
 "match_method": "scored",
 "preferred_label": "Reconcile"
 }
@@ -2986,7 +2993,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.602,
 "match_method": "scored",
 "preferred_label": "Perimiter Curtain"
 }
@@ -3235,16 +3242,9 @@
 {
 "id": "realia:RamsHorn",
 "type": "realia",
-"confidence": 0.7067,
+"confidence": 0.6072,
 "match_method": "scored",
 "preferred_label": "Rams Horn"
-},
-{
-"id": "keyterm:Horn",
-"type": "keyterm",
-"confidence": 0.6133,
-"match_method": "scored",
-"preferred_label": "Horn"
 }
 ]
 }
@@ -3340,7 +3340,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.6335,
+"match_method": "scored",
+"preferred_label": "Feast of Weeks"
+}
+]
 }
 },
 {
@@ -4002,15 +4010,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "deity:Demons",
-"type": "deity",
-"confidence": 0.7977,
-"match_method": "scored",
-"preferred_label": "Demons"
-}
-]
+"acai": []
 }
 },
 {
@@ -5358,13 +5358,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Filipo"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 0.5552,
-"match_method": "scored",
-"preferred_label": "Yohana"
 }
 ]
 }
@@ -5751,8 +5744,8 @@
 {
 "id": "keyterm:Blow",
 "type": "keyterm",
-"confidence": 0.6148,
-"match_method": "scored",
+"confidence": 0.8162,
+"match_method": "embedding",
 "preferred_label": "Plague"
 }
 ]

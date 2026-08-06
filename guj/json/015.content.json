@@ -131,7 +131,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.5983,
+"match_method": "scored",
+"preferred_label": "Dung Gate"
+}
+]
 }
 },
 {
@@ -371,7 +379,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Breastplate",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Breastplate"
+},
+{
+"id": "realia:Breast-piece",
+"type": "realia",
+"confidence": 0.7566,
+"match_method": "scored",
+"preferred_label": "Breast-Piece"
+}
+]
 }
 },
 {

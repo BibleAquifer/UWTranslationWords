@@ -235,13 +235,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.9333,
-"match_method": "scored",
-"preferred_label": "hadès"
 }
 ]
 }
@@ -713,7 +706,7 @@
 {
 "id": "person:Hanani.4",
 "type": "person",
-"confidence": 0.5592,
+"confidence": 0.5941,
 "match_method": "scored",
 "preferred_label": "Hanani"
 }
@@ -1452,13 +1445,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hébron"
-},
-{
-"id": "place:HebronValley",
-"type": "place",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "vallée d'Hébron"
 }
 ]
 }
@@ -3077,7 +3063,7 @@
 {
 "id": "person:Heth",
 "type": "person",
-"confidence": 0.9333,
+"confidence": 1.0,
 "match_method": "scored",
 "preferred_label": "Heth"
 }
@@ -3372,7 +3358,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.8385,
+"confidence": 0.7307,
 "match_method": "scored",
 "preferred_label": "offrande"
 }
@@ -3557,7 +3543,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.6279,
+"match_method": "scored",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
@@ -4064,15 +4058,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.8725,
-"match_method": "embedding",
-"preferred_label": "gloire"
-}
-]
+"acai": []
 }
 },
 {
@@ -4955,15 +4941,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Terror",
-"type": "keyterm",
-"confidence": 0.8114,
-"match_method": "embedding",
-"preferred_label": "terreur"
-}
-]
+"acai": []
 }
 },
 {
@@ -5314,13 +5292,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Oil"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"confidence": 0.8473,
-"match_method": "scored",
-"preferred_label": "Anointing Oil"
 }
 ]
 }
@@ -5515,15 +5486,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Poor",
-"type": "keyterm",
-"confidence": 0.6143,
-"match_method": "scored",
-"preferred_label": "pauvre"
-}
-]
+"acai": []
 }
 },
 {
@@ -5776,15 +5739,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Hypocrisy",
-"type": "keyterm",
-"confidence": 0.8083,
-"match_method": "embedding",
-"preferred_label": "hypocrisie"
-}
-]
+"acai": []
 }
 }
 ]

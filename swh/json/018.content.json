@@ -293,22 +293,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "person:Rahab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Rahabu"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Misri"
-}
-]
+"acai": []
 }
 },
 {
@@ -888,19 +873,26 @@
 {
 "id": "place:Ramah.2",
 "type": "place",
-"confidence": 0.6654,
+"confidence": 0.763,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
-"id": "place:Ramah.7",
+"id": "place:Ramah.3",
 "type": "place",
-"confidence": 0.6,
+"confidence": 0.6148,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
 "id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
@@ -1043,7 +1035,7 @@
 {
 "id": "place:Ramoth-gilead",
 "type": "place",
-"confidence": 0.92,
+"confidence": 0.975,
 "match_method": "scored",
 "preferred_label": "Ramoth-gileadi"
 }
@@ -1469,20 +1461,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reed"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.5949,
-"match_method": "scored",
-"preferred_label": "Grass"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"confidence": 0.5727,
-"match_method": "scored",
-"preferred_label": "Papyrus"
 }
 ]
 }
@@ -2063,6 +2041,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reubeni"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.88,
+"match_method": "scored",
+"preferred_label": "Reubeni"
 }
 ]
 }
@@ -2166,7 +2151,7 @@
 {
 "id": "place:Rimmon.3",
 "type": "place",
-"confidence": 0.6889,
+"confidence": 0.7091,
 "match_method": "scored",
 "preferred_label": "Rock of Rimmon"
 }
@@ -3858,22 +3843,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Spirit.2",
-"type": "keyterm",
-"confidence": 0.7622,
-"match_method": "scored",
-"preferred_label": "Spirit"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6368,
-"match_method": "scored",
-"preferred_label": "Roho"
-}
-]
+"acai": []
 }
 },
 {

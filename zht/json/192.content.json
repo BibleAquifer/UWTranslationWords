@@ -350,6 +350,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "James"
+},
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 0.6211,
+"match_method": "scored",
+"preferred_label": "James"
 }
 ]
 }
@@ -473,7 +480,7 @@
 {
 "id": "group:Zebulun",
 "type": "group",
-"confidence": 0.5833,
+"confidence": 0.9167,
 "match_method": "scored",
 "preferred_label": "Tribe of Zebulun"
 }
@@ -823,7 +830,7 @@
 {
 "id": "group:Sidon",
 "type": "group",
-"confidence": 0.6333,
+"confidence": 0.6361,
 "match_method": "scored",
 "preferred_label": "Sidonians"
 }
@@ -1341,7 +1348,7 @@
 {
 "id": "group:Simeon",
 "type": "group",
-"confidence": 0.6222,
+"confidence": 0.7565,
 "match_method": "scored",
 "preferred_label": "Tribe of Simeon"
 }
@@ -1630,13 +1637,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Mount Sinai"
-},
-{
-"id": "place:SinaiWilderness",
-"type": "place",
-"confidence": 0.64,
-"match_method": "scored",
-"preferred_label": "Wilderness of Sinai"
 }
 ]
 }
@@ -2014,13 +2014,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hebron"
-},
-{
-"id": "place:HebronValley",
-"type": "place",
-"confidence": 0.6333,
-"match_method": "scored",
-"preferred_label": "Valley of Hebron"
 }
 ]
 }
@@ -2131,6 +2124,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Greece"
+},
+{
+"id": "person:Javan",
+"type": "person",
+"confidence": 0.6822,
+"match_method": "scored",
+"preferred_label": "Javan"
 }
 ]
 }
@@ -2395,7 +2395,7 @@
 {
 "id": "person:Javan",
 "type": "person",
-"confidence": 0.7441,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "Javan"
 }
@@ -3551,15 +3551,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "Jerusalem"
-}
-]
+"acai": []
 }
 },
 {
@@ -4953,8 +4945,8 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5693,
+"match_method": "scored",
 "preferred_label": "Delight"
 }
 ]

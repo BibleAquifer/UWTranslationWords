@@ -811,7 +811,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Barley",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barley"
+}
+]
 }
 },
 {
@@ -1205,7 +1213,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Zacchaeus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zacchaeus"
+}
+]
 }
 },
 {
@@ -8467,7 +8483,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Trap",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trap"
+}
+]
 }
 },
 {
@@ -9211,7 +9235,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -9550,7 +9582,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 0.9542,
+"match_method": "scored",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
@@ -11418,7 +11458,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Spirit"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.6651,
+"match_method": "scored",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
@@ -11597,7 +11652,29 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.937,
+"match_method": "scored",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.787,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
+}
+]
 }
 },
 {
@@ -11852,7 +11929,15 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+}
+]
 }
 },
 {
@@ -11986,7 +12071,22 @@
 "language": "guj"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount of Olives"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Olive Tree"
+}
+]
 }
 },
 {

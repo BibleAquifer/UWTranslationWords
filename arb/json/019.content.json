@@ -671,6 +671,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "أورشَلِيمَ"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.579,
+"match_method": "scored",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -4716,16 +4723,9 @@
 "preferred_label": "Medes"
 },
 {
-"id": "person:Medan",
-"type": "person",
-"confidence": 0.75,
-"match_method": "scored",
-"preferred_label": "مَدَانَ"
-},
-{
 "id": "place:Media",
 "type": "place",
-"confidence": 0.6505,
+"confidence": 0.566,
 "match_method": "scored",
 "preferred_label": "مَادِي"
 }
@@ -5421,15 +5421,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "Rebel"
-}
-]
+"acai": []
 }
 },
 {
@@ -5622,15 +5614,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Poor",
-"type": "keyterm",
-"confidence": 0.6143,
-"match_method": "scored",
-"preferred_label": "Poor"
-}
-]
+"acai": []
 }
 },
 {
@@ -6146,9 +6130,16 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.983,
+"confidence": 0.912,
 "match_method": "scored",
 "preferred_label": "Parable"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.5537,
+"match_method": "scored",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -6258,7 +6249,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8,
+"confidence": 0.8926,
 "match_method": "scored",
 "preferred_label": "Proverb"
 }
@@ -7927,15 +7918,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Glory",
-"type": "keyterm",
-"confidence": 0.9464,
-"match_method": "scored",
-"preferred_label": "Glory"
-}
-]
+"acai": []
 }
 },
 {
@@ -8818,7 +8801,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Partiality",
+"type": "keyterm",
+"confidence": 0.7362,
+"match_method": "scored",
+"preferred_label": "Partiality"
+}
+]
 }
 },
 {
@@ -9273,15 +9264,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Love",
-"type": "keyterm",
-"confidence": 0.6005,
-"match_method": "scored",
-"preferred_label": "Love"
-}
-]
+"acai": []
 }
 },
 {
@@ -10987,7 +10970,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.9583,
+"confidence": 0.7432,
 "match_method": "scored",
 "preferred_label": "Love"
 }
@@ -12491,7 +12474,7 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"confidence": 0.8909,
+"confidence": 0.7159,
 "match_method": "scored",
 "preferred_label": "Savior"
 }
@@ -12881,22 +12864,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Deliver",
-"type": "keyterm",
-"confidence": 0.6409,
-"match_method": "scored",
-"preferred_label": "Deliver"
-},
-{
-"id": "keyterm:Rescue",
-"type": "keyterm",
-"confidence": 0.5867,
-"match_method": "scored",
-"preferred_label": "Rescue"
-}
-]
+"acai": []
 }
 },
 {
@@ -13278,13 +13246,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "مِدْيَانَ"
-},
-{
-"id": "group:Midian",
-"type": "group",
-"confidence": 0.6471,
-"match_method": "scored",
-"preferred_label": "Midianites"
 }
 ]
 }
@@ -13370,9 +13331,16 @@
 "preferred_label": "City of David"
 },
 {
+"id": "person:David",
+"type": "person",
+"confidence": 0.652,
+"match_method": "scored",
+"preferred_label": "دَاودَ"
+},
+{
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6075,
+"confidence": 0.5644,
 "match_method": "scored",
 "preferred_label": "أورشَلِيمَ"
 }
@@ -13945,27 +13913,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Altar"
-},
-{
-"id": "realia:StoneAltar",
-"type": "realia",
-"confidence": 0.8943,
-"match_method": "scored",
-"preferred_label": "Stone Altar"
-},
-{
-"id": "realia:TempleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Temple Altar"
-},
-{
-"id": "realia:TabernacleAltar",
-"type": "realia",
-"confidence": 0.8897,
-"match_method": "scored",
-"preferred_label": "Tabernacle Altar"
 }
 ]
 }
@@ -14016,15 +13963,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 0.565,
-"match_method": "scored",
-"preferred_label": "Altar"
-}
-]
+"acai": []
 }
 },
 {
@@ -14775,15 +14714,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Decree"
-}
-]
+"acai": []
 }
 },
 {
@@ -15725,7 +15656,7 @@
 {
 "id": "keyterm:Psalm",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8929,
 "match_method": "embedding",
 "preferred_label": "Psalm"
 }
@@ -15850,15 +15781,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:DemonPossessed",
-"type": "keyterm",
-"confidence": 0.8845,
-"match_method": "scored",
-"preferred_label": "Be Demon Possessed"
-}
-]
+"acai": []
 }
 },
 {
@@ -16237,7 +16160,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.69,
+"confidence": 0.85,
 "match_method": "scored",
 "preferred_label": "يَسوع"
 }
@@ -16909,15 +16832,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Counsel",
-"type": "keyterm",
-"confidence": 0.6616,
-"match_method": "scored",
-"preferred_label": "Counsel"
-}
-]
+"acai": []
 }
 },
 {
@@ -17031,7 +16946,7 @@
 {
 "id": "keyterm:Reconcile",
 "type": "keyterm",
-"confidence": 0.8667,
+"confidence": 0.6678,
 "match_method": "scored",
 "preferred_label": "Reconcile"
 }
@@ -19280,15 +19195,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:MiraculousSign",
-"type": "keyterm",
-"confidence": 0.6163,
-"match_method": "scored",
-"preferred_label": "Miraculous Sign"
-}
-]
+"acai": []
 }
 },
 {
@@ -19622,20 +19529,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Winepress"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.56,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.5515,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -19778,15 +19671,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "realia:Fortress",
-"type": "realia",
-"confidence": 0.6545,
-"match_method": "scored",
-"preferred_label": "Fortress"
-}
-]
+"acai": []
 }
 },
 {
@@ -19915,6 +19800,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "مَعْكَة"
+},
+{
+"id": "group:Maacah",
+"type": "group",
+"confidence": 0.7,
+"match_method": "scored",
+"preferred_label": "Maacathites"
 }
 ]
 }
@@ -22322,11 +22214,11 @@
 ],
 "acai": [
 {
-"id": "group:Angels",
-"type": "group",
-"confidence": 0.5616,
+"id": "deity:Angel",
+"type": "deity",
+"confidence": 0.7078,
 "match_method": "scored",
-"preferred_label": "Angels"
+"preferred_label": "An Angel"
 }
 ]
 }
@@ -22413,11 +22305,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Refuge",
+"id": "keyterm:SeekfindRefuge",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Refuge"
+"confidence": 0.5528,
+"match_method": "scored",
+"preferred_label": "Seek Refugue"
 }
 ]
 }
@@ -24476,15 +24368,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.6267,
-"match_method": "scored",
-"preferred_label": "Kingdom"
-}
-]
+"acai": []
 }
 },
 {
@@ -24669,7 +24553,7 @@
 {
 "id": "group:Jews",
 "type": "group",
-"confidence": 0.576,
+"confidence": 0.616,
 "match_method": "scored",
 "preferred_label": "Jews"
 }
@@ -25116,7 +25000,7 @@
 {
 "id": "keyterm:Kingdom",
 "type": "keyterm",
-"confidence": 0.8609,
+"confidence": 0.6206,
 "match_method": "scored",
 "preferred_label": "Kingdom"
 }
@@ -25984,15 +25868,7 @@
 "language": "arb"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.8455,
-"match_method": "scored",
-"preferred_label": "Kingdom"
-}
-]
+"acai": []
 }
 },
 {
@@ -26450,6 +26326,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Territory of Judah"
+},
+{
+"id": "group:Judah",
+"type": "group",
+"confidence": 0.598,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.58,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
 }
 ]
 }
@@ -27000,6 +26890,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "مَنَسَّى"
+},
+{
+"id": "group:Manasseh",
+"type": "group",
+"confidence": 0.8769,
+"match_method": "scored",
+"preferred_label": "مَنَسَّى"
 }
 ]
 }
@@ -27203,7 +27100,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Dinaite",
+"type": "person",
+"confidence": 0.5663,
+"match_method": "scored",
+"preferred_label": "ٱلدِّينِيِّينَ"
+}
+]
 }
 },
 {

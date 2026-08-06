@@ -813,86 +813,93 @@
 "preferred_label": "जकर्याह"
 },
 {
-"id": "person:Zechariah.18",
+"id": "person:Zechariah.3",
 "type": "person",
-"confidence": 0.557,
-"match_method": "scored",
-"preferred_label": "जकर्याह"
-},
-{
-"id": "person:Zechariah.28",
-"type": "person",
-"confidence": 0.557,
-"match_method": "scored",
-"preferred_label": "जकर्याह"
-},
-{
-"id": "person:Zechariah.23",
-"type": "person",
-"confidence": 0.557,
-"match_method": "scored",
-"preferred_label": "जकर्याह"
-},
-{
-"id": "person:Zechariah.12",
-"type": "person",
-"confidence": 0.557,
-"match_method": "scored",
-"preferred_label": "जकर्याह"
-},
-{
-"id": "person:Zechariah.24",
-"type": "person",
-"confidence": 0.557,
-"match_method": "scored",
-"preferred_label": "जकर्याह"
-},
-{
-"id": "person:Zechariah.22",
-"type": "person",
-"confidence": 0.557,
+"confidence": 0.6706,
 "match_method": "scored",
 "preferred_label": "जकर्याह"
 },
 {
 "id": "person:Zechariah.19",
 "type": "person",
-"confidence": 0.557,
+"confidence": 0.6235,
 "match_method": "scored",
 "preferred_label": "जकर्याह"
 },
 {
 "id": "person:Zechariah.25",
 "type": "person",
-"confidence": 0.557,
-"match_method": "scored",
-"preferred_label": "जकर्याह"
-},
-{
-"id": "person:Zechariah.20",
-"type": "person",
-"confidence": 0.557,
-"match_method": "scored",
-"preferred_label": "जकर्याह"
-},
-{
-"id": "person:Zechariah.21",
-"type": "person",
-"confidence": 0.557,
-"match_method": "scored",
-"preferred_label": "जकर्याह"
-},
-{
-"id": "person:Zechariah.27",
-"type": "person",
-"confidence": 0.557,
+"confidence": 0.6235,
 "match_method": "scored",
 "preferred_label": "जकर्याह"
 },
 {
 "id": "person:Zechariah.26",
 "type": "person",
-"confidence": 0.557,
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.4",
+"type": "person",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.27",
+"type": "person",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "जकर्याह"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 0.6235,
 "match_method": "scored",
 "preferred_label": "जकर्याह"
 }
@@ -1103,7 +1110,7 @@
 {
 "id": "group:Zebulun",
 "type": "group",
-"confidence": 0.5833,
+"confidence": 0.9167,
 "match_method": "scored",
 "preferred_label": "जबूलून"
 }
@@ -1911,13 +1918,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ship"
-},
-{
-"id": "realia:Boat",
-"type": "realia",
-"confidence": 0.6432,
-"match_method": "scored",
-"preferred_label": "Boat"
 }
 ]
 }
@@ -2749,7 +2749,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.5746,
+"match_method": "scored",
+"preferred_label": "अन्यजाति"
+}
+]
 }
 },
 {
@@ -5145,15 +5153,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Magic",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Magic"
-}
-]
+"acai": []
 }
 },
 {
@@ -11369,7 +11369,15 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -11859,13 +11867,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Olive Tree"
-},
-{
-"id": "place:OlivesMount",
-"type": "place",
-"confidence": 0.5938,
-"match_method": "scored",
-"preferred_label": "जैतून पर्वत"
 }
 ]
 }
@@ -11984,6 +11985,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "जैतून पर्वत"
+},
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 0.643,
+"match_method": "scored",
+"preferred_label": "Olive Tree"
 }
 ]
 }

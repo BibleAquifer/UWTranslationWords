@@ -879,15 +879,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.6267,
-"match_method": "scored",
-"preferred_label": "Kingdom"
-}
-]
+"acai": []
 }
 },
 {
@@ -1243,13 +1235,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.7167,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -3347,7 +3332,7 @@
 {
 "id": "keyterm:Kingdom",
 "type": "keyterm",
-"confidence": 0.8609,
+"confidence": 0.6206,
 "match_method": "scored",
 "preferred_label": "Kingdom"
 }
@@ -3502,6 +3487,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "रापा"
+},
+{
+"id": "place:RephaimValley",
+"type": "place",
+"confidence": 0.5761,
+"match_method": "scored",
+"preferred_label": "Valley of Rephaim"
 }
 ]
 }
@@ -3627,19 +3619,26 @@
 {
 "id": "place:Ramah.2",
 "type": "place",
-"confidence": 0.6654,
+"confidence": 0.763,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
-"id": "place:Ramah.7",
+"id": "place:Ramah.3",
 "type": "place",
-"confidence": 0.6,
+"confidence": 0.6148,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
 "id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
@@ -3782,7 +3781,7 @@
 {
 "id": "place:Ramoth-gilead",
 "type": "place",
-"confidence": 0.92,
+"confidence": 0.975,
 "match_method": "scored",
 "preferred_label": "Ramoth-gilead"
 }
@@ -3861,22 +3860,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "person:Rahab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "राहाब"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "मिस्र"
-}
-]
+"acai": []
 }
 },
 {
@@ -4583,7 +4567,7 @@
 {
 "id": "place:Rimmon.3",
 "type": "place",
-"confidence": 0.6889,
+"confidence": 0.7091,
 "match_method": "scored",
 "preferred_label": "Rock of Rimmon"
 }
@@ -4943,6 +4927,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "रूबेन"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.88,
+"match_method": "scored",
 "preferred_label": "रूबेन"
 }
 ]

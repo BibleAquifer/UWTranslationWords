@@ -631,15 +631,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Wrong",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "dette"
-}
-]
+"acai": []
 }
 },
 {
@@ -1210,22 +1202,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"confidence": 0.8192,
-"match_method": "scored",
-"preferred_label": "grâce"
-},
-{
-"id": "keyterm:Delight",
-"type": "keyterm",
-"confidence": 0.6033,
-"match_method": "scored",
-"preferred_label": "délice"
-}
-]
+"acai": []
 }
 },
 {
@@ -2332,15 +2309,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kindness",
-"type": "keyterm",
-"confidence": 0.757,
-"match_method": "scored",
-"preferred_label": "bonté"
-}
-]
+"acai": []
 }
 },
 {
@@ -2603,15 +2572,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "Jérusalem"
-}
-]
+"acai": []
 }
 },
 {
@@ -3424,7 +3385,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.661,
+"confidence": 0.5845,
 "match_method": "scored",
 "preferred_label": "Éternel"
 }
@@ -4057,6 +4018,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Flute"
+},
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 0.552,
+"match_method": "scored",
+"preferred_label": "Lute"
 }
 ]
 }
@@ -4732,15 +4700,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "realia:Fortress",
-"type": "realia",
-"confidence": 0.6545,
-"match_method": "scored",
-"preferred_label": "Fortress"
-}
-]
+"acai": []
 }
 },
 {
@@ -5694,15 +5654,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Foolish",
-"type": "keyterm",
-"confidence": 0.6677,
-"match_method": "scored",
-"preferred_label": "insensé"
-}
-]
+"acai": []
 }
 },
 {
@@ -5810,7 +5762,7 @@
 {
 "id": "realia:Kiln",
 "type": "realia",
-"confidence": 0.9667,
+"confidence": 0.937,
 "match_method": "scored",
 "preferred_label": "Kiln"
 }
@@ -6625,7 +6577,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.5983,
+"match_method": "scored",
+"preferred_label": "porte du fumier"
+}
+]
 }
 }
 ]

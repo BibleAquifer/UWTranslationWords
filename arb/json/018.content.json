@@ -11382,7 +11382,7 @@
 {
 "id": "person:Levi.3",
 "type": "person",
-"confidence": 0.8227,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "لَّاوِي"
 }
@@ -11602,9 +11602,23 @@
 {
 "id": "place:HermonMount",
 "type": "place",
-"confidence": 0.619,
+"confidence": 0.6686,
 "match_method": "scored",
 "preferred_label": "حَرْمونَ"
+},
+{
+"id": "place:HouseOfTheForestOfLebanon",
+"type": "place",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "بَيْتِ"
+},
+{
+"id": "place:LebanonMount",
+"type": "place",
+"confidence": 0.6114,
+"match_method": "scored",
+"preferred_label": "لبْنَانَ"
 }
 ]
 }

@@ -109,6 +109,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Habili"
+},
+{
+"id": "place:Abel-beth-maacah",
+"type": "place",
+"confidence": 0.6267,
+"match_method": "scored",
+"preferred_label": "Abeli"
 }
 ]
 }
@@ -3820,7 +3827,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9628,
+"confidence": 0.9393,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -4452,7 +4459,7 @@
 {
 "id": "keyterm:Promise",
 "type": "keyterm",
-"confidence": 0.9556,
+"confidence": 0.7907,
 "match_method": "scored",
 "preferred_label": "Promise"
 }
@@ -4832,13 +4839,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Ahiya"
-},
-{
-"id": "person:Ahiah",
-"type": "person",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Ahia"
 }
 ]
 }
@@ -6370,22 +6370,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Mind.2",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "Mind"
-},
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 0.6656,
-"match_method": "scored",
-"preferred_label": "Heart"
-}
-]
+"acai": []
 }
 },
 {
@@ -8394,7 +8379,7 @@
 {
 "id": "keyterm:Surely",
 "type": "keyterm",
-"confidence": 0.9076,
+"confidence": 0.7561,
 "match_method": "scored",
 "preferred_label": "Surely!"
 }
@@ -9946,15 +9931,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Believe",
-"type": "keyterm",
-"confidence": 0.9228,
-"match_method": "scored",
-"preferred_label": "Believe"
-}
-]
+"acai": []
 }
 },
 {
@@ -10143,6 +10120,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Waamoni"
+},
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 0.8522,
+"match_method": "scored",
+"preferred_label": "Ammonites"
 }
 ]
 }
@@ -10483,15 +10467,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Decree",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Decree"
-}
-]
+"acai": []
 }
 },
 {
@@ -10606,6 +10582,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Anaki"
+},
+{
+"id": "group:Anak",
+"type": "group",
+"confidence": 0.7689,
+"match_method": "scored",
+"preferred_label": "Anakim"
 }
 ]
 }
@@ -11043,7 +11026,7 @@
 {
 "id": "group:Antioch",
 "type": "group",
-"confidence": 0.6174,
+"confidence": 0.6235,
 "match_method": "scored",
 "preferred_label": "Antiochians"
 }
@@ -11276,6 +11259,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Araba"
+},
+{
+"id": "place:Beth-arabah",
+"type": "place",
+"confidence": 0.6667,
+"match_method": "scored",
+"preferred_label": "Beth-araba"
 }
 ]
 }
@@ -13103,7 +13093,7 @@
 {
 "id": "group:Asher",
 "type": "group",
-"confidence": 0.61,
+"confidence": 0.7591,
 "match_method": "scored",
 "preferred_label": "Asheri"
 }
@@ -13434,7 +13424,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7,
+"confidence": 0.7329,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -13933,7 +13923,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Unfaithful",
+"type": "keyterm",
+"confidence": 0.655,
+"match_method": "scored",
+"preferred_label": "Be Unfaithful"
+}
+]
 }
 },
 {
@@ -14670,11 +14668,11 @@
 "preferred_label": "Ahazia"
 },
 {
-"id": "person:Hananiah.15",
+"id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.7333,
+"confidence": 0.556,
 "match_method": "scored",
-"preferred_label": "Hanania"
+"preferred_label": "Amaria"
 }
 ]
 }

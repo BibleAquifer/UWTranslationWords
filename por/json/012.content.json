@@ -731,20 +731,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Winepress"
-},
-{
-"id": "realia:Must",
-"type": "realia",
-"confidence": 0.56,
-"match_method": "scored",
-"preferred_label": "Must"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.5515,
-"match_method": "scored",
-"preferred_label": "Vine"
 }
 ]
 }
@@ -2170,15 +2156,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.63,
-"match_method": "scored",
-"preferred_label": "lei"
-}
-]
+"acai": []
 }
 },
 {
@@ -3181,15 +3159,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Law",
-"type": "keyterm",
-"confidence": 0.6197,
-"match_method": "scored",
-"preferred_label": "lei"
-}
-]
+"acai": []
 }
 },
 {
@@ -3396,7 +3366,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "Infectious Skin Disease"
+}
+]
 }
 },
 {
@@ -4202,7 +4180,7 @@
 {
 "id": "person:Levi.3",
 "type": "person",
-"confidence": 0.8227,
+"confidence": 0.7195,
 "match_method": "scored",
 "preferred_label": "Levi"
 }
@@ -4628,9 +4606,23 @@
 {
 "id": "place:HermonMount",
 "type": "place",
-"confidence": 0.619,
+"confidence": 0.6686,
 "match_method": "scored",
 "preferred_label": "Monte Hermom"
+},
+{
+"id": "place:HouseOfTheForestOfLebanon",
+"type": "place",
+"confidence": 0.6343,
+"match_method": "scored",
+"preferred_label": "House of the Forest of Lebanon"
+},
+{
+"id": "place:LebanonMount",
+"type": "place",
+"confidence": 0.6114,
+"match_method": "scored",
+"preferred_label": "Monte Líbano"
 }
 ]
 }
@@ -5018,22 +5010,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Deliver",
-"type": "keyterm",
-"confidence": 0.6409,
-"match_method": "scored",
-"preferred_label": "livrar"
-},
-{
-"id": "keyterm:Rescue",
-"type": "keyterm",
-"confidence": 0.5867,
-"match_method": "scored",
-"preferred_label": "libertar"
-}
-]
+"acai": []
 }
 },
 {
@@ -5556,7 +5533,7 @@
 {
 "id": "realia:Doorstep",
 "type": "realia",
-"confidence": 0.5833,
+"confidence": 0.5676,
 "match_method": "scored",
 "preferred_label": "Doorstep"
 }
@@ -6230,15 +6207,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Clean",
-"type": "keyterm",
-"confidence": 0.6495,
-"match_method": "scored",
-"preferred_label": "limpo"
-}
-]
+"acai": []
 }
 },
 {
@@ -7268,7 +7237,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.625,
+"match_method": "scored",
+"preferred_label": "Scroll"
+}
+]
 }
 },
 {
@@ -8184,15 +8161,7 @@
 "language": "por"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Praise",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "praise"
-}
-]
+"acai": []
 }
 },
 {
@@ -8291,7 +8260,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.678,
+"confidence": 0.7936,
 "match_method": "scored",
 "preferred_label": "new moon festival"
 }
@@ -9009,18 +8978,11 @@
 "preferred_label": "Holy Place"
 },
 {
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.619,
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.5529,
 "match_method": "scored",
-"preferred_label": "holy"
-},
-{
-"id": "realia:TheHolyPlace",
-"type": "realia",
-"confidence": 0.6125,
-"match_method": "scored",
-"preferred_label": "The Holy Place"
+"preferred_label": "Lugar Santíssimo"
 }
 ]
 }

@@ -973,15 +973,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Interpret",
-"type": "keyterm",
-"confidence": 0.7,
-"match_method": "scored",
-"preferred_label": "Interpret"
-}
-]
+"acai": []
 }
 },
 {
@@ -1258,7 +1250,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PutToTheTest",
+"type": "keyterm",
+"confidence": 0.7459,
+"match_method": "scored",
+"preferred_label": "Put to the Test"
+}
+]
 }
 },
 {
@@ -1406,13 +1406,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Hell"
-},
-{
-"id": "keyterm:Gehenna",
-"type": "keyterm",
-"confidence": 0.8182,
-"match_method": "scored",
-"preferred_label": "Gehenna"
 }
 ]
 }
@@ -1580,13 +1573,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "jemadari"
-},
-{
-"id": "keyterm:Leader",
-"type": "keyterm",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "Leader"
 }
 ]
 }
@@ -1919,15 +1905,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Stumble",
-"type": "keyterm",
-"confidence": 0.6941,
-"match_method": "scored",
-"preferred_label": "Stumble"
-}
-]
+"acai": []
 }
 },
 {
@@ -2733,7 +2711,7 @@
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.65,
+"confidence": 0.5959,
 "match_method": "scored",
 "preferred_label": "Foundation"
 }
@@ -3016,13 +2994,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Robe"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.5929,
-"match_method": "scored",
-"preferred_label": "Cloak"
 }
 ]
 }
@@ -8326,7 +8297,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Week",
+"type": "keyterm",
+"confidence": 0.9147,
+"match_method": "embedding",
+"preferred_label": "Week"
+}
+]
 }
 },
 {
@@ -8418,22 +8397,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Height",
-"type": "keyterm",
-"confidence": 0.749,
-"match_method": "scored",
-"preferred_label": "Height"
-},
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.5775,
-"match_method": "scored",
-"preferred_label": "BWANA"
-}
-]
+"acai": []
 }
 }
 ]

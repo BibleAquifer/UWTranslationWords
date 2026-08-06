@@ -1190,7 +1190,7 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.9581,
+"confidence": 0.9228,
 "match_method": "scored",
 "preferred_label": "Authority"
 }
@@ -1283,13 +1283,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Rod"
-},
-{
-"id": "realia:Staff",
-"type": "realia",
-"confidence": 0.7167,
-"match_method": "scored",
-"preferred_label": "Staff"
 }
 ]
 }
@@ -1687,15 +1680,7 @@
 "language": "zht"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Encourage",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Encourage"
-}
-]
+"acai": []
 }
 }
 ]

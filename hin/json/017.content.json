@@ -3570,7 +3570,7 @@
 {
 "id": "realia:Chariot",
 "type": "realia",
-"confidence": 0.6276,
+"confidence": 0.6793,
 "match_method": "scored",
 "preferred_label": "Chariot"
 }
@@ -3920,15 +3920,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Abomination",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Abomination"
-}
-]
+"acai": []
 }
 },
 {
@@ -4305,13 +4297,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Horse"
-},
-{
-"id": "place:HorseGate",
-"type": "place",
-"confidence": 0.6103,
-"match_method": "scored",
-"preferred_label": "Horse Gate"
 }
 ]
 }
@@ -4609,22 +4594,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Declare",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Declare"
-},
-{
-"id": "keyterm:Proclaim",
-"type": "keyterm",
-"confidence": 0.8086,
-"match_method": "embedding",
-"preferred_label": "Proclaim"
-}
-]
+"acai": []
 }
 }
 ]

@@ -864,15 +864,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Redeem",
-"type": "keyterm",
-"confidence": 0.7217,
-"match_method": "scored",
-"preferred_label": "acheter"
-}
-]
+"acai": []
 }
 },
 {
@@ -947,22 +939,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "person:Rahab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Rahab"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Égypte"
-}
-]
+"acai": []
 }
 },
 {
@@ -1086,19 +1063,26 @@
 {
 "id": "place:Ramah.2",
 "type": "place",
-"confidence": 0.6654,
+"confidence": 0.763,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
-"id": "place:Ramah.7",
+"id": "place:Ramah.3",
 "type": "place",
-"confidence": 0.6,
+"confidence": 0.6148,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
 "id": "place:Ramah.4",
+"type": "place",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.7",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
@@ -1241,7 +1225,7 @@
 {
 "id": "place:Ramoth-gilead",
 "type": "place",
-"confidence": 0.92,
+"confidence": 0.975,
 "match_method": "scored",
 "preferred_label": "Ramoth en Galaad"
 }
@@ -1379,15 +1363,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Ransom",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "rançon"
-}
-]
+"acai": []
 }
 },
 {
@@ -2852,15 +2828,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Rebel",
-"type": "keyterm",
-"confidence": 0.5625,
-"match_method": "scored",
-"preferred_label": "se rebeller"
-}
-]
+"acai": []
 }
 },
 {
@@ -2926,7 +2894,7 @@
 {
 "id": "keyterm:Census",
 "type": "keyterm",
-"confidence": 1.0,
+"confidence": 0.8641,
 "match_method": "embedding",
 "preferred_label": "enregistrement"
 }
@@ -5050,7 +5018,7 @@
 {
 "id": "keyterm:Reconcile",
 "type": "keyterm",
-"confidence": 0.8667,
+"confidence": 0.6678,
 "match_method": "scored",
 "preferred_label": "réconcilier"
 }
@@ -5139,11 +5107,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Refuge",
+"id": "keyterm:SeekfindRefuge",
 "type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "refuge"
+"confidence": 0.5528,
+"match_method": "scored",
+"preferred_label": "se réfugier"
 }
 ]
 }
@@ -5428,15 +5396,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.6267,
-"match_method": "scored",
-"preferred_label": "régne"
-}
-]
+"acai": []
 }
 },
 {
@@ -5948,15 +5908,7 @@
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Reject",
-"type": "keyterm",
-"confidence": 0.6878,
-"match_method": "scored",
-"preferred_label": "rejeter"
-}
-]
+"acai": []
 }
 },
 {
@@ -5993,7 +5945,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
@@ -6401,7 +6361,7 @@
 {
 "id": "keyterm:Repent",
 "type": "keyterm",
-"confidence": 0.9613,
+"confidence": 0.6675,
 "match_method": "scored",
 "preferred_label": "se repentir"
 }
@@ -7613,7 +7573,7 @@
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
-"confidence": 0.981,
+"confidence": 0.9542,
 "match_method": "scored",
 "preferred_label": "résurrection"
 }
@@ -8155,7 +8115,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.602,
 "match_method": "scored",
 "preferred_label": "Perimiter Curtain"
 }
@@ -8254,7 +8214,7 @@
 {
 "id": "place:Rimmon.3",
 "type": "place",
-"confidence": 0.6889,
+"confidence": 0.7091,
 "match_method": "scored",
 "preferred_label": "Rock of Rimmon"
 }
@@ -8537,13 +8497,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Robe"
-},
-{
-"id": "realia:Cloak",
-"type": "realia",
-"confidence": 0.5929,
-"match_method": "scored",
-"preferred_label": "Cloak"
 }
 ]
 }
@@ -8808,7 +8761,7 @@
 {
 "id": "group:Jews",
 "type": "group",
-"confidence": 0.576,
+"confidence": 0.616,
 "match_method": "scored",
 "preferred_label": "Jews"
 }
@@ -10927,20 +10880,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Reed"
-},
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.5949,
-"match_method": "scored",
-"preferred_label": "Grass"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"confidence": 0.5727,
-"match_method": "scored",
-"preferred_label": "Papyrus"
 }
 ]
 }
@@ -11372,7 +11311,7 @@
 {
 "id": "keyterm:Kingdom",
 "type": "keyterm",
-"confidence": 0.8609,
+"confidence": 0.6206,
 "match_method": "scored",
 "preferred_label": "régne"
 }
@@ -12240,15 +12179,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.8455,
-"match_method": "scored",
-"preferred_label": "régne"
-}
-]
+"acai": []
 }
 },
 {
@@ -12495,6 +12426,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Ruben"
+},
+{
+"id": "group:Reuben",
+"type": "group",
+"confidence": 0.88,
+"match_method": "scored",
 "preferred_label": "Ruben"
 }
 ]

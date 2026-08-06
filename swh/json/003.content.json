@@ -208,11 +208,11 @@
 "preferred_label": "Baali"
 },
 {
-"id": "place:Peor",
+"id": "place:Beth-peor",
 "type": "place",
-"confidence": 0.5643,
+"confidence": 0.5631,
 "match_method": "scored",
-"preferred_label": "Peori"
+"preferred_label": "Beth-peori"
 }
 ]
 }
@@ -323,15 +323,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"confidence": 0.65,
-"match_method": "scored",
-"preferred_label": "Babeli"
-}
-]
+"acai": []
 }
 },
 {
@@ -590,20 +582,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Babeli"
-},
-{
-"id": "group:Babylon",
-"type": "group",
-"confidence": 0.6118,
-"match_method": "scored",
-"preferred_label": "Babylonians"
-},
-{
-"id": "place:Babylonia",
-"type": "place",
-"confidence": 0.6,
-"match_method": "scored",
-"preferred_label": "Babylonia"
 }
 ]
 }
@@ -922,13 +900,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Sea of Galilee"
-},
-{
-"id": "place:Galilee",
-"type": "place",
-"confidence": 0.6157,
-"match_method": "scored",
-"preferred_label": "Galilaya"
 }
 ]
 }
@@ -2926,15 +2897,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Bless",
-"type": "keyterm",
-"confidence": 0.8791,
-"match_method": "scored",
-"preferred_label": "Bless"
-}
-]
+"acai": []
 }
 },
 {
@@ -3178,7 +3141,7 @@
 {
 "id": "person:Judas.5",
 "type": "person",
-"confidence": 0.5589,
+"confidence": 0.5608,
 "match_method": "scored",
 "preferred_label": "Yuda"
 }
@@ -3493,6 +3456,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Bashani"
+},
+{
+"id": "place:Batanea",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Batanea"
 }
 ]
 }
@@ -4054,7 +4024,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 0.7418,
+"match_method": "scored",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
@@ -4822,7 +4800,7 @@
 {
 "id": "group:Benjamin",
 "type": "group",
-"confidence": 0.5974,
+"confidence": 0.795,
 "match_method": "scored",
 "preferred_label": "Benyamini"
 }
@@ -5003,16 +4981,16 @@
 "preferred_label": "Beth-shemeshi"
 },
 {
-"id": "place:Beth-shemesh.2",
+"id": "place:Beth-shemesh.3",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.65,
 "match_method": "scored",
 "preferred_label": "Beth-shemeshi"
 },
 {
-"id": "place:Beth-shemesh.3",
+"id": "place:Beth-shemesh.2",
 "type": "place",
-"confidence": 0.6487,
+"confidence": 0.625,
 "match_method": "scored",
 "preferred_label": "Beth-shemeshi"
 }
@@ -5336,22 +5314,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "place:Bethel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Betheli"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Betheli"
-}
-]
+"acai": []
 }
 },
 {
@@ -6085,32 +6048,25 @@
 "resource": [],
 "acai": [
 {
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.6764,
+"match_method": "scored",
+"preferred_label": "Complete"
+},
+{
 "id": "keyterm:Unblemished",
 "type": "keyterm",
-"confidence": 0.6774,
+"confidence": 0.5949,
 "match_method": "scored",
 "preferred_label": "Unblemished"
 },
 {
 "id": "keyterm:WithoutReproach",
 "type": "keyterm",
-"confidence": 0.6645,
+"confidence": 0.5875,
 "match_method": "scored",
 "preferred_label": "Without Reproach"
-},
-{
-"id": "keyterm:Complete",
-"type": "keyterm",
-"confidence": 0.6645,
-"match_method": "scored",
-"preferred_label": "Complete"
-},
-{
-"id": "keyterm:Blameless",
-"type": "keyterm",
-"confidence": 0.6402,
-"match_method": "scored",
-"preferred_label": "Be Blameless"
 }
 ]
 }
@@ -6284,15 +6240,7 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "Yerusalemu"
-}
-]
+"acai": []
 }
 },
 {
