@@ -3523,21 +3523,21 @@
 {
 "id": "place:Ramah.2",
 "type": "place",
-"confidence": 0.763,
-"match_method": "scored",
-"preferred_label": "Ramah"
-},
-{
-"id": "place:Ramah.3",
-"type": "place",
-"confidence": 0.6148,
+"confidence": 0.7714,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
 {
 "id": "place:Ramah.4",
 "type": "place",
-"confidence": 0.6148,
+"confidence": 0.6143,
+"match_method": "scored",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.3",
+"type": "place",
+"confidence": 0.6143,
 "match_method": "scored",
 "preferred_label": "Ramah"
 },
@@ -3654,7 +3654,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PracticeDivination",
+"type": "keyterm",
+"confidence": 0.5868,
+"match_method": "scored",
+"preferred_label": "berlaku ramalan atau tenungan"
+}
+]
 }
 },
 {
@@ -9597,7 +9605,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Unleavened Bread"
+}
+]
 }
 },
 {
@@ -12856,7 +12872,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Deer",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deer"
+}
+]
 }
 },
 {

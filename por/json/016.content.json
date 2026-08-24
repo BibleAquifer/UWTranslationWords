@@ -606,7 +606,7 @@
 {
 "id": "realia:House",
 "type": "realia",
-"confidence": 0.7124,
+"confidence": 0.7064,
 "match_method": "scored",
 "preferred_label": "House"
 }
@@ -3397,7 +3397,7 @@
 {
 "id": "place:ParanMount",
 "type": "place",
-"confidence": 0.7143,
+"confidence": 0.7333,
 "match_method": "scored",
 "preferred_label": "Monte Paran"
 }
@@ -3718,14 +3718,14 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.912,
+"confidence": 0.9043,
 "match_method": "scored",
 "preferred_label": "parábola"
 },
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.5537,
+"confidence": 0.5533,
 "match_method": "scored",
 "preferred_label": "saying"
 }
@@ -12435,13 +12435,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Baal"
-},
-{
-"id": "place:Beth-peor",
-"type": "place",
-"confidence": 0.5631,
-"match_method": "scored",
-"preferred_label": "Bete-Peor"
 }
 ]
 }
@@ -18503,7 +18496,7 @@
 {
 "id": "person:Dinaite",
 "type": "person",
-"confidence": 0.5663,
+"confidence": 0.5658,
 "match_method": "scored",
 "preferred_label": "Dinaítas"
 }
@@ -19007,7 +19000,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.596,
+"confidence": 0.5992,
 "match_method": "scored",
 "preferred_label": "dispossess"
 }
@@ -24976,7 +24969,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "play the prostitute"
+}
+]
 }
 },
 {
@@ -25140,7 +25141,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8926,
+"confidence": 0.8949,
 "match_method": "scored",
 "preferred_label": "saying"
 }

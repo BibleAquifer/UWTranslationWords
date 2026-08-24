@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>unfoldingWord® Translation Words</b> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license. <cite>unfoldingWord® Translation Words</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文) from <cite>unfoldingWord® Translation Words</cite> © 2022 unfoldingWord. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "UWTranslationWords",
-"date_created": "2026-08-11",
+"date_created": "2026-08-24",
 "language": "eng",
 "localizations": [
 "arb",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-11T09:45:38.833647"
+"dateCreated": "2026-08-24T09:10:16.705353"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "UWTranslationWords": {
-"timestamp": "2026-08-11T09:45:38.833647"
+"timestamp": "2026-08-24T09:10:16.705353"
 }
 }
 },
@@ -97,7 +97,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 685516,
+"size": 680078,
 "scope": {
 "a": [
 "Aaron",
@@ -188,7 +188,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 478552,
+"size": 482578,
 "scope": {
 "b": [
 "Baal",
@@ -255,7 +255,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 673913,
+"size": 677689,
 "scope": {
 "c": [
 "Caesar",
@@ -339,7 +339,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 589941,
+"size": 596259,
 "scope": {
 "d": [
 "Damascus",
@@ -394,7 +394,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 545890,
+"size": 554926,
 "scope": {
 "e": [
 "eagle",
@@ -441,7 +441,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 378305,
+"size": 375079,
 "scope": {
 "f": [
 "faith",
@@ -483,7 +483,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 791540,
+"size": 800376,
 "scope": {
 "g": [
 "Gabriel",
@@ -540,7 +540,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 537842,
+"size": 542589,
 "scope": {
 "h": [
 "Habakkuk",
@@ -583,7 +583,7 @@
 "honey, honeycomb",
 "honor",
 "hope, hoped",
-"horn, horned",
+"horn, horned, shofar",
 "horror, horrible, object of horror",
 "horse, warhorse, horseback, stallion, steed, mare",
 "horseman",
@@ -602,7 +602,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 322729,
+"size": 330049,
 "scope": {
 "i": [
 "I am Yahweh",
@@ -630,7 +630,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 664040,
+"size": 671120,
 "scope": {
 "j": [
 "Jacob, Israel",
@@ -690,7 +690,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 371295,
+"size": 373527,
 "scope": {
 "k": [
 "Kadesh, Kadesh Barnea, Meribah Kadesh",
@@ -712,7 +712,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 418670,
+"size": 422378,
 "scope": {
 "l": [
 "Laban",
@@ -755,7 +755,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 366808,
+"size": 369750,
 "scope": {
 "m": [
 "Maacah",
@@ -815,7 +815,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 118214,
+"size": 119518,
 "scope": {
 "n": [
 "Naaman",
@@ -841,7 +841,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 89521,
+"size": 91163,
 "scope": {
 "o": [
 "oak",
@@ -860,7 +860,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 711785,
+"size": 717321,
 "scope": {
 "p": [
 "Paddan Aram",
@@ -953,7 +953,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 379903,
+"size": 382619,
 "scope": {
 "r": [
 "Rabbah",
@@ -999,7 +999,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 1133530,
+"size": 1144634,
 "scope": {
 "s": [
 "Sabbath",
@@ -1103,7 +1103,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 433227,
+"size": 437129,
 "scope": {
 "t": [
 "tabernacle",
@@ -1160,7 +1160,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 48222,
+"size": 48550,
 "scope": {
 "u": [
 "understand, understanding, thinking",
@@ -1173,7 +1173,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 39917,
+"size": 40793,
 "scope": {
 "v": [
 "vain, vanity",
@@ -1188,7 +1188,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 217091,
+"size": 220581,
 "scope": {
 "w": [
 "wadi",
@@ -1216,7 +1216,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 411265,
+"size": 419005,
 "scope": {
 "y": [
 "Yahweh of hosts, Yahweh of armies, God of armies, God of hosts, host of heaven, host of the heavens, Lord of hosts",
@@ -1229,7 +1229,7 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 57684,
+"size": 58668,
 "scope": {
 "z": [
 "Zacchaeus",
@@ -1250,31 +1250,31 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 133730
+"size": 134256
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 71116
+"size": 71877
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 180435
+"size": 180712
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 130062
+"size": 130702
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 68738
+"size": 68879
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 188290
+"size": 188879
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 118325
+"size": 118704
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
@@ -1282,71 +1282,71 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 156729
+"size": 157463
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 117198
+"size": 118057
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 128449
+"size": 128848
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 12505
+"size": 12539
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 102796
+"size": 103186
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 25151
+"size": 25326
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 165195
+"size": 166124
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 53215
+"size": 53582
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 64260
+"size": 65075
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 93019
+"size": 92369
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 177911
+"size": 177027
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 35961
+"size": 36096
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 104325
+"size": 104654
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 20642
+"size": 20747
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 12616
+"size": 12710
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 272291
+"size": 273390
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 97862
+"size": 98121
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1378,7 +1378,7 @@
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 71845
+"size": 71874
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1478,7 +1478,7 @@
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 593572
+"size": 593692
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
@@ -7105,6 +7105,11 @@
 "language": "hin",
 "title": "मेमना"
 },
+"ind": {
+"content_id": 689784,
+"language": "ind",
+"title": "Domba"
+},
 "por": {
 "content_id": 238083,
 "language": "por",
@@ -7151,6 +7156,11 @@
 "content_id": 180018,
 "language": "hin",
 "title": "विलाप करना"
+},
+"ind": {
+"content_id": 689786,
+"language": "ind",
+"title": "Meratapi"
 },
 "por": {
 "content_id": 238085,
@@ -7355,6 +7365,11 @@
 "language": "hin",
 "title": "प्रभु भोज"
 },
+"ind": {
+"content_id": 689799,
+"language": "ind",
+"title": "Perjamuan Tuhan"
+},
 "por": {
 "content_id": 238105,
 "language": "por",
@@ -7401,6 +7416,11 @@
 "content_id": 180040,
 "language": "hin",
 "title": "प्रभु यहोवा"
+},
+"ind": {
+"content_id": 689800,
+"language": "ind",
+"title": "Tuhan Yahweh"
 },
 "por": {
 "content_id": 238106,
@@ -7553,6 +7573,11 @@
 "language": "hin",
 "title": "मन्ना"
 },
+"ind": {
+"content_id": 689804,
+"language": "ind",
+"title": "Manna"
+},
 "por": {
 "content_id": 238124,
 "language": "por",
@@ -7704,6 +7729,11 @@
 "language": "hin",
 "title": "चमत्कार"
 },
+"ind": {
+"content_id": 689805,
+"language": "ind",
+"title": "Mujizat"
+},
 "por": {
 "content_id": 238152,
 "language": "por",
@@ -7750,6 +7780,11 @@
 "content_id": 180096,
 "language": "hin",
 "title": "परमप्रधान"
+},
+"ind": {
+"content_id": 689806,
+"language": "ind",
+"title": "Yang Maha Tinggi"
 },
 "por": {
 "content_id": 238162,
@@ -7798,6 +7833,11 @@
 "language": "hin",
 "title": "गन्धरस"
 },
+"ind": {
+"content_id": 689807,
+"language": "ind",
+"title": "Mur"
+},
 "por": {
 "content_id": 238167,
 "language": "por",
@@ -7844,6 +7884,11 @@
 "content_id": 180110,
 "language": "hin",
 "title": "नाज़ीर"
+},
+"ind": {
+"content_id": 689808,
+"language": "ind",
+"title": "Nazir"
 },
 "por": {
 "content_id": 238176,
@@ -7892,6 +7937,11 @@
 "language": "hin",
 "title": "दृष्टान्त"
 },
+"ind": {
+"content_id": 689818,
+"language": "ind",
+"title": "Perumpamaan"
+},
 "por": {
 "content_id": 238203,
 "language": "por",
@@ -7938,6 +7988,11 @@
 "content_id": 180138,
 "language": "hin",
 "title": "फसह"
+},
+"ind": {
+"content_id": 689820,
+"language": "ind",
+"title": "Paskah"
 },
 "por": {
 "content_id": 238206,
@@ -7986,6 +8041,11 @@
 "language": "hin",
 "title": "पिन्तेकुस्त"
 },
+"ind": {
+"content_id": 689823,
+"language": "ind",
+"title": "Pentakosta"
+},
 "por": {
 "content_id": 238212,
 "language": "por",
@@ -8032,6 +8092,11 @@
 "content_id": 180146,
 "language": "hin",
 "title": "परमेश्‍वर की प्रजा"
+},
+"ind": {
+"content_id": 689824,
+"language": "ind",
+"title": "Umat Allah"
 },
 "por": {
 "content_id": 238214,
@@ -8132,6 +8197,11 @@
 "language": "hin",
 "title": "फरीसी"
 },
+"ind": {
+"content_id": 689829,
+"language": "ind",
+"title": "Farisi"
+},
 "por": {
 "content_id": 238225,
 "language": "por",
@@ -8231,6 +8301,11 @@
 "language": "hin",
 "title": "पहले से ठहराना"
 },
+"ind": {
+"content_id": 689845,
+"language": "ind",
+"title": "Predestinasi"
+},
 "por": {
 "content_id": 238249,
 "language": "por",
@@ -8277,6 +8352,11 @@
 "content_id": 180182,
 "language": "hin",
 "title": "याजक"
+},
+"ind": {
+"content_id": 689847,
+"language": "ind",
+"title": "Imam"
 },
 "por": {
 "content_id": 238251,
@@ -8637,6 +8717,11 @@
 "language": "hin",
 "title": "रब्बी"
 },
+"ind": {
+"content_id": 689855,
+"language": "ind",
+"title": "Rabi"
+},
 "por": {
 "content_id": 238278,
 "language": "por",
@@ -8683,6 +8768,11 @@
 "content_id": 180213,
 "language": "hin",
 "title": "छुटकारे  का मूल्य"
+},
+"ind": {
+"content_id": 689856,
+"language": "ind",
+"title": "Tebus"
 },
 "por": {
 "content_id": 238284,
@@ -8835,6 +8925,11 @@
 "language": "hin",
 "title": "बचे हुए"
 },
+"ind": {
+"content_id": 689857,
+"language": "ind",
+"title": "Sisa"
+},
 "por": {
 "content_id": 238298,
 "language": "por",
@@ -8933,6 +9028,11 @@
 "content_id": 180230,
 "language": "hin",
 "title": "ज्यों का त्यों करना"
+},
+"ind": {
+"content_id": 689858,
+"language": "ind",
+"title": "Pulih"
 },
 "por": {
 "content_id": 238302,
@@ -9137,6 +9237,11 @@
 "language": "hin",
 "title": "सदूकी"
 },
+"ind": {
+"content_id": 689860,
+"language": "ind",
+"title": "orang Saduki"
+},
 "por": {
 "content_id": 238318,
 "language": "por",
@@ -9287,6 +9392,11 @@
 "content_id": 180254,
 "language": "hin",
 "title": "पवित्रस्थान"
+},
+"ind": {
+"content_id": 689861,
+"language": "ind",
+"title": "Tempat Kudus"
 },
 "por": {
 "content_id": 238325,
@@ -9491,6 +9601,11 @@
 "language": "hin",
 "title": "शास्त्री"
 },
+"ind": {
+"content_id": 689864,
+"language": "ind",
+"title": "Ahli Kitab"
+},
 "por": {
 "content_id": 238333,
 "language": "por",
@@ -9527,6 +9642,11 @@
 "content_id": 182434,
 "language": "hin",
 "title": "शद्दाई"
+},
+"ind": {
+"content_id": 689870,
+"language": "ind",
+"title": "Shaddai"
 },
 "por": {
 "content_id": 238348,
@@ -9731,6 +9851,11 @@
 "language": "hin",
 "title": "मनुष्य का पुत्र"
 },
+"ind": {
+"content_id": 689879,
+"language": "ind",
+"title": "Anak Manusia"
+},
 "por": {
 "content_id": 238380,
 "language": "por",
@@ -9777,6 +9902,11 @@
 "content_id": 180306,
 "language": "hin",
 "title": "परमेश्वर के पुत्र"
+},
+"ind": {
+"content_id": 689880,
+"language": "ind",
+"title": "Anak-anak Allah"
 },
 "por": {
 "content_id": 238381,
@@ -9929,6 +10059,11 @@
 "language": "hin",
 "title": "पत्थर"
 },
+"ind": {
+"content_id": 689887,
+"language": "ind",
+"title": "Batu"
+},
 "por": {
 "content_id": 238391,
 "language": "por",
@@ -9976,6 +10111,11 @@
 "language": "hin",
 "title": "आराधनालय"
 },
+"ind": {
+"content_id": 689895,
+"language": "ind",
+"title": "Sinagoga"
+},
 "por": {
 "content_id": 238405,
 "language": "por",
@@ -10022,6 +10162,11 @@
 "content_id": 180331,
 "language": "hin",
 "title": "निवासस्थान"
+},
+"ind": {
+"content_id": 689896,
+"language": "ind",
+"title": "Kemah Suci"
 },
 "por": {
 "content_id": 238407,
@@ -10278,6 +10423,11 @@
 "language": "hin",
 "title": "चौथाई देश के राजा"
 },
+"ind": {
+"content_id": 689907,
+"language": "ind",
+"title": "raja wilayah"
+},
 "por": {
 "content_id": 238423,
 "language": "por",
@@ -10324,6 +10474,11 @@
 "content_id": 180349,
 "language": "hin",
 "title": "बारहों"
+},
+"ind": {
+"content_id": 689908,
+"language": "ind",
+"title": "Dua Belas"
 },
 "por": {
 "content_id": 238425,
@@ -10528,6 +10683,11 @@
 "language": "hin",
 "title": "अख़मीरी रोटी"
 },
+"ind": {
+"content_id": 689921,
+"language": "ind",
+"title": "Roti Tidak Beragi"
+},
 "por": {
 "content_id": 238454,
 "language": "por",
@@ -10678,6 +10838,11 @@
 "content_id": 180404,
 "language": "hin",
 "title": "हाय"
+},
+"ind": {
+"content_id": 689932,
+"language": "ind",
+"title": "Celaka"
 },
 "por": {
 "content_id": 238478,
@@ -10934,6 +11099,11 @@
 "language": "hin",
 "title": "यहोवा"
 },
+"ind": {
+"content_id": 689934,
+"language": "ind",
+"title": "Yahweh"
+},
 "por": {
 "content_id": 238486,
 "language": "por",
@@ -10980,6 +11150,11 @@
 "content_id": 180413,
 "language": "hin",
 "title": "सेनाओं का यहोवा"
+},
+"ind": {
+"content_id": 689935,
+"language": "ind",
+"title": "Yahweh Semesta Alam"
 },
 "por": {
 "content_id": 238487,
@@ -11079,6 +11254,11 @@
 "content_id": 180426,
 "language": "hin",
 "title": "सिय्योन"
+},
+"ind": {
+"content_id": 689947,
+"language": "ind",
+"title": "Sion"
 },
 "por": {
 "content_id": 238501,
@@ -15637,6 +15817,11 @@
 "language": "hin",
 "title": "दमिश्क"
 },
+"ind": {
+"content_id": 689709,
+"language": "ind",
+"title": "Damsyik"
+},
 "por": {
 "content_id": 237773,
 "language": "por",
@@ -15683,6 +15868,11 @@
 "content_id": 179718,
 "language": "hin",
 "title": "दान"
+},
+"ind": {
+"content_id": 689710,
+"language": "ind",
+"title": "Dan"
 },
 "por": {
 "content_id": 237774,
@@ -15731,6 +15921,11 @@
 "language": "hin",
 "title": "दानिय्येल"
 },
+"ind": {
+"content_id": 689711,
+"language": "ind",
+"title": "Daniel"
+},
 "por": {
 "content_id": 237775,
 "language": "por",
@@ -15777,6 +15972,11 @@
 "content_id": 179720,
 "language": "hin",
 "title": "दारा"
+},
+"ind": {
+"content_id": 689712,
+"language": "ind",
+"title": "Darius"
 },
 "por": {
 "content_id": 237776,
@@ -17687,6 +17887,11 @@
 "language": "hin",
 "title": "गिलाद"
 },
+"ind": {
+"content_id": 689735,
+"language": "ind",
+"title": "Gilead"
+},
 "por": {
 "content_id": 237914,
 "language": "por",
@@ -18150,6 +18355,11 @@
 "language": "hin",
 "title": "हबक्कूक"
 },
+"ind": {
+"content_id": 689744,
+"language": "ind",
+"title": "Habakuk"
+},
 "por": {
 "content_id": 237941,
 "language": "por",
@@ -18197,6 +18407,11 @@
 "language": "hin",
 "title": "हाजिरा"
 },
+"ind": {
+"content_id": 689745,
+"language": "ind",
+"title": "Hagar"
+},
 "por": {
 "content_id": 237943,
 "language": "por",
@@ -18243,6 +18458,11 @@
 "content_id": 179882,
 "language": "hin",
 "title": "हाग्गै"
+},
+"ind": {
+"content_id": 689746,
+"language": "ind",
+"title": "Hagai"
 },
 "por": {
 "content_id": 237944,
@@ -18297,6 +18517,11 @@
 "language": "hin",
 "title": "हामात"
 },
+"ind": {
+"content_id": 689749,
+"language": "ind",
+"title": "Hamat"
+},
 "por": {
 "content_id": 237947,
 "language": "por",
@@ -18343,6 +18568,11 @@
 "content_id": 179886,
 "language": "hin",
 "title": "हामोर"
+},
+"ind": {
+"content_id": 689750,
+"language": "ind",
+"title": "Hemor"
 },
 "por": {
 "content_id": 237948,
@@ -18391,6 +18621,11 @@
 "language": "hin",
 "title": "हनन्याह"
 },
+"ind": {
+"content_id": 689751,
+"language": "ind",
+"title": "Hananya"
+},
 "por": {
 "content_id": 237949,
 "language": "por",
@@ -18437,6 +18672,11 @@
 "content_id": 179889,
 "language": "hin",
 "title": "हन्ना"
+},
+"ind": {
+"content_id": 689753,
+"language": "ind",
+"title": "Hana"
 },
 "por": {
 "content_id": 237951,
@@ -18485,6 +18725,11 @@
 "language": "hin",
 "title": "हारान"
 },
+"ind": {
+"content_id": 689754,
+"language": "ind",
+"title": "Haran"
+},
 "por": {
 "content_id": 237952,
 "language": "por",
@@ -18531,6 +18776,11 @@
 "content_id": 179897,
 "language": "hin",
 "title": "हेब्रोन"
+},
+"ind": {
+"content_id": 689760,
+"language": "ind",
+"title": "Hebron"
 },
 "por": {
 "content_id": 237960,
@@ -18579,6 +18829,11 @@
 "language": "hin",
 "title": "हेरोदेस अन्तिपास"
 },
+"ind": {
+"content_id": 689761,
+"language": "ind",
+"title": "Herodes Antipas"
+},
 "por": {
 "content_id": 237963,
 "language": "por",
@@ -18625,6 +18880,11 @@
 "content_id": 179901,
 "language": "hin",
 "title": "हेरोदियास"
+},
+"ind": {
+"content_id": 689762,
+"language": "ind",
+"title": "Herodias"
 },
 "por": {
 "content_id": 237964,
@@ -18673,6 +18933,11 @@
 "language": "hin",
 "title": "हेरोदेस महान"
 },
+"ind": {
+"content_id": 689763,
+"language": "ind",
+"title": "Herodes Agung"
+},
 "por": {
 "content_id": 237965,
 "language": "por",
@@ -18709,6 +18974,11 @@
 "content_id": 182420,
 "language": "hin",
 "title": "हेशबोन"
+},
+"ind": {
+"content_id": 689764,
+"language": "ind",
+"title": "Hesybon"
 },
 "por": {
 "content_id": 237966,
@@ -18757,6 +19027,11 @@
 "language": "hin",
 "title": "हिजकिय्याह"
 },
+"ind": {
+"content_id": 689765,
+"language": "ind",
+"title": "Hizkia"
+},
 "por": {
 "content_id": 237967,
 "language": "por",
@@ -18803,6 +19078,11 @@
 "content_id": 179906,
 "language": "hin",
 "title": "हिल्किय्याह"
+},
+"ind": {
+"content_id": 689767,
+"language": "ind",
+"title": "Hilkia"
 },
 "por": {
 "content_id": 237970,
@@ -18851,6 +19131,11 @@
 "language": "hin",
 "title": "हित्ती"
 },
+"ind": {
+"content_id": 689768,
+"language": "ind",
+"title": "Het"
+},
 "por": {
 "content_id": 237971,
 "language": "por",
@@ -18897,6 +19182,11 @@
 "content_id": 179908,
 "language": "hin",
 "title": "हिव्वी"
+},
+"ind": {
+"content_id": 689769,
+"language": "ind",
+"title": "Hewi"
 },
 "por": {
 "content_id": 237972,
@@ -18945,6 +19235,11 @@
 "language": "hin",
 "title": "होशे"
 },
+"ind": {
+"content_id": 689776,
+"language": "ind",
+"title": "Hosea"
+},
 "por": {
 "content_id": 237985,
 "language": "por",
@@ -18991,6 +19286,11 @@
 "content_id": 179922,
 "language": "hin",
 "title": "होशे"
+},
+"ind": {
+"content_id": 689777,
+"language": "ind",
+"title": "Hosea"
 },
 "por": {
 "content_id": 237986,
@@ -21848,6 +22148,11 @@
 "language": "hin",
 "title": "लाबान"
 },
+"ind": {
+"content_id": 689782,
+"language": "ind",
+"title": "Laban"
+},
 "por": {
 "content_id": 238080,
 "language": "por",
@@ -21894,6 +22199,11 @@
 "content_id": 180017,
 "language": "hin",
 "title": "लेमेक"
+},
+"ind": {
+"content_id": 689785,
+"language": "ind",
+"title": "Lamekh"
 },
 "por": {
 "content_id": 238084,
@@ -21942,6 +22252,11 @@
 "language": "hin",
 "title": "लाजर"
 },
+"ind": {
+"content_id": 689788,
+"language": "ind",
+"title": "Lazarus"
+},
 "por": {
 "content_id": 238091,
 "language": "por",
@@ -21988,6 +22303,11 @@
 "content_id": 180026,
 "language": "hin",
 "title": "लिआ:"
+},
+"ind": {
+"content_id": 689789,
+"language": "ind",
+"title": "Lea"
 },
 "por": {
 "content_id": 238092,
@@ -22036,6 +22356,11 @@
 "language": "hin",
 "title": "लबानोन"
 },
+"ind": {
+"content_id": 689791,
+"language": "ind",
+"title": "Libanon"
+},
 "por": {
 "content_id": 238094,
 "language": "por",
@@ -22083,6 +22408,11 @@
 "language": "hin",
 "title": "लिव्यातान"
 },
+"ind": {
+"content_id": 689794,
+"language": "ind",
+"title": "Lewiatan"
+},
 "por": {
 "content_id": 238097,
 "language": "por",
@@ -22129,6 +22459,11 @@
 "content_id": 180032,
 "language": "hin",
 "title": "लेवी"
+},
+"ind": {
+"content_id": 689795,
+"language": "ind",
+"title": "Lewi"
 },
 "por": {
 "content_id": 238098,
@@ -24555,6 +24890,11 @@
 "language": "hin",
 "title": "पद्दनराम"
 },
+"ind": {
+"content_id": 689814,
+"language": "ind",
+"title": "Padan-Aram"
+},
 "por": {
 "content_id": 238199,
 "language": "por",
@@ -24601,6 +24941,11 @@
 "content_id": 180136,
 "language": "hin",
 "title": "पारान"
+},
+"ind": {
+"content_id": 689819,
+"language": "ind",
+"title": "Paran"
 },
 "por": {
 "content_id": 238204,
@@ -24696,6 +25041,11 @@
 "language": "hin",
 "title": "पोर"
 },
+"ind": {
+"content_id": 689825,
+"language": "ind",
+"title": "Peor"
+},
 "por": {
 "content_id": 238215,
 "language": "por",
@@ -24737,6 +25087,11 @@
 "content_id": 180150,
 "language": "hin",
 "title": "परिज्जी"
+},
+"ind": {
+"content_id": 689826,
+"language": "ind",
+"title": "Orang Feris"
 },
 "por": {
 "content_id": 238218,
@@ -24784,6 +25139,11 @@
 "content_id": 180153,
 "language": "hin",
 "title": "फारस"
+},
+"ind": {
+"content_id": 689827,
+"language": "ind",
+"title": "Persia"
 },
 "por": {
 "content_id": 238221,
@@ -24884,6 +25244,11 @@
 "language": "hin",
 "title": "फ़िरौन"
 },
+"ind": {
+"content_id": 689828,
+"language": "ind",
+"title": "Firaun"
+},
 "por": {
 "content_id": 238224,
 "language": "por",
@@ -24930,6 +25295,11 @@
 "content_id": 180158,
 "language": "hin",
 "title": "फिलिप्पुस"
+},
+"ind": {
+"content_id": 689830,
+"language": "ind",
+"title": "Filipus"
 },
 "por": {
 "content_id": 238226,
@@ -25030,6 +25400,11 @@
 "language": "hin",
 "title": "फिलिप्पुस"
 },
+"ind": {
+"content_id": 689831,
+"language": "ind",
+"title": "Filipus, Rasul"
+},
 "por": {
 "content_id": 238228,
 "language": "por",
@@ -25076,6 +25451,11 @@
 "content_id": 180161,
 "language": "hin",
 "title": "पलिश्तीन"
+},
+"ind": {
+"content_id": 689832,
+"language": "ind",
+"title": "Filistea"
 },
 "por": {
 "content_id": 238229,
@@ -25124,6 +25504,11 @@
 "language": "hin",
 "title": "पलिश्तियों"
 },
+"ind": {
+"content_id": 689833,
+"language": "ind",
+"title": "Filistin"
+},
 "por": {
 "content_id": 238230,
 "language": "por",
@@ -25171,6 +25556,11 @@
 "language": "hin",
 "title": "पीनहास"
 },
+"ind": {
+"content_id": 689834,
+"language": "ind",
+"title": "Pinehas"
+},
 "por": {
 "content_id": 238231,
 "language": "por",
@@ -25217,6 +25607,11 @@
 "content_id": 180164,
 "language": "hin",
 "title": "फीनीके"
+},
+"ind": {
+"content_id": 689835,
+"language": "ind",
+"title": "Fenisia"
 },
 "por": {
 "content_id": 238232,
@@ -25317,6 +25712,11 @@
 "language": "hin",
 "title": "पुन्तुस"
 },
+"ind": {
+"content_id": 689842,
+"language": "ind",
+"title": "Pontus"
+},
 "por": {
 "content_id": 238243,
 "language": "por",
@@ -25363,6 +25763,11 @@
 "content_id": 180176,
 "language": "hin",
 "title": "पोतीपर"
+},
+"ind": {
+"content_id": 689843,
+"language": "ind",
+"title": "Potifar"
 },
 "por": {
 "content_id": 238245,
@@ -27519,6 +27924,11 @@
 "language": "hin",
 "title": "तामार"
 },
+"ind": {
+"content_id": 689897,
+"language": "ind",
+"title": "Tamar"
+},
 "por": {
 "content_id": 238408,
 "language": "por",
@@ -27565,6 +27975,11 @@
 "content_id": 180333,
 "language": "hin",
 "title": "तर्शीश"
+},
+"ind": {
+"content_id": 689898,
+"language": "ind",
+"title": "Tarsis"
 },
 "por": {
 "content_id": 238409,
@@ -27613,6 +28028,11 @@
 "language": "hin",
 "title": "तरसुस"
 },
+"ind": {
+"content_id": 689899,
+"language": "ind",
+"title": "Tarsus"
+},
 "por": {
 "content_id": 238410,
 "language": "por",
@@ -27659,6 +28079,11 @@
 "content_id": 180343,
 "language": "hin",
 "title": "तेरह"
+},
+"ind": {
+"content_id": 689905,
+"language": "ind",
+"title": "Terah"
 },
 "por": {
 "content_id": 238419,
@@ -27811,6 +28236,11 @@
 "language": "hin",
 "title": "थोमा"
 },
+"ind": {
+"content_id": 689909,
+"language": "ind",
+"title": "Tomas"
+},
 "por": {
 "content_id": 238427,
 "language": "por",
@@ -27909,6 +28339,11 @@
 "content_id": 180358,
 "language": "hin",
 "title": "तिर्सा"
+},
+"ind": {
+"content_id": 689912,
+"language": "ind",
+"title": "Tirza"
 },
 "por": {
 "content_id": 238434,
@@ -28061,6 +28496,11 @@
 "language": "hin",
 "title": "तूबल"
 },
+"ind": {
+"content_id": 689918,
+"language": "ind",
+"title": "Tubal"
+},
 "por": {
 "content_id": 238450,
 "language": "por",
@@ -28159,6 +28599,11 @@
 "content_id": 180379,
 "language": "hin",
 "title": "सोर"
+},
+"ind": {
+"content_id": 689920,
+"language": "ind",
+"title": "Tirus"
 },
 "por": {
 "content_id": 238452,
@@ -28358,6 +28803,11 @@
 "language": "hin",
 "title": "वशती"
 },
+"ind": {
+"content_id": 689922,
+"language": "ind",
+"title": "Wasti"
+},
 "por": {
 "content_id": 238459,
 "language": "por",
@@ -28400,6 +28850,11 @@
 "language": "hin",
 "title": "जक्कई"
 },
+"ind": {
+"content_id": 689937,
+"language": "ind",
+"title": "Zakheus"
+},
 "por": {
 "content_id": 238490,
 "language": "por",
@@ -28441,6 +28896,11 @@
 "content_id": 180417,
 "language": "hin",
 "title": "सादोक"
+},
+"ind": {
+"content_id": 689938,
+"language": "ind",
+"title": "Zadok"
 },
 "por": {
 "content_id": 238491,
@@ -28489,6 +28949,11 @@
 "language": "hin",
 "title": "जब्दी"
 },
+"ind": {
+"content_id": 689939,
+"language": "ind",
+"title": "Zebedeus"
+},
 "por": {
 "content_id": 238493,
 "language": "por",
@@ -28530,6 +28995,11 @@
 "content_id": 180420,
 "language": "hin",
 "title": "जबूलून"
+},
+"ind": {
+"content_id": 689940,
+"language": "ind",
+"title": "Zebulon"
 },
 "por": {
 "content_id": 238494,
@@ -28578,6 +29048,11 @@
 "language": "hin",
 "title": "जकर्याह (नया नियम)"
 },
+"ind": {
+"content_id": 689941,
+"language": "ind",
+"title": "Zakharia PB"
+},
 "por": {
 "content_id": 238495,
 "language": "por",
@@ -28625,6 +29100,11 @@
 "language": "hin",
 "title": "ज़कर्याह (पुराना नियम)"
 },
+"ind": {
+"content_id": 689942,
+"language": "ind",
+"title": "Zakharia PL"
+},
 "por": {
 "content_id": 238496,
 "language": "por",
@@ -28666,6 +29146,11 @@
 "content_id": 180423,
 "language": "hin",
 "title": "सिदकिय्याह"
+},
+"ind": {
+"content_id": 689943,
+"language": "ind",
+"title": "Zedekia"
 },
 "por": {
 "content_id": 238497,
@@ -28709,6 +29194,11 @@
 "language": "hin",
 "title": "सपन्याह"
 },
+"ind": {
+"content_id": 689944,
+"language": "ind",
+"title": "Zefanya"
+},
 "por": {
 "content_id": 238498,
 "language": "por",
@@ -28751,6 +29241,11 @@
 "language": "hin",
 "title": "जरुब्बाबेल"
 },
+"ind": {
+"content_id": 689945,
+"language": "ind",
+"title": "Zerubabel"
+},
 "por": {
 "content_id": 238499,
 "language": "por",
@@ -28787,6 +29282,11 @@
 "content_id": 182438,
 "language": "hin",
 "title": "जिल्पा"
+},
+"ind": {
+"content_id": 689946,
+"language": "ind",
+"title": "Zilpa"
 },
 "por": {
 "content_id": 238500,
@@ -28829,6 +29329,11 @@
 "content_id": 180427,
 "language": "hin",
 "title": "सोअर"
+},
+"ind": {
+"content_id": 689948,
+"language": "ind",
+"title": "Zoar"
 },
 "por": {
 "content_id": 238502,
@@ -29802,6 +30307,11 @@
 "content_id": 180027,
 "language": "hin",
 "title": "ज्योतिषी"
+},
+"ind": {
+"content_id": 689790,
+"language": "ind",
+"title": "Orang Majus"
 },
 "por": {
 "content_id": 238093,
@@ -31594,6 +32104,11 @@
 "language": "hin",
 "title": "ऊँट"
 },
+"ind": {
+"content_id": 689685,
+"language": "ind",
+"title": "Unta"
+},
 "por": {
 "content_id": 237705,
 "language": "por",
@@ -31745,6 +32260,11 @@
 "language": "hin",
 "title": "देवदारू"
 },
+"ind": {
+"content_id": 689686,
+"language": "ind",
+"title": "Aras"
+},
 "por": {
 "content_id": 237713,
 "language": "por",
@@ -31791,6 +32311,11 @@
 "content_id": 179658,
 "language": "hin",
 "title": "नाम लिखाई"
+},
+"ind": {
+"content_id": 689687,
+"language": "ind",
+"title": "Sensus"
 },
 "por": {
 "content_id": 237714,
@@ -31839,6 +32364,11 @@
 "language": "hin",
 "title": "भूसी"
 },
+"ind": {
+"content_id": 689688,
+"language": "ind",
+"title": "Sekam"
+},
 "por": {
 "content_id": 237716,
 "language": "por",
@@ -31885,6 +32415,11 @@
 "content_id": 179662,
 "language": "hin",
 "title": "रथ"
+},
+"ind": {
+"content_id": 689689,
+"language": "ind",
+"title": "Kereta perang"
 },
 "por": {
 "content_id": 237718,
@@ -31933,6 +32468,11 @@
 "language": "hin",
 "title": "करूब"
 },
+"ind": {
+"content_id": 689690,
+"language": "ind",
+"title": "Kerubim"
+},
 "por": {
 "content_id": 237720,
 "language": "por",
@@ -31979,6 +32519,11 @@
 "content_id": 179665,
 "language": "hin",
 "title": "प्रधान"
+},
+"ind": {
+"content_id": 689691,
+"language": "ind",
+"title": "Kepala"
 },
 "por": {
 "content_id": 237721,
@@ -32027,6 +32572,11 @@
 "language": "hin",
 "title": "नागरिक"
 },
+"ind": {
+"content_id": 689693,
+"language": "ind",
+"title": "Warga negara"
+},
 "por": {
 "content_id": 237728,
 "language": "por",
@@ -32074,6 +32624,11 @@
 "language": "hin",
 "title": "कुल"
 },
+"ind": {
+"content_id": 689694,
+"language": "ind",
+"title": "Klan"
+},
 "por": {
 "content_id": 237730,
 "language": "por",
@@ -32120,6 +32675,11 @@
 "content_id": 179678,
 "language": "hin",
 "title": "सेनापति"
+},
+"ind": {
+"content_id": 689695,
+"language": "ind",
+"title": "Komandan"
 },
 "por": {
 "content_id": 237734,
@@ -32272,6 +32832,11 @@
 "language": "hin",
 "title": "गर्भवती होना"
 },
+"ind": {
+"content_id": 689696,
+"language": "ind",
+"title": "Mengandung"
+},
 "por": {
 "content_id": 237738,
 "language": "por",
@@ -32318,6 +32883,11 @@
 "content_id": 179683,
 "language": "hin",
 "title": "रखैल"
+},
+"ind": {
+"content_id": 689697,
+"language": "ind",
+"title": "Gundik"
 },
 "por": {
 "content_id": 237739,
@@ -32418,6 +32988,11 @@
 "language": "hin",
 "title": "भस्म कर देगा"
 },
+"ind": {
+"content_id": 689698,
+"language": "ind",
+"title": "menghabisi"
+},
 "por": {
 "content_id": 237744,
 "language": "por",
@@ -32464,6 +33039,11 @@
 "content_id": 179690,
 "language": "hin",
 "title": "तुच्छ जाने"
+},
+"ind": {
+"content_id": 689699,
+"language": "ind",
+"title": "Penghinaan"
 },
 "por": {
 "content_id": 237745,
@@ -32564,6 +33144,11 @@
 "language": "hin",
 "title": "महासभा"
 },
+"ind": {
+"content_id": 689700,
+"language": "ind",
+"title": "majelis"
+},
 "por": {
 "content_id": 237750,
 "language": "por",
@@ -32610,6 +33195,11 @@
 "content_id": 179696,
 "language": "hin",
 "title": "सम्मति"
+},
+"ind": {
+"content_id": 689701,
+"language": "ind",
+"title": "penasihat"
 },
 "por": {
 "content_id": 237751,
@@ -32705,6 +33295,11 @@
 "language": "hin",
 "title": "मैदान"
 },
+"ind": {
+"content_id": 689703,
+"language": "ind",
+"title": "Pelataran"
+},
 "por": {
 "content_id": 237754,
 "language": "por",
@@ -32741,6 +33336,11 @@
 "content_id": 182411,
 "language": "hin",
 "title": "न्यायालय-कानूनी"
+},
+"ind": {
+"content_id": 689702,
+"language": "ind",
+"title": "Pengadilan-hukum"
 },
 "por": {
 "content_id": 237753,
@@ -32997,6 +33597,11 @@
 "language": "hin",
 "title": "पुकार"
 },
+"ind": {
+"content_id": 689704,
+"language": "ind",
+"title": "Menangis"
+},
 "por": {
 "content_id": 237763,
 "language": "por",
@@ -33043,6 +33648,11 @@
 "content_id": 179708,
 "language": "hin",
 "title": "पिलानेहारा"
+},
+"ind": {
+"content_id": 689705,
+"language": "ind",
+"title": "Juru Minuman"
 },
 "por": {
 "content_id": 237764,
@@ -33091,6 +33701,11 @@
 "language": "hin",
 "title": "परदा"
 },
+"ind": {
+"content_id": 689706,
+"language": "ind",
+"title": "tabir"
+},
 "por": {
 "content_id": 237766,
 "language": "por",
@@ -33137,6 +33752,11 @@
 "content_id": 179713,
 "language": "hin",
 "title": "सनौबर"
+},
+"ind": {
+"content_id": 689708,
+"language": "ind",
+"title": "Sanobar"
 },
 "por": {
 "content_id": 237769,
@@ -33289,6 +33909,11 @@
 "language": "hin",
 "title": "आज्ञा/आदेश"
 },
+"ind": {
+"content_id": 689713,
+"language": "ind",
+"title": "Dekrit"
+},
 "por": {
 "content_id": 237783,
 "language": "por",
@@ -33336,6 +33961,11 @@
 "language": "hin",
 "title": "समर्पण करना"
 },
+"ind": {
+"content_id": 689714,
+"language": "ind",
+"title": "Mendedikasikan"
+},
 "por": {
 "content_id": 237784,
 "language": "por",
@@ -33382,6 +34012,11 @@
 "content_id": 179729,
 "language": "hin",
 "title": "हिरन"
+},
+"ind": {
+"content_id": 689715,
+"language": "ind",
+"title": "Rusa"
 },
 "por": {
 "content_id": 237785,
@@ -33680,6 +34315,11 @@
 "language": "hin",
 "title": "अशुद्ध करना"
 },
+"ind": {
+"content_id": 689716,
+"language": "ind",
+"title": "Menodai"
+},
 "por": {
 "content_id": 237794,
 "language": "por",
@@ -33726,6 +34366,11 @@
 "content_id": 179738,
 "language": "hin",
 "title": "जंगल"
+},
+"ind": {
+"content_id": 689717,
+"language": "ind",
+"title": "Gurun"
 },
 "por": {
 "content_id": 237795,
@@ -33774,6 +34419,11 @@
 "language": "hin",
 "title": "उजड़ा"
 },
+"ind": {
+"content_id": 689718,
+"language": "ind",
+"title": "Tandus"
+},
 "por": {
 "content_id": 237796,
 "language": "por",
@@ -33820,6 +34470,11 @@
 "content_id": 179740,
 "language": "hin",
 "title": "नाश करना"
+},
+"ind": {
+"content_id": 689719,
+"language": "ind",
+"title": "Penghancur"
 },
 "por": {
 "content_id": 237797,
@@ -33920,6 +34575,11 @@
 "language": "hin",
 "title": "नाश होगा"
 },
+"ind": {
+"content_id": 689720,
+"language": "ind",
+"title": "Hancur"
+},
 "por": {
 "content_id": 237799,
 "language": "por",
@@ -33966,6 +34626,11 @@
 "content_id": 179743,
 "language": "hin",
 "title": "भस्म करना/फाड़ खाना"
+},
+"ind": {
+"content_id": 689721,
+"language": "ind",
+"title": "melahap"
 },
 "por": {
 "content_id": 237800,
@@ -34014,6 +34679,11 @@
 "language": "hin",
 "title": "प्रभेद करना"
 },
+"ind": {
+"content_id": 689722,
+"language": "ind",
+"title": "Kebijaksanaan"
+},
 "por": {
 "content_id": 237801,
 "language": "por",
@@ -34050,6 +34720,11 @@
 "content_id": 182414,
 "language": "hin",
 "title": "हतोत्साहित करना"
+},
+"ind": {
+"content_id": 689723,
+"language": "ind",
+"title": "Mengecilkan hati"
 },
 "por": {
 "content_id": 237803,
@@ -34140,6 +34815,11 @@
 "language": "hin",
 "title": "अनादर-वस्तु"
 },
+"ind": {
+"content_id": 689724,
+"language": "ind",
+"title": "kecemaran"
+},
 "por": {
 "content_id": 237804,
 "language": "por",
@@ -34187,6 +34867,11 @@
 "language": "hin",
 "title": "छितरा"
 },
+"ind": {
+"content_id": 689725,
+"language": "ind",
+"title": "Menyebar"
+},
 "por": {
 "content_id": 237806,
 "language": "por",
@@ -34233,6 +34918,11 @@
 "content_id": 179748,
 "language": "hin",
 "title": "भावी कहने"
+},
+"ind": {
+"content_id": 689726,
+"language": "ind",
+"title": "Ramalan"
 },
 "por": {
 "content_id": 237807,
@@ -34385,6 +35075,11 @@
 "language": "hin",
 "title": "दण्ड"
 },
+"ind": {
+"content_id": 689727,
+"language": "ind",
+"title": "Malapetaka"
+},
 "por": {
 "content_id": 237812,
 "language": "por",
@@ -34432,6 +35127,11 @@
 "language": "hin",
 "title": "चौखट"
 },
+"ind": {
+"content_id": 689728,
+"language": "ind",
+"title": "Tiang pintu"
+},
 "por": {
 "content_id": 237813,
 "language": "por",
@@ -34478,6 +35178,11 @@
 "content_id": 179755,
 "language": "hin",
 "title": "पण्डुकी"
+},
+"ind": {
+"content_id": 689729,
+"language": "ind",
+"title": "Merpati"
 },
 "por": {
 "content_id": 237814,
@@ -34578,6 +35283,11 @@
 "language": "hin",
 "title": "अर्घ"
 },
+"ind": {
+"content_id": 689730,
+"language": "ind",
+"title": "Persembahan Curahan"
+},
 "por": {
 "content_id": 237816,
 "language": "por",
@@ -34676,6 +35386,11 @@
 "content_id": 179759,
 "language": "hin",
 "title": "गोबर"
+},
+"ind": {
+"content_id": 689731,
+"language": "ind",
+"title": "Kotoran"
 },
 "por": {
 "content_id": 237818,
@@ -36666,6 +37381,11 @@
 "language": "hin",
 "title": "पीढ़ी-वंशजों का समूह"
 },
+"ind": {
+"content_id": 689732,
+"language": "ind",
+"title": "Angkatan-Kelompok Keturunan"
+},
 "por": {
 "content_id": 237903,
 "language": "por",
@@ -36755,6 +37475,11 @@
 "language": "hin",
 "title": "पीढ़ी-जो लोग एक ही समय अवधि में रहते हैं"
 },
+"ind": {
+"content_id": 689733,
+"language": "ind",
+"title": "Angkatan-Orang-orang Yang Hidup dalam Periode Waktu yang Sama"
+},
 "por": {
 "content_id": 237904,
 "language": "por",
@@ -36801,6 +37526,11 @@
 "content_id": 179848,
 "language": "hin",
 "title": "रपाई"
+},
+"ind": {
+"content_id": 689734,
+"language": "ind",
+"title": "Raksasa"
 },
 "por": {
 "content_id": 237910,
@@ -36849,6 +37579,11 @@
 "language": "hin",
 "title": "कमर कसना"
 },
+"ind": {
+"content_id": 689736,
+"language": "ind",
+"title": "Ikat Pinggang"
+},
 "por": {
 "content_id": 237916,
 "language": "por",
@@ -36896,6 +37631,11 @@
 "language": "hin",
 "title": "बीनने"
 },
+"ind": {
+"content_id": 689737,
+"language": "ind",
+"title": "Memungut"
+},
 "por": {
 "content_id": 237918,
 "language": "por",
@@ -36942,6 +37682,11 @@
 "content_id": 179858,
 "language": "hin",
 "title": "बकरा-बकरियाँ"
+},
+"ind": {
+"content_id": 689738,
+"language": "ind",
+"title": "Kambing"
 },
 "por": {
 "content_id": 237920,
@@ -37094,6 +37839,11 @@
 "language": "hin",
 "title": "शासन करना"
 },
+"ind": {
+"content_id": 689739,
+"language": "ind",
+"title": "Wali Negeri"
+},
 "por": {
 "content_id": 237932,
 "language": "por",
@@ -37140,6 +37890,11 @@
 "content_id": 179872,
 "language": "hin",
 "title": "अन्न"
+},
+"ind": {
+"content_id": 689740,
+"language": "ind",
+"title": "Biji-bijian"
 },
 "por": {
 "content_id": 237934,
@@ -37188,6 +37943,11 @@
 "language": "hin",
 "title": "अन्नबलि"
 },
+"ind": {
+"content_id": 689741,
+"language": "ind",
+"title": "Korban Sajian"
+},
 "por": {
 "content_id": 237935,
 "language": "por",
@@ -37234,6 +37994,11 @@
 "content_id": 179874,
 "language": "hin",
 "title": "अंगूर"
+},
+"ind": {
+"content_id": 689742,
+"language": "ind",
+"title": "Anggur"
 },
 "por": {
 "content_id": 237936,
@@ -37282,6 +38047,11 @@
 "language": "hin",
 "title": "दोषबलि"
 },
+"ind": {
+"content_id": 689743,
+"language": "ind",
+"title": "Korban Penebus Salah"
+},
 "por": {
 "content_id": 237940,
 "language": "por",
@@ -37328,6 +38098,11 @@
 "content_id": 179883,
 "language": "hin",
 "title": "ओलों"
+},
+"ind": {
+"content_id": 689747,
+"language": "ind",
+"title": "Hujan es"
 },
 "por": {
 "content_id": 237945,
@@ -37376,6 +38151,11 @@
 "language": "hin",
 "title": "लटका हुआ"
 },
+"ind": {
+"content_id": 689752,
+"language": "ind",
+"title": "Gantung"
+},
 "por": {
 "content_id": 237950,
 "language": "por",
@@ -37423,6 +38203,11 @@
 "language": "hin",
 "title": "कठोर"
 },
+"ind": {
+"content_id": 689756,
+"language": "ind",
+"title": "Sulit"
+},
 "por": {
 "content_id": 237954,
 "language": "por",
@@ -37459,6 +38244,11 @@
 "content_id": 182419,
 "language": "hin",
 "title": "कठोर-अडिग"
+},
+"ind": {
+"content_id": 689755,
+"language": "ind",
+"title": "Keras-Pantang Menyerah"
 },
 "por": {
 "content_id": 237953,
@@ -37507,6 +38297,11 @@
 "language": "hin",
 "title": "वीणा"
 },
+"ind": {
+"content_id": 689757,
+"language": "ind",
+"title": "Kecapi"
+},
 "por": {
 "content_id": 237955,
 "language": "por",
@@ -37554,6 +38349,11 @@
 "language": "hin",
 "title": "फसल"
 },
+"ind": {
+"content_id": 689758,
+"language": "ind",
+"title": "Musim Menuai"
+},
 "por": {
 "content_id": 237956,
 "language": "por",
@@ -37600,6 +38400,11 @@
 "content_id": 179894,
 "language": "hin",
 "title": "घमण्ड"
+},
+"ind": {
+"content_id": 689759,
+"language": "ind",
+"title": "angkuh"
 },
 "por": {
 "content_id": 237957,
@@ -37700,6 +38505,11 @@
 "language": "hin",
 "title": "ऊँचे स्थान"
 },
+"ind": {
+"content_id": 689766,
+"language": "ind",
+"title": "Tempat-Tempat Tinggi"
+},
 "por": {
 "content_id": 237968,
 "language": "por",
@@ -37746,6 +38556,11 @@
 "content_id": 179910,
 "language": "hin",
 "title": "पवित्र नगर"
+},
+"ind": {
+"content_id": 689770,
+"language": "ind",
+"title": "Kota Suci"
 },
 "por": {
 "content_id": 237974,
@@ -37794,6 +38609,11 @@
 "language": "hin",
 "title": "मधु"
 },
+"ind": {
+"content_id": 689771,
+"language": "ind",
+"title": "Madu"
+},
 "por": {
 "content_id": 237978,
 "language": "por",
@@ -37819,7 +38639,7 @@
 "26706": {
 "content_id": "26706",
 "reference_id": 25848,
-"index_reference": "horn horned",
+"index_reference": "horn horned shofar",
 "localizations": {
 "arb": {
 "content_id": 196251,
@@ -37840,6 +38660,11 @@
 "content_id": 179917,
 "language": "hin",
 "title": "सींग"
+},
+"ind": {
+"content_id": 689772,
+"language": "ind",
+"title": "Tanduk"
 },
 "por": {
 "content_id": 237981,
@@ -37888,6 +38713,11 @@
 "language": "hin",
 "title": "भय"
 },
+"ind": {
+"content_id": 689773,
+"language": "ind",
+"title": "Kengerian"
+},
 "por": {
 "content_id": 237982,
 "language": "por",
@@ -37935,6 +38765,11 @@
 "language": "hin",
 "title": "घोड़ा"
 },
+"ind": {
+"content_id": 689774,
+"language": "ind",
+"title": "Kuda"
+},
 "por": {
 "content_id": 237983,
 "language": "por",
@@ -37981,6 +38816,11 @@
 "content_id": 179920,
 "language": "hin",
 "title": "घुड़सवार"
+},
+"ind": {
+"content_id": 689775,
+"language": "ind",
+"title": "Penunggang Kuda"
 },
 "por": {
 "content_id": 237984,
@@ -38070,6 +38910,11 @@
 "content_id": 182421,
 "language": "hin",
 "title": "घराना-वंशज_राष्ट्र"
+},
+"ind": {
+"content_id": 689778,
+"language": "ind",
+"title": "Rumah-keturunan_bangsa"
 },
 "por": {
 "content_id": 237988,
@@ -38732,6 +39577,11 @@
 "language": "hin",
 "title": "कुटुम्बी"
 },
+"ind": {
+"content_id": 689779,
+"language": "ind",
+"title": "Kerabat"
+},
 "por": {
 "content_id": 238069,
 "language": "por",
@@ -38830,6 +39680,11 @@
 "content_id": 180006,
 "language": "hin",
 "title": "राज्य"
+},
+"ind": {
+"content_id": 689780,
+"language": "ind",
+"title": "Kerajaan"
 },
 "por": {
 "content_id": 238071,
@@ -38972,6 +39827,11 @@
 "language": "hin",
 "title": "संबंध-जानें"
 },
+"ind": {
+"content_id": 689781,
+"language": "ind",
+"title": "mengenal-hubungan"
+},
 "por": {
 "content_id": 238077,
 "language": "por",
@@ -39060,6 +39920,11 @@
 "content_id": 182424,
 "language": "hin",
 "title": "प्रसव-प्रक्रिया"
+},
+"ind": {
+"content_id": 689783,
+"language": "ind",
+"title": "Persalinan-melahirkan"
 },
 "por": {
 "content_id": 238081,
@@ -39159,6 +40024,11 @@
 "content_id": 180020,
 "language": "hin",
 "title": "दीवट/दीवटों"
+},
+"ind": {
+"content_id": 689787,
+"language": "ind",
+"title": "Kaki Dian"
 },
 "por": {
 "content_id": 238087,
@@ -39311,6 +40181,11 @@
 "language": "hin",
 "title": "चीता"
 },
+"ind": {
+"content_id": 689792,
+"language": "ind",
+"title": "Macan Tutul"
+},
 "por": {
 "content_id": 238095,
 "language": "por",
@@ -39357,6 +40232,11 @@
 "content_id": 180030,
 "language": "hin",
 "title": "चर्मरोग"
+},
+"ind": {
+"content_id": 689793,
+"language": "ind",
+"title": "Kusta"
 },
 "por": {
 "content_id": 238096,
@@ -39463,6 +40343,11 @@
 "language": "hin",
 "title": "पशु"
 },
+"ind": {
+"content_id": 689796,
+"language": "ind",
+"title": "Ternak"
+},
 "por": {
 "content_id": 238101,
 "language": "por",
@@ -39509,6 +40394,11 @@
 "content_id": 180036,
 "language": "hin",
 "title": "टिड्डी"
+},
+"ind": {
+"content_id": 689797,
+"language": "ind",
+"title": "Belalang"
 },
 "por": {
 "content_id": 238102,
@@ -39557,6 +40447,11 @@
 "language": "hin",
 "title": "कटी"
 },
+"ind": {
+"content_id": 689798,
+"language": "ind",
+"title": "Pinggang"
+},
 "por": {
 "content_id": 238103,
 "language": "por",
@@ -39603,6 +40498,11 @@
 "content_id": 180042,
 "language": "hin",
 "title": "चिट्ठियाँ"
+},
+"ind": {
+"content_id": 689801,
+"language": "ind",
+"title": "Undi"
 },
 "por": {
 "content_id": 238108,
@@ -39703,6 +40603,11 @@
 "language": "hin",
 "title": "दीन"
 },
+"ind": {
+"content_id": 689802,
+"language": "ind",
+"title": "Rendah"
+},
 "por": {
 "content_id": 238111,
 "language": "por",
@@ -39801,6 +40706,11 @@
 "content_id": 180048,
 "language": "hin",
 "title": "वीणा"
+},
+"ind": {
+"content_id": 689803,
+"language": "ind",
+"title": "Kecapi"
 },
 "por": {
 "content_id": 238114,
@@ -40983,6 +41893,11 @@
 "language": "hin",
 "title": "बांज वृक्ष"
 },
+"ind": {
+"content_id": 689809,
+"language": "ind",
+"title": "Pohon Terbantin"
+},
 "por": {
 "content_id": 238187,
 "language": "por",
@@ -41029,6 +41944,11 @@
 "content_id": 180121,
 "language": "hin",
 "title": "शपथ"
+},
+"ind": {
+"content_id": 689810,
+"language": "ind",
+"title": "Sumpah"
 },
 "por": {
 "content_id": 238188,
@@ -41077,6 +41997,11 @@
 "language": "hin",
 "title": "तेल"
 },
+"ind": {
+"content_id": 689811,
+"language": "ind",
+"title": "Minyak"
+},
 "por": {
 "content_id": 238191,
 "language": "por",
@@ -41123,6 +42048,11 @@
 "content_id": 180124,
 "language": "hin",
 "title": "जैतून"
+},
+"ind": {
+"content_id": 689812,
+"language": "ind",
+"title": "Zaitun"
 },
 "por": {
 "content_id": 238192,
@@ -41364,6 +42294,11 @@
 "language": "hin",
 "title": "अन्यजाति"
 },
+"ind": {
+"content_id": 689815,
+"language": "ind",
+"title": "Penyembah Berhala"
+},
 "por": {
 "content_id": 238200,
 "language": "por",
@@ -41411,6 +42346,11 @@
 "language": "hin",
 "title": "महल"
 },
+"ind": {
+"content_id": 689816,
+"language": "ind",
+"title": "Istana"
+},
 "por": {
 "content_id": 238201,
 "language": "por",
@@ -41452,6 +42392,11 @@
 "content_id": 180134,
 "language": "hin",
 "title": "खजूर"
+},
+"ind": {
+"content_id": 689817,
+"language": "ind",
+"title": "Palem"
 },
 "por": {
 "content_id": 238202,
@@ -41594,6 +42539,11 @@
 "language": "hin",
 "title": "कुलपति"
 },
+"ind": {
+"content_id": 689821,
+"language": "ind",
+"title": "bapa leluhur"
+},
 "por": {
 "content_id": 238208,
 "language": "por",
@@ -41692,6 +42642,11 @@
 "content_id": 180143,
 "language": "hin",
 "title": "मेलबलि"
+},
+"ind": {
+"content_id": 689822,
+"language": "ind",
+"title": "Korban Pendamaian"
 },
 "por": {
 "content_id": 238211,
@@ -42052,6 +43007,11 @@
 "language": "hin",
 "title": "गड्ढा"
 },
+"ind": {
+"content_id": 689836,
+"language": "ind",
+"title": "Lubang"
+},
 "por": {
 "content_id": 238236,
 "language": "por",
@@ -42098,6 +43058,11 @@
 "content_id": 180169,
 "language": "hin",
 "title": "मरी"
+},
+"ind": {
+"content_id": 689837,
+"language": "ind",
+"title": "Tulah"
 },
 "por": {
 "content_id": 238237,
@@ -42198,6 +43163,11 @@
 "language": "hin",
 "title": "रेहन"
 },
+"ind": {
+"content_id": 689838,
+"language": "ind",
+"title": "Janji"
+},
 "por": {
 "content_id": 238239,
 "language": "por",
@@ -42245,6 +43215,11 @@
 "language": "hin",
 "title": "हल/हल चलाना"
 },
+"ind": {
+"content_id": 689839,
+"language": "ind",
+"title": "Bajak"
+},
 "por": {
 "content_id": 238240,
 "language": "por",
@@ -42281,6 +43256,11 @@
 "content_id": 182428,
 "language": "hin",
 "title": "लूटना"
+},
+"ind": {
+"content_id": 689840,
+"language": "ind",
+"title": "Jarah"
 },
 "por": {
 "content_id": 238241,
@@ -42328,6 +43308,11 @@
 "content_id": 180173,
 "language": "hin",
 "title": "अनार"
+},
+"ind": {
+"content_id": 689841,
+"language": "ind",
+"title": "Delima"
 },
 "por": {
 "content_id": 238242,
@@ -42428,6 +43413,11 @@
 "language": "hin",
 "title": "स्तुति"
 },
+"ind": {
+"content_id": 689844,
+"language": "ind",
+"title": "Puji"
+},
 "por": {
 "content_id": 238246,
 "language": "por",
@@ -42527,6 +43517,11 @@
 "language": "hin",
 "title": "आहेर"
 },
+"ind": {
+"content_id": 689846,
+"language": "ind",
+"title": "Mangsa"
+},
 "por": {
 "content_id": 238250,
 "language": "por",
@@ -42573,6 +43568,11 @@
 "content_id": 180183,
 "language": "hin",
 "title": "राजकुमार"
+},
+"ind": {
+"content_id": 689848,
+"language": "ind",
+"title": "Pangeran"
 },
 "por": {
 "content_id": 238252,
@@ -42715,6 +43715,11 @@
 "language": "hin",
 "title": "लाभ-आत्मिक"
 },
+"ind": {
+"content_id": 689849,
+"language": "ind",
+"title": "Keuntungan-Rohani"
+},
 "por": {
 "content_id": 238255,
 "language": "por",
@@ -42814,6 +43819,11 @@
 "language": "hin",
 "title": "वैश्या"
 },
+"ind": {
+"content_id": 689850,
+"language": "ind",
+"title": "perempuan sundal"
+},
 "por": {
 "content_id": 238262,
 "language": "por",
@@ -42860,6 +43870,11 @@
 "content_id": 180193,
 "language": "hin",
 "title": "दण्डवत् करना"
+},
+"ind": {
+"content_id": 689851,
+"language": "ind",
+"title": "Bersujud"
 },
 "por": {
 "content_id": 238263,
@@ -43054,6 +44069,11 @@
 "language": "hin",
 "title": "प्रांत"
 },
+"ind": {
+"content_id": 689852,
+"language": "ind",
+"title": "Provinsi"
+},
 "por": {
 "content_id": 238267,
 "language": "por",
@@ -43153,6 +44173,11 @@
 "language": "hin",
 "title": "बुद्धिमानी"
 },
+"ind": {
+"content_id": 689853,
+"language": "ind",
+"title": "Bijaksana"
+},
 "por": {
 "content_id": 238269,
 "language": "por",
@@ -43251,6 +44276,11 @@
 "content_id": 180202,
 "language": "hin",
 "title": "बैंगनी"
+},
+"ind": {
+"content_id": 689854,
+"language": "ind",
+"title": "Ungu"
 },
 "por": {
 "content_id": 238273,
@@ -44339,6 +45369,11 @@
 "language": "hin",
 "title": "टाट"
 },
+"ind": {
+"content_id": 689859,
+"language": "ind",
+"title": "Kain kabung"
+},
 "por": {
 "content_id": 238316,
 "language": "por",
@@ -44438,6 +45473,11 @@
 "language": "hin",
 "title": "जूता"
 },
+"ind": {
+"content_id": 689862,
+"language": "ind",
+"title": "Kasut"
+},
 "por": {
 "content_id": 238326,
 "language": "por",
@@ -44484,6 +45524,11 @@
 "content_id": 180261,
 "language": "hin",
 "title": "राजदण्ड"
+},
+"ind": {
+"content_id": 689863,
+"language": "ind",
+"title": "Tongkat Kerajaan"
 },
 "por": {
 "content_id": 238332,
@@ -44694,6 +45739,11 @@
 "language": "hin",
 "title": "बन्दी बनाना"
 },
+"ind": {
+"content_id": 689866,
+"language": "ind",
+"title": "Rebut"
+},
 "por": {
 "content_id": 238340,
 "language": "por",
@@ -44740,6 +45790,11 @@
 "content_id": 180269,
 "language": "hin",
 "title": "सेला"
+},
+"ind": {
+"content_id": 689867,
+"language": "ind",
+"title": "Sela"
 },
 "por": {
 "content_id": 238341,
@@ -44830,6 +45885,11 @@
 "language": "hin",
 "title": "सेराफिम"
 },
+"ind": {
+"content_id": 689868,
+"language": "ind",
+"title": "Serafim"
+},
 "por": {
 "content_id": 238344,
 "language": "por",
@@ -44876,6 +45936,11 @@
 "content_id": 180272,
 "language": "hin",
 "title": "सर्प"
+},
+"ind": {
+"content_id": 689869,
+"language": "ind",
+"title": "Ular"
 },
 "por": {
 "content_id": 238345,
@@ -45028,6 +46093,11 @@
 "language": "hin",
 "title": "भेड़"
 },
+"ind": {
+"content_id": 689871,
+"language": "ind",
+"title": "Domba"
+},
 "por": {
 "content_id": 238353,
 "language": "por",
@@ -45074,6 +46144,11 @@
 "content_id": 180281,
 "language": "hin",
 "title": "चरवाहा"
+},
+"ind": {
+"content_id": 689872,
+"language": "ind",
+"title": "Gembala"
 },
 "por": {
 "content_id": 238355,
@@ -45122,6 +46197,11 @@
 "language": "hin",
 "title": "ढाल"
 },
+"ind": {
+"content_id": 689873,
+"language": "ind",
+"title": "Perisai"
+},
 "por": {
 "content_id": 238356,
 "language": "por",
@@ -45168,6 +46248,11 @@
 "content_id": 180286,
 "language": "hin",
 "title": "धूर्त "
+},
+"ind": {
+"content_id": 689874,
+"language": "ind",
+"title": "Cerdik"
 },
 "por": {
 "content_id": 238360,
@@ -45320,6 +46405,11 @@
 "language": "hin",
 "title": "पापबलि"
 },
+"ind": {
+"content_id": 689875,
+"language": "ind",
+"title": "Korban Penghapus Dosa"
+},
 "por": {
 "content_id": 238371,
 "language": "por",
@@ -45366,6 +46456,11 @@
 "content_id": 180297,
 "language": "hin",
 "title": "घात करना"
+},
+"ind": {
+"content_id": 689876,
+"language": "ind",
+"title": "Dibunuh"
 },
 "por": {
 "content_id": 238372,
@@ -45466,6 +46561,11 @@
 "language": "hin",
 "title": "वध करना"
 },
+"ind": {
+"content_id": 689877,
+"language": "ind",
+"title": "Bantai, Sembelih"
+},
 "por": {
 "content_id": 238374,
 "language": "por",
@@ -45565,6 +46665,11 @@
 "language": "hin",
 "title": "हिम"
 },
+"ind": {
+"content_id": 689878,
+"language": "ind",
+"title": "Salju"
+},
 "por": {
 "content_id": 238376,
 "language": "por",
@@ -45611,6 +46716,11 @@
 "content_id": 180307,
 "language": "hin",
 "title": "जादूगर"
+},
+"ind": {
+"content_id": 689881,
+"language": "ind",
+"title": "Sihir"
 },
 "por": {
 "content_id": 238382,
@@ -45659,6 +46769,11 @@
 "language": "hin",
 "title": "पौधे लगाना"
 },
+"ind": {
+"content_id": 689882,
+"language": "ind",
+"title": "Menabur"
+},
 "por": {
 "content_id": 238384,
 "language": "por",
@@ -45705,6 +46820,11 @@
 "content_id": 180310,
 "language": "hin",
 "title": "भाला"
+},
+"ind": {
+"content_id": 689883,
+"language": "ind",
+"title": "Tombak"
 },
 "por": {
 "content_id": 238385,
@@ -45753,6 +46873,11 @@
 "language": "hin",
 "title": "वैभव"
 },
+"ind": {
+"content_id": 689884,
+"language": "ind",
+"title": "kemuliaan"
+},
 "por": {
 "content_id": 238387,
 "language": "por",
@@ -45800,6 +46925,11 @@
 "language": "hin",
 "title": "लाठी"
 },
+"ind": {
+"content_id": 689885,
+"language": "ind",
+"title": "Tongkat"
+},
 "por": {
 "content_id": 238388,
 "language": "por",
@@ -45846,6 +46976,11 @@
 "content_id": 180314,
 "language": "hin",
 "title": "विधि"
+},
+"ind": {
+"content_id": 689886,
+"language": "ind",
+"title": "Undang-undang"
 },
 "por": {
 "content_id": 238389,
@@ -45952,6 +47087,11 @@
 "language": "hin",
 "title": "दाखमधु"
 },
+"ind": {
+"content_id": 689889,
+"language": "ind",
+"title": "Minuman Keras"
+},
 "por": {
 "content_id": 238394,
 "language": "por",
@@ -45998,6 +47138,11 @@
 "content_id": 180320,
 "language": "hin",
 "title": "दृढ़गढ़ "
+},
+"ind": {
+"content_id": 689890,
+"language": "ind",
+"title": "Kubu Pertahanan"
 },
 "por": {
 "content_id": 238395,
@@ -46139,6 +47284,11 @@
 "content_id": 182436,
 "language": "hin",
 "title": "विषय-वस्तु"
+},
+"ind": {
+"content_id": 689891,
+"language": "ind",
+"title": "Subyek-Topik"
 },
 "por": {
 "content_id": 238397,
@@ -46291,6 +47441,11 @@
 "language": "hin",
 "title": "गन्धक"
 },
+"ind": {
+"content_id": 689892,
+"language": "ind",
+"title": "Belerang"
+},
 "por": {
 "content_id": 238402,
 "language": "por",
@@ -46337,6 +47492,11 @@
 "content_id": 180327,
 "language": "hin",
 "title": "झाड़ना"
+},
+"ind": {
+"content_id": 689893,
+"language": "ind",
+"title": "Menyapu"
 },
 "por": {
 "content_id": 238403,
@@ -46385,6 +47545,11 @@
 "language": "hin",
 "title": "तलवार"
 },
+"ind": {
+"content_id": 689894,
+"language": "ind",
+"title": "Pedang"
+},
 "por": {
 "content_id": 238404,
 "language": "por",
@@ -46431,6 +47596,11 @@
 "content_id": 180335,
 "language": "hin",
 "title": "कर"
+},
+"ind": {
+"content_id": 689900,
+"language": "ind",
+"title": "Pajak"
 },
 "por": {
 "content_id": 238411,
@@ -46531,6 +47701,11 @@
 "language": "hin",
 "title": "दस आज्ञाएँ"
 },
+"ind": {
+"content_id": 689901,
+"language": "ind",
+"title": "Sepuluh Perintah Allah"
+},
 "por": {
 "content_id": 238415,
 "language": "por",
@@ -46577,6 +47752,11 @@
 "content_id": 180340,
 "language": "hin",
 "title": "तम्बू"
+},
+"ind": {
+"content_id": 689902,
+"language": "ind",
+"title": "Kemah"
 },
 "por": {
 "content_id": 238416,
@@ -46625,6 +47805,11 @@
 "language": "hin",
 "title": "दसवां"
 },
+"ind": {
+"content_id": 689903,
+"language": "ind",
+"title": "perpuluhan"
+},
 "por": {
 "content_id": 238417,
 "language": "por",
@@ -46672,6 +47857,11 @@
 "language": "hin",
 "title": "मिलापवाला तम्बू"
 },
+"ind": {
+"content_id": 689904,
+"language": "ind",
+"title": "Kemah Pertemuan"
+},
 "por": {
 "content_id": 238418,
 "language": "por",
@@ -46718,6 +47908,11 @@
 "content_id": 180344,
 "language": "hin",
 "title": "डर"
+},
+"ind": {
+"content_id": 689906,
+"language": "ind",
+"title": "takut"
 },
 "por": {
 "content_id": 238420,
@@ -46818,6 +48013,11 @@
 "language": "hin",
 "title": "काँटा"
 },
+"ind": {
+"content_id": 689910,
+"language": "ind",
+"title": "Duri"
+},
 "por": {
 "content_id": 238428,
 "language": "por",
@@ -46916,6 +48116,11 @@
 "content_id": 180354,
 "language": "hin",
 "title": "डेवढ़ी"
+},
+"ind": {
+"content_id": 689911,
+"language": "ind",
+"title": "Ambang"
 },
 "por": {
 "content_id": 238430,
@@ -47016,6 +48221,11 @@
 "language": "hin",
 "title": "कब्र"
 },
+"ind": {
+"content_id": 689913,
+"language": "ind",
+"title": "kubur"
+},
 "por": {
 "content_id": 238435,
 "language": "por",
@@ -47062,6 +48272,11 @@
 "content_id": 180361,
 "language": "hin",
 "title": "जीभ"
+},
+"ind": {
+"content_id": 689914,
+"language": "ind",
+"title": "Lidah"
 },
 "por": {
 "content_id": 238436,
@@ -47214,6 +48429,11 @@
 "language": "hin",
 "title": "रौंदे"
 },
+"ind": {
+"content_id": 689915,
+"language": "ind",
+"title": "Injak-injak"
+},
 "por": {
 "content_id": 238439,
 "language": "por",
@@ -47365,6 +48585,11 @@
 "language": "hin",
 "title": "गोत्र"
 },
+"ind": {
+"content_id": 689916,
+"language": "ind",
+"title": "Suku"
+},
 "por": {
 "content_id": 238444,
 "language": "por",
@@ -47463,6 +48688,11 @@
 "content_id": 180371,
 "language": "hin",
 "title": "कर"
+},
+"ind": {
+"content_id": 689917,
+"language": "ind",
+"title": "Upeti"
 },
 "por": {
 "content_id": 238446,
@@ -47614,6 +48844,11 @@
 "content_id": 180377,
 "language": "hin",
 "title": "कुर्ता"
+},
+"ind": {
+"content_id": 689919,
+"language": "ind",
+"title": "Jubah"
 },
 "por": {
 "content_id": 238451,
@@ -48016,6 +49251,11 @@
 "language": "hin",
 "title": "वादी"
 },
+"ind": {
+"content_id": 689923,
+"language": "ind",
+"title": "Wadi"
+},
 "por": {
 "content_id": 238465,
 "language": "por",
@@ -48115,6 +49355,11 @@
 "language": "hin",
 "title": "करकट"
 },
+"ind": {
+"content_id": 689924,
+"language": "ind",
+"title": "buang, gersang"
+},
 "por": {
 "content_id": 238467,
 "language": "por",
@@ -48161,6 +49406,11 @@
 "content_id": 180394,
 "language": "hin",
 "title": "चौकस"
+},
+"ind": {
+"content_id": 689925,
+"language": "ind",
+"title": "berjaga"
 },
 "por": {
 "content_id": 238468,
@@ -48209,6 +49459,11 @@
 "language": "hin",
 "title": "गुम्मट"
 },
+"ind": {
+"content_id": 689926,
+"language": "ind",
+"title": "Menara Pengawal"
+},
 "por": {
 "content_id": 238469,
 "language": "por",
@@ -48256,6 +49511,11 @@
 "language": "hin",
 "title": "कुण्ड"
 },
+"ind": {
+"content_id": 689927,
+"language": "ind",
+"title": "Sumur"
+},
 "por": {
 "content_id": 238470,
 "language": "por",
@@ -48302,6 +49562,11 @@
 "content_id": 180397,
 "language": "hin",
 "title": "गेहूँ"
+},
+"ind": {
+"content_id": 689928,
+"language": "ind",
+"title": "Gandum"
 },
 "por": {
 "content_id": 238471,
@@ -48402,6 +49667,11 @@
 "language": "hin",
 "title": "दाखरस के कुण्ड"
 },
+"ind": {
+"content_id": 689929,
+"language": "ind",
+"title": "Pemerasan Anggur"
+},
 "por": {
 "content_id": 238474,
 "language": "por",
@@ -48448,6 +49718,11 @@
 "content_id": 180401,
 "language": "hin",
 "title": "ओसाई"
+},
+"ind": {
+"content_id": 689930,
+"language": "ind",
+"title": "Menampi"
 },
 "por": {
 "content_id": 238475,
@@ -48501,6 +49776,11 @@
 "content_id": 180405,
 "language": "hin",
 "title": "भेड़िया"
+},
+"ind": {
+"content_id": 689933,
+"language": "ind",
+"title": "Serigala"
 },
 "por": {
 "content_id": 238479,
@@ -48652,6 +49932,11 @@
 "content_id": 180414,
 "language": "hin",
 "title": "ख़मीर"
+},
+"ind": {
+"content_id": 689936,
+"language": "ind",
+"title": "Ragi"
 },
 "por": {
 "content_id": 238488,

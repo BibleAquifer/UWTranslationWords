@@ -248,7 +248,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+}
+]
 }
 },
 {
@@ -551,7 +559,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.5923,
+"match_method": "scored",
+"preferred_label": "pemungut cukai"
+}
+]
 }
 },
 {
@@ -632,7 +648,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirus"
+}
+]
 }
 },
 {
@@ -1111,7 +1135,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Paran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paran"
+},
+{
+"id": "place:ParanMount",
+"type": "place",
+"confidence": 0.7333,
+"match_method": "scored",
+"preferred_label": "pegunungan"
+}
+]
 }
 },
 {
@@ -1438,7 +1477,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "scored",
+"preferred_label": "paskah"
+}
+]
 }
 },
 {
@@ -3033,7 +3080,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
+]
 }
 },
 {
@@ -3650,7 +3705,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Winepress"
+}
+]
 }
 },
 {
@@ -7032,14 +7095,14 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6414,
+"confidence": 0.6372,
 "match_method": "scored",
 "preferred_label": "persembahan"
 },
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
-"confidence": 0.5879,
+"confidence": 0.5908,
 "match_method": "scored",
 "preferred_label": "pengorbanan"
 }
@@ -7347,7 +7410,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.6335,
+"match_method": "scored",
+"preferred_label": "pesta atau hari raya tujuh minggu"
+}
+]
 }
 },
 {
@@ -7481,7 +7552,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 0.6793,
+"match_method": "scored",
+"preferred_label": "Chariot"
+}
+]
 }
 },
 {
@@ -7570,7 +7649,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 0.6095,
+"match_method": "scored",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
@@ -7648,7 +7735,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+}
+]
 }
 },
 {
@@ -10556,7 +10651,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "berlaku sebagai pelacur"
+}
+]
 }
 },
 {
@@ -10664,7 +10767,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8926,
+"confidence": 0.8949,
 "match_method": "scored",
 "preferred_label": "pengucapan"
 }
@@ -10926,7 +11029,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Shield",
+"type": "keyterm",
+"confidence": 0.8648,
+"match_method": "embedding",
+"preferred_label": "perisai"
+}
+]
 }
 },
 {
@@ -11556,7 +11667,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9393,
+"confidence": 0.9394,
 "match_method": "scored",
 "preferred_label": "perjanjian"
 }
@@ -14052,7 +14163,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.8192,
+"match_method": "scored",
+"preferred_label": "Wine"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6977,
+"match_method": "scored",
+"preferred_label": "persembahan"
+}
+]
 }
 },
 {
@@ -14365,7 +14491,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Persia"
+}
+]
 }
 },
 {
@@ -14779,7 +14913,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.9043,
+"match_method": "scored",
+"preferred_label": "perumpamaan"
+},
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 0.5533,
+"match_method": "scored",
+"preferred_label": "pengucapan"
+}
+]
 }
 },
 {
@@ -15736,15 +15885,7 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "realia:TentOfMeeting",
-"type": "realia",
-"confidence": 0.5725,
-"match_method": "scored",
-"preferred_label": "Tent of Meeting"
-}
-]
+"acai": []
 }
 },
 {
@@ -17718,7 +17859,29 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pinehas"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pinehas"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pinehas"
+}
+]
 }
 },
 {
@@ -17987,7 +18150,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Oak",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Oak"
+},
+{
+"id": "place:Allon",
+"type": "place",
+"confidence": 0.6211,
+"match_method": "scored",
+"preferred_label": "Alon"
+}
+]
 }
 },
 {
@@ -18184,7 +18362,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Pontus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pontus"
+},
+{
+"id": "group:Pontus",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pontus"
+}
+]
 }
 },
 {
@@ -18272,7 +18465,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Potiphar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Potifar"
+}
+]
 }
 },
 {

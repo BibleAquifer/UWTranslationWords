@@ -7083,7 +7083,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -7167,7 +7175,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -7803,7 +7819,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -7912,7 +7936,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.6651,
+"confidence": 0.6682,
 "match_method": "scored",
 "preferred_label": "khusus"
 }
@@ -8844,7 +8868,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7507,
+"confidence": 0.7545,
 "match_method": "scored",
 "preferred_label": "Yehuda"
 }

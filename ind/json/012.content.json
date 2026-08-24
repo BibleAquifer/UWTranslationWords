@@ -626,7 +626,7 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.8522,
+"confidence": 0.8516,
 "match_method": "scored",
 "preferred_label": "injil"
 }
@@ -1067,7 +1067,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sackcloth"
+}
+]
 }
 },
 {
@@ -1744,7 +1752,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+},
+{
+"id": "realia:Lampstand",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lampstand"
+}
+]
 }
 },
 {
@@ -2071,7 +2094,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goat"
+}
+]
 }
 },
 {
@@ -2983,7 +3014,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6141,
+"confidence": 0.6076,
 "match_method": "scored",
 "preferred_label": "Karmel"
 }
@@ -4832,7 +4863,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.7432,
+"confidence": 0.7438,
 "match_method": "scored",
 "preferred_label": "kasihi"
 }
@@ -5062,7 +5093,15 @@
 }
 ],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Sandal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sandal"
+}
+]
 }
 },
 {
@@ -6595,7 +6634,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6343,
+"confidence": 0.6317,
 "match_method": "scored",
 "preferred_label": "keagungan"
 }
@@ -7534,7 +7573,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lyre"
+}
+]
 }
 },
 {
@@ -7589,7 +7636,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Lute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lute"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 0.704,
+"match_method": "scored",
+"preferred_label": "Lyre"
+}
+]
 }
 },
 {
@@ -10258,7 +10320,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Tent",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent"
+}
+]
 }
 },
 {
@@ -10446,7 +10516,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
@@ -11075,7 +11153,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
@@ -12752,7 +12838,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Majesty",
+"type": "keyterm",
+"confidence": 0.6754,
+"match_method": "scored",
+"preferred_label": "keagungan"
+}
+]
 }
 },
 {
@@ -12997,7 +13091,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Tartan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "panglima"
+}
+]
 }
 },
 {
@@ -14362,7 +14464,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Kingdom",
+"type": "keyterm",
+"confidence": 0.6191,
+"match_method": "scored",
+"preferred_label": "kerajaan"
+}
+]
 }
 },
 {
@@ -15671,7 +15781,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chariot"
+}
+]
 }
 },
 {
@@ -16386,7 +16504,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:WingedCreature",
+"type": "realia",
+"confidence": 0.865,
+"match_method": "scored",
+"preferred_label": "Winged Creature"
+}
+]
 }
 },
 {
@@ -18233,7 +18359,7 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 0.5693,
+"confidence": 0.5681,
 "match_method": "scored",
 "preferred_label": "berkenan"
 }
@@ -20690,7 +20816,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.7285,
+"match_method": "scored",
+"preferred_label": "persembahan"
+}
+]
 }
 },
 {
@@ -20778,7 +20912,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6618,
+"match_method": "scored",
+"preferred_label": "persembahan"
+}
+]
 }
 },
 {
@@ -21060,7 +21202,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.7203,
+"match_method": "scored",
+"preferred_label": "persembahan"
+}
+]
 }
 },
 {
@@ -21789,7 +21939,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 0.579,
+"match_method": "scored",
+"preferred_label": "khusus"
+}
+]
 }
 },
 {
@@ -21862,7 +22027,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:DungGate",
+"type": "place",
+"confidence": 0.5983,
+"match_method": "scored",
+"preferred_label": "gerbang"
+}
+]
 }
 },
 {
@@ -25669,7 +25842,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grave"
+}
+]
 }
 },
 {
@@ -25942,7 +26123,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Horse",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Horse"
+}
+]
 }
 },
 {
@@ -27362,7 +27551,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:InfectiousSkinDisease",
+"type": "keyterm",
+"confidence": 0.6758,
+"match_method": "scored",
+"preferred_label": "penyakit kulit menular"
+}
+]
 }
 }
 ]

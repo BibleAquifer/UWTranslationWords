@@ -3018,7 +3018,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.602,
+"confidence": 0.6054,
 "match_method": "scored",
 "preferred_label": "Perimiter Curtain"
 }
@@ -19050,7 +19050,7 @@
 {
 "id": "keyterm:PutToTheTest",
 "type": "keyterm",
-"confidence": 0.7459,
+"confidence": 0.764,
 "match_method": "scored",
 "preferred_label": "Put to the Test"
 }
@@ -19314,15 +19314,7 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "realia:TentOfMeeting",
-"type": "realia",
-"confidence": 0.5725,
-"match_method": "scored",
-"preferred_label": "Tent of Meeting"
-}
-]
+"acai": []
 }
 },
 {
@@ -22698,7 +22690,7 @@
 {
 "id": "place:MostHolyPlace",
 "type": "place",
-"confidence": 0.5529,
+"confidence": 0.558,
 "match_method": "scored",
 "preferred_label": "परमपवित्र स्थान"
 }
@@ -26731,7 +26723,7 @@
 {
 "id": "place:ParanMount",
 "type": "place",
-"confidence": 0.7143,
+"confidence": 0.7333,
 "match_method": "scored",
 "preferred_label": "पारान पर्वत"
 }
@@ -34109,13 +34101,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "बाल"
-},
-{
-"id": "place:Beth-peor",
-"type": "place",
-"confidence": 0.5631,
-"match_method": "scored",
-"preferred_label": "बेतपोर"
 }
 ]
 }

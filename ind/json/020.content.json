@@ -467,7 +467,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Curtain",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Curtain"
+},
+{
+"id": "realia:PerimiterCurtain",
+"type": "realia",
+"confidence": 0.6054,
+"match_method": "scored",
+"preferred_label": "Perimiter Curtain"
+}
+]
 }
 },
 {
@@ -9566,7 +9581,43 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Tamar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "place:Tamar.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tadmor"
+}
+]
 }
 },
 {
@@ -10497,7 +10548,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:RamsHorn",
+"type": "realia",
+"confidence": 0.5667,
+"match_method": "scored",
+"preferred_label": "Rams Horn"
+}
+]
 }
 },
 {
@@ -10794,7 +10853,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yerusalem"
+}
+]
 }
 },
 {
@@ -10933,7 +11000,29 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Tarshish.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsis"
+},
+{
+"id": "person:Tarshish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsis"
+},
+{
+"id": "place:Tarshish",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsis"
+}
+]
 }
 },
 {
@@ -11022,7 +11111,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsus"
+},
+{
+"id": "group:Tarsus",
+"type": "group",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "Tarsus"
+}
+]
 }
 },
 {
@@ -11657,7 +11761,7 @@
 {
 "id": "place:MostHolyPlace",
 "type": "place",
-"confidence": 0.5529,
+"confidence": 0.558,
 "match_method": "scored",
 "preferred_label": "kudus"
 }
@@ -11921,7 +12025,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "High Place"
+}
+]
 }
 },
 {
@@ -12075,7 +12187,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Terah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Terah"
+},
+{
+"id": "place:Terah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Terah"
+}
+]
 }
 },
 {
@@ -14233,7 +14360,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Doorpost",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Doorpost"
+}
+]
 }
 },
 {
@@ -15169,7 +15304,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirus"
+}
+]
 }
 },
 {
@@ -15253,7 +15396,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
+},
+{
+"id": "place:Tirzah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
+}
+]
 }
 },
 {
@@ -15570,7 +15728,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tomas"
+}
+]
 }
 },
 {
@@ -15664,7 +15830,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Spear"
+}
+]
 }
 },
 {
@@ -15919,7 +16093,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Staff",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Staff"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.5585,
+"match_method": "scored",
+"preferred_label": "Rod"
+}
+]
 }
 },
 {
@@ -16025,7 +16214,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rod"
+}
+]
 }
 },
 {
@@ -20937,7 +21134,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Tubal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubal"
+},
+{
+"id": "place:Tubal",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tubal"
+}
+]
 }
 },
 {
@@ -21049,7 +21261,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -21251,7 +21471,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Blow",
+"type": "keyterm",
+"confidence": 0.8162,
+"match_method": "embedding",
+"preferred_label": "tulah"
+}
+]
 }
 },
 {

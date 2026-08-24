@@ -612,7 +612,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Snake",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Snake"
+}
+]
 }
 },
 {
@@ -836,7 +844,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
+]
 }
 },
 {
@@ -1524,7 +1540,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Decree",
+"type": "keyterm",
+"confidence": 0.7874,
+"match_method": "scored",
+"preferred_label": "ketetapan"
+}
+]
 }
 },
 {
@@ -2275,7 +2299,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Camel",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Camel"
+}
+]
 }
 },
 {

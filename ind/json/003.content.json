@@ -1931,7 +1931,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Plough",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Plough"
+}
+]
 }
 },
 {
@@ -3238,7 +3246,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5746,
+"confidence": 0.5768,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -7538,7 +7546,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Locust"
+}
+]
 }
 },
 {
@@ -8227,7 +8243,7 @@
 {
 "id": "keyterm:Mercy",
 "type": "keyterm",
-"confidence": 0.6583,
+"confidence": 0.6552,
 "match_method": "scored",
 "preferred_label": "belas kasihan"
 }
@@ -11765,7 +11781,7 @@
 {
 "id": "group:Benjamin",
 "type": "group",
-"confidence": 0.795,
+"confidence": 0.7955,
 "match_method": "scored",
 "preferred_label": "Benyamin"
 }
@@ -13110,7 +13126,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.5966,
+"confidence": 0.5983,
 "match_method": "scored",
 "preferred_label": "berdoa"
 }
@@ -20117,7 +20133,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Crafty",
+"type": "keyterm",
+"confidence": 0.7495,
+"match_method": "scored",
+"preferred_label": "cerdik"
+}
+]
 }
 },
 {
@@ -20478,7 +20502,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Grain",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grain"
+}
+]
 }
 },
 {
@@ -23644,7 +23676,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.7936,
+"confidence": 0.8016,
 "match_method": "scored",
 "preferred_label": "pesta bulan baru"
 }

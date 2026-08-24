@@ -16533,7 +16533,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Doorstep",
+"type": "realia",
+"confidence": 0.5676,
+"match_method": "scored",
+"preferred_label": "Doorstep"
+}
+]
 }
 },
 {
@@ -19377,7 +19385,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.5845,
+"match_method": "scored",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
@@ -20299,7 +20315,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vine"
+}
+]
 }
 },
 {
@@ -22661,7 +22685,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cedar"
+}
+]
 }
 },
 {
@@ -23778,7 +23810,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7329,
+"confidence": 0.7357,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
