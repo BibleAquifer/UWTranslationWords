@@ -734,7 +734,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.9925,
+"confidence": 0.9926,
 "match_method": "scored",
 "preferred_label": "sabat"
 }
@@ -2759,7 +2759,29 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Cypress",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cypress"
+},
+{
+"id": "flora:Fir",
+"type": "flora",
+"confidence": 0.937,
+"match_method": "scored",
+"preferred_label": "Fir"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.787,
+"match_method": "scored",
+"preferred_label": "Grecian Juniper"
+}
+]
 }
 },
 {
@@ -5163,7 +5185,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Census",
+"type": "keyterm",
+"confidence": 0.8641,
+"match_method": "embedding",
+"preferred_label": "pendaftaran"
+}
+]
 }
 },
 {
@@ -5414,7 +5444,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Wolf",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wolf"
+}
+]
 }
 },
 {
@@ -11573,15 +11611,15 @@
 "preferred_label": "Sheba"
 },
 {
-"id": "place:Seba",
-"type": "place",
+"id": "person:Seba",
+"type": "person",
 "confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Seba"
 },
 {
-"id": "person:Seba",
-"type": "person",
+"id": "place:Seba",
+"type": "place",
 "confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "Seba"
@@ -12406,7 +12444,7 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.608,
+"confidence": 0.6078,
 "match_method": "scored",
 "preferred_label": "More"
 }
@@ -13828,7 +13866,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
+]
 }
 },
 {
@@ -14458,7 +14504,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yerusalem"
+}
+]
 }
 },
 {

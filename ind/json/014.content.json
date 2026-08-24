@@ -398,7 +398,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leopard"
+}
+]
 }
 },
 {
@@ -13485,7 +13493,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.596,
+"confidence": 0.5992,
 "match_method": "scored",
 "preferred_label": "mengusir"
 }
@@ -19319,7 +19327,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Watch-tower",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Watch-Tower"
+},
+{
+"id": "realia:Tower",
+"type": "realia",
+"confidence": 0.7933,
+"match_method": "scored",
+"preferred_label": "Tower"
+}
+]
 }
 },
 {
@@ -21566,7 +21589,7 @@
 {
 "id": "keyterm:PutToTheTest",
 "type": "keyterm",
-"confidence": 0.7459,
+"confidence": 0.764,
 "match_method": "scored",
 "preferred_label": "mencobai"
 }
@@ -29936,7 +29959,7 @@
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
-"confidence": 0.5532,
+"confidence": 0.5513,
 "match_method": "scored",
 "preferred_label": "diurapi"
 }
@@ -32909,7 +32932,7 @@
 {
 "id": "realia:Cross",
 "type": "realia",
-"confidence": 0.7758,
+"confidence": 0.7757,
 "match_method": "scored",
 "preferred_label": "Cross"
 }
@@ -34262,7 +34285,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5862,
+"confidence": 0.5848,
 "match_method": "scored",
 "preferred_label": "keselamatan"
 }
@@ -34842,7 +34865,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dove"
+}
+]
 }
 },
 {
@@ -38892,7 +38923,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:StrongDrink",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Strong Drink"
+},
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.7105,
+"match_method": "scored",
+"preferred_label": "Wine"
+}
+]
 }
 },
 {
@@ -39248,7 +39294,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:OliveOil",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Oil"
+}
+]
 }
 },
 {
@@ -39563,28 +39617,28 @@
 {
 "id": "place:Mizpah.2",
 "type": "place",
-"confidence": 0.6552,
+"confidence": 0.6667,
 "match_method": "scored",
 "preferred_label": "Mizpah"
 },
 {
 "id": "place:MizpehValley",
 "type": "place",
-"confidence": 0.6276,
+"confidence": 0.6267,
 "match_method": "scored",
 "preferred_label": "Mizpa"
 },
 {
 "id": "place:Mizpeh.2",
 "type": "place",
-"confidence": 0.6138,
+"confidence": 0.6133,
 "match_method": "scored",
 "preferred_label": "Mizpeh"
 },
 {
 "id": "place:Mizpeh.3",
 "type": "place",
-"confidence": 0.6138,
+"confidence": 0.6133,
 "match_method": "scored",
 "preferred_label": "Mizpeh"
 }
@@ -40746,7 +40800,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
+},
+{
+"id": "realia:Myrrh",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Myrrh"
+}
+]
 }
 },
 {

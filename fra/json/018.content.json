@@ -2247,7 +2247,7 @@
 {
 "id": "realia:House",
 "type": "realia",
-"confidence": 0.7124,
+"confidence": 0.7064,
 "match_method": "scored",
 "preferred_label": "House"
 }
@@ -2568,14 +2568,14 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.912,
+"confidence": 0.9043,
 "match_method": "scored",
 "preferred_label": "parabole"
 },
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.5537,
+"confidence": 0.5533,
 "match_method": "scored",
 "preferred_label": "proverbe"
 }
@@ -2685,7 +2685,7 @@
 {
 "id": "place:ParanMount",
 "type": "place",
-"confidence": 0.7143,
+"confidence": 0.7333,
 "match_method": "scored",
 "preferred_label": "montagne de Paran"
 }
@@ -18260,7 +18260,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.596,
+"confidence": 0.5992,
 "match_method": "scored",
 "preferred_label": "déposséder"
 }
@@ -21769,7 +21769,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.5966,
+"confidence": 0.5983,
 "match_method": "scored",
 "preferred_label": "prier"
 }
@@ -25627,7 +25627,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "se prostituer"
+}
+]
 }
 },
 {
@@ -25735,7 +25743,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8926,
+"confidence": 0.8949,
 "match_method": "scored",
 "preferred_label": "proverbe"
 }

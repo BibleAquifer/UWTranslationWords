@@ -1563,7 +1563,7 @@
 {
 "id": "place:MostHolyPlace",
 "type": "place",
-"confidence": 0.5529,
+"confidence": 0.558,
 "match_method": "scored",
 "preferred_label": "patakatifu"
 }
@@ -3634,7 +3634,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PlayTheProstitute",
+"type": "keyterm",
+"confidence": 0.6044,
+"match_method": "scored",
+"preferred_label": "Play the Prostitute"
+}
+]
 }
 },
 {
@@ -11893,7 +11901,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.8926,
+"confidence": 0.8949,
 "match_method": "scored",
 "preferred_label": "Proverb"
 }
@@ -14177,14 +14185,14 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.912,
+"confidence": 0.9043,
 "match_method": "scored",
 "preferred_label": "Parable"
 },
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.5537,
+"confidence": 0.5533,
 "match_method": "scored",
 "preferred_label": "Proverb"
 }
@@ -17855,28 +17863,28 @@
 {
 "id": "place:Mizpah.2",
 "type": "place",
-"confidence": 0.6552,
+"confidence": 0.6667,
 "match_method": "scored",
 "preferred_label": "Mizpah"
 },
 {
 "id": "place:MizpehValley",
 "type": "place",
-"confidence": 0.6276,
+"confidence": 0.6267,
 "match_method": "scored",
 "preferred_label": "Mispa"
 },
 {
 "id": "place:Mizpeh.2",
 "type": "place",
-"confidence": 0.6138,
+"confidence": 0.6133,
 "match_method": "scored",
 "preferred_label": "Mizpeh"
 },
 {
 "id": "place:Mizpeh.3",
 "type": "place",
-"confidence": 0.6138,
+"confidence": 0.6133,
 "match_method": "scored",
 "preferred_label": "Mizpeh"
 }
@@ -23347,7 +23355,7 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.8032,
+"confidence": 0.7933,
 "match_method": "scored",
 "preferred_label": "Tower"
 }
@@ -30420,7 +30428,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.6651,
+"confidence": 0.6682,
 "match_method": "scored",
 "preferred_label": "Holy"
 }
@@ -54124,7 +54132,7 @@
 {
 "id": "place:Allon",
 "type": "place",
-"confidence": 0.6222,
+"confidence": 0.6211,
 "match_method": "scored",
 "preferred_label": "Aloni"
 }
@@ -63711,7 +63719,7 @@
 {
 "id": "keyterm:NewMoonFestival",
 "type": "keyterm",
-"confidence": 0.7936,
+"confidence": 0.8016,
 "match_method": "scored",
 "preferred_label": "New Moon Festival"
 }

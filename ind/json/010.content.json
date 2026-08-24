@@ -7732,7 +7732,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.568,
+"confidence": 0.5667,
 "match_method": "scored",
 "preferred_label": "Tuhan"
 }
@@ -7876,7 +7876,22 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:Palace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Palace"
+},
+{
+"id": "realia:House",
+"type": "realia",
+"confidence": 0.7064,
+"match_method": "scored",
+"preferred_label": "House"
+}
+]
 }
 },
 {

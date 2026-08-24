@@ -2049,7 +2049,7 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 0.5693,
+"confidence": 0.5681,
 "match_method": "scored",
 "preferred_label": "délice"
 }
@@ -4611,7 +4611,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:PracticeDivination",
+"type": "keyterm",
+"confidence": 0.5868,
+"match_method": "scored",
+"preferred_label": "pratiquer le divination"
+}
+]
 }
 },
 {
@@ -16781,15 +16789,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Discern",
-"type": "keyterm",
-"confidence": 0.5537,
-"match_method": "scored",
-"preferred_label": "évaluer"
-}
-]
+"acai": []
 }
 },
 {

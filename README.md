@@ -22,6 +22,6 @@ For more information about the Aquifer platform, data, and metadata formats, vis
 
 ## Sources
 
-This edition of _unfoldingWord Translation Words_ is built on release `v89` of unfoldingWord Translation Words and release `v89` of unfoldingWord Translation Word Lists, both part of the unfoldingWord family of translation resources.
+This edition of _unfoldingWord Translation Words_ is built on release `v90` of unfoldingWord Translation Words and release `v90` of unfoldingWord Translation Word Lists, both part of the unfoldingWord family of translation resources.
 
 It is available for download at https://git.door43.org/unfoldingWord/en_tw and https://git.door43.org/unfoldingWord/en_twl
