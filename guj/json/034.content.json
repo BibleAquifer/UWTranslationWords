@@ -219,21 +219,21 @@
 {
 "id": "place:HermonMount",
 "type": "place",
-"confidence": 0.6632,
+"confidence": 0.66,
 "match_method": "scored",
 "preferred_label": "Mount Hermon"
 },
 {
 "id": "place:HouseOfTheForestOfLebanon",
 "type": "place",
-"confidence": 0.6316,
+"confidence": 0.63,
 "match_method": "scored",
 "preferred_label": "House of the Forest of Lebanon"
 },
 {
 "id": "place:LebanonMount",
 "type": "place",
-"confidence": 0.6105,
+"confidence": 0.61,
 "match_method": "scored",
 "preferred_label": "Mount Lebanon"
 }
@@ -802,7 +802,7 @@
 {
 "id": "realia:Rod",
 "type": "realia",
-"confidence": 0.5585,
+"confidence": 0.563,
 "match_method": "scored",
 "preferred_label": "Rod"
 }
@@ -5928,9 +5928,16 @@
 {
 "id": "realia:Lyre",
 "type": "realia",
-"confidence": 0.704,
+"confidence": 0.729,
 "match_method": "scored",
 "preferred_label": "Lyre"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 0.5715,
+"match_method": "scored",
+"preferred_label": "Flute"
 }
 ]
 }

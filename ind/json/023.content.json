@@ -7936,7 +7936,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.6682,
+"confidence": 0.6444,
 "match_method": "scored",
 "preferred_label": "khusus"
 }
@@ -8080,7 +8080,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.5852,
+"confidence": 0.5817,
 "match_method": "scored",
 "preferred_label": "Yerusalem"
 }
@@ -8868,7 +8868,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7545,
+"confidence": 0.7569,
 "match_method": "scored",
 "preferred_label": "Yehuda"
 }
@@ -20125,6 +20125,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yehuda"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5594,
+"match_method": "scored",
+"preferred_label": "Yerusalem"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5511,
+"match_method": "scored",
+"preferred_label": "Yehuda"
 }
 ]
 }
@@ -20234,13 +20248,6 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Yunani"
-},
-{
-"id": "person:Javan",
-"type": "person",
-"confidence": 0.6822,
-"match_method": "scored",
 "preferred_label": "Yunani"
 }
 ]

@@ -9479,7 +9479,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9394,
+"confidence": 0.9398,
 "match_method": "scored",
 "preferred_label": "alliance"
 }
@@ -11028,7 +11028,7 @@
 {
 "id": "group:Ammon",
 "type": "group",
-"confidence": 0.8522,
+"confidence": 0.8529,
 "match_method": "scored",
 "preferred_label": "Amos"
 }
@@ -13068,7 +13068,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.7438,
+"confidence": 0.7441,
 "match_method": "scored",
 "preferred_label": "aimer"
 }
@@ -14788,7 +14788,7 @@
 {
 "id": "deity:Angel",
 "type": "deity",
-"confidence": 0.7078,
+"confidence": 0.7049,
 "match_method": "scored",
 "preferred_label": "An Angel"
 }
@@ -16105,9 +16105,16 @@
 {
 "id": "place:Beth-arabah",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6615,
 "match_method": "scored",
 "preferred_label": "Beth-Araba"
+},
+{
+"id": "place:BrookOfTheArabah",
+"type": "place",
+"confidence": 0.6154,
+"match_method": "scored",
+"preferred_label": "torrent du désert"
 }
 ]
 }
@@ -20063,7 +20070,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7357,
+"confidence": 0.7361,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -20197,7 +20204,7 @@
 {
 "id": "keyterm:Crafty",
 "type": "keyterm",
-"confidence": 0.6737,
+"confidence": 0.6515,
 "match_method": "scored",
 "preferred_label": "judicieux"
 }
@@ -22252,9 +22259,16 @@
 "preferred_label": "Achazia"
 },
 {
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 0.6769,
+"match_method": "scored",
+"preferred_label": "Hanania"
+},
+{
 "id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.556,
+"confidence": 0.5524,
 "match_method": "scored",
 "preferred_label": "Amaria"
 }

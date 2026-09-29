@@ -1256,7 +1256,7 @@
 {
 "id": "realia:Doorstep",
 "type": "realia",
-"confidence": 0.5676,
+"confidence": 0.5772,
 "match_method": "scored",
 "preferred_label": "Doorstep"
 }
@@ -1358,7 +1358,7 @@
 {
 "id": "keyterm:PracticeDivination",
 "type": "keyterm",
-"confidence": 0.5868,
+"confidence": 0.5568,
 "match_method": "scored",
 "preferred_label": "Practice Divination"
 }
@@ -2576,7 +2576,7 @@
 {
 "id": "keyterm:PlayTheProstitute",
 "type": "keyterm",
-"confidence": 0.6044,
+"confidence": 0.6083,
 "match_method": "scored",
 "preferred_label": "Play the Prostitute"
 }
@@ -8186,9 +8186,16 @@
 "preferred_label": "أَخَزْيَا"
 },
 {
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 0.6769,
+"match_method": "scored",
+"preferred_label": "حَنَنِيَّا"
+},
+{
 "id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.556,
+"confidence": 0.5524,
 "match_method": "scored",
 "preferred_label": "أَمَرْيَا"
 }
@@ -9055,7 +9062,7 @@
 {
 "id": "realia:Rod",
 "type": "realia",
-"confidence": 0.5585,
+"confidence": 0.563,
 "match_method": "scored",
 "preferred_label": "Rod"
 }
@@ -9521,7 +9528,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6317,
+"confidence": 0.6227,
 "match_method": "scored",
 "preferred_label": "Majesty"
 }
@@ -11998,7 +12005,7 @@
 {
 "id": "group:Ammon",
 "type": "group",
-"confidence": 0.8522,
+"confidence": 0.8529,
 "match_method": "scored",
 "preferred_label": "Ammonites"
 }
@@ -12513,9 +12520,16 @@
 {
 "id": "realia:Lyre",
 "type": "realia",
-"confidence": 0.704,
+"confidence": 0.729,
 "match_method": "scored",
 "preferred_label": "Lyre"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 0.5715,
+"match_method": "scored",
+"preferred_label": "Flute"
 }
 ]
 }

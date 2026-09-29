@@ -6027,7 +6027,7 @@
 {
 "id": "keyterm:PracticeDivination",
 "type": "keyterm",
-"confidence": 0.5868,
+"confidence": 0.5568,
 "match_method": "scored",
 "preferred_label": "practicar adivinación"
 }
@@ -14060,7 +14060,7 @@
 {
 "id": "group:Ammon",
 "type": "group",
-"confidence": 0.8522,
+"confidence": 0.8529,
 "match_method": "scored",
 "preferred_label": "Amós"
 }
@@ -16051,7 +16051,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.7438,
+"confidence": 0.7441,
 "match_method": "scored",
 "preferred_label": "amar"
 }
@@ -18561,7 +18561,7 @@
 {
 "id": "deity:Angel",
 "type": "deity",
-"confidence": 0.7078,
+"confidence": 0.7049,
 "match_method": "scored",
 "preferred_label": "An Angel"
 }
@@ -21721,9 +21721,16 @@
 {
 "id": "place:Beth-arabah",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6615,
 "match_method": "scored",
 "preferred_label": "Sechâchâ"
+},
+{
+"id": "place:BrookOfTheArabah",
+"type": "place",
+"confidence": 0.6154,
+"match_method": "scored",
+"preferred_label": "arroyo"
 }
 ]
 }
@@ -23844,7 +23851,7 @@
 {
 "id": "keyterm:Repent",
 "type": "keyterm",
-"confidence": 0.6675,
+"confidence": 0.664,
 "match_method": "scored",
 "preferred_label": "convertirse"
 }
@@ -26237,7 +26244,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7357,
+"confidence": 0.7361,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -27625,9 +27632,16 @@
 "preferred_label": "Ochôzías"
 },
 {
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 0.6769,
+"match_method": "scored",
+"preferred_label": "Hananías"
+},
+{
 "id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.556,
+"confidence": 0.5524,
 "match_method": "scored",
 "preferred_label": "Amarías"
 }

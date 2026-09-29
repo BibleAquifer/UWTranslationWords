@@ -1441,7 +1441,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.6682,
+"confidence": 0.6444,
 "match_method": "scored",
 "preferred_label": "Holy"
 }
@@ -1973,7 +1973,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9394,
+"confidence": 0.9398,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -2913,7 +2913,7 @@
 {
 "id": "keyterm:Decree",
 "type": "keyterm",
-"confidence": 0.7874,
+"confidence": 0.7878,
 "match_method": "scored",
 "preferred_label": "Decree"
 }
@@ -8096,9 +8096,16 @@
 {
 "id": "realia:Lyre",
 "type": "realia",
-"confidence": 0.704,
+"confidence": 0.729,
 "match_method": "scored",
 "preferred_label": "Lyre"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 0.5715,
+"match_method": "scored",
+"preferred_label": "Flute"
 }
 ]
 }
@@ -8821,7 +8828,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6754,
+"confidence": 0.6733,
 "match_method": "scored",
 "preferred_label": "Majesty"
 }
@@ -8993,7 +9000,7 @@
 {
 "id": "keyterm:PlayTheProstitute",
 "type": "keyterm",
-"confidence": 0.6044,
+"confidence": 0.6083,
 "match_method": "scored",
 "preferred_label": "Play the Prostitute"
 }

@@ -2315,7 +2315,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.5852,
+"confidence": 0.5817,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 }
@@ -21201,7 +21201,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7545,
+"confidence": 0.7569,
 "match_method": "scored",
 "preferred_label": "Judá"
 }
@@ -22239,6 +22239,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Judíos"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5594,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5511,
+"match_method": "scored",
+"preferred_label": "Judá"
 }
 ]
 }

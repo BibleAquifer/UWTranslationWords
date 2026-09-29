@@ -2048,9 +2048,16 @@
 {
 "id": "keyterm:Zealous",
 "type": "keyterm",
-"confidence": 0.5546,
+"confidence": 0.5716,
 "match_method": "scored",
 "preferred_label": "être zélé"
+},
+{
+"id": "keyterm:Ardour",
+"type": "keyterm",
+"confidence": 0.5626,
+"match_method": "scored",
+"preferred_label": "ardeur"
 }
 ]
 }
@@ -3399,7 +3406,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.5852,
+"confidence": 0.5817,
 "match_method": "scored",
 "preferred_label": "Jérusalem"
 }
@@ -16910,7 +16917,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7545,
+"confidence": 0.7569,
 "match_method": "scored",
 "preferred_label": "Juda"
 }
@@ -17892,6 +17899,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Judée"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5594,
+"match_method": "scored",
+"preferred_label": "Jérusalem"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5511,
+"match_method": "scored",
+"preferred_label": "Juda"
 }
 ]
 }
@@ -18099,7 +18120,7 @@
 {
 "id": "person:Dinaite",
 "type": "person",
-"confidence": 0.5658,
+"confidence": 0.5657,
 "match_method": "scored",
 "preferred_label": "Dinaite"
 }

@@ -2373,6 +2373,13 @@
 "confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Chaldea"
+},
+{
+"id": "group:Astrologer",
+"type": "group",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "Astrologers"
 }
 ]
 }
@@ -2455,7 +2462,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6076,
+"confidence": 0.5965,
 "match_method": "scored",
 "preferred_label": "Mount Carmel"
 }
@@ -3078,7 +3085,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6396,
+"confidence": 0.6383,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }

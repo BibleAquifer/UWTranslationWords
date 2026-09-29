@@ -1176,7 +1176,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6396,
+"confidence": 0.6383,
 "match_method": "scored",
 "preferred_label": "Canaan"
 }
@@ -1610,7 +1610,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6076,
+"confidence": 0.5965,
 "match_method": "scored",
 "preferred_label": "Mount Carmel"
 }
@@ -2772,6 +2772,13 @@
 "confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Chaldée"
+},
+{
+"id": "group:Astrologer",
+"type": "group",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "Chaldéens"
 }
 ]
 }
@@ -4523,7 +4530,7 @@
 {
 "id": "place:Allon",
 "type": "place",
-"confidence": 0.6211,
+"confidence": 0.619,
 "match_method": "scored",
 "preferred_label": "Allon"
 }
@@ -23283,7 +23290,7 @@
 {
 "id": "realia:RamsHorn",
 "type": "realia",
-"confidence": 0.5667,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "Rams Horn"
 }

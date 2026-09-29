@@ -143,7 +143,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.5852,
+"confidence": 0.5817,
 "match_method": "scored",
 "preferred_label": "यरूशलेम"
 }
@@ -2704,7 +2704,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7545,
+"confidence": 0.7569,
 "match_method": "scored",
 "preferred_label": "यहूदा"
 }
@@ -3602,6 +3602,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यहूदिया"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5594,
+"match_method": "scored",
+"preferred_label": "यरूशलेम"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5511,
+"match_method": "scored",
+"preferred_label": "यहूदा"
 }
 ]
 }
@@ -19699,13 +19713,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यूनान"
-},
-{
-"id": "person:Javan",
-"type": "person",
-"confidence": 0.6822,
-"match_method": "scored",
-"preferred_label": "यावान"
 }
 ]
 }

@@ -2707,7 +2707,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6396,
+"confidence": 0.6383,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }
@@ -3014,7 +3014,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6076,
+"confidence": 0.5965,
 "match_method": "scored",
 "preferred_label": "Karmel"
 }
@@ -3156,6 +3156,13 @@
 "confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Kasdim"
+},
+{
+"id": "group:Astrologer",
+"type": "group",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "Astrologers"
 }
 ]
 }
@@ -4863,7 +4870,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.7438,
+"confidence": 0.7441,
 "match_method": "scored",
 "preferred_label": "kasihi"
 }
@@ -6634,7 +6641,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6317,
+"confidence": 0.6227,
 "match_method": "scored",
 "preferred_label": "keagungan"
 }
@@ -7647,9 +7654,16 @@
 {
 "id": "realia:Lyre",
 "type": "realia",
-"confidence": 0.704,
+"confidence": 0.729,
 "match_method": "scored",
 "preferred_label": "Lyre"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 0.5715,
+"match_method": "scored",
+"preferred_label": "Flute"
 }
 ]
 }
@@ -12842,7 +12856,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6754,
+"confidence": 0.6733,
 "match_method": "scored",
 "preferred_label": "keagungan"
 }
@@ -14468,7 +14482,7 @@
 {
 "id": "keyterm:Kingdom",
 "type": "keyterm",
-"confidence": 0.6191,
+"confidence": 0.5938,
 "match_method": "scored",
 "preferred_label": "kerajaan"
 }
@@ -18359,7 +18373,7 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 0.5681,
+"confidence": 0.5666,
 "match_method": "scored",
 "preferred_label": "berkenan"
 }
@@ -20685,7 +20699,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.7307,
+"confidence": 0.7308,
 "match_method": "scored",
 "preferred_label": "persembahan"
 }
@@ -21206,7 +21220,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.7203,
+"confidence": 0.7207,
 "match_method": "scored",
 "preferred_label": "persembahan"
 }

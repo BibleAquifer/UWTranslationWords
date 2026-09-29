@@ -3827,7 +3827,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9394,
+"confidence": 0.9398,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -10124,7 +10124,7 @@
 {
 "id": "group:Ammon",
 "type": "group",
-"confidence": 0.8522,
+"confidence": 0.8529,
 "match_method": "scored",
 "preferred_label": "Ammonites"
 }
@@ -11263,9 +11263,16 @@
 {
 "id": "place:Beth-arabah",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6615,
 "match_method": "scored",
 "preferred_label": "Beth-araba"
+},
+{
+"id": "place:BrookOfTheArabah",
+"type": "place",
+"confidence": 0.6154,
+"match_method": "scored",
+"preferred_label": "kijito"
 }
 ]
 }
@@ -13424,7 +13431,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7357,
+"confidence": 0.7361,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -14668,9 +14675,16 @@
 "preferred_label": "Ahazia"
 },
 {
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 0.6769,
+"match_method": "scored",
+"preferred_label": "Hanania"
+},
+{
 "id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.556,
+"confidence": 0.5524,
 "match_method": "scored",
 "preferred_label": "Amaria"
 }
