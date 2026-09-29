@@ -7330,7 +7330,7 @@
 {
 "id": "keyterm:PracticeDivination",
 "type": "keyterm",
-"confidence": 0.5868,
+"confidence": 0.5568,
 "match_method": "scored",
 "preferred_label": "practice divination"
 }
@@ -9984,9 +9984,16 @@
 {
 "id": "realia:Lyre",
 "type": "realia",
-"confidence": 0.704,
+"confidence": 0.729,
 "match_method": "scored",
 "preferred_label": "Lyre"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 0.5715,
+"match_method": "scored",
+"preferred_label": "Flute"
 }
 ]
 }
@@ -11625,7 +11632,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9394,
+"confidence": 0.9398,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -14552,7 +14559,7 @@
 {
 "id": "group:Ammon",
 "type": "group",
-"confidence": 0.8522,
+"confidence": 0.8529,
 "match_method": "scored",
 "preferred_label": "Ammonites"
 }
@@ -16262,7 +16269,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.7438,
+"confidence": 0.7441,
 "match_method": "scored",
 "preferred_label": "love"
 }
@@ -18739,7 +18746,7 @@
 {
 "id": "deity:Angel",
 "type": "deity",
-"confidence": 0.7078,
+"confidence": 0.7049,
 "match_method": "scored",
 "preferred_label": "An Angel"
 }
@@ -21315,9 +21322,16 @@
 {
 "id": "place:Beth-arabah",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6615,
 "match_method": "scored",
 "preferred_label": "Bete-Arabá"
+},
+{
+"id": "place:BrookOfTheArabah",
+"type": "place",
+"confidence": 0.6154,
+"match_method": "scored",
+"preferred_label": "Ribeiro de Arabá"
 }
 ]
 }
@@ -24220,7 +24234,7 @@
 {
 "id": "keyterm:Repent",
 "type": "keyterm",
-"confidence": 0.6675,
+"confidence": 0.664,
 "match_method": "scored",
 "preferred_label": "arrepender, se"
 }
@@ -26572,7 +26586,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7357,
+"confidence": 0.7361,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }
@@ -26710,7 +26724,7 @@
 {
 "id": "keyterm:Crafty",
 "type": "keyterm",
-"confidence": 0.6737,
+"confidence": 0.6515,
 "match_method": "scored",
 "preferred_label": "Crafty"
 }
@@ -28027,9 +28041,16 @@
 "preferred_label": "Acazias"
 },
 {
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 0.6769,
+"match_method": "scored",
+"preferred_label": "Hananias"
+},
+{
 "id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.556,
+"confidence": 0.5524,
 "match_method": "scored",
 "preferred_label": "Amarias"
 }

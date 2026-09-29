@@ -7350,7 +7350,7 @@
 {
 "id": "place:MostHolyPlace",
 "type": "place",
-"confidence": 0.558,
+"confidence": 0.5562,
 "match_method": "scored",
 "preferred_label": "Most Holy Place"
 }
@@ -9902,7 +9902,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.6682,
+"confidence": 0.6444,
 "match_method": "scored",
 "preferred_label": "saint"
 }
@@ -16185,21 +16185,21 @@
 {
 "id": "place:HermonMount",
 "type": "place",
-"confidence": 0.6632,
+"confidence": 0.66,
 "match_method": "scored",
 "preferred_label": "Mount Hermon"
 },
 {
 "id": "place:HouseOfTheForestOfLebanon",
 "type": "place",
-"confidence": 0.6316,
+"confidence": 0.63,
 "match_method": "scored",
 "preferred_label": "maison de la forêt du Liban"
 },
 {
 "id": "place:LebanonMount",
 "type": "place",
-"confidence": 0.6105,
+"confidence": 0.61,
 "match_method": "scored",
 "preferred_label": "montagne du Liban"
 }
@@ -19186,7 +19186,7 @@
 {
 "id": "keyterm:Decree",
 "type": "keyterm",
-"confidence": 0.7874,
+"confidence": 0.7878,
 "match_method": "scored",
 "preferred_label": "limite"
 }
@@ -20097,9 +20097,16 @@
 {
 "id": "realia:Lyre",
 "type": "realia",
-"confidence": 0.704,
+"confidence": 0.729,
 "match_method": "scored",
 "preferred_label": "Lyre"
+},
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 0.5715,
+"match_method": "scored",
+"preferred_label": "Flute"
 }
 ]
 }

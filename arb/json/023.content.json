@@ -143,7 +143,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.5852,
+"confidence": 0.5817,
 "match_method": "scored",
 "preferred_label": "أورشَلِيمَ"
 }
@@ -460,13 +460,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "ٱلْيونَانِ"
-},
-{
-"id": "person:Javan",
-"type": "person",
-"confidence": 0.6822,
-"match_method": "scored",
-"preferred_label": "يَاان"
 }
 ]
 }
@@ -3893,7 +3886,7 @@
 {
 "id": "keyterm:Repent",
 "type": "keyterm",
-"confidence": 0.6675,
+"confidence": 0.664,
 "match_method": "scored",
 "preferred_label": "Repent"
 }
@@ -7493,7 +7486,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5848,
+"confidence": 0.5763,
 "match_method": "scored",
 "preferred_label": "Salvation"
 }
@@ -32997,7 +32990,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5992,
+"confidence": 0.5986,
 "match_method": "scored",
 "preferred_label": "Dispossess"
 }
@@ -33293,7 +33286,7 @@
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
-"confidence": 0.5513,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "Anointed"
 }
@@ -37050,6 +37043,20 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "يَهوذَا"
+},
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.5594,
+"match_method": "scored",
+"preferred_label": "أورشَلِيمَ"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.5511,
+"match_method": "scored",
+"preferred_label": "يَهوذَا"
 }
 ]
 }
@@ -37496,7 +37503,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7545,
+"confidence": 0.7569,
 "match_method": "scored",
 "preferred_label": "يَهوذَا"
 }

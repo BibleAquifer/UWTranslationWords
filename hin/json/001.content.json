@@ -3567,9 +3567,16 @@
 "preferred_label": "अहज्याह"
 },
 {
+"id": "person:Hananiah.15",
+"type": "person",
+"confidence": 0.6769,
+"match_method": "scored",
+"preferred_label": "हनन्याह"
+},
+{
 "id": "person:Amariah.2",
 "type": "person",
-"confidence": 0.556,
+"confidence": 0.5524,
 "match_method": "scored",
 "preferred_label": "अमर्याह"
 }
@@ -4739,7 +4746,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5992,
+"confidence": 0.5986,
 "match_method": "scored",
 "preferred_label": "Dispossess"
 }
@@ -7643,7 +7650,7 @@
 {
 "id": "keyterm:Favor",
 "type": "keyterm",
-"confidence": 0.682,
+"confidence": 0.6786,
 "match_method": "scored",
 "preferred_label": "Favor"
 }
@@ -8858,7 +8865,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.7203,
+"confidence": 0.7207,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -12387,7 +12394,7 @@
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
-"confidence": 0.5513,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "Anointed"
 }
@@ -12966,7 +12973,7 @@
 {
 "id": "group:Ammon",
 "type": "group",
-"confidence": 0.8522,
+"confidence": 0.8529,
 "match_method": "scored",
 "preferred_label": "अम्मोनी"
 }
@@ -13573,9 +13580,16 @@
 {
 "id": "place:Beth-arabah",
 "type": "place",
-"confidence": 0.6667,
+"confidence": 0.6615,
 "match_method": "scored",
 "preferred_label": "बेतराबा"
+},
+{
+"id": "place:BrookOfTheArabah",
+"type": "place",
+"confidence": 0.6154,
+"match_method": "scored",
+"preferred_label": "Brook of the Arabah"
 }
 ]
 }
@@ -15479,7 +15493,7 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"confidence": 0.7357,
+"confidence": 0.7361,
 "match_method": "scored",
 "preferred_label": "Assyria"
 }

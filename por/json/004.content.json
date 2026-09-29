@@ -741,7 +741,7 @@
 {
 "id": "realia:Rod",
 "type": "realia",
-"confidence": 0.5585,
+"confidence": 0.563,
 "match_method": "scored",
 "preferred_label": "Rod"
 }
@@ -883,6 +883,13 @@
 "confidence": 0.8605,
 "match_method": "scored",
 "preferred_label": "Caldéia"
+},
+{
+"id": "group:Astrologer",
+"type": "group",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "Astrologers"
 }
 ]
 }
@@ -2111,7 +2118,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6396,
+"confidence": 0.6383,
 "match_method": "scored",
 "preferred_label": "cananeu"
 }
@@ -2450,7 +2457,7 @@
 {
 "id": "place:CarmelMount",
 "type": "place",
-"confidence": 0.6076,
+"confidence": 0.5965,
 "match_method": "scored",
 "preferred_label": "Monte Carmelo"
 }
@@ -2752,7 +2759,7 @@
 {
 "id": "place:Allon",
 "type": "place",
-"confidence": 0.6211,
+"confidence": 0.619,
 "match_method": "scored",
 "preferred_label": "Alom"
 }
@@ -8216,7 +8223,7 @@
 {
 "id": "realia:RamsHorn",
 "type": "realia",
-"confidence": 0.5667,
+"confidence": 0.55,
 "match_method": "scored",
 "preferred_label": "Rams Horn"
 }
