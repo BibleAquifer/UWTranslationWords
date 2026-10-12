@@ -133,7 +133,7 @@
 "index_reference": "zacharie at",
 "language": "fra",
 "review_level": "None",
-"content": "<h1>Zacharie (AT)</h1><h2>Données :</h2><p>Zacharie était un prophète qui a prophétisé pendant le règne du roi Darius I de Perse. Le livre de Zacharie, dans l&apos;Ancien Testament, contient ses prophéties qui ont exhorté les exilés de retour à reconstruire le temple.</p><ul><li><p>Le prophète Zacharie a vécu pendant la même période que Esdras, Néhémie, Zorobabel et Aggée. Il a aussi été mentionné par Jésus comme le dernier des prophètes qui ont été assassinés à l&apos;époque de l&apos;Ancien Testament.</p></li><li><p>Un autre homme nommé Zacharie était un portier à l’entrée de la tente d’assignation au temps de David.</p></li><li><p>Un des fils du roi Josaphat qui s&apos;appelait Zacharie a été assassiné par son frère Joram.</p></li><li><p>Zacharie était le nom d&apos;un prêtre qui a été lapidé par le peuple d&apos;Israël lorsqu&apos;il l&apos;a réprimandé pour son idolâtrie.</p></li><li><p>Le roi Zacharie était le fils de Jéroboam et il n&apos;a régné sur Israël que six mois avant d&apos;être assassiné.</p></li></ul><p>(Suggestions pour la traduction : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : <data class=\"resource-ref\" data-content-id=\"25643\" data-resource-code=\"UWTranslationWords\">Darius</data>, <data class=\"resource-ref\" data-content-id=\"25724\" data-resource-code=\"UWTranslationWords\">Ezra</data>, <data class=\"resource-ref\" data-content-id=\"25892\" data-resource-code=\"UWTranslationWords\">Jehoshaphat</data>, <data class=\"resource-ref\" data-content-id=\"25897\" data-resource-code=\"UWTranslationWords\">Jeroboam</data>, <data class=\"resource-ref\" data-content-id=\"26049\" data-resource-code=\"UWTranslationWords\">Nehemiah</data>, <data class=\"resource-ref\" data-content-id=\"26373\" data-resource-code=\"UWTranslationWords\">Zerubbabel</data>)</p>",
+"content": "<h1>Zacharie (AT)</h1><h2>Données :</h2><p>Zacharie était un prophète qui a prophétisé pendant le règne du roi Darius I de Perse. Le livre de Zacharie, dans l&apos;Ancien Testament, contient ses prophéties qui ont exhorté les exilés de retour à reconstruire le temple.</p><ul><li><p>Le prophète Zacharie a vécu pendant la même période que Esdras, Néhémie, Zorobabel et Aggée. Il a aussi été mentionné par Jésus comme le dernier des prophètes qui ont été assassinés à l&apos;époque de l&apos;Ancien Testament.</p></li><li><p>Un autre homme nommé Zacharie était un portier à l’entrée de la tente d’assignation au temps de David.</p></li><li><p>Un des fils du roi Josaphat qui s&apos;appelait Zacharie a été assassiné par son frère Joram.</p></li><li><p>Zacharie était le nom d&apos;un prêtre qui a été lapidé par le peuple d&apos;Israël lorsqu&apos;il l&apos;a réprimandé pour son idolâtrie.</p></li><li><p>Le roi Zacharie était le fils de Jéroboam et il n&apos;a régné sur Israël que six mois avant d&apos;être assassiné.</p></li></ul><p>(Suggestions pour la traduction : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : <data class=\"resource-ref\" data-content-id=\"466806\" data-resource-code=\"UWTranslationWords\" data-language=\"fra\">Darius</data>, <data class=\"resource-ref\" data-content-id=\"26582\" data-resource-code=\"UWTranslationWords\" data-language=\"eng\">Ezra</data>, <data class=\"resource-ref\" data-content-id=\"467037\" data-resource-code=\"UWTranslationWords\" data-language=\"fra\">Jehoshaphat</data>, <data class=\"resource-ref\" data-content-id=\"467042\" data-resource-code=\"UWTranslationWords\" data-language=\"fra\">Jeroboam</data>, <data class=\"resource-ref\" data-content-id=\"467186\" data-resource-code=\"UWTranslationWords\" data-language=\"fra\">Nehemiah</data>, <data class=\"resource-ref\" data-content-id=\"27231\" data-resource-code=\"UWTranslationWords\" data-language=\"eng\">Zerubbabel</data>)</p>",
 "associations": {
 "passage": [
 {
@@ -235,32 +235,46 @@
 ],
 "resource": [
 {
-"reference_id": 25643,
-"content_id": 466806,
+"reference_id": "25643",
+"content_id": "466806",
 "resource_code": "UWTranslationWords",
 "label": "Darius",
 "language": "fra"
 },
 {
-"reference_id": 25892,
-"content_id": 467037,
+"reference_id": "25724",
+"content_id": "26582",
 "resource_code": "UWTranslationWords",
-"label": "Josaphat",
+"label": "Ezra",
+"language": "eng"
+},
+{
+"reference_id": "25892",
+"content_id": "467037",
+"resource_code": "UWTranslationWords",
+"label": "Jehoshaphat",
 "language": "fra"
 },
 {
-"reference_id": 25897,
-"content_id": 467042,
+"reference_id": "25897",
+"content_id": "467042",
 "resource_code": "UWTranslationWords",
-"label": "Jéroboam",
+"label": "Jeroboam",
 "language": "fra"
 },
 {
-"reference_id": 26049,
-"content_id": 467186,
+"reference_id": "26049",
+"content_id": "467186",
 "resource_code": "UWTranslationWords",
-"label": "Néhémie",
+"label": "Nehemiah",
 "language": "fra"
+},
+{
+"reference_id": "26373",
+"content_id": "27231",
+"resource_code": "UWTranslationWords",
+"label": "Zerubbabel",
+"language": "eng"
 }
 ],
 "acai": [
@@ -274,91 +288,98 @@
 {
 "id": "person:Zechariah.3",
 "type": "person",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.21",
-"type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.28",
-"type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.18",
-"type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.20",
-"type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.26",
-"type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.4",
-"type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.23",
-"type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.25",
-"type": "person",
-"confidence": 0.619,
+"confidence": 0.6444,
 "match_method": "scored",
 "preferred_label": "Zacharie"
 },
 {
 "id": "person:Zechariah.27",
 "type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.24",
-"type": "person",
-"confidence": 0.619,
-"match_method": "scored",
-"preferred_label": "Zacharie"
-},
-{
-"id": "person:Zechariah.22",
-"type": "person",
-"confidence": 0.619,
+"confidence": 0.6148,
 "match_method": "scored",
 "preferred_label": "Zacharie"
 },
 {
 "id": "person:Zechariah.19",
 "type": "person",
-"confidence": 0.619,
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.26",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.4",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.25",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zacharie"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 0.6148,
 "match_method": "scored",
 "preferred_label": "Zacharie"
 }
@@ -374,7 +395,7 @@
 "index_reference": "zébédée",
 "language": "fra",
 "review_level": "None",
-"content": "<h1>Zébédée</h1><h2>Données :</h2><p>Zébédée était un pêcheur de Galilée connu pour ses fils, Jacques et Jean, qui étaient des disciples de Jésus. Ils sont souvent identifiés dans le Nouveau Testament comme les « fils de Zébédée ».</p><ul><li><p>Les fils de Zébédée étaient aussi des pêcheurs et travaillaient avec lui pour faire la pêche.</p></li><li><p>Jacques et Jean ont quitté leur travail avec leur père Zébédée et sont partis pour aller suivre Jésus.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : <data class=\"resource-ref\" data-content-id=\"25669\" data-resource-code=\"UWTranslationWords\">disciple</data>, <data class=\"resource-ref\" data-content-id=\"25744\" data-resource-code=\"UWTranslationWords\">fishermen</data>, <data class=\"resource-ref\" data-content-id=\"25884\" data-resource-code=\"UWTranslationWords\">James (son of Zebedee)</data>, <data class=\"resource-ref\" data-content-id=\"25911\" data-resource-code=\"UWTranslationWords\">John (the apostle)</data>)</p>",
+"content": "<h1>Zébédée</h1><h2>Données :</h2><p>Zébédée était un pêcheur de Galilée connu pour ses fils, Jacques et Jean, qui étaient des disciples de Jésus. Ils sont souvent identifiés dans le Nouveau Testament comme les « fils de Zébédée ».</p><ul><li><p>Les fils de Zébédée étaient aussi des pêcheurs et travaillaient avec lui pour faire la pêche.</p></li><li><p>Jacques et Jean ont quitté leur travail avec leur père Zébédée et sont partis pour aller suivre Jésus.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : <data class=\"resource-ref\" data-content-id=\"466831\" data-resource-code=\"UWTranslationWords\" data-language=\"fra\">disciple</data>, <data class=\"resource-ref\" data-content-id=\"466897\" data-resource-code=\"UWTranslationWords\" data-language=\"fra\">fishermen</data>, <data class=\"resource-ref\" data-content-id=\"467029\" data-resource-code=\"UWTranslationWords\" data-language=\"fra\">James (son of Zebedee)</data>, <data class=\"resource-ref\" data-content-id=\"467056\" data-resource-code=\"UWTranslationWords\" data-language=\"fra\">John (the apostle)</data>)</p>",
 "associations": {
 "passage": [
 {
@@ -476,31 +497,31 @@
 ],
 "resource": [
 {
-"reference_id": 25669,
-"content_id": 466831,
+"reference_id": "25669",
+"content_id": "466831",
 "resource_code": "UWTranslationWords",
-"label": "Disciple",
+"label": "disciple",
 "language": "fra"
 },
 {
-"reference_id": 25744,
-"content_id": 466897,
+"reference_id": "25744",
+"content_id": "466897",
 "resource_code": "UWTranslationWords",
-"label": "Pêcheurs",
+"label": "fishermen",
 "language": "fra"
 },
 {
-"reference_id": 25884,
-"content_id": 467029,
+"reference_id": "25884",
+"content_id": "467029",
 "resource_code": "UWTranslationWords",
-"label": "Jacques (fils de Zébédée)",
+"label": "James (son of Zebedee)",
 "language": "fra"
 },
 {
-"reference_id": 25911,
-"content_id": 467056,
+"reference_id": "25911",
+"content_id": "467056",
 "resource_code": "UWTranslationWords",
-"label": "Jean (l'apôtre)",
+"label": "John (the apostle)",
 "language": "fra"
 }
 ],
