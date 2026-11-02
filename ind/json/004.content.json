@@ -550,21 +550,21 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Fir"
-},
-{
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.5642,
-"match_method": "scored",
-"preferred_label": "Grecian Juniper"
+"preferred_label": "sanobar"
 },
 {
 "id": "flora:Cypress",
 "type": "flora",
 "confidence": 0.5642,
 "match_method": "scored",
-"preferred_label": "Cypress"
+"preferred_label": "sanobar"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.5642,
+"match_method": "scored",
+"preferred_label": "sanobar Yunani"
 }
 ]
 }
@@ -699,7 +699,7 @@
 "type": "deity",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Tuhan"
+"preferred_label": "TUHAN"
 },
 {
 "id": "keyterm:Zealous",
@@ -713,7 +713,7 @@
 "type": "keyterm",
 "confidence": 0.5626,
 "match_method": "scored",
-"preferred_label": "mencurigai"
+"preferred_label": "kecemburuan"
 }
 ]
 }
