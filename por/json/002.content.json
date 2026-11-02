@@ -2033,21 +2033,21 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Fir"
-},
-{
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.5642,
-"match_method": "scored",
-"preferred_label": "Grecian Juniper"
+"preferred_label": "abeto"
 },
 {
 "id": "flora:Cypress",
 "type": "flora",
 "confidence": 0.5642,
 "match_method": "scored",
-"preferred_label": "Cypress"
+"preferred_label": "cipreste"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.5642,
+"match_method": "scored",
+"preferred_label": "zimbro-da-grécia"
 }
 ]
 }
@@ -4623,7 +4623,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Acacia"
+"preferred_label": "acácia"
 }
 ]
 }
@@ -7244,7 +7244,7 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Adão"
+"preferred_label": "Adã"
 }
 ]
 }
@@ -9371,7 +9371,7 @@
 "type": "fauna",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Vulture"
+"preferred_label": "abutre"
 }
 ]
 }
@@ -9817,42 +9817,42 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "silonita"
+"preferred_label": "Aías"
 },
 {
 "id": "person:Ahijah.3",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "silonita"
+"preferred_label": "Aías"
 },
 {
 "id": "person:Ahijah.4",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "silonita"
+"preferred_label": "Aías"
 },
 {
 "id": "person:Ahijah.5",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "silonita"
+"preferred_label": "Aías"
 },
 {
 "id": "person:Ahijah.6",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "silonita"
+"preferred_label": "Aías"
 },
 {
 "id": "person:Ahijah.7",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "silonita"
+"preferred_label": "Aías"
 },
 {
 "id": "person:Ahimelech",
@@ -9866,7 +9866,7 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "silonita"
+"preferred_label": "Aías"
 }
 ]
 }
@@ -9985,21 +9985,21 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Lute"
+"preferred_label": "alaúde"
 },
 {
 "id": "realia:Lyre",
 "type": "realia",
 "confidence": 0.6957,
 "match_method": "scored",
-"preferred_label": "Lyre"
+"preferred_label": "lira"
 },
 {
 "id": "realia:Flute",
 "type": "realia",
 "confidence": 0.5515,
 "match_method": "scored",
-"preferred_label": "Flute"
+"preferred_label": "flauta"
 }
 ]
 }
@@ -11640,7 +11640,7 @@
 "type": "keyterm",
 "confidence": 0.9259,
 "match_method": "scored",
-"preferred_label": "Covenant"
+"preferred_label": "aliança"
 }
 ]
 }
@@ -12709,7 +12709,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Altar"
+"preferred_label": "altar"
 }
 ]
 }
@@ -13516,14 +13516,14 @@
 "type": "group",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Amalekites"
+"preferred_label": "amalequitas"
 },
 {
 "id": "place:Amalek",
 "type": "place",
 "confidence": 0.8454,
 "match_method": "scored",
-"preferred_label": "Ameleque"
+"preferred_label": "Amaleque"
 }
 ]
 }
@@ -14370,7 +14370,7 @@
 "type": "keyterm",
 "confidence": 0.7436,
 "match_method": "scored",
-"preferred_label": "surely!"
+"preferred_label": "com certeza!"
 }
 ]
 }
@@ -14428,14 +14428,14 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Amnon"
+"preferred_label": "Amnom"
 },
 {
 "id": "person:Amnon",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Amnon"
+"preferred_label": "Amnom"
 }
 ]
 }
@@ -14567,7 +14567,7 @@
 "type": "group",
 "confidence": 0.8496,
 "match_method": "scored",
-"preferred_label": "Ammonites"
+"preferred_label": "amonitas"
 }
 ]
 }
@@ -16277,7 +16277,7 @@
 "type": "keyterm",
 "confidence": 0.7379,
 "match_method": "scored",
-"preferred_label": "love"
+"preferred_label": "amor"
 }
 ]
 }
@@ -16410,7 +16410,7 @@
 "type": "group",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Amorites"
+"preferred_label": "amorreus"
 }
 ]
 }
@@ -16491,7 +16491,7 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Amon"
+"preferred_label": "Amom"
 }
 ]
 }
@@ -16601,7 +16601,7 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Hannah"
+"preferred_label": "Ana"
 }
 ]
 }
@@ -16633,14 +16633,14 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Anaque"
+"preferred_label": "Enaque"
 },
 {
 "id": "group:Anak",
 "type": "group",
 "confidence": 0.7689,
 "match_method": "scored",
-"preferred_label": "Anakim"
+"preferred_label": "enaquins"
 }
 ]
 }
@@ -18754,7 +18754,7 @@
 "type": "deity",
 "confidence": 0.6986,
 "match_method": "scored",
-"preferred_label": "An Angel"
+"preferred_label": "Um Anjo"
 }
 ]
 }
@@ -20118,7 +20118,7 @@
 "type": "group",
 "confidence": 0.6174,
 "match_method": "scored",
-"preferred_label": "Antiochians"
+"preferred_label": "antioquenses"
 }
 ]
 }
@@ -21198,21 +21198,21 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Aram"
+"preferred_label": "Arã"
 },
 {
 "id": "person:Aram.3",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Aram"
+"preferred_label": "Arã"
 },
 {
 "id": "person:Aram",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Aram"
+"preferred_label": "Arã"
 },
 {
 "id": "place:Paddan-aram",
@@ -21434,14 +21434,14 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Arabia"
+"preferred_label": "Arábia"
 },
 {
 "id": "group:Arabia",
 "type": "group",
 "confidence": 0.5582,
 "match_method": "scored",
-"preferred_label": "Arabians"
+"preferred_label": "árabes"
 }
 ]
 }
@@ -21541,7 +21541,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Plough"
+"preferred_label": "arado"
 }
 ]
 }
@@ -22384,7 +22384,7 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Ararat"
+"preferred_label": "Ararate"
 }
 ]
 }
@@ -22615,7 +22615,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Ship"
+"preferred_label": "navio"
 }
 ]
 }
@@ -22832,7 +22832,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Ark of the Covenant"
+"preferred_label": "Arca da Aliança"
 }
 ]
 }
@@ -22971,7 +22971,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Bow"
+"preferred_label": "arco"
 }
 ]
 }
@@ -23199,7 +23199,7 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Trap"
+"preferred_label": "armadilha"
 }
 ]
 }
@@ -23547,14 +23547,14 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Breastplate"
+"preferred_label": "couraça"
 },
 {
 "id": "realia:Breast-piece",
 "type": "realia",
 "confidence": 0.7135,
 "match_method": "scored",
-"preferred_label": "Breast-Piece"
+"preferred_label": "peitoral"
 }
 ]
 }
@@ -24242,7 +24242,7 @@
 "type": "keyterm",
 "confidence": 0.6539,
 "match_method": "scored",
-"preferred_label": "arrepender, se"
+"preferred_label": "arrepender-se"
 }
 ]
 }
@@ -25086,7 +25086,7 @@
 "type": "group",
 "confidence": 0.7259,
 "match_method": "scored",
-"preferred_label": "Aser"
+"preferred_label": "tribo de Aser"
 }
 ]
 }
@@ -25380,7 +25380,7 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Asia"
+"preferred_label": "Ásia"
 }
 ]
 }
@@ -26594,7 +26594,7 @@
 "type": "place",
 "confidence": 0.7151,
 "match_method": "scored",
-"preferred_label": "Assyria"
+"preferred_label": "Assíria"
 }
 ]
 }
@@ -26732,7 +26732,7 @@
 "type": "keyterm",
 "confidence": 0.6515,
 "match_method": "scored",
-"preferred_label": "Crafty"
+"preferred_label": "astuto"
 }
 ]
 }
@@ -26810,14 +26810,14 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Atalia"
+"preferred_label": "Atalias"
 },
 {
 "id": "person:Athaliah.3",
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Atalia"
+"preferred_label": "Atalias"
 },
 {
 "id": "person:Athaliah",
@@ -27974,7 +27974,7 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Jazanias"
+"preferred_label": "Jezanias"
 },
 {
 "id": "person:Uzziah",
@@ -28290,7 +28290,7 @@
 "type": "flora",
 "confidence": 1.0,
 "match_method": "content_id",
-"preferred_label": "Olive Tree"
+"preferred_label": "oliveira"
 }
 ]
 }
