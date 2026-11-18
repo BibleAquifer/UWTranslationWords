@@ -126,7 +126,7 @@
 {
 "id": "place:Amalek",
 "type": "place",
-"confidence": 0.8454,
+"confidence": 0.8479,
 "match_method": "scored",
 "preferred_label": "Amaleki"
 }
@@ -2896,7 +2896,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.565,
+"confidence": 0.5627,
 "match_method": "scored",
 "preferred_label": "Yerusalemu"
 }
@@ -3036,18 +3036,18 @@
 "preferred_label": "BWANA"
 },
 {
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"confidence": 0.5716,
-"match_method": "scored",
-"preferred_label": "Kuona wivu"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
-"confidence": 0.5626,
+"confidence": 0.6115,
 "match_method": "scored",
 "preferred_label": "Wivu"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.5849,
+"match_method": "scored",
+"preferred_label": "Kuona wivu"
 }
 ]
 }

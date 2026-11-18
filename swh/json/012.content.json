@@ -1052,6 +1052,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kaini"
+},
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "Kaini"
 }
 ]
 }
@@ -6457,7 +6464,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.5932,
+"match_method": "scored",
+"preferred_label": "Ukamilifu"
+}
+]
 }
 },
 {
@@ -7076,7 +7091,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6332,
+"confidence": 0.6323,
 "match_method": "scored",
 "preferred_label": "Wakanaani"
 }
@@ -16161,7 +16176,7 @@
 {
 "id": "place:DungGate",
 "type": "place",
-"confidence": 0.5793,
+"confidence": 0.5717,
 "match_method": "scored",
 "preferred_label": "Lango la Samadi"
 }
@@ -27456,7 +27471,7 @@
 {
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
-"confidence": 0.6219,
+"confidence": 0.6165,
 "match_method": "scored",
 "preferred_label": "Kufuru"
 }
@@ -32018,7 +32033,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5889,
+"confidence": 0.5822,
 "match_method": "scored",
 "preferred_label": "Kupotoa milki"
 }
