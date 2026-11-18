@@ -857,6 +857,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Caín"
+},
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "Caín"
 }
 ]
 }
@@ -2412,7 +2419,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6332,
+"confidence": 0.6323,
 "match_method": "scored",
 "preferred_label": "cananeo"
 }
@@ -7337,18 +7344,18 @@
 "preferred_label": "Jehová"
 },
 {
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"confidence": 0.5716,
-"match_method": "scored",
-"preferred_label": "tener celos"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
-"confidence": 0.5626,
+"confidence": 0.6115,
 "match_method": "scored",
 "preferred_label": "celo"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.5849,
+"match_method": "scored",
+"preferred_label": "tener celos"
 }
 ]
 }
@@ -19623,7 +19630,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.6045,
+"confidence": 0.6102,
 "match_method": "scored",
 "preferred_label": "cortina del atrio"
 }

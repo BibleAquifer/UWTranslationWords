@@ -3865,7 +3865,7 @@
 {
 "id": "keyterm:InfectiousSkinDisease",
 "type": "keyterm",
-"confidence": 0.6579,
+"confidence": 0.6711,
 "match_method": "scored",
 "preferred_label": "enfermedad infecciosa de la piel"
 }
@@ -4718,7 +4718,7 @@
 {
 "id": "person:Levi.3",
 "type": "person",
-"confidence": 0.7039,
+"confidence": 0.8584,
 "match_method": "scored",
 "preferred_label": "Leví"
 }
@@ -6184,14 +6184,14 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.73,
+"confidence": 0.8047,
 "match_method": "scored",
 "preferred_label": "vino"
 },
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6485,
+"confidence": 0.6983,
 "match_method": "scored",
 "preferred_label": "ofrenda"
 }
@@ -10084,16 +10084,9 @@
 {
 "id": "realia:TheHolyPlace",
 "type": "realia",
-"confidence": 0.6093,
+"confidence": 0.6056,
 "match_method": "scored",
 "preferred_label": "Lugar Santo"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.5646,
-"match_method": "scored",
-"preferred_label": "santo"
 }
 ]
 }
