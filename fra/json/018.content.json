@@ -2247,7 +2247,7 @@
 {
 "id": "realia:House",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.681,
 "match_method": "scored",
 "preferred_label": "maison"
 }
@@ -2568,14 +2568,14 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.897,
+"confidence": 0.8899,
 "match_method": "scored",
 "preferred_label": "parabole"
 },
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.553,
+"confidence": 0.5527,
 "match_method": "scored",
 "preferred_label": "proverbe"
 }
@@ -2685,7 +2685,7 @@
 {
 "id": "place:ParanMount",
 "type": "place",
-"confidence": 0.6615,
+"confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "montagne de Paran"
 }
@@ -3608,7 +3608,15 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.5932,
+"match_method": "scored",
+"preferred_label": "intègre"
+}
+]
 }
 },
 {
@@ -18274,7 +18282,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5889,
+"confidence": 0.5822,
 "match_method": "scored",
 "preferred_label": "déposséder"
 }
@@ -21791,7 +21799,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.587,
+"confidence": 0.5854,
 "match_method": "scored",
 "preferred_label": "prier"
 }
@@ -25765,7 +25773,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.809,
+"confidence": 0.8139,
 "match_method": "scored",
 "preferred_label": "proverbe"
 }

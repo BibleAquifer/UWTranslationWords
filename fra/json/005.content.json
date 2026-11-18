@@ -131,6 +131,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Caïn"
+},
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "Kaïn"
 }
 ]
 }
@@ -1176,7 +1183,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6332,
+"confidence": 0.6323,
 "match_method": "scored",
 "preferred_label": "Cananéens"
 }
@@ -5822,7 +5829,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.815,
+"confidence": 0.7712,
 "match_method": "scored",
 "preferred_label": "créature ailée"
 }
