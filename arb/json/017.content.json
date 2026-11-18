@@ -1045,7 +1045,15 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.5932,
+"match_method": "scored",
+"preferred_label": "كَامِل"
+}
+]
 }
 },
 {
@@ -3682,7 +3690,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.815,
+"confidence": 0.7712,
 "match_method": "scored",
 "preferred_label": "كائِنٌ مُجَنَّح"
 }
@@ -3942,7 +3950,7 @@
 {
 "id": "keyterm:Appease",
 "type": "keyterm",
-"confidence": 0.6515,
+"confidence": 0.6679,
 "match_method": "scored",
 "preferred_label": "يُكَفِّر عَنْ"
 }
@@ -5833,7 +5841,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6332,
+"confidence": 0.6323,
 "match_method": "scored",
 "preferred_label": "الكنعانيون"
 }

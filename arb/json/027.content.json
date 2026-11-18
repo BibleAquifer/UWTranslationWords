@@ -1179,7 +1179,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.6045,
+"confidence": 0.6102,
 "match_method": "scored",
 "preferred_label": "سِتَارَةُ ٱلدَّارِ"
 }
@@ -1583,18 +1583,18 @@
 "preferred_label": "الرَّبّ"
 },
 {
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"confidence": 0.5716,
-"match_method": "scored",
-"preferred_label": "يَغَار"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
-"confidence": 0.5626,
+"confidence": 0.6115,
 "match_method": "scored",
 "preferred_label": "غَيْرَة"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.5849,
+"match_method": "scored",
+"preferred_label": "يَغَار"
 }
 ]
 }
