@@ -598,7 +598,7 @@
 {
 "id": "realia:House",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.681,
 "match_method": "scored",
 "preferred_label": "casa"
 }
@@ -3389,7 +3389,7 @@
 {
 "id": "place:ParanMount",
 "type": "place",
-"confidence": 0.6615,
+"confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Monte Parã"
 }
@@ -3710,14 +3710,14 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.897,
+"confidence": 0.8899,
 "match_method": "scored",
 "preferred_label": "parábola"
 },
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.553,
+"confidence": 0.5527,
 "match_method": "scored",
 "preferred_label": "provérbio"
 }
@@ -6605,7 +6605,7 @@
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"confidence": 0.9345,
+"confidence": 0.9446,
 "match_method": "scored",
 "preferred_label": "Páscoa"
 }
@@ -13823,7 +13823,15 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.5932,
+"match_method": "scored",
+"preferred_label": "íntegro"
+}
+]
 }
 },
 {
@@ -18992,7 +19000,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5889,
+"confidence": 0.5822,
 "match_method": "scored",
 "preferred_label": "desapossar"
 }
@@ -25133,7 +25141,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.809,
+"confidence": 0.8139,
 "match_method": "scored",
 "preferred_label": "provérbio"
 }

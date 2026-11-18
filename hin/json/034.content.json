@@ -837,6 +837,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "लाठी"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.5635,
+"match_method": "scored",
+"preferred_label": "छड़ी"
 }
 ]
 }
@@ -3223,7 +3230,7 @@
 {
 "id": "person:Levi.3",
 "type": "person",
-"confidence": 0.7039,
+"confidence": 0.8584,
 "match_method": "scored",
 "preferred_label": "लेवी"
 }

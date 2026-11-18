@@ -207,9 +207,16 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.6074,
+"confidence": 0.6073,
 "match_method": "scored",
 "preferred_label": "Oak of Moreh"
+},
+{
+"id": "group:Shechem",
+"type": "group",
+"confidence": 0.6073,
+"match_method": "scored",
+"preferred_label": "Shechemites"
 }
 ]
 }
@@ -2975,7 +2982,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6511,
+"confidence": 0.6805,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -3115,9 +3122,16 @@
 {
 "id": "person:Shaul.2",
 "type": "person",
-"confidence": 0.553,
+"confidence": 0.5543,
 "match_method": "scored",
 "preferred_label": "Shaul"
+},
+{
+"id": "group:Shaul",
+"type": "group",
+"confidence": 0.5518,
+"match_method": "scored",
+"preferred_label": "Shaulites"
 }
 ]
 }
@@ -5591,7 +5605,7 @@
 {
 "id": "group:Shimei",
 "type": "group",
-"confidence": 0.6167,
+"confidence": 0.616,
 "match_method": "scored",
 "preferred_label": "Shimeites"
 }
@@ -5835,7 +5849,7 @@
 {
 "id": "group:Simeon",
 "type": "group",
-"confidence": 0.7385,
+"confidence": 0.8057,
 "match_method": "scored",
 "preferred_label": "Tribe of Simeon"
 }

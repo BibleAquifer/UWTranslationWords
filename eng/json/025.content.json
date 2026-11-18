@@ -922,13 +922,6 @@
 "language": "eng"
 },
 {
-"reference_id": 139582,
-"content_id": 210109,
-"resource_code": "UWTranslationNotes",
-"label": "Acts 22:3 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 139578,
 "content_id": 210105,
 "resource_code": "UWTranslationNotes",
@@ -940,6 +933,13 @@
 "content_id": 210108,
 "resource_code": "UWTranslationNotes",
 "label": "Acts 22:3 (#5)",
+"language": "eng"
+},
+{
+"reference_id": 139582,
+"content_id": 210109,
+"resource_code": "UWTranslationNotes",
+"label": "Acts 22:3 (#6)",
 "language": "eng"
 },
 {
@@ -1798,6 +1798,60 @@
 "end_ref_usfm": "MAT 4:15"
 },
 {
+"start_ref": "04001009",
+"start_ref_usfm": "NUM 1:9",
+"end_ref": "04001009",
+"end_ref_usfm": "NUM 1:9"
+},
+{
+"start_ref": "04001030",
+"start_ref_usfm": "NUM 1:30",
+"end_ref": "04001030",
+"end_ref_usfm": "NUM 1:30"
+},
+{
+"start_ref": "04001031",
+"start_ref_usfm": "NUM 1:31",
+"end_ref": "04001031",
+"end_ref_usfm": "NUM 1:31"
+},
+{
+"start_ref": "04002007",
+"start_ref_usfm": "NUM 2:7",
+"end_ref": "04002007",
+"end_ref_usfm": "NUM 2:7"
+},
+{
+"start_ref": "04007024",
+"start_ref_usfm": "NUM 7:24",
+"end_ref": "04007024",
+"end_ref_usfm": "NUM 7:24"
+},
+{
+"start_ref": "04010016",
+"start_ref_usfm": "NUM 10:16",
+"end_ref": "04010016",
+"end_ref_usfm": "NUM 10:16"
+},
+{
+"start_ref": "04013010",
+"start_ref_usfm": "NUM 13:10",
+"end_ref": "04013010",
+"end_ref_usfm": "NUM 13:10"
+},
+{
+"start_ref": "04026026",
+"start_ref_usfm": "NUM 26:26",
+"end_ref": "04026026",
+"end_ref_usfm": "NUM 26:26"
+},
+{
+"start_ref": "04034025",
+"start_ref_usfm": "NUM 34:25",
+"end_ref": "04034025",
+"end_ref_usfm": "NUM 34:25"
+},
+{
 "start_ref": "19068027",
 "start_ref_usfm": "PSA 68:27",
 "end_ref": "19068027",
@@ -2048,7 +2102,7 @@
 {
 "id": "group:Zebulun",
 "type": "group",
-"confidence": 0.8667,
+"confidence": 0.8974,
 "match_method": "scored",
 "preferred_label": "Tribe of Zebulun"
 }
@@ -2858,13 +2912,6 @@
 "language": "eng"
 },
 {
-"reference_id": 151271,
-"content_id": 221798,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 23:35 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 151274,
 "content_id": 221801,
 "resource_code": "UWTranslationNotes",
@@ -2876,6 +2923,13 @@
 "content_id": 221804,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 23:35 (#7)",
+"language": "eng"
+},
+{
+"reference_id": 151271,
+"content_id": 221798,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 23:35 (#1)",
 "language": "eng"
 },
 {
@@ -2986,28 +3040,7 @@
 "preferred_label": "Zechariah"
 },
 {
-"id": "person:Zechariah.19",
-"type": "person",
-"confidence": 0.6148,
-"match_method": "scored",
-"preferred_label": "Zechariah"
-},
-{
-"id": "person:Zechariah.20",
-"type": "person",
-"confidence": 0.6148,
-"match_method": "scored",
-"preferred_label": "Zechariah"
-},
-{
-"id": "person:Zechariah.24",
-"type": "person",
-"confidence": 0.6148,
-"match_method": "scored",
-"preferred_label": "Zechariah"
-},
-{
-"id": "person:Zechariah.21",
+"id": "person:Zechariah.27",
 "type": "person",
 "confidence": 0.6148,
 "match_method": "scored",
@@ -3021,14 +3054,7 @@
 "preferred_label": "Zechariah"
 },
 {
-"id": "person:Zechariah.4",
-"type": "person",
-"confidence": 0.6148,
-"match_method": "scored",
-"preferred_label": "Zechariah"
-},
-{
-"id": "person:Zechariah.18",
+"id": "person:Zechariah.24",
 "type": "person",
 "confidence": 0.6148,
 "match_method": "scored",
@@ -3042,14 +3068,7 @@
 "preferred_label": "Zechariah"
 },
 {
-"id": "person:Zechariah.23",
-"type": "person",
-"confidence": 0.6148,
-"match_method": "scored",
-"preferred_label": "Zechariah"
-},
-{
-"id": "person:Zechariah.27",
+"id": "person:Zechariah.18",
 "type": "person",
 "confidence": 0.6148,
 "match_method": "scored",
@@ -3063,7 +3082,42 @@
 "preferred_label": "Zechariah"
 },
 {
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
 "id": "person:Zechariah.28",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.19",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.4",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 0.6148,
+"match_method": "scored",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.23",
 "type": "person",
 "confidence": 0.6148,
 "match_method": "scored",
@@ -3927,13 +3981,6 @@
 "language": "eng"
 },
 {
-"reference_id": 198415,
-"content_id": 462736,
-"resource_code": "UWTranslationNotes",
-"label": "Ezra 3:8 (#3)",
-"language": "eng"
-},
-{
 "reference_id": 198424,
 "content_id": 462745,
 "resource_code": "UWTranslationNotes",
@@ -4011,6 +4058,13 @@
 "language": "eng"
 },
 {
+"reference_id": 198415,
+"content_id": 462736,
+"resource_code": "UWTranslationNotes",
+"label": "Ezra 3:8 (#3)",
+"language": "eng"
+},
+{
 "reference_id": 198438,
 "content_id": 462759,
 "resource_code": "UWTranslationNotes",
@@ -4067,20 +4121,6 @@
 "language": "eng"
 },
 {
-"reference_id": 198437,
-"content_id": 462758,
-"resource_code": "UWTranslationNotes",
-"label": "Ezra 3:9 (#12)",
-"language": "eng"
-},
-{
-"reference_id": 198436,
-"content_id": 462757,
-"resource_code": "UWTranslationNotes",
-"label": "Ezra 3:9 (#11)",
-"language": "eng"
-},
-{
 "reference_id": 198433,
 "content_id": 462754,
 "resource_code": "UWTranslationNotes",
@@ -4099,6 +4139,20 @@
 "content_id": 462755,
 "resource_code": "UWTranslationNotes",
 "label": "Ezra 3:9 (#9)",
+"language": "eng"
+},
+{
+"reference_id": 198437,
+"content_id": 462758,
+"resource_code": "UWTranslationNotes",
+"label": "Ezra 3:9 (#12)",
+"language": "eng"
+},
+{
+"reference_id": 198436,
+"content_id": 462757,
+"resource_code": "UWTranslationNotes",
+"label": "Ezra 3:9 (#11)",
 "language": "eng"
 },
 {

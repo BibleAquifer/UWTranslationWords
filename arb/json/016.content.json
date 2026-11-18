@@ -331,16 +331,9 @@
 {
 "id": "realia:TheHolyPlace",
 "type": "realia",
-"confidence": 0.6093,
+"confidence": 0.6056,
 "match_method": "scored",
 "preferred_label": "القدس"
-},
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 0.5646,
-"match_method": "scored",
-"preferred_label": "مقدس"
 }
 ]
 }
@@ -2996,7 +2989,7 @@
 {
 "id": "keyterm:Decree",
 "type": "keyterm",
-"confidence": 0.7746,
+"confidence": 0.7598,
 "match_method": "scored",
 "preferred_label": "فريضة"
 }
@@ -3135,6 +3128,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "قَايِين"
+},
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "القاين"
 }
 ]
 }
@@ -5007,7 +5007,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5924,
+"confidence": 0.6015,
 "match_method": "scored",
 "preferred_label": "مقدس"
 }
@@ -6437,7 +6437,7 @@
 {
 "id": "realia:House",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.681,
 "match_method": "scored",
 "preferred_label": "بَيْت"
 }

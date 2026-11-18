@@ -3691,7 +3691,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.568,
+"confidence": 0.5649,
 "match_method": "scored",
 "preferred_label": "LORD"
 }
@@ -5642,18 +5642,18 @@
 "preferred_label": "LORD"
 },
 {
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"confidence": 0.5716,
-"match_method": "scored",
-"preferred_label": "Be Zealous"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
-"confidence": 0.5626,
+"confidence": 0.6115,
 "match_method": "scored",
 "preferred_label": "Passion"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.5849,
+"match_method": "scored",
+"preferred_label": "Be Zealous"
 }
 ]
 }
@@ -15330,7 +15330,7 @@
 {
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
-"confidence": 0.6219,
+"confidence": 0.6165,
 "match_method": "scored",
 "preferred_label": "Blaspheme"
 }
@@ -27590,7 +27590,7 @@
 {
 "id": "group:Issachar",
 "type": "group",
-"confidence": 0.8308,
+"confidence": 0.8778,
 "match_method": "scored",
 "preferred_label": "Tribe of Issachar"
 }

@@ -925,7 +925,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6332,
+"confidence": 0.6323,
 "match_method": "scored",
 "preferred_label": "कनानी"
 }
@@ -2595,7 +2595,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.815,
+"confidence": 0.7712,
 "match_method": "scored",
 "preferred_label": "करूब"
 }
@@ -3986,7 +3986,7 @@
 {
 "id": "flora:Brier",
 "type": "flora",
-"confidence": 0.557,
+"confidence": 0.5624,
 "match_method": "scored",
 "preferred_label": "कँटीली झाड़ी"
 }
@@ -11200,6 +11200,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "कैन"
+},
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 0.6235,
+"match_method": "scored",
 "preferred_label": "कैन"
 }
 ]

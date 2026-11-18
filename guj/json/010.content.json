@@ -1270,7 +1270,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6332,
+"confidence": 0.6323,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }
@@ -2180,7 +2180,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5889,
+"confidence": 0.5822,
 "match_method": "scored",
 "preferred_label": "Dispossess"
 }
@@ -3930,7 +3930,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9259,
+"confidence": 0.9262,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -4954,7 +4954,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.815,
+"confidence": 0.7712,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -6093,7 +6093,7 @@
 {
 "id": "flora:Brier",
 "type": "flora",
-"confidence": 0.557,
+"confidence": 0.5624,
 "match_method": "scored",
 "preferred_label": "Brier"
 }
@@ -6269,6 +6269,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Cain"
+},
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "Kain"
 }
 ]
 }

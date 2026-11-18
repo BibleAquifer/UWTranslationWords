@@ -143,7 +143,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.565,
+"confidence": 0.5627,
 "match_method": "scored",
 "preferred_label": "أُورُشَلِيم"
 }
@@ -6076,7 +6076,7 @@
 {
 "id": "keyterm:Serve",
 "type": "keyterm",
-"confidence": 0.6431,
+"confidence": 0.6357,
 "match_method": "scored",
 "preferred_label": "يَخْدِم"
 }
@@ -7486,7 +7486,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5703,
+"confidence": 0.5693,
 "match_method": "scored",
 "preferred_label": "خَلَاص"
 }
@@ -10680,7 +10680,7 @@
 {
 "id": "group:Issachar",
 "type": "group",
-"confidence": 0.8308,
+"confidence": 0.8778,
 "match_method": "scored",
 "preferred_label": "سبط يساكر"
 }
@@ -32982,7 +32982,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5889,
+"confidence": 0.5822,
 "match_method": "scored",
 "preferred_label": "يَجْرُدُ مِنْ مِلْكِهِ"
 }
@@ -37027,13 +37027,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "اليهودية"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.5523,
-"match_method": "scored",
-"preferred_label": "أُورُشَلِيم"
 }
 ]
 }
@@ -37480,7 +37473,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7562,
+"confidence": 0.7595,
 "match_method": "scored",
 "preferred_label": "سِبْطُ يَهوذَا"
 }
@@ -46001,6 +45994,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "يُوسُف"
+},
+{
+"id": "person:Joseph.11",
+"type": "person",
+"confidence": 0.602,
+"match_method": "scored",
 "preferred_label": "يُوسُف"
 }
 ]

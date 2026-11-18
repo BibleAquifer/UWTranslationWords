@@ -2021,7 +2021,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9259,
+"confidence": 0.9262,
 "match_method": "scored",
 "preferred_label": "pacto"
 }
@@ -3692,7 +3692,7 @@
 {
 "id": "realia:House",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.681,
 "match_method": "scored",
 "preferred_label": "casa"
 }
@@ -5710,14 +5710,14 @@
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.897,
+"confidence": 0.8899,
 "match_method": "scored",
 "preferred_label": "parábola"
 },
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.553,
+"confidence": 0.5527,
 "match_method": "scored",
 "preferred_label": "proverbio"
 }
@@ -5840,7 +5840,7 @@
 {
 "id": "place:ParanMount",
 "type": "place",
-"confidence": 0.6615,
+"confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "monte Parán"
 }
@@ -6435,7 +6435,7 @@
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"confidence": 0.9345,
+"confidence": 0.9446,
 "match_method": "scored",
 "preferred_label": "Pascua"
 }
@@ -13006,7 +13006,15 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.5932,
+"match_method": "scored",
+"preferred_label": "íntegro"
+}
+]
 }
 },
 {
@@ -14160,6 +14168,13 @@
 "type": "realia",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "vara"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.5635,
+"match_method": "scored",
 "preferred_label": "vara"
 }
 ]
@@ -17883,7 +17898,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5889,
+"confidence": 0.5822,
 "match_method": "scored",
 "preferred_label": "desposeer"
 }
@@ -24291,7 +24306,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.809,
+"confidence": 0.8139,
 "match_method": "scored",
 "preferred_label": "proverbio"
 }

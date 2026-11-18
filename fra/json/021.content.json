@@ -694,7 +694,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.9791,
+"confidence": 0.9797,
 "match_method": "scored",
 "preferred_label": "sabbat"
 }
@@ -976,7 +976,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6511,
+"confidence": 0.6805,
 "match_method": "scored",
 "preferred_label": "offrande"
 }
@@ -1070,14 +1070,14 @@
 {
 "id": "realia:Wine",
 "type": "realia",
-"confidence": 0.73,
+"confidence": 0.8047,
 "match_method": "scored",
 "preferred_label": "vin"
 },
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6485,
+"confidence": 0.6983,
 "match_method": "scored",
 "preferred_label": "offrande"
 }
@@ -1856,14 +1856,14 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6324,
+"confidence": 0.6638,
 "match_method": "scored",
 "preferred_label": "offrande"
 },
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
-"confidence": 0.5835,
+"confidence": 0.583,
 "match_method": "scored",
 "preferred_label": "immolation"
 }
@@ -7980,18 +7980,18 @@
 "preferred_label": "cyprès"
 },
 {
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.5642,
-"match_method": "scored",
-"preferred_label": "genévrier de Grèce"
-},
-{
 "id": "flora:Cypress",
 "type": "flora",
 "confidence": 0.5642,
 "match_method": "scored",
 "preferred_label": "cyprès"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.5642,
+"match_method": "scored",
+"preferred_label": "genévrier de Grèce"
 }
 ]
 }
@@ -8947,9 +8947,16 @@
 {
 "id": "person:Shaul.2",
 "type": "person",
-"confidence": 0.553,
+"confidence": 0.5543,
 "match_method": "scored",
 "preferred_label": "Saül"
+},
+{
+"id": "group:Shaul",
+"type": "group",
+"confidence": 0.5518,
+"match_method": "scored",
+"preferred_label": "Saülites"
 }
 ]
 }
@@ -9974,7 +9981,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5703,
+"confidence": 0.5693,
 "match_method": "scored",
 "preferred_label": "salut"
 }
@@ -10728,7 +10735,7 @@
 {
 "id": "group:Shimei",
 "type": "group",
-"confidence": 0.6167,
+"confidence": 0.616,
 "match_method": "scored",
 "preferred_label": "famille de Schimeï"
 }
@@ -25461,9 +25468,16 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.6074,
+"confidence": 0.6073,
 "match_method": "scored",
 "preferred_label": "chênes de Moré"
+},
+{
+"id": "group:Shechem",
+"type": "group",
+"confidence": 0.6073,
+"match_method": "scored",
+"preferred_label": "Sichémites"
 }
 ]
 }
@@ -26799,7 +26813,7 @@
 {
 "id": "group:Simeon",
 "type": "group",
-"confidence": 0.7385,
+"confidence": 0.8057,
 "match_method": "scored",
 "preferred_label": "tribu de Siméon"
 }
@@ -29458,7 +29472,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6614,
+"confidence": 0.6668,
 "match_method": "scored",
 "preferred_label": "majesté"
 }
