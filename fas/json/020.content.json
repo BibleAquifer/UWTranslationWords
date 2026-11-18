@@ -897,6 +897,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "عصا"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.5635,
+"match_method": "scored",
+"preferred_label": "عصا"
 }
 ]
 }
@@ -1171,7 +1178,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.9259,
+"confidence": 0.9262,
 "match_method": "scored",
 "preferred_label": "عهد"
 }

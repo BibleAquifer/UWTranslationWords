@@ -358,7 +358,15 @@
 "language": "fas"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.5932,
+"match_method": "scored",
+"preferred_label": "کامل"
+}
+]
 }
 },
 {
@@ -1026,7 +1034,7 @@
 {
 "id": "keyterm:Blaspheme",
 "type": "keyterm",
-"confidence": 0.6219,
+"confidence": 0.6165,
 "match_method": "scored",
 "preferred_label": "کفر گفتن"
 }
