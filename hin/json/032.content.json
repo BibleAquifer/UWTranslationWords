@@ -143,7 +143,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.565,
+"confidence": 0.5627,
 "match_method": "scored",
 "preferred_label": "यरूशलेम"
 }
@@ -517,7 +517,7 @@
 {
 "id": "place:JerichoValley",
 "type": "place",
-"confidence": 0.6077,
+"confidence": 0.6067,
 "match_method": "scored",
 "preferred_label": "यरीहो की तराई"
 }
@@ -2704,7 +2704,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7562,
+"confidence": 0.7595,
 "match_method": "scored",
 "preferred_label": "यहूदा का गोत्र"
 }
@@ -3602,13 +3602,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "यहूदिया"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.5523,
-"match_method": "scored",
-"preferred_label": "यरूशलेम"
 }
 ]
 }
@@ -21169,6 +21162,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "यूसुफ"
+},
+{
+"id": "person:Joseph.11",
+"type": "person",
+"confidence": 0.602,
+"match_method": "scored",
 "preferred_label": "यूसुफ"
 }
 ]
