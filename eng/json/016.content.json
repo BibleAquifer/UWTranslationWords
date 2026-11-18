@@ -420,17 +420,17 @@
 "language": "eng"
 },
 {
-"reference_id": 156551,
-"content_id": 241810,
-"resource_code": "UWTranslationNotes",
-"label": "1 Corinthians 10:20 (#4)",
-"language": "eng"
-},
-{
 "reference_id": 156550,
 "content_id": 241809,
 "resource_code": "UWTranslationNotes",
 "label": "1 Corinthians 10:20 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 156551,
+"content_id": 241810,
+"resource_code": "UWTranslationNotes",
+"label": "1 Corinthians 10:20 (#4)",
 "language": "eng"
 },
 {
@@ -560,13 +560,6 @@
 "language": "eng"
 },
 {
-"reference_id": 156800,
-"content_id": 242059,
-"resource_code": "UWTranslationNotes",
-"label": "1 Corinthians 12:3 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 156804,
 "content_id": 242063,
 "resource_code": "UWTranslationNotes",
@@ -585,6 +578,13 @@
 "content_id": 242062,
 "resource_code": "UWTranslationNotes",
 "label": "1 Corinthians 12:3 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 156800,
+"content_id": 242059,
+"resource_code": "UWTranslationNotes",
+"label": "1 Corinthians 12:3 (#1)",
 "language": "eng"
 },
 {
@@ -1164,6 +1164,12 @@
 "end_ref_usfm": "DAN 11:45"
 },
 {
+"start_ref": "21002004",
+"start_ref_usfm": "ECC 2:4",
+"end_ref": "21002004",
+"end_ref_usfm": "ECC 2:4"
+},
+{
 "start_ref": "17001005",
 "start_ref_usfm": "EST 1:5",
 "end_ref": "17001005",
@@ -1318,6 +1324,18 @@
 "start_ref_usfm": "NEH 3:25",
 "end_ref": "16003025",
 "end_ref_usfm": "NEH 3:25"
+},
+{
+"start_ref": "04022018",
+"start_ref_usfm": "NUM 22:18",
+"end_ref": "04022018",
+"end_ref_usfm": "NUM 22:18"
+},
+{
+"start_ref": "04024013",
+"start_ref_usfm": "NUM 24:13",
+"end_ref": "04024013",
+"end_ref_usfm": "NUM 24:13"
 },
 {
 "start_ref": "50001013",
@@ -1593,7 +1611,7 @@
 {
 "id": "realia:House",
 "type": "realia",
-"confidence": 0.6776,
+"confidence": 0.681,
 "match_method": "scored",
 "preferred_label": "House"
 }
@@ -1751,6 +1769,18 @@
 "end_ref_usfm": "NEH 8:15"
 },
 {
+"start_ref": "04004007",
+"start_ref_usfm": "NUM 4:7",
+"end_ref": "04004007",
+"end_ref_usfm": "NUM 4:7"
+},
+{
+"start_ref": "04033009",
+"start_ref_usfm": "NUM 33:9",
+"end_ref": "04033009",
+"end_ref_usfm": "NUM 33:9"
+},
+{
 "start_ref": "19092012",
 "start_ref_usfm": "PSA 92:12",
 "end_ref": "19092012",
@@ -1773,12 +1803,6 @@
 "start_ref_usfm": "SNG 7:8",
 "end_ref": "22007008",
 "end_ref_usfm": "SNG 7:8"
-},
-{
-"start_ref": "04033009",
-"start_ref_usfm": "NUM 33:9",
-"end_ref": "04033009",
-"end_ref_usfm": "NUM 33:9"
 },
 {
 "start_ref": "11006030",
@@ -2217,6 +2241,12 @@
 "end_ref_usfm": "MRK 13:28"
 },
 {
+"start_ref": "04021027",
+"start_ref_usfm": "NUM 21:27",
+"end_ref": "04021027",
+"end_ref_usfm": "NUM 21:27"
+},
+{
 "start_ref": "20001006",
 "start_ref_usfm": "PRO 1:6",
 "end_ref": "20001006",
@@ -2475,13 +2505,6 @@
 "language": "eng"
 },
 {
-"reference_id": 149253,
-"content_id": 219780,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 13:13 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 149254,
 "content_id": 219781,
 "resource_code": "UWTranslationNotes",
@@ -2494,20 +2517,27 @@
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 13:13 (#3)",
 "language": "eng"
+},
+{
+"reference_id": 149253,
+"content_id": 219780,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 13:13 (#1)",
+"language": "eng"
 }
 ],
 "acai": [
 {
 "id": "keyterm:Parable",
 "type": "keyterm",
-"confidence": 0.897,
+"confidence": 0.8899,
 "match_method": "scored",
 "preferred_label": "Parable"
 },
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.553,
+"confidence": 0.5527,
 "match_method": "scored",
 "preferred_label": "Proverb"
 }
@@ -2563,6 +2593,24 @@
 "end_ref_usfm": "HAB 3:3"
 },
 {
+"start_ref": "04010012",
+"start_ref_usfm": "NUM 10:12",
+"end_ref": "04010012",
+"end_ref_usfm": "NUM 10:12"
+},
+{
+"start_ref": "04013003",
+"start_ref_usfm": "NUM 13:3",
+"end_ref": "04013003",
+"end_ref_usfm": "NUM 13:3"
+},
+{
+"start_ref": "04013026",
+"start_ref_usfm": "NUM 13:26",
+"end_ref": "04013026",
+"end_ref_usfm": "NUM 13:26"
+},
+{
 "start_ref": "01021019",
 "start_ref_usfm": "GEN 21:19",
 "end_ref": "01021019",
@@ -2581,22 +2629,10 @@
 "end_ref_usfm": "NUM 10:11"
 },
 {
-"start_ref": "04010012",
-"start_ref_usfm": "NUM 10:12",
-"end_ref": "04010012",
-"end_ref_usfm": "NUM 10:12"
-},
-{
 "start_ref": "04010013",
 "start_ref_usfm": "NUM 10:13",
 "end_ref": "04010013",
 "end_ref_usfm": "NUM 10:13"
-},
-{
-"start_ref": "04013003",
-"start_ref_usfm": "NUM 13:3",
-"end_ref": "04013003",
-"end_ref_usfm": "NUM 13:3"
 },
 {
 "start_ref": "04013004",
@@ -2780,6 +2816,146 @@
 "resource_code": "UWTranslationNotes",
 "label": "Genesis 21:21 (#3)",
 "language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_rz4a",
+"content_id": "en_tn_NUM_rz4a",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_rkso",
+"content_id": "en_tn_NUM_rkso",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_xrwn",
+"content_id": "en_tn_NUM_xrwn",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_hkxg",
+"content_id": "en_tn_NUM_hkxg",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_oz73",
+"content_id": "en_tn_NUM_oz73",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#5)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_duqi",
+"content_id": "en_tn_NUM_duqi",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#6)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_faek",
+"content_id": "en_tn_NUM_faek",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#7)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_bakv",
+"content_id": "en_tn_NUM_bakv",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#8)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_misn",
+"content_id": "en_tn_NUM_misn",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:11 (#9)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_tdzf",
+"content_id": "en_tn_NUM_tdzf",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:12 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_d04r",
+"content_id": "en_tn_NUM_d04r",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:12 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_khf7",
+"content_id": "en_tn_NUM_khf7",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:12 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_guhj",
+"content_id": "en_tn_NUM_guhj",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:12 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_t4qe",
+"content_id": "en_tn_NUM_t4qe",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:13 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_j9tf",
+"content_id": "en_tn_NUM_j9tf",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:13 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_re4h",
+"content_id": "en_tn_NUM_re4h",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 10:13 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_rv0o",
+"content_id": "en_tn_NUM_rv0o",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:3 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_gug6",
+"content_id": "en_tn_NUM_gug6",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:3 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_do55",
+"content_id": "en_tn_NUM_do55",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:3 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_l6c8",
+"content_id": "en_tn_NUM_l6c8",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:4 (#1)",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2793,7 +2969,7 @@
 {
 "id": "place:ParanMount",
 "type": "place",
-"confidence": 0.6615,
+"confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Mount Paran"
 }
@@ -3018,13 +3194,6 @@
 "language": "eng"
 },
 {
-"reference_id": 117847,
-"content_id": 143059,
-"resource_code": "UWTranslationNotes",
-"label": "Mark 12:13 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 117842,
 "content_id": 143054,
 "resource_code": "UWTranslationNotes",
@@ -3036,6 +3205,13 @@
 "content_id": 143058,
 "resource_code": "UWTranslationNotes",
 "label": "Mark 12:13 (#5)",
+"language": "eng"
+},
+{
+"reference_id": 117847,
+"content_id": 143059,
+"resource_code": "UWTranslationNotes",
+"label": "Mark 12:13 (#6)",
 "language": "eng"
 },
 {
@@ -3078,13 +3254,6 @@
 "content_id": 143067,
 "resource_code": "UWTranslationNotes",
 "label": "Mark 12:14 (#8)",
-"language": "eng"
-},
-{
-"reference_id": 117859,
-"content_id": 143071,
-"resource_code": "UWTranslationNotes",
-"label": "Mark 12:14 (#12)",
 "language": "eng"
 },
 {
@@ -3141,6 +3310,13 @@
 "content_id": 143061,
 "resource_code": "UWTranslationNotes",
 "label": "Mark 12:14 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 117859,
+"content_id": 143071,
+"resource_code": "UWTranslationNotes",
+"label": "Mark 12:14 (#12)",
 "language": "eng"
 },
 {
@@ -3277,17 +3453,17 @@
 "language": "eng"
 },
 {
-"reference_id": 152728,
-"content_id": 223255,
-"resource_code": "UWTranslationNotes",
-"label": "Romans 2:10 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 152727,
 "content_id": 223254,
 "resource_code": "UWTranslationNotes",
 "label": "Romans 2:10 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 152728,
+"content_id": 223255,
+"resource_code": "UWTranslationNotes",
+"label": "Romans 2:10 (#2)",
 "language": "eng"
 },
 {
@@ -3642,6 +3818,66 @@
 "end_ref_usfm": "MRK 14:16"
 },
 {
+"start_ref": "04009002",
+"start_ref_usfm": "NUM 9:2",
+"end_ref": "04009002",
+"end_ref_usfm": "NUM 9:2"
+},
+{
+"start_ref": "04009004",
+"start_ref_usfm": "NUM 9:4",
+"end_ref": "04009004",
+"end_ref_usfm": "NUM 9:4"
+},
+{
+"start_ref": "04009005",
+"start_ref_usfm": "NUM 9:5",
+"end_ref": "04009005",
+"end_ref_usfm": "NUM 9:5"
+},
+{
+"start_ref": "04009006",
+"start_ref_usfm": "NUM 9:6",
+"end_ref": "04009006",
+"end_ref_usfm": "NUM 9:6"
+},
+{
+"start_ref": "04009010",
+"start_ref_usfm": "NUM 9:10",
+"end_ref": "04009010",
+"end_ref_usfm": "NUM 9:10"
+},
+{
+"start_ref": "04009012",
+"start_ref_usfm": "NUM 9:12",
+"end_ref": "04009012",
+"end_ref_usfm": "NUM 9:12"
+},
+{
+"start_ref": "04009013",
+"start_ref_usfm": "NUM 9:13",
+"end_ref": "04009013",
+"end_ref_usfm": "NUM 9:13"
+},
+{
+"start_ref": "04009014",
+"start_ref_usfm": "NUM 9:14",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "04028016",
+"start_ref_usfm": "NUM 28:16",
+"end_ref": "04028016",
+"end_ref_usfm": "NUM 28:16"
+},
+{
+"start_ref": "04033003",
+"start_ref_usfm": "NUM 33:3",
+"end_ref": "04033003",
+"end_ref_usfm": "NUM 33:3"
+},
+{
 "start_ref": "02012026",
 "start_ref_usfm": "EXO 12:26",
 "end_ref": "02012026",
@@ -3864,13 +4100,6 @@
 "language": "eng"
 },
 {
-"reference_id": 198837,
-"content_id": 463158,
-"resource_code": "UWTranslationNotes",
-"label": "Ezra 6:21 (#3)",
-"language": "eng"
-},
-{
 "reference_id": 198839,
 "content_id": 463160,
 "resource_code": "UWTranslationNotes",
@@ -3889,6 +4118,13 @@
 "content_id": 463159,
 "resource_code": "UWTranslationNotes",
 "label": "Ezra 6:21 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 198837,
+"content_id": 463158,
+"resource_code": "UWTranslationNotes",
+"label": "Ezra 6:21 (#3)",
 "language": "eng"
 },
 {
@@ -3955,17 +4191,17 @@
 "language": "eng"
 },
 {
-"reference_id": 141898,
-"content_id": 212425,
-"resource_code": "UWTranslationNotes",
-"label": "John 13:1 (#4)",
-"language": "eng"
-},
-{
 "reference_id": 141897,
 "content_id": 212424,
 "resource_code": "UWTranslationNotes",
 "label": "John 13:1 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 141898,
+"content_id": 212425,
+"resource_code": "UWTranslationNotes",
+"label": "John 13:1 (#4)",
 "language": "eng"
 },
 {
@@ -4009,13 +4245,34 @@
 "resource_code": "UWTranslationNotes",
 "label": "Leviticus 23:6 (#1)",
 "language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_u8rb",
+"content_id": "en_tn_NUM_u8rb",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 9:3 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_vxgw",
+"content_id": "en_tn_NUM_vxgw",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 9:3 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_gthp",
+"content_id": "en_tn_NUM_gthp",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 9:3 (#3)",
+"language": "eng"
 }
 ],
 "acai": [
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"confidence": 0.9345,
+"confidence": 0.9446,
 "match_method": "scored",
 "preferred_label": "Passover"
 }
@@ -4330,13 +4587,6 @@
 "language": "eng"
 },
 {
-"reference_id": 164953,
-"content_id": 258533,
-"resource_code": "UWTranslationNotes",
-"label": "Hebrews 6:11 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 164955,
 "content_id": 258535,
 "resource_code": "UWTranslationNotes",
@@ -4355,6 +4605,13 @@
 "content_id": 258536,
 "resource_code": "UWTranslationNotes",
 "label": "Hebrews 6:11 (#5)",
+"language": "eng"
+},
+{
+"reference_id": 164953,
+"content_id": 258533,
+"resource_code": "UWTranslationNotes",
+"label": "Hebrews 6:11 (#2)",
 "language": "eng"
 },
 {
@@ -4407,13 +4664,6 @@
 "language": "eng"
 },
 {
-"reference_id": 150323,
-"content_id": 220850,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 18:28 (#5)",
-"language": "eng"
-},
-{
 "reference_id": 150325,
 "content_id": 220852,
 "resource_code": "UWTranslationNotes",
@@ -4428,13 +4678,6 @@
 "language": "eng"
 },
 {
-"reference_id": 150321,
-"content_id": 220848,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 18:28 (#3)",
-"language": "eng"
-},
-{
 "reference_id": 150324,
 "content_id": 220851,
 "resource_code": "UWTranslationNotes",
@@ -4446,6 +4689,20 @@
 "content_id": 220853,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 18:28 (#8)",
+"language": "eng"
+},
+{
+"reference_id": 150323,
+"content_id": 220850,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 18:28 (#5)",
+"language": "eng"
+},
+{
+"reference_id": 150321,
+"content_id": 220848,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 18:28 (#3)",
 "language": "eng"
 },
 {
@@ -4881,13 +5138,6 @@
 "language": "eng"
 },
 {
-"reference_id": 198460,
-"content_id": 462781,
-"resource_code": "UWTranslationNotes",
-"label": "Ezra 3:12 (#4)",
-"language": "eng"
-},
-{
 "reference_id": 198459,
 "content_id": 462780,
 "resource_code": "UWTranslationNotes",
@@ -4913,6 +5163,13 @@
 "content_id": 462783,
 "resource_code": "UWTranslationNotes",
 "label": "Ezra 3:12 (#6)",
+"language": "eng"
+},
+{
+"reference_id": 198460,
+"content_id": 462781,
+"resource_code": "UWTranslationNotes",
+"label": "Ezra 3:12 (#4)",
 "language": "eng"
 },
 {
@@ -6151,13 +6408,6 @@
 "language": "eng"
 },
 {
-"reference_id": 187138,
-"content_id": 391305,
-"resource_code": "UWTranslationNotes",
-"label": "Galatians 1:1 (#9)",
-"language": "eng"
-},
-{
 "reference_id": 187140,
 "content_id": 391307,
 "resource_code": "UWTranslationNotes",
@@ -6225,6 +6475,13 @@
 "content_id": 391302,
 "resource_code": "UWTranslationNotes",
 "label": "Galatians 1:1 (#6)",
+"language": "eng"
+},
+{
+"reference_id": 187138,
+"content_id": 391305,
+"resource_code": "UWTranslationNotes",
+"label": "Galatians 1:1 (#9)",
 "language": "eng"
 },
 {
@@ -6385,6 +6642,120 @@
 "start_ref_usfm": "JOS 22:27",
 "end_ref": "06022027",
 "end_ref_usfm": "JOS 22:27"
+},
+{
+"start_ref": "04006014",
+"start_ref_usfm": "NUM 6:14",
+"end_ref": "04006014",
+"end_ref_usfm": "NUM 6:14"
+},
+{
+"start_ref": "04006017",
+"start_ref_usfm": "NUM 6:17",
+"end_ref": "04006017",
+"end_ref_usfm": "NUM 6:17"
+},
+{
+"start_ref": "04006018",
+"start_ref_usfm": "NUM 6:18",
+"end_ref": "04006018",
+"end_ref_usfm": "NUM 6:18"
+},
+{
+"start_ref": "04007017",
+"start_ref_usfm": "NUM 7:17",
+"end_ref": "04007017",
+"end_ref_usfm": "NUM 7:17"
+},
+{
+"start_ref": "04007023",
+"start_ref_usfm": "NUM 7:23",
+"end_ref": "04007023",
+"end_ref_usfm": "NUM 7:23"
+},
+{
+"start_ref": "04007029",
+"start_ref_usfm": "NUM 7:29",
+"end_ref": "04007029",
+"end_ref_usfm": "NUM 7:29"
+},
+{
+"start_ref": "04007035",
+"start_ref_usfm": "NUM 7:35",
+"end_ref": "04007035",
+"end_ref_usfm": "NUM 7:35"
+},
+{
+"start_ref": "04007041",
+"start_ref_usfm": "NUM 7:41",
+"end_ref": "04007041",
+"end_ref_usfm": "NUM 7:41"
+},
+{
+"start_ref": "04007047",
+"start_ref_usfm": "NUM 7:47",
+"end_ref": "04007047",
+"end_ref_usfm": "NUM 7:47"
+},
+{
+"start_ref": "04007053",
+"start_ref_usfm": "NUM 7:53",
+"end_ref": "04007053",
+"end_ref_usfm": "NUM 7:53"
+},
+{
+"start_ref": "04007059",
+"start_ref_usfm": "NUM 7:59",
+"end_ref": "04007059",
+"end_ref_usfm": "NUM 7:59"
+},
+{
+"start_ref": "04007065",
+"start_ref_usfm": "NUM 7:65",
+"end_ref": "04007065",
+"end_ref_usfm": "NUM 7:65"
+},
+{
+"start_ref": "04007071",
+"start_ref_usfm": "NUM 7:71",
+"end_ref": "04007071",
+"end_ref_usfm": "NUM 7:71"
+},
+{
+"start_ref": "04007077",
+"start_ref_usfm": "NUM 7:77",
+"end_ref": "04007077",
+"end_ref_usfm": "NUM 7:77"
+},
+{
+"start_ref": "04007083",
+"start_ref_usfm": "NUM 7:83",
+"end_ref": "04007083",
+"end_ref_usfm": "NUM 7:83"
+},
+{
+"start_ref": "04007088",
+"start_ref_usfm": "NUM 7:88",
+"end_ref": "04007088",
+"end_ref_usfm": "NUM 7:88"
+},
+{
+"start_ref": "04010010",
+"start_ref_usfm": "NUM 10:10",
+"end_ref": "04010010",
+"end_ref_usfm": "NUM 10:10"
+},
+{
+"start_ref": "04015008",
+"start_ref_usfm": "NUM 15:8",
+"end_ref": "04015008",
+"end_ref_usfm": "NUM 15:8"
+},
+{
+"start_ref": "04029039",
+"start_ref_usfm": "NUM 29:39",
+"end_ref": "04029039",
+"end_ref_usfm": "NUM 29:39"
 },
 {
 "start_ref": "20007014",
@@ -6731,7 +7102,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6511,
+"confidence": 0.6805,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -7351,6 +7722,12 @@
 "end_ref_usfm": "DEU 29:19"
 },
 {
+"start_ref": "21003008",
+"start_ref_usfm": "ECC 3:8",
+"end_ref": "21003008",
+"end_ref_usfm": "ECC 3:8"
+},
+{
 "start_ref": "49001002",
 "start_ref_usfm": "EPH 1:2",
 "end_ref": "49001002",
@@ -7889,6 +8266,18 @@
 "start_ref_usfm": "NAM 1:15",
 "end_ref": "34001015",
 "end_ref_usfm": "NAM 1:15"
+},
+{
+"start_ref": "04006026",
+"start_ref_usfm": "NUM 6:26",
+"end_ref": "04006026",
+"end_ref_usfm": "NUM 6:26"
+},
+{
+"start_ref": "04025012",
+"start_ref_usfm": "NUM 25:12",
+"end_ref": "04025012",
+"end_ref_usfm": "NUM 25:12"
 },
 {
 "start_ref": "31001007",
@@ -8468,6 +8857,13 @@
 "language": "eng"
 },
 {
+"reference_id": 159295,
+"content_id": 244554,
+"resource_code": "UWTranslationNotes",
+"label": "Colossians 1:18 (#1)",
+"language": "eng"
+},
+{
 "reference_id": 159296,
 "content_id": 244555,
 "resource_code": "UWTranslationNotes",
@@ -8482,24 +8878,10 @@
 "language": "eng"
 },
 {
-"reference_id": 159295,
-"content_id": 244554,
-"resource_code": "UWTranslationNotes",
-"label": "Colossians 1:18 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 159303,
 "content_id": 244562,
 "resource_code": "UWTranslationNotes",
 "label": "Colossians 1:19 (#3)",
-"language": "eng"
-},
-{
-"reference_id": 159301,
-"content_id": 244560,
-"resource_code": "UWTranslationNotes",
-"label": "Colossians 1:19 (#1)",
 "language": "eng"
 },
 {
@@ -8514,6 +8896,13 @@
 "content_id": 244561,
 "resource_code": "UWTranslationNotes",
 "label": "Colossians 1:19 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 159301,
+"content_id": 244560,
+"resource_code": "UWTranslationNotes",
+"label": "Colossians 1:19 (#1)",
 "language": "eng"
 },
 {
@@ -8769,13 +9158,6 @@
 "language": "eng"
 },
 {
-"reference_id": 148620,
-"content_id": 219147,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 10:13 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 148622,
 "content_id": 219149,
 "resource_code": "UWTranslationNotes",
@@ -8794,6 +9176,13 @@
 "content_id": 219148,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 10:13 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 148620,
+"content_id": 219147,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 10:13 (#2)",
 "language": "eng"
 }
 ],
@@ -9033,6 +9422,41 @@
 "content_id": "en_tn_DEU_kjug",
 "resource_code": "UWTranslationNotes",
 "label": "Deuteronomy 16:17 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_xfuf",
+"content_id": "en_tn_NUM_xfuf",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 28:26 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_slw7",
+"content_id": "en_tn_NUM_slw7",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 28:26 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_eszu",
+"content_id": "en_tn_NUM_eszu",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 28:26 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_jgin",
+"content_id": "en_tn_NUM_jgin",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 28:26 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_cmsy",
+"content_id": "en_tn_NUM_cmsy",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 28:26 (#5)",
 "language": "eng"
 }
 ],
@@ -9494,13 +9918,6 @@
 "language": "eng"
 },
 {
-"reference_id": 138204,
-"content_id": 208731,
-"resource_code": "UWTranslationNotes",
-"label": "Acts 10:36 (#5)",
-"language": "eng"
-},
-{
 "reference_id": 138203,
 "content_id": 208730,
 "resource_code": "UWTranslationNotes",
@@ -9526,6 +9943,13 @@
 "content_id": 208729,
 "resource_code": "UWTranslationNotes",
 "label": "Acts 10:36 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 138204,
+"content_id": 208731,
+"resource_code": "UWTranslationNotes",
+"label": "Acts 10:36 (#5)",
 "language": "eng"
 },
 {
@@ -9816,13 +10240,6 @@
 "language": "eng"
 },
 {
-"reference_id": 167680,
-"content_id": 261260,
-"resource_code": "UWTranslationNotes",
-"label": "Revelation 13:7 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 167683,
 "content_id": 261263,
 "resource_code": "UWTranslationNotes",
@@ -9830,17 +10247,17 @@
 "language": "eng"
 },
 {
+"reference_id": 167680,
+"content_id": 261260,
+"resource_code": "UWTranslationNotes",
+"label": "Revelation 13:7 (#1)",
+"language": "eng"
+},
+{
 "reference_id": 167686,
 "content_id": 261266,
 "resource_code": "UWTranslationNotes",
 "label": "Revelation 13:8 (#3)",
-"language": "eng"
-},
-{
-"reference_id": 167684,
-"content_id": 261264,
-"resource_code": "UWTranslationNotes",
-"label": "Revelation 13:8 (#1)",
 "language": "eng"
 },
 {
@@ -9862,6 +10279,13 @@
 "content_id": 261268,
 "resource_code": "UWTranslationNotes",
 "label": "Revelation 13:8 (#5)",
+"language": "eng"
+},
+{
+"reference_id": 167684,
+"content_id": 261264,
+"resource_code": "UWTranslationNotes",
+"label": "Revelation 13:8 (#1)",
 "language": "eng"
 }
 ],
@@ -9931,16 +10355,40 @@
 "end_ref_usfm": "JOS 22:17"
 },
 {
-"start_ref": "19106028",
-"start_ref_usfm": "PSA 106:28",
-"end_ref": "19106028",
-"end_ref_usfm": "PSA 106:28"
-},
-{
 "start_ref": "04023028",
 "start_ref_usfm": "NUM 23:28",
 "end_ref": "04023028",
 "end_ref_usfm": "NUM 23:28"
+},
+{
+"start_ref": "04025003",
+"start_ref_usfm": "NUM 25:3",
+"end_ref": "04025003",
+"end_ref_usfm": "NUM 25:3"
+},
+{
+"start_ref": "04025005",
+"start_ref_usfm": "NUM 25:5",
+"end_ref": "04025005",
+"end_ref_usfm": "NUM 25:5"
+},
+{
+"start_ref": "04025018",
+"start_ref_usfm": "NUM 25:18",
+"end_ref": "04025018",
+"end_ref_usfm": "NUM 25:18"
+},
+{
+"start_ref": "04031016",
+"start_ref_usfm": "NUM 31:16",
+"end_ref": "04031016",
+"end_ref_usfm": "NUM 31:16"
+},
+{
+"start_ref": "19106028",
+"start_ref_usfm": "PSA 106:28",
+"end_ref": "19106028",
+"end_ref_usfm": "PSA 106:28"
 },
 {
 "start_ref": "04023029",
@@ -9953,12 +10401,6 @@
 "start_ref_usfm": "NUM 23:30",
 "end_ref": "04023030",
 "end_ref_usfm": "NUM 23:30"
-},
-{
-"start_ref": "04031016",
-"start_ref_usfm": "NUM 31:16",
-"end_ref": "04031016",
-"end_ref_usfm": "NUM 31:16"
 },
 {
 "start_ref": "04031017",
@@ -10014,6 +10456,55 @@
 "content_id": "27215",
 "resource_code": "UWTranslationWords",
 "label": "worship",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_qdpq",
+"content_id": "en_tn_NUM_qdpq",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 23:28 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_adv1",
+"content_id": "en_tn_NUM_adv1",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 23:28 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_rh43",
+"content_id": "en_tn_NUM_rh43",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 31:16 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_h6ul",
+"content_id": "en_tn_NUM_h6ul",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 31:16 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_vj17",
+"content_id": "en_tn_NUM_vj17",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 31:16 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_dh1p",
+"content_id": "en_tn_NUM_dh1p",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 31:16 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_tsb9",
+"content_id": "en_tn_NUM_tsb9",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 31:17 (#1)",
 "language": "eng"
 },
 {
@@ -10474,6 +10965,108 @@
 "end_ref_usfm": "MAT 19:21"
 },
 {
+"start_ref": "04006014",
+"start_ref_usfm": "NUM 6:14",
+"end_ref": "04006014",
+"end_ref_usfm": "NUM 6:14"
+},
+{
+"start_ref": "04019002",
+"start_ref_usfm": "NUM 19:2",
+"end_ref": "04019002",
+"end_ref_usfm": "NUM 19:2"
+},
+{
+"start_ref": "04028003",
+"start_ref_usfm": "NUM 28:3",
+"end_ref": "04028003",
+"end_ref_usfm": "NUM 28:3"
+},
+{
+"start_ref": "04028009",
+"start_ref_usfm": "NUM 28:9",
+"end_ref": "04028009",
+"end_ref_usfm": "NUM 28:9"
+},
+{
+"start_ref": "04028011",
+"start_ref_usfm": "NUM 28:11",
+"end_ref": "04028011",
+"end_ref_usfm": "NUM 28:11"
+},
+{
+"start_ref": "04028019",
+"start_ref_usfm": "NUM 28:19",
+"end_ref": "04028019",
+"end_ref_usfm": "NUM 28:19"
+},
+{
+"start_ref": "04028031",
+"start_ref_usfm": "NUM 28:31",
+"end_ref": "04028031",
+"end_ref_usfm": "NUM 28:31"
+},
+{
+"start_ref": "04029002",
+"start_ref_usfm": "NUM 29:2",
+"end_ref": "04029002",
+"end_ref_usfm": "NUM 29:2"
+},
+{
+"start_ref": "04029008",
+"start_ref_usfm": "NUM 29:8",
+"end_ref": "04029008",
+"end_ref_usfm": "NUM 29:8"
+},
+{
+"start_ref": "04029013",
+"start_ref_usfm": "NUM 29:13",
+"end_ref": "04029013",
+"end_ref_usfm": "NUM 29:13"
+},
+{
+"start_ref": "04029017",
+"start_ref_usfm": "NUM 29:17",
+"end_ref": "04029017",
+"end_ref_usfm": "NUM 29:17"
+},
+{
+"start_ref": "04029020",
+"start_ref_usfm": "NUM 29:20",
+"end_ref": "04029020",
+"end_ref_usfm": "NUM 29:20"
+},
+{
+"start_ref": "04029023",
+"start_ref_usfm": "NUM 29:23",
+"end_ref": "04029023",
+"end_ref_usfm": "NUM 29:23"
+},
+{
+"start_ref": "04029026",
+"start_ref_usfm": "NUM 29:26",
+"end_ref": "04029026",
+"end_ref_usfm": "NUM 29:26"
+},
+{
+"start_ref": "04029029",
+"start_ref_usfm": "NUM 29:29",
+"end_ref": "04029029",
+"end_ref_usfm": "NUM 29:29"
+},
+{
+"start_ref": "04029032",
+"start_ref_usfm": "NUM 29:32",
+"end_ref": "04029032",
+"end_ref_usfm": "NUM 29:32"
+},
+{
+"start_ref": "04029036",
+"start_ref_usfm": "NUM 29:36",
+"end_ref": "04029036",
+"end_ref_usfm": "NUM 29:36"
+},
+{
 "start_ref": "50003012",
 "start_ref_usfm": "PHP 3:12",
 "end_ref": "50003012",
@@ -10587,13 +11180,6 @@
 "language": "eng"
 },
 {
-"reference_id": 165840,
-"content_id": 259420,
-"resource_code": "UWTranslationNotes",
-"label": "Hebrews 12:2 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 165839,
 "content_id": 259419,
 "resource_code": "UWTranslationNotes",
@@ -10636,13 +11222,6 @@
 "language": "eng"
 },
 {
-"reference_id": 165842,
-"content_id": 259422,
-"resource_code": "UWTranslationNotes",
-"label": "Hebrews 12:2 (#4)",
-"language": "eng"
-},
-{
 "reference_id": 165847,
 "content_id": 259427,
 "resource_code": "UWTranslationNotes",
@@ -10654,6 +11233,20 @@
 "content_id": 259425,
 "resource_code": "UWTranslationNotes",
 "label": "Hebrews 12:2 (#7)",
+"language": "eng"
+},
+{
+"reference_id": 165840,
+"content_id": 259420,
+"resource_code": "UWTranslationNotes",
+"label": "Hebrews 12:2 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 165842,
+"content_id": 259422,
+"resource_code": "UWTranslationNotes",
+"label": "Hebrews 12:2 (#4)",
 "language": "eng"
 },
 {
@@ -10839,7 +11432,15 @@
 "language": "eng"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.5932,
+"match_method": "scored",
+"preferred_label": "Complete"
+}
+]
 }
 },
 {
@@ -11063,6 +11664,18 @@
 "start_ref_usfm": "DEU 30:18",
 "end_ref": "05030018",
 "end_ref_usfm": "DEU 30:18"
+},
+{
+"start_ref": "21007015",
+"start_ref_usfm": "ECC 7:15",
+"end_ref": "21007015",
+"end_ref_usfm": "ECC 7:15"
+},
+{
+"start_ref": "21009006",
+"start_ref_usfm": "ECC 9:6",
+"end_ref": "21009006",
+"end_ref_usfm": "ECC 9:6"
 },
 {
 "start_ref": "17004014",
@@ -11491,6 +12104,30 @@
 "end_ref_usfm": "MRK 9:41"
 },
 {
+"start_ref": "04016033",
+"start_ref_usfm": "NUM 16:33",
+"end_ref": "04016033",
+"end_ref_usfm": "NUM 16:33"
+},
+{
+"start_ref": "04017012",
+"start_ref_usfm": "NUM 17:12",
+"end_ref": "04017012",
+"end_ref_usfm": "NUM 17:12"
+},
+{
+"start_ref": "04021029",
+"start_ref_usfm": "NUM 21:29",
+"end_ref": "04021029",
+"end_ref_usfm": "NUM 21:29"
+},
+{
+"start_ref": "04021030",
+"start_ref_usfm": "NUM 21:30",
+"end_ref": "04021030",
+"end_ref_usfm": "NUM 21:30"
+},
+{
 "start_ref": "31001012",
 "start_ref_usfm": "OBA 1:12",
 "end_ref": "31001012",
@@ -11800,13 +12437,6 @@
 "language": "eng"
 },
 {
-"reference_id": 157938,
-"content_id": 243197,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 2:16 (#8)",
-"language": "eng"
-},
-{
 "reference_id": 157931,
 "content_id": 243190,
 "resource_code": "UWTranslationNotes",
@@ -11835,6 +12465,13 @@
 "language": "eng"
 },
 {
+"reference_id": 157937,
+"content_id": 243196,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 2:16 (#7)",
+"language": "eng"
+},
+{
 "reference_id": 157935,
 "content_id": 243194,
 "resource_code": "UWTranslationNotes",
@@ -11842,10 +12479,10 @@
 "language": "eng"
 },
 {
-"reference_id": 157937,
-"content_id": 243196,
+"reference_id": 157938,
+"content_id": 243197,
 "resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 2:16 (#7)",
+"label": "2 Corinthians 2:16 (#8)",
 "language": "eng"
 },
 {
@@ -11891,24 +12528,10 @@
 "language": "eng"
 },
 {
-"reference_id": 157940,
-"content_id": 243199,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 2:17 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 157942,
 "content_id": 243201,
 "resource_code": "UWTranslationNotes",
 "label": "2 Corinthians 2:17 (#4)",
-"language": "eng"
-},
-{
-"reference_id": 157939,
-"content_id": 243198,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 2:17 (#1)",
 "language": "eng"
 },
 {
@@ -11919,17 +12542,31 @@
 "language": "eng"
 },
 {
-"reference_id": 157944,
-"content_id": 243203,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 2:17 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 157949,
 "content_id": 243208,
 "resource_code": "UWTranslationNotes",
 "label": "2 Corinthians 2:17 (#11)",
+"language": "eng"
+},
+{
+"reference_id": 157939,
+"content_id": 243198,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 2:17 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 157940,
+"content_id": 243199,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 2:17 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 157944,
+"content_id": 243203,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 2:17 (#6)",
 "language": "eng"
 },
 {
@@ -13500,13 +14137,6 @@
 "language": "eng"
 },
 {
-"reference_id": 148667,
-"content_id": 219194,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 10:22 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 148666,
 "content_id": 219193,
 "resource_code": "UWTranslationNotes",
@@ -13518,6 +14148,13 @@
 "content_id": 219192,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 10:22 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 148667,
+"content_id": 219194,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 10:22 (#6)",
 "language": "eng"
 },
 {
@@ -13884,20 +14521,6 @@
 "language": "eng"
 },
 {
-"reference_id": 166779,
-"content_id": 260359,
-"resource_code": "UWTranslationNotes",
-"label": "James 5:11 (#3)",
-"language": "eng"
-},
-{
-"reference_id": 166780,
-"content_id": 260360,
-"resource_code": "UWTranslationNotes",
-"label": "James 5:11 (#4)",
-"language": "eng"
-},
-{
 "reference_id": 166778,
 "content_id": 260358,
 "resource_code": "UWTranslationNotes",
@@ -13909,6 +14532,20 @@
 "content_id": 260357,
 "resource_code": "UWTranslationNotes",
 "label": "James 5:11 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 166780,
+"content_id": 260360,
+"resource_code": "UWTranslationNotes",
+"label": "James 5:11 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 166779,
+"content_id": 260359,
+"resource_code": "UWTranslationNotes",
+"label": "James 5:11 (#3)",
 "language": "eng"
 },
 {
@@ -16457,13 +17094,6 @@
 "language": "eng"
 },
 {
-"reference_id": 149638,
-"content_id": 220165,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 14:30 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 149641,
 "content_id": 220168,
 "resource_code": "UWTranslationNotes",
@@ -16475,6 +17105,13 @@
 "content_id": 220167,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 14:30 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 149638,
+"content_id": 220165,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 14:30 (#2)",
 "language": "eng"
 },
 {
@@ -18900,13 +19537,6 @@
 "language": "eng"
 },
 {
-"reference_id": 147391,
-"content_id": 217918,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 3:7 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 147392,
 "content_id": 217919,
 "resource_code": "UWTranslationNotes",
@@ -18925,6 +19555,13 @@
 "content_id": 217917,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 3:7 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 147391,
+"content_id": 217918,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 3:7 (#2)",
 "language": "eng"
 },
 {
@@ -19504,17 +20141,17 @@
 "language": "eng"
 },
 {
-"reference_id": 137506,
-"content_id": 208033,
-"resource_code": "UWTranslationNotes",
-"label": "Acts 6:6 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 137507,
 "content_id": 208034,
 "resource_code": "UWTranslationNotes",
 "label": "Acts 6:6 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 137506,
+"content_id": 208033,
+"resource_code": "UWTranslationNotes",
+"label": "Acts 6:6 (#1)",
 "language": "eng"
 },
 {
@@ -19609,17 +20246,17 @@
 "language": "eng"
 },
 {
-"reference_id": 137933,
-"content_id": 208460,
-"resource_code": "UWTranslationNotes",
-"label": "Acts 8:36 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 137934,
 "content_id": 208461,
 "resource_code": "UWTranslationNotes",
 "label": "Acts 8:36 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 137933,
+"content_id": 208460,
+"resource_code": "UWTranslationNotes",
+"label": "Acts 8:36 (#2)",
 "language": "eng"
 },
 {
@@ -19862,24 +20499,10 @@
 "language": "eng"
 },
 {
-"reference_id": 160783,
-"content_id": 246042,
-"resource_code": "UWTranslationNotes",
-"label": "1 Thessalonians 2:2 (#7)",
-"language": "eng"
-},
-{
 "reference_id": 160777,
 "content_id": 246036,
 "resource_code": "UWTranslationNotes",
 "label": "1 Thessalonians 2:2 (#1)",
-"language": "eng"
-},
-{
-"reference_id": 160784,
-"content_id": 246043,
-"resource_code": "UWTranslationNotes",
-"label": "1 Thessalonians 2:2 (#8)",
 "language": "eng"
 },
 {
@@ -19890,17 +20513,31 @@
 "language": "eng"
 },
 {
-"reference_id": 160785,
-"content_id": 246044,
-"resource_code": "UWTranslationNotes",
-"label": "1 Thessalonians 2:2 (#9)",
-"language": "eng"
-},
-{
 "reference_id": 160779,
 "content_id": 246038,
 "resource_code": "UWTranslationNotes",
 "label": "1 Thessalonians 2:2 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 160783,
+"content_id": 246042,
+"resource_code": "UWTranslationNotes",
+"label": "1 Thessalonians 2:2 (#7)",
+"language": "eng"
+},
+{
+"reference_id": 160784,
+"content_id": 246043,
+"resource_code": "UWTranslationNotes",
+"label": "1 Thessalonians 2:2 (#8)",
+"language": "eng"
+},
+{
+"reference_id": 160785,
+"content_id": 246044,
+"resource_code": "UWTranslationNotes",
+"label": "1 Thessalonians 2:2 (#9)",
 "language": "eng"
 },
 {
@@ -21875,6 +22512,24 @@
 "end_ref_usfm": "JOS 24:33"
 },
 {
+"start_ref": "04025007",
+"start_ref_usfm": "NUM 25:7",
+"end_ref": "04025007",
+"end_ref_usfm": "NUM 25:7"
+},
+{
+"start_ref": "04025011",
+"start_ref_usfm": "NUM 25:11",
+"end_ref": "04025011",
+"end_ref_usfm": "NUM 25:11"
+},
+{
+"start_ref": "04031006",
+"start_ref_usfm": "NUM 31:6",
+"end_ref": "04031006",
+"end_ref_usfm": "NUM 31:6"
+},
+{
 "start_ref": "19106030",
 "start_ref_usfm": "PSA 106:30",
 "end_ref": "19106030",
@@ -21885,12 +22540,6 @@
 "start_ref_usfm": "NUM 25:6",
 "end_ref": "04025006",
 "end_ref_usfm": "NUM 25:6"
-},
-{
-"start_ref": "04025007",
-"start_ref_usfm": "NUM 25:7",
-"end_ref": "04025007",
-"end_ref_usfm": "NUM 25:7"
 },
 {
 "start_ref": "06022014",
@@ -22024,6 +22673,55 @@
 "content_id": 776701,
 "resource_code": "UWTranslationNotes",
 "label": "Joshua 22:14 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_j6m5",
+"content_id": "en_tn_NUM_j6m5",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 25:6 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_jaoi",
+"content_id": "en_tn_NUM_jaoi",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 25:6 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_u9f5",
+"content_id": "en_tn_NUM_u9f5",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 25:6 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_jpk9",
+"content_id": "en_tn_NUM_jpk9",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 25:6 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_ef42",
+"content_id": "en_tn_NUM_ef42",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 25:6 (#5)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_rhc4",
+"content_id": "en_tn_NUM_rhc4",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 25:7 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_i7tv",
+"content_id": "en_tn_NUM_i7tv",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 25:7 (#2)",
 "language": "eng"
 }
 ],
@@ -22566,13 +23264,6 @@
 "language": "eng"
 },
 {
-"reference_id": 148098,
-"content_id": 218625,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 7:6 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 148095,
 "content_id": 218622,
 "resource_code": "UWTranslationNotes",
@@ -22591,6 +23282,13 @@
 "content_id": 218623,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 7:6 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 148098,
+"content_id": 218625,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 7:6 (#6)",
 "language": "eng"
 },
 {
@@ -24006,6 +24704,84 @@
 "end_ref_usfm": "JOS 22:17"
 },
 {
+"start_ref": "04008019",
+"start_ref_usfm": "NUM 8:19",
+"end_ref": "04008019",
+"end_ref_usfm": "NUM 8:19"
+},
+{
+"start_ref": "04014012",
+"start_ref_usfm": "NUM 14:12",
+"end_ref": "04014012",
+"end_ref_usfm": "NUM 14:12"
+},
+{
+"start_ref": "04014037",
+"start_ref_usfm": "NUM 14:37",
+"end_ref": "04014037",
+"end_ref_usfm": "NUM 14:37"
+},
+{
+"start_ref": "04016046",
+"start_ref_usfm": "NUM 16:46",
+"end_ref": "04016046",
+"end_ref_usfm": "NUM 16:46"
+},
+{
+"start_ref": "04016047",
+"start_ref_usfm": "NUM 16:47",
+"end_ref": "04016047",
+"end_ref_usfm": "NUM 16:47"
+},
+{
+"start_ref": "04016048",
+"start_ref_usfm": "NUM 16:48",
+"end_ref": "04016048",
+"end_ref_usfm": "NUM 16:48"
+},
+{
+"start_ref": "04016049",
+"start_ref_usfm": "NUM 16:49",
+"end_ref": "04016049",
+"end_ref_usfm": "NUM 16:49"
+},
+{
+"start_ref": "04016050",
+"start_ref_usfm": "NUM 16:50",
+"end_ref": "04016050",
+"end_ref_usfm": "NUM 16:50"
+},
+{
+"start_ref": "04025008",
+"start_ref_usfm": "NUM 25:8",
+"end_ref": "04025008",
+"end_ref_usfm": "NUM 25:8"
+},
+{
+"start_ref": "04025009",
+"start_ref_usfm": "NUM 25:9",
+"end_ref": "04025009",
+"end_ref_usfm": "NUM 25:9"
+},
+{
+"start_ref": "04025018",
+"start_ref_usfm": "NUM 25:18",
+"end_ref": "04025018",
+"end_ref_usfm": "NUM 25:18"
+},
+{
+"start_ref": "04026001",
+"start_ref_usfm": "NUM 26:1",
+"end_ref": "04026001",
+"end_ref_usfm": "NUM 26:1"
+},
+{
+"start_ref": "04031016",
+"start_ref_usfm": "NUM 31:16",
+"end_ref": "04031016",
+"end_ref_usfm": "NUM 31:16"
+},
+{
 "start_ref": "19038011",
 "start_ref_usfm": "PSA 38:11",
 "end_ref": "19038011",
@@ -24378,17 +25154,17 @@
 "language": "eng"
 },
 {
-"reference_id": 146366,
-"content_id": 216893,
-"resource_code": "UWTranslationNotes",
-"label": "Luke 21:11 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 146365,
 "content_id": 216892,
 "resource_code": "UWTranslationNotes",
 "label": "Luke 21:11 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 146366,
+"content_id": 216893,
+"resource_code": "UWTranslationNotes",
+"label": "Luke 21:11 (#2)",
 "language": "eng"
 },
 {
@@ -25203,6 +25979,132 @@
 "end_ref_usfm": "NEH 5:11"
 },
 {
+"start_ref": "04011015",
+"start_ref_usfm": "NUM 11:15",
+"end_ref": "04011015",
+"end_ref_usfm": "NUM 11:15"
+},
+{
+"start_ref": "04012006",
+"start_ref_usfm": "NUM 12:6",
+"end_ref": "04012006",
+"end_ref_usfm": "NUM 12:6"
+},
+{
+"start_ref": "04012011",
+"start_ref_usfm": "NUM 12:11",
+"end_ref": "04012011",
+"end_ref_usfm": "NUM 12:11"
+},
+{
+"start_ref": "04012013",
+"start_ref_usfm": "NUM 12:13",
+"end_ref": "04012013",
+"end_ref_usfm": "NUM 12:13"
+},
+{
+"start_ref": "04014017",
+"start_ref_usfm": "NUM 14:17",
+"end_ref": "04014017",
+"end_ref_usfm": "NUM 14:17"
+},
+{
+"start_ref": "04014019",
+"start_ref_usfm": "NUM 14:19",
+"end_ref": "04014019",
+"end_ref_usfm": "NUM 14:19"
+},
+{
+"start_ref": "04015003",
+"start_ref_usfm": "NUM 15:3",
+"end_ref": "04015003",
+"end_ref_usfm": "NUM 15:3"
+},
+{
+"start_ref": "04015007",
+"start_ref_usfm": "NUM 15:7",
+"end_ref": "04015007",
+"end_ref_usfm": "NUM 15:7"
+},
+{
+"start_ref": "04015010",
+"start_ref_usfm": "NUM 15:10",
+"end_ref": "04015010",
+"end_ref_usfm": "NUM 15:10"
+},
+{
+"start_ref": "04015013",
+"start_ref_usfm": "NUM 15:13",
+"end_ref": "04015013",
+"end_ref_usfm": "NUM 15:13"
+},
+{
+"start_ref": "04015014",
+"start_ref_usfm": "NUM 15:14",
+"end_ref": "04015014",
+"end_ref_usfm": "NUM 15:14"
+},
+{
+"start_ref": "04015024",
+"start_ref_usfm": "NUM 15:24",
+"end_ref": "04015024",
+"end_ref_usfm": "NUM 15:24"
+},
+{
+"start_ref": "04016008",
+"start_ref_usfm": "NUM 16:8",
+"end_ref": "04016008",
+"end_ref_usfm": "NUM 16:8"
+},
+{
+"start_ref": "04016026",
+"start_ref_usfm": "NUM 16:26",
+"end_ref": "04016026",
+"end_ref_usfm": "NUM 16:26"
+},
+{
+"start_ref": "04018017",
+"start_ref_usfm": "NUM 18:17",
+"end_ref": "04018017",
+"end_ref_usfm": "NUM 18:17"
+},
+{
+"start_ref": "04020010",
+"start_ref_usfm": "NUM 20:10",
+"end_ref": "04020010",
+"end_ref_usfm": "NUM 20:10"
+},
+{
+"start_ref": "04020017",
+"start_ref_usfm": "NUM 20:17",
+"end_ref": "04020017",
+"end_ref_usfm": "NUM 20:17"
+},
+{
+"start_ref": "04022016",
+"start_ref_usfm": "NUM 22:16",
+"end_ref": "04022016",
+"end_ref_usfm": "NUM 22:16"
+},
+{
+"start_ref": "04022017",
+"start_ref_usfm": "NUM 22:17",
+"end_ref": "04022017",
+"end_ref_usfm": "NUM 22:17"
+},
+{
+"start_ref": "04022019",
+"start_ref_usfm": "NUM 22:19",
+"end_ref": "04022019",
+"end_ref_usfm": "NUM 22:19"
+},
+{
+"start_ref": "04023027",
+"start_ref_usfm": "NUM 23:27",
+"end_ref": "04023027",
+"end_ref_usfm": "NUM 23:27"
+},
+{
 "start_ref": "50004002",
 "start_ref_usfm": "PHP 4:2",
 "end_ref": "50004002",
@@ -25409,13 +26311,6 @@
 ],
 "resource": [
 {
-"reference_id": 158577,
-"content_id": 243836,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 8:3 (#4)",
-"language": "eng"
-},
-{
 "reference_id": 158576,
 "content_id": 243835,
 "resource_code": "UWTranslationNotes",
@@ -25434,6 +26329,13 @@
 "content_id": 243834,
 "resource_code": "UWTranslationNotes",
 "label": "2 Corinthians 8:3 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 158577,
+"content_id": 243836,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 8:3 (#4)",
 "language": "eng"
 },
 {
@@ -25458,13 +26360,6 @@
 "language": "eng"
 },
 {
-"reference_id": 158584,
-"content_id": 243843,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 8:5 (#4)",
-"language": "eng"
-},
-{
 "reference_id": 158582,
 "content_id": 243841,
 "resource_code": "UWTranslationNotes",
@@ -25472,24 +26367,10 @@
 "language": "eng"
 },
 {
-"reference_id": 158586,
-"content_id": 243845,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 8:5 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 158581,
 "content_id": 243840,
 "resource_code": "UWTranslationNotes",
 "label": "2 Corinthians 8:5 (#1)",
-"language": "eng"
-},
-{
-"reference_id": 158583,
-"content_id": 243842,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 8:5 (#3)",
 "language": "eng"
 },
 {
@@ -25504,6 +26385,27 @@
 "content_id": 243844,
 "resource_code": "UWTranslationNotes",
 "label": "2 Corinthians 8:5 (#5)",
+"language": "eng"
+},
+{
+"reference_id": 158586,
+"content_id": 243845,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 8:5 (#6)",
+"language": "eng"
+},
+{
+"reference_id": 158583,
+"content_id": 243842,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 8:5 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 158584,
+"content_id": 243843,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 8:5 (#4)",
 "language": "eng"
 },
 {
@@ -25822,13 +26724,6 @@
 "language": "eng"
 },
 {
-"reference_id": 158244,
-"content_id": 243503,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 5:4 (#3)",
-"language": "eng"
-},
-{
 "reference_id": 158249,
 "content_id": 243508,
 "resource_code": "UWTranslationNotes",
@@ -25885,17 +26780,17 @@
 "language": "eng"
 },
 {
+"reference_id": 158244,
+"content_id": 243503,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 5:4 (#3)",
+"language": "eng"
+},
+{
 "reference_id": 158256,
 "content_id": 243515,
 "resource_code": "UWTranslationNotes",
 "label": "2 Corinthians 5:5 (#5)",
-"language": "eng"
-},
-{
-"reference_id": 158253,
-"content_id": 243512,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 5:5 (#2)",
 "language": "eng"
 },
 {
@@ -25924,6 +26819,13 @@
 "content_id": 243511,
 "resource_code": "UWTranslationNotes",
 "label": "2 Corinthians 5:5 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 158253,
+"content_id": 243512,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 5:5 (#2)",
 "language": "eng"
 },
 {
@@ -26011,13 +26913,6 @@
 "language": "eng"
 },
 {
-"reference_id": 180147,
-"content_id": 273727,
-"resource_code": "UWTranslationNotes",
-"label": "Nehemiah 10:28 (#5)",
-"language": "eng"
-},
-{
 "reference_id": 180146,
 "content_id": 273726,
 "resource_code": "UWTranslationNotes",
@@ -26036,6 +26931,13 @@
 "content_id": 273729,
 "resource_code": "UWTranslationNotes",
 "label": "Nehemiah 10:28 (#7)",
+"language": "eng"
+},
+{
+"reference_id": 180147,
+"content_id": 273727,
+"resource_code": "UWTranslationNotes",
+"label": "Nehemiah 10:28 (#5)",
 "language": "eng"
 },
 {
@@ -26949,6 +27851,60 @@
 "end_ref_usfm": "NEH 4:4"
 },
 {
+"start_ref": "04014003",
+"start_ref_usfm": "NUM 14:3",
+"end_ref": "04014003",
+"end_ref_usfm": "NUM 14:3"
+},
+{
+"start_ref": "04014031",
+"start_ref_usfm": "NUM 14:31",
+"end_ref": "04014031",
+"end_ref_usfm": "NUM 14:31"
+},
+{
+"start_ref": "04031009",
+"start_ref_usfm": "NUM 31:9",
+"end_ref": "04031009",
+"end_ref_usfm": "NUM 31:9"
+},
+{
+"start_ref": "04031011",
+"start_ref_usfm": "NUM 31:11",
+"end_ref": "04031011",
+"end_ref_usfm": "NUM 31:11"
+},
+{
+"start_ref": "04031012",
+"start_ref_usfm": "NUM 31:12",
+"end_ref": "04031012",
+"end_ref_usfm": "NUM 31:12"
+},
+{
+"start_ref": "04031026",
+"start_ref_usfm": "NUM 31:26",
+"end_ref": "04031026",
+"end_ref_usfm": "NUM 31:26"
+},
+{
+"start_ref": "04031027",
+"start_ref_usfm": "NUM 31:27",
+"end_ref": "04031027",
+"end_ref_usfm": "NUM 31:27"
+},
+{
+"start_ref": "04031032",
+"start_ref_usfm": "NUM 31:32",
+"end_ref": "04031032",
+"end_ref_usfm": "NUM 31:32"
+},
+{
+"start_ref": "04031053",
+"start_ref_usfm": "NUM 31:53",
+"end_ref": "04031053",
+"end_ref_usfm": "NUM 31:53"
+},
+{
 "start_ref": "20001013",
 "start_ref_usfm": "PRO 1:13",
 "end_ref": "20001013",
@@ -27122,6 +28078,18 @@
 "end_ref_usfm": "JOL 1:12"
 },
 {
+"start_ref": "04013023",
+"start_ref_usfm": "NUM 13:23",
+"end_ref": "04013023",
+"end_ref_usfm": "NUM 13:23"
+},
+{
+"start_ref": "04020005",
+"start_ref_usfm": "NUM 20:5",
+"end_ref": "04020005",
+"end_ref_usfm": "NUM 20:5"
+},
+{
 "start_ref": "22004003",
 "start_ref_usfm": "SNG 4:3",
 "end_ref": "22004003",
@@ -27158,22 +28126,10 @@
 "end_ref_usfm": "SNG 8:2"
 },
 {
-"start_ref": "04013023",
-"start_ref_usfm": "NUM 13:23",
-"end_ref": "04013023",
-"end_ref_usfm": "NUM 13:23"
-},
-{
 "start_ref": "04013024",
 "start_ref_usfm": "NUM 13:24",
 "end_ref": "04013024",
 "end_ref_usfm": "NUM 13:24"
-},
-{
-"start_ref": "04020005",
-"start_ref_usfm": "NUM 20:5",
-"end_ref": "04020005",
-"end_ref_usfm": "NUM 20:5"
 },
 {
 "start_ref": "05008007",
@@ -27284,6 +28240,76 @@
 "resource_code": "UWTranslationNotes",
 "label": "Deuteronomy 8:8 (#1)",
 "language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_mv0x",
+"content_id": "en_tn_NUM_mv0x",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:23 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_tzet",
+"content_id": "en_tn_NUM_tzet",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:23 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_wrbn",
+"content_id": "en_tn_NUM_wrbn",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:23 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_tab4",
+"content_id": "en_tn_NUM_tab4",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:23 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_vroj",
+"content_id": "en_tn_NUM_vroj",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:23 (#5)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_m1za",
+"content_id": "en_tn_NUM_m1za",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:23 (#6)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_i8j8",
+"content_id": "en_tn_NUM_i8j8",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:24 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_a84m",
+"content_id": "en_tn_NUM_a84m",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 13:24 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_opwj",
+"content_id": "en_tn_NUM_opwj",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 20:5 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_fkgv",
+"content_id": "en_tn_NUM_fkgv",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 20:5 (#2)",
+"language": "eng"
 }
 ],
 "acai": [
@@ -27371,13 +28397,6 @@
 "language": "eng"
 },
 {
-"reference_id": 163406,
-"content_id": 256986,
-"resource_code": "UWTranslationNotes",
-"label": "1 Peter 1:1 (#5)",
-"language": "eng"
-},
-{
 "reference_id": 163402,
 "content_id": 256982,
 "resource_code": "UWTranslationNotes",
@@ -27406,6 +28425,13 @@
 "language": "eng"
 },
 {
+"reference_id": 163406,
+"content_id": 256986,
+"resource_code": "UWTranslationNotes",
+"label": "1 Peter 1:1 (#5)",
+"language": "eng"
+},
+{
 "reference_id": 163421,
 "content_id": 257001,
 "resource_code": "UWTranslationNotes",
@@ -27413,24 +28439,10 @@
 "language": "eng"
 },
 {
-"reference_id": 163410,
-"content_id": 256990,
-"resource_code": "UWTranslationNotes",
-"label": "1 Peter 1:2 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 163416,
 "content_id": 256996,
 "resource_code": "UWTranslationNotes",
 "label": "1 Peter 1:2 (#8)",
-"language": "eng"
-},
-{
-"reference_id": 163414,
-"content_id": 256994,
-"resource_code": "UWTranslationNotes",
-"label": "1 Peter 1:2 (#6)",
 "language": "eng"
 },
 {
@@ -27501,6 +28513,20 @@
 "content_id": 257000,
 "resource_code": "UWTranslationNotes",
 "label": "1 Peter 1:2 (#12)",
+"language": "eng"
+},
+{
+"reference_id": 163410,
+"content_id": 256990,
+"resource_code": "UWTranslationNotes",
+"label": "1 Peter 1:2 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 163414,
+"content_id": 256994,
+"resource_code": "UWTranslationNotes",
+"label": "1 Peter 1:2 (#6)",
 "language": "eng"
 },
 {
@@ -28081,6 +29107,12 @@
 "start_ref_usfm": "DEU 33:23",
 "end_ref": "05033023",
 "end_ref_usfm": "DEU 33:23"
+},
+{
+"start_ref": "21006002",
+"start_ref_usfm": "ECC 6:2",
+"end_ref": "21006002",
+"end_ref_usfm": "ECC 6:2"
 },
 {
 "start_ref": "49001014",
@@ -28707,6 +29739,132 @@
 "end_ref_usfm": "NEH 9:25"
 },
 {
+"start_ref": "04014012",
+"start_ref_usfm": "NUM 14:12",
+"end_ref": "04014012",
+"end_ref_usfm": "NUM 14:12"
+},
+{
+"start_ref": "04014024",
+"start_ref_usfm": "NUM 14:24",
+"end_ref": "04014024",
+"end_ref_usfm": "NUM 14:24"
+},
+{
+"start_ref": "04021024",
+"start_ref_usfm": "NUM 21:24",
+"end_ref": "04021024",
+"end_ref_usfm": "NUM 21:24"
+},
+{
+"start_ref": "04021032",
+"start_ref_usfm": "NUM 21:32",
+"end_ref": "04021032",
+"end_ref_usfm": "NUM 21:32"
+},
+{
+"start_ref": "04024018",
+"start_ref_usfm": "NUM 24:18",
+"end_ref": "04024018",
+"end_ref_usfm": "NUM 24:18"
+},
+{
+"start_ref": "04027004",
+"start_ref_usfm": "NUM 27:4",
+"end_ref": "04027004",
+"end_ref_usfm": "NUM 27:4"
+},
+{
+"start_ref": "04027007",
+"start_ref_usfm": "NUM 27:7",
+"end_ref": "04027007",
+"end_ref_usfm": "NUM 27:7"
+},
+{
+"start_ref": "04032005",
+"start_ref_usfm": "NUM 32:5",
+"end_ref": "04032005",
+"end_ref_usfm": "NUM 32:5"
+},
+{
+"start_ref": "04032021",
+"start_ref_usfm": "NUM 32:21",
+"end_ref": "04032021",
+"end_ref_usfm": "NUM 32:21"
+},
+{
+"start_ref": "04032022",
+"start_ref_usfm": "NUM 32:22",
+"end_ref": "04032022",
+"end_ref_usfm": "NUM 32:22"
+},
+{
+"start_ref": "04032029",
+"start_ref_usfm": "NUM 32:29",
+"end_ref": "04032029",
+"end_ref_usfm": "NUM 32:29"
+},
+{
+"start_ref": "04032030",
+"start_ref_usfm": "NUM 32:30",
+"end_ref": "04032030",
+"end_ref_usfm": "NUM 32:30"
+},
+{
+"start_ref": "04032032",
+"start_ref_usfm": "NUM 32:32",
+"end_ref": "04032032",
+"end_ref_usfm": "NUM 32:32"
+},
+{
+"start_ref": "04032039",
+"start_ref_usfm": "NUM 32:39",
+"end_ref": "04032039",
+"end_ref_usfm": "NUM 32:39"
+},
+{
+"start_ref": "04033052",
+"start_ref_usfm": "NUM 33:52",
+"end_ref": "04033052",
+"end_ref_usfm": "NUM 33:52"
+},
+{
+"start_ref": "04033053",
+"start_ref_usfm": "NUM 33:53",
+"end_ref": "04033053",
+"end_ref_usfm": "NUM 33:53"
+},
+{
+"start_ref": "04033055",
+"start_ref_usfm": "NUM 33:55",
+"end_ref": "04033055",
+"end_ref_usfm": "NUM 33:55"
+},
+{
+"start_ref": "04035002",
+"start_ref_usfm": "NUM 35:2",
+"end_ref": "04035002",
+"end_ref_usfm": "NUM 35:2"
+},
+{
+"start_ref": "04035008",
+"start_ref_usfm": "NUM 35:8",
+"end_ref": "04035008",
+"end_ref_usfm": "NUM 35:8"
+},
+{
+"start_ref": "04035028",
+"start_ref_usfm": "NUM 35:28",
+"end_ref": "04035028",
+"end_ref_usfm": "NUM 35:28"
+},
+{
+"start_ref": "04036008",
+"start_ref_usfm": "NUM 36:8",
+"end_ref": "04036008",
+"end_ref_usfm": "NUM 36:8"
+},
+{
 "start_ref": "31001017",
 "start_ref_usfm": "OBA 1:17",
 "end_ref": "31001017",
@@ -29091,17 +30249,17 @@
 "language": "eng"
 },
 {
-"reference_id": 149446,
-"content_id": 219973,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 13:44 (#5)",
-"language": "eng"
-},
-{
 "reference_id": 149442,
 "content_id": 219969,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 13:44 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 149446,
+"content_id": 219973,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 13:44 (#5)",
 "language": "eng"
 }
 ],
@@ -29109,7 +30267,7 @@
 {
 "id": "keyterm:Dispossess",
 "type": "keyterm",
-"confidence": 0.5889,
+"confidence": 0.5822,
 "match_method": "scored",
 "preferred_label": "Dispossess"
 }
@@ -29449,6 +30607,24 @@
 "start_ref_usfm": "DEU 26:19",
 "end_ref": "05026019",
 "end_ref_usfm": "DEU 26:19"
+},
+{
+"start_ref": "21004002",
+"start_ref_usfm": "ECC 4:2",
+"end_ref": "21004002",
+"end_ref_usfm": "ECC 4:2"
+},
+{
+"start_ref": "21008010",
+"start_ref_usfm": "ECC 8:10",
+"end_ref": "21008010",
+"end_ref_usfm": "ECC 8:10"
+},
+{
+"start_ref": "21008015",
+"start_ref_usfm": "ECC 8:15",
+"end_ref": "21008015",
+"end_ref_usfm": "ECC 8:15"
 },
 {
 "start_ref": "49001006",
@@ -30482,13 +31658,6 @@
 "language": "eng"
 },
 {
-"reference_id": 157718,
-"content_id": 242977,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 1:3 (#3)",
-"language": "eng"
-},
-{
 "reference_id": 157720,
 "content_id": 242979,
 "resource_code": "UWTranslationNotes",
@@ -30496,17 +31665,24 @@
 "language": "eng"
 },
 {
-"reference_id": 157721,
-"content_id": 242980,
-"resource_code": "UWTranslationNotes",
-"label": "2 Corinthians 1:3 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 157716,
 "content_id": 242975,
 "resource_code": "UWTranslationNotes",
 "label": "2 Corinthians 1:3 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 157718,
+"content_id": 242977,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 1:3 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 157721,
+"content_id": 242980,
+"resource_code": "UWTranslationNotes",
+"label": "2 Corinthians 1:3 (#6)",
 "language": "eng"
 },
 {
@@ -30594,17 +31770,17 @@
 "language": "eng"
 },
 {
-"reference_id": 159807,
-"content_id": 245066,
-"resource_code": "UWTranslationNotes",
-"label": "Ephesians 1:3 (#7)",
-"language": "eng"
-},
-{
 "reference_id": 159803,
 "content_id": 245062,
 "resource_code": "UWTranslationNotes",
 "label": "Ephesians 1:3 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 159807,
+"content_id": 245066,
+"resource_code": "UWTranslationNotes",
+"label": "Ephesians 1:3 (#7)",
 "language": "eng"
 },
 {
@@ -31049,13 +32225,6 @@
 "language": "eng"
 },
 {
-"reference_id": 148932,
-"content_id": 219459,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 11:27 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 148935,
 "content_id": 219462,
 "resource_code": "UWTranslationNotes",
@@ -31074,6 +32243,13 @@
 "content_id": 219463,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 11:27 (#6)",
+"language": "eng"
+},
+{
+"reference_id": 148932,
+"content_id": 219459,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 11:27 (#2)",
 "language": "eng"
 },
 {
@@ -32354,6 +33530,18 @@
 "end_ref_usfm": "NEH 11:17"
 },
 {
+"start_ref": "04011002",
+"start_ref_usfm": "NUM 11:2",
+"end_ref": "04011002",
+"end_ref_usfm": "NUM 11:2"
+},
+{
+"start_ref": "04021007",
+"start_ref_usfm": "NUM 21:7",
+"end_ref": "04021007",
+"end_ref_usfm": "NUM 21:7"
+},
+{
 "start_ref": "57001004",
 "start_ref_usfm": "PHM 1:4",
 "end_ref": "57001004",
@@ -32886,17 +34074,17 @@
 "language": "eng"
 },
 {
-"reference_id": 159707,
-"content_id": 244966,
-"resource_code": "UWTranslationNotes",
-"label": "Colossians 4:4 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 159708,
 "content_id": 244967,
 "resource_code": "UWTranslationNotes",
 "label": "Colossians 4:4 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 159707,
+"content_id": 244966,
+"resource_code": "UWTranslationNotes",
+"label": "Colossians 4:4 (#1)",
 "language": "eng"
 },
 {
@@ -33100,7 +34288,7 @@
 {
 "id": "keyterm:Pray",
 "type": "keyterm",
-"confidence": 0.587,
+"confidence": 0.5854,
 "match_method": "scored",
 "preferred_label": "Pray"
 }
@@ -33820,24 +35008,10 @@
 "language": "eng"
 },
 {
-"reference_id": 162391,
-"content_id": 247650,
-"resource_code": "UWTranslationNotes",
-"label": "2 Timothy 4:2 (#2)",
-"language": "eng"
-},
-{
 "reference_id": 162390,
 "content_id": 247649,
 "resource_code": "UWTranslationNotes",
 "label": "2 Timothy 4:2 (#1)",
-"language": "eng"
-},
-{
-"reference_id": 162393,
-"content_id": 247652,
-"resource_code": "UWTranslationNotes",
-"label": "2 Timothy 4:2 (#4)",
 "language": "eng"
 },
 {
@@ -33852,6 +35026,20 @@
 "content_id": 247651,
 "resource_code": "UWTranslationNotes",
 "label": "2 Timothy 4:2 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 162393,
+"content_id": 247652,
+"resource_code": "UWTranslationNotes",
+"label": "2 Timothy 4:2 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 162391,
+"content_id": 247650,
+"resource_code": "UWTranslationNotes",
+"label": "2 Timothy 4:2 (#2)",
 "language": "eng"
 },
 {
@@ -33918,17 +35106,10 @@
 "language": "eng"
 },
 {
-"reference_id": 138227,
-"content_id": 208754,
+"reference_id": "en_tn_ACT_zne5",
+"content_id": "en_tn_ACT_zne5",
 "resource_code": "UWTranslationNotes",
 "label": "Acts 10:42 (#2)",
-"language": "eng"
-},
-{
-"reference_id": 138231,
-"content_id": 208758,
-"resource_code": "UWTranslationNotes",
-"label": "Acts 10:43 (#2)",
 "language": "eng"
 },
 {
@@ -33936,6 +35117,13 @@
 "content_id": 208757,
 "resource_code": "UWTranslationNotes",
 "label": "Acts 10:43 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 138231,
+"content_id": 208758,
+"resource_code": "UWTranslationNotes",
+"label": "Acts 10:43 (#2)",
 "language": "eng"
 },
 {
@@ -34205,13 +35393,6 @@
 "language": "eng"
 },
 {
-"reference_id": 149150,
-"content_id": 219677,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 12:41 (#3)",
-"language": "eng"
-},
-{
 "reference_id": 149149,
 "content_id": 219676,
 "resource_code": "UWTranslationNotes",
@@ -34230,6 +35411,13 @@
 "content_id": 219681,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 12:41 (#7)",
+"language": "eng"
+},
+{
+"reference_id": 149150,
+"content_id": 219677,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 12:41 (#3)",
 "language": "eng"
 },
 {
@@ -34450,13 +35638,6 @@
 "language": "eng"
 },
 {
-"reference_id": 190586,
-"content_id": 667253,
-"resource_code": "UWTranslationNotes",
-"label": "Jonah 3:3 (#5)",
-"language": "eng"
-},
-{
 "reference_id": 190584,
 "content_id": 667251,
 "resource_code": "UWTranslationNotes",
@@ -34482,6 +35663,13 @@
 "content_id": 667249,
 "resource_code": "UWTranslationNotes",
 "label": "Jonah 3:3 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 190586,
+"content_id": 667253,
+"resource_code": "UWTranslationNotes",
+"label": "Jonah 3:3 (#5)",
 "language": "eng"
 },
 {
@@ -34548,13 +35736,6 @@
 "language": "eng"
 },
 {
-"reference_id": 115796,
-"content_id": 141008,
-"resource_code": "UWTranslationNotes",
-"label": "Mark 1:14 (#5)",
-"language": "eng"
-},
-{
 "reference_id": 115795,
 "content_id": 141007,
 "resource_code": "UWTranslationNotes",
@@ -34566,6 +35747,13 @@
 "content_id": 141004,
 "resource_code": "UWTranslationNotes",
 "label": "Mark 1:14 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 115796,
+"content_id": 141008,
+"resource_code": "UWTranslationNotes",
+"label": "Mark 1:14 (#5)",
 "language": "eng"
 },
 {
@@ -34604,20 +35792,6 @@
 "language": "eng"
 },
 {
-"reference_id": 148696,
-"content_id": 219223,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 10:26 (#6)",
-"language": "eng"
-},
-{
-"reference_id": 148693,
-"content_id": 219220,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 10:26 (#3)",
-"language": "eng"
-},
-{
 "reference_id": 148692,
 "content_id": 219219,
 "resource_code": "UWTranslationNotes",
@@ -34643,6 +35817,20 @@
 "content_id": 219218,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 10:26 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 148693,
+"content_id": 219220,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 10:26 (#3)",
+"language": "eng"
+},
+{
+"reference_id": 148696,
+"content_id": 219223,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 10:26 (#6)",
 "language": "eng"
 }
 ],
@@ -34713,13 +35901,6 @@
 "language": "eng"
 },
 {
-"reference_id": 155414,
-"content_id": 240673,
-"resource_code": "UWTranslationNotes",
-"label": "1 Corinthians 2:6 (#8)",
-"language": "eng"
-},
-{
 "reference_id": 155415,
 "content_id": 240674,
 "resource_code": "UWTranslationNotes",
@@ -34773,6 +35954,13 @@
 "content_id": 240671,
 "resource_code": "UWTranslationNotes",
 "label": "1 Corinthians 2:6 (#6)",
+"language": "eng"
+},
+{
+"reference_id": 155414,
+"content_id": 240673,
+"resource_code": "UWTranslationNotes",
+"label": "1 Corinthians 2:6 (#8)",
 "language": "eng"
 },
 {
@@ -34906,6 +36094,12 @@
 "start_ref_usfm": "NAM 3:1",
 "end_ref": "34003001",
 "end_ref_usfm": "NAM 3:1"
+},
+{
+"start_ref": "04023024",
+"start_ref_usfm": "NUM 23:24",
+"end_ref": "04023024",
+"end_ref_usfm": "NUM 23:24"
 },
 {
 "start_ref": "19076004",
@@ -37851,6 +39045,420 @@
 "end_ref_usfm": "NEH 13:30"
 },
 {
+"start_ref": "04003003",
+"start_ref_usfm": "NUM 3:3",
+"end_ref": "04003003",
+"end_ref_usfm": "NUM 3:3"
+},
+{
+"start_ref": "04003004",
+"start_ref_usfm": "NUM 3:4",
+"end_ref": "04003004",
+"end_ref_usfm": "NUM 3:4"
+},
+{
+"start_ref": "04003006",
+"start_ref_usfm": "NUM 3:6",
+"end_ref": "04003006",
+"end_ref_usfm": "NUM 3:6"
+},
+{
+"start_ref": "04003010",
+"start_ref_usfm": "NUM 3:10",
+"end_ref": "04003010",
+"end_ref_usfm": "NUM 3:10"
+},
+{
+"start_ref": "04003032",
+"start_ref_usfm": "NUM 3:32",
+"end_ref": "04003032",
+"end_ref_usfm": "NUM 3:32"
+},
+{
+"start_ref": "04004016",
+"start_ref_usfm": "NUM 4:16",
+"end_ref": "04004016",
+"end_ref_usfm": "NUM 4:16"
+},
+{
+"start_ref": "04004028",
+"start_ref_usfm": "NUM 4:28",
+"end_ref": "04004028",
+"end_ref_usfm": "NUM 4:28"
+},
+{
+"start_ref": "04004033",
+"start_ref_usfm": "NUM 4:33",
+"end_ref": "04004033",
+"end_ref_usfm": "NUM 4:33"
+},
+{
+"start_ref": "04005008",
+"start_ref_usfm": "NUM 5:8",
+"end_ref": "04005008",
+"end_ref_usfm": "NUM 5:8"
+},
+{
+"start_ref": "04005009",
+"start_ref_usfm": "NUM 5:9",
+"end_ref": "04005009",
+"end_ref_usfm": "NUM 5:9"
+},
+{
+"start_ref": "04005010",
+"start_ref_usfm": "NUM 5:10",
+"end_ref": "04005010",
+"end_ref_usfm": "NUM 5:10"
+},
+{
+"start_ref": "04005015",
+"start_ref_usfm": "NUM 5:15",
+"end_ref": "04005015",
+"end_ref_usfm": "NUM 5:15"
+},
+{
+"start_ref": "04005016",
+"start_ref_usfm": "NUM 5:16",
+"end_ref": "04005016",
+"end_ref_usfm": "NUM 5:16"
+},
+{
+"start_ref": "04005017",
+"start_ref_usfm": "NUM 5:17",
+"end_ref": "04005017",
+"end_ref_usfm": "NUM 5:17"
+},
+{
+"start_ref": "04005018",
+"start_ref_usfm": "NUM 5:18",
+"end_ref": "04005018",
+"end_ref_usfm": "NUM 5:18"
+},
+{
+"start_ref": "04005019",
+"start_ref_usfm": "NUM 5:19",
+"end_ref": "04005019",
+"end_ref_usfm": "NUM 5:19"
+},
+{
+"start_ref": "04005021",
+"start_ref_usfm": "NUM 5:21",
+"end_ref": "04005021",
+"end_ref_usfm": "NUM 5:21"
+},
+{
+"start_ref": "04005023",
+"start_ref_usfm": "NUM 5:23",
+"end_ref": "04005023",
+"end_ref_usfm": "NUM 5:23"
+},
+{
+"start_ref": "04005025",
+"start_ref_usfm": "NUM 5:25",
+"end_ref": "04005025",
+"end_ref_usfm": "NUM 5:25"
+},
+{
+"start_ref": "04005026",
+"start_ref_usfm": "NUM 5:26",
+"end_ref": "04005026",
+"end_ref_usfm": "NUM 5:26"
+},
+{
+"start_ref": "04005030",
+"start_ref_usfm": "NUM 5:30",
+"end_ref": "04005030",
+"end_ref_usfm": "NUM 5:30"
+},
+{
+"start_ref": "04006010",
+"start_ref_usfm": "NUM 6:10",
+"end_ref": "04006010",
+"end_ref_usfm": "NUM 6:10"
+},
+{
+"start_ref": "04006011",
+"start_ref_usfm": "NUM 6:11",
+"end_ref": "04006011",
+"end_ref_usfm": "NUM 6:11"
+},
+{
+"start_ref": "04006016",
+"start_ref_usfm": "NUM 6:16",
+"end_ref": "04006016",
+"end_ref_usfm": "NUM 6:16"
+},
+{
+"start_ref": "04006017",
+"start_ref_usfm": "NUM 6:17",
+"end_ref": "04006017",
+"end_ref_usfm": "NUM 6:17"
+},
+{
+"start_ref": "04006019",
+"start_ref_usfm": "NUM 6:19",
+"end_ref": "04006019",
+"end_ref_usfm": "NUM 6:19"
+},
+{
+"start_ref": "04006020",
+"start_ref_usfm": "NUM 6:20",
+"end_ref": "04006020",
+"end_ref_usfm": "NUM 6:20"
+},
+{
+"start_ref": "04007008",
+"start_ref_usfm": "NUM 7:8",
+"end_ref": "04007008",
+"end_ref_usfm": "NUM 7:8"
+},
+{
+"start_ref": "04010008",
+"start_ref_usfm": "NUM 10:8",
+"end_ref": "04010008",
+"end_ref_usfm": "NUM 10:8"
+},
+{
+"start_ref": "04015025",
+"start_ref_usfm": "NUM 15:25",
+"end_ref": "04015025",
+"end_ref_usfm": "NUM 15:25"
+},
+{
+"start_ref": "04015028",
+"start_ref_usfm": "NUM 15:28",
+"end_ref": "04015028",
+"end_ref_usfm": "NUM 15:28"
+},
+{
+"start_ref": "04016010",
+"start_ref_usfm": "NUM 16:10",
+"end_ref": "04016010",
+"end_ref_usfm": "NUM 16:10"
+},
+{
+"start_ref": "04016037",
+"start_ref_usfm": "NUM 16:37",
+"end_ref": "04016037",
+"end_ref_usfm": "NUM 16:37"
+},
+{
+"start_ref": "04016039",
+"start_ref_usfm": "NUM 16:39",
+"end_ref": "04016039",
+"end_ref_usfm": "NUM 16:39"
+},
+{
+"start_ref": "04018001",
+"start_ref_usfm": "NUM 18:1",
+"end_ref": "04018001",
+"end_ref_usfm": "NUM 18:1"
+},
+{
+"start_ref": "04018007",
+"start_ref_usfm": "NUM 18:7",
+"end_ref": "04018007",
+"end_ref_usfm": "NUM 18:7"
+},
+{
+"start_ref": "04018028",
+"start_ref_usfm": "NUM 18:28",
+"end_ref": "04018028",
+"end_ref_usfm": "NUM 18:28"
+},
+{
+"start_ref": "04019003",
+"start_ref_usfm": "NUM 19:3",
+"end_ref": "04019003",
+"end_ref_usfm": "NUM 19:3"
+},
+{
+"start_ref": "04019004",
+"start_ref_usfm": "NUM 19:4",
+"end_ref": "04019004",
+"end_ref_usfm": "NUM 19:4"
+},
+{
+"start_ref": "04019006",
+"start_ref_usfm": "NUM 19:6",
+"end_ref": "04019006",
+"end_ref_usfm": "NUM 19:6"
+},
+{
+"start_ref": "04019007",
+"start_ref_usfm": "NUM 19:7",
+"end_ref": "04019007",
+"end_ref_usfm": "NUM 19:7"
+},
+{
+"start_ref": "04025007",
+"start_ref_usfm": "NUM 25:7",
+"end_ref": "04025007",
+"end_ref_usfm": "NUM 25:7"
+},
+{
+"start_ref": "04025011",
+"start_ref_usfm": "NUM 25:11",
+"end_ref": "04025011",
+"end_ref_usfm": "NUM 25:11"
+},
+{
+"start_ref": "04025013",
+"start_ref_usfm": "NUM 25:13",
+"end_ref": "04025013",
+"end_ref_usfm": "NUM 25:13"
+},
+{
+"start_ref": "04026001",
+"start_ref_usfm": "NUM 26:1",
+"end_ref": "04026001",
+"end_ref_usfm": "NUM 26:1"
+},
+{
+"start_ref": "04026003",
+"start_ref_usfm": "NUM 26:3",
+"end_ref": "04026003",
+"end_ref_usfm": "NUM 26:3"
+},
+{
+"start_ref": "04026063",
+"start_ref_usfm": "NUM 26:63",
+"end_ref": "04026063",
+"end_ref_usfm": "NUM 26:63"
+},
+{
+"start_ref": "04026064",
+"start_ref_usfm": "NUM 26:64",
+"end_ref": "04026064",
+"end_ref_usfm": "NUM 26:64"
+},
+{
+"start_ref": "04027002",
+"start_ref_usfm": "NUM 27:2",
+"end_ref": "04027002",
+"end_ref_usfm": "NUM 27:2"
+},
+{
+"start_ref": "04027019",
+"start_ref_usfm": "NUM 27:19",
+"end_ref": "04027019",
+"end_ref_usfm": "NUM 27:19"
+},
+{
+"start_ref": "04027021",
+"start_ref_usfm": "NUM 27:21",
+"end_ref": "04027021",
+"end_ref_usfm": "NUM 27:21"
+},
+{
+"start_ref": "04027022",
+"start_ref_usfm": "NUM 27:22",
+"end_ref": "04027022",
+"end_ref_usfm": "NUM 27:22"
+},
+{
+"start_ref": "04031006",
+"start_ref_usfm": "NUM 31:6",
+"end_ref": "04031006",
+"end_ref_usfm": "NUM 31:6"
+},
+{
+"start_ref": "04031012",
+"start_ref_usfm": "NUM 31:12",
+"end_ref": "04031012",
+"end_ref_usfm": "NUM 31:12"
+},
+{
+"start_ref": "04031013",
+"start_ref_usfm": "NUM 31:13",
+"end_ref": "04031013",
+"end_ref_usfm": "NUM 31:13"
+},
+{
+"start_ref": "04031021",
+"start_ref_usfm": "NUM 31:21",
+"end_ref": "04031021",
+"end_ref_usfm": "NUM 31:21"
+},
+{
+"start_ref": "04031026",
+"start_ref_usfm": "NUM 31:26",
+"end_ref": "04031026",
+"end_ref_usfm": "NUM 31:26"
+},
+{
+"start_ref": "04031029",
+"start_ref_usfm": "NUM 31:29",
+"end_ref": "04031029",
+"end_ref_usfm": "NUM 31:29"
+},
+{
+"start_ref": "04031031",
+"start_ref_usfm": "NUM 31:31",
+"end_ref": "04031031",
+"end_ref_usfm": "NUM 31:31"
+},
+{
+"start_ref": "04031041",
+"start_ref_usfm": "NUM 31:41",
+"end_ref": "04031041",
+"end_ref_usfm": "NUM 31:41"
+},
+{
+"start_ref": "04031051",
+"start_ref_usfm": "NUM 31:51",
+"end_ref": "04031051",
+"end_ref_usfm": "NUM 31:51"
+},
+{
+"start_ref": "04031054",
+"start_ref_usfm": "NUM 31:54",
+"end_ref": "04031054",
+"end_ref_usfm": "NUM 31:54"
+},
+{
+"start_ref": "04032002",
+"start_ref_usfm": "NUM 32:2",
+"end_ref": "04032002",
+"end_ref_usfm": "NUM 32:2"
+},
+{
+"start_ref": "04032028",
+"start_ref_usfm": "NUM 32:28",
+"end_ref": "04032028",
+"end_ref_usfm": "NUM 32:28"
+},
+{
+"start_ref": "04033038",
+"start_ref_usfm": "NUM 33:38",
+"end_ref": "04033038",
+"end_ref_usfm": "NUM 33:38"
+},
+{
+"start_ref": "04034017",
+"start_ref_usfm": "NUM 34:17",
+"end_ref": "04034017",
+"end_ref_usfm": "NUM 34:17"
+},
+{
+"start_ref": "04035025",
+"start_ref_usfm": "NUM 35:25",
+"end_ref": "04035025",
+"end_ref_usfm": "NUM 35:25"
+},
+{
+"start_ref": "04035028",
+"start_ref_usfm": "NUM 35:28",
+"end_ref": "04035028",
+"end_ref_usfm": "NUM 35:28"
+},
+{
+"start_ref": "04035032",
+"start_ref_usfm": "NUM 35:32",
+"end_ref": "04035032",
+"end_ref_usfm": "NUM 35:32"
+},
+{
 "start_ref": "19078064",
 "start_ref_usfm": "PSA 78:64",
 "end_ref": "19078064",
@@ -38342,17 +39950,17 @@
 "language": "eng"
 },
 {
-"reference_id": 148222,
-"content_id": 218749,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 8:4 (#7)",
-"language": "eng"
-},
-{
 "reference_id": 148216,
 "content_id": 218743,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 8:4 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 148222,
+"content_id": 218749,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 8:4 (#7)",
 "language": "eng"
 },
 {
@@ -38496,13 +40104,6 @@
 "language": "eng"
 },
 {
-"reference_id": 180147,
-"content_id": 273727,
-"resource_code": "UWTranslationNotes",
-"label": "Nehemiah 10:28 (#5)",
-"language": "eng"
-},
-{
 "reference_id": 180146,
 "content_id": 273726,
 "resource_code": "UWTranslationNotes",
@@ -38521,6 +40122,13 @@
 "content_id": 273729,
 "resource_code": "UWTranslationNotes",
 "label": "Nehemiah 10:28 (#7)",
+"language": "eng"
+},
+{
+"reference_id": 180147,
+"content_id": 273727,
+"resource_code": "UWTranslationNotes",
+"label": "Nehemiah 10:28 (#5)",
 "language": "eng"
 },
 {
@@ -38830,6 +40438,24 @@
 "end_ref_usfm": "DAN 12:1"
 },
 {
+"start_ref": "21010007",
+"start_ref_usfm": "ECC 10:7",
+"end_ref": "21010007",
+"end_ref_usfm": "ECC 10:7"
+},
+{
+"start_ref": "21010016",
+"start_ref_usfm": "ECC 10:16",
+"end_ref": "21010016",
+"end_ref_usfm": "ECC 10:16"
+},
+{
+"start_ref": "21010017",
+"start_ref_usfm": "ECC 10:17",
+"end_ref": "21010017",
+"end_ref_usfm": "ECC 10:17"
+},
+{
 "start_ref": "01012015",
 "start_ref_usfm": "GEN 12:15",
 "end_ref": "01012015",
@@ -38960,6 +40586,90 @@
 "start_ref_usfm": "MIC 5:5",
 "end_ref": "33005005",
 "end_ref_usfm": "MIC 5:5"
+},
+{
+"start_ref": "04021018",
+"start_ref_usfm": "NUM 21:18",
+"end_ref": "04021018",
+"end_ref_usfm": "NUM 21:18"
+},
+{
+"start_ref": "04022008",
+"start_ref_usfm": "NUM 22:8",
+"end_ref": "04022008",
+"end_ref_usfm": "NUM 22:8"
+},
+{
+"start_ref": "04022013",
+"start_ref_usfm": "NUM 22:13",
+"end_ref": "04022013",
+"end_ref_usfm": "NUM 22:13"
+},
+{
+"start_ref": "04022014",
+"start_ref_usfm": "NUM 22:14",
+"end_ref": "04022014",
+"end_ref_usfm": "NUM 22:14"
+},
+{
+"start_ref": "04022015",
+"start_ref_usfm": "NUM 22:15",
+"end_ref": "04022015",
+"end_ref_usfm": "NUM 22:15"
+},
+{
+"start_ref": "04022021",
+"start_ref_usfm": "NUM 22:21",
+"end_ref": "04022021",
+"end_ref_usfm": "NUM 22:21"
+},
+{
+"start_ref": "04022035",
+"start_ref_usfm": "NUM 22:35",
+"end_ref": "04022035",
+"end_ref_usfm": "NUM 22:35"
+},
+{
+"start_ref": "04022040",
+"start_ref_usfm": "NUM 22:40",
+"end_ref": "04022040",
+"end_ref_usfm": "NUM 22:40"
+},
+{
+"start_ref": "04023006",
+"start_ref_usfm": "NUM 23:6",
+"end_ref": "04023006",
+"end_ref_usfm": "NUM 23:6"
+},
+{
+"start_ref": "04023017",
+"start_ref_usfm": "NUM 23:17",
+"end_ref": "04023017",
+"end_ref_usfm": "NUM 23:17"
+},
+{
+"start_ref": "04031014",
+"start_ref_usfm": "NUM 31:14",
+"end_ref": "04031014",
+"end_ref_usfm": "NUM 31:14"
+},
+{
+"start_ref": "04031048",
+"start_ref_usfm": "NUM 31:48",
+"end_ref": "04031048",
+"end_ref_usfm": "NUM 31:48"
+},
+{
+"start_ref": "04031052",
+"start_ref_usfm": "NUM 31:52",
+"end_ref": "04031052",
+"end_ref_usfm": "NUM 31:52"
+},
+{
+"start_ref": "04031054",
+"start_ref_usfm": "NUM 31:54",
+"end_ref": "04031054",
+"end_ref_usfm": "NUM 31:54"
 },
 {
 "start_ref": "20008016",
@@ -39546,13 +41256,6 @@
 "language": "eng"
 },
 {
-"reference_id": 157691,
-"content_id": 242950,
-"resource_code": "UWTranslationNotes",
-"label": "1 Corinthians 16:20 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 157692,
 "content_id": 242951,
 "resource_code": "UWTranslationNotes",
@@ -39571,6 +41274,13 @@
 "content_id": 242954,
 "resource_code": "UWTranslationNotes",
 "label": "1 Corinthians 16:20 (#5)",
+"language": "eng"
+},
+{
+"reference_id": 157691,
+"content_id": 242950,
+"resource_code": "UWTranslationNotes",
+"label": "1 Corinthians 16:20 (#1)",
 "language": "eng"
 },
 {
@@ -39926,6 +41636,18 @@
 "end_ref_usfm": "NEH 13:18"
 },
 {
+"start_ref": "04018032",
+"start_ref_usfm": "NUM 18:32",
+"end_ref": "04018032",
+"end_ref_usfm": "NUM 18:32"
+},
+{
+"start_ref": "04030002",
+"start_ref_usfm": "NUM 30:2",
+"end_ref": "04030002",
+"end_ref_usfm": "NUM 30:2"
+},
+{
 "start_ref": "19074007",
 "start_ref_usfm": "PSA 74:7",
 "end_ref": "19074007",
@@ -39966,12 +41688,6 @@
 "start_ref_usfm": "NUM 18:31",
 "end_ref": "04018031",
 "end_ref_usfm": "NUM 18:31"
-},
-{
-"start_ref": "04018032",
-"start_ref_usfm": "NUM 18:32",
-"end_ref": "04018032",
-"end_ref_usfm": "NUM 18:32"
 },
 {
 "start_ref": "26020009",
@@ -40263,6 +41979,97 @@
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 12:5 (#2)",
 "language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_rj40",
+"content_id": "en_tn_NUM_rj40",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:30 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_lc4s",
+"content_id": "en_tn_NUM_lc4s",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:30 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_elfe",
+"content_id": "en_tn_NUM_elfe",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:30 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_dwyz",
+"content_id": "en_tn_NUM_dwyz",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:30 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_i77d",
+"content_id": "en_tn_NUM_i77d",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:30 (#5)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_vyg4",
+"content_id": "en_tn_NUM_vyg4",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:30 (#6)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_vrkn",
+"content_id": "en_tn_NUM_vrkn",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:31 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_pl5z",
+"content_id": "en_tn_NUM_pl5z",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:31 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_job1",
+"content_id": "en_tn_NUM_job1",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:32 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_x0zt",
+"content_id": "en_tn_NUM_x0zt",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:32 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_mofj",
+"content_id": "en_tn_NUM_mofj",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:32 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_xv42",
+"content_id": "en_tn_NUM_xv42",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:32 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_qx0i",
+"content_id": "en_tn_NUM_qx0i",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 18:32 (#5)",
+"language": "eng"
 }
 ],
 "acai": []
@@ -40405,6 +42212,54 @@
 "start_ref_usfm": "ACT 20:20",
 "end_ref": "44020020",
 "end_ref_usfm": "ACT 20:20"
+},
+{
+"start_ref": "21001003",
+"start_ref_usfm": "ECC 1:3",
+"end_ref": "21001003",
+"end_ref_usfm": "ECC 1:3"
+},
+{
+"start_ref": "21002011",
+"start_ref_usfm": "ECC 2:11",
+"end_ref": "21002011",
+"end_ref_usfm": "ECC 2:11"
+},
+{
+"start_ref": "21002013",
+"start_ref_usfm": "ECC 2:13",
+"end_ref": "21002013",
+"end_ref_usfm": "ECC 2:13"
+},
+{
+"start_ref": "21003009",
+"start_ref_usfm": "ECC 3:9",
+"end_ref": "21003009",
+"end_ref_usfm": "ECC 3:9"
+},
+{
+"start_ref": "21005009",
+"start_ref_usfm": "ECC 5:9",
+"end_ref": "21005009",
+"end_ref_usfm": "ECC 5:9"
+},
+{
+"start_ref": "21005016",
+"start_ref_usfm": "ECC 5:16",
+"end_ref": "21005016",
+"end_ref_usfm": "ECC 5:16"
+},
+{
+"start_ref": "21010010",
+"start_ref_usfm": "ECC 10:10",
+"end_ref": "21010010",
+"end_ref_usfm": "ECC 10:10"
+},
+{
+"start_ref": "21010011",
+"start_ref_usfm": "ECC 10:11",
+"end_ref": "21010011",
+"end_ref_usfm": "ECC 10:11"
 },
 {
 "start_ref": "17003008",
@@ -41296,13 +43151,6 @@
 "language": "eng"
 },
 {
-"reference_id": 187481,
-"content_id": 391648,
-"resource_code": "UWTranslationNotes",
-"label": "Galatians 3:16 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 187486,
 "content_id": 391653,
 "resource_code": "UWTranslationNotes",
@@ -41314,6 +43162,13 @@
 "content_id": 391651,
 "resource_code": "UWTranslationNotes",
 "label": "Galatians 3:16 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 187481,
+"content_id": 391648,
+"resource_code": "UWTranslationNotes",
+"label": "Galatians 3:16 (#1)",
 "language": "eng"
 },
 {
@@ -41475,6 +43330,55 @@
 "content_id": 259836,
 "resource_code": "UWTranslationNotes",
 "label": "James 1:12 (#7)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_j36b",
+"content_id": "en_tn_NUM_j36b",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 30:2 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_qhjn",
+"content_id": "en_tn_NUM_qhjn",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 30:2 (#2)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_hunz",
+"content_id": "en_tn_NUM_hunz",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 30:2 (#3)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_nfgy",
+"content_id": "en_tn_NUM_nfgy",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 30:2 (#4)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_h9je",
+"content_id": "en_tn_NUM_h9je",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 30:2 (#5)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_zves",
+"content_id": "en_tn_NUM_zves",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 30:2 (#6)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_NUM_impk",
+"content_id": "en_tn_NUM_impk",
+"resource_code": "UWTranslationNotes",
+"label": "Numbers 30:2 (#7)",
 "language": "eng"
 }
 ],
@@ -43566,6 +45470,36 @@
 "end_ref_usfm": "NEH 9:32"
 },
 {
+"start_ref": "04011025",
+"start_ref_usfm": "NUM 11:25",
+"end_ref": "04011025",
+"end_ref_usfm": "NUM 11:25"
+},
+{
+"start_ref": "04011026",
+"start_ref_usfm": "NUM 11:26",
+"end_ref": "04011026",
+"end_ref_usfm": "NUM 11:26"
+},
+{
+"start_ref": "04011027",
+"start_ref_usfm": "NUM 11:27",
+"end_ref": "04011027",
+"end_ref_usfm": "NUM 11:27"
+},
+{
+"start_ref": "04011029",
+"start_ref_usfm": "NUM 11:29",
+"end_ref": "04011029",
+"end_ref_usfm": "NUM 11:29"
+},
+{
+"start_ref": "04012006",
+"start_ref_usfm": "NUM 12:6",
+"end_ref": "04012006",
+"end_ref_usfm": "NUM 12:6"
+},
+{
 "start_ref": "19051000",
 "start_ref_usfm": "PSA 51:0",
 "end_ref": "19051000",
@@ -44029,13 +45963,6 @@
 "language": "eng"
 },
 {
-"reference_id": 160852,
-"content_id": 246111,
-"resource_code": "UWTranslationNotes",
-"label": "1 Thessalonians 2:16 (#1)",
-"language": "eng"
-},
-{
 "reference_id": 160859,
 "content_id": 246118,
 "resource_code": "UWTranslationNotes",
@@ -44050,24 +45977,10 @@
 "language": "eng"
 },
 {
-"reference_id": 160857,
-"content_id": 246116,
-"resource_code": "UWTranslationNotes",
-"label": "1 Thessalonians 2:16 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 160854,
 "content_id": 246113,
 "resource_code": "UWTranslationNotes",
 "label": "1 Thessalonians 2:16 (#3)",
-"language": "eng"
-},
-{
-"reference_id": 160861,
-"content_id": 246120,
-"resource_code": "UWTranslationNotes",
-"label": "1 Thessalonians 2:16 (#10)",
 "language": "eng"
 },
 {
@@ -44078,10 +45991,31 @@
 "language": "eng"
 },
 {
+"reference_id": 160852,
+"content_id": 246111,
+"resource_code": "UWTranslationNotes",
+"label": "1 Thessalonians 2:16 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 160861,
+"content_id": 246120,
+"resource_code": "UWTranslationNotes",
+"label": "1 Thessalonians 2:16 (#10)",
+"language": "eng"
+},
+{
 "reference_id": 160858,
 "content_id": 246117,
 "resource_code": "UWTranslationNotes",
 "label": "1 Thessalonians 2:16 (#7)",
+"language": "eng"
+},
+{
+"reference_id": 160857,
+"content_id": 246116,
+"resource_code": "UWTranslationNotes",
+"label": "1 Thessalonians 2:16 (#6)",
 "language": "eng"
 },
 {
@@ -44750,6 +46684,18 @@
 "end_ref_usfm": "DEU 30:9"
 },
 {
+"start_ref": "21006006",
+"start_ref_usfm": "ECC 6:6",
+"end_ref": "21006006",
+"end_ref_usfm": "ECC 6:6"
+},
+{
+"start_ref": "21011006",
+"start_ref_usfm": "ECC 11:6",
+"end_ref": "21011006",
+"end_ref_usfm": "ECC 11:6"
+},
+{
 "start_ref": "15006014",
 "start_ref_usfm": "EZR 6:14",
 "end_ref": "15006014",
@@ -44880,6 +46826,18 @@
 "start_ref_usfm": "LAM 1:5",
 "end_ref": "25001005",
 "end_ref_usfm": "LAM 1:5"
+},
+{
+"start_ref": "04014041",
+"start_ref_usfm": "NUM 14:41",
+"end_ref": "04014041",
+"end_ref_usfm": "NUM 14:41"
+},
+{
+"start_ref": "04031009",
+"start_ref_usfm": "NUM 31:9",
+"end_ref": "04031009",
+"end_ref_usfm": "NUM 31:9"
 },
 {
 "start_ref": "20013022",
@@ -46140,6 +48098,36 @@
 "end_ref_usfm": "NEH 9:6"
 },
 {
+"start_ref": "04014005",
+"start_ref_usfm": "NUM 14:5",
+"end_ref": "04014005",
+"end_ref_usfm": "NUM 14:5"
+},
+{
+"start_ref": "04016004",
+"start_ref_usfm": "NUM 16:4",
+"end_ref": "04016004",
+"end_ref_usfm": "NUM 16:4"
+},
+{
+"start_ref": "04016022",
+"start_ref_usfm": "NUM 16:22",
+"end_ref": "04016022",
+"end_ref_usfm": "NUM 16:22"
+},
+{
+"start_ref": "04016045",
+"start_ref_usfm": "NUM 16:45",
+"end_ref": "04016045",
+"end_ref_usfm": "NUM 16:45"
+},
+{
+"start_ref": "04020006",
+"start_ref_usfm": "NUM 20:6",
+"end_ref": "04020006",
+"end_ref_usfm": "NUM 20:6"
+},
+{
 "start_ref": "19045011",
 "start_ref_usfm": "PSA 45:11",
 "end_ref": "19045011",
@@ -46871,6 +48859,18 @@
 "end_ref_usfm": "MRK 7:7"
 },
 {
+"start_ref": "04022031",
+"start_ref_usfm": "NUM 22:31",
+"end_ref": "04022031",
+"end_ref_usfm": "NUM 22:31"
+},
+{
+"start_ref": "04025002",
+"start_ref_usfm": "NUM 25:2",
+"end_ref": "04025002",
+"end_ref_usfm": "NUM 25:2"
+},
+{
 "start_ref": "19029002",
 "start_ref_usfm": "PSA 29:2",
 "end_ref": "19029002",
@@ -47342,20 +49342,6 @@
 "language": "eng"
 },
 {
-"reference_id": 147271,
-"content_id": 217798,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 2:2 (#2)",
-"language": "eng"
-},
-{
-"reference_id": 147275,
-"content_id": 217802,
-"resource_code": "UWTranslationNotes",
-"label": "Matthew 2:2 (#6)",
-"language": "eng"
-},
-{
 "reference_id": 147272,
 "content_id": 217799,
 "resource_code": "UWTranslationNotes",
@@ -47367,6 +49353,20 @@
 "content_id": 217800,
 "resource_code": "UWTranslationNotes",
 "label": "Matthew 2:2 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 147275,
+"content_id": 217802,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 2:2 (#6)",
+"language": "eng"
+},
+{
+"reference_id": 147271,
+"content_id": 217798,
+"resource_code": "UWTranslationNotes",
+"label": "Matthew 2:2 (#2)",
 "language": "eng"
 },
 {
@@ -47904,6 +49904,12 @@
 "end_ref_usfm": "DEU 28:37"
 },
 {
+"start_ref": "21012009",
+"start_ref_usfm": "ECC 12:9",
+"end_ref": "21012009",
+"end_ref_usfm": "ECC 12:9"
+},
+{
 "start_ref": "35002006",
 "start_ref_usfm": "HAB 2:6",
 "end_ref": "35002006",
@@ -48234,7 +50240,7 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"confidence": 0.809,
+"confidence": 0.8139,
 "match_method": "scored",
 "preferred_label": "Proverb"
 }
@@ -48318,6 +50324,18 @@
 "start_ref_usfm": "DAN 11:24",
 "end_ref": "27011024",
 "end_ref_usfm": "DAN 11:24"
+},
+{
+"start_ref": "21002008",
+"start_ref_usfm": "ECC 2:8",
+"end_ref": "21002008",
+"end_ref_usfm": "ECC 2:8"
+},
+{
+"start_ref": "21005008",
+"start_ref_usfm": "ECC 5:8",
+"end_ref": "21005008",
+"end_ref_usfm": "ECC 5:8"
 },
 {
 "start_ref": "17001001",
@@ -48530,12 +50548,6 @@
 "end_ref_usfm": "NEH 11:3"
 },
 {
-"start_ref": "21002008",
-"start_ref_usfm": "ECC 2:8",
-"end_ref": "21002008",
-"end_ref_usfm": "ECC 2:8"
-},
-{
 "start_ref": "27006002",
 "start_ref_usfm": "DAN 6:2",
 "end_ref": "27006002",
@@ -48645,6 +50657,20 @@
 "content_id": "en_tn_DAN_vu71",
 "resource_code": "UWTranslationNotes",
 "label": "Daniel 6:2 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_ECC_yawe",
+"content_id": "en_tn_ECC_yawe",
+"resource_code": "UWTranslationNotes",
+"label": "Ecclesiastes 2:8 (#1)",
+"language": "eng"
+},
+{
+"reference_id": "en_tn_ECC_q50g",
+"content_id": "en_tn_ECC_q50g",
+"resource_code": "UWTranslationNotes",
+"label": "Ecclesiastes 2:8 (#2)",
 "language": "eng"
 }
 ],
@@ -49757,10 +51783,10 @@
 "language": "eng"
 },
 {
-"reference_id": 159626,
-"content_id": 244885,
+"reference_id": 159629,
+"content_id": 244888,
 "resource_code": "UWTranslationNotes",
-"label": "Colossians 3:16 (#3)",
+"label": "Colossians 3:16 (#6)",
 "language": "eng"
 },
 {
@@ -49771,10 +51797,10 @@
 "language": "eng"
 },
 {
-"reference_id": 159629,
-"content_id": 244888,
+"reference_id": 159626,
+"content_id": 244885,
 "resource_code": "UWTranslationNotes",
-"label": "Colossians 3:16 (#6)",
+"label": "Colossians 3:16 (#3)",
 "language": "eng"
 },
 {
@@ -49971,6 +51997,12 @@
 "end_ref_usfm": "MAT 25:46"
 },
 {
+"start_ref": "04014018",
+"start_ref_usfm": "NUM 14:18",
+"end_ref": "04014018",
+"end_ref_usfm": "NUM 14:18"
+},
+{
 "start_ref": "19038001",
 "start_ref_usfm": "PSA 38:1",
 "end_ref": "19038001",
@@ -50093,13 +52125,6 @@
 "language": "eng"
 },
 {
-"reference_id": 163277,
-"content_id": 256857,
-"resource_code": "UWTranslationNotes",
-"label": "1 John 4:18 (#7)",
-"language": "eng"
-},
-{
 "reference_id": 163275,
 "content_id": 256855,
 "resource_code": "UWTranslationNotes",
@@ -50132,6 +52157,13 @@
 "content_id": 256854,
 "resource_code": "UWTranslationNotes",
 "label": "1 John 4:18 (#4)",
+"language": "eng"
+},
+{
+"reference_id": 163277,
+"content_id": 256857,
+"resource_code": "UWTranslationNotes",
+"label": "1 John 4:18 (#7)",
 "language": "eng"
 },
 {
@@ -50472,6 +52504,12 @@
 "start_ref_usfm": "DAN 12:10",
 "end_ref": "27012010",
 "end_ref_usfm": "DAN 12:10"
+},
+{
+"start_ref": "21009002",
+"start_ref_usfm": "ECC 9:2",
+"end_ref": "21009002",
+"end_ref_usfm": "ECC 9:2"
 },
 {
 "start_ref": "02025011",
@@ -50978,6 +53016,78 @@
 "end_ref_usfm": "NEH 13:30"
 },
 {
+"start_ref": "04006009",
+"start_ref_usfm": "NUM 6:9",
+"end_ref": "04006009",
+"end_ref_usfm": "NUM 6:9"
+},
+{
+"start_ref": "04008006",
+"start_ref_usfm": "NUM 8:6",
+"end_ref": "04008006",
+"end_ref_usfm": "NUM 8:6"
+},
+{
+"start_ref": "04008007",
+"start_ref_usfm": "NUM 8:7",
+"end_ref": "04008007",
+"end_ref_usfm": "NUM 8:7"
+},
+{
+"start_ref": "04008015",
+"start_ref_usfm": "NUM 8:15",
+"end_ref": "04008015",
+"end_ref_usfm": "NUM 8:15"
+},
+{
+"start_ref": "04008021",
+"start_ref_usfm": "NUM 8:21",
+"end_ref": "04008021",
+"end_ref_usfm": "NUM 8:21"
+},
+{
+"start_ref": "04019012",
+"start_ref_usfm": "NUM 19:12",
+"end_ref": "04019012",
+"end_ref_usfm": "NUM 19:12"
+},
+{
+"start_ref": "04019019",
+"start_ref_usfm": "NUM 19:19",
+"end_ref": "04019019",
+"end_ref_usfm": "NUM 19:19"
+},
+{
+"start_ref": "04019020",
+"start_ref_usfm": "NUM 19:20",
+"end_ref": "04019020",
+"end_ref_usfm": "NUM 19:20"
+},
+{
+"start_ref": "04031019",
+"start_ref_usfm": "NUM 31:19",
+"end_ref": "04031019",
+"end_ref_usfm": "NUM 31:19"
+},
+{
+"start_ref": "04031020",
+"start_ref_usfm": "NUM 31:20",
+"end_ref": "04031020",
+"end_ref_usfm": "NUM 31:20"
+},
+{
+"start_ref": "04031023",
+"start_ref_usfm": "NUM 31:23",
+"end_ref": "04031023",
+"end_ref_usfm": "NUM 31:23"
+},
+{
+"start_ref": "04031024",
+"start_ref_usfm": "NUM 31:24",
+"end_ref": "04031024",
+"end_ref_usfm": "NUM 31:24"
+},
+{
 "start_ref": "50001010",
 "start_ref_usfm": "PHP 1:10",
 "end_ref": "50001010",
@@ -51330,13 +53440,6 @@
 "language": "eng"
 },
 {
-"reference_id": 165335,
-"content_id": 258915,
-"resource_code": "UWTranslationNotes",
-"label": "Hebrews 9:14 (#3)",
-"language": "eng"
-},
-{
 "reference_id": 165333,
 "content_id": 258913,
 "resource_code": "UWTranslationNotes",
@@ -51351,10 +53454,10 @@
 "language": "eng"
 },
 {
-"reference_id": 165334,
-"content_id": 258914,
+"reference_id": 165339,
+"content_id": 258919,
 "resource_code": "UWTranslationNotes",
-"label": "Hebrews 9:14 (#2)",
+"label": "Hebrews 9:14 (#7)",
 "language": "eng"
 },
 {
@@ -51365,10 +53468,17 @@
 "language": "eng"
 },
 {
-"reference_id": 165339,
-"content_id": 258919,
+"reference_id": 165334,
+"content_id": 258914,
 "resource_code": "UWTranslationNotes",
-"label": "Hebrews 9:14 (#7)",
+"label": "Hebrews 9:14 (#2)",
+"language": "eng"
+},
+{
+"reference_id": 165335,
+"content_id": 258915,
+"resource_code": "UWTranslationNotes",
+"label": "Hebrews 9:14 (#3)",
 "language": "eng"
 },
 {
@@ -51435,20 +53545,6 @@
 "language": "eng"
 },
 {
-"reference_id": 165342,
-"content_id": 258922,
-"resource_code": "UWTranslationNotes",
-"label": "Hebrews 9:15 (#1)",
-"language": "eng"
-},
-{
-"reference_id": 165353,
-"content_id": 258933,
-"resource_code": "UWTranslationNotes",
-"label": "Hebrews 9:15 (#12)",
-"language": "eng"
-},
-{
 "reference_id": 165354,
 "content_id": 258934,
 "resource_code": "UWTranslationNotes",
@@ -51467,6 +53563,20 @@
 "content_id": 258926,
 "resource_code": "UWTranslationNotes",
 "label": "Hebrews 9:15 (#5)",
+"language": "eng"
+},
+{
+"reference_id": 165342,
+"content_id": 258922,
+"resource_code": "UWTranslationNotes",
+"label": "Hebrews 9:15 (#1)",
+"language": "eng"
+},
+{
+"reference_id": 165353,
+"content_id": 258933,
+"resource_code": "UWTranslationNotes",
+"label": "Hebrews 9:15 (#12)",
 "language": "eng"
 },
 {
@@ -51852,6 +53962,12 @@
 "start_ref_usfm": "MRK 15:20",
 "end_ref": "41015020",
 "end_ref_usfm": "MRK 15:20"
+},
+{
+"start_ref": "04004013",
+"start_ref_usfm": "NUM 4:13",
+"end_ref": "04004013",
+"end_ref_usfm": "NUM 4:13"
 },
 {
 "start_ref": "20031022",
