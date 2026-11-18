@@ -492,6 +492,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Caim"
+},
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "Caim"
 }
 ]
 }
@@ -737,6 +744,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "cajado"
+},
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.5635,
+"match_method": "scored",
+"preferred_label": "cetro"
 }
 ]
 }
@@ -2104,7 +2118,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6332,
+"confidence": 0.6323,
 "match_method": "scored",
 "preferred_label": "cananeus"
 }
@@ -26558,7 +26572,7 @@
 {
 "id": "realia:PerimiterCurtain",
 "type": "realia",
-"confidence": 0.6045,
+"confidence": 0.6102,
 "match_method": "scored",
 "preferred_label": "cortina do pátio"
 }
