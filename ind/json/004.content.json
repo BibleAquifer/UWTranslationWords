@@ -553,18 +553,18 @@
 "preferred_label": "sanobar"
 },
 {
-"id": "flora:Juniper",
-"type": "flora",
-"confidence": 0.5642,
-"match_method": "scored",
-"preferred_label": "sanobar Yunani"
-},
-{
 "id": "flora:Cypress",
 "type": "flora",
 "confidence": 0.5642,
 "match_method": "scored",
 "preferred_label": "sanobar"
+},
+{
+"id": "flora:Juniper",
+"type": "flora",
+"confidence": 0.5642,
+"match_method": "scored",
+"preferred_label": "sanobar Yunani"
 }
 ]
 }
@@ -702,18 +702,18 @@
 "preferred_label": "TUHAN"
 },
 {
-"id": "keyterm:Zealous",
-"type": "keyterm",
-"confidence": 0.5716,
-"match_method": "scored",
-"preferred_label": "iri hati"
-},
-{
 "id": "keyterm:Ardour",
 "type": "keyterm",
-"confidence": 0.5626,
+"confidence": 0.6115,
 "match_method": "scored",
 "preferred_label": "kecemburuan"
+},
+{
+"id": "keyterm:Zealous",
+"type": "keyterm",
+"confidence": 0.5849,
+"match_method": "scored",
+"preferred_label": "iri hati"
 }
 ]
 }

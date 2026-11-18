@@ -7964,7 +7964,7 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"confidence": 0.5924,
+"confidence": 0.6015,
 "match_method": "scored",
 "preferred_label": "kudus"
 }
@@ -8108,7 +8108,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.565,
+"confidence": 0.5627,
 "match_method": "scored",
 "preferred_label": "Yerusalem"
 }
@@ -8903,7 +8903,7 @@
 {
 "id": "group:Judah",
 "type": "group",
-"confidence": 0.7562,
+"confidence": 0.7595,
 "match_method": "scored",
 "preferred_label": "Suku Yehuda"
 }
@@ -9360,7 +9360,7 @@
 {
 "id": "place:JerichoValley",
 "type": "place",
-"confidence": 0.6077,
+"confidence": 0.6067,
 "match_method": "scored",
 "preferred_label": "Lembah Yerikho"
 }
@@ -20300,13 +20300,6 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Yudea"
-},
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 0.5523,
-"match_method": "scored",
-"preferred_label": "Yerusalem"
 }
 ]
 }
@@ -22051,6 +22044,13 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "content_id",
+"preferred_label": "Yusuf"
+},
+{
+"id": "person:Joseph.11",
+"type": "person",
+"confidence": 0.602,
+"match_method": "scored",
 "preferred_label": "Yusuf"
 }
 ]

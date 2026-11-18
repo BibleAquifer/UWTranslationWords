@@ -734,7 +734,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.9791,
+"confidence": 0.9797,
 "match_method": "scored",
 "preferred_label": "sabat"
 }
@@ -3952,9 +3952,16 @@
 {
 "id": "person:Shaul.2",
 "type": "person",
-"confidence": 0.553,
+"confidence": 0.5543,
 "match_method": "scored",
 "preferred_label": "Saul"
+},
+{
+"id": "group:Shaul",
+"type": "group",
+"confidence": 0.5518,
+"match_method": "scored",
+"preferred_label": "orang Saul"
 }
 ]
 }
@@ -5041,7 +5048,15 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Complete",
+"type": "keyterm",
+"confidence": 0.5932,
+"match_method": "scored",
+"preferred_label": "tidak bercela"
+}
+]
 }
 },
 {
@@ -12535,9 +12550,16 @@
 {
 "id": "place:Moreh",
 "type": "place",
-"confidence": 0.6074,
+"confidence": 0.6073,
 "match_method": "scored",
 "preferred_label": "Pohon Tarbantin More"
+},
+{
+"id": "group:Shechem",
+"type": "group",
+"confidence": 0.6073,
+"match_method": "scored",
+"preferred_label": "orang Sekhem"
 }
 ]
 }
@@ -13216,7 +13238,7 @@
 {
 "id": "group:Shimei",
 "type": "group",
-"confidence": 0.6167,
+"confidence": 0.616,
 "match_method": "scored",
 "preferred_label": "orang Simei"
 }
@@ -13400,7 +13422,7 @@
 {
 "id": "group:Simeon",
 "type": "group",
-"confidence": 0.7385,
+"confidence": 0.8057,
 "match_method": "scored",
 "preferred_label": "Suku Simeon"
 }

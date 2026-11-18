@@ -923,6 +923,13 @@
 "confidence": 1.0,
 "match_method": "content_id",
 "preferred_label": "Kain"
+},
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 0.6235,
+"match_method": "scored",
+"preferred_label": "Kain"
 }
 ]
 }
@@ -2728,7 +2735,7 @@
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6332,
+"confidence": 0.6323,
 "match_method": "scored",
 "preferred_label": "orang Kanaan"
 }
@@ -4884,7 +4891,7 @@
 {
 "id": "keyterm:Love",
 "type": "keyterm",
-"confidence": 0.7379,
+"confidence": 0.7383,
 "match_method": "scored",
 "preferred_label": "kasih"
 }
@@ -12970,7 +12977,7 @@
 {
 "id": "keyterm:Majesty",
 "type": "keyterm",
-"confidence": 0.6614,
+"confidence": 0.6668,
 "match_method": "scored",
 "preferred_label": "keagungan"
 }
@@ -14624,7 +14631,7 @@
 {
 "id": "keyterm:Kingdom",
 "type": "keyterm",
-"confidence": 0.6064,
+"confidence": 0.6056,
 "match_method": "scored",
 "preferred_label": "kerajaan"
 }
@@ -16686,7 +16693,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.815,
+"confidence": 0.7712,
 "match_method": "scored",
 "preferred_label": "makhluk bersayap"
 }
@@ -18537,7 +18544,7 @@
 {
 "id": "keyterm:Delight",
 "type": "keyterm",
-"confidence": 0.5661,
+"confidence": 0.5653,
 "match_method": "scored",
 "preferred_label": "kegembiraan"
 }
@@ -20904,7 +20911,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.7201,
+"confidence": 0.7247,
 "match_method": "scored",
 "preferred_label": "persembahan"
 }
@@ -21039,7 +21046,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6511,
+"confidence": 0.6805,
 "match_method": "scored",
 "preferred_label": "persembahan"
 }
@@ -21135,7 +21142,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6396,
+"confidence": 0.6485,
 "match_method": "scored",
 "preferred_label": "persembahan"
 }
@@ -21460,7 +21467,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.7071,
+"confidence": 0.7177,
 "match_method": "scored",
 "preferred_label": "persembahan"
 }
@@ -22313,7 +22320,7 @@
 {
 "id": "place:DungGate",
 "type": "place",
-"confidence": 0.5793,
+"confidence": 0.5717,
 "match_method": "scored",
 "preferred_label": "Pintu Gerbang Sampah"
 }
@@ -27837,7 +27844,7 @@
 {
 "id": "keyterm:InfectiousSkinDisease",
 "type": "keyterm",
-"confidence": 0.6579,
+"confidence": 0.6711,
 "match_method": "scored",
 "preferred_label": "penyakit kulit menular"
 }
